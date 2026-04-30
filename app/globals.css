@@ -1018,6 +1018,9 @@ footer {
   .cta-card { padding: 40px 24px; }
   .prozess { padding: 44px 24px; }
   .contact-form { padding: 28px; }
+  .nav-shell { width: calc(100% - 32px); top: 10px; }
+  .nav { padding: 8px 12px 8px 16px; gap: 12px; }
+  .nav-cta { display: none; }
 }
 @media (max-width: 500px) {
   .value-grid { grid-template-columns: 1fr; }
