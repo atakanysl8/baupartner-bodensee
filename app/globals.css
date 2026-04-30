@@ -806,12 +806,9 @@ section { padding: 100px 0; }
 }
 @media (max-width: 768px) {
   .stats-grid { grid-template-columns: 1fr 1fr; }
-  .stat-item:nth-child(2) .stat-divider,
-  .stat-item:nth-child(4) .stat-divider { display: none; }
+  .stat-divider { display: none; }
   .stat-item:nth-child(3),
-  .stat-item:nth-child(4) {
-    border-top: 1px solid rgba(255,255,255,0.1);
-  }
+  .stat-item:nth-child(4) { border-top: none; }
 }
 @media (max-width: 400px) {
   .stats-grid { grid-template-columns: 1fr 1fr; }
