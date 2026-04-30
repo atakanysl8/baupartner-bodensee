@@ -1,8 +1,8 @@
 # ─── Security Headers ─────────────────────────────────────────────────────────
 <IfModule mod_headers.c>
 
-  # HSTS: erzwingt HTTPS für 1 Jahr inkl. Subdomains
-  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+  # HSTS: erzwingt HTTPS für 1 Jahr inkl. Subdomains + Preload-Liste
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
 
   # Referrer-Policy: Domain wird nur an HTTPS-Ziele übermittelt
   Header always set Referrer-Policy "strict-origin-when-cross-origin"
@@ -20,12 +20,14 @@
   # Hinweis: unsafe-inline bei script-src und style-src ist nötig wegen
   # Framer Motion (inline styles) und dem JSON-LD-Block im Layout.
   Header always set Content-Security-Policy "\
-default-src 'self'; \
+default-src 'none'; \
 script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; \
 style-src 'self' 'unsafe-inline'; \
 img-src 'self' data: https://www.google-analytics.com https://www.googletagmanager.com; \
 connect-src 'self' https://www.google-analytics.com https://region1.google-analytics.com https://analytics.google.com; \
 font-src 'self'; \
+manifest-src 'self'; \
+frame-src 'none'; \
 object-src 'none'; \
 base-uri 'self'; \
 form-action 'self'; \
