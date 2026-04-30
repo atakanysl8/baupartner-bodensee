@@ -1019,8 +1019,10 @@ footer {
   .prozess { padding: 44px 24px; }
   .contact-form { padding: 28px; }
   .nav-shell { width: calc(100% - 32px); top: 10px; }
-  .nav { padding: 8px 12px 8px 16px; gap: 12px; }
-  .nav-cta { display: none; }
+  .nav { padding: 8px 10px 8px 12px; gap: 8px; }
+  .nav-cta { padding: 8px 14px; font-size: 13px; gap: 6px; }
+  .nav-cta-dot { width: 26px; height: 26px; }
+  .nav-logo img { height: 42px; }
 }
 @media (max-width: 500px) {
   .value-grid { grid-template-columns: 1fr; }
