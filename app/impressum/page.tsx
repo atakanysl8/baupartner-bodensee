@@ -5,7 +5,7 @@ import { useState, useEffect } from 'react'
 
 const fadeUp = {
   hidden: { opacity: 0, y: 24 },
-  show: { opacity: 1, y: 0, transition: { duration: 0.6, ease: [0.25, 0.1, 0.25, 1] } },
+  show: { opacity: 1, y: 0, transition: { duration: 0.6, ease: [0.25, 0.1, 0.25, 1] as [number, number, number, number] } },
 }
 const stagger = { hidden: {}, show: { transition: { staggerChildren: 0.08 } } }
 
@@ -72,7 +72,7 @@ function Nav() {
                     initial={{ opacity: 0, y: -6, scale: 0.97 }}
                     animate={{ opacity: 1, y: 0, scale: 1 }}
                     exit={{ opacity: 0, y: -6, scale: 0.97 }}
-                    transition={{ duration: 0.18, ease: [0.25, 0.1, 0.25, 1] }}
+                    transition={{ duration: 0.18, ease: [0.25, 0.1, 0.25, 1] as [number, number, number, number] }}
                   >
                     {leistungenItems.map((item, i) => (
                       <motion.a
