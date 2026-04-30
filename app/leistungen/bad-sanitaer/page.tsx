@@ -6,7 +6,7 @@ import Image from 'next/image'
 
 const fadeUp = {
   hidden: { opacity: 0, y: 28 },
-  show: { opacity: 1, y: 0, transition: { duration: 0.65, ease: [0.25, 0.1, 0.25, 1] as [number, number, number, number] } },
+  show: { opacity: 1, y: 0, transition: { duration: 0.65, ease: [0.25, 0.1, 0.25, 1] as const } },
 }
 const stagger = {
   hidden: {},
@@ -82,7 +82,7 @@ function Nav() {
                     initial={{ opacity: 0, y: -6, scale: 0.97 }}
                     animate={{ opacity: 1, y: 0, scale: 1 }}
                     exit={{ opacity: 0, y: -6, scale: 0.97 }}
-                    transition={{ duration: 0.18, ease: [0.25, 0.1, 0.25, 1] as [number, number, number, number] }}
+                    transition={{ duration: 0.18, ease: [0.25, 0.1, 0.25, 1] as const }}
                   >
                     {leistungenItems.map((item, i) => (
                       <motion.a
@@ -334,7 +334,7 @@ function Prozess() {
           initial={{ opacity: 0, y: 32 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, margin: '-80px' }}
-          transition={{ duration: 0.7, ease: [0.25, 0.1, 0.25, 1] as [number, number, number, number] }}
+          transition={{ duration: 0.7, ease: [0.25, 0.1, 0.25, 1] as const }}
         >
           <div className="prozess-head">
             <div>
@@ -470,7 +470,7 @@ function CTABand() {
           initial={{ opacity: 0, y: 32 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, margin: '-80px' }}
-          transition={{ duration: 0.7, ease: [0.25, 0.1, 0.25, 1] as [number, number, number, number] }}
+          transition={{ duration: 0.7, ease: [0.25, 0.1, 0.25, 1] as const }}
         >
           <div>
             <h2>Bereit für Ihr <em>Traumbad?</em></h2>
@@ -577,7 +577,7 @@ function FAQ() {
                     initial={{ height: 0, opacity: 0 }}
                     animate={{ height: 'auto', opacity: 1 }}
                     exit={{ height: 0, opacity: 0 }}
-                    transition={{ duration: 0.28, ease: [0.25, 0.1, 0.25, 1] as [number, number, number, number] }}
+                    transition={{ duration: 0.28, ease: [0.25, 0.1, 0.25, 1] as const }}
                   >
                     <p>{faq.a}</p>
                   </motion.div>
