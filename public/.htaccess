@@ -1,0 +1,48 @@
+# ─── Security Headers ─────────────────────────────────────────────────────────
+<IfModule mod_headers.c>
+
+  # HSTS: erzwingt HTTPS für 1 Jahr inkl. Subdomains
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+
+  # Referrer-Policy: Domain wird nur an HTTPS-Ziele übermittelt
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+
+  # Verhindert MIME-Type-Sniffing
+  Header always set X-Content-Type-Options "nosniff"
+
+  # Clickjacking-Schutz (Legacy-Ergänzung zu frame-ancestors)
+  Header always set X-Frame-Options "DENY"
+
+  # Permissions Policy: deaktiviert ungenutzte Browser-Features
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=()"
+
+  # Content Security Policy
+  # Hinweis: unsafe-inline bei script-src und style-src ist nötig wegen
+  # Framer Motion (inline styles) und dem JSON-LD-Block im Layout.
+  Header always set Content-Security-Policy "\
+default-src 'self'; \
+script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; \
+style-src 'self' 'unsafe-inline'; \
+img-src 'self' data: https://www.google-analytics.com https://www.googletagmanager.com; \
+connect-src 'self' https://www.google-analytics.com https://region1.google-analytics.com https://analytics.google.com; \
+font-src 'self'; \
+object-src 'none'; \
+base-uri 'self'; \
+form-action 'self'; \
+frame-ancestors 'none'; \
+upgrade-insecure-requests;"
+
+</IfModule>
+
+# ─── Statische Dateien: Caching ───────────────────────────────────────────────
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/html                "access plus 0 seconds"
+  ExpiresByType text/css                 "access plus 1 year"
+  ExpiresByType application/javascript   "access plus 1 year"
+  ExpiresByType image/png                "access plus 1 year"
+  ExpiresByType image/jpeg               "access plus 1 year"
+  ExpiresByType image/svg+xml            "access plus 1 year"
+  ExpiresByType image/webp               "access plus 1 year"
+  ExpiresByType font/woff2               "access plus 1 year"
+</IfModule>
