@@ -56,9 +56,9 @@ const localBusinessSchema = {
   email: 'info@bodensee-baupartner.de',
   address: {
     '@type': 'PostalAddress',
-    streetAddress: 'Musterstraße 1',
-    addressLocality: 'Tettnang',
-    postalCode: '88069',
+    streetAddress: 'Tulpenweg 1',
+    addressLocality: 'Überlingen',
+    postalCode: '88662',
     addressCountry: 'DE',
   },
   areaServed: [

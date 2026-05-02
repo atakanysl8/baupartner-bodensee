@@ -153,8 +153,8 @@ function ImpressumContent() {
             <p>
               <strong>Bodensee BauPartner GbR</strong><br />
               Luca-Matei Brezeanu &amp; Atakan Yigit<br />
-              Musterstraße 1<br />
-              88069 Tettnang<br />
+              Tulpenweg 1<br />
+              88662 Überlingen<br />
               Deutschland
             </p>
           </motion.div>
@@ -179,8 +179,8 @@ function ImpressumContent() {
             <h2>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
             <p>
               Luca-Matei Brezeanu &amp; Atakan Yigit<br />
-              Musterstraße 1<br />
-              88069 Tettnang
+              Tulpenweg 1<br />
+              88662 Überlingen
             </p>
           </motion.div>
 

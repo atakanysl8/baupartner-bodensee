@@ -157,7 +157,7 @@ function DatenschutzContent() {
               Verantwortlicher im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:<br /><br />
               <strong>Bodensee BauPartner GbR</strong><br />
               Luca-Matei Brezeanu &amp; Atakan Yigit<br />
-              Musterstraße 1, 88069 Tettnang<br />
+              Tulpenweg 1, 88662 Überlingen<br />
               Telefon: 0152 56311690<br />
               E-Mail: <a href="mailto:info@bodensee-baupartner.de">info@bodensee-baupartner.de</a>
             </p>
