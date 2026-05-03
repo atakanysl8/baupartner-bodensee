@@ -623,6 +623,8 @@ function Kontakt() {
   const [telefon, setTelefon] = useState('')
   const [dsg, setDsg] = useState(false)
   const [errors, setErrors] = useState<Record<string, string>>({})
+  const [sending, setSending] = useState(false)
+  const [sendError, setSendError] = useState(false)
 
   const toggleTyp = (v: string) =>
     setSelected(prev => prev.includes(v) ? prev.filter(x => x !== v) : [...prev, v])
@@ -641,10 +643,24 @@ function Kontakt() {
     return Object.keys(errs).length === 0
   }
 
-  const next = () => {
+  const next = async () => {
     if (!validate()) return
     if (step < 3) { setStep(s => s + 1); return }
-    setDone(true)
+    setSending(true)
+    setSendError(false)
+    try {
+      const res = await fetch('/api/contact', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ typ: selected, zeit, beschr, ort, budget, vorname, nachname, email, telefon }),
+      })
+      if (!res.ok) throw new Error()
+      setDone(true)
+    } catch {
+      setSendError(true)
+    } finally {
+      setSending(false)
+    }
   }
 
   const bars = [1, 2, 3]
@@ -848,11 +864,16 @@ function Kontakt() {
                     </motion.div>
                   </AnimatePresence>
 
+                  {sendError && (
+                    <div className="form-error-msg" style={{ marginBottom: 12 }}>
+                      Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut oder schreiben Sie uns direkt an info@bodensee-baupartner.de.
+                    </div>
+                  )}
                   <div className="form-actions">
                     <button
                       type="button"
                       className="form-back"
-                      disabled={step === 1}
+                      disabled={step === 1 || sending}
                       onClick={() => setStep(s => s - 1)}
                     >
                       <svg width="12" height="12" viewBox="0 0 12 12"><path d="M11 6H1m0 0l4-4M1 6l4 4" stroke="currentColor" fill="none" strokeWidth="1.4"/></svg>
@@ -862,13 +883,16 @@ function Kontakt() {
                       type="button"
                       className="btn btn-primary"
                       onClick={next}
-                      whileHover={{ y: -1 }}
-                      whileTap={{ scale: 0.97 }}
+                      disabled={sending}
+                      whileHover={sending ? {} : { y: -1 }}
+                      whileTap={sending ? {} : { scale: 0.97 }}
                     >
-                      {step === 3 ? 'Anfrage senden' : 'Weiter'}
-                      <span className="btn-dot">
-                        <svg width="10" height="10" viewBox="0 0 10 10"><path d="M1 5h8m0 0L6 2m3 3L6 8" stroke="currentColor" fill="none" strokeWidth="1.5" strokeLinecap="round"/></svg>
-                      </span>
+                      {sending ? 'Wird gesendet…' : step === 3 ? 'Anfrage senden' : 'Weiter'}
+                      {!sending && (
+                        <span className="btn-dot">
+                          <svg width="10" height="10" viewBox="0 0 10 10"><path d="M1 5h8m0 0L6 2m3 3L6 8" stroke="currentColor" fill="none" strokeWidth="1.5" strokeLinecap="round"/></svg>
+                        </span>
+                      )}
                     </motion.button>
                   </div>
                 </motion.div>
