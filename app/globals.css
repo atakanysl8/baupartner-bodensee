@@ -1422,31 +1422,24 @@ footer {
   color: rgba(255,255,255,0.4);
   position: relative;
 }
-.au-founders-profiles {
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
+.au-founders-portraits {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
   position: relative;
 }
-.au-founder {
+.au-founder-portrait-card {
   display: flex;
-  align-items: center;
-  gap: 16px;
+  flex-direction: column;
+  gap: 10px;
 }
-.au-founder-avatar {
-  width: 52px;
-  height: 52px;
-  border-radius: 12px;
-  background: rgba(255,255,255,0.1);
-  border: 1px solid rgba(255,255,255,0.16);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 14px;
-  font-weight: 700;
-  color: #fff;
-  letter-spacing: 0.04em;
-  flex-shrink: 0;
+.au-founder-portrait-img {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid rgba(255,255,255,0.12);
 }
 .au-founder-name {
   font-size: 16px;
@@ -1459,11 +1452,7 @@ footer {
   font-size: 13px;
   color: rgba(255,255,255,0.42);
 }
-.au-founders-sep {
-  height: 1px;
-  background: rgba(255,255,255,0.08);
-  margin-left: 68px;
-}
+.au-founders-sep { display: none; }
 .au-founders-stats {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

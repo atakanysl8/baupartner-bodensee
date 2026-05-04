@@ -257,25 +257,20 @@ function WerWirSind() {
                 <span className="bullet" style={{ background: 'rgba(255,255,255,0.3)', flexShrink: 0 }} />
                 Das Gründerteam
               </div>
-              <div className="au-founders-profiles">
-                <div className="au-founder">
-                  <div className="au-founder-avatar" style={{ padding: 0, overflow: 'hidden' }}>
-                    <Image src="/matei.jpeg" alt="Luca-Matei Brezeanu" width={48} height={48} style={{ objectFit: 'cover', objectPosition: 'center top', width: '100%', height: '100%' }} />
+              <div className="au-founders-portraits">
+                <div className="au-founder-portrait-card">
+                  <div className="au-founder-portrait-img">
+                    <Image src="/matei.jpeg" alt="Luca-Matei Brezeanu" fill style={{ objectFit: 'cover', objectPosition: 'center top' }} />
                   </div>
-                  <div>
-                    <div className="au-founder-name">Luca-Matei Brezeanu</div>
-                    <div className="au-founder-role">Mitgründer & Vermittlung</div>
-                  </div>
+                  <div className="au-founder-name">Luca-Matei Brezeanu</div>
+                  <div className="au-founder-role">Mitgründer & Vermittlung</div>
                 </div>
-                <div className="au-founders-sep" />
-                <div className="au-founder">
-                  <div className="au-founder-avatar" style={{ padding: 0, overflow: 'hidden' }}>
-                    <Image src="/atakan.jpeg" alt="Atakan Yigit" width={48} height={48} style={{ objectFit: 'cover', objectPosition: 'center top', width: '100%', height: '100%' }} />
+                <div className="au-founder-portrait-card">
+                  <div className="au-founder-portrait-img">
+                    <Image src="/atakan.jpeg" alt="Atakan Yigit" fill style={{ objectFit: 'cover', objectPosition: 'center top' }} />
                   </div>
-                  <div>
-                    <div className="au-founder-name">Atakan Yigit</div>
-                    <div className="au-founder-role">Mitgründer & Vermittlung</div>
-                  </div>
+                  <div className="au-founder-name">Atakan Yigit</div>
+                  <div className="au-founder-role">Mitgründer & Vermittlung</div>
                 </div>
               </div>
               <div className="au-founders-stats">
