@@ -490,12 +490,12 @@ function FinalCTA() {
                 </span>
               </motion.a>
               <motion.a
-                href="tel:+4915256311690"
+                href="tel:+4915752600306"
                 className="au-phone-link"
                 whileHover={{ x: 4 }}
               >
                 <svg width="18" height="18" viewBox="0 0 18 18" fill="none" stroke="currentColor" strokeWidth="1.4"><path d="M2 4c0-1 1-2 2-2h2l1 3-2 1c1 2 3 4 5 5l1-2 3 1v2c0 1-1 2-2 2-6 0-11-5-11-11z"/></svg>
-                0152 56311690
+                0157 52600306
               </motion.a>
             </div>
           </div>

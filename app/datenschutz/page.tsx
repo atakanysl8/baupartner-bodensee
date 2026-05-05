@@ -158,7 +158,7 @@ function DatenschutzContent() {
               <strong>Bodensee BauPartner GbR</strong><br />
               Luca-Matei Brezeanu &amp; Atakan Yigit<br />
               Tulpenweg 1, 88662 Überlingen<br />
-              Telefon: 0152 56311690<br />
+              Telefon: 0157 52600306<br />
               E-Mail: <a href="mailto:info@bodensee-baupartner.de">info@bodensee-baupartner.de</a>
             </p>
           </motion.div>

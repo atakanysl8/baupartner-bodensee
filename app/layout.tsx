@@ -52,7 +52,7 @@ const localBusinessSchema = {
   name: 'Bodensee BauPartner GbR',
   description: 'Bauvermittlung in der Bodenseeregion – geprüfte Handwerker & Baubetriebe für Hochbau, Tiefbau, Renovierung, Innenausbau & Bad.',
   url: 'https://www.bodensee-baupartner.de',
-  telephone: '+4915256311690',
+  telephone: '+4915752600306',
   email: 'info@bodensee-baupartner.de',
   address: {
     '@type': 'PostalAddress',

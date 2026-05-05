@@ -162,16 +162,16 @@ function ImpressumContent() {
           <motion.div variants={fadeUp} className="legal-block">
             <h2>Kontakt</h2>
             <p>
-              Telefon: <a href="tel:+4915256311690">0152 56311690</a><br />
+              Telefon: <a href="tel:+4915752600306">0157 52600306</a><br />
               E-Mail: <a href="mailto:info@bodensee-baupartner.de">info@bodensee-baupartner.de</a>
             </p>
           </motion.div>
 
           <motion.div variants={fadeUp} className="legal-block">
-            <h2>Umsatzsteuer-Identifikationsnummer</h2>
+            <h2>Umsatzsteuer</h2>
             <p>
-              Umsatzsteuer-Identifikationsnummer gemäß § 27a UStG:<br />
-              <strong>DE [BITTE ERGÄNZEN]</strong>
+              Gemäß § 19 UStG wird keine Umsatzsteuer berechnet (Kleinunternehmerregelung).
+              Eine Umsatzsteuer-Identifikationsnummer liegt nicht vor.
             </p>
           </motion.div>
 
