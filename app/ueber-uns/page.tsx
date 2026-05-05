@@ -259,16 +259,12 @@ function WerWirSind() {
               </div>
               <div className="au-founders-portraits">
                 <div className="au-founder-portrait-card">
-                  <div className="au-founder-portrait-img">
-                    <Image src="/matei.jpeg" alt="Luca-Matei Brezeanu" fill style={{ objectFit: 'cover', objectPosition: 'center top' }} />
-                  </div>
+                  <img src="/matei.jpeg" alt="Luca-Matei Brezeanu" className="au-founder-portrait-img" />
                   <div className="au-founder-name">Luca-Matei Brezeanu</div>
                   <div className="au-founder-role">Mitgründer & Vermittlung</div>
                 </div>
                 <div className="au-founder-portrait-card">
-                  <div className="au-founder-portrait-img">
-                    <Image src="/atakan.jpeg" alt="Atakan Yigit" fill style={{ objectFit: 'cover', objectPosition: 'center top' }} />
-                  </div>
+                  <img src="/atakan.jpeg" alt="Atakan Yigit" className="au-founder-portrait-img" />
                   <div className="au-founder-name">Atakan Yigit</div>
                   <div className="au-founder-role">Mitgründer & Vermittlung</div>
                 </div>

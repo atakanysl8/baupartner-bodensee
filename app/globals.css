@@ -1434,11 +1434,12 @@ footer {
   gap: 10px;
 }
 .au-founder-portrait-img {
-  position: relative;
   width: 100%;
-  aspect-ratio: 3 / 4;
+  height: 240px;
+  object-fit: cover;
+  object-position: center top;
   border-radius: 14px;
-  overflow: hidden;
+  display: block;
   border: 1px solid rgba(255,255,255,0.12);
 }
 .au-founder-name {
