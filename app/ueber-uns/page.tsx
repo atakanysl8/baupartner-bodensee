@@ -303,7 +303,7 @@ const ablaufSteps = [
   { num: '01', title: 'Anfrage senden', desc: 'Beschreiben Sie Ihr Vorhaben kurz – online oder per Telefon. Kein Aufwand, keine Verpflichtung.' },
   { num: '02', title: 'Persönliches Matching', desc: 'Wir wählen aus unserem geprüften Netzwerk gezielt den Fachbetrieb, der am besten zu Ihrem Projekt passt.' },
   { num: '03', title: 'Kontakt & Übergabe', desc: 'Wir stellen den Kontakt her und übergeben alle wichtigen Infos – damit der Betrieb sofort loslegen kann.' },
-  { num: '04', title: 'Ihr Projekt startet', desc: 'Der Fachbetrieb meldet sich direkt bei Ihnen. Regional, zuverlässig und in aller Regel innerhalb von 24 Stunden.' },
+  { num: '04', title: 'Betreuung & Abschluss', desc: 'Auch nach der Vermittlung bleiben wir Ihr Ansprechpartner und begleiten den sauberen Abschluss Ihres Projekts.' },
 ]
 
 function Ablauf() {

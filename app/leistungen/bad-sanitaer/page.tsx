@@ -322,7 +322,7 @@ const prozessSteps = [
   { num: '01', title: 'Badprojekt beschreiben', desc: 'Sie schildern uns Ihr Vorhaben — Badsanierung, Neubad, barrierefreier Umbau oder Gäste-WC — mit Größe, Wunschstil und Budget.' },
   { num: '02', title: 'Meisterbetrieb auswählen', desc: 'Wir wählen aus unserem geprüften Netzwerk den passenden Sanitär-Meisterbetrieb für Ihr Projekt in der Bodenseeregion aus.' },
   { num: '03', title: 'Kontakt herstellen', desc: 'Wir stellen den Kontakt zwischen Ihnen und dem Fachbetrieb her und übergeben alle relevanten Informationen zu Ihrem Badprojekt.' },
-  { num: '04', title: 'Besichtigung & Angebot', desc: 'Der Sanitärbetrieb kommt zur Besichtigung, bespricht alle Details vor Ort und unterbreitet Ihnen ein verbindliches Angebot — auf Wunsch als Festpreis.' },
+  { num: '04', title: 'Betreuung & Abschluss', desc: 'Auch nach der Vermittlung bleiben wir Ihr Ansprechpartner und begleiten den sauberen Abschluss Ihres Projekts.' },
 ]
 
 function Prozess() {

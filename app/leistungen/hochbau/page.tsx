@@ -328,7 +328,7 @@ const prozessSteps = [
   { num: '01', title: 'Projekt beschreiben', desc: 'Sie schildern uns kurz Ihr Hochbauvorhaben — Neubau, Anbau oder Aufstockung, Lage, Größe und Zeitplan. Per Formular oder Telefon.' },
   { num: '02', title: 'Partner auswählen', desc: 'Wir wählen aus unserem geprüften Netzwerk den passenden Hochbau-Fachbetrieb für Ihr konkretes Projekt und Ihre Region aus.' },
   { num: '03', title: 'Kontakt herstellen', desc: 'Wir stellen den Kontakt zwischen Ihnen und dem Fachbetrieb her und übergeben alle relevanten Projektinformationen.' },
-  { num: '04', title: 'Angebot & Start', desc: 'Der Fachbetrieb meldet sich direkt bei Ihnen, bespricht die Details und unterbreitet Ihnen ein verbindliches Angebot.' },
+  { num: '04', title: 'Betreuung & Abschluss', desc: 'Auch nach der Vermittlung bleiben wir Ihr Ansprechpartner und begleiten den sauberen Abschluss Ihres Projekts.' },
 ]
 
 function Prozess() {

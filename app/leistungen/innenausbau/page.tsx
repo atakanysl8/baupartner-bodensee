@@ -320,7 +320,7 @@ const prozessSteps = [
   { num: '01', title: 'Projekt beschreiben', desc: 'Sie schildern uns Ihr Innenausbauvorhaben — Trockenbau, Böden, Malerarbeiten oder Dachgeschossausbau — mit Raumgröße, Stil und Zeitplan.' },
   { num: '02', title: 'Spezialisten auswählen', desc: 'Je nach Gewerk wählen wir den passenden Innenausbau-Fachbetrieb aus unserem geprüften Netzwerk in der Bodenseeregion aus.' },
   { num: '03', title: 'Kontakt herstellen', desc: 'Wir stellen den Kontakt zwischen Ihnen und dem Fachbetrieb her und übergeben alle relevanten Projektinformationen — damit nichts zweimal erklärt werden muss.' },
-  { num: '04', title: 'Besichtigung & Angebot', desc: 'Der Innenausbau-Spezialist kommt vor Ort, bespricht alle Details und erstellt ein detailliertes, verbindliches Angebot für Ihr Projekt.' },
+  { num: '04', title: 'Betreuung & Abschluss', desc: 'Auch nach der Vermittlung bleiben wir Ihr Ansprechpartner und begleiten den sauberen Abschluss Ihres Projekts.' },
 ]
 
 function Prozess() {

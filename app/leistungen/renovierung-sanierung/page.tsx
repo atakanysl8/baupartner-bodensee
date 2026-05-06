@@ -321,7 +321,7 @@ const prozessSteps = [
   { num: '01', title: 'Sanierungsbedarf beschreiben', desc: 'Sie schildern uns Ihr Vorhaben — Komplettsanierung, energetische Modernisierung, Dach, Fassade oder Heizungsaustausch — mit Gebäudeart, Zustand und Ziel.' },
   { num: '02', title: 'Experten auswählen', desc: 'Wir wählen aus unserem Netzwerk den passenden Sanierungs-Fachbetrieb aus — mit Erfahrung in Ihrer Sanierungsart und idealerweise Fördermittelkenntnissen.' },
   { num: '03', title: 'Kontakt herstellen', desc: 'Wir stellen den Kontakt her und übergeben alle relevanten Informationen, damit der Fachbetrieb gut vorbereitet zu Ihnen kommt.' },
-  { num: '04', title: 'Beratung & Angebot', desc: 'Der Sanierungsexperte besichtigt Ihr Objekt, analysiert den Bedarf und erstellt ein verbindliches Angebot — inklusive Hinweisen zu möglichen Förderprogrammen.' },
+  { num: '04', title: 'Betreuung & Abschluss', desc: 'Auch nach der Vermittlung bleiben wir Ihr Ansprechpartner und begleiten den sauberen Abschluss Ihres Projekts.' },
 ]
 
 function Prozess() {

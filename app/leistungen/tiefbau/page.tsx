@@ -321,7 +321,7 @@ const prozessSteps = [
   { num: '01', title: 'Projekt beschreiben', desc: 'Sie schildern uns Ihr Tiefbauvorhaben — Erdarbeiten, Kanalbau, Fundamentierung oder Straßenbau — mit Lage, Umfang und gewünschtem Zeitplan.' },
   { num: '02', title: 'Partner auswählen', desc: 'Wir wählen aus unserem geprüften Netzwerk den passenden Tiefbau-Fachbetrieb für Ihr Projekt in der Bodenseeregion aus.' },
   { num: '03', title: 'Kontakt herstellen', desc: 'Wir stellen den Kontakt zwischen Ihnen und dem Fachbetrieb her und übergeben alle relevanten Projektinformationen.' },
-  { num: '04', title: 'Angebot & Start', desc: 'Der Tiefbau-Spezialist meldet sich direkt bei Ihnen, besichtigt bei Bedarf das Gelände und unterbreitet Ihnen ein verbindliches Angebot.' },
+  { num: '04', title: 'Betreuung & Abschluss', desc: 'Auch nach der Vermittlung bleiben wir Ihr Ansprechpartner und begleiten den sauberen Abschluss Ihres Projekts.' },
 ]
 
 function Prozess() {

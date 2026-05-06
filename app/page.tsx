@@ -497,7 +497,7 @@ const prozessSteps = [
   { num: '01', title: 'Beratung & Planung', desc: 'Gemeinsam klären wir Ihre Anforderungen, den Umfang und die technischen Möglichkeiten Ihres Projekts.' },
   { num: '02', title: 'Angebot & Kalkulation', desc: 'Sie erhalten ein detailliertes Leistungsverzeichnis mit transparenter, verbindlicher Kalkulation.' },
   { num: '03', title: 'Ausführung', desc: 'Unser erfahrenes Team setzt Ihr Projekt termingerecht und nach höchsten Qualitätsstandards um.' },
-  { num: '04', title: 'Abnahme & Übergabe', desc: 'Nach sorgfältiger Endkontrolle und gemeinsamer Abnahme übergeben wir Ihr fertiggestelltes Objekt.' },
+  { num: '04', title: 'Betreuung & Abschluss', desc: 'Auch nach der Vermittlung bleiben wir Ihr Ansprechpartner und begleiten den sauberen Abschluss Ihres Projekts.' },
 ]
 
 function Prozess() {
