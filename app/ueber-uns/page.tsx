@@ -186,7 +186,7 @@ function Hero() {
           </motion.h1>
 
           <motion.p className="au-hero-lead" variants={fadeUp}>
-            Hinter der Bodensee BauPartner GbR stehen echte Menschen mit einer klaren Mission: Wir machen Ihr Bauprojekt stressfrei, sicher und transparent – durch die Vermittlung der absolut besten Handwerker der Region.
+            Hinter der Bodensee BauPartner GbR stehen echte Menschen mit einer klaren Mission: Wir machen Ihr Bauprojekt stressfrei und transparent – durch die Vermittlung passender Handwerker aus der Region.
           </motion.p>
 
           <motion.div className="au-hero-badges" variants={fadeUp}>
@@ -301,7 +301,7 @@ function WerWirSind() {
 /* ── So läuft es ab ──────────────────────────────────────────────────────── */
 const ablaufSteps = [
   { num: '01', title: 'Anfrage senden', desc: 'Beschreiben Sie Ihr Vorhaben kurz – online oder per Telefon. Kein Aufwand, keine Verpflichtung.' },
-  { num: '02', title: 'Persönliches Matching', desc: 'Wir wählen aus unserem geprüften Netzwerk gezielt den Fachbetrieb, der am besten zu Ihrem Projekt passt.' },
+  { num: '02', title: 'Persönliches Matching', desc: 'Wir wählen aus unserem Netzwerk gezielt den Fachbetrieb, der am besten zu Ihrem Projekt passt.' },
   { num: '03', title: 'Kontakt & Übergabe', desc: 'Wir stellen den Kontakt her und übergeben alle wichtigen Infos – damit der Betrieb sofort loslegen kann.' },
   { num: '04', title: 'Betreuung & Abschluss', desc: 'Auch nach der Vermittlung bleiben wir Ihr Ansprechpartner und begleiten den sauberen Abschluss Ihres Projekts.' },
 ]
@@ -366,7 +366,7 @@ function Versprechen() {
           <div className="au-versprechen-text">
             <h2>Unser <em>100% Versprechen</em></h2>
             <p>
-              Wir mauern nicht selbst, aber wir geben 100% für Ihre erfolgreiche Vermittlung. Wir arbeiten ausschließlich mit Fachfirmen zusammen, deren Qualität wir kennen und denen wir unser eigenes Zuhause anvertrauen würden.
+              Wir mauern nicht selbst, aber wir geben unser Bestes für Ihre erfolgreiche Vermittlung. Wir arbeiten mit Fachfirmen aus unserem regionalen Netzwerk zusammen.
             </p>
           </div>
         </motion.div>
@@ -384,8 +384,8 @@ const trustItems = [
         <path d="M9 12l2 2 4-4" />
       </svg>
     ),
-    title: 'Strenge Partnerwahl',
-    desc: 'Wir vermitteln nicht jeden. Jedes Unternehmen in unserem Netzwerk am Bodensee wurde auf Zuverlässigkeit, Qualifikation und Meisterhaftigkeit geprüft.',
+    title: 'Regionales Partnernetzwerk',
+    desc: 'Wir vermitteln Ihnen Fachbetriebe aus unserem Netzwerk in der Bodenseeregion — passend zu Ihrem Projekt.',
   },
   {
     icon: (
@@ -537,7 +537,7 @@ function Footer() {
               <img src="/logo.png" alt="Bodensee BauPartner" style={{ height: 40, width: 'auto' }} />
             </div>
             <p className="footer-desc">
-              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit geprüften Fachbetrieben für Ihr Projekt.
+              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit Fachbetrieben aus unserem Netzwerk für Ihr Projekt.
             </p>
           </div>
           <div className="footer-col">

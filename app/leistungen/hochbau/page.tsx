@@ -194,7 +194,7 @@ function Hero() {
           </motion.p>
 
           <motion.p className="hb-hero-lead" variants={fadeUp}>
-            Wir nehmen Ihnen die aufwendige Handwerkersuche ab. Von der ersten Steinlegung bis zum geschlossenen Rohbau verbinden wir Sie mit zertifizierten Partnerbetrieben – für höchste Qualität und garantierte Termintreue.
+            Wir nehmen Ihnen die aufwendige Handwerkersuche ab. Von der ersten Steinlegung bis zum geschlossenen Rohbau verbinden wir Sie mit erfahrenen Partnerbetrieben aus unserem Netzwerk.
           </motion.p>
 
           <motion.div className="hero-ctas" variants={fadeUp}>
@@ -236,8 +236,8 @@ const serviceItems = [
       </svg>
     ),
     title: 'Rohbau',
-    desc: 'Geprüfte Fachbetriebe für präzisen Rohbau',
-    detail: 'Mauerwerk, Stahlbetonbau und Deckenkonstruktionen von spezialisierten Fachbetrieben, die höchste Qualitätsstandards und Termintreue garantieren.',
+    desc: 'Erfahrene Fachbetriebe für präzisen Rohbau',
+    detail: 'Mauerwerk, Stahlbetonbau und Deckenkonstruktionen von spezialisierten Fachbetrieben aus unserem Netzwerk.',
   },
   {
     icon: (
@@ -281,10 +281,10 @@ function Services() {
             <div className="eyebrow" style={{ marginBottom: 20 }}>
               <span className="bullet" /> Unsere Vermittlung
             </div>
-            <h2>Geprüfte Experten für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>jeden Hochbau</em>.</h2>
+            <h2>Erfahrene Partner für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>jeden Hochbau</em>.</h2>
           </motion.div>
           <motion.p className="head-desc" variants={fadeUp}>
-            Wir verbinden Sie mit zertifizierten Partnerbetrieben — regional, zuverlässig und passend zu Ihrem Projekt.
+            Wir verbinden Sie mit Partnerbetrieben aus unserem Netzwerk — regional und passend zu Ihrem Projekt.
           </motion.p>
         </motion.div>
 
@@ -326,7 +326,7 @@ function Services() {
 /* ── Prozess ─────────────────────────────────────────────────────────────── */
 const prozessSteps = [
   { num: '01', title: 'Projekt beschreiben', desc: 'Sie schildern uns kurz Ihr Hochbauvorhaben — Neubau, Anbau oder Aufstockung, Lage, Größe und Zeitplan. Per Formular oder Telefon.' },
-  { num: '02', title: 'Partner auswählen', desc: 'Wir wählen aus unserem geprüften Netzwerk den passenden Hochbau-Fachbetrieb für Ihr konkretes Projekt und Ihre Region aus.' },
+  { num: '02', title: 'Partner auswählen', desc: 'Wir wählen aus unserem Netzwerk den passenden Hochbau-Fachbetrieb für Ihr konkretes Projekt und Ihre Region aus.' },
   { num: '03', title: 'Kontakt herstellen', desc: 'Wir stellen den Kontakt zwischen Ihnen und dem Fachbetrieb her und übergeben alle relevanten Projektinformationen.' },
   { num: '04', title: 'Betreuung & Abschluss', desc: 'Auch nach der Vermittlung bleiben wir Ihr Ansprechpartner und begleiten den sauberen Abschluss Ihres Projekts.' },
 ]
@@ -384,8 +384,8 @@ const usps = [
         <path d="M9 12l2 2 4-4" />
       </svg>
     ),
-    title: 'Geprüfte Fachbetriebe',
-    desc: 'Alle Partnerbetriebe durchlaufen unsere Qualitätsprüfung — Zertifikate, Referenzen und Kundenbewertungen inklusive.',
+    title: 'Regionale Fachbetriebe',
+    desc: 'Wir vermitteln Ihnen Partnerbetriebe aus unserem Netzwerk in der Bodenseeregion.',
   },
   {
     icon: (
@@ -521,7 +521,7 @@ function CTABand() {
 const faqs = [
   {
     q: 'Was genau vermittelt Bodensee BauPartner im Hochbau?',
-    a: 'Wir vermitteln geprüfte Fachbetriebe für alle Hochbauleistungen: Neubauprojekte, Rohbau, Mauerwerk, Stahlbetonbau, Deckenkonstruktionen, Fassaden sowie Anbau und Aufstockung. Sie schildern uns Ihr Vorhaben – wir finden den passenden Betrieb in der Bodenseeregion.',
+    a: 'Wir vermitteln Fachbetriebe für alle Hochbauleistungen: Neubauprojekte, Rohbau, Mauerwerk, Stahlbetonbau, Deckenkonstruktionen, Fassaden sowie Anbau und Aufstockung. Sie schildern uns Ihr Vorhaben – wir finden den passenden Betrieb in der Bodenseeregion.',
   },
   {
     q: 'Wie lange dauert ein typischer Rohbau am Bodensee?',
@@ -606,14 +606,14 @@ function SeoText() {
           <div className="seo-block">
             <h2 className="seo-heading">Hochbau am Bodensee – Ihr Vermittler für Neubau & Rohbau</h2>
             <p className="seo-body">
-              Ein Hochbauprojekt am Bodensee ist eine der größten Investitionen im Leben. Ob Neubau, Rohbau oder Aufstockung – die Wahl des richtigen Fachbetriebs entscheidet über Qualität, Termine und Budget. Bodensee BauPartner übernimmt die aufwendige Suche für Sie: Wir vermitteln ausschließlich geprüfte Hochbaufirmen aus der Bodenseeregion, die wir persönlich kennen und deren Arbeit wir vertrauen.
+              Ein Hochbauprojekt am Bodensee ist eine der größten Investitionen im Leben. Ob Neubau, Rohbau oder Aufstockung – die Wahl des richtigen Fachbetriebs entscheidet über Qualität, Termine und Budget. Bodensee BauPartner übernimmt die aufwendige Suche für Sie: Wir vermitteln Hochbaufirmen aus unserem Netzwerk in der Bodenseeregion.
             </p>
           </div>
 
           <div className="seo-block">
-            <h2 className="seo-heading">Geprüfte Rohbaufirmen in der Bodenseeregion</h2>
+            <h2 className="seo-heading">Rohbaufirmen in der Bodenseeregion</h2>
             <p className="seo-body">
-              Der Rohbau bildet das Fundament jedes Hochbauprojekts – hier darf keine Kompromisse eingegangen werden. Unsere Partnerbetriebe für Rohbau am Bodensee verfügen über langjährige Erfahrung in Mauerwerk, Stahlbetonbau und Deckenkonstruktionen. Alle Unternehmen sind regional ansässig, kennen die lokalen Bauvorschriften und garantieren kurze Reaktionszeiten.
+              Der Rohbau bildet das Fundament jedes Hochbauprojekts – hier darf keine Kompromisse eingegangen werden. Unsere Partnerbetriebe für Rohbau am Bodensee verfügen über langjährige Erfahrung in Mauerwerk, Stahlbetonbau und Deckenkonstruktionen. Alle Unternehmen sind regional ansässig und kennen die lokalen Bauvorschriften – das bedeutet kurze Reaktionszeiten.
             </p>
           </div>
 
@@ -627,7 +627,7 @@ function SeoText() {
           <div className="seo-block">
             <h2 className="seo-heading">Hochbau-Vermittlung – so einfach geht's</h2>
             <p className="seo-body">
-              Projekt beschreiben, Partner erhalten, loslegen: Bodensee BauPartner macht die Handwerkersuche für Hochbauprojekte einfach und effizient. Statt stundenlanger Recherche erhalten Sie schnell einen geprüften Fachbetrieb aus Ihrer Region vermittelt. Unsere Vermittlung ist für Sie vollständig kostenlos – wir arbeiten ausschließlich mit Partnerbetrieben zusammen, die unsere Qualitätsstandards erfüllen.
+              Projekt beschreiben, Partner erhalten, loslegen: Bodensee BauPartner macht die Handwerkersuche für Hochbauprojekte einfach und effizient. Statt stundenlanger Recherche erhalten Sie schnell einen Fachbetrieb aus Ihrer Region vermittelt. Unsere Vermittlung ist für Sie vollständig kostenlos.
             </p>
           </div>
         </div>
@@ -652,7 +652,7 @@ function Footer() {
               <img src="/logo.png" alt="Bodensee BauPartner" style={{ height: 40, width: 'auto' }} />
             </div>
             <p className="footer-desc">
-              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit geprüften Fachbetrieben für Ihr Projekt.
+              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit Fachbetrieben aus unserem Netzwerk für Ihr Projekt.
             </p>
           </div>
           <div className="footer-col">

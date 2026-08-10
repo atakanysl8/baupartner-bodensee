@@ -219,7 +219,7 @@ const serviceItems = [
     ),
     title: 'Erdarbeiten',
     desc: 'Leistungsstarke Tiefbauer für schnelle Erdarbeiten',
-    detail: 'Wir vermitteln Spezialisten mit modernem Maschinenpark für Aushub, Planierarbeiten und Geländemodellierung — termingerecht und sauber ausgeführt.',
+    detail: 'Wir vermitteln Spezialisten mit modernem Maschinenpark für Aushub, Planierarbeiten und Geländemodellierung.',
   },
   {
     icon: (
@@ -242,8 +242,8 @@ const serviceItems = [
       </svg>
     ),
     title: 'Leitungen & Kanalisation',
-    desc: 'Zertifizierte Firmen für Leitungen & Kanalisation',
-    detail: 'Kanal-, Wasser- und Leitungsbau von zertifizierten Fachbetrieben — normgerecht, dauerhaft und koordiniert mit Behörden und Netzbetreibern.',
+    desc: 'Erfahrene Firmen für Leitungen & Kanalisation',
+    detail: 'Kanal-, Wasser- und Leitungsbau von erfahrenen Fachbetrieben — koordiniert mit Behörden und Netzbetreibern.',
   },
   {
     icon: (
@@ -254,8 +254,8 @@ const serviceItems = [
       </svg>
     ),
     title: 'Fundamente',
-    desc: 'Erfahrene Meisterbetriebe für stabile Fundamente',
-    detail: 'Streifenfundamente, Bodenplatten und Pfahlgründungen von erfahrenen Meisterbetrieben — die solide Basis für jede Bauweise.',
+    desc: 'Erfahrene Fachbetriebe für stabile Fundamente',
+    detail: 'Streifenfundamente, Bodenplatten und Pfahlgründungen von erfahrenen Fachbetrieben — die solide Basis für jede Bauweise.',
   },
 ]
 
@@ -274,10 +274,10 @@ function Services() {
             <div className="eyebrow" style={{ marginBottom: 20 }}>
               <span className="bullet" /> Unsere Vermittlung
             </div>
-            <h2>Geprüfte Experten für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>jeden Tiefbau</em>.</h2>
+            <h2>Erfahrene Partner für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>jeden Tiefbau</em>.</h2>
           </motion.div>
           <motion.p className="head-desc" variants={fadeUp}>
-            Wir verbinden Sie mit zertifizierten Tiefbau-Spezialisten — regional verwurzelt, professionell ausgerüstet und zuverlässig im Einsatz.
+            Wir verbinden Sie mit Tiefbau-Spezialisten aus unserem Netzwerk — regional verwurzelt und professionell ausgerüstet.
           </motion.p>
         </motion.div>
 
@@ -319,7 +319,7 @@ function Services() {
 /* ── Prozess ─────────────────────────────────────────────────────────────── */
 const prozessSteps = [
   { num: '01', title: 'Projekt beschreiben', desc: 'Sie schildern uns Ihr Tiefbauvorhaben — Erdarbeiten, Kanalbau, Fundamentierung oder Straßenbau — mit Lage, Umfang und gewünschtem Zeitplan.' },
-  { num: '02', title: 'Partner auswählen', desc: 'Wir wählen aus unserem geprüften Netzwerk den passenden Tiefbau-Fachbetrieb für Ihr Projekt in der Bodenseeregion aus.' },
+  { num: '02', title: 'Partner auswählen', desc: 'Wir wählen aus unserem Netzwerk den passenden Tiefbau-Fachbetrieb für Ihr Projekt in der Bodenseeregion aus.' },
   { num: '03', title: 'Kontakt herstellen', desc: 'Wir stellen den Kontakt zwischen Ihnen und dem Fachbetrieb her und übergeben alle relevanten Projektinformationen.' },
   { num: '04', title: 'Betreuung & Abschluss', desc: 'Auch nach der Vermittlung bleiben wir Ihr Ansprechpartner und begleiten den sauberen Abschluss Ihres Projekts.' },
 ]
@@ -399,8 +399,8 @@ const usps = [
         <path d="M9 12l2 2 4-4" />
       </svg>
     ),
-    title: 'Zuverlässige Bauausführung',
-    desc: 'Alle Partnerbetriebe sind geprüft, versichert und regional etabliert — für Tiefbauleistungen, auf die Sie sich verlassen können.',
+    title: 'Regionale Bauausführung',
+    desc: 'Alle Partnerbetriebe sind regional etabliert — für Tiefbauleistungen aus der Bodenseeregion.',
   },
 ]
 
@@ -423,7 +423,7 @@ function Warum() {
               <h2>Warum Bodensee <em>BauPartner?</em></h2>
             </motion.div>
             <motion.p className="hb-why-text" variants={fadeUp}>
-              Tiefbau verlangt Präzision und Verlässlichkeit. Ohne perfekte Erdarbeiten bleibt kein Haus stabil. Wir vernetzen Sie blitzschnell mit erfahrenen und geprüften Tiefbauern aus der Bodenseeregion.
+              Tiefbau verlangt Präzision. Ohne perfekte Erdarbeiten bleibt kein Haus stabil. Wir vernetzen Sie blitzschnell mit erfahrenen Tiefbauern aus der Bodenseeregion.
             </motion.p>
             <motion.a
               href="/#kontakt"
@@ -529,7 +529,7 @@ const faqs = [
   },
   {
     q: 'Wie läuft die Vermittlung eines Tiefbau-Betriebs ab?',
-    a: 'Sie beschreiben uns Ihr Vorhaben — Lage, Umfang und Zeitplan. Wir wählen den passenden geprüften Fachbetrieb aus, stellen den Kontakt her und übergeben alle Informationen. Den Rest klären Sie direkt mit dem Betrieb — schnell, kostenlos und unverbindlich.',
+    a: 'Sie beschreiben uns Ihr Vorhaben — Lage, Umfang und Zeitplan. Wir wählen den passenden Fachbetrieb aus, stellen den Kontakt her und übergeben alle Informationen. Den Rest klären Sie direkt mit dem Betrieb — schnell, kostenlos und unverbindlich.',
   },
   {
     q: 'Was kostet mich die Tiefbau-Vermittlung?',
@@ -600,9 +600,9 @@ function SeoText() {
       <div className="wrap">
         <div className="seo-grid">
           <div className="seo-block">
-            <h2 className="seo-heading">Tiefbau am Bodensee – Geprüfte Fachbetriebe vermitteln</h2>
+            <h2 className="seo-heading">Tiefbau am Bodensee – Fachbetriebe vermitteln</h2>
             <p className="seo-body">
-              Tiefbauarbeiten am Bodensee erfordern erfahrene Spezialisten, die mit dem regionalen Baugrund, den lokalen Vorschriften und den besonderen Anforderungen der Seenähe vertraut sind. Bodensee BauPartner vermittelt Ihnen geprüfte Tiefbau-Fachbetriebe aus der Region — für Erdarbeiten, Fundamentierung, Kanal- und Leitungsbau sowie Straßen- und Wegebau. Kostenlos und unverbindlich.
+              Tiefbauarbeiten am Bodensee erfordern erfahrene Spezialisten, die mit dem regionalen Baugrund, den lokalen Vorschriften und den besonderen Anforderungen der Seenähe vertraut sind. Bodensee BauPartner vermittelt Ihnen Tiefbau-Fachbetriebe aus der Region — für Erdarbeiten, Fundamentierung, Kanal- und Leitungsbau sowie Straßen- und Wegebau. Kostenlos und unverbindlich.
             </p>
           </div>
 
@@ -623,7 +623,7 @@ function SeoText() {
           <div className="seo-block">
             <h2 className="seo-heading">Tiefbau-Vermittlung – schnell, kostenlos, regional</h2>
             <p className="seo-body">
-              Statt stundenlanger Suche nach dem richtigen Tiefbaubetrieb erhalten Sie durch Bodensee BauPartner schnell einen geprüften Fachpartner aus Ihrer Region vermittelt. Unser Netzwerk umfasst spezialisierte Unternehmen für alle Tiefbauleistungen — von der einfachen Erdarbeit bis zum komplexen Infrastrukturprojekt. Ihre Anfrage ist kostenlos und unverbindlich.
+              Statt stundenlanger Suche nach dem richtigen Tiefbaubetrieb erhalten Sie durch Bodensee BauPartner schnell einen Fachpartner aus Ihrer Region vermittelt. Unser Netzwerk umfasst spezialisierte Unternehmen für alle Tiefbauleistungen — von der einfachen Erdarbeit bis zum komplexen Infrastrukturprojekt. Ihre Anfrage ist kostenlos und unverbindlich.
             </p>
           </div>
         </div>
@@ -648,7 +648,7 @@ function Footer() {
               <img src="/logo.png" alt="Bodensee BauPartner" style={{ height: 40, width: 'auto' }} />
             </div>
             <p className="footer-desc">
-              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit geprüften Fachbetrieben für Ihr Projekt.
+              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit Fachbetrieben aus unserem Netzwerk für Ihr Projekt.
             </p>
           </div>
           <div className="footer-col">

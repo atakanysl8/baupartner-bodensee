@@ -17,9 +17,9 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.bodensee-baupartner.de'),
-  title: 'Bodensee BauPartner – Geprüfte Baubetriebe am Bodensee vermitteln',
+  title: 'Bodensee BauPartner – Handwerker & Baubetriebe am Bodensee vermitteln',
   description:
-    'Bodensee BauPartner vermittelt geprüfte Handwerker & Baubetriebe in der Bodenseeregion – für Hochbau, Tiefbau, Renovierung, Innenausbau & Bad. Kostenlos & unverbindlich.',
+    'Bodensee BauPartner vermittelt Handwerker & Baubetriebe in der Bodenseeregion – für Hochbau, Tiefbau, Renovierung, Innenausbau & Bad. Kostenlos & unverbindlich.',
   keywords: [
     'Bauunternehmen Bodensee',
     'Handwerker Bodensee',
@@ -38,9 +38,9 @@ export const metadata: Metadata = {
   icons: { icon: '/favicon.png', apple: '/favicon.png' },
   robots: { index: true, follow: true },
   openGraph: {
-    title: 'Bodensee BauPartner – Geprüfte Baubetriebe am Bodensee',
+    title: 'Bodensee BauPartner – Handwerker & Baubetriebe am Bodensee',
     description:
-      'Wir vermitteln geprüfte Handwerker & Baubetriebe in der Bodenseeregion – kostenlos & unverbindlich.',
+      'Wir vermitteln Handwerker & Baubetriebe in der Bodenseeregion – kostenlos & unverbindlich.',
     locale: 'de_DE',
     type: 'website',
   },
@@ -50,7 +50,7 @@ const localBusinessSchema = {
   '@context': 'https://schema.org',
   '@type': 'LocalBusiness',
   name: 'Bodensee BauPartner GbR',
-  description: 'Bauvermittlung in der Bodenseeregion – geprüfte Handwerker & Baubetriebe für Hochbau, Tiefbau, Renovierung, Innenausbau & Bad.',
+  description: 'Bauvermittlung in der Bodenseeregion – Handwerker & Baubetriebe für Hochbau, Tiefbau, Renovierung, Innenausbau & Bad.',
   url: 'https://www.bodensee-baupartner.de',
   telephone: '+4915752600306',
   email: 'info@bodensee-baupartner.de',

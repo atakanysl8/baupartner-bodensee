@@ -218,7 +218,7 @@ const serviceItems = [
     ),
     title: 'Komplett- & Kernsanierung',
     desc: 'Erfahrene Profis für Komplett- & Kernsanierungen',
-    detail: 'Ob Kernsanierung eines Altbaus oder komplette Modernisierung — wir vermitteln erfahrene Generalunternehmer, die alle Gewerke koordinieren und termingerecht abliefern.',
+    detail: 'Ob Kernsanierung eines Altbaus oder komplette Modernisierung — wir vermitteln erfahrene Generalunternehmer, die alle Gewerke koordinieren.',
   },
   {
     icon: (
@@ -229,8 +229,8 @@ const serviceItems = [
       </svg>
     ),
     title: 'Energetische Sanierung',
-    desc: 'Zertifizierte Experten für energetisches Sanieren',
-    detail: 'Dämmung, neue Fenster und Heiztechnik — zertifizierte Fachbetriebe senken Ihren Energieverbrauch nachhaltig und helfen bei der Beantragung von Fördermitteln.',
+    desc: 'Erfahrene Partner für energetisches Sanieren',
+    detail: 'Dämmung, neue Fenster und Heiztechnik — Fachbetriebe aus unserem Netzwerk senken Ihren Energieverbrauch nachhaltig und helfen bei der Beantragung von Fördermitteln.',
   },
   {
     icon: (
@@ -274,10 +274,10 @@ function Services() {
             <div className="eyebrow" style={{ marginBottom: 20 }}>
               <span className="bullet" /> Unsere Vermittlung
             </div>
-            <h2>Geprüfte Experten für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>Ihre Sanierung</em>.</h2>
+            <h2>Erfahrene Partner für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>Ihre Sanierung</em>.</h2>
           </motion.div>
           <motion.p className="head-desc" variants={fadeUp}>
-            Wir verbinden Sie mit zertifizierten Sanierungs-Spezialisten — nachhaltig, fachgerecht und passend zu Ihrer Immobilie.
+            Wir verbinden Sie mit Sanierungs-Spezialisten aus unserem Netzwerk — passend zu Ihrer Immobilie.
           </motion.p>
         </motion.div>
 
@@ -615,14 +615,14 @@ function SeoText() {
           <div className="seo-block">
             <h2 className="seo-heading">Kernsanierung & Altbaumodernisierung in der Bodenseeregion</h2>
             <p className="seo-body">
-              Altbauten am Bodensee haben oft enormes Potenzial — mit der richtigen Sanierung werden sie zu modernen, energieeffizienten Wohngebäuden. Unsere Partnerbetriebe für Kernsanierungen und Altbaumodernisierungen koordinieren alle Gewerke, von der Elektroinstallation über neue Sanitäranlagen bis hin zu Dämmung und Innenausbau. Termingerecht, transparent und mit voller Gewährleistung.
+              Altbauten am Bodensee haben oft enormes Potenzial — mit der richtigen Sanierung werden sie zu modernen, energieeffizienten Wohngebäuden. Unsere Partnerbetriebe für Kernsanierungen und Altbaumodernisierungen koordinieren alle Gewerke, von der Elektroinstallation über neue Sanitäranlagen bis hin zu Dämmung und Innenausbau.
             </p>
           </div>
 
           <div className="seo-block">
             <h2 className="seo-heading">Heizungsaustausch & Dachsanierung Bodensee – Zukunftssicher investieren</h2>
             <p className="seo-body">
-              Wärmepumpe, Pelletheizung oder Fernwärme-Anschluss — der Heizungsaustausch ist eine der rentabelsten Sanierungsmaßnahmen überhaupt, besonders in Kombination mit staatlichen Förderungen. Gleiches gilt für die Dachsanierung: Ein neues Dach schützt die gesamte Bausubstanz und verbessert die Energiebilanz erheblich. Bodensee BauPartner vermittelt die richtigen Spezialisten — kostenlos, regional und geprüft.
+              Wärmepumpe, Pelletheizung oder Fernwärme-Anschluss — der Heizungsaustausch ist eine der rentabelsten Sanierungsmaßnahmen überhaupt, besonders in Kombination mit staatlichen Förderungen. Gleiches gilt für die Dachsanierung: Ein neues Dach schützt die gesamte Bausubstanz und verbessert die Energiebilanz erheblich. Bodensee BauPartner vermittelt die passenden Spezialisten — kostenlos und regional.
             </p>
           </div>
         </div>
@@ -647,7 +647,7 @@ function Footer() {
               <img src="/logo.png" alt="Bodensee BauPartner" style={{ height: 40, width: 'auto' }} />
             </div>
             <p className="footer-desc">
-              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit geprüften Fachbetrieben für Ihr Projekt.
+              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit Fachbetrieben aus unserem Netzwerk für Ihr Projekt.
             </p>
           </div>
           <div className="footer-col">

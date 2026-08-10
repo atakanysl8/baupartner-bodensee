@@ -188,7 +188,7 @@ function Hero() {
           </motion.p>
 
           <motion.p className="hb-hero-lead" variants={fadeUp}>
-            Vom funktionalen Umbau bis zur edlen Wellness-Oase: Wir vermitteln Ihnen die besten regionalen Installateure und Fliesenleger, die Ihr neues Bad termingerecht und absolut sauber realisieren.
+            Vom funktionalen Umbau bis zur edlen Wellness-Oase: Wir vermitteln Ihnen regionale Installateure und Fliesenleger aus unserem Netzwerk für Ihr neues Bad.
           </motion.p>
 
           <motion.div className="hero-ctas" variants={fadeUp}>
@@ -255,7 +255,7 @@ const serviceItems = [
       </svg>
     ),
     title: 'Gäste-WC',
-    desc: 'Geprüfte Handwerker für Ihr neues Gäste-WC',
+    desc: 'Erfahrene Handwerker für Ihr neues Gäste-WC',
     detail: 'Auch auf kleinem Raum entstehen mit den richtigen Handwerkern funktionale und stilvolle Gäste-WCs — schnell realisiert und auf Wunsch mit stilvollem Design.',
   },
 ]
@@ -275,10 +275,10 @@ function Services() {
             <div className="eyebrow" style={{ marginBottom: 20 }}>
               <span className="bullet" /> Unsere Vermittlung
             </div>
-            <h2>Geprüfte Experten für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>Ihr Traumbad</em>.</h2>
+            <h2>Erfahrene Partner für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>Ihr Traumbad</em>.</h2>
           </motion.div>
           <motion.p className="head-desc" variants={fadeUp}>
-            Wir verbinden Sie mit den besten Installateuren und Fliesenlegern der Region — für ein Bad, das begeistert.
+            Wir verbinden Sie mit Installateuren und Fliesenlegern aus unserem Netzwerk in der Region.
           </motion.p>
         </motion.div>
 
@@ -320,7 +320,7 @@ function Services() {
 /* ── Prozess ─────────────────────────────────────────────────────────────── */
 const prozessSteps = [
   { num: '01', title: 'Badprojekt beschreiben', desc: 'Sie schildern uns Ihr Vorhaben — Badsanierung, Neubad, barrierefreier Umbau oder Gäste-WC — mit Größe, Wunschstil und Budget.' },
-  { num: '02', title: 'Meisterbetrieb auswählen', desc: 'Wir wählen aus unserem geprüften Netzwerk den passenden Sanitär-Meisterbetrieb für Ihr Projekt in der Bodenseeregion aus.' },
+  { num: '02', title: 'Sanitärbetrieb auswählen', desc: 'Wir wählen aus unserem Netzwerk den passenden Sanitärbetrieb für Ihr Projekt in der Bodenseeregion aus.' },
   { num: '03', title: 'Kontakt herstellen', desc: 'Wir stellen den Kontakt zwischen Ihnen und dem Fachbetrieb her und übergeben alle relevanten Informationen zu Ihrem Badprojekt.' },
   { num: '04', title: 'Betreuung & Abschluss', desc: 'Auch nach der Vermittlung bleiben wir Ihr Ansprechpartner und begleiten den sauberen Abschluss Ihres Projekts.' },
 ]
@@ -378,8 +378,8 @@ const usps = [
         <path d="M9 12l2 2 4-4" />
       </svg>
     ),
-    title: 'Geprüfte Meisterbetriebe',
-    desc: 'Alle Partnerbetriebe sind Meisterbetriebe mit Nachweis — Qualität und Gewährleistung sind damit garantiert.',
+    title: 'Regionale Sanitärbetriebe',
+    desc: 'Wir vermitteln Ihnen Sanitärbetriebe aus unserem Netzwerk in der Bodenseeregion.',
   },
   {
     icon: (
@@ -475,7 +475,7 @@ function CTABand() {
           <div>
             <h2>Bereit für Ihr <em>Traumbad?</em></h2>
             <p className="cta-desc">
-              Beschreiben Sie uns Ihr Badprojekt — wir vermitteln Ihnen innerhalb eines Werktags den passenden Meisterbetrieb. Kostenlos und unverbindlich.
+              Beschreiben Sie uns Ihr Badprojekt — wir vermitteln Ihnen innerhalb eines Werktags den passenden Sanitärbetrieb. Kostenlos und unverbindlich.
             </p>
             <div className="cta-btns">
               <motion.a href="/#kontakt" className="btn btn-primary" whileHover={{ y: -2 }} whileTap={{ scale: 0.97 }}>
@@ -522,8 +522,8 @@ const faqs = [
     a: 'Die Kosten hängen stark von Größe, Materialwahl und Umfang der Arbeiten ab. Ein einfaches Standardbad startet ab ca. 8.000–12.000 €, ein hochwertiges Designbad kann deutlich mehr kosten. Unsere Partnerbetriebe erstellen Ihnen ein transparentes Angebot — auf Wunsch als Festpreis.',
   },
   {
-    q: 'Sind die vermittelten Sanitärbetriebe Meisterbetriebe?',
-    a: 'Ja. Wir arbeiten ausschließlich mit eingetragenen Sanitär-Meisterbetrieben zusammen. Das ist für uns Pflicht — denn nur Meisterbetriebe dürfen Installationsarbeiten an wasserführenden und gasführenden Leitungen rechtssicher und mit Gewährleistung ausführen.',
+    q: 'Welche Sanitärbetriebe vermitteln Sie?',
+    a: 'Wir vermitteln Sanitärbetriebe aus unserem Netzwerk in der Bodenseeregion. Für Installationsarbeiten an wasser- und gasführenden Leitungen gelten die gesetzlichen Vorgaben der Handwerksordnung, die der jeweils ausführende Betrieb einzuhalten hat.',
   },
   {
     q: 'Kann ich auch ein barrierefreies Bad umbauen lassen?',
@@ -600,28 +600,28 @@ function SeoText() {
           <div className="seo-block">
             <h2 className="seo-heading">Badezimmer renovieren am Bodensee – Ihr Vermittler für Bad & Sanitär</h2>
             <p className="seo-body">
-              Ein neues Badezimmer ist eines der wirkungsvollsten Wohnprojekte überhaupt — es steigert den Wohnkomfort, den Immobilienwert und die Lebensqualität spürbar. Bodensee BauPartner vermittelt Ihnen geprüfte Sanitär-Meisterbetriebe in der Bodenseeregion: für Badsanierungen, Neuinstallationen, barrierefreie Umbauten und Gäste-WCs. Kostenlos, unverbindlich und mit lokalem Know-how.
+              Ein neues Badezimmer ist eines der wirkungsvollsten Wohnprojekte überhaupt — es steigert den Wohnkomfort, den Immobilienwert und die Lebensqualität spürbar. Bodensee BauPartner vermittelt Ihnen Sanitärbetriebe aus unserem Netzwerk in der Bodenseeregion: für Badsanierungen, Neuinstallationen, barrierefreie Umbauten und Gäste-WCs. Kostenlos, unverbindlich und mit lokalem Know-how.
             </p>
           </div>
 
           <div className="seo-block">
-            <h2 className="seo-heading">Sanitär-Meisterbetriebe in Überlingen, Friedrichshafen & Konstanz</h2>
+            <h2 className="seo-heading">Sanitärbetriebe in Überlingen, Friedrichshafen & Konstanz</h2>
             <p className="seo-body">
-              Sanitärarbeiten sind handwerklich und rechtlich anspruchsvoll — Wasserschäden, fehlerhafte Installationen und mangelhafte Abdichtungen können teuer werden. Deshalb arbeiten wir ausschließlich mit eingetragenen Meisterbetrieben zusammen, die Installations- und Sanierungsarbeiten mit voller Gewährleistung ausführen. Unser Netzwerk umfasst zuverlässige Betriebe in der gesamten Bodenseeregion.
+              Sanitärarbeiten sind handwerklich und rechtlich anspruchsvoll — Wasserschäden, fehlerhafte Installationen und mangelhafte Abdichtungen können teuer werden. Für Installations- und Sanierungsarbeiten an wasserführenden Leitungen gelten die gesetzlichen Vorgaben der Handwerksordnung. Unser Netzwerk umfasst Betriebe in der gesamten Bodenseeregion.
             </p>
           </div>
 
           <div className="seo-block">
-            <h2 className="seo-heading">Barrierefreies Bad & Badsanierung Bodensee – Qualität die bleibt</h2>
+            <h2 className="seo-heading">Barrierefreies Bad & Badsanierung Bodensee</h2>
             <p className="seo-body">
-              Ob klassische Badsanierung, modernes Designbad oder barrierefreier Umbau mit bodengleicher Dusche und Haltegriffen — unsere Partnerbetriebe liefern Qualität, die langfristig Freude macht. Viele Umbauten sind zudem staatlich förderbar. Wir vermitteln Betriebe, die Sie dabei kompetent beraten und die Umsetzung sauber und termingerecht abwickeln.
+              Ob klassische Badsanierung, modernes Designbad oder barrierefreier Umbau mit bodengleicher Dusche und Haltegriffen — wir vermitteln Ihnen passende Sanitärbetriebe aus der Region. Viele Umbauten sind zudem staatlich förderbar. Die Betriebe beraten Sie zu Umsetzung und Ablauf Ihres Projekts.
             </p>
           </div>
 
           <div className="seo-block">
             <h2 className="seo-heading">Bad & Sanitär Vermittlung Bodensee – So einfach geht's</h2>
             <p className="seo-body">
-              Kein stundenlanger Vergleich von Handwerkern, keine unseriösen Angebote, keine Terminstress: Bodensee BauPartner übernimmt die Suche nach dem richtigen Sanitärbetrieb für Sie. Beschreiben Sie uns Ihr Badprojekt — wir vermitteln Ihnen schnell einen geprüften Meisterbetrieb aus der Region. Die Vermittlung ist für Sie vollständig kostenlos und unverbindlich.
+              Kein stundenlanger Vergleich von Handwerkern, keine unseriösen Angebote: Bodensee BauPartner übernimmt die Suche nach dem richtigen Sanitärbetrieb für Sie. Beschreiben Sie uns Ihr Badprojekt — wir vermitteln Ihnen schnell einen Sanitärbetrieb aus der Region. Die Vermittlung ist für Sie vollständig kostenlos und unverbindlich.
             </p>
           </div>
         </div>
@@ -646,7 +646,7 @@ function Footer() {
               <img src="/logo.png" alt="Bodensee BauPartner" style={{ height: 40, width: 'auto' }} />
             </div>
             <p className="footer-desc">
-              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit geprüften Fachbetrieben für Ihr Projekt.
+              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit Fachbetrieben aus unserem Netzwerk für Ihr Projekt.
             </p>
           </div>
           <div className="footer-col">

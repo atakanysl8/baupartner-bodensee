@@ -3,11 +3,11 @@ import type { Metadata } from 'next'
 export const metadata: Metadata = {
   title: 'Energetische Sanierung Bodensee – KfW Förderung & Kernsanierung | Bodensee BauPartner',
   description:
-    'Geprüfte Sanierungs-Fachbetriebe am Bodensee: Kernsanierung, Heizungsaustausch, Dämmung & KfW-Förderung. Kostenlose Vermittlung durch Bodensee BauPartner GbR.',
+    'Sanierungs-Fachbetriebe am Bodensee: Kernsanierung, Heizungsaustausch, Dämmung & KfW-Förderung. Kostenlose Vermittlung durch Bodensee BauPartner GbR.',
   openGraph: {
     title: 'Renovierung & Sanierung am Bodensee – Bodensee BauPartner',
     description:
-      'Wir vermitteln geprüfte Sanierungs-Fachbetriebe in der Bodenseeregion – kostenlos & unverbindlich.',
+      'Wir vermitteln Sanierungs-Fachbetriebe in der Bodenseeregion – kostenlos & unverbindlich.',
     locale: 'de_DE',
     type: 'website',
   },
