@@ -194,7 +194,7 @@ function Hero() {
           </motion.p>
 
           <motion.p className="hb-hero-lead" variants={fadeUp}>
-            Wir nehmen Ihnen die aufwendige Handwerkersuche ab. Von der ersten Steinlegung bis zum geschlossenen Rohbau verbinden wir Sie mit erfahrenen Partnerbetrieben aus unserem Netzwerk.
+            Wir nehmen Ihnen die aufwendige Handwerkersuche ab. Von der ersten Steinlegung bis zum geschlossenen Rohbau verbinden wir Sie mit erfahrenen Fachbetrieben aus der Region.
           </motion.p>
 
           <motion.div className="hero-ctas" variants={fadeUp}>
@@ -237,7 +237,7 @@ const serviceItems = [
     ),
     title: 'Rohbau',
     desc: 'Erfahrene Fachbetriebe für präzisen Rohbau',
-    detail: 'Mauerwerk, Stahlbetonbau und Deckenkonstruktionen von spezialisierten Fachbetrieben aus unserem Netzwerk.',
+    detail: 'Mauerwerk, Stahlbetonbau und Deckenkonstruktionen von spezialisierten Fachbetrieben aus der Region.',
   },
   {
     icon: (
@@ -284,7 +284,7 @@ function Services() {
             <h2>Erfahrene Partner für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>jeden Hochbau</em>.</h2>
           </motion.div>
           <motion.p className="head-desc" variants={fadeUp}>
-            Wir verbinden Sie mit Partnerbetrieben aus unserem Netzwerk — regional und passend zu Ihrem Projekt.
+            Wir verbinden Sie mit Fachbetrieben aus der Region — passend zu Ihrem Projekt.
           </motion.p>
         </motion.div>
 
@@ -326,7 +326,7 @@ function Services() {
 /* ── Prozess ─────────────────────────────────────────────────────────────── */
 const prozessSteps = [
   { num: '01', title: 'Projekt beschreiben', desc: 'Sie schildern uns kurz Ihr Hochbauvorhaben — Neubau, Anbau oder Aufstockung, Lage, Größe und Zeitplan. Per Formular oder Telefon.' },
-  { num: '02', title: 'Partner auswählen', desc: 'Wir wählen aus unserem Netzwerk den passenden Hochbau-Fachbetrieb für Ihr konkretes Projekt und Ihre Region aus.' },
+  { num: '02', title: 'Partner auswählen', desc: 'Wir wählen den passenden Hochbau-Fachbetrieb für Ihr konkretes Projekt und Ihre Region aus.' },
   { num: '03', title: 'Kontakt herstellen', desc: 'Wir stellen den Kontakt zwischen Ihnen und dem Fachbetrieb her und übergeben alle relevanten Projektinformationen.' },
   { num: '04', title: 'Betreuung & Abschluss', desc: 'Auch nach der Vermittlung bleiben wir Ihr Ansprechpartner und begleiten den sauberen Abschluss Ihres Projekts.' },
 ]
@@ -385,7 +385,7 @@ const usps = [
       </svg>
     ),
     title: 'Regionale Fachbetriebe',
-    desc: 'Wir vermitteln Ihnen Partnerbetriebe aus unserem Netzwerk in der Bodenseeregion.',
+    desc: 'Wir vermitteln Ihnen passende Fachbetriebe aus der Bodenseeregion.',
   },
   {
     icon: (
@@ -395,7 +395,7 @@ const usps = [
       </svg>
     ),
     title: 'Regionale Partner am Bodensee',
-    desc: 'Unser Netzwerk besteht aus lokalen Unternehmen der Region — kurze Wege, schnelle Reaktionszeiten, ortskundige Expertise.',
+    desc: 'Wir vermitteln lokale Unternehmen der Region — kurze Wege, schnelle Reaktionszeiten, ortskundige Expertise.',
   },
   {
     icon: (
@@ -525,7 +525,7 @@ const faqs = [
   },
   {
     q: 'Wie lange dauert ein typischer Rohbau am Bodensee?',
-    a: 'Die Dauer eines Rohbaus hängt stark von der Größe und Komplexität des Projekts ab. Ein Einfamilienhaus-Rohbau dauert in der Regel 8–16 Wochen. Unsere Partnerbetriebe geben Ihnen nach einer ersten Projektbeschreibung eine verlässliche Zeitschätzung.',
+    a: 'Die Dauer eines Rohbaus hängt stark von der Größe und Komplexität des Projekts ab. Ein Einfamilienhaus-Rohbau dauert in der Regel 8–16 Wochen. Die vermittelten Fachbetriebe geben Ihnen nach einer ersten Projektbeschreibung eine verlässliche Zeitschätzung.',
   },
   {
     q: 'Kann ich für einen Anbau oder eine Aufstockung anfragen?',
@@ -533,11 +533,11 @@ const faqs = [
   },
   {
     q: 'Brauche ich für einen Neubau eine Baugenehmigung?',
-    a: 'In der Regel ja. Für Neubauten, Anbauten und Aufstockungen ist in Baden-Württemberg eine Baugenehmigung erforderlich. Unsere Partnerbetriebe kennen die regionalen Vorschriften und unterstützen Sie bei der Vorbereitung der erforderlichen Unterlagen.',
+    a: 'In der Regel ja. Für Neubauten, Anbauten und Aufstockungen ist in Baden-Württemberg eine Baugenehmigung erforderlich. Die vermittelten Fachbetriebe kennen die regionalen Vorschriften und unterstützen Sie bei der Vorbereitung der erforderlichen Unterlagen.',
   },
   {
     q: 'Was kostet mich die Vermittlung eines Hochbau-Betriebs?',
-    a: 'Unsere Vermittlung ist für Sie vollständig kostenlos und unverbindlich. Wir finanzieren uns über unsere Partnerfirmen – Sie zahlen keinen Aufschlag und haben keinerlei Verpflichtung.',
+    a: 'Unsere Vermittlung ist für Sie vollständig kostenlos und unverbindlich. Wir finanzieren uns über eine Provision der vermittelten Fachbetriebe – Sie zahlen keinen Aufschlag und haben keinerlei Verpflichtung.',
   },
 ]
 
@@ -606,21 +606,21 @@ function SeoText() {
           <div className="seo-block">
             <h2 className="seo-heading">Hochbau am Bodensee – Ihr Vermittler für Neubau & Rohbau</h2>
             <p className="seo-body">
-              Ein Hochbauprojekt am Bodensee ist eine der größten Investitionen im Leben. Ob Neubau, Rohbau oder Aufstockung – die Wahl des richtigen Fachbetriebs entscheidet über Qualität, Termine und Budget. Bodensee BauPartner übernimmt die aufwendige Suche für Sie: Wir vermitteln Hochbaufirmen aus unserem Netzwerk in der Bodenseeregion.
+              Ein Hochbauprojekt am Bodensee ist eine der größten Investitionen im Leben. Ob Neubau, Rohbau oder Aufstockung – die Wahl des richtigen Fachbetriebs entscheidet über Qualität, Termine und Budget. Bodensee BauPartner übernimmt die aufwendige Suche für Sie: Wir vermitteln Hochbaufirmen aus der Bodenseeregion.
             </p>
           </div>
 
           <div className="seo-block">
             <h2 className="seo-heading">Rohbaufirmen in der Bodenseeregion</h2>
             <p className="seo-body">
-              Der Rohbau bildet das Fundament jedes Hochbauprojekts – hier darf keine Kompromisse eingegangen werden. Unsere Partnerbetriebe für Rohbau am Bodensee verfügen über langjährige Erfahrung in Mauerwerk, Stahlbetonbau und Deckenkonstruktionen. Alle Unternehmen sind regional ansässig und kennen die lokalen Bauvorschriften – das bedeutet kurze Reaktionszeiten.
+              Der Rohbau bildet das Fundament jedes Hochbauprojekts – hier darf keine Kompromisse eingegangen werden. Die von uns vermittelten Rohbau-Fachbetriebe am Bodensee verfügen über langjährige Erfahrung in Mauerwerk, Stahlbetonbau und Deckenkonstruktionen. Alle Unternehmen sind regional ansässig und kennen die lokalen Bauvorschriften – das bedeutet kurze Reaktionszeiten.
             </p>
           </div>
 
           <div className="seo-block">
             <h2 className="seo-heading">Neubau planen in Überlingen, Friedrichshafen & Konstanz</h2>
             <p className="seo-body">
-              Von Konstanz über Überlingen und Friedrichshafen bis Lindau – unser Netzwerk deckt die gesamte Bodenseeregion ab. Egal ob Einfamilienhaus, Doppelhaus oder Mehrfamilienhaus: Wir finden den passenden Hochbaubetrieb für Ihr Projekt. Beschreiben Sie uns Ihr Vorhaben, wir vermitteln den richtigen Partner – kostenlos und unverbindlich.
+              Von Konstanz über Überlingen und Friedrichshafen bis Lindau – wir vermitteln in der gesamten Bodenseeregion. Egal ob Einfamilienhaus, Doppelhaus oder Mehrfamilienhaus: Wir finden den passenden Hochbaubetrieb für Ihr Projekt. Beschreiben Sie uns Ihr Vorhaben, wir vermitteln den richtigen Partner – kostenlos und unverbindlich.
             </p>
           </div>
 
@@ -652,7 +652,7 @@ function Footer() {
               <img src="/logo.png" alt="Bodensee BauPartner" style={{ height: 40, width: 'auto' }} />
             </div>
             <p className="footer-desc">
-              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit Fachbetrieben aus unserem Netzwerk für Ihr Projekt.
+              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit passenden Fachbetrieben aus der Region für Ihr Projekt.
             </p>
           </div>
           <div className="footer-col">

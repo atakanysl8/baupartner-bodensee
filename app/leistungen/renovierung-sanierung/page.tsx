@@ -230,7 +230,7 @@ const serviceItems = [
     ),
     title: 'Energetische Sanierung',
     desc: 'Erfahrene Partner für energetisches Sanieren',
-    detail: 'Dämmung, neue Fenster und Heiztechnik — Fachbetriebe aus unserem Netzwerk senken Ihren Energieverbrauch nachhaltig und helfen bei der Beantragung von Fördermitteln.',
+    detail: 'Dämmung, neue Fenster und Heiztechnik — die vermittelten Fachbetriebe senken Ihren Energieverbrauch nachhaltig und helfen bei der Beantragung von Fördermitteln.',
   },
   {
     icon: (
@@ -277,7 +277,7 @@ function Services() {
             <h2>Erfahrene Partner für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>Ihre Sanierung</em>.</h2>
           </motion.div>
           <motion.p className="head-desc" variants={fadeUp}>
-            Wir verbinden Sie mit Sanierungs-Spezialisten aus unserem Netzwerk — passend zu Ihrer Immobilie.
+            Wir verbinden Sie mit Sanierungs-Spezialisten aus der Region — passend zu Ihrer Immobilie.
           </motion.p>
         </motion.div>
 
@@ -319,7 +319,7 @@ function Services() {
 /* ── Prozess ─────────────────────────────────────────────────────────────── */
 const prozessSteps = [
   { num: '01', title: 'Sanierungsbedarf beschreiben', desc: 'Sie schildern uns Ihr Vorhaben — Komplettsanierung, energetische Modernisierung, Dach, Fassade oder Heizungsaustausch — mit Gebäudeart, Zustand und Ziel.' },
-  { num: '02', title: 'Experten auswählen', desc: 'Wir wählen aus unserem Netzwerk den passenden Sanierungs-Fachbetrieb aus — mit Erfahrung in Ihrer Sanierungsart und idealerweise Fördermittelkenntnissen.' },
+  { num: '02', title: 'Experten auswählen', desc: 'Wir wählen den passenden Sanierungs-Fachbetrieb aus — mit Erfahrung in Ihrer Sanierungsart und idealerweise Fördermittelkenntnissen.' },
   { num: '03', title: 'Kontakt herstellen', desc: 'Wir stellen den Kontakt her und übergeben alle relevanten Informationen, damit der Fachbetrieb gut vorbereitet zu Ihnen kommt.' },
   { num: '04', title: 'Betreuung & Abschluss', desc: 'Auch nach der Vermittlung bleiben wir Ihr Ansprechpartner und begleiten den sauberen Abschluss Ihres Projekts.' },
 ]
@@ -516,7 +516,7 @@ function CTABand() {
 const faqs = [
   {
     q: 'Welche staatlichen Förderungen gibt es für Sanierungen am Bodensee?',
-    a: 'Für energetische Sanierungen stehen verschiedene Förderprogramme zur Verfügung: KfW-Bundesförderung für effiziente Gebäude (BEG), BAFA-Zuschüsse für Heizungsaustausch und Dämmmaßnahmen sowie ggf. Landesmittel in Baden-Württemberg. Unsere Partnerbetriebe kennen die aktuellen Programme und begleiten Sie bei der Antragstellung.',
+    a: 'Für energetische Sanierungen stehen verschiedene Förderprogramme zur Verfügung: KfW-Bundesförderung für effiziente Gebäude (BEG), BAFA-Zuschüsse für Heizungsaustausch und Dämmmaßnahmen sowie ggf. Landesmittel in Baden-Württemberg. Die vermittelten Fachbetriebe kennen die aktuellen Programme und begleiten Sie bei der Antragstellung.',
   },
   {
     q: 'Was ist eine Kernsanierung und wann lohnt sie sich?',
@@ -528,11 +528,11 @@ const faqs = [
   },
   {
     q: 'Können die vermittelten Betriebe bei KfW- und BAFA-Anträgen helfen?',
-    a: 'Ja. Viele unserer Partnerbetriebe sind als Energieeffizienz-Experten anerkannt oder arbeiten regelmäßig mit solchen zusammen. Für KfW-Förderungen ist ein zugelassener Energie-Effizienz-Experte (EEE) verpflichtend — wir achten darauf, dass Ihnen der richtige Betrieb vermittelt wird.',
+    a: 'Ja. Viele der vermittelten Fachbetriebe sind als Energieeffizienz-Experten anerkannt oder arbeiten regelmäßig mit solchen zusammen. Für KfW-Förderungen ist ein zugelassener Energie-Effizienz-Experte (EEE) verpflichtend — wir achten darauf, dass Ihnen der richtige Betrieb vermittelt wird.',
   },
   {
     q: 'Was kostet die Vermittlung eines Sanierungs-Fachbetriebs?',
-    a: 'Unsere Vermittlung ist für Sie vollständig kostenlos und unverbindlich. Wir finanzieren uns über unsere Partnerfirmen — Sie zahlen keinen Aufschlag auf das Handwerkerangebot und gehen keinerlei Verpflichtung ein.',
+    a: 'Unsere Vermittlung ist für Sie vollständig kostenlos und unverbindlich. Wir finanzieren uns über eine Provision der vermittelten Fachbetriebe — Sie zahlen keinen Aufschlag auf das Handwerkerangebot und gehen keinerlei Verpflichtung ein.',
   },
 ]
 
@@ -615,7 +615,7 @@ function SeoText() {
           <div className="seo-block">
             <h2 className="seo-heading">Kernsanierung & Altbaumodernisierung in der Bodenseeregion</h2>
             <p className="seo-body">
-              Altbauten am Bodensee haben oft enormes Potenzial — mit der richtigen Sanierung werden sie zu modernen, energieeffizienten Wohngebäuden. Unsere Partnerbetriebe für Kernsanierungen und Altbaumodernisierungen koordinieren alle Gewerke, von der Elektroinstallation über neue Sanitäranlagen bis hin zu Dämmung und Innenausbau.
+              Altbauten am Bodensee haben oft enormes Potenzial — mit der richtigen Sanierung werden sie zu modernen, energieeffizienten Wohngebäuden. Die von uns vermittelten Fachbetriebe für Kernsanierungen und Altbaumodernisierungen koordinieren alle Gewerke, von der Elektroinstallation über neue Sanitäranlagen bis hin zu Dämmung und Innenausbau.
             </p>
           </div>
 
@@ -647,7 +647,7 @@ function Footer() {
               <img src="/logo.png" alt="Bodensee BauPartner" style={{ height: 40, width: 'auto' }} />
             </div>
             <p className="footer-desc">
-              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit Fachbetrieben aus unserem Netzwerk für Ihr Projekt.
+              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit passenden Fachbetrieben aus der Region für Ihr Projekt.
             </p>
           </div>
           <div className="footer-col">

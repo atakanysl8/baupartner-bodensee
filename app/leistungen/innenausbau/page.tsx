@@ -276,7 +276,7 @@ function Services() {
             <h2>Erfahrene Partner für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>jeden Raum</em>.</h2>
           </motion.div>
           <motion.p className="head-desc" variants={fadeUp}>
-            Wir verbinden Sie mit Innenausbau-Handwerkern aus unserem Netzwerk in der Region.
+            Wir verbinden Sie mit Innenausbau-Handwerkern aus der Region.
           </motion.p>
         </motion.div>
 
@@ -318,7 +318,7 @@ function Services() {
 /* ── Prozess ─────────────────────────────────────────────────────────────── */
 const prozessSteps = [
   { num: '01', title: 'Projekt beschreiben', desc: 'Sie schildern uns Ihr Innenausbauvorhaben — Trockenbau, Böden, Malerarbeiten oder Dachgeschossausbau — mit Raumgröße, Stil und Zeitplan.' },
-  { num: '02', title: 'Spezialisten auswählen', desc: 'Je nach Gewerk wählen wir den passenden Innenausbau-Fachbetrieb aus unserem Netzwerk in der Bodenseeregion aus.' },
+  { num: '02', title: 'Spezialisten auswählen', desc: 'Je nach Gewerk wählen wir den passenden Innenausbau-Fachbetrieb aus der Bodenseeregion aus.' },
   { num: '03', title: 'Kontakt herstellen', desc: 'Wir stellen den Kontakt zwischen Ihnen und dem Fachbetrieb her und übergeben alle relevanten Projektinformationen — damit nichts zweimal erklärt werden muss.' },
   { num: '04', title: 'Betreuung & Abschluss', desc: 'Auch nach der Vermittlung bleiben wir Ihr Ansprechpartner und begleiten den sauberen Abschluss Ihres Projekts.' },
 ]
@@ -377,7 +377,7 @@ const usps = [
       </svg>
     ),
     title: 'Vermittlung aller Innengewerke',
-    desc: 'Trockenbau, Malerarbeiten, Bodenbeläge, Elektro — wir haben für jedes Innengewerk die passenden Fachbetriebe in unserem Netzwerk.',
+    desc: 'Trockenbau, Malerarbeiten, Bodenbeläge, Elektro — wir finden für jedes Innengewerk den passenden Fachbetrieb.',
   },
   {
     icon: (
@@ -518,7 +518,7 @@ const faqs = [
   },
   {
     q: 'Wie lange dauert ein Dachgeschossausbau?',
-    a: 'Die Dauer hängt vom Zustand des Dachstuhls, der gewünschten Ausbaustufe und dem Umfang der Dämmarbeiten ab. Ein durchschnittlicher Dachgeschossausbau dauert zwischen 6 und 14 Wochen. Unsere Partnerbetriebe geben Ihnen nach einer ersten Besichtigung eine verbindliche Zeitplanung.',
+    a: 'Die Dauer hängt vom Zustand des Dachstuhls, der gewünschten Ausbaustufe und dem Umfang der Dämmarbeiten ab. Ein durchschnittlicher Dachgeschossausbau dauert zwischen 6 und 14 Wochen. Der vermittelte Fachbetrieb gibt Ihnen nach einer ersten Besichtigung eine verbindliche Zeitplanung.',
   },
   {
     q: 'Kann ich für mehrere Gewerke gleichzeitig anfragen — z. B. Boden und Maler?',
@@ -526,11 +526,11 @@ const faqs = [
   },
   {
     q: 'Was ist der Unterschied zwischen Parkett und Designboden?',
-    a: 'Parkett besteht aus echtem Holz und ist besonders langlebig, kann mehrfach abgeschliffen werden und wertet optisch stark auf. Designboden (LVT) ist günstiger, feuchtigkeitsbeständiger und einfacher zu verlegen — ideal für Küche, Bad oder Mietobjekte. Unsere Partnerbetriebe beraten Sie vor Ort zu den passenden Optionen für Ihre Anforderungen.',
+    a: 'Parkett besteht aus echtem Holz und ist besonders langlebig, kann mehrfach abgeschliffen werden und wertet optisch stark auf. Designboden (LVT) ist günstiger, feuchtigkeitsbeständiger und einfacher zu verlegen — ideal für Küche, Bad oder Mietobjekte. Der vermittelte Fachbetrieb berät Sie vor Ort zu den passenden Optionen für Ihre Anforderungen.',
   },
   {
     q: 'Was kostet die Innenausbau-Vermittlung?',
-    a: 'Unsere Vermittlung ist vollständig kostenlos und unverbindlich. Sie zahlen keinen Aufschlag auf das Handwerkerangebot. Wir finanzieren uns über die Partnerbetriebe in unserem Netzwerk.',
+    a: 'Unsere Vermittlung ist vollständig kostenlos und unverbindlich. Sie zahlen keinen Aufschlag auf das Handwerkerangebot. Wir finanzieren uns über eine Provision der vermittelten Fachbetriebe.',
   },
 ]
 
@@ -606,7 +606,7 @@ function SeoText() {
           <div className="seo-block">
             <h2 className="seo-heading">Trockenbau Bodensee – Neue Räume, neue Möglichkeiten</h2>
             <p className="seo-body">
-              Trockenbau ist die wirtschaftlichste Methode, um Grundrisse flexibel anzupassen: neue Wände ziehen, Dachschrägen verkleiden, Nischen gestalten oder Installationskanäle verbergen. Unsere Partnerbetriebe für Trockenbau am Bodensee arbeiten präzise, sauber und mit hochwertigen Materialien — von Konstantz bis Lindau. Wir finden den richtigen Betrieb für Ihre Raumidee.
+              Trockenbau ist die wirtschaftlichste Methode, um Grundrisse flexibel anzupassen: neue Wände ziehen, Dachschrägen verkleiden, Nischen gestalten oder Installationskanäle verbergen. Die von uns vermittelten Trockenbau-Fachbetriebe am Bodensee arbeiten präzise, sauber und mit hochwertigen Materialien — von Konstantz bis Lindau. Wir finden den richtigen Betrieb für Ihre Raumidee.
             </p>
           </div>
 
@@ -620,7 +620,7 @@ function SeoText() {
           <div className="seo-block">
             <h2 className="seo-heading">Dachgeschossausbau Bodensee – Ungenutzten Raum zu echtem Wohnraum machen</h2>
             <p className="seo-body">
-              Ein ausgebautes Dachgeschoss kann den Wohnraum erheblich vergrößern und den Immobilienwert deutlich steigern. Unsere Partnerbetriebe am Bodensee planen und realisieren den kompletten Dachausbau — von Dämmung und Dachfenstern über Trockenbau bis hin zu Boden und Anstrich, koordiniert aus einer Hand. Fragen Sie jetzt kostenlos an.
+              Ein ausgebautes Dachgeschoss kann den Wohnraum erheblich vergrößern und den Immobilienwert deutlich steigern. Die von uns vermittelten Fachbetriebe am Bodensee planen und realisieren den kompletten Dachausbau — von Dämmung und Dachfenstern über Trockenbau bis hin zu Boden und Anstrich, koordiniert aus einer Hand. Fragen Sie jetzt kostenlos an.
             </p>
           </div>
         </div>
@@ -645,7 +645,7 @@ function Footer() {
               <img src="/logo.png" alt="Bodensee BauPartner" style={{ height: 40, width: 'auto' }} />
             </div>
             <p className="footer-desc">
-              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit Fachbetrieben aus unserem Netzwerk für Ihr Projekt.
+              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit passenden Fachbetrieben aus der Region für Ihr Projekt.
             </p>
           </div>
           <div className="footer-col">

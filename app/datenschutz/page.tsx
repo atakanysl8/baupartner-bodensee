@@ -339,7 +339,7 @@ function Footer() {
               <img src="/logo.png" alt="Bodensee BauPartner" style={{ height: 40, width: 'auto' }} />
             </div>
             <p className="footer-desc">
-              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit Fachbetrieben aus unserem Netzwerk für Ihr Projekt.
+              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit passenden Fachbetrieben aus der Region für Ihr Projekt.
             </p>
           </div>
           <div className="footer-col">

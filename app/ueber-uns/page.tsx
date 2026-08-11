@@ -301,7 +301,7 @@ function WerWirSind() {
 /* ── So läuft es ab ──────────────────────────────────────────────────────── */
 const ablaufSteps = [
   { num: '01', title: 'Anfrage senden', desc: 'Beschreiben Sie Ihr Vorhaben kurz – online oder per Telefon. Kein Aufwand, keine Verpflichtung.' },
-  { num: '02', title: 'Persönliches Matching', desc: 'Wir wählen aus unserem Netzwerk gezielt den Fachbetrieb, der am besten zu Ihrem Projekt passt.' },
+  { num: '02', title: 'Persönliches Matching', desc: 'Wir suchen gezielt aus der Region den Fachbetrieb, der am besten zu Ihrem Projekt passt.' },
   { num: '03', title: 'Kontakt & Übergabe', desc: 'Wir stellen den Kontakt her und übergeben alle wichtigen Infos – damit der Betrieb sofort loslegen kann.' },
   { num: '04', title: 'Betreuung & Abschluss', desc: 'Auch nach der Vermittlung bleiben wir Ihr Ansprechpartner und begleiten den sauberen Abschluss Ihres Projekts.' },
 ]
@@ -366,7 +366,7 @@ function Versprechen() {
           <div className="au-versprechen-text">
             <h2>Unser <em>100% Versprechen</em></h2>
             <p>
-              Wir mauern nicht selbst, aber wir geben unser Bestes für Ihre erfolgreiche Vermittlung. Wir arbeiten mit Fachfirmen aus unserem regionalen Netzwerk zusammen.
+              Wir mauern nicht selbst, aber wir geben unser Bestes für Ihre erfolgreiche Vermittlung. Wir arbeiten mit Fachfirmen aus der Bodenseeregion zusammen.
             </p>
           </div>
         </motion.div>
@@ -384,8 +384,8 @@ const trustItems = [
         <path d="M9 12l2 2 4-4" />
       </svg>
     ),
-    title: 'Regionales Partnernetzwerk',
-    desc: 'Wir vermitteln Ihnen Fachbetriebe aus unserem Netzwerk in der Bodenseeregion — passend zu Ihrem Projekt.',
+    title: 'Regionale Fachbetriebe',
+    desc: 'Wir vermitteln Ihnen den passenden Fachbetrieb aus der Bodenseeregion für Ihr Projekt.',
   },
   {
     icon: (
@@ -475,7 +475,7 @@ function FinalCTA() {
             </div>
             <h2>Lernen Sie uns <em>unverbindlich kennen.</em></h2>
             <p className="au-cta-lead">
-              Ein kurzes Telefonat reicht, um herauszufinden, ob wir die richtigen Partner für Ihr Vorhaben in unserem Netzwerk haben. Komplett kostenfrei.
+              Ein kurzes Telefonat reicht, um herauszufinden, ob wir den richtigen Fachbetrieb für Ihr Vorhaben in der Region finden können. Komplett kostenfrei.
             </p>
             <div className="au-cta-actions">
               <motion.a
@@ -537,7 +537,7 @@ function Footer() {
               <img src="/logo.png" alt="Bodensee BauPartner" style={{ height: 40, width: 'auto' }} />
             </div>
             <p className="footer-desc">
-              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit Fachbetrieben aus unserem Netzwerk für Ihr Projekt.
+              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit passenden Fachbetrieben aus der Region für Ihr Projekt.
             </p>
           </div>
           <div className="footer-col">

@@ -277,7 +277,7 @@ function Services() {
             <h2>Erfahrene Partner für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>jeden Tiefbau</em>.</h2>
           </motion.div>
           <motion.p className="head-desc" variants={fadeUp}>
-            Wir verbinden Sie mit Tiefbau-Spezialisten aus unserem Netzwerk — regional verwurzelt und professionell ausgerüstet.
+            Wir verbinden Sie mit Tiefbau-Spezialisten aus der Region — regional verwurzelt und professionell ausgerüstet.
           </motion.p>
         </motion.div>
 
@@ -319,7 +319,7 @@ function Services() {
 /* ── Prozess ─────────────────────────────────────────────────────────────── */
 const prozessSteps = [
   { num: '01', title: 'Projekt beschreiben', desc: 'Sie schildern uns Ihr Tiefbauvorhaben — Erdarbeiten, Kanalbau, Fundamentierung oder Straßenbau — mit Lage, Umfang und gewünschtem Zeitplan.' },
-  { num: '02', title: 'Partner auswählen', desc: 'Wir wählen aus unserem Netzwerk den passenden Tiefbau-Fachbetrieb für Ihr Projekt in der Bodenseeregion aus.' },
+  { num: '02', title: 'Partner auswählen', desc: 'Wir suchen den passenden Tiefbau-Fachbetrieb für Ihr Projekt in der Bodenseeregion aus.' },
   { num: '03', title: 'Kontakt herstellen', desc: 'Wir stellen den Kontakt zwischen Ihnen und dem Fachbetrieb her und übergeben alle relevanten Projektinformationen.' },
   { num: '04', title: 'Betreuung & Abschluss', desc: 'Auch nach der Vermittlung bleiben wir Ihr Ansprechpartner und begleiten den sauberen Abschluss Ihres Projekts.' },
 ]
@@ -400,7 +400,7 @@ const usps = [
       </svg>
     ),
     title: 'Regionale Bauausführung',
-    desc: 'Alle Partnerbetriebe sind regional etabliert — für Tiefbauleistungen aus der Bodenseeregion.',
+    desc: 'Alle vermittelten Betriebe sind regional etabliert — für Tiefbauleistungen aus der Bodenseeregion.',
   },
 ]
 
@@ -521,11 +521,11 @@ const faqs = [
   },
   {
     q: 'Brauche ich für Tiefbauarbeiten eine Genehmigung?',
-    a: 'Das hängt von Art und Umfang der Arbeiten ab. Für Kanalbauarbeiten, Leitungsverlegungen und größere Erdarbeiten sind in der Regel Genehmigungen und Leitungsauskünfte erforderlich. Unsere Partnerbetriebe kennen die regionalen Vorschriften und begleiten Sie durch den Prozess.',
+    a: 'Das hängt von Art und Umfang der Arbeiten ab. Für Kanalbauarbeiten, Leitungsverlegungen und größere Erdarbeiten sind in der Regel Genehmigungen und Leitungsauskünfte erforderlich. Die vermittelten Fachbetriebe kennen die regionalen Vorschriften und begleiten Sie durch den Prozess.',
   },
   {
     q: 'Kann ich für dringende Tiefbauarbeiten — z. B. Kanalschaden — anfragen?',
-    a: 'Ja. Melden Sie sich direkt per Telefon, dann können wir schnellstmöglich einen geeigneten Betrieb aus unserem Netzwerk kontaktieren. Für Notfälle empfehlen wir den telefonischen Weg für eine schnellere Reaktion.',
+    a: 'Ja. Melden Sie sich direkt per Telefon, dann können wir schnellstmöglich einen geeigneten Betrieb aus der Region kontaktieren. Für Notfälle empfehlen wir den telefonischen Weg für eine schnellere Reaktion.',
   },
   {
     q: 'Wie läuft die Vermittlung eines Tiefbau-Betriebs ab?',
@@ -533,7 +533,7 @@ const faqs = [
   },
   {
     q: 'Was kostet mich die Tiefbau-Vermittlung?',
-    a: 'Unsere Vermittlung ist für Sie vollständig kostenlos und unverbindlich. Wir finanzieren uns über unsere Partnerfirmen — Sie zahlen keinen Aufschlag und gehen keinerlei Verpflichtung ein.',
+    a: 'Unsere Vermittlung ist für Sie vollständig kostenlos und unverbindlich. Wir finanzieren uns über eine Provision der vermittelten Fachbetriebe — Sie zahlen keinen Aufschlag und gehen keinerlei Verpflichtung ein.',
   },
 ]
 
@@ -609,7 +609,7 @@ function SeoText() {
           <div className="seo-block">
             <h2 className="seo-heading">Erdarbeiten & Fundamentbau in der Bodenseeregion</h2>
             <p className="seo-body">
-              Ein solides Fundament ist die Basis jedes Bauwerks. Unsere Partnerbetriebe für Tiefbau am Bodensee verfügen über jahrelange Erfahrung im Umgang mit den unterschiedlichen Bodenverhältnissen der Region — von Kiesböden im Überlingener Raum bis hin zu anspruchsvolleren Untergründen rund um den Bodensee. Wir finden den richtigen Experten für Ihr Vorhaben.
+              Ein solides Fundament ist die Basis jedes Bauwerks. Die von uns vermittelten Tiefbau-Fachbetriebe am Bodensee verfügen über jahrelange Erfahrung im Umgang mit den unterschiedlichen Bodenverhältnissen der Region — von Kiesböden im Überlingener Raum bis hin zu anspruchsvolleren Untergründen rund um den Bodensee. Wir finden den richtigen Experten für Ihr Vorhaben.
             </p>
           </div>
 
@@ -623,7 +623,7 @@ function SeoText() {
           <div className="seo-block">
             <h2 className="seo-heading">Tiefbau-Vermittlung – schnell, kostenlos, regional</h2>
             <p className="seo-body">
-              Statt stundenlanger Suche nach dem richtigen Tiefbaubetrieb erhalten Sie durch Bodensee BauPartner schnell einen Fachpartner aus Ihrer Region vermittelt. Unser Netzwerk umfasst spezialisierte Unternehmen für alle Tiefbauleistungen — von der einfachen Erdarbeit bis zum komplexen Infrastrukturprojekt. Ihre Anfrage ist kostenlos und unverbindlich.
+              Statt stundenlanger Suche nach dem richtigen Tiefbaubetrieb erhalten Sie durch Bodensee BauPartner schnell einen Fachpartner aus Ihrer Region vermittelt. Wir vermitteln spezialisierte Unternehmen für alle Tiefbauleistungen — von der einfachen Erdarbeit bis zum komplexen Infrastrukturprojekt. Ihre Anfrage ist kostenlos und unverbindlich.
             </p>
           </div>
         </div>
@@ -648,7 +648,7 @@ function Footer() {
               <img src="/logo.png" alt="Bodensee BauPartner" style={{ height: 40, width: 'auto' }} />
             </div>
             <p className="footer-desc">
-              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit Fachbetrieben aus unserem Netzwerk für Ihr Projekt.
+              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit passenden Fachbetrieben aus der Region für Ihr Projekt.
             </p>
           </div>
           <div className="footer-col">

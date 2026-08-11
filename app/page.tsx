@@ -223,7 +223,7 @@ function Hero() {
             </motion.h1>
 
             <motion.p className="hero-sub" variants={fadeUp}>
-              Bodensee BauPartner vermittelt Privatkunden und Bauherren am Bodensee kostenlos Fachbetriebe aus unserem Netzwerk – für Hochbau, Tiefbau, Sanitär, Innenausbau und Renovierung. Schnell, transparent und persönlich: Wir finden den richtigen Handwerker für Ihr Vorhaben.
+              Bodensee BauPartner vermittelt Privatkunden und Bauherren am Bodensee kostenlos passende Fachbetriebe aus der Region – für Hochbau, Tiefbau, Sanitär, Innenausbau und Renovierung. Schnell, transparent und persönlich: Wir finden den richtigen Handwerker für Ihr Vorhaben.
             </motion.p>
 
             <motion.div className="hero-ctas" variants={fadeUp}>
@@ -256,7 +256,7 @@ function Hero() {
 
 /* ── Stats Bar ───────────────────────────────────────────────────────────── */
 const stats = [
-  { value: '50+', label: 'Partnerfirmen im Netzwerk' },
+  { value: 'Regional', label: 'Verwurzelt am Bodensee' },
   { value: '5', label: 'Leistungsbereiche' },
   { value: '0 €', label: 'Vermittlungskosten' },
   { value: '100%', label: 'Kostenlos & unverbindlich' },
@@ -294,8 +294,8 @@ const valueCards = [
         <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/>
       </svg>
     ),
-    title: 'Regionales Partnernetzwerk',
-    desc: 'Wir arbeiten mit Handwerksbetrieben aus der Bodenseeregion zusammen und vermitteln Ihnen den passenden Ansprechpartner für Ihr Vorhaben.',
+    title: 'Regionale Fachbetriebe',
+    desc: 'Wir suchen gezielt für Ihr Vorhaben und vermitteln Ihnen einen passenden Fachbetrieb aus der Bodenseeregion.',
   },
   {
     icon: (
@@ -346,7 +346,7 @@ function Intro() {
 
           <motion.div className="intro-right" variants={fadeUp}>
             <p>
-              Bodensee BauPartner ist Ihr persönlicher Bau-Vermittler im Bodenseekreis. Wir verbinden Bauherren und Privatkunden mit Fachbetrieben aus unserem Netzwerk in der Region — für Hoch- und Tiefbau, Sanierung, Innenausbau und mehr.
+              Bodensee BauPartner ist Ihr persönlicher Bau-Vermittler im Bodenseekreis. Wir verbinden Bauherren und Privatkunden mit passenden Fachbetrieben aus der Region — für Hoch- und Tiefbau, Sanierung, Innenausbau und mehr.
             </p>
             <p>
               Keine endlose Recherche, kein Angebotsvergleichsstress. Schildern Sie uns Ihr Vorhaben — wir finden den passenden Partner und begleiten Sie von der ersten Anfrage bis zur Auftragserteilung. Kostenlos und unverbindlich.
@@ -909,11 +909,11 @@ function Kontakt() {
 const faqs = [
   {
     q: 'Kostet mich die Vermittlung etwas?',
-    a: 'Nein – unsere Vermittlung ist für Sie vollständig kostenlos und unverbindlich. Wir finanzieren uns durch unsere Partnerfirmen, nicht durch Sie als Auftraggeber.',
+    a: 'Nein – unsere Vermittlung ist für Sie vollständig kostenlos und unverbindlich. Wir finanzieren uns über eine Provision des vermittelten Fachbetriebs, nicht durch Sie als Auftraggeber.',
   },
   {
     q: 'Wie läuft die Vermittlung konkret ab?',
-    a: 'Sie schildern uns kurz Ihr Vorhaben – per Kontaktformular oder Telefon. Wir wählen aus unserem Netzwerk den passenden Fachbetrieb aus, stellen den Kontakt her und übergeben alle relevanten Informationen. Den Rest regeln Sie direkt mit dem Betrieb.',
+    a: 'Sie schildern uns kurz Ihr Vorhaben – per Kontaktformular oder Telefon. Wir suchen den passenden Fachbetrieb aus der Region aus, stellen den Kontakt her und übergeben alle relevanten Informationen. Den Rest regeln Sie direkt mit dem Betrieb.',
   },
   {
     q: 'Welche Region deckt ihr ab?',
@@ -925,7 +925,7 @@ const faqs = [
   },
   {
     q: 'Wie wählen Sie die vermittelten Betriebe aus?',
-    a: 'Wir vermitteln Betriebe aus unserem regionalen Netzwerk in der Bodenseeregion. Die Vertragsbeziehung für die Ausführung der Arbeiten besteht direkt zwischen Ihnen und dem jeweiligen Betrieb.',
+    a: 'Wir vermitteln Betriebe aus der Bodenseeregion, die zu Ihrem Vorhaben passen. Die Vertragsbeziehung für die Ausführung der Arbeiten besteht direkt zwischen Ihnen und dem jeweiligen Betrieb.',
   },
 ]
 
@@ -994,7 +994,7 @@ function SeoText() {
           <div className="seo-block">
             <h2 className="seo-heading">Handwerker am Bodensee – Ihr regionaler Vermittler</h2>
             <p className="seo-body">
-              Die Suche nach einem passenden Handwerker am Bodensee ist oft zeitaufwendig und nervenraubend. Bodensee BauPartner übernimmt diese Arbeit für Sie: Wir vermitteln Fachbetriebe aus der Region – für Hochbau, Tiefbau, Innenausbau, Bad & Sanitär sowie Renovierung und Sanierung. Unser Netzwerk umfasst Unternehmen aus der gesamten Bodenseeregion.
+              Die Suche nach einem passenden Handwerker am Bodensee ist oft zeitaufwendig und nervenraubend. Bodensee BauPartner übernimmt diese Arbeit für Sie: Wir vermitteln Fachbetriebe aus der Region – für Hochbau, Tiefbau, Innenausbau, Bad & Sanitär sowie Renovierung und Sanierung. Wir vermitteln Unternehmen aus der gesamten Bodenseeregion.
             </p>
           </div>
 
@@ -1013,9 +1013,9 @@ function SeoText() {
           </div>
 
           <div className="seo-block">
-            <h2 className="seo-heading">Regional verwurzelt, professionell vernetzt</h2>
+            <h2 className="seo-heading">Regional verwurzelt, persönlich vor Ort</h2>
             <p className="seo-body">
-              Mit unserem Sitz in Überlingen sind wir mitten in der Bodenseeregion beheimatet – von Konstanz über Friedrichshafen bis Lindau. Dieses regionale Netzwerk ermöglicht es uns, Ihnen schnell den richtigen Handwerker zu vermitteln, der Ihr Projekt versteht und Ihre Erwartungen erfüllt. Bodensee BauPartner ist Ihr direkter Draht zu Fachbetrieben der Region.
+              Mit unserem Sitz in Überlingen sind wir mitten in der Bodenseeregion beheimatet – von Konstanz über Friedrichshafen bis Lindau. Diese regionale Verwurzelung ermöglicht es uns, Ihnen schnell den richtigen Handwerker zu vermitteln, der Ihr Projekt versteht und Ihre Erwartungen erfüllt. Bodensee BauPartner ist Ihr direkter Draht zu Fachbetrieben der Region.
             </p>
           </div>
         </div>
@@ -1040,7 +1040,7 @@ function Footer() {
               <img src="/logo.png" alt="Bodensee BauPartner" style={{ height: 40, width: 'auto' }} />
             </div>
             <p className="footer-desc">
-              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit Fachbetrieben aus unserem Netzwerk für Ihr Projekt.
+              Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit passenden Fachbetrieben aus der Region für Ihr Projekt.
             </p>
           </div>
           <div className="footer-col">
