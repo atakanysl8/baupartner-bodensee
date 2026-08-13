@@ -219,7 +219,7 @@ const serviceItems = [
     ),
     title: 'Trockenbau',
     desc: 'Präzise Trockenbauer für clevere Raumaufteilung',
-    detail: 'Neue Wände, abgehängte Decken oder Nischen — unsere Trockenbau-Partner setzen Ihre Raumideen präzise und sauber um, auch bei anspruchsvollen Grundrissen.',
+    detail: 'Neue Wände, abgehängte Decken oder Nischen — die vermittelten Trockenbau-Fachbetriebe setzen Ihre Raumideen präzise und sauber um, auch bei anspruchsvollen Grundrissen.',
   },
   {
     icon: (
@@ -242,7 +242,7 @@ const serviceItems = [
     ),
     title: 'Maler & Wände',
     desc: 'Maler & Profis für makellose Wände und Decken',
-    detail: 'Ob klassischer Anstrich, Putzstruktur oder edle Tapete — unsere Maler-Partner liefern ein sauberes, gleichmäßiges Ergebnis, das Ihr Interieur zum Strahlen bringt.',
+    detail: 'Ob klassischer Anstrich, Putzstruktur oder edle Tapete — die vermittelten Maler-Fachbetriebe liefern ein sauberes, gleichmäßiges Ergebnis, das Ihr Interieur zum Strahlen bringt.',
   },
   {
     icon: (
@@ -273,7 +273,7 @@ function Services() {
             <div className="eyebrow" style={{ marginBottom: 20 }}>
               <span className="bullet" /> Unsere Vermittlung
             </div>
-            <h2>Erfahrene Partner für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>jeden Raum</em>.</h2>
+            <h2>Erfahrene Fachbetriebe für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>jeden Raum</em>.</h2>
           </motion.div>
           <motion.p className="head-desc" variants={fadeUp}>
             Wir verbinden Sie mit Innenausbau-Handwerkern aus der Region.
@@ -386,7 +386,7 @@ const usps = [
         <circle cx="12" cy="10" r="3" />
       </svg>
     ),
-    title: 'Regionale Partner',
+    title: 'Regionale Fachbetriebe',
     desc: 'Alle Handwerksbetriebe kommen aus der Bodenseeregion — kurze Anfahrtswege und schnelle Verfügbarkeit inklusive.',
   },
   {

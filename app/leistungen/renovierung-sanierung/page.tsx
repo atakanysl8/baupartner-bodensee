@@ -229,7 +229,7 @@ const serviceItems = [
       </svg>
     ),
     title: 'Energetische Sanierung',
-    desc: 'Erfahrene Partner für energetisches Sanieren',
+    desc: 'Erfahrene Fachbetriebe für energetisches Sanieren',
     detail: 'Dämmung, neue Fenster und Heiztechnik — die vermittelten Fachbetriebe senken Ihren Energieverbrauch nachhaltig und helfen bei der Beantragung von Fördermitteln.',
   },
   {
@@ -254,7 +254,7 @@ const serviceItems = [
       </svg>
     ),
     title: 'Heizungsaustausch',
-    desc: 'Regionale Partner für den Heizungsaustausch',
+    desc: 'Regionale Fachbetriebe für den Heizungsaustausch',
     detail: 'Wärmepumpe, Pelletheizung oder Fernwärme-Anschluss — wir vermitteln Heizungsbauer, die die passende Lösung für Ihr Gebäude installieren und in Betrieb nehmen.',
   },
 ]
@@ -274,7 +274,7 @@ function Services() {
             <div className="eyebrow" style={{ marginBottom: 20 }}>
               <span className="bullet" /> Unsere Vermittlung
             </div>
-            <h2>Erfahrene Partner für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>Ihre Sanierung</em>.</h2>
+            <h2>Erfahrene Fachbetriebe für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>Ihre Sanierung</em>.</h2>
           </motion.div>
           <motion.p className="head-desc" variants={fadeUp}>
             Wir verbinden Sie mit Sanierungs-Spezialisten aus der Region — passend zu Ihrer Immobilie.
@@ -379,7 +379,7 @@ const usps = [
       </svg>
     ),
     title: 'Nachhaltige Wertsteigerung',
-    desc: 'Unsere Sanierungs-Partner setzen auf langlebige Materialien und zukunftssichere Technik — für eine Immobilie, die dauerhaft im Wert steigt.',
+    desc: 'Die vermittelten Sanierungsbetriebe setzen auf langlebige Materialien und zukunftssichere Technik — für eine Immobilie, die dauerhaft im Wert steigt.',
   },
   {
     icon: (
@@ -387,7 +387,7 @@ const usps = [
         <path d="M12 1v22M17 5H9.5a3.5 3.5 0 100 7h5a3.5 3.5 0 110 7H6" />
       </svg>
     ),
-    title: 'Partner für Fördermittel-Beratung',
+    title: 'Fachbetriebe für Fördermittel-Beratung',
     desc: 'Viele Sanierungen werden staatlich gefördert. Wir vermitteln Betriebe, die Sie bei KfW- und BAFA-Anträgen kompetent begleiten.',
   },
   {

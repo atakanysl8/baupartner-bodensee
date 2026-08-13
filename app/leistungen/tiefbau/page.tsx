@@ -274,7 +274,7 @@ function Services() {
             <div className="eyebrow" style={{ marginBottom: 20 }}>
               <span className="bullet" /> Unsere Vermittlung
             </div>
-            <h2>Erfahrene Partner für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>jeden Tiefbau</em>.</h2>
+            <h2>Erfahrene Fachbetriebe für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>jeden Tiefbau</em>.</h2>
           </motion.div>
           <motion.p className="head-desc" variants={fadeUp}>
             Wir verbinden Sie mit Tiefbau-Spezialisten aus der Region — regional verwurzelt und professionell ausgerüstet.
@@ -379,8 +379,8 @@ const usps = [
         <circle cx="18.5" cy="18.5" r="2.5" />
       </svg>
     ),
-    title: 'Partner mit modernem Fuhrpark',
-    desc: 'Unsere Tiefbau-Partner arbeiten mit modernstem Gerät — für schnelle Ausführung und saubere Ergebnisse, auch bei anspruchsvollen Böden.',
+    title: 'Moderne Ausrüstung',
+    desc: 'Die vermittelten Tiefbaubetriebe arbeiten mit modernem Gerät — für schnelle Ausführung und saubere Ergebnisse, auch bei anspruchsvollen Böden.',
   },
   {
     icon: (
@@ -614,16 +614,16 @@ function SeoText() {
           </div>
 
           <div className="seo-block">
-            <h2 className="seo-heading">Kanal- & Leitungsbau Bodensee – Zuverlässige Partner</h2>
+            <h2 className="seo-heading">Kanal- & Leitungsbau Bodensee – Zuverlässige Fachbetriebe</h2>
             <p className="seo-body">
-              Ob Neuverlegung, Sanierung oder Reparatur von Kanal- und Versorgungsleitungen — im Tiefbau zählt Präzision. Bodensee BauPartner vernetzt Sie mit Fachbetrieben, die über moderne Technik und langjährige Erfahrung im Kanal- und Leitungsbau in Konstanz, Überlingen, Friedrichshafen und der gesamten Bodenseeregion verfügen.
+              Ob Neuverlegung, Sanierung oder Reparatur von Kanal- und Versorgungsleitungen — im Tiefbau zählt Präzision. Bodensee BauPartner verbindet Sie mit Fachbetrieben, die über moderne Technik und langjährige Erfahrung im Kanal- und Leitungsbau in Konstanz, Überlingen, Friedrichshafen und der gesamten Bodenseeregion verfügen.
             </p>
           </div>
 
           <div className="seo-block">
             <h2 className="seo-heading">Tiefbau-Vermittlung – schnell, kostenlos, regional</h2>
             <p className="seo-body">
-              Statt stundenlanger Suche nach dem richtigen Tiefbaubetrieb erhalten Sie durch Bodensee BauPartner schnell einen Fachpartner aus Ihrer Region vermittelt. Wir vermitteln spezialisierte Unternehmen für alle Tiefbauleistungen — von der einfachen Erdarbeit bis zum komplexen Infrastrukturprojekt. Ihre Anfrage ist kostenlos und unverbindlich.
+              Statt stundenlanger Suche nach dem richtigen Tiefbaubetrieb erhalten Sie durch Bodensee BauPartner schnell einen passenden Fachbetrieb aus Ihrer Region vermittelt. Wir vermitteln spezialisierte Unternehmen für alle Tiefbauleistungen — von der einfachen Erdarbeit bis zum komplexen Infrastrukturprojekt. Ihre Anfrage ist kostenlos und unverbindlich.
             </p>
           </div>
         </div>

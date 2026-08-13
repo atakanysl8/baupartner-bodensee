@@ -261,7 +261,7 @@ const serviceItems = [
       </svg>
     ),
     title: 'Mehrfamilienhäuser',
-    desc: 'Zuverlässige Partner für Mehrfamilienhäuser',
+    desc: 'Zuverlässige Fachbetriebe für Mehrfamilienhäuser',
     detail: 'Für größere Wohnbauprojekte vermitteln wir leistungsstarke Unternehmen mit Erfahrung in der Planung und Ausführung von Mehrfamilien- und Wohnkomplexen.',
   },
 ]
@@ -281,7 +281,7 @@ function Services() {
             <div className="eyebrow" style={{ marginBottom: 20 }}>
               <span className="bullet" /> Unsere Vermittlung
             </div>
-            <h2>Erfahrene Partner für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>jeden Hochbau</em>.</h2>
+            <h2>Erfahrene Fachbetriebe für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>jeden Hochbau</em>.</h2>
           </motion.div>
           <motion.p className="head-desc" variants={fadeUp}>
             Wir verbinden Sie mit Fachbetrieben aus der Region — passend zu Ihrem Projekt.
@@ -394,7 +394,7 @@ const usps = [
         <circle cx="12" cy="10" r="3" />
       </svg>
     ),
-    title: 'Regionale Partner am Bodensee',
+    title: 'Regionale Fachbetriebe am Bodensee',
     desc: 'Wir vermitteln lokale Unternehmen der Region — kurze Wege, schnelle Reaktionszeiten, ortskundige Expertise.',
   },
   {

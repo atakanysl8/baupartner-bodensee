@@ -271,8 +271,8 @@ function WerWirSind() {
               </div>
               <div className="au-founders-stats">
                 <div className="au-founders-stat">
-                  <div className="au-founders-stat-val">50+</div>
-                  <div className="au-founders-stat-lbl">Partner&shy;unternehmen</div>
+                  <div className="au-founders-stat-val">Regional</div>
+                  <div className="au-founders-stat-lbl">Verwurzelt am Bodensee</div>
                 </div>
                 <div className="au-founders-stat">
                   <div className="au-founders-stat-val">0 €</div>
@@ -366,7 +366,7 @@ function Versprechen() {
           <div className="au-versprechen-text">
             <h2>Unser <em>100% Versprechen</em></h2>
             <p>
-              Wir mauern nicht selbst, aber wir geben unser Bestes für Ihre erfolgreiche Vermittlung. Wir arbeiten mit Fachfirmen aus der Bodenseeregion zusammen.
+              Wir mauern nicht selbst, aber wir geben unser Bestes für Ihre erfolgreiche Vermittlung. Wir suchen für jede Anfrage den passenden Betrieb aus der Bodenseeregion.
             </p>
           </div>
         </motion.div>

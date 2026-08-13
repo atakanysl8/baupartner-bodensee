@@ -231,7 +231,7 @@ const serviceItems = [
     ),
     title: 'Sanitärtechnik',
     desc: 'Regionale Installateure für modernste Sanitärtechnik',
-    detail: 'Ob Dusche, Badewanne, Heizung oder Lüftung — unsere Installateur-Partner setzen modernste Sanitärtechnik fachgerecht und normkonform um.',
+    detail: 'Ob Dusche, Badewanne, Heizung oder Lüftung — die vermittelten Installationsbetriebe setzen modernste Sanitärtechnik fachgerecht und normkonform um.',
   },
   {
     icon: (
@@ -275,7 +275,7 @@ function Services() {
             <div className="eyebrow" style={{ marginBottom: 20 }}>
               <span className="bullet" /> Unsere Vermittlung
             </div>
-            <h2>Erfahrene Partner für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>Ihr Traumbad</em>.</h2>
+            <h2>Erfahrene Fachbetriebe für <em style={{ fontStyle: 'italic', color: 'var(--primary)' }}>Ihr Traumbad</em>.</h2>
           </motion.div>
           <motion.p className="head-desc" variants={fadeUp}>
             Wir verbinden Sie mit Installateuren und Fliesenlegern aus der Region.
@@ -389,7 +389,7 @@ const usps = [
       </svg>
     ),
     title: 'Saubere Umsetzung',
-    desc: 'Unsere Handwerker-Partner arbeiten akkurat und hinterlassen Ihre Räume nach getaner Arbeit besenrein — ohne Stress für Sie.',
+    desc: 'Die vermittelten Handwerksbetriebe arbeiten akkurat und hinterlassen Ihre Räume nach getaner Arbeit besenrein — ohne Stress für Sie.',
   },
   {
     icon: (
