@@ -258,7 +258,9 @@ function Hero() {
 const stats = [
   { value: 'Regional', label: 'Verwurzelt am Bodensee' },
   { value: '5', label: 'Leistungsbereiche' },
-  { value: '0 €', label: 'Vermittlungskosten' },
+  // Vorübergehend ausgeblendet – zum Wiedereinblenden Kommentar entfernen und
+  // .stats-grid in globals.css wieder auf repeat(4, 1fr) stellen.
+  // { value: '0 €', label: 'Vermittlungskosten' },
   { value: '100%', label: 'Kostenlos & unverbindlich' },
 ]
 

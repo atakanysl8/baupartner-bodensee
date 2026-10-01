@@ -772,7 +772,7 @@ section { padding: 100px 0; }
 }
 .stats-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   position: relative;
 }
 .stat-item {
@@ -809,6 +809,7 @@ section { padding: 100px 0; }
   .stat-divider { display: none; }
   .stat-item:nth-child(3),
   .stat-item:nth-child(4) { border-top: none; }
+  .stat-item:last-child:nth-child(odd) { grid-column: 1 / -1; }
 }
 @media (max-width: 400px) {
   .stats-grid { grid-template-columns: 1fr 1fr; }
