@@ -1,0 +1,89 @@
+{
+  "leistung": "dach-fassade",
+  "ort": "ettlingen",
+  "ortName": "Ettlingen",
+  "kreis": "Karlsruhe",
+  "title": "Dachdecker Ettlingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Dachdecker in Ettlingen: Dachfläche und Regenwassergebühr, Dachbegrünung, kostenloser PV-Check der Stadt, Gestaltung der Altstadt. Kostenlos vermittelt.",
+  "h1": "Dachdecker in Ettlingen",
+  "einstieg": "Ein Dachdecker in Ettlingen arbeitet auf sehr unterschiedlichen Dächern: auf Satteldächern in Bruchhausen und Ettlingenweier, auf Hanglagen in Schöllbronn oder auf Häusern in der historischen Altstadt an der Alb. Was das Dach künftig leisten soll, ob es Regenwasser zurückhält, Strom erzeugt oder sich ins Altstadtbild einfügt, hat in Ettlingen auch eine städtische Seite.",
+  "abschnitte": [
+    {
+      "h2": "Jeder Quadratmeter Dach zählt bei der Abwassergebühr",
+      "text": "Ettlingen berechnet die Niederschlagswassergebühr auf Grundlage der Dachflächen und der versiegelten Flächen eines Grundstücks, von denen Regenwasser in die öffentliche Kanalisation fließt. Ändert sich daran etwas, etwa durch einen Anbau, ein neues Garagendach oder eine Entsiegelung, nimmt die Tiefbauabteilung des Stadtbauamts die Anzeige entgegen. Dazu passt das städtische Förderprogramm für Entsiegelung und Dachbegrünung: Es soll das Kanalnetz entlasten und gilt für genehmigte Gebäude auf Ettlinger Gemarkung. Ob gerade Haushaltsmittel zur Verfügung stehen, veröffentlicht die Stadt auf der Programmseite."
+    },
+    {
+      "h2": "Photovoltaik einplanen: der PV-Check der Stadt",
+      "text": "Im Rahmen ihres Klimaschutzkonzepts und einer eigenen Photovoltaik-Strategie bietet die Stadt Ettlingen privaten Haushalten auf Antrag einen kostenlosen PV-Check an. Er beschreibt den möglichen Nutzen einer Anlage, den erwarteten Ertrag und die mögliche Eigenverbrauchsquote, ohne dass jemand vor Ort kommen muss. Bei Hanglagen lohnt außerdem ein Blick in die Starkregengefahrenkarte Ettlingen/Waldbronn, die Wassertiefen und Fließwege bei einem außergewöhnlichen Regenereignis zeigt."
+    },
+    {
+      "h2": "Dach und Fassade in der Ettlinger Altstadt",
+      "text": "Die Altstadt wurde nach dem Brand von 1689 weitgehend auf mittelalterlichen Grundrissen wieder aufgebaut. Für sie gilt eine Satzung über die Gestaltung der historischen Altstadt, die die Fassadengestaltung bei Neubauten und bei der Restaurierung erhaltenswerter Gebäude leiten soll. Ob ein Haus in einem Sanierungsgebiet liegt, etwa im Gebiet Pforzheimer Straße/Schillerstraße, lässt sich im BürgerGIS der Stadt nachsehen. Ist klar, was am Dach geschehen soll, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Niederschlagswassergebühr wird in Ettlingen auf Grundlage der Dachflächen und versiegelten Flächen erhoben, von denen Niederschlagswasser in die öffentliche Kanalisation abfließt; Änderungen sind der Tiefbauabteilung des Stadtbauamts anzuzeigen.",
+      "quelle": "Stadt Ettlingen – Abwassergebühren / Gesplittete Abwassergebühr",
+      "url": "https://www.ettlingen.de/buergerservice/aemter_dienststellen/Kaemmerei/abwasser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Ettlingen gewährt Zuschüsse für Entsiegelungs- und Dachbegrünungsmaßnahmen, um das städtische Kanalnetz zu entlasten; gefördert werden genehmigte oder zulässigerweise errichtete Flächen und Gebäude auf Ettlinger Gemarkung, soweit Haushaltsmittel zur Verfügung stehen.",
+      "quelle": "Stadt Ettlingen – Förderprogramm Entsiegelungs- und Dachbegrünungsmaßnahmen",
+      "url": "https://www.ettlingen.de/entwickeln/klima+und+umwelt/Umwelt_+Natur_+und+Klimaschutz/dachbegruenungs-+und+entsiegelungsmassnahmen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Private Haushalte erhalten auf Antrag beim Planungsamt einen kostenlosen PV-Check, der Nutzen, möglichen Solarstromertrag und Eigenverbrauchsquote beschreibt; Grundlage sind das Integrierte Klimaschutzkonzept und die Photovoltaik-Strategie der Stadt.",
+      "quelle": "Stadt Ettlingen – Förderprogramm Photovoltaik",
+      "url": "https://www.ettlingen.de/entwickeln/klima+und+umwelt/klimaschutz/foerderprogramme/foerderprogramm_pv",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Starkregengefahrenkarte Ettlingen/Waldbronn zeigt Wassertiefen und Fließwege für ein außergewöhnliches Ereignis, dem ein einstündiger Niederschlag mit statistischer Wiederkehrzeit von 100 Jahren zugrunde liegt.",
+      "quelle": "Stadt Ettlingen – Starkregen",
+      "url": "https://www.ettlingen.de/informieren/krisen+_+katastrophen/starkregen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Satzung über die Gestaltung der historischen Altstadt soll die Fassadengestaltung bei Neubauten oder der Restaurierung erhaltenswürdiger Bauten so leiten, dass das Erscheinungsbild der Altstadt nicht gefährdet wird.",
+      "quelle": "Stadt Ettlingen – Baukultur, Tafel „Gestaltung der Altstadt“",
+      "url": "https://www.ettlingen.de/site/Ettlingen-2021/get/documents_E-1879660260/ettlingen/Dokumente/PLA/PLA_ASF_Regional_Baukultur_Ettlingen_20160713_E3.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Ettlinger Altstadt wurde nach dem Brand von 1689 im Grunde auf mittelalterlichen Grundrissen wieder aufgebaut; ab 1975 setzte die Stadt auf eine erhaltende Altstadtsanierung.",
+      "quelle": "Stadt Ettlingen – Baukultur, Tafel „Altstadtsanierung ab 1975“",
+      "url": "https://www.ettlingen.de/site/Ettlingen-2021/get/documents_E2067231387/ettlingen/Dokumente/PLA/PLA_ASF_Regional_Baukultur_Ettlingen_20160713_E2.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Sanierungssatzung „Pforzheimer Straße/Schillerstraße“ ist seit 30.06.2022 rechtskräftig; die Sanierungsgebiete lassen sich im BürgerGIS der Stadt einsehen.",
+      "quelle": "Stadt Ettlingen – Sanierungsgebiete",
+      "url": "https://www.ettlingen.de/3111759",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ändert sich in Ettlingen meine Abwassergebühr, wenn ich das Dach begrünen lasse?",
+      "a": "Die Niederschlagswassergebühr richtet sich nach Dach- und versiegelten Flächen, von denen Wasser in den Kanal fließt. Wie sich eine Begrünung auswirkt, beantwortet die Stadt; Änderungen nimmt die Tiefbauabteilung des Stadtbauamts entgegen."
+    },
+    {
+      "q": "Wie komme ich in Ettlingen an eine Einschätzung für Solarmodule auf meinem Dach?",
+      "a": "Über den kostenlosen PV-Check der Stadt, der beim Planungsamt beantragt wird. Ansprechpartner für Fragen ist der Klimaschutzmanager der Stadt."
+    },
+    {
+      "q": "Gelten für Dach und Fassade in der Ettlinger Altstadt besondere Regeln?",
+      "a": "Ja, für die historische Altstadt gibt es eine Gestaltungssatzung. Welche Vorgaben für ein bestimmtes Haus gelten, klären in der Regel Planungsamt und Baurechtsbehörde der Stadt."
+    }
+  ],
+  "offen": [
+    "Förderprogramm Dachbegrünung: laut Stadtseite (02.10.2026) „derzeit keine Haushaltsmittel“; im Text neutral formuliert. Bei Neuauflage prüfen.",
+    "Gestaltungssatzung Altstadt nur über eine Ausstellungstafel der Stadt (2016) belegt; Satzungstext selbst (Dachvorgaben) nicht gefunden.",
+    "Stadtteilnennungen im Einstieg (Bruchhausen, Ettlingenweier, Schöllbronn) sind Beispiele ohne Fakt-Quelle.",
+    "PV-Check: Kooperationspartner (Elektrofirma) und Gutscheinbeträge der Stadtseite bewusst nicht genannt.",
+    "Ob ein Gründach in Ettlingen die Niederschlagswassergebühr mindert (abflussrelevante Faktoren laut Flyer der Stadt), wurde nicht geprüft; Flyer nicht geöffnet."
+  ]
+}

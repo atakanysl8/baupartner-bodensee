@@ -1,0 +1,82 @@
+{
+  "leistung": "dach-fassade",
+  "ort": "karlsruhe",
+  "ortName": "Karlsruhe",
+  "kreis": "Karlsruhe",
+  "title": "Dachdecker Karlsruhe – Fachbetrieb kostenlos vermittelt",
+  "description": "Dachdecker in Karlsruhe: Solarpflicht bei der Dachsanierung, Gründach mit PV, Gesamtanlagen in Durlach und am Gutenbergplatz. Kostenlos vermittelt.",
+  "h1": "Dachdecker in Karlsruhe",
+  "einstieg": "Ein undichtes Satteldach in Grünwinkel, ein Flachdach auf dem Anbau in der Nordweststadt oder eine neue Eindeckung im Durlacher Ortskern: Wer in Karlsruhe einen Dachdecker sucht, sollte vor dem Angebot klären, was das Land und die Stadt für die Dachfläche vorsehen. Photovoltaik, Begrünung und Denkmalschutz greifen hier oft ineinander.",
+  "abschnitte": [
+    {
+      "h2": "Dachsanierung und Solarpflicht: was die Stadt dazu sagt",
+      "text": "In Baden-Württemberg sieht das Klimaschutzgesetz eine Photovoltaikpflicht nicht nur für Neubauten vor. Nach Darstellung der Stadt Karlsruhe gilt sie auch bei einer grundlegenden Dachsanierung. Ausnahmen nennt die Stadt unter anderem für nutzbare Dachflächen unter 20 Quadratmetern und für Gebäude mit weniger als 50 Quadratmetern Nutzfläche. Eine Befreiung ist nach den Angaben nur bei wirtschaftlicher Unzumutbarkeit möglich, die Einhaltung überwacht das Bauordnungsamt. Wird zugleich eine Freileitung mit Dachständer auf Erdkabel umgestellt, entfallen nach Angaben des Netzbetreibers bei künftigen Dacharbeiten kostenpflichtige Isolierarbeiten."
+    },
+    {
+      "h2": "Gründach und Module: die Karlsruher Kombination",
+      "text": "Die Stadt wirbt ausdrücklich für Dächer, die begrünt sind und zugleich Strom erzeugen. Beide Pflichten können an einem Gebäude nebeneinander bestehen, und ein Gründach hält Regenwasser zurück und dämpft die Temperatur unter dem Dach. Für die Ansaat empfiehlt die Stadt eine eigene „Karlsruher Mischung“. Die Begrünung von Dächern und Fassaden fördert die Stadt mit einem eigenen Programm, das eine kostenlose Beratung einschließt. Voraussetzung ist unter anderem, dass der Antrag vor Beginn der Arbeiten gestellt und die Maßnahme mit dem Gartenbauamt abgestimmt wird; gepflegt werden muss die Begrünung mindestens fünf Jahre."
+    },
+    {
+      "h2": "Dächer in den Gesamtanlagen Durlach und Gutenbergplatz",
+      "text": "Zwei Bereiche der Stadt stehen als Gesamtanlage unter Denkmalschutz. In der Durlacher Altstadt schützt die Satzung ausdrücklich auch die Dachzonen und das Erscheinungsbild, wie es sich etwa vom Turmberg aus zeigt. Am Gutenbergplatz in der Weststadt sind das Verändern der Dachdeckung und das Anbringen von Solaranlagen genehmigungspflichtig. Zuständig ist jeweils die untere Denkmalschutzbehörde der Stadt. Steht fest, was am Dach geschehen soll, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Dachdeckerbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Nach Darstellung der Stadt Karlsruhe gilt die Photovoltaikpflicht auch bei jeder grundlegenden Dachsanierung; sie entfällt unter anderem bei nutzbarer Dachfläche unter 20 m² oder weniger als 50 m² Nutzfläche. Rechtsgrundlagen sind § 23 KlimaG BW und die PV-Pflicht-Verordnung.",
+      "quelle": "Stadt Karlsruhe – Photovoltaik- und Begrünungspflicht",
+      "url": "https://www.karlsruhe.de/mobilitaet-stadtbild/bauen-und-immobilien/bauordnung/photovoltaik-und-begruenungspflicht",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Pflichten zu Photovoltaik und Dachbegrünung können an einem Gebäude nebeneinander bestehen; für die Dachbegrünung stellt die Stadt Informationen zur Saatenmischung „Karlsruher Mischung“ bereit.",
+      "quelle": "Stadt Karlsruhe – Photovoltaik- und Begrünungspflicht",
+      "url": "https://www.karlsruhe.de/mobilitaet-stadtbild/bauen-und-immobilien/bauordnung/photovoltaik-und-begruenungspflicht",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das städtische Förderprogramm zur Begrünung von Dächern, Fassaden und Freiflächen setzt einen Antrag vor Maßnahmenbeginn, die Abstimmung mit dem Gartenbauamt und eine Pflege von mindestens fünf Jahren voraus; ein Rechtsanspruch besteht nicht.",
+      "quelle": "Stadt Karlsruhe – Förderprogramm zur Begrünung von Dächern, Fassaden und versiegelten Freiflächen",
+      "url": "https://www.karlsruhe.de/umwelt-klima/stadtgruen-wald/gebaeudebezogenes-gruen/foerderprogramm-zur-begruenung-von-hoefen-daechern-und-fassaden",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Satzung zur Gesamtanlage „Altstadt Durlach“ schützt das Erscheinungsbild der Altstadt auch von außen, etwa vom Turmberg aus, und nennt ausdrücklich die Dachzonen als prägendes Element.",
+      "quelle": "Stadt Karlsruhe – Stadtrecht 6/4.1, Satzung Gesamtanlage Altstadt Durlach",
+      "url": "https://www.karlsruhe.de/fileadmin/user_upload/01_Stadt_Rathaus/013_Verwaltung_und_Stadtpolitik/Stadtrecht/6_Bau-_und_Wohnungswesen/6-4-1_Gesamtanlage_Altstadt-Durlach.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In der Gesamtanlage „Gutenbergplatz“ bedürfen nach § 4 der Satzung unter anderem die Veränderung der Dachdeckung und das Anbringen von Solaranlagen der Genehmigung der unteren Denkmalschutzbehörde.",
+      "quelle": "Stadt Karlsruhe – Stadtrecht 6/4.2, Satzung Gesamtanlage Gutenbergplatz",
+      "url": "https://www.karlsruhe.de/fileadmin/user_upload/01_Stadt_Rathaus/013_Verwaltung_und_Stadtpolitik/Stadtrecht/6_Bau-_und_Wohnungswesen/6-4-2_Gesamtanlage_Gutenbergplatz.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bei der Umstellung von Freileitungen auf Erdkabel entfallen Dachständer und Ausstiegsluken; bei künftigen Arbeiten am Dach sind laut Netzbetreiber keine kostenpflichtigen Isolierarbeiten mehr nötig.",
+      "quelle": "Stadtwerke Karlsruhe Netzservice – Freileitungsumstellung",
+      "url": "https://www.netzservice-swka.de/netze/fuer-verbraucher/freileitungsumstellung.php",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich bei einer Dachsanierung in Karlsruhe eine Solaranlage einplanen?",
+      "a": "Nach Darstellung der Stadt gilt die Photovoltaikpflicht des Landes auch bei einer grundlegenden Dachsanierung, mit Ausnahmen etwa für kleine Dachflächen. Ob das eigene Vorhaben darunter fällt, beantwortet das Bauordnungsamt."
+    },
+    {
+      "q": "Lassen sich Dachbegrünung und Photovoltaik in Karlsruhe kombinieren?",
+      "a": "Ja, die Stadt empfiehlt die Kombination ausdrücklich und hat dazu ein Faltblatt herausgegeben. Für die Begrünung gibt es ein städtisches Förderprogramm mit kostenloser Beratung."
+    },
+    {
+      "q": "Was gilt für ein neues Dach in der Durlacher Altstadt?",
+      "a": "Die Altstadt ist als Gesamtanlage geschützt, die Dachzonen gehören zum geschützten Erscheinungsbild. Auskunft und Genehmigung gibt die untere Denkmalschutzbehörde der Stadt."
+    }
+  ],
+  "offen": [
+    "Stadtteilnennungen im Einstieg (Grünwinkel, Nordweststadt, Durlach) sind Beispiele ohne eigene Fakt-Quelle.",
+    "Lage des Gutenbergplatzes in der Weststadt ist nicht durch die Satzung belegt (allgemeine Ortskenntnis).",
+    "Definition „grundlegende Dachsanierung“ nach PVPf-VO nicht wiedergegeben; Stichtag (Januar 2023) bewusst weggelassen.",
+    "Fördersätze und Obergrenze des Begrünungsprogramms bewusst nicht genannt."
+  ]
+}

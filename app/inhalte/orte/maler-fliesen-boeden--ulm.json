@@ -1,0 +1,77 @@
+{
+  "leistung": "maler-fliesen-boeden",
+  "ort": "ulm",
+  "ortName": "Ulm",
+  "kreis": "Ulm",
+  "title": "Maler & Fliesenleger Ulm – kostenlos vermittelt",
+  "description": "Maler und Fliesenleger in Ulm: Fassadenfarbe mit der Stadtbildgestaltung abstimmen, Gesamtanlage und Innenstadt West beachten. Betrieb kostenlos vermittelt.",
+  "h1": "Maler und Fliesenleger in Ulm",
+  "einstieg": "Ein neuer Fassadenanstrich am Bürgerhaus in der Altstadt, frische Wände nach dem Mieterwechsel in der Weststadt oder ein neuer Boden im Reihenhaus: Für Maler und Fliesenleger gibt es in Ulm viel zu tun. Sobald es um das Äußere eines Gebäudes geht, reden in Ulm allerdings Stadtbildgestaltung und Denkmalpflege mit, im Inneren dagegen haben Eigentümer meist freie Hand.",
+  "abschnitte": [
+    {
+      "h2": "Fassadenfarbe in Ulm: wann die Stadtbildgestaltung mitredet",
+      "text": "Die Stadtbildgestaltung gehört in Ulm zur Hauptabteilung Stadtplanung, Umwelt, Baurecht und ist intern eng mit der städtischen Denkmalpflege verbunden. Ist in einer Baugenehmigung gefordert, dass Materialien, Oberflächentexturen und Farbgebung abgestimmt werden, klärt sie das während der Bauausführung. Darüber hinaus bietet sie ihre Hilfe bei der Farbwahl an, wenn ein Anstrich das Bild des öffentlichen Raumes deutlich verändert. Für ein Malerangebot bedeutet das in der Regel: Farbton und Putzstruktur einer Straßenfassade lieber vor dem Auftrag festlegen, nicht erst auf dem Gerüst. Wer im Sanierungsgebiet „Innenstadt West“ baut, sollte außerdem wissen, dass die Stadt dort eine bessere Fassadengestaltung passend zum Charakter des jeweiligen Baublocks und mehr Fassadenbegrünung als Sanierungsziele festgeschrieben hat."
+    },
+    {
+      "h2": "Denkmal, Gesamtanlage und Werksteinfassade",
+      "text": "Auch ein Haus, das selbst kein Kulturdenkmal ist, kann in Ulm unter das Denkmalschutzgesetz fallen: Liegt es in einer geschützten Gesamtanlage, gilt das für alle Veränderungen am äußeren Erscheinungsbild, also auch für Farbe, Putz und Fenster. Die Stadt nennt außerdem ausdrücklich den Werksteindekor einer Außenfassade als möglichen Grund für den künstlerischen Wert eines Denkmals. Ob ein Gebäude in der Denkmalliste steht, beantworten bei berechtigtem Interesse die unteren Denkmalschutzbehörden. Innenarbeiten wie Fliesen im Bad oder ein neuer Bodenbelag sind davon meist weniger berührt, bei Denkmalen mit wertvoller Ausstattung kann es aber auch innen Auflagen geben. Wenn Sie Ihr Vorhaben eingrenzen konnten, genügt eine kurze Beschreibung über unser Formular; wir wählen anschließend einen passenden Maler- oder Fliesenlegerbetrieb für Sie aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Ist es im Genehmigungsverfahren gefordert, übernimmt die Ulmer Stadtbildgestaltung im Zuge der Bauausführung die Abstimmung von Materialien, Oberflächentexturen und Farbgebung.",
+      "quelle": "Stadt Ulm – Stadtbildgestaltung",
+      "url": "https://www.ulm.de/leben-in-ulm/bauen-und-wohnen/stadtbildgestaltung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Sofern keine verpflichtende Abstimmung vorgegeben ist, steht die Stadtbildgestaltung beratend zur Verfügung, wenn geplante Anstrichmaßnahmen die Erscheinung des öffentlichen Raumes wesentlich beeinflussen.",
+      "quelle": "Stadt Ulm – Stadtbildgestaltung",
+      "url": "https://www.ulm.de/leben-in-ulm/bauen-und-wohnen/stadtbildgestaltung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtbildgestaltung der Stadt Ulm ist intern eng mit der städtischen Denkmalpflege verbunden und nimmt bei Außenterminen die Belange von Denkmalschutz und Stadtbild gemeinsam wahr.",
+      "quelle": "Stadt Ulm – Stadtbildgestaltung",
+      "url": "https://www.ulm.de/leben-in-ulm/bauen-und-wohnen/stadtbildgestaltung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ist ein Gebäude Teil einer schützenswerten Gesamtanlage, unterliegt es laut Stadt Ulm bei allen Veränderungen am äußeren Erscheinungsbild dem Denkmalschutzgesetz, auch wenn es selbst kein Kulturdenkmal ist.",
+      "quelle": "Stadt Ulm – Denkmalschutz in Ulm",
+      "url": "https://www.ulm.de/leben-in-ulm/bauen-und-wohnen/denkmalschutz/denkmalschutz-in-ulm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Als Beispiel für einen künstlerischen Denkmalwert nennt die Stadt Ulm unter anderem den Werksteindekor einer Außenfassade.",
+      "quelle": "Stadt Ulm – Denkmalschutz in Ulm",
+      "url": "https://www.ulm.de/leben-in-ulm/bauen-und-wohnen/denkmalschutz/denkmalschutz-in-ulm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Zu den Zielen im Sanierungsgebiet „Innenstadt West“ gehören die Verbesserung der Fassadengestaltung entsprechend dem Gebiets- bzw. Baublockcharakter sowie Fassaden- und Dachbegrünungen.",
+      "quelle": "Sanierungstreuhand Ulm – Innenstadt West",
+      "url": "https://san-ulm.de/san_umgriff/innenstadtwest/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich die Fassadenfarbe in Ulm mit der Stadt abstimmen?",
+      "a": "Verpflichtend ist das, wenn es eine Baugenehmigung oder denkmalschutzrechtliche Auflagen vorgeben. Ansonsten bietet die Stadtbildgestaltung Beratung an, wenn der Anstrich das Bild des öffentlichen Raumes wesentlich beeinflusst."
+    },
+    {
+      "q": "Mein Haus in der Ulmer Altstadt ist kein Denkmal – gilt der Denkmalschutz trotzdem?",
+      "a": "Liegt es in einer geschützten Gesamtanlage, gilt das Denkmalschutzgesetz für Veränderungen am äußeren Erscheinungsbild. Auskunft geben die unteren Denkmalschutzbehörden."
+    },
+    {
+      "q": "Was plant die Stadt für Fassaden in der Ulmer Innenstadt West?",
+      "a": "In der Sanierungssatzung sind unter anderem eine bessere Fassadengestaltung passend zum Baublockcharakter und Fassadenbegrünungen als Ziele genannt."
+    }
+  ],
+  "offen": [
+    "Keine eigene Gestaltungssatzung oder Farbleitplan der Stadt Ulm online gefunden; nur Gestaltungsgrundsätze für Werbeanlagen und Außengastronomie.",
+    "Wasserhärte für Fliesen nicht genutzt, da bereits auf der Bad-Seite Ulm.",
+    "Ortsangaben im Einstieg (Altstadt, Weststadt) beispielhaft."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "esslingen",
+  "ortName": "Esslingen",
+  "kreis": "Esslingen",
+  "title": "Elektriker Esslingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Esslingen am Neckar: alte Leitungen im Altbau, Solarpotenzial im Energiesteckbrief, Denkmalschutz und Beratung im Kreis. Kostenlos vermittelt.",
+  "h1": "Elektriker in Esslingen",
+  "einstieg": "Viele Häuser in Esslingen am Neckar stammen aus einer Zeit, in der niemand an Wallbox oder Wärmepumpe dachte: Wer einen Elektriker in Esslingen sucht, will oft Leitungen und Zählerschrank modernisieren, bevor Wärmepumpe, Wallbox oder Photovoltaik dazukommen. Die Stadt hilft mit einem kostenlosen Gebäudesteckbrief, der Landkreis mit neutraler Solarberatung.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker Esslingen: Altbau, Zählerschrank und neue Verbraucher",
+      "text": "Fast die Hälfte der Esslinger Wohngebäude wurde nach Angaben der Stadt vor 1950 gebaut, weitere 20 Prozent zwischen 1950 und 1969. In solchen Häusern stammen Verteilung und Leitungen häufig aus einer Zeit ohne Durchlauferhitzer, Induktionsherd oder Ladestation. Das wird wichtiger, weil die städtische Wärmeplanung im Zielszenario 2040 einen spürbaren Anteil Heizstrom und Umweltwärme vorsieht, also auch mehr Wärmepumpen. Bevor eine Wallbox oder eine Wärmepumpe ans Netz geht, lohnt deshalb ein Blick auf Hausanschluss, Zählerplatz und Absicherung. Die Wärmeplanung selbst begründet nach Angaben der Stadt keine rechtlichen Pflichten für Eigentümer."
+    },
+    {
+      "h2": "Solarpotenzial prüfen: Energiesteckbrief und Beratung im Kreis",
+      "text": "Eigentümer können bei der Stadt kostenfrei einen Energiesteckbrief für ihr Gebäude anfordern; neben Wärmebedarf enthält er eine erste Einschätzung zum Solarpotenzial des Dachs. Vertiefen lässt sich das bei der Klimaschutzagentur des Landkreises Esslingen, die ihren Sitz in der Stadt hat: Die kostenfreie Erstberatung dauert 45 Minuten und findet in Esslingen in der Kandlerstraße statt; zu Photovoltaik gibt es zusätzlich Beratungen im eigenen Haus. Die Agentur verweist auf das Solardachkataster der LUBW mit Wirtschaftlichkeitsrechner und auf die Photovoltaikpflicht, die das Land für Neubauten und grundlegende Dachsanierungen vorsieht."
+    },
+    {
+      "h2": "Module auf Kulturdenkmalen",
+      "text": "Für Dächer in der historischen Innenstadt ist der Denkmalschutz der Stadt zuständig. Ein eingetragenes Kulturdenkmal darf nach Angaben der städtischen Denkmalschutzbehörde nur mit Genehmigung mit An- oder Aufbauten versehen oder in seinem Erscheinungsbild verändert werden; ob ein Haus betroffen ist, beantwortet die Behörde auf Anfrage. Ist der Rahmen geklärt, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Fast die Hälfte der Esslinger Wohngebäude wurde vor 1950 gebaut, weitere 20 Prozent zwischen 1950 und 1969.",
+      "quelle": "Stadt Esslingen am Neckar – Wärmewende in Esslingen",
+      "url": "https://www.esslingen.de/mobilitaet-und-klimaschutz/klima-und-umwelt/energiewende",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Zielszenario der Esslinger Wärmeplanung für 2040 könnten Fernwärme (30 %), Heizstrom (19 %), Umweltwärme (18 %) und Biogas (12 %) die wesentlichen Energieträger sein; rechtliche Verpflichtungen entstehen daraus nicht.",
+      "quelle": "Stadt Esslingen am Neckar – FAQ Kommunale Wärmeplanung",
+      "url": "https://www.esslingen.de/mobilitaet-und-klimaschutz/klima-und-umwelt/klimaschutzstrategie/faq-waermeplanung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der kostenlose Energiesteckbrief der Stadt Esslingen enthält neben dem Wärmebedarf auch eine erste Einschätzung zum Solarpotenzial des Dachs.",
+      "quelle": "Stadt Esslingen am Neckar – Wärmewende in Esslingen",
+      "url": "https://www.esslingen.de/mobilitaet-und-klimaschutz/klima-und-umwelt/energiewende",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Klimaschutzagentur des Landkreises Esslingen bietet 45-minütige kostenfreie Erstberatungen, unter anderem zur Solarenergie, in Esslingen in der Kandlerstraße 1/1 an; zur Photovoltaik gibt es auch Beratungen im eigenen Zuhause.",
+      "quelle": "Klimaschutzagentur des Landkreises Esslingen – Privatpersonen",
+      "url": "https://ksa-es.de/privatpersonen/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Klimaschutzagentur verweist auf das Solardachkataster der LUBW mit Wirtschaftlichkeitsrechner sowie auf die Photovoltaikpflicht in Baden-Württemberg, die unter anderem für neue Wohngebäude und bei grundlegender Dachsanierung gilt.",
+      "quelle": "Klimaschutzagentur des Landkreises Esslingen – Privatpersonen",
+      "url": "https://ksa-es.de/privatpersonen/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ein eingetragenes Kulturdenkmal darf nur mit Genehmigung der Denkmalschutzbehörde der Stadt Esslingen in seinem Erscheinungsbild verändert oder mit An- oder Aufbauten versehen werden.",
+      "quelle": "Stadt Esslingen am Neckar – Denkmalschutz",
+      "url": "https://www.esslingen.de/wohnen-und-bauen/denkmalschutz",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Esslingen strebt nach ihrem Klimaschutzkonzept bis 2040 Klimaneutralität an.",
+      "quelle": "Stadt Esslingen am Neckar – Klimaschutzstrategie",
+      "url": "https://www.esslingen.de/mobilitaet-und-klimaschutz/klima-und-umwelt/klimaschutzstrategie",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie erfahre ich, ob mein Dach in Esslingen für Photovoltaik geeignet ist?",
+      "a": "Eine erste Einschätzung liefert der kostenlose Energiesteckbrief der Stadt. Genauer wird es in der kostenfreien Erstberatung der Klimaschutzagentur des Landkreises in der Kandlerstraße."
+    },
+    {
+      "q": "Brauche ich für eine PV-Anlage auf einem Esslinger Kulturdenkmal eine Genehmigung?",
+      "a": "Nach Angaben der Stadt dürfen eingetragene Kulturdenkmale nur mit Genehmigung der Denkmalschutzbehörde mit Aufbauten versehen werden. Ob Ihr Haus betroffen ist, sagt Ihnen die städtische Denkmalschutzbehörde."
+    },
+    {
+      "q": "Verpflichtet mich die Esslinger Wärmeplanung zu einer Wärmepumpe?",
+      "a": "Nein, laut Stadt entstehen aus der kommunalen Wärmeplanung keine direkten Handlungsanweisungen und keine rechtlichen Verpflichtungen."
+    }
+  ],
+  "offen": [
+    "Der örtliche Stromverteilnetzbetreiber für Esslingen konnte nicht amtlich belegt werden: Die Netze-Seite der Stadtwerke Esslingen nennt nur Erdgas, Wasser und Wärme; netze-bw.de war nicht abrufbar. Deshalb keine Aussage zur PV-/Wallbox-Anmeldung beim Netzbetreiber.",
+    "Satz „stammen Verteilung und Leitungen häufig aus einer Zeit ohne Durchlauferhitzer …“ ist eine allgemeine fachliche Einordnung, kein Quellenbeleg.",
+    "Beratung zu Hause kostet laut KSA maximal 40 Euro – Betrag bewusst nicht übernommen."
+  ]
+}

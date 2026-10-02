@@ -1,0 +1,81 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "boeblingen",
+  "ortName": "Böblingen",
+  "kreis": "Böblingen",
+  "title": "Elektriker Böblingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Böblingen: Stromnetz seit 2026 bei den Stadtwerken, PV, Wallbox und Wärmepumpe anmelden, Balkonkraftwerk-Regeln. Kostenlos vermittelt.",
+  "h1": "Elektriker in Böblingen",
+  "einstieg": "Wer in Böblingen oder Dagersheim einen Elektriker für Photovoltaik, Speicher, Wallbox oder einen neuen Zählerschrank sucht, sollte wissen: Beim Stromnetz hat sich hier etwas verändert. Seit Anfang 2026 ist ein anderer Netzbetreiber für Anschlüsse und Anmeldungen zuständig als in den Jahren davor, und die Stadt verfolgt ein ehrgeiziges Klimaziel.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker in Böblingen: neuer Netzbetreiber seit 2026",
+      "text": "Lange waren die Böblinger Strom- und Gasnetze an eine landesweite Netzgesellschaft verpachtet. 2022 beschloss der Gemeinderat einstimmig, dass die Stadtwerke Böblingen die Netze selbst übernehmen: das Gasnetz zum 1. Januar 2024, das Stromnetz der Mittel- und Niederspannung in Böblingen und Dagersheim zum 1. Januar 2026. Für Bauherren und Eigentümer heißt das: Netzanschluss, Einspeisung und Zählerfragen laufen jetzt über die Stadtwerke. Für Elektrobetriebe führen die Stadtwerke ein eigenes Installateurverzeichnis. Für ältere Vorgänge, die noch beim früheren Netzbetreiber begonnen wurden, ist in der Regel etwas mehr Abstimmung nötig."
+    },
+    {
+      "h2": "Wallbox, Wärmepumpe, Speicher: Anmeldung im Netzanschlussportal",
+      "text": "Über das Netzanschlussportal der Stadtwerke Böblingen werden nicht nur neue Hausanschlüsse beantragt. Dort melden Sie oder Ihr Elektrobetrieb auch Verbrauchseinrichtungen wie Ladeeinrichtungen, Wärmepumpen, Stromspeicher und Klimaanlagen an, ebenso Photovoltaikanlagen und Batteriespeicher als Erzeugungsanlagen. Hinzu kommt die Registrierung im Marktstammdatenregister der Bundesnetzagentur, auf die die Energieagentur Kreis Böblingen ausdrücklich hinweist."
+    },
+    {
+      "h2": "Balkonkraftwerk und Photovoltaik: Klimaförderung BB",
+      "text": "Böblingen will bis 2035 klimaneutral werden. Aus einem Gemeinderatsantrag mit dem Titel „1.000 Balkonkraftwerke für Böblingen“ entstand das städtische Förderprogramm Klimaförderung BB, dessen erster Baustein Balkonkraftwerke waren. Für Steckersolargeräte nennt die Energieagentur Kreis Böblingen feste Leistungsgrenzen. Größere Anlagen auf dem Dach plant und montiert ein Fachbetrieb; wir wählen für Ihre Anfrage einen passenden Elektrobetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadtwerke Böblingen haben zum 01.01.2026 das Stromnetz der Mittel- und Niederspannung in Böblingen und Dagersheim (71032, 71034) übernommen; die Hochspannung betreibt weiterhin die Netze BW GmbH.",
+      "quelle": "Stadtwerke Böblingen – Stromnetz",
+      "url": "https://www.stadtwerke-boeblingen.de/netze/stromnetz",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im April 2022 beschloss der Böblinger Gemeinderat einstimmig die Übernahme der Gas- und Stromnetze durch die Stadtwerke; der Gasnetzbetrieb ging zum 01.01.2024 über, zuvor waren beide Netze an die Netze BW GmbH verpachtet.",
+      "quelle": "Stadtwerke Böblingen – Stromnetz",
+      "url": "https://www.stadtwerke-boeblingen.de/netze/stromnetz",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Netzanschlussportal der Stadtwerke Böblingen werden unter anderem Ladeeinrichtungen, Wärmepumpen, Stromspeicher und Klimaanlagen sowie Photovoltaikanlagen und Batteriespeicher angemeldet; Installationsunternehmen beantragen die Aufnahme ins Installateurverzeichnis per E-Mail.",
+      "quelle": "Stadtwerke Böblingen – Netzanschlussportal",
+      "url": "https://www.stadtwerke-boeblingen.de/netze/netzanschlussportal",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das kommunale Förderprogramm „Klimaförderung BB“ geht auf den Gemeinderatsantrag „1.000 Balkonkraftwerke für Böblingen“ vom Mai 2023 zurück; als erster Baustein startete im März 2024 das Förderprogramm Balkonkraftwerke.",
+      "quelle": "Stadt Böblingen – Förderung & Beratung",
+      "url": "https://www.boeblingen.de/mobilitaet--klima/klima--nachhaltigkeit/foerderung--beratung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Gemeinderat hat 2023 das Ziel beschlossen, Böblingen bis 2035 klimaneutral zu machen; das am 4. Juni 2025 beschlossene Klimaneutralitätskonzept umfasst 29 Maßnahmen in fünf Handlungsfeldern.",
+      "quelle": "Stadt Böblingen – Klimaneutralitätskonzept",
+      "url": "https://www.boeblingen.de/mobilitaet--klima/klima--nachhaltigkeit/klimaschutz/klimaneutralitaetskonzept",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut Energieagentur Kreis Böblingen sind Balkonkraftwerke im Marktstammdatenregister zu registrieren; die gesetzlichen Grenzen liegen bei 800 Watt am Wechselrichter und 2.000 Watt Modulleistung.",
+      "quelle": "Energieagentur Kreis Böblingen – Photovoltaik",
+      "url": "https://www.ea-bb.de/privatpersonen/erneuerbare_energien/photovoltaik/__Photovoltaik.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wer ist in Böblingen Netzbetreiber für Strom?",
+      "a": "Seit 1. Januar 2026 betreiben die Stadtwerke Böblingen das Stromnetz der Mittel- und Niederspannung in Böblingen und Dagersheim. Anmeldungen laufen über deren Netzanschlussportal."
+    },
+    {
+      "q": "Muss ich eine Wallbox in Böblingen anmelden?",
+      "a": "Die Stadtwerke Böblingen führen Ladeeinrichtungen ausdrücklich unter den Verbrauchseinrichtungen, die im Netzanschlussportal angemeldet werden. Meist übernimmt das der Elektrobetrieb."
+    },
+    {
+      "q": "Was gilt für ein Balkonkraftwerk in Böblingen?",
+      "a": "Laut Energieagentur Kreis Böblingen ist es im Marktstammdatenregister zu registrieren und auf 800 Watt am Wechselrichter begrenzt. Zur städtischen Förderung informiert die Seite Klimaförderung BB."
+    }
+  ],
+  "offen": [
+    "Stadtwerke melden auf der Stromnetz-Seite derzeit verlängerte Bearbeitungszeiten nach der Netzübernahme – bewusst nicht als Momentangabe übernommen, nur allgemein „mehr Abstimmung bei älteren Vorgängen“. Bitte prüfen, ob dieser Satz bleiben soll.",
+    "Förderprogramm Balkonkraftwerke: Antragsstopp seit 17.08.2026 (Budget ausgeschöpft) – nicht im Text, keine Beträge.",
+    "Ob Eintragung ins Installateurverzeichnis Voraussetzung für Anmeldungen ist, steht nicht ausdrücklich auf der Seite; im Text nur als Möglichkeit formuliert."
+  ]
+}

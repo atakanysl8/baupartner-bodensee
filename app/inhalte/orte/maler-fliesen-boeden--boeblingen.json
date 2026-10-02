@@ -1,0 +1,88 @@
+{
+  "leistung": "maler-fliesen-boeden",
+  "ort": "boeblingen",
+  "ortName": "Böblingen",
+  "kreis": "Böblingen",
+  "title": "Maler & Fliesenleger Böblingen – kostenlos vermittelt",
+  "description": "Maler und Fliesenleger in Böblingen: Gerüst und Straßensperrung, Fassaden in der Altstadt, alte Fassadenplatten und Fliesen entsorgen. Kostenlos vermittelt.",
+  "h1": "Maler und Fliesenleger in Böblingen",
+  "einstieg": "Ein neuer Fassadenanstrich am Geschäftshaus in der Unterstadt, frische Wandfarbe im Altbau am Schlossberg oder neue Fliesen im Bad eines Reihenhauses in Dagersheim: Maler und Fliesenleger in Böblingen arbeiten an sehr unterschiedlichen Gebäuden. Wo Gerüst, Gestaltung und Entsorgung zusammenkommen, sind Stadt und Landkreis die zuständigen Stellen.",
+  "abschnitte": [
+    {
+      "h2": "Maler in Böblingen: Fassade, Gerüst und Straßenraum",
+      "text": "Wird für den Fassadenanstrich ein Gehweg, ein Radweg oder ein Teil der Fahrbahn gesperrt, braucht es in Böblingen eine verkehrsrechtliche Anordnung der Straßenverkehrsbehörde im Bürger- und Ordnungsamt. Die Stadt verlangt den Antrag mit Verkehrszeichenplan mindestens zehn Arbeitstage vor Beginn; mit den Arbeiten darf erst nach Erlass der Anordnung begonnen werden. Bei älteren Häusern lohnt sich vor dem Gerüstaufbau ein Blick auf die Fassadenbekleidung: Laut Abfallwirtschaftsbetrieb des Landkreises enthalten ältere Fassadenplatten häufig Asbest, ihr Abbau gehört in die Hände einer Fachfirma."
+    },
+    {
+      "h2": "Altstadt und Kulturdenkmal: Gestaltung abstimmen",
+      "text": "Die Böblinger Innenstadt gliedert sich in Unterstadt, Altstadt und Stadtgarten. Die Altstadt ist der historische Ursprung der Stadt, mit kleinteiliger Struktur und einigen erhaltenen historischen Gebäuden. Für Altstadt, Schlossbergring und Teile der Unterstadt gelten örtliche Bauvorschriften zur Gestaltung von Werbeanlagen: In der Altstadt sind sie nur parallel zur Fassade im Erdgeschoss bis zur Brüstung des ersten Obergeschosses zulässig, oberhalb der Traufe gar nicht. Wer die Fassade eines Geschäftshauses neu gestalten lässt, plant das Schild daher in der Regel gleich mit. Für Arbeiten an Kulturdenkmalen stellt das Baurechtsamt zudem einen Antrag auf denkmalschutzrechtliche Genehmigung bereit."
+    },
+    {
+      "h2": "Fliesenleger und Bodenleger: Reste und Altmaterial entsorgen",
+      "text": "Alte Fliesen und Keramik gelten beim Abfallwirtschaftsbetrieb als Bauschutt und werden auf allen Wertstoffhöfen im Kreis angenommen. Farb- und Lackreste aus Privathaushalten nehmen die Schadstoffannahmestellen, darunter die auf der Hulb, in kleinen Mengen an. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Den Antrag auf verkehrsrechtliche Anordnung bei der Straßenverkehrsbehörde der Stadt Böblingen (Bürger- und Ordnungsamt) verlangt die Stadt mit vollständigen Angaben und Verkehrszeichenplan mindestens zehn Arbeitstage vor Maßnahmenbeginn; erst nach Erlass der Anordnung darf begonnen werden.",
+      "quelle": "Stadt Böblingen – Antrag auf verkehrsrechtliche Anordnung (Formular 112.221)",
+      "url": "https://www.boeblingen.de/site/Boeblingen-Internet/get/params_E-483374119/25230743/112.221%20Antrag%20Verkehrsrechtliche%20Anordnung%20ausf%C3%BCllbar%20Juli%202023.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut Abfallwirtschaftsbetrieb des Landkreises Böblingen enthalten ältere Fassadenplatten und Dachwellplatten häufig Asbestfasern; der Abbau von Fassadenplatten muss durch eine Fachfirma erfolgen, auf den Deponien im Landkreis sind nur Kleinstmengen unter strengen Bedingungen möglich.",
+      "quelle": "Abfallwirtschaft Landkreis Böblingen – Schadstoffannahmestellen",
+      "url": "https://www.awb-bb.de/start/entsorgen/schadstoffannahme.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Schadstoffannahmestellen des Landkreises, darunter der Wertstoffhof Böblingen-Hulb, nehmen Schadstoffe nur von Privathaushalten an, in verschlossenen und beschrifteten Behältern und bis 10 Liter bzw. 10 Kilogramm.",
+      "quelle": "Abfallwirtschaft Landkreis Böblingen – Schadstoffannahmestellen",
+      "url": "https://www.awb-bb.de/start/entsorgen/schadstoffannahme.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Keramik, Porzellan, Ziegel und andere rein mineralische Stoffe gelten als Bauschutt und können auf allen 31 Wertstoffhöfen des Landkreises abgegeben werden, darunter auf dem Wertstoffhof Böblingen in der Schönaicher Straße.",
+      "quelle": "Abfallwirtschaft Landkreis Böblingen – Bauschutt und Gips",
+      "url": "https://www.awb-bb.de/start/entsorgen/bauschutt_gips.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Böblinger Innenstadt ist dreigeteilt in Unterstadt, Altstadt und Stadtgarten; die Altstadt ist der historische Ursprung Böblingens mit kleinteiliger Struktur und einigen erhaltenen historischen Gebäuden.",
+      "quelle": "Stadt Böblingen – Innenstadtentwicklung",
+      "url": "https://www.boeblingen.de/stadt--wirtschaft/stadtentwicklung--bauen/innenstadtentwicklung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die örtlichen Bauvorschriften zur Gestaltung von Werbeanlagen gelten für Altstadt, Schlossbergring und die Unterstadt vom Elbenplatz bis zur Talstraße; in der Altstadt sind Werbeanlagen parallel zur Fassade nur im Erdgeschoss innerhalb der Brüstungszone des 1. Obergeschosses zulässig, oberhalb der Traufkante unzulässig.",
+      "quelle": "Stadt Böblingen – Örtliche Bauvorschriften zur Gestaltung von Werbeanlagen im Bereich der Innenstadt (630.03912)",
+      "url": "https://www.boeblingen.de/site/Boeblingen-Internet/get/params_E1902179899/24815060/630_03912%20%C3%96rtliche%20Bauvorschriften%20zur%20Gestaltung%20von%20Werbeanlagen%20%20im%20Bereich%20der%20Innenstadt%20B%C3%B6blingen.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Unter den Bauantragsunterlagen stellt das Baurechtsamt Böblingen einen Antrag auf Erteilung einer denkmalschutzrechtlichen Genehmigung bzw. Erlaubnis bereit.",
+      "quelle": "Stadt Böblingen – Baurechtsamt",
+      "url": "https://www.boeblingen.de/25317467",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist zu tun, wenn das Gerüst in Böblingen auf dem Gehweg steht?",
+      "a": "Für Sperrungen von Geh-, Rad- oder Fahrbahn ist eine verkehrsrechtliche Anordnung der Straßenverkehrsbehörde nötig. Die Stadt nennt einen Vorlauf von zehn Arbeitstagen; häufig stellt der Gerüstbauer den Antrag."
+    },
+    {
+      "q": "Wohin mit alten Fliesen nach der Badsanierung in Böblingen?",
+      "a": "Fliesen und Keramik gelten als Bauschutt und werden auf den Wertstoffhöfen des Landkreises angenommen, zum Beispiel in der Schönaicher Straße."
+    },
+    {
+      "q": "Meine Fassade hat alte Faserzementplatten – kann der Maler einfach drüberstreichen?",
+      "a": "Laut Abfallwirtschaftsbetrieb enthalten ältere Fassadenplatten häufig Asbest, und ihr Abbau gehört zu einer Fachfirma. Welche Arbeiten an solchen Platten zulässig sind, klärt der Fachbetrieb vor Ort."
+    }
+  ],
+  "offen": [
+    "Keine Gestaltungssatzung oder Farbvorgaben für Wohngebäude in der Böblinger Altstadt gefunden; nur die Werbeanlagen-Satzung, daher Bezug auf Geschäftshäuser.",
+    "Belegt ist nur das Denkmal-Antragsformular beim Baurechtsamt; Zuständigkeit als untere Denkmalschutzbehörde nicht wörtlich gefunden.",
+    "FAQ zu Faserzementplatten berührt Gefahrstoffrecht; bewusst ohne Aussage zur Zulässigkeit von Überstreichen formuliert.",
+    "Stadtteilbeispiele im Einstieg (Schlossberg, Dagersheim) nicht durch Fakten belegt."
+  ]
+}

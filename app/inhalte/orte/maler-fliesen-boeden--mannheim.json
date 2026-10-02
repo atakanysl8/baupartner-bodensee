@@ -1,0 +1,79 @@
+{
+  "leistung": "maler-fliesen-boeden",
+  "ort": "mannheim",
+  "ortName": "Mannheim",
+  "kreis": "Mannheim",
+  "title": "Maler & Fliesenleger Mannheim – kostenlos vermittelt",
+  "description": "Maler und Fliesenleger in Mannheim: Fassade am Denkmal, Altbeläge mit Asbestverdacht, Bauschutt zum Recyclinghof. Passenden Fachbetrieb kostenlos vermittelt.",
+  "h1": "Maler und Fliesenleger in Mannheim",
+  "einstieg": "Neuer Anstrich für die Gründerzeitfassade in der Neckarstadt, frische Fliesen im Bad der Nachkriegswohnung auf dem Lindenhof oder ein neuer Boden im Reihenhaus in Vogelstang: In Mannheim treffen Maler und Fliesenleger auf sehr unterschiedliche Baujahre. Was unter dem alten Belag steckt und ob die Fassade unter Schutz steht, sollte vor dem Angebot geklärt sein.",
+  "abschnitte": [
+    {
+      "h2": "Fassade streichen in Mannheim: Denkmal, Sanierungsgebiet, Gestaltungsbeirat",
+      "text": "Bei einem Kulturdenkmal sind in Mannheim nicht nur Eingriffe in die Substanz, sondern auch Veränderungen am Erscheinungsbild genehmigungspflichtig. Ob ein neuer Farbton, ein anderer Putz oder veränderte Fensterfaschen darunter fallen, beurteilt die untere Denkmalschutzbehörde im Fachbereich Baurecht, Bauverwaltung und Denkmalschutz. Im Sanierungsgebiet Neckarstadt-West II weist die Stadt darauf hin, dass Eigentümer Kosten für Modernisierung und Instandsetzung unter bestimmten Voraussetzungen steuerlich geltend machen können; Einzelheiten klären Stadt und Steuerberatung. Bei Bauvorhaben, die das Stadtbild prägen, berät seit 2010 zudem ein unabhängiger Gestaltungsbeirat aus fünf Architekten. Für die Fassadendämmung unter dem neuen Anstrich gibt es ein städtisches Programm zur energetischen Sanierung."
+    },
+    {
+      "h2": "Alte Fliesen und Böden: Asbest und Bauschutt richtig einordnen",
+      "text": "In Mannheimer Gebäuden aus der Zeit vor den 1990er-Jahren können Fliesenkleber, Spachtelmassen oder Bodenplatten asbesthaltig sein. Die Gewerbeaufsicht der Stadt weist darauf hin, dass Asbest heute nicht mehr als Baustoff verwendet werden darf und der Umgang nur noch bei Abbruch-, Sanierungs- und Instandhaltungsarbeiten zulässig ist, ausgeführt von Firmen mit Sachkundenachweis. Ob Altbeläge vor dem Abbruch untersucht werden sollten, ist deshalb eine sinnvolle Frage an den Fliesenleger. Für unbelasteten Fliesenschutt nimmt der Recyclinghof auf der Friesenheimer Insel mineralische Baureststoffe gegen Gebühr nach Verwiegung an. Schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Nach Angabe der Stadt Mannheim sind bei Kulturdenkmalen Eingriffe in die Bausubstanz ebenso wie Veränderungen am Erscheinungsbild baurechtlich bzw. denkmalrechtlich genehmigungspflichtig (§ 8 Abs. 1 Denkmalschutzgesetz).",
+      "quelle": "Stadt Mannheim – Denkmalrechtliche Genehmigung",
+      "url": "https://www.mannheim.de/de/service-bieten/bauen-und-wohnen/denkmalschutz/denkmalrechtliche-genehmigung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Sanierungsgebiet Neckarstadt-West II besteht laut Stadt für Hauseigentümer die Möglichkeit, Kosten für Modernisierungs- und Instandsetzungsmaßnahmen nach §§ 7h, 10f, 11a EStG steuerlich geltend zu machen.",
+      "quelle": "Stadt Mannheim – Sanierungsgebiet Neckarstadt-West II",
+      "url": "https://www.mannheim.de/de/stadt-gestalten/staedtebauliche-sanierung-und-staedtebaufoerderung/aktuelle-sanierungsgebiete-und-einzelprojekte/sanierungsgebiet-neckarstadt-west-ii",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Seit September 2010 berät ein unabhängiges Gremium aus fünf Architekten die Stadt Mannheim bei Bauvorhaben, die wegen Größe, Lage und Bedeutung das Stadtbild prägen; die Beiräte unterstützen Bauherren in der Anfangsphase des Entwurfs.",
+      "quelle": "Stadt Mannheim – Gestaltungsbeirat",
+      "url": "https://www.mannheim.de/de/stadt-gestalten/stadtgestaltung-und-stadtbild/gestaltungsbeirat",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Gewerbeaufsicht der Stadt Mannheim weist darauf hin, dass Asbest nicht mehr als Baustoff verwendet werden darf; ein Umgang ist nur bei Abbruch-, Sanierungs- und Instandhaltungsarbeiten zulässig, die von Firmen mit Sachkundenachweis ausgeführt und von der Gewerbeaufsicht überwacht werden.",
+      "quelle": "Stadt Mannheim, Gewerbeaufsicht – Gefahrstoffe",
+      "url": "https://www.mannheim.de/de/wirtschaft-entwickeln/unternehmensservice/gewerbeaufsicht/gefahrstoffe",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der ABG-Recyclinghof Friesenheimer Insel nimmt unter anderem mineralische und brennbare Baureststoffe an, kostenpflichtig nach Verwiegung; bei der Anlieferung besteht Nachweispflicht.",
+      "quelle": "Stadt Mannheim – ABG-Recyclinghof Friesenheimer Insel",
+      "url": "https://www.mannheim.de/de/service-bieten/umwelt/stadtraumservice-mannheim/abfallwirtschaft/recyclinghoefe/abg-recyclinghof-friesenheimer-insel",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Mit dem städtischen Programm zur energetischen Sanierung werden laut Pressemitteilung vom 10.03.2026 Einzelmaßnahmen an der Gebäudehülle gefördert, darunter die Dämmung der Fassade; Haushalte mit geringem oder mittlerem Einkommen erhalten eine erhöhte Förderung.",
+      "quelle": "Stadt Mannheim – Pressemitteilung Neustart der Förderprogramme",
+      "url": "https://www.mannheim.de/de/presse/neustart-der-foerderprogramme-fuer-gebaeudesanierung-heizungserneuerung-photovoltaik-und",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich in Mannheim eine Genehmigung, um die Fassade eines Denkmals neu zu streichen?",
+      "a": "Nach Angabe der Stadt sind auch Veränderungen am Erscheinungsbild eines Kulturdenkmals genehmigungspflichtig. Ansprechpartner ist der Fachbereich Baurecht, Bauverwaltung und Denkmalschutz als untere Denkmalschutzbehörde."
+    },
+    {
+      "q": "Wer überwacht in Mannheim Arbeiten an asbesthaltigen Fliesen oder Bodenplatten?",
+      "a": "Zuständig ist die Gewerbeaufsicht der Stadt Mannheim. Solche Arbeiten führen nach ihren Angaben Firmen mit Sachkundenachweis aus."
+    },
+    {
+      "q": "Wohin mit altem Fliesenschutt in Mannheim?",
+      "a": "Der ABG-Recyclinghof auf der Friesenheimer Insel nimmt mineralische Baureststoffe gebührenpflichtig nach Verwiegung an. Bei der Anlieferung besteht Nachweispflicht."
+    }
+  ],
+  "offen": [
+    "Satz zu möglichen asbesthaltigen Klebern/Spachtelmassen/Bodenplatten in Gebäuden vor den 1990er-Jahren ist allgemeines Fachwissen, nicht durch die Mannheimer Quelle belegt.",
+    "Recyclinghof: Annahmebedingungen für Fliesenschutt (Mengen, Asbestausschluss) nicht im Detail geprüft; Gebührentabelle nicht übernommen.",
+    "Sonderabschreibung im Sanierungsgebiet: Steuersätze bewusst nicht genannt; Voraussetzungen (z. B. Vereinbarung vor Beginn) nicht auf der Seite beschrieben.",
+    "Stadtteilbeispiele im Einstieg nicht belegt.",
+    "Kein Wasserhärte-Fakt, da bereits auf bad-sanitaer--mannheim."
+  ]
+}

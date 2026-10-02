@@ -1,0 +1,87 @@
+{
+  "leistung": "maler-fliesen-boeden",
+  "ort": "filderstadt",
+  "ortName": "Filderstadt",
+  "kreis": "Esslingen",
+  "title": "Maler & Fliesenleger Filderstadt – kostenlos vermittelt",
+  "description": "Maler und Fliesenleger in Filderstadt: Wasserhärte je Stadtteil, Außenputz in den Sanierungsgebieten Bernhausen und Plattenhardt. Kostenlos vermittelt.",
+  "h1": "Maler und Fliesenleger in Filderstadt",
+  "einstieg": "Bernhausen, Bonlanden, Harthausen, Plattenhardt, Sielmingen: In Filderstadt zählt der Stadtteil auch bei Fliesen und Fassaden. Je nach Stadtteil kommt anderes Wasser aus der Leitung, und in den Ortskernen von Bernhausen und Plattenhardt gelten Sanierungsgebiete. Wer hier einen Maler oder Fliesenleger sucht, findet bei der Stadt und den Stadtwerken die passenden Rahmendaten.",
+  "abschnitte": [
+    {
+      "h2": "Bodensee- oder Filderwasser: Kalk auf Fliesen und Fugen",
+      "text": "Die Stadtwerke Filderstadt verteilen zwei Wassersorten. Bernhausen, Bonlanden, Plattenhardt und der Süden von Harthausen erhalten Bodenseewasser mit 9,1 °dH, Sielmingen und der nördliche Teil von Harthausen Filderwasser aus der zentralen Enthärtungsanlage im Wasserwerk Neckartailfingen mit 10,1 °dH (jeweils Mittelwert 2025). Beides liegt im Härtebereich mittel. Für den Fliesenleger ist das eine nützliche Angabe: Bei großformatigen Fliesen, bodengleichen Duschen und dunklen Fugen fallen Kalkränder je nach Wasser und Pflege unterschiedlich stark auf, was bei der Wahl von Oberfläche und Fugenmaterial eine Rolle spielen kann."
+    },
+    {
+      "h2": "Außenputz und Anstrich in den Sanierungsgebieten Bernhausen und Plattenhardt",
+      "text": "Die Stadt führt förmlich festgelegte Sanierungsgebiete in der Innenstadt Bernhausen, die im November 2015 in die Förderkulisse von Bund und Land aufgenommen wurde, und im Ortskern Plattenhardt. Nach den städtischen Förderrichtlinien zählen zu den Instandsetzungen unter anderem die Erneuerung von Außenputz, Türen und Fenstern; eine ortsbildgerechte Gestaltung wird vorausgesetzt, und die äußere Gestaltung ist rechtzeitig vor der Ausführung mit der Stadt abzustimmen. Für Eigentümer im Sanierungsgebiet bietet die Stadt eine kostenlose Sanierungsberatung vor Ort an, die auch die gestalterische Planung begleitet. Wie das Verfahren aufgebaut ist und welche Genehmigungen gelten, erläutert das Amt für Stadtplanung und Stadtentwicklung."
+    },
+    {
+      "h2": "Dämmung, Gestaltungsbeirat und Beratung in Bernhausen",
+      "text": "Geht es um mehr als Farbe, etwa einen Wärmedämmputz, berät die Klimaschutzagentur des Landkreises Esslingen kostenfrei zur Gebäudemodernisierung, unter anderem in der Dienststelle Bernhausen in der Aicher Straße. Größere Vorhaben legt die Stadt ihrem Gestaltungsbeirat vor. Wenn Sie wissen, was gemacht werden soll, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Bernhausen, Bonlanden, Plattenhardt und das südliche Harthausen erhalten Bodenseewasser mit 9,1 °dH, Sielmingen und das nördliche Harthausen Filderwasser mit 10,1 °dH (Härtebereich mittel, Mittelwerte 2025).",
+      "quelle": "Stadtwerke Filderstadt – Wasserqualität und Härtegrad",
+      "url": "https://www.filderstadtwerke.de/de/Privatkunden/Wasserqualitaet-Haerte",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Filderwasser für Sielmingen und Teile von Harthausen kommt aus der zentralen Enthärtungsanlage des Wasserwerks Neckartailfingen des Zweckverbands Filderwasserversorgung.",
+      "quelle": "Stadtwerke Filderstadt – Wasserqualität und Härtegrad",
+      "url": "https://www.filderstadtwerke.de/de/Privatkunden/Wasserqualitaet-Haerte",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Sanierungsgebiet „Innenstadt Bernhausen“ wurde im November 2015 in die Förderkulisse des Bundes und des Landes Baden-Württemberg aufgenommen.",
+      "quelle": "Stadt Filderstadt – Flyer Sanierungsgebiet Innenstadt Bernhausen",
+      "url": "https://www.filderstadt.de/site/Filderstadt-Internet-2019/get/params_E-913305166/21710314/2023-09-13_Filderstadt-Bernhausen_Flyer.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach den Filderstädter Förderrichtlinien für Privatmaßnahmen zählen zu den Instandsetzungen unter anderem die Erneuerung von Dachdeckung, Außenputz, Türen und Fenstern; die äußere Gestaltung ist rechtzeitig vor der Ausführung mit der Stadt abzustimmen.",
+      "quelle": "Stadt Filderstadt – Förderrichtlinien für Privatmaßnahmen",
+      "url": "https://www.filderstadt.de/site/Filderstadt-Internet-2019/get/params_E1048026385/18361763/F%C3%B6rderrichtlinien%20f%C3%BCr%20die%20F%C3%B6rderung%20von%20Privatma%C3%9Fnahmen%20ab%2016-04-2021.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für private Sanierungsvorhaben in förmlich festgelegten Sanierungsgebieten bietet die Stadt Filderstadt eine Beratung vor Ort zu Fördermöglichkeiten an und begleitet die gestalterische Planung.",
+      "quelle": "Stadt Filderstadt – Sanierungsberatung/Sanierungsflyer",
+      "url": "https://www.filderstadt.de/start/service/Sanierungsberatung_Sanierungsflyer.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Gestaltungsbeirat Filderstadt besteht aus vier Mitgliedern und tagt in der Regel einmal im Quartal; er gibt Empfehlungen zu städtebaulich bedeutsamen Vorhaben.",
+      "quelle": "Stadt Filderstadt – Gestaltungsbeirat",
+      "url": "https://www.filderstadt.de/start/service/Gestaltungsbeirat.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Klimaschutzagentur des Landkreises Esslingen bietet kostenfreie Erstberatungen zur Gebäudemodernisierung auch in Filderstadt an, in der Dienststelle Bernhausen, Aicher Straße 9.",
+      "quelle": "Klimaschutzagentur des Landkreises Esslingen – Privatpersonen",
+      "url": "https://ksa-es.de/privatpersonen/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Wasser in Filderstadt für Bad und Küche?",
+      "a": "Mittelhart: Bodenseewasser in Bernhausen, Bonlanden, Plattenhardt und im südlichen Harthausen hat 9,1 °dH, das Filderwasser in Sielmingen und im nördlichen Harthausen 10,1 °dH (Mittelwerte 2025)."
+    },
+    {
+      "q": "Was gilt für einen neuen Außenputz im Ortskern von Bernhausen oder Plattenhardt?",
+      "a": "Dort liegen Sanierungsgebiete. Nach den Förderrichtlinien wird eine ortsbildgerechte Gestaltung vorausgesetzt und die äußere Gestaltung mit der Stadt abgestimmt; Auskunft gibt das Amt für Stadtplanung und Stadtentwicklung."
+    },
+    {
+      "q": "Wo gibt es in Filderstadt eine neutrale Beratung zur Fassadendämmung?",
+      "a": "Die Klimaschutzagentur des Landkreises Esslingen berät kostenfrei, unter anderem in der Dienststelle Bernhausen in der Aicher Straße 9."
+    }
+  ],
+  "offen": [
+    "Antragsfrist für Zuschüsse im Sanierungsgebiet Bernhausen laut Flyer „bis Dezember 2025“ – möglicherweise abgelaufen; daher nur Beratungsangebot genannt, keine Förderzusage.",
+    "Die Seiten zu den Sanierungsgebieten Bernhausen und Plattenhardt auf filderstadt.de zeigen ohne JavaScript keinen Inhalt; Plattenhardt ist nur über den Seitentitel „Sanierungsgebiet Plattenhardt ‚Ortskern Plattenhardt‘“ belegt.",
+    "Förderrichtlinien vom 10.02.2021: Als Baubeginn gilt bereits die Beauftragung eines Handwerkers (Folge: kein Zuschuss) – nicht in den Text übernommen, siehe Anwaltsfrage."
+  ]
+}

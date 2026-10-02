@@ -1,0 +1,91 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "heidelberg",
+  "ortName": "Heidelberg",
+  "kreis": "Heidelberg",
+  "title": "Elektriker Heidelberg – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Heidelberg: Wallbox und PV beim Netzbetreiber anmelden, Solarregeln für Altstadt und Weststadt, Eignungscheck der KLiBA. Kostenlos vermittelt.",
+  "h1": "Elektriker in Heidelberg",
+  "einstieg": "Wer in Heidelberg einen Elektriker sucht, hat oft mehr vor als neue Steckdosen: Ein Zählerschrank für die Wallbox, eine Photovoltaikanlage auf dem Dach in Rohrbach oder ein Speicher im Keller in Wieblingen. Dabei spielen der örtliche Netzbetreiber, die Regeln für Solaranlagen in den geschützten Gesamtanlagen und die städtischen Beratungsangebote zusammen.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker in Heidelberg: Anmeldung über das Netzportal",
+      "text": "Für das Stromnetz in Heidelberg und Eppelheim ist der kommunale Netzbetreiber der Stadtwerke zuständig. PV-Anlagen und Speicher unter 135 Kilowatt werden dort online über das Netzportal beantragt, mit Unterlagen wie Lage- und Übersichtsplan; nach der Netzprüfung stellt der Installateur den Inbetriebnahmeantrag und beantragt den Zähler. Auch Ladeeinrichtungen für das E-Auto sind anzumelden, das übernimmt in der Regel der ausführende Elektrobetrieb mit dem Formular „Antrag Ladepunkt“. Ab 4,2 Kilowatt Ladeleistung greift § 14a Energiewirtschaftsgesetz: Neue Wallboxen gelten dann als steuerbare Verbrauchseinrichtung, dafür gibt es reduzierte Netzentgelte. Ob der Hausanschluss und der vorhandene Zählerschrank die zusätzliche Leistung tragen, klärt der Elektriker vor der Anmeldung."
+    },
+    {
+      "h2": "Solarmodule in Alt-Heidelberg und der Weststadt",
+      "text": "In den beiden Gesamtanlagen gelten eigene Richtlinien der unteren Denkmalschutzbehörde. Die Altstadt ist dafür in vier Zonen eingeteilt: In der Kernzone 1 sind auf ziegelgedeckten, geneigten Dächern nur Solarziegel in der Farbe der Dachhaut zulässig, in der Zone 4 auch handelsübliche Module. Generell sollen sich die Anlagen der Dachfläche unterordnen, matt und nicht spiegelnd sein. In der Weststadt mit ihren drei Zonen ist eine Solaranlage genehmigungspflichtig, wenn sie vom öffentlichen Verkehrsraum aus sichtbar ist. Für Balkonkraftwerke und Fassadenmodule enthält die Weststadt-Richtlinie keine eigenen Vorgaben. Bei denkmalgeschützten Gebäuden und in den Schutzzonen ist das Kompetenzzentrum Bauen-Wohnen-Förderung der erste Ansprechpartner."
+    },
+    {
+      "h2": "Eignung prüfen und Beratung der Stadt nutzen",
+      "text": "Für einen ersten Blick auf das eigene Dach empfiehlt die Stadt das Solardachkataster der LUBW im Energieatlas Baden-Württemberg. Genauer wird der Photovoltaik-Eignungscheck der KLiBA, der Anlagengröße, Stromertrag und Kosten für das konkrete Dach durchrechnet. Wer Dachbegrünung und Module kombinieren will, findet im städtischen Handlungsleitfaden Hinweise zur Aufständerung. Seit Juli 2026 fördert die Stadt zudem Photovoltaik über ihr Programm „Rationelle Energieverwendung“, auch Mieterstrom; Anträge werden laut Stadt grundsätzlich nur angenommen, solange noch kein Auftrag erteilt ist. Wenn Sie Ihr Vorhaben über unser Formular schildern, wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadtwerke Heidelberg Netze sind Netzbetreiber für Heidelberg und Eppelheim; PV-Anlagen und Speicher unter 135 kW werden online über das Netzportal beantragt, die Inbetriebnahme beantragt der Installateur nach Freigabe.",
+      "quelle": "Stadtwerke Heidelberg Netze – Einspeiser",
+      "url": "https://www.netze-heidelberg.de/einspeiser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Steckersolargeräte unter 800 Watt sind im Marktstammdatenregister zu registrieren; beim Netzbetreiber ist eine Anmeldung nur nötig, wenn eine Einspeisevergütung gewünscht ist oder am selben Zähler schon eine Erzeugungsanlage hängt.",
+      "quelle": "Stadtwerke Heidelberg Netze – Einspeiser",
+      "url": "https://www.netze-heidelberg.de/einspeiser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Alle Ladeeinrichtungen für E-Fahrzeuge sind beim Heidelberger Netzbetreiber anzumelden, in der Regel durch den Installateur über das Netzportal; Anlagen über 4,2 kW fallen unter § 14a EnWG.",
+      "quelle": "Stadtwerke Heidelberg Netze – E-Mobilität",
+      "url": "https://www.netze-heidelberg.de/emobil-anschluss",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach der Richtlinie vom 1. Februar 2024 ist die Altstadt in vier Zonen eingeteilt; in der Kernzone 1 sind auf ziegelgedeckten, geneigten Dächern nur Solarziegel in der Farbe der Dachhaut zulässig.",
+      "quelle": "Stadt Heidelberg – Richtlinie Photovoltaik Alt-Heidelberg (Ortsrecht 6.13.1)",
+      "url": "https://www.heidelberg.de/site/Heidelberg2021/get/documents_E305690521/heidelberg/Objektdatenbank/30/PDF/30_pdf_ortsr_6-13-1_Richtlinie_Genehmigung_Photovoltaik_Alt-Heidelberg.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In der Gesamtanlage Weststadt sind Anlagen zur photovoltaischen und thermischen Solarnutzung genehmigungspflichtig, wenn sie vom öffentlichen Verkehrsraum aus sichtbar sind; die Richtlinie vom 9. April 2025 teilt die Weststadt in drei Zonen.",
+      "quelle": "Stadt Heidelberg – Richtlinie Photovoltaik Weststadt (Ortsrecht 6.22.1)",
+      "url": "https://www.heidelberg.de/site/Heidelberg2021/get/documents_E457729768/heidelberg/Objektdatenbank/30/PDF/30_pdf_ortsr_6-22-1_Richtlinie_Genehmigungsfaehigkeit_Photovoltaikanlagen_Geltungsbereich_Gesamtanlagenschutzsatzung_Weststadt_Heidelberg.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die KLiBA bietet in Heidelberg einen Photovoltaik-Eignungscheck an; zur Prüfung des Solarpotenzials verweist die Stadt außerdem auf das Solardachkataster der LUBW.",
+      "quelle": "Stadt Heidelberg – Heidelberger Sonnenstrom",
+      "url": "https://www.heidelberg.de/HD/Leben/heidelberger+sonnenstrom+_++energie+vom+dach.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Seit 1. Juli 2026 fördert die Stadt Heidelberg Photovoltaikanlagen auf Dach- und an Fassadenflächen sowie Mieterstromkonzepte über das Förderprogramm „Rationelle Energieverwendung“.",
+      "quelle": "Stadt Heidelberg – Umwelt-Förderprogramme",
+      "url": "https://www.heidelberg.de/HD/Leben/Umwelt+Foerderprogramme.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wer meldet in Heidelberg die Wallbox beim Netzbetreiber an?",
+      "a": "Anzumelden sind alle Ladeeinrichtungen. Laut Netzbetreiber übernimmt das in der Regel der Installateur über das Netzportal mit dem Formular „Antrag Ladepunkt“."
+    },
+    {
+      "q": "Darf ich in der Heidelberger Altstadt Photovoltaik aufs Dach bauen?",
+      "a": "Solaranlagen sind dort genehmigungspflichtig. Was zulässig ist, hängt von der Zone der städtischen Richtlinie ab, von Solarziegeln in der Kernzone 1 bis zu handelsüblichen Modulen in Zone 4."
+    },
+    {
+      "q": "Muss ein Balkonkraftwerk in Heidelberg beim Netzbetreiber angemeldet werden?",
+      "a": "Geräte unter 800 Watt werden im Marktstammdatenregister registriert. Eine zusätzliche Anmeldung beim Netzbetreiber ist laut Stadtwerke-Netztochter nur bei gewünschter Vergütung oder einer weiteren Anlage am selben Zähler nötig."
+    },
+    {
+      "q": "Wo prüfe ich, ob mein Heidelberger Dach für Photovoltaik taugt?",
+      "a": "Einen Überblick gibt das Solardachkataster der LUBW. Für eine konkrete Rechnung bietet die KLiBA einen Photovoltaik-Eignungscheck an."
+    }
+  ],
+  "offen": [
+    "Eigenanteil des KLiBA-Eignungschecks (30 Euro) bewusst nicht genannt (Betragsverbot sinngemäß).",
+    "Netzbetreiber-Texte über WebFetch zusammengefasst gelesen; Netzprüfungsfrist „sechs Monate“ nicht übernommen.",
+    "Ortsteile im Einstieg (Rohrbach, Wieblingen) nur als Beispiele, nicht durch Fakten belegt."
+  ]
+}

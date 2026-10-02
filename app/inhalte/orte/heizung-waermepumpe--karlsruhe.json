@@ -1,0 +1,87 @@
+{
+  "leistung": "heizung-waermepumpe",
+  "ort": "karlsruhe",
+  "ortName": "Karlsruhe",
+  "kreis": "Karlsruhe",
+  "title": "Wärmepumpe Karlsruhe – Heizungsbauer kostenlos vermittelt",
+  "description": "Wärmepumpe und Heizung in Karlsruhe: Fernwärme-Check, Nahwärme-Studien, Erdwärme im Wasserschutzgebiet und Energieleitplan. Kostenlos vermittelt.",
+  "h1": "Wärmepumpe und Heizung in Karlsruhe",
+  "einstieg": "Die alte Ölheizung im Haus in Daxlanden macht nicht mehr lange, im Altbau in der Weststadt steht die Gastherme zur Erneuerung an: Wer in Karlsruhe die Heizung tauscht, fragt sich zuerst, ob eine Wärmepumpe passt oder ob Fern- oder Nahwärme in die Straße kommt. Orientierung geben der Energieleitplan der Stadt und mehrere Nahwärme-Studien.",
+  "abschnitte": [
+    {
+      "h2": "Fernwärme, Nahwärme oder eigene Wärmepumpe?",
+      "text": "Der Energieleitplan teilt das Stadtgebiet in Eignungsgebiete für Einzelheizungen, Fernwärme und Nahwärme ein, gibt aber ausdrücklich keine verbindliche Aussage für einzelne Häuser. Ob Fernwärme an der eigenen Adresse schon verfügbar ist, lässt sich über einen Online-Check der Stadtwerke prüfen. Für mehrere Quartiere hat die Stadt Nahwärme untersuchen lassen: In Weiherfeld und im Grötzinger Wohnpark an der Pfinz wäre ein Netz grundsätzlich machbar, sofern genug Haushalte mitmachen. In Daxlanden, Oberreut, Hagsfeld und Rüppurr ist Nahwärme nach den Studien vorerst keine Option. Wer dort zeitnah tauschen muss, landet laut Stadt in aller Regel bei einer Einzelheizung, nach Möglichkeit mit Wärmepumpe."
+    },
+    {
+      "h2": "Erdwärme in der Rheinebene: Bohrtiefe und Wasserschutzgebiete",
+      "text": "Im Informationssystem Oberflächennahe Geothermie (ISONG) des Landesamts für Geologie lässt sich für jedes Grundstück abfragen, welche Bohrtiefe zulässig ist und ob es in einem Wasserschutzgebiet liegt. Stadtweit gibt es zum Schutz des unteren Grundwasserleiters bereichsweise Tiefenbegrenzungen. In der Schutzzone IIIA sind Geothermieanlagen nach Angaben der Stadt in der Regel nicht erlaubt, in der Zone IIIB nur mit Wasser als Wärmeträger. Für jede Anlage braucht es eine wasserrechtliche Erlaubnis, beantragt bei der unteren Wasserbehörde."
+    },
+    {
+      "h2": "Beratung vor dem Heizungstausch",
+      "text": "Ob in einer Straße künftig ein Anschluss- und Benutzungszwang für ein Wärmenetz kommt, behandelt der Energieleitplan nicht; bei einem Fernwärmeangebot können Eigentümer laut Stadt weiterhin frei entscheiden. Fragen zum Gebäudeenergiegesetz und zu dezentralen Lösungen beantwortet die Karlsruher Energie- und Klimaschutzagentur, die auch in die Stadtteile kommt. Ist die Richtung klar, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Heizungsbauer aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Der Energieleitplan unterteilt das Stadtgebiet anhand von Wärmedichten und Gebäudestrukturen in Eignungsgebiete für Einzelbeheizung, Fernwärme und Nahwärme; eine verbindliche Aussage für einzelne Haushalte enthält er nicht.",
+      "quelle": "Stadt Karlsruhe – Energieleitplan (FAQ)",
+      "url": "https://www.karlsruhe.de/umwelt-klima/klimaschutz-klimaanpassung/klimaschutzaktivitaeten/energieleitplan",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach den Machbarkeitsstudien der Stadt ist Nahwärme in Weiherfeld, im Grötzinger Wohnpark an der Pfinz und im Gewerbegebiet An der Rossweid grundsätzlich möglich, in Daxlanden, Oberreut, Hagsfeld und Rüppurr derzeit keine Option.",
+      "quelle": "Stadt Karlsruhe – Energieleitplan, Ergebnisse Machbarkeitsstudien Nahwärme",
+      "url": "https://www.karlsruhe.de/umwelt-klima/klimaschutz-klimaanpassung/klimaschutzaktivitaeten/energieleitplan",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ob in Karlsruhe eine Pflicht zum Anschluss an ein Wärmenetz kommt, behandelt der Energieleitplan nicht; bei einem Fernwärmeangebot kann laut Stadt weiterhin frei über die Art der Wärmeversorgung entschieden werden.",
+      "quelle": "Stadt Karlsruhe – Energieleitplan (FAQ)",
+      "url": "https://www.karlsruhe.de/umwelt-klima/klimaschutz-klimaanpassung/klimaschutzaktivitaeten/energieleitplan",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Größter Lieferant der Karlsruher Fernwärme ist Abwärme der Mineralölraffinerie MiRO; über 55.000 Wohn- und Gewerbeeinheiten sind angeschlossen, die Verfügbarkeit lässt sich je Adresse online prüfen.",
+      "quelle": "Stadtwerke Karlsruhe – Fernwärme-Anschluss",
+      "url": "https://www.stadtwerke-karlsruhe.de/de/pk/fernwaerme/anschluss.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im ISONG kann für jedes Grundstück abgefragt werden, welche Bohrtiefe möglich ist und ob es in einem Wasserschutzgebiet liegt; im Stadtgebiet gilt für Erdwärmesonden bereichsweise eine Tiefenbegrenzung.",
+      "quelle": "Stadt Karlsruhe – Oberflächennahe Geothermie",
+      "url": "https://www.karlsruhe.de/umwelt-klima/umweltschutz/geothermie",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In der Wasserschutzzone IIIA sind Geothermieanlagen in der Regel nicht erlaubt; in Zone IIIB dürfen Erdwärmesonden nur mit Wasser als Wärmeträgermedium betrieben werden. Für die Nutzung ist eine wasserrechtliche Erlaubnis nötig.",
+      "quelle": "Stadt Karlsruhe – Oberflächennahe Geothermie",
+      "url": "https://www.karlsruhe.de/umwelt-klima/umweltschutz/geothermie",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Anträge auf Genehmigungen für Geothermiebohrungen können laut Stadt bei der unteren Wasserbehörde gestellt werden; zum Gebäudeenergiegesetz und zu dezentralen Heizungslösungen verweist die Stadt auf die Karlsruher Energie- und Klimaschutzagentur.",
+      "quelle": "Stadt Karlsruhe – Energieleitplan (FAQ)",
+      "url": "https://www.karlsruhe.de/umwelt-klima/klimaschutz-klimaanpassung/klimaschutzaktivitaeten/energieleitplan",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kommt in meiner Karlsruher Straße bald Fernwärme?",
+      "a": "Das zeigt der Verfügbarkeits-Check der Stadtwerke für die einzelne Adresse."
+    },
+    {
+      "q": "Lohnt es sich in Rüppurr oder Oberreut, auf ein Nahwärmenetz zu warten?",
+      "a": "Nach den Machbarkeitsstudien der Stadt ist Nahwärme in diesen Stadtteilen vorerst keine Option. Steht ein Heizungstausch an, bleibt dort in der Regel eine Einzelheizung."
+    },
+    {
+      "q": "Darf ich in Karlsruhe für eine Wärmepumpe eine Erdwärmesonde bohren lassen?",
+      "a": "Das hängt vom Grundstück ab. Bohrtiefe und Wasserschutzzone zeigt das ISONG; nötig ist in jedem Fall eine wasserrechtliche Erlaubnis, über die die untere Wasserbehörde entscheidet."
+    }
+  ],
+  "offen": [
+    "Stadtteilnennungen im Einstieg (Daxlanden, Weststadt) sind Beispiele; Daxlanden ist zugleich als Nahwärme-Gebiet ohne Option belegt.",
+    "Die Stadtseite nennt einen Stichtag für GEG-Vorgaben (1. Juli 2026) und verweist auf § 71 GEG; bewusst nicht übernommen (Pflichtaussage, Rechtslage im Wandel; die Stadtwerke nennen bereits das „Gebäudemodernisierungsgesetz“).",
+    "Abstandsempfehlungen für Erdwärmesonden (10 m untereinander, 5 m zum Nachbargrundstück) stehen auf der Stadtseite, wurden aber nicht übernommen."
+  ]
+}

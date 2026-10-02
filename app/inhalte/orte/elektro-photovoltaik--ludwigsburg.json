@@ -1,0 +1,94 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "ludwigsburg",
+  "ortName": "Ludwigsburg",
+  "kreis": "Ludwigsburg",
+  "title": "Elektriker Ludwigsburg – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Ludwigsburg: Solar-Check der Stadt, Netzanschluss bei den SWLB, Wallbox und Speicher. Passender Fachbetrieb kostenlos vermittelt.",
+  "h1": "Elektriker in Ludwigsburg",
+  "einstieg": "Die Elektrik im Reihenhaus aus den Siebzigern erneuern, eine Wallbox in der Tiefgarage nachrüsten oder Solarstrom vom Dach mit einem Speicher kombinieren: Wer einen Elektriker in Ludwigsburg sucht, findet bei der Stadt erstaunlich viele Hilfen für die Planung. Ludwigsburg will bis 2035 klimaneutral werden und setzt dabei stark auf Photovoltaik auf privaten Dächern und Balkonen.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker Ludwigsburg: Netzanschluss bei den Stadtwerken",
+      "text": "Netzbetreiber für Strom ist in Ludwigsburg und Kornwestheim die SWLB, die Stadtwerke Ludwigsburg-Kornwestheim, mit Netzen in Mittel- und Niederspannung. Über sie laufen Hausanschluss, Leistungserhöhung und der Anschluss einer Photovoltaikanlage. Für Installateure stellt die SWLB auf ihrer Seite zur Einspeisung die technischen Formulare bereit, darunter die Vereinbarung über steuerbare Verbrauchseinrichtungen nach § 14a EnWG, die Wärmepumpen und Wallboxen betrifft. Jede Erzeugungsanlage wird zudem im Marktstammdatenregister der Bundesnetzagentur registriert. Ein neuer Zählerschrank ist im Altbau häufig die Voraussetzung dafür, dass Speicher, Wallbox und Steuertechnik überhaupt Platz finden."
+    },
+    {
+      "h2": "Erst prüfen, dann bauen: Solar-Check und Dachzustand",
+      "text": "Mit dem kostenlosen Solar-Check der Stadt lässt sich das eigene Dach digital auswerten: Größe, Ausrichtung und Sonneneinstrahlung werden automatisch berechnet, am Ende steht ein unverbindliches Projekt-Exposé. Die Stadt rät zudem, vor der Montage zu prüfen, ob eine Dachsanierung sinnvoll ist, damit die Module nicht nach wenigen Jahren wieder abgebaut werden müssen. Auf Flachdächern hält sie die Kombination von Photovoltaik und Dachbegrünung für sinnvoll."
+    },
+    {
+      "h2": "Neutrale Beratung in Ludwigsburg",
+      "text": "Unabhängige Beratung zur Solaranlage bietet die Energieagentur Kreis Ludwigsburg (LEA), auch als kostenlose Online-Erstberatung. Für Mieterinnen und Mieter berät die ehrenamtliche Solarinitiative Ludwigsburg einmal im Monat im Kulturzentrum zu Balkonkraftwerken, ohne Anmeldung. Wenn Ihr Vorhaben klar ist, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Laut Netzübersicht sind die SWLB Netzbetreiber für Strom, Gas, Wasser, Fernwärme und Glasfaser; Ludwigsburg und Kornwestheim gehören zu ihrem Stromversorgungsgebiet, das Netz umfasst Mittel- und Niederspannung.",
+      "quelle": "Stadtwerke Ludwigsburg-Kornwestheim (SWLB) – Netzübersicht",
+      "url": "https://www.swlb.de/netzeuebersicht",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Auf ihrer Seite zur Einspeisung stellen die SWLB Installateuren die technischen Formulare für den Netzanschluss von Einspeiseanlagen bereit, darunter eine Vereinbarung über steuerbare Verbrauchseinrichtungen nach § 14a EnWG.",
+      "quelle": "Stadtwerke Ludwigsburg-Kornwestheim (SWLB) – Einspeisung",
+      "url": "https://www.swlb.de/netze-einspeisung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Solar-Check der Stadt Ludwigsburg ist kostenlos; er analysiert Dachgröße, Ausrichtung und Sonneneinstrahlung und erstellt ein unverbindliches Projekt-Exposé.",
+      "quelle": "Stadt Ludwigsburg – Solar-Check",
+      "url": "https://www.ludwigsburg.de/start/leben+in+ludwigsburg/solar-check.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Ludwigsburg rät, vor dem Bau einer PV-Anlage zu prüfen, ob eine Dachsanierung sinnvoll ist, und nennt für Flachdächer die Kombination mit Dachbegrünung.",
+      "quelle": "Stadt Ludwigsburg – Solarenergie",
+      "url": "https://www.ludwigsburg.de/start/leben+in+ludwigsburg/solarenergie.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Kostenfreie und unabhängige PV-Beratung bieten laut Stadt die Energieagentur Kreis Ludwigsburg e.V., unter anderem als Online-Erstberatung, sowie die Solarinitiative Ludwigsburg.",
+      "quelle": "Stadt Ludwigsburg – Beratung Solaranlage",
+      "url": "https://www.ludwigsburg.de/start/leben+in+ludwigsburg/beratung_solaranlage.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die ehrenamtliche Solarinitiative Ludwigsburg berät seit Oktober 2024 einmal im Monat kostenfrei zu Balkonkraftwerken in der Stadtbibliothek im Kulturzentrum, ohne Anmeldung.",
+      "quelle": "Stadt Ludwigsburg – Beratung Balkonkraftwerk",
+      "url": "https://www.ludwigsburg.de/start/leben+in+ludwigsburg/beratungbalkonkraftwerk.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Weil der Landkreis Ludwigsburg dicht besiedelt ist, kommt nach Einschätzung der Energieagentur beim Ausbau erneuerbarer Energien vor allem Solarenergie auf Gebäuden in Frage.",
+      "quelle": "Energieagentur Kreis Ludwigsburg (LEA) – Photovoltaikberatung",
+      "url": "https://www.lea-lb.de/angebote/privatpersonen/photovoltaikberatung/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ludwigsburg hat sich das Ziel gesetzt, bis 2035 klimaneutral zu werden; Solarenergie zählt die Stadt zu den Schlüsselbereichen.",
+      "quelle": "Stadt Ludwigsburg – Klima und Energie",
+      "url": "https://www.ludwigsburg.de/start/leben+in+ludwigsburg/Klima+und+Energie.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wer ist in Ludwigsburg der Netzbetreiber für meine PV-Anlage oder Wallbox?",
+      "a": "Nach der Netzübersicht der Stadtwerke Ludwigsburg-Kornwestheim (SWLB) gehört Ludwigsburg zu deren Stromnetzgebiet. Die Anmeldung übernimmt in der Regel der ausführende Elektrofachbetrieb."
+    },
+    {
+      "q": "Wie finde ich heraus, ob mein Ludwigsburger Dach für Photovoltaik taugt?",
+      "a": "Eine erste Einschätzung liefert der kostenlose Solar-Check der Stadt. Für eine persönliche, neutrale Beratung verweist die Stadt auf die Energieagentur Kreis Ludwigsburg."
+    },
+    {
+      "q": "Gibt es in Ludwigsburg Beratung zum Balkonkraftwerk?",
+      "a": "Ja, die ehrenamtliche Solarinitiative Ludwigsburg berät einmal im Monat kostenfrei in der Stadtbibliothek im Kulturzentrum."
+    }
+  ],
+  "offen": [
+    "Die Zuordnung der Kreuze in der SWLB-Tabelle (Strom: Ludwigsburg, Kornwestheim) ist aus dem Seitentext abgeleitet; ob einzelne Ludwigsburger Stadtteile von einem anderen Netzbetreiber versorgt werden, wurde nicht geprüft.",
+    "Die SWLB-Seiten zu § 14a und Balkon-PV ließen sich nicht als Text auslesen; daher nur die Formularliste der Einspeiseseite verwendet.",
+    "Das städtische Förderprogramm KlimaBonus ist laut Stadt ausgeschöpft und wurde nicht erwähnt.",
+    "Die städtische Wärmepumpen-Bündelung nennt namentlich Installationsbetriebe; bewusst nicht erwähnt."
+  ]
+}

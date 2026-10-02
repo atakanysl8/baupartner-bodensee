@@ -1,0 +1,89 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "konstanz",
+  "ortName": "Konstanz",
+  "kreis": "Konstanz",
+  "title": "Elektriker Konstanz – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Konstanz: Wallbox bis 12 kW anmelden, PV und Speicher beim Netzbetreiber, Solarkataster für die Altstadt, PV-Check. Kostenlos vermittelt.",
+  "h1": "Elektriker in Konstanz",
+  "einstieg": "Wer in Konstanz einen Elektriker sucht, hat oft ein größeres Vorhaben im Blick: eine Wallbox in der Tiefgarage einer Eigentümergemeinschaft in Petershausen, eine Photovoltaikanlage mit Speicher auf dem Einfamilienhaus in Litzelstetten oder die Umstellung einer älteren Solaranlage auf Eigenverbrauch. Netzbetreiber im Stadtgebiet sind die Stadtwerke Konstanz, und deren Vorgaben bestimmen viele Schritte.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker in Konstanz: Wallbox anmelden oder genehmigen lassen",
+      "text": "Ladestationen sind nach § 19 der Niederspannungsanschlussverordnung beim Netzbetreiber anzumelden. Die Stadtwerke Konstanz unterscheiden nach Leistung: Bis insgesamt 12 kW reicht eine Anmeldung. Liegt die Summe darüber, prüfen die Stadtwerke vor Beginn der Installation ihr Netz und müssen zustimmen; ist eine Verstärkung des Hausanschlusses nötig, erstellen sie dafür ein Angebot, und erst nach diesen Arbeiten darf die Elektrofachkraft die Wallbox in Betrieb nehmen. In Mehrfamilienhäusern ist das ein häufiges Thema, denn für bauliche Veränderungen am Hausanschluss verlangen die Stadtwerke die Einverständniserklärung der Eigentümergemeinschaft. Wer den Bedarf mehrerer Miteigentümer bündelt, plant den Anschluss nur einmal."
+    },
+    {
+      "h2": "Photovoltaik in Konstanz: Netz, Altstadt und Beratung",
+      "text": "Neue PV-Anlagen melden die Stadtwerke über ein Online-Formular an; bei Fragen verweisen sie auf den Elektrofachbetrieb. Soll eine bestehende Anlage von Voll- auf Überschusseinspeisung umgestellt werden, übernimmt ein Elektroinstallateur die technische Umstellung, die Änderung wird anschließend dem Betriebsbüro gemeldet. Für die denkmalgeschützte Altstadt hat die Stadt ein eigenes Solarkataster mit fallgruppenbezogenen Anforderungen erarbeitet. Gemeinsam mit den Stadtwerken und der Energieagentur Kreis Konstanz betreibt die Stadt eine Solaroffensive. Die Energieagentur bietet zudem einen PV-Check vor Ort an, bei dem auch der Platz für Wechselrichter und Speicher betrachtet wird. Über unser Formular schildern Sie Ihr Vorhaben, und wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    },
+    {
+      "h2": "Klimaziel 2035 und städtische Förderung",
+      "text": "Konstanz strebt eine weitgehende Klimaneutralität bis 2035 an. In der Richtlinie zum städtischen Förderprogramm energetische Bestandssanierung sind deshalb auch elektrische Themen aufgeführt, etwa eine Bonusförderung für die Kombination aus Wärmepumpe und Photovoltaik sowie steckerfertige Balkon-Photovoltaikanlagen. Bedingungen und Antragsweg stehen in der Richtlinie selbst; Auskunft gibt die Stadt. Zur Einordnung: Nach Auswertung der Energieagentur waren im Landkreis Konstanz Ende 2024 auf Dächern und an Fassaden Solaranlagen mit zusammen 329 Megawatt installiert. Bei älteren Häusern entscheidet häufig der vorhandene Zählerschrank darüber, wie aufwendig der Anschluss von PV-Anlage, Speicher und Wallbox wird."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Inbetriebnahme einer Ladestation ist nach § 19 NAV dem Netzbetreiber mitzuteilen; bei den Stadtwerken Konstanz genügt bis insgesamt 12 kW eine Anmeldung, darüber prüfen die Stadtwerke vor der Installation ihr Netz und müssen zustimmen.",
+      "quelle": "Stadtwerke Konstanz – Anschluss E-Ladestationen",
+      "url": "https://www.stadtwerke-konstanz.de/netze/elektromobilitaet/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für bauliche Veränderungen am Hausanschluss benötigen die Stadtwerke Konstanz die Einverständniserklärung der Eigentümergemeinschaft.",
+      "quelle": "Stadtwerke Konstanz – Anschluss E-Ladestationen",
+      "url": "https://www.stadtwerke-konstanz.de/netze/elektromobilitaet/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Neue Photovoltaikanlagen werden bei den Stadtwerken Konstanz per Online-Formular angemeldet; eine Umstellung von Voll- auf Überschusseinspeisung führt ein Elektroinstallateur aus, anschließend wird sie dem Betriebsbüro gemeldet.",
+      "quelle": "Stadtwerke Konstanz – Einspeisung",
+      "url": "https://www.stadtwerke-konstanz.de/netze/einspeisung/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Um Solaranlagen in der denkmalgeschützten Altstadt zu ermöglichen, hat die Stadt Konstanz ein Solarkataster mit fallgruppenbezogenen Anforderungen erarbeitet.",
+      "quelle": "Stadt Konstanz – Denkmalpflege",
+      "url": "https://www.konstanz.de/stadt+gestalten/bauen+_+wohnen/denkmalpflege",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Solaroffensive der Stadt Konstanz ist ein gemeinsames Projekt von Stadt, Stadtwerken, Energieagentur Kreis Konstanz und Unternehmen der Solarbranche; im Landkreis Konstanz waren Ende 2024 Dach- und Fassadenanlagen mit 329 MW installiert (Daten aus dem Marktstammdatenregister, Stand Januar 2025).",
+      "quelle": "Energieagentur Kreis Konstanz – Solaroffensive",
+      "url": "https://www.energieagentur-kreis-konstanz.de/solaroffensive/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Beim Photovoltaik-Check der Energieagentur Kreis Konstanz wird vor Ort unter anderem untersucht, ob ein geeigneter Platz für Wechselrichter und gegebenenfalls einen Batteriespeicher vorhanden ist.",
+      "quelle": "Energieagentur Kreis Konstanz – Energie-Checks",
+      "url": "https://www.energieagentur-kreis-konstanz.de/privatpersonen/energie-checks/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Richtlinie zum Förderprogramm energetische Bestandssanierung (Stand 31.10.2024) nennt das Ziel weitgehender Klimaneutralität bis 2035 und führt unter anderem eine Bonusförderung für Wärmepumpe plus Photovoltaik sowie steckerfertige Balkon-PV-Anlagen auf.",
+      "quelle": "Stadt Konstanz – Richtlinie Förderprogramm energetische Bestandssanierung (Ortsrecht VI/11)",
+      "url": "https://www.konstanz.de/site/Konstanz/get/documents_E935659865/konstanz/Dateien/Service/Ortsrecht/VI%20Bauwesen/VI_11%20Richtlinie%20zum%20Fo%CC%88rderprogramm%20energetische%20Bestandssanierung%20Stadt%20Konstanz.pdf",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich meine Wallbox in Konstanz genehmigen lassen?",
+      "a": "Bis insgesamt 12 kW reicht bei den Stadtwerken Konstanz eine Anmeldung. Bei mehr Leistung prüfen die Stadtwerke vorher ihr Netz und müssen der Installation zustimmen."
+    },
+    {
+      "q": "Sind Solaranlagen in der Konstanzer Altstadt möglich?",
+      "a": "Die Stadt hat dafür ein eigenes Solarkataster der Altstadt erarbeitet, das je nach Fallgruppe Anforderungen an die Anlagen stellt. Auskunft gibt die untere Denkmalschutzbehörde der Stadt."
+    },
+    {
+      "q": "Wer hilft in Konstanz bei der Frage, ob sich ein Speicher eignet?",
+      "a": "Die Energieagentur Kreis Konstanz bietet einen PV-Check vor Ort an, der auch Speicher und Aufstellort betrachtet. Die Ausführung übernimmt ein Elektrofachbetrieb."
+    }
+  ],
+  "offen": [
+    "Solarkataster-PDF (51,7 MB) nicht geöffnet; Inhalt nur nach Beschreibung der Stadtseite.",
+    "Ob das städtische Förderprogramm aktuell Anträge annimmt, nicht geprüft; nur Richtlinie Stand 31.10.2024 wiedergegeben, keine Beträge.",
+    "Eigenanteil des PV-Checks (40 Euro, von der Energieagentur übernommen) bewusst nicht genannt.",
+    "Ortsteile im Einstieg (Petershausen, Litzelstetten) nur Beispiele.",
+    "Satz zum Zählerschrank bei älteren Häusern ist eine allgemeine Fachaussage ohne Quelle."
+  ]
+}

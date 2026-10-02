@@ -1,0 +1,82 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "bruchsal",
+  "ortName": "Bruchsal",
+  "kreis": "Karlsruhe",
+  "title": "Elektriker Bruchsal – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Bruchsal: Wallbox, Wärmepumpe und PV im Netzportal der Stadtwerke anmelden, Zählertausch, Masterplan Erneuerbare Energien. Kostenlos vermittelt.",
+  "h1": "Elektriker in Bruchsal",
+  "einstieg": "Ob neue Unterverteilung im Altbau in der Südstadt, Wallbox in Heidelsheim oder Photovoltaik mit Speicher in Untergrombach: Wer in Bruchsal einen Elektriker sucht, hat es beim Netz fast immer mit den Stadtwerken Bruchsal zu tun. Sie betreiben das Stromnetz der Stadt und regeln, was am Hausanschluss angemeldet werden muss.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker in Bruchsal: Anmeldung über das Netzportal",
+      "text": "Die Stadtwerke Bruchsal sind als Netzbetreiber Ansprechpartner, wenn ein Haus einen Stromanschluss braucht, eine Solaranlage angeschlossen oder eine Wallbox angeschafft werden soll. Fast alles läuft über ihr Netzportal: Dort lassen sich Netzanschlüsse beantragen oder ändern, Wärmepumpen und Ladestationen anmelden, Erzeugungsanlagen anmelden und abnehmen sowie Zähler ein- und ausbauen. Ein Konto können sowohl Eigentümer als auch Installateure und Planungsbüros anlegen; in der Praxis stellt meist der Elektrofachbetrieb die Anträge. Beim Netzanschluss fragt das Portal ausdrücklich, ob die Standard-Anschlussleistung reicht oder eine erhöhte Leistung für Wallbox oder Wärmepumpe gewünscht ist."
+    },
+    {
+      "h2": "Neue Zähler im Bruchsaler Netz",
+      "text": "Ältere Stromzähler werden in Bruchsal nach und nach ersetzt. Die Energie- und Wasserversorgung Bruchsal, ein Unternehmen der Stadtwerke, ist nach dem Messstellenbetriebsgesetz verpflichtet, alle bisherigen Zähler in ihrem Netzgebiet gegen moderne Messeinrichtungen oder intelligente Messsysteme zu tauschen, in der Kernstadt wie in den Stadtteilen. Für den Wechsel selbst entstehen nach Angaben der ewb keine Kosten. Wer ohnehin den Zählerschrank erneuern, eine Wallbox ergänzen oder eine PV-Anlage mit Speicher installieren lässt, sollte den Zählerplatz mit dem Elektriker gleich so planen, dass er zu den neuen Messsystemen passt."
+    },
+    {
+      "h2": "Mehr Strom für Wärmepumpe und E-Auto: Bruchsals Energiepläne",
+      "text": "Laut Masterplan Erneuerbare Energien braucht Bruchsal heute rund 1.200 Gigawattstunden Energie im Jahr für Strom, Wärme und Verkehr. Bis 2040 soll der Gesamtbedarf sinken, doch der Stromanteil steigt deutlich, weil Elektroautos und Wärmepumpen hinzukommen. Solaranlagen sieht die Stadt dabei auf Dächern und im Offenland. Seit 2023 gilt außerdem ein Konzept Klimaschutz in der Bauleitplanung mit über 30 Empfehlungen für künftige Bebauungspläne. Wenn Sie Ihr Vorhaben über unser Formular schildern, wählen wir für Ihre Anfrage einen passenden Elektrofachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadtwerke Bruchsal unterhalten als Netzbetreiber die Netze für Strom, Gas, Wasser und Wärme und sind Ansprechpartner, wenn eine Solaranlage angeschlossen oder eine Wallbox angeschafft werden soll.",
+      "quelle": "Stadtwerke Bruchsal – Unsere Netze",
+      "url": "https://www.stadtwerke-bruchsal.de/netze/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Netzportal der Stadtwerke Bruchsal können Kunden, Installateure und Planungsbüros Netzanschlüsse ändern, E-Ladestationen und Wärmepumpen anmelden, Erzeugungsanlagen anmelden und abnehmen lassen sowie Zählerwechsel beauftragen.",
+      "quelle": "Stadtwerke Bruchsal – Netzportal",
+      "url": "https://www.stadtwerke-bruchsal.de/netzportal/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Beim Antrag auf Netzanschluss wird die gewünschte Anschlussleistung für Strom angegeben, Standard oder erhöht für Wallbox oder Wärmepumpe; bei Bestandsgebäuden genügt eine Skizze zur Lage des Anschlusses.",
+      "quelle": "Stadtwerke Bruchsal – Netzanschluss",
+      "url": "https://www.stadtwerke-bruchsal.de/netze/netzanschluss/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Energie- und Wasserversorgung Bruchsal GmbH tauscht nach dem Messstellenbetriebsgesetz alle bisherigen Stromzähler in Kernstadt und Stadtteilen gegen moderne Messeinrichtungen oder intelligente Messsysteme; der Austausch ist für Kunden kostenfrei.",
+      "quelle": "Stadtwerke Bruchsal – Turnusgemäßer Austausch von Stromzählern (30.03.2026)",
+      "url": "https://www.stadtwerke-bruchsal.de/turnusgemaesser-austausch-von-rund-4-000-stromzaehlern/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bruchsal hat einen jährlichen Energiebedarf von rund 1.200 GWh; bis 2040 soll er um rund 30 Prozent sinken, während deutlich mehr Strom für E-Autos und Wärmepumpen benötigt wird. Solaranlagen sieht der Masterplan auf Dächern und im Offenland.",
+      "quelle": "Stadt Bruchsal – Masterplan Erneuerbare Energien",
+      "url": "https://www.bruchsal.de/gestalten/energiewende/masterplan-erneuerbare-energie",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Gemeinderat hat Anfang 2023 das Konzept „Klimaschutz in der Bauleitplanung“ beschlossen; es enthält mehr als 30 Handlungsempfehlungen, die in künftigen Bauleitplänen zu berücksichtigen sind.",
+      "quelle": "Stadt Bruchsal – Klimaschutz in der Bauleitplanung",
+      "url": "https://www.bruchsal.de/gestalten/bruchsalmorgen/stadtentwicklung/klimaschutz-in-der-bauleitplanung",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo wird in Bruchsal eine Wallbox oder Wärmepumpe angemeldet?",
+      "a": "Beim Netzbetreiber, den Stadtwerken Bruchsal, über deren Netzportal. Den Antrag stellt in der Regel der ausführende Elektrofachbetrieb."
+    },
+    {
+      "q": "Muss ich für den neuen digitalen Stromzähler in Bruchsal etwas zahlen?",
+      "a": "Für den turnusgemäßen Austausch nicht; laut ewb ist er für die Kundinnen und Kunden kostenfrei. Betroffene Haushalte erhalten vorher ein persönliches Anschreiben."
+    },
+    {
+      "q": "Reicht mein Hausanschluss in Bruchsal für Wallbox und Wärmepumpe?",
+      "a": "Das hängt vom Gebäude ab. Im Netzportal kann eine erhöhte Anschlussleistung für Wallbox oder Wärmepumpe beantragt werden; die Stadtwerke prüfen den Antrag und erstellen ein Angebot."
+    }
+  ],
+  "offen": [
+    "Stadtteilnennungen im Einstieg (Südstadt, Heidelsheim, Untergrombach) sind Beispiele ohne eigene Fakt-Quelle.",
+    "Ob in Büchenau ein anderer Netzbetreiber zuständig ist (beim Wasser ist es die Wasserversorgung Mittelhardt), wurde für Strom nicht geprüft.",
+    "Stadtwerke Bruchsal bieten selbst Wallbox-Pakete und Balkonsolar-Gutscheine an; bewusst nicht erwähnt.",
+    "Vorlaufzeiten (ca. 3 Monate, Angebot binnen 6 Wochen) der Netzanschlussseite bewusst nicht übernommen."
+  ]
+}

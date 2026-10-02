@@ -1,0 +1,83 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "stuttgart",
+  "ortName": "Stuttgart",
+  "kreis": "Stuttgart",
+  "title": "Elektriker Stuttgart – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Stuttgart: Zählerschrank, Wallbox an der Garagenzeile, Photovoltaik mit Solaroffensive und SolarScouts. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Elektriker in Stuttgart",
+  "einstieg": "Wer in Stuttgart einen Elektriker sucht, hat oft mehr vor als eine neue Steckdose: Im Altbau am Hang ist der Zählerschrank zu klein für Wärmepumpe und Wallbox, auf dem Dach soll eine Photovoltaikanlage entstehen, und die Garage steht in einer Zeile an der Grundstücksgrenze. Für all das spielen der Stromnetzbetreiber, die städtische Solaroffensive und die Beratungsangebote der Landeshauptstadt eine Rolle.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker in Stuttgart: Zählerplatz, Hausanschluss und Stromnetz",
+      "text": "Für das Stromnetz in Stuttgart verweist das Baurechtsamt für Anschlussfragen auf die Stuttgart Netze Betrieb GmbH; Gas-, Wasser- und Fernwärmenetz liegen dagegen bei einer anderen Netzgesellschaft. Für Ihr Vorhaben heißt das in der Regel: Wer eine größere Anlage plant, etwa Wallbox, Speicher oder Photovoltaik, braucht neben dem Elektriker frühzeitig die Abstimmung mit dem Netzbetreiber, häufig über den ausführenden Betrieb. Ein Sonderfall sind die vielen freistehenden Garagenzeilen: Laut Stadt darf ein Netzanschluss meist nicht innerhalb der Garage liegen, und an der Grundstücksgrenze fehlt oft Platz. Deshalb lässt die Stadt für neue Hausanschlüsse von Ladeinfrastruktur angrenzende städtische Flächen nutzen, wenn es auf privatem Grund nicht geht."
+    },
+    {
+      "h2": "Photovoltaik auf Stuttgarter Dächern: Pflicht, Förderung, Beratung",
+      "text": "Die Photovoltaikpflicht ist in § 23 des Klimaschutz- und Klimawandelanpassungsgesetzes Baden-Württemberg geregelt; das Baurechtsamt nennt dafür den Neubau von Wohn- und Nichtwohngebäuden und die grundlegende Dachsanierung. Für den freiwilligen Teil einer Anlage gibt es die städtische Solaroffensive, die ausdrücklich auch Elektroarbeiten berücksichtigt, etwa die Ertüchtigung der Installation und den Zählerplatz für das nötige Messkonzept. Vor dem Auftrag lohnt sich eine neutrale Einschätzung: Die ehrenamtlichen SolarScouts beraten anbieterneutral in allen Stadtbezirken, und das Energieberatungszentrum prüft auf Wunsch die Wirtschaftlichkeit eines vorliegenden Angebots. Wenn Ihr Vorhaben feststeht, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Auskünfte zum Anschluss an das Stromnetz in Stuttgart erteilt laut Baurechtsamt die Stuttgart Netze Betrieb GmbH; für Gas-, Wasser- und Fernwärmenetz nennt die Stadt die Netze BW GmbH, Regionalzentrum Stuttgart.",
+      "quelle": "Landeshauptstadt Stuttgart – Fragen rund ums Bauen (Baurechtsamt)",
+      "url": "https://www.stuttgart.de/leben/bauen/baurecht/faqs-baurechtsamt",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ist ein neuer Hausanschluss für Ladepunkte an privaten Stellplätzen nicht auf privater Fläche möglich, ermöglicht die Stadt Stuttgart die Nutzung angrenzender städtischer Flächen; Voraussetzung ist unter anderem eine Anschlussanfrage beim Netzbetreiber Stuttgart Netze.",
+      "quelle": "Landeshauptstadt Stuttgart – Privates Laden",
+      "url": "https://www.stuttgart.de/leben/umwelt/energie/foerderprogramme/privates-laden",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Zu den Positionen der Stuttgarter Solaroffensive gehören unter anderem die Ertüchtigung der elektrischen Installation, die Einrichtung des Zählerplatzes für das Messkonzept, Blitzschutz und Funkrundsteuerempfänger; der Antrag ist vor der Beauftragung zu stellen.",
+      "quelle": "Landeshauptstadt Stuttgart – Solaroffensive",
+      "url": "https://www.stuttgart.de/leben/umwelt/energie/foerderprogramme/solaroffensive",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Photovoltaikpflicht ist in § 23 KlimaG BW festgelegt; das Baurechtsamt nennt den Neubau von Wohn- und Nichtwohngebäuden, die grundlegende Dachsanierung eines Bestandsgebäudes und neue offene Parkplätze mit mehr als 35 Stellplätzen.",
+      "quelle": "Landeshauptstadt Stuttgart – Fragen rund ums Bauen (Baurechtsamt)",
+      "url": "https://www.stuttgart.de/leben/bauen/baurecht/faqs-baurechtsamt",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die SolarScouts Stuttgart wurden Anfang 2024 gegründet und vom Amt für Umweltschutz koordiniert; sie informieren ehrenamtlich, anbieterneutral und kostenlos, ersetzen nach Angaben der Stadt aber keine Energieberatung und keinen Fachbetrieb.",
+      "quelle": "Landeshauptstadt Stuttgart – SolarScouts",
+      "url": "https://www.stuttgart.de/leben/umwelt/energie/foerderprogramme/solarscouts",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Energieberatungszentrum Stuttgart bietet bei vorliegendem Angebot Wirtschaftlichkeitsanalysen (PV-Checks) an und nennt als Schritte nach der Installation die Anmeldung im Marktstammdatenregister und beim Netzbetreiber, die häufig der Installateur übernimmt.",
+      "quelle": "Energieberatungszentrum Stuttgart – Schritt für Schritt zur PV-Anlage",
+      "url": "https://ebz-stuttgart.de/schritt-fuer-schritt-zur-pv-anlage/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Solardachkataster des Energieatlas Baden-Württemberg lässt sich nach Straße oder Ort suchen und die mögliche Photovoltaikleistung einzelner Dachflächen anzeigen.",
+      "quelle": "Energieatlas Baden-Württemberg – Potenzial Dach-Photovoltaik",
+      "url": "https://www.energieatlas-bw.de/sonne/gebaeude/karten?activeLayer=solarkataster",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wer ist in Stuttgart für den Stromanschluss zuständig?",
+      "a": "Das Baurechtsamt nennt für das Stromnetz die Stuttgart Netze Betrieb GmbH. Anmeldungen von Photovoltaik oder Ladepunkten übernimmt häufig der beauftragte Elektrobetrieb."
+    },
+    {
+      "q": "Meine Garage steht in einer Garagenzeile ohne Stromanschluss – gibt es eine Lösung?",
+      "a": "Die Stadt Stuttgart lässt für neue Hausanschlüsse von Ladeinfrastruktur angrenzende städtische Flächen nutzen, wenn es auf privatem Grund nicht möglich ist. Ob das im Einzelfall infrage kommt, klären Netzbetreiber und Stadt."
+    },
+    {
+      "q": "Wer berät in Stuttgart neutral zu Photovoltaik?",
+      "a": "Die ehrenamtlichen SolarScouts informieren anbieterneutral in allen Stadtbezirken, das Energieberatungszentrum Stuttgart bietet zusätzlich PV-Checks zu vorliegenden Angeboten an."
+    }
+  ],
+  "offen": [
+    "Stuttgart Netze Betrieb GmbH und Netze BW GmbH nur im Fakt als Netzbetreiber genannt (Wiedergabe der städtischen FAQ); Website von Stuttgart Netze blockt Abrufe (403), daher keine eigene Seite des Netzbetreibers verlinkt.",
+    "Fördermittel der Solaroffensive laut Stadt für 2026 ausgeschöpft (Anträge weiter möglich, Auszahlung ab 2027) – bewusst nicht im Text, da datierte Momentangabe.",
+    "Förderrichtlinie „Privates Laden“ ist zum 31.12.2025 ausgelaufen; nur die weiterhin bestehende Flächennutzung für Hausanschlüsse wiedergegeben."
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "leistung": "dach-fassade",
+  "ort": "hockenheim",
+  "ortName": "Hockenheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "title": "Dachdecker Hockenheim – Fachbetrieb kostenlos vermittelt",
+  "description": "Dachdecker in Hockenheim: Dachsanierung mit Thermografie, Solarkataster, Regenwasser vom Dach und Baurecht der Stadt im Blick. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Dachdecker in Hockenheim",
+  "einstieg": "Ob Satteldach aus den 1960er-Jahren in der Südstadt, Flachdach auf dem Anbau oder ein Haus in der Nähe des Kraichbachs: Wer einen Dachdecker in Hockenheim sucht, möchte meist Wärmeverluste stoppen, das Dach für Solarmodule vorbereiten oder eine undichte Eindeckung erneuern. In der Rheinebene kommt eine weitere Frage hinzu, die oft vergessen wird: Wohin mit dem Regenwasser vom Dach?",
+  "abschnitte": [
+    {
+      "h2": "Dachdecker in Hockenheim: erst messen, dann sanieren",
+      "text": "Wo das Dach Wärme verliert, zeigt eine Thermografie. Die Stadt Hockenheim bezuschusst dafür ein Thermografie-Paket mit mindestens sechs Infrarotaufnahmen des Gebäudes und einem Ergebnisbericht; sichtbar werden Wärmebrücken, undichte Fenster und Türen sowie mögliche Ursachen für Schimmel. Soll das neue Dach zugleich Solarmodule tragen, verweist die Stadt auf das Solarkataster der LUBW im Energieatlas Baden-Württemberg, das für jede Adresse die geeignete Dachfläche und die mögliche Leistung schätzt. Eine kostenlose Initialberatung dazu bietet die KLiBA, die Klimaschutz- und Energieberatungsagentur für den Rhein-Neckar-Kreis. Die Stadtwerke Hockenheim führen außerdem ein Förderprogramm für Hauswärmeanlagen, das auch Solarthermie umfasst."
+    },
+    {
+      "h2": "Regenwasser vom Dach: Metall, Gründach und Versickerung",
+      "text": "Bei Neubauten und Umbauten verlangt die Stadt neben dem Bauantrag einen Entwässerungsantrag beim Baurechtsamt; die verlegten Leitungen werden am offenen Graben abgenommen. Wie Regenwasser auf dem eigenen Grundstück versickern darf, beschreibt ein Hinweisblatt des Wasserrechtsamts im Landratsamt Rhein-Neckar-Kreis, das die Stadt zu ihren Bebauungsplänen veröffentlicht. Für unbeschichtete Metalldächer gelten die Erleichterungen danach nicht. Eine unterirdische Versickerung in einer Rigole kommt nur in Betracht, wenn bei der Dachinstallation vollständig auf unbeschichtetes Blei, Kupfer und Zink verzichtet wird; bei einem metallfreien Gründach ist auch ein Sickerschacht möglich. Wer Rinnen und Fallrohre erneuert, sollte das Material deshalb mit der Entwässerung zusammen planen."
+    },
+    {
+      "h2": "Baurecht und Denkmal im Rathaus",
+      "text": "Hockenheim ist als Große Kreisstadt selbst untere Baurechtsbehörde; Bauanträge werden seit 2025 digital über das Virtuelle Bauamt eingereicht. Bei Kulturdenkmalen von besonderer Bedeutung sind bauliche Maßnahmen genehmigungspflichtig, auch in der Umgebung eines Denkmals. Wenn Sie Ihr Dachvorhaben über unser Formular schildern, wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadt Hockenheim bezuschusst ein Thermografie-Paket mit mindestens sechs Infrarotaufnahmen des Gebäudes und einem Ergebnisbericht, mit dem sich Wärmebrücken und -verluste, undichte Fenster und Türen sowie Leckagen erkennen lassen.",
+      "quelle": "Stadt Hockenheim – Thermografie-Paket",
+      "url": "https://www.hockenheim.de/startseite/leben/thermografie-paket.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Hockenheim verweist für Photovoltaik und Solarthermie auf das Solarkataster der LUBW mit Wirtschaftlichkeitsrechner im Energieatlas BW; eine kostenlose Initialberatung bietet die KLiBA in Bürgerberatungsstunden oder telefonisch.",
+      "quelle": "Stadt Hockenheim – Klimaschutz",
+      "url": "https://www.hockenheim.de/startseite/leben/klimaschutz.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut Hinweisblatt des Wasserrechtsamts im Landratsamt Rhein-Neckar-Kreis gelten die Regeln zur erlaubnisfreien Niederschlagswasserversickerung nicht für unbeschichtete Metalldächer; eine unterirdische Versickerung in einer Rigole setzt voraus, dass bei der Dachinstallation vollständig auf unbeschichtete Metalle (Blei, Kupfer, Zink) verzichtet wird, bei einem metallfreien Gründach ist ein Sickerschacht möglich.",
+      "quelle": "Landratsamt Rhein-Neckar-Kreis, Wasserrechtsamt – Hinweisblatt Niederschlagswasser Dachflächen (Stand 01/2019), veröffentlicht von der Stadt Hockenheim",
+      "url": "https://www.hockenheim.de/site/Hockenheim/get/params_E1420292666_Dattachment/1719638/Anlage%202%20-%20Hinweisblatt_Niederschlagswasser_Dachflaechen.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In der Regel soll Niederschlagswasser von Dachflächen nach dem Hinweisblatt in eine Mulde geleitet werden, in der es über eine 30 cm mächtige, mit Rasen bewachsene Mutterbodenschicht versickert.",
+      "quelle": "Landratsamt Rhein-Neckar-Kreis, Wasserrechtsamt – Hinweisblatt Niederschlagswasser Dachflächen (Stand 01/2019)",
+      "url": "https://www.hockenheim.de/site/Hockenheim/get/params_E1420292666_Dattachment/1719638/Anlage%202%20-%20Hinweisblatt_Niederschlagswasser_Dachflaechen.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bei Neubauten oder Umbauten ist in Hockenheim außer dem Bauantrag ein Entwässerungsantrag vorzulegen; die Abnahme der verlegten Entwässerungsleitungen erfolgt am offenen Graben.",
+      "quelle": "Stadt Hockenheim – Abwasserbeseitigung und Grundstücksentwässerung",
+      "url": "https://www.hockenheim.de/startseite/leben/entwaesserung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bauanträge und andere baurechtliche Verfahren sind seit dem 01.01.2025 bei der unteren Baurechtsbehörde der Stadt Hockenheim digital über das Virtuelle Bauamt Baden-Württemberg (ViBa BW) einzureichen.",
+      "quelle": "Stadt Hockenheim – Bauen",
+      "url": "https://www.hockenheim.de/startseite/leben/bauen.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bei Kulturdenkmälern von besonderer Bedeutung sind nach Angabe der Stadt Hockenheim bauliche Maßnahmen genehmigungspflichtig, auch in der Umgebung eines Denkmals; Klarheit über die Denkmaleigenschaft gibt die Einsicht in Denkmalbuch und Denkmalliste.",
+      "quelle": "Stadt Hockenheim – Baurecht",
+      "url": "https://www.hockenheim.de/startseite/leben/baurecht.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Hockenheim fördern mit dem Programm „Hauswärmeanlagen“ unter anderem Solarthermieanlagen; die Förderrichtlinien veröffentlichen sie jährlich.",
+      "quelle": "Stadtwerke Hockenheim – Förderung",
+      "url": "https://www.stadtwerke-hockenheim.de/Service/Foerderung/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo finde ich heraus, ob mein Hockenheimer Dach für Solarmodule geeignet ist?",
+      "a": "Die Stadt verweist auf das Solarkataster der LUBW im Energieatlas Baden-Württemberg. Eine kostenlose Erstberatung bietet die KLiBA."
+    },
+    {
+      "q": "Darf das Regenwasser von einem Kupfer- oder Zinkdach in Hockenheim versickern?",
+      "a": "Laut Hinweisblatt des Wasserrechtsamts gelten die Regeln zur erlaubnisfreien Versickerung nicht für unbeschichtete Metalldächer. Auskunft gibt das Wasserrechtsamt des Landratsamts Rhein-Neckar-Kreis."
+    },
+    {
+      "q": "Wer ist in Hockenheim für Baugenehmigungen am Dach zuständig?",
+      "a": "Das Baurechtsamt im Fachbereich Bauen und Wohnen der Stadt Hockenheim als untere Baurechtsbehörde. Anträge werden über ViBa BW digital eingereicht."
+    }
+  ],
+  "offen": [
+    "Hinweisblatt Wasserrechtsamt Stand 01/2019, als Anlage zu einem vorhabenbezogenen Bebauungsplan auf der Stadtseite veröffentlicht; gilt laut Titel für Wohngebiete.",
+    "Thermografie-Preis (99 € statt 149 €) und ausführende Gesellschaft bewusst nicht genannt.",
+    "Stadtwerke-Förderung jährlich neu (Richtlinien 2026 verlinkt), keine Beträge genannt.",
+    "Einstiegsbeispiele (Südstadt, 1960er-Jahre) nicht belegt; „Große Kreisstadt“ laut Klimaschutzseite der Stadt.",
+    "Keine Gestaltungssatzung für Hockenheim gefunden; Dachvorgaben stehen ggf. in einzelnen Bebauungsplänen (GIS Geo12)."
+  ]
+}

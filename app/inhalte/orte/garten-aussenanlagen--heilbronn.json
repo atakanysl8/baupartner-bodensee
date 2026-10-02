@@ -1,0 +1,88 @@
+{
+  "leistung": "garten-aussenanlagen",
+  "ort": "heilbronn",
+  "ortName": "Heilbronn",
+  "kreis": "Heilbronn",
+  "title": "Terrassenüberdachung Heilbronn – kostenlos vermittelt",
+  "description": "Terrassenüberdachung, Pflaster oder Carport in Heilbronn: Regenwassergebühr, Bebauungsplan, Starkregen und Vorgarten. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Terrassenüberdachung in Heilbronn",
+  "einstieg": "Eine Terrassenüberdachung in Heilbronn macht den Sitzplatz im Weinbauklima auch bei Sommergewittern nutzbar; dazu kommen oft neues Pflaster, ein Carport oder ein Zaun. Bevor die Arbeiten beginnen, lohnt ein Blick auf drei Heilbronner Besonderheiten: die nach Flächenart gestaffelte Regenwassergebühr, die Festsetzungen im Bebauungsplan und die Hinweise der Stadt zum Schutz vor Starkregen.",
+  "abschnitte": [
+    {
+      "h2": "Überdachen und pflastern: was die Abwassersatzung zählt",
+      "text": "Heilbronn erhebt eine Niederschlagswassergebühr für überbaute und befestigte Flächen, von denen Regenwasser in den Kanal fließt. Die Abwassersatzung gewichtet dabei nach Material: Dach, Asphalt und Beton zählen voll, Pflaster, Platten und Rasenfugenpflaster mit dem Faktor 0,6, Kies, Schotterrasen und Rasengittersteine mit 0,3. Wird das Regenwasser einer Versickerungsanlage ohne Kanalanschluss oder einer Zisterne ohne Überlauf zugeführt, bleibt die Fläche unberücksichtigt. Eine neue Terrassenüberdachung oder Pflasterfläche kann also die Veranlagung verändern; Auskunft geben die Entsorgungsbetriebe der Stadt."
+    },
+    {
+      "h2": "Terrassenüberdachung Heilbronn: Bebauungsplan und Vorgarten",
+      "text": "Ob und wo eine Überdachung, ein Carport oder ein Gartenhaus stehen darf, richtet sich in vielen Heilbronner Wohngebieten nach dem Bebauungsplan; er kann Baufenster, Garagenstandorte und sogar Baumpflanzungen festlegen. Einsicht und Auskunft gibt das Service-Center des Planungs- und Baurechtsamts, nach Angaben der Stadt am verlässlichsten anhand eines Katasterausschnitts. Für den Vorgarten verweist die Stadt auf die Landesbauordnung: Nicht überbaute Flächen sollen Grünflächen sein, und Schotterungen gelten nach dem Naturschutzgesetz grundsätzlich nicht als zulässige andere Verwendung. Nachbarrechtliche Fragen regelt das Nachbarrechtsgesetz Baden-Württemberg."
+    },
+    {
+      "h2": "Starkregen: Zufahrt und Gefälle mitplanen",
+      "text": "Das Faltblatt der Entsorgungsbetriebe weist darauf hin, dass öffentliche Kanäle in der Regel für Regen ausgelegt sind, wie er alle zwei bis drei Jahre vorkommt. Bei neuen Außenflächen nennt es eine zuflusshemmende Gestaltung als Vorsorge, etwa eine kleine Schwelle an Zufahrten und ein vom Haus weg gerichtetes Gefälle. Die Abteilung Abwasser bietet dazu eine Beratung an. Ist Ihr Vorhaben klar, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Nach § 39a der Heilbronner Abwassersatzung werden Pflaster, Platten, Verbundsteine und Rasenfugenpflaster mit dem Faktor 0,6, Kies, Schotter, Schotterrasen und Rasengittersteine mit 0,3 und Dachflächen, Asphalt und Beton mit 1,0 angesetzt.",
+      "quelle": "Stadt Heilbronn – Abwassersatzung",
+      "url": "https://www.heilbronn.de/fileadmin/daten/stadtheilbronn/formulare/rathaus/stadtrecht/7_Oeffentliche_Einrichtungen_und_Wirtschaftsfoerderung/7_3_Abwassersatzung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Flächen, deren Regenwasser einer Versickerungsanlage ohne Anschluss an den Kanal oder einer Zisterne ohne Überlauf zugeführt wird, bleiben bei der Heilbronner Niederschlagswassergebühr unberücksichtigt; Zisternen mit Überlauf werden voll berücksichtigt.",
+      "quelle": "Stadt Heilbronn – Abwassersatzung",
+      "url": "https://www.heilbronn.de/fileadmin/daten/stadtheilbronn/formulare/rathaus/stadtrecht/7_Oeffentliche_Einrichtungen_und_Wirtschaftsfoerderung/7_3_Abwassersatzung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Zu den üblichen Festsetzungen in Heilbronner Bebauungsplänen zählt die Stadt Baufenster, Garagenstandorte und Gebote für standortgebundene Baumpflanzungen.",
+      "quelle": "Stadt Heilbronn – Grundstücke im Geltungsbereich eines qualifizierten Bebauungsplans",
+      "url": "https://www.heilbronn.de/bauen-wohnen/bauen/das-grundstueck/qualifizierter-bebauungsplan.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Heilbronn zitiert zu Schottergärten § 9 Abs. 1 LBO und § 21a NatSchG: Nicht überbaute Flächen bebauter Grundstücke sollen Grünflächen sein, Schotterungen privater Gärten sind grundsätzlich keine andere zulässige Verwendung.",
+      "quelle": "Stadt Heilbronn – Pflanzenvielfalt statt Schottergärten",
+      "url": "https://www.heilbronn.de/umwelt-mobilitaet/gruenes-heilbronn/gartengestaltung-pflanzenvielfalt-statt-schottergaerten.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut Faltblatt der Entsorgungsbetriebe werden öffentliche Abwasserkanäle in Heilbronn generell für Niederschläge bemessen, wie sie in der Regel alle zwei bis drei Jahre vorkommen; ein uneingeschränkter Überflutungsschutz sei nicht möglich.",
+      "quelle": "Stadt Heilbronn – Schutz vor Starkregenschäden",
+      "url": "https://www.heilbronn.de/fileadmin/daten/stadtheilbronn/formulare/rathaus/abwasser/Faltblatt_Schutz_vor_Starkregenschaeden.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Als einfache Vorsorge nennt das Faltblatt unter anderem eine Schwelle von etwa 8 cm an Zufahrten und den Verzicht auf ein zum Haus geneigtes Oberflächengefälle; die Abteilung Abwasser bietet Beratungstermine an.",
+      "quelle": "Stadt Heilbronn – Schutz vor Starkregenschäden",
+      "url": "https://www.heilbronn.de/fileadmin/daten/stadtheilbronn/formulare/rathaus/abwasser/Faltblatt_Schutz_vor_Starkregenschaeden.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Klimaanpassungskonzept bezeichnet die Stadt die Mitwirkung der Bürgerinnen und Bürger bei Entsiegelung, Begrünung und Regenwassernutzung im privaten Bereich als wesentlichen Baustein.",
+      "quelle": "Stadt Heilbronn – Anpassung an den Klimawandel",
+      "url": "https://www.heilbronn.de/umwelt-mobilitaet/klima-klimaschutz/anpassung-an-den-klimawandel.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Erhöht eine neue Terrassenüberdachung in Heilbronn die Abwassergebühr?",
+      "a": "Möglich ist es, weil die Niederschlagswassergebühr nach überbauten und befestigten Flächen mit Kanalanschluss berechnet wird. Wie eine konkrete Fläche veranlagt wird, beantworten die Entsorgungsbetriebe der Stadt Heilbronn."
+    },
+    {
+      "q": "Wo erfahre ich, ob mein Bebauungsplan in Heilbronn einen Carport zulässt?",
+      "a": "Beim Service-Center des Planungs- und Baurechtsamts in der Cäcilienstraße 45. Nach Hinweis der Stadt gelingt eine verlässliche Auskunft in der Regel nur mit einem Katasterausschnitt des Grundstücks."
+    },
+    {
+      "q": "Ist ein Schottergarten in Heilbronn erlaubt?",
+      "a": "Die Stadt verweist auf die Landesbauordnung und das Naturschutzgesetz, nach denen Schotterungen privater Gärten grundsätzlich keine zulässige Verwendung nicht überbauter Flächen sind. Auskunft gibt das Planungs- und Baurechtsamt."
+    }
+  ],
+  "offen": [
+    "Eine Darstellung der Stadt Heilbronn zu verfahrensfreien Vorhaben (Terrassenüberdachung, Carport, Zaun) wurde nicht gefunden; daher keine Aussage, ob ein Verfahren nötig ist.",
+    "Eine Baumschutzsatzung der Stadt Heilbronn wurde nicht gefunden; auf heilbronn.de nur Stadtbäume und Baumkataster. Nicht erwähnt.",
+    "Das Maß von etwa 8 cm stammt aus dem städtischen Faltblatt und ist als Beispiel der Stadt wiedergegeben, nicht als Vorgabe.",
+    "Mitteilungspflichten bei Änderung versiegelter Flächen nach der Abwassersatzung wurden nicht ausgewertet; als Rechtsfrage nicht im Text."
+  ]
+}

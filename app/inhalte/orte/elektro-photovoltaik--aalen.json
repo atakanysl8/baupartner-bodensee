@@ -1,0 +1,82 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "aalen",
+  "ortName": "Aalen",
+  "kreis": "Ostalbkreis",
+  "title": "Elektriker Aalen – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Aalen: PV-Anlage mit Übersichtsschaltplan anmelden, Ladestation über oder unter 4,2 kW, Energieleitplan der Stadt. Kostenlos vermittelt.",
+  "h1": "Elektriker in Aalen",
+  "einstieg": "Ein Elektriker in Aalen bekommt heute selten nur den Auftrag, ein paar Steckdosen zu setzen. Viele Eigentümer zwischen Wasseralfingen, Unterkochen und dem Hofherrnweiler denken über eine Photovoltaikanlage, einen Batteriespeicher oder eine Ladestation fürs Elektroauto nach. Welche Unterlagen der Netzbetreiber dafür verlangt und welche Rolle der Energieleitplan der Stadt spielt, lässt sich vorab gut klären.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker in Aalen: was die Stadtwerke für PV und Speicher verlangen",
+      "text": "Netzbetreiber in Aalen sind die Stadtwerke Aalen. Für die Anmeldung und spätere Inbetriebsetzung einer PV-Anlage oder eines Stromspeichers verlangen sie neben dem Anmeldeformular einen unterschriebenen Übersichtsschaltplan nach VDE-AR-N 4105, in dem auch bereits vorhandene Anlagen am selben Anschlusspunkt und das vorgesehene Messkonzept eingezeichnet sind. Ohne gültigen Schaltplan wird das Anschlussbegehren nach Angaben der Stadtwerke nicht weiterbearbeitet. Hinzu kommen Einheitenzertifikate und technische Unterlagen zu Wechselrichter und Speicher; nicht bei den Stadtwerken eingetragene Installateure legen eine Kopie ihres Installateurausweises bei. Diese Unterlagen erstellt in der Regel der Elektrobetrieb. Anders bei Balkonkraftwerken: Hier genügt inzwischen die Registrierung im Marktstammdatenregister, eine Anmeldung beim Netzbetreiber entfällt."
+    },
+    {
+      "h2": "Ladestation, Energieleitplan und neutrale Beratung in Aalen",
+      "text": "Für Ladestationen unterscheiden die Stadtwerke Aalen nach Leistung: Bezieht eine Ladeeinrichtung mehr als 4,2 kW aus dem Netz, erfolgt die Anmeldung über das Netzanschlussportal unter Berücksichtigung von § 14a Energiewirtschaftsgesetz; kleinere Ladestationen werden nur über ein Online-Formular gemeldet. Den Einbau dürfen laut Stadtwerken nur Elektrofachkräfte ausführen. Auf Ebene der Stadt lohnt ein Blick in den Aalener Energieleitplan, den der Gemeinderat im April 2024 festgestellt hat: Er bezieht neben der Wärme ausdrücklich den Stromverbrauch der Haushalte, Photovoltaik-Potenziale auf Gebäuden und Parkplätzen sowie den Strombedarf für Wärmepumpen ein. Neutrale Energieberatung bieten im Ostalbkreis die Verbraucherzentrale und Energiekompetenz Ostalb gemeinsam an. Ist Ihr Vorhaben klar, schicken Sie uns eine kurze Beschreibung über das Formular; wir wählen einen passenden Elektrobetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Zur Anmeldung von PV-Anlagen und Stromspeichern verlangen die Stadtwerke Aalen unter anderem einen unterschriebenen Übersichtsschaltplan nach VDE-AR-N 4105:2018-11 mit dem vorgesehenen Messkonzept; ohne gültigen Schaltplan wird das Anschlussbegehren nicht weiterbearbeitet.",
+      "quelle": "Stadtwerke Aalen – Anmeldung Erzeugungsanlagen und Speicher",
+      "url": "https://www.sw-aalen.de/netz/erzeugungsanlagen-speicher/anmeldung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für Balkonkraftwerke ist im Netzgebiet der Stadtwerke Aalen keine Anmeldung beim Netzbetreiber mehr erforderlich; es genügt die Registrierung im Marktstammdatenregister der Bundesnetzagentur.",
+      "quelle": "Stadtwerke Aalen – Anmeldung Erzeugungsanlagen und Speicher",
+      "url": "https://www.sw-aalen.de/netz/erzeugungsanlagen-speicher/anmeldung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ladestationen, die mehr als 4,2 kW aus dem Stromnetz beziehen, werden bei den Stadtwerken Aalen über das Netzanschlussportal unter Berücksichtigung von § 14a EnWG angemeldet.",
+      "quelle": "Stadtwerke Aalen – Ladeeinrichtung über 4,2 kW",
+      "url": "https://www.sw-aalen.de/netz/anmeldung-ladeeinrichtung/ladeeinrichtung-ueber-4-2kw",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ladestationen bis 4,2 kW müssen den Stadtwerken Aalen lediglich über ein Online-Formular gemeldet werden; der Einbau darf laut Stadtwerken nur durch elektrische Fachkräfte erfolgen.",
+      "quelle": "Stadtwerke Aalen – Ladeeinrichtung bis 4,2 kW",
+      "url": "https://www.sw-aalen.de/netz/anmeldung-ladeeinrichtung/ladeeinrichtung-bis-4-2kw",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Aalener Gemeinderat hat den Energieleitplan am 25.04.2024 festgestellt; er bezieht über die Wärmeplanung hinaus den Stromverbrauch der Haushalte, PV-Potenziale bei Gebäuden und Parkplätzen sowie den Strombedarf für Wärmepumpen ein.",
+      "quelle": "Stadt Aalen – Energieleitplan",
+      "url": "https://www.aalen.de/energieleitplan.206444.25.htm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für die Frage, welche Dachflächen sich für Solarenergie eignen, verweist die Stadt Aalen auf den Energieatlas Baden-Württemberg und für weitere Informationen auf Energiekompetenz Ostalb und die Energieberatung der Verbraucherzentrale.",
+      "quelle": "Stadt Aalen – Photovoltaik",
+      "url": "https://www.aalen.de/photovoltaik.200793.25.htm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Ostalbkreis werden Energieberatungen der Verbraucherzentrale in Kooperation mit Energiekompetenz Ostalb e.V. angeboten.",
+      "quelle": "Stadt Aalen – Klimafreundliches Bauen, Partner und Beratungsstellen",
+      "url": "https://www.aalen.de/partner-und-beratungsstellen.200806.25.htm",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welche Unterlagen brauchen die Stadtwerke Aalen für eine PV-Anlage?",
+      "a": "Unter anderem das Anmelde- und Inbetriebsetzungsformular, einen unterschriebenen Übersichtsschaltplan nach VDE-AR-N 4105 mit Messkonzept sowie Zertifikate und Datenblätter zu Wechselrichter und Speicher. In der Regel stellt sie der ausführende Elektrobetrieb zusammen."
+    },
+    {
+      "q": "Muss ich meine Wallbox in Aalen anmelden?",
+      "a": "Ja. Ladestationen über 4,2 kW laufen über das Netzanschlussportal der Stadtwerke Aalen, kleinere werden über ein Online-Formular gemeldet."
+    },
+    {
+      "q": "Was ist der Aalener Energieleitplan?",
+      "a": "Eine vom Gemeinderat 2024 festgestellte Planung für eine klimaneutrale Strom- und Wärmeversorgung. Sie betrachtet auch PV-Potenziale auf Gebäuden und den Strombedarf von Wärmepumpen."
+    }
+  ],
+  "offen": [
+    "Stadtteile im Einstieg beispielhaft.",
+    "PV-Pflicht nach KlimaG BW bewusst nicht ausgeführt (bereits allgemein bekannt, keine Anweisungen)."
+  ]
+}

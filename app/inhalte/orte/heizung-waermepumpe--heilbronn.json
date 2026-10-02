@@ -1,0 +1,88 @@
+{
+  "leistung": "heizung-waermepumpe",
+  "ort": "heilbronn",
+  "ortName": "Heilbronn",
+  "kreis": "Heilbronn",
+  "title": "Wärmepumpe Heilbronn – Heizungsbauer kostenlos vermittelt",
+  "description": "Wärmepumpe oder Fernwärme in Heilbronn? Kommunaler Wärmeplan, 13 Eignungsgebiete, Wärmenetze der HNVG. Heizungsbauer für Ihr Haus kostenlos vermittelt.",
+  "h1": "Wärmepumpe und Heizung in Heilbronn",
+  "einstieg": "Ob die Gasheizung in die Jahre gekommen ist oder der Ölkessel ersetzt werden soll: Wer in Heilbronn über eine Wärmepumpe oder eine neue Heizung nachdenkt, stellt zuerst die Frage, ob in der eigenen Straße ein Wärmenetz kommt. Die Antwort darauf gibt der kommunale Wärmeplan der Stadt, ergänzt um die Auskünfte des örtlichen Versorgers.",
+  "abschnitte": [
+    {
+      "h2": "Was der Heilbronner Wärmeplan für Ihr Haus bedeutet",
+      "text": "Im Dezember 2023 hat die Stadt ihren kommunalen Wärmeplan dem Gemeinderat vorgelegt. Er weist 13 Eignungsgebiete aus, in denen Wärmenetze wirtschaftlich in Frage kommen, etwa die Kernstadt, den Südbahnhof, Böckingen Nord oder den Schwabenhof. Verbindlich ist das nicht: Die Stadt bezeichnet den Plan ausdrücklich als Orientierung. Sie schreibt aber auch, dass außerhalb dieser Gebiete ein zeitnaher Wärmenetzanschluss eher unwahrscheinlich ist und Einzelversorgung, zum Beispiel mit Wärmepumpen, mit großer Wahrscheinlichkeit erforderlich sein wird. Das Szenario für 2035 rechnet damit, dass gut die Hälfte der Haushalte mit Luft-Wärmepumpen heizen könnte, Erdwärmepumpen spielen nur eine kleine Rolle."
+    },
+    {
+      "h2": "Fernwärme in Heilbronn: drei Netzbetreiber",
+      "text": "Wärmenetze gibt es in Heilbronn bisher vor allem in der Innenstadt und in Gewerbegebieten. Das innerstädtische Netz der Heilbronner Versorgungs GmbH (HNVG) ist rund neun Kilometer lang, die EnBW betreibt ein eigenes Netz von 17,5 Kilometern mit überwiegend Gewerbekunden, und die ZEAG versorgt einzelne Quartiere wie am Südbahnhof. Für neue Quartiere und Bestandsgebäude ist zudem die Wärmegesellschaft Heilbronn tätig, ein Gemeinschaftsunternehmen von HNVG und ZEAG. Ob in Ihrer Straße ein Ausbau geplant ist, beantwortet laut Stadt die HNVG."
+    },
+    {
+      "h2": "Heizungstausch im Bestand: Beratung vorab",
+      "text": "Der Bestand ist alt: Nach dem Wärmeplan laufen in Heilbronn mehr als 3.500 Heizungsanlagen seit über 30 Jahren, und die Wärmeversorgung beruht noch zu über 95 Prozent auf fossilen Energieträgern. Welche Lösung zu Ihrem Gebäude passt und welche Förderprogramme von Bund und Land in Frage kommen, klärt die Energieagentur Heilbronn in einer kostenlosen Erstberatung. Ist die Richtung klar, schildern Sie Ihr Vorhaben über das Formular; wir wählen dafür einen passenden Heizungsbauer aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die kommunale Wärmeplanung Heilbronn begann im April 2022 und wurde im Dezember 2023 dem Gemeinderat vorgelegt; die Stadt bezeichnet sie als unverbindliche, strategische Planungsgrundlage.",
+      "quelle": "Stadt Heilbronn – Wärme",
+      "url": "https://www.heilbronn.de/umwelt-mobilitaet/energie/waerme.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Wärmeplan identifiziert 13 Eignungsgebiete für Wärmenetze; außerhalb davon hält die Stadt einen zeitnahen Anschluss für eher unwahrscheinlich und Einzelversorgung, etwa mit Wärmepumpen, künftig für sehr wahrscheinlich erforderlich.",
+      "quelle": "Stadt Heilbronn – Wärme",
+      "url": "https://www.heilbronn.de/umwelt-mobilitaet/energie/waerme.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Zielszenario 2035 könnten laut Abschlussbericht rund 53,7 Prozent der Haushalte mit Luft-Wärmepumpen beheizt werden; Erdwärmepumpen kommen auf etwa 3,4 Prozent der Wärmeerzeuger.",
+      "quelle": "Stadt Heilbronn – Kommunale Wärmeplanung, Abschlussbericht",
+      "url": "https://www.heilbronn.de/fileadmin/daten/stadtheilbronn/formulare/umwelt_mobilitaet/energie/Waerme/2025_Bericht_kwp_heilbronn_compressed.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach der Bestandsanalyse sind in Heilbronn mehr als 3.500 Heizungsanlagen älter als 30 Jahre und über 12.000 mindestens 15 Jahre alt; Erdgas, Heizöl und Kohle decken rund 95 Prozent des Endenergiebedarfs für Wärme.",
+      "quelle": "Stadt Heilbronn – Kommunale Wärmeplanung, Abschlussbericht",
+      "url": "https://www.heilbronn.de/fileadmin/daten/stadtheilbronn/formulare/umwelt_mobilitaet/energie/Waerme/2025_Bericht_kwp_heilbronn_compressed.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das innerstädtische Wärmenetz der HNVG ist rund neun Kilometer lang (Stand Februar 2023); die EnBW versorgt in Heilbronn rund 200 überwiegend gewerbliche Kunden über 17,5 Kilometer Netz, die ZEAG betreibt kleinere Quartiersnetze.",
+      "quelle": "Stadt Heilbronn – Fernwärme",
+      "url": "https://www.heilbronn.de/umwelt-mobilitaet/energie/waerme/fernwaerme.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Wärmegesellschaft Heilbronn mbH ist ein gemeinsames Unternehmen von HNVG und ZEAG Energie AG und erschließt neue Quartiere ebenso wie Bestandsgebäude mit Wärme.",
+      "quelle": "Stadt Heilbronn – Wärme",
+      "url": "https://www.heilbronn.de/umwelt-mobilitaet/energie/waerme.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Mit dem Neubau der Neckartalschule in Böckingen plant die Stadt ihr erstes eigenes Nahwärmenetz: Eine 190-Kilowatt-Wärmepumpe auf dem Schuldach soll auch die Grünewaldschule, zwei Turnhallen und eine Kita zu rund 65 Prozent mitversorgen.",
+      "quelle": "Stadt Heilbronn – Heilbronn plant erstes Nahwärmenetz",
+      "url": "https://www.heilbronn.de/rathaus/aktuelles/heilbronn-plant-erstes-nahwaermenetz.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Liegt mein Haus in Heilbronn in einem Eignungsgebiet für Fernwärme?",
+      "a": "Das zeigt die Karte im kommunalen Wärmeplan auf der Seite der Stadt. Für konkrete Fragen zum Wärmenetzausbau in einer Straße nennt die Stadt die HNVG als Ansprechpartner."
+    },
+    {
+      "q": "Ist der Heilbronner Wärmeplan für Eigentümer verpflichtend?",
+      "a": "Nein. Nach Angaben der Stadt ist er ein strategisches Planungsinstrument ohne direkte Verpflichtungen; die ausgewiesenen Gebiete dienen als Orientierung."
+    },
+    {
+      "q": "Lohnt sich in Heilbronn eher eine Luft- oder eine Erdwärmepumpe?",
+      "a": "Das hängt vom Grundstück und vom Gebäude ab. Der Wärmeplan sieht Luft-Wärmepumpen als häufigste Lösung; eine erste neutrale Einschätzung gibt die Energieagentur Heilbronn."
+    }
+  ],
+  "offen": [
+    "Die Zuständigkeit der unteren Wasserbehörde für Erdwärmesonden im Stadtkreis Heilbronn wurde auf heilbronn.de nicht wörtlich gefunden; daher nicht erwähnt.",
+    "Der Ausbau Wollhausstraße/Uhlandstraße/Herbststraße (2026–2027) wurde als datierte Momentangabe weggelassen.",
+    "Der Bericht des Wärmeplans ist als Datei 2025_Bericht… verlinkt, der Text spricht vom Abschluss im Dezember 2023; ob es eine Fortschreibung gibt, wurde nicht geprüft.",
+    "Eine Satzung mit Anschluss- und Benutzungszwang für Fernwärme wurde für Heilbronn nicht gefunden."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "sindelfingen",
+  "ortName": "Sindelfingen",
+  "kreis": "Böblingen",
+  "title": "Elektriker Sindelfingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Sindelfingen: PV-Anfrage und Messkonzept bei den Stadtwerken, Wallbox und Wärmepumpe anmelden, Solar im Schnödeneck. Kostenlos vermittelt.",
+  "h1": "Elektriker in Sindelfingen",
+  "einstieg": "Ob Photovoltaik auf dem Reihenhaus im Goldberg, eine Wallbox in der Tiefgarage am Eichholz oder ein neuer Zählerschrank für die Wärmepumpe in Maichingen: Wer in Sindelfingen einen Elektriker sucht, hat es beim Netzanschluss mit den Stadtwerken Sindelfingen zu tun. Sie betreiben das Stromnetz in der Stadt und haben für Erzeugungsanlagen und größere Verbraucher eigene Abläufe.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker in Sindelfingen: Anmeldung bei den Stadtwerken",
+      "text": "Bevor eine Photovoltaikanlage gebaut wird, wollen die Stadtwerke als Netzbetreiber frühzeitig von der Planung wissen. Der erste Schritt ist eine Anfrage zur Netzverträglichkeit mit ausgefülltem Formular und Lageplan; bearbeitet wird erst, wenn die Unterlagen vollständig sind. Anträge laufen inzwischen über das Netzanschlussportal, Papierformulare nur noch in Ausnahmefällen. Ähnliches gilt für steuerbare Verbrauchseinrichtungen mit mehr als 4,2 Kilowatt, also etwa private Wallboxen, Wärmepumpen und Batteriespeicher: Sie werden online angemeldet, entweder vom Eigentümer im Netzkundenportal oder vom beauftragten Elektrobetrieb im Installateurportal."
+    },
+    {
+      "h2": "Messkonzept und Zählerschrank: wer was entscheidet",
+      "text": "Mit Photovoltaik, Speicher und Wärmepumpe wird der Zählerschrank zur Schaltzentrale des Hauses. Die Stadtwerke Sindelfingen stellen verschiedene Messkonzepte zur Auswahl, von der einzelnen Erzeugungsanlage über Erweiterungen bis zur Kombination mit steuerbaren Verbrauchern und zur Selbstversorgergemeinschaft. Welches Konzept umgesetzt wird, liegt laut Stadtwerken in der Verantwortung des Anlagenbetreibers; das Installationsunternehmen errichtet es nach den anerkannten Regeln der Technik. In der Regel lohnt es sich daher, Messkonzept und Zählerschrank schon beim ersten Angebot mitzudenken."
+    },
+    {
+      "h2": "Solar im Bestand: Schnödeneck und städtische Ziele",
+      "text": "Die Stadt hat sich Klimaneutralität bis 2040 zum Ziel gesetzt und setzt mit ihrer Solaroffensive auf Photovoltaik, bis hin zu einer geplanten Freiflächenanlage auf der Überdeckelung der A81. Wer in der denkmalgeschützten Gartenstadtsiedlung Schnödeneck wohnt, plant Solaranlagen zusätzlich mit der Denkmalpflege der Stadt. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Für die Stadtwerke Sindelfingen als Netzbetreiber beginnt der Anschluss einer Photovoltaikanlage mit dem Auftrag zur Prüfung der Netzverträglichkeit; benötigt werden das Anfrageformular und ein Lageplan, bearbeitet wird erst nach Eingang vollständiger Unterlagen.",
+      "quelle": "Stadtwerke Sindelfingen – Eigenerzeuger",
+      "url": "https://www.stadtwerke-sindelfingen.de/privatkunden/strom/eigenerzeuger/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Sindelfingen bieten Messkonzepte von MK A (einzelne Erzeugungsanlage) bis MK D (Selbstversorgergemeinschaft) an; die Wahl liegt in der Verantwortung des Anlagenbetreibers, das Installationsunternehmen errichtet das Konzept nach den anerkannten Regeln der Technik.",
+      "quelle": "Stadtwerke Sindelfingen – Eigenerzeuger",
+      "url": "https://www.stadtwerke-sindelfingen.de/privatkunden/strom/eigenerzeuger/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Als steuerbare Verbrauchseinrichtungen nennen die Stadtwerke Sindelfingen Anlagen über 4,2 kW, etwa private Wallboxen, Wärmepumpen, Batteriespeicher und Klimageräte; für Inbetriebnahmen ab 01.01.2024 erfolgt die Anmeldung über das Netzkunden- oder das Installateurportal.",
+      "quelle": "Stadtwerke Sindelfingen – Anmeldepflichtige Anlagen",
+      "url": "https://www.stadtwerke-sindelfingen.de/netzanschlussportal/netzanschlussportal/anmeldpflichtige-anlagen/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für das Konzessionsgebiet Stadt Sindelfingen sind die Stadtwerke Sindelfingen GmbH als Grundversorger Strom festgestellt.",
+      "quelle": "Stadtwerke Sindelfingen – Stromnetz",
+      "url": "https://www.stadtwerke-sindelfingen.de/netze/stromnetz/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Mit der im Dezember 2022 beschlossenen Solaroffensive baut die Stadt Sindelfingen PV-Anlagen auf eigenen Liegenschaften, stellt nicht benötigte Flächen Dritten zur Verfügung und plant auf der Überdeckelung der A81 eine Freiflächen-PV mit 3 MWp.",
+      "quelle": "Stadt Sindelfingen – Solaroffensive 2022",
+      "url": "https://www.sindelfingen.de/klima-umwelt/erneuerbare-energien/solaroffensive-2022",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die zwischen 1919 und 1921 erbaute Gartenstadtsiedlung „Schnödeneck“ steht seit 1984 unter Denkmalschutz; die Stadt stellt einen Antrag auf denkmalschutzrechtliche Genehmigung bereit.",
+      "quelle": "Stadt Sindelfingen – Denkmalpflege",
+      "url": "https://www.sindelfingen.de/bauen-wirtschaft/bauen/denkmalpflege",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Sindelfingen strebt die Klimaneutralität des gesamten Stadtgebiets und der Stadtverwaltung bis zum Jahr 2040 an.",
+      "quelle": "Stadt Sindelfingen – Klimaschutzkonzept 2026",
+      "url": "https://www.sindelfingen.de/klima-umwelt/klimaschutz-1/klimaschutzkonzept-2026",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo melde ich in Sindelfingen eine Wallbox oder Wärmepumpe an?",
+      "a": "Bei den Stadtwerken Sindelfingen als Netzbetreiber, über deren Netzkundenportal. Häufig übernimmt das der beauftragte Elektrobetrieb über das Installateurportal."
+    },
+    {
+      "q": "Was verlangen die Stadtwerke Sindelfingen vor dem Bau einer PV-Anlage?",
+      "a": "Am Anfang steht eine Anfrage zur Netzverträglichkeit mit Formular und Lageplan. Erst mit vollständigen Unterlagen beginnt die Bearbeitung."
+    },
+    {
+      "q": "Gilt im Schnödeneck etwas Besonderes für Solaranlagen?",
+      "a": "Die Siedlung steht seit 1984 unter Denkmalschutz. Ob und wie eine Anlage möglich ist, klärt die Denkmalpflege der Stadt Sindelfingen im Genehmigungsverfahren."
+    }
+  ],
+  "offen": [
+    "Stadtteilbeispiele im Einstieg (Goldberg, Eichholz, Maichingen) nicht durch Fakten belegt.",
+    "Dass die Stadtwerke Sindelfingen das Stromnetz im gesamten Stadtgebiet betreiben, ist aus „Netzbetreiber“ (Eigenerzeuger-Seite) und Grundversorger-Angabe abgeleitet; eine Netzgebietskarte wurde nicht gefunden.",
+    "Keine Aussage gefunden, ob PV im Schnödeneck konkret zulässig ist; FAQ verweist nur auf das Verfahren."
+  ]
+}

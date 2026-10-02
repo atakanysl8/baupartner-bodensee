@@ -1,0 +1,81 @@
+{
+  "leistung": "heizung-waermepumpe",
+  "ort": "freiburg",
+  "ortName": "Freiburg",
+  "kreis": "Freiburg im Breisgau",
+  "title": "Wärmepumpe Freiburg – Heizungsbauer kostenlos vermittelt",
+  "description": "Wärmepumpe oder Heizung in Freiburg tauschen: Masterplan Wärme, Fernwärme-Eignungsgebiete, Erdwärme und Grundwasser beim Umweltschutzamt. Kostenlos vermittelt.",
+  "h1": "Wärmepumpe und Heizung in Freiburg",
+  "einstieg": "Die alte Gas- oder Ölheizung soll raus, aber was kommt danach: Wärmepumpe, Fernwärme oder eine Kombination mit Solarthermie? In Freiburg lässt sich diese Frage besser beantworten als in vielen anderen Städten, weil der kommunale Wärmeplan schon seit 2021 vorliegt und die Stadt zeigt, wo Wärmenetze geplant sind. Hinzu kommen Grundwasser und Untergrund im Oberrheingraben.",
+  "abschnitte": [
+    {
+      "h2": "Masterplan Wärme: Fernwärme oder eigene Heizung?",
+      "text": "Den Masterplan Wärme hat der Gemeinderat 2021 als kommunalen Wärmeplan beschlossen. Er geht davon aus, dass langfristig rund die Hälfte des Wärmebedarfs über Fernwärme gedeckt werden kann; wo das nicht möglich ist, sollen Wärmepumpen, Biomasse und ergänzende Solarthermie den Rest übernehmen. In welchen Gebieten ein Wärmenetz geplant ist, zeigt die Stadt in einer Karte im Geoportal FreiGIS; der Schwerpunkt liegt auf den Wärmeverbünden Süd und West. Betreiber der Netze ist badenovaWÄRMEPLUS, dort gibt es Angebote für einen Anschluss. Eine Pflicht, bestehende Gebäude an die Fernwärme anzuschließen, gibt es in Freiburg nach Angaben der Stadt nicht."
+    },
+    {
+      "h2": "Wärmepumpe in Freiburg: Luft, Erdreich oder Grundwasser",
+      "text": "Die Stadt beschreibt die Voraussetzungen für Wärmepumpen als gut: An vielen Orten steht das Grundwasser hoch an, und die Lage im Oberrheingraben bietet Erdwärmepotenzial. Bei Luft-Wasser-Wärmepumpen geht es vor allem um den Aufstellort und den Schallschutz gegenüber der Nachbarschaft. Für Erdwärmesonden oder Brunnen ist die untere Wasserbehörde im Umweltschutzamt zuständig: Erdarbeiten tiefer als zehn Meter werden dort angezeigt, häufig ist eine wasserrechtliche Erlaubnis nötig. Eine Karte im Geoportal gibt einen ersten Überblick, und beim Umweltschutzamt ist eine kostenfreie Voranfrage möglich."
+    },
+    {
+      "h2": "Eignung klären, Angebote vergleichen",
+      "text": "Als Faustregel nennt die Stadt die Vorlauftemperatur: Werden die Räume auch an kalten Tagen mit etwa 55 Grad warm, eignet sich das Haus meist für eine Wärmepumpe. Einen Einstieg bietet die kostenlose Freiburger Energiesparberatung mit der Verbraucherzentrale. Vollständige Angebote enthalten nach der städtischen Liste unter anderem Heizlastberechnung, hydraulischen Abgleich und die Elektrik. Steht Ihr Vorhaben fest, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Der Gemeinderat hat 2021 den Masterplan Wärme als kommunalen Wärmeplan beschlossen; er geht langfristig von rund 50 Prozent Fernwärme aus, ergänzt durch Wärmepumpen (27 Prozent), Biomasse (13 Prozent) und Solarthermie (9 Prozent).",
+      "quelle": "Stadt Freiburg – Klimaneutral heizen",
+      "url": "https://www.freiburg.de/pb/1847688.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Eine Pflicht, bestehende Gebäude an die Fernwärme anzuschließen, gibt es in Freiburg laut Stadt nicht; der Ausbau konzentriert sich auf die Wärmeverbünde Süd und West, Betreiber ist badenovaWÄRMEPLUS.",
+      "quelle": "Stadt Freiburg – Fernwärme",
+      "url": "https://www.freiburg.de/pb/2474701.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut Stadt steht an vielen Orten in Freiburg das Grundwasser hoch an; durch die Lage im Oberrheingraben besteht ein hohes Potenzial für die Nutzung von Erdwärme.",
+      "quelle": "Stadt Freiburg – Klimaneutral heizen",
+      "url": "https://www.freiburg.de/pb/1847688.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Erdarbeiten tiefer als 10 Meter sind nach Angaben der Stadt bei der unteren Wasserbehörde im Umweltschutzamt Freiburg anzuzeigen, in vielen Fällen ist eine wasserrechtliche Erlaubnis nötig; für Erdwärmesonden, Kollektoren oder Grundwassernutzung ist dort eine kostenfreie Voranfrage möglich.",
+      "quelle": "Stadt Freiburg – Wärmepumpen",
+      "url": "https://www.freiburg.de/pb/2474711.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Lässt sich die Heizanlage auf etwa 55 °C Vorlauftemperatur einstellen und werden die Räume auch an den kältesten Tagen warm, kann das Haus nach Angaben der Stadt auch mit einer Wärmepumpe beheizt werden.",
+      "quelle": "Stadt Freiburg – Wärmepumpen",
+      "url": "https://www.freiburg.de/pb/2474711.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für den Einstieg verweist die Stadt auf die kostenlose Energieberatung im Rahmen der Freiburger Energiesparberatung in Kooperation mit der Verbraucherzentrale Baden-Württemberg.",
+      "quelle": "Stadt Freiburg – Klimaneutral heizen",
+      "url": "https://www.freiburg.de/pb/1847688.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich in Freiburg an die Fernwärme anschließen, wenn sie in meiner Straße liegt?",
+      "a": "Nach Angaben der Stadt gibt es für bestehende Gebäude in Freiburg keine Anschlusspflicht. Ob in Ihrer Straße ein Netz geplant ist, zeigt die Karte zum Wärmenetzausbau im Geoportal."
+    },
+    {
+      "q": "Wer ist in Freiburg für Erdwärmesonden zuständig?",
+      "a": "Die untere Wasserbehörde im Umweltschutzamt der Stadt. Dort kann vorab kostenfrei angefragt werden, ob Sonden, Kollektoren oder Grundwassernutzung am Standort in Frage kommen."
+    },
+    {
+      "q": "Brauche ich für eine Luft-Wärmepumpe in Freiburg eine Genehmigung?",
+      "a": "Die Stadt beschreibt die Installation einer Wärmepumpe als generell genehmigungsfrei. Bei der Aufstellung sind aber Richtwerte zum Schallschutz gegenüber der Nachbarschaft zu beachten."
+    }
+  ],
+  "offen": [
+    "Prozentanteile (50/27/13/9) aus der Zusammenfassung der Stadtseite, nicht im Masterplan-PDF nachgeschlagen.",
+    "ISONG (LGRB) geöffnet, aber nur Kartenoberfläche ohne zitierbaren Text – nicht als Fakt verwendet.",
+    "Ausbaugeschwindigkeit (ca. 8 km pro Jahr) und Zeitplan der Ausbaugebiete bewusst nicht übernommen (Momentangabe)."
+  ]
+}

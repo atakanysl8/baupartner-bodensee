@@ -1,0 +1,87 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "ravensburg",
+  "ortName": "Ravensburg",
+  "kreis": "Ravensburg",
+  "title": "Elektriker Ravensburg – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Ravensburg: PV-Anlage, Speicher und Wallbox beim Netzbetreiber anmelden, Zählerplatz nach § 14a EnWG, Balkonkraftwerk. Kostenlos vermittelt.",
+  "h1": "Elektriker in Ravensburg",
+  "einstieg": "Wer in Ravensburg einen Elektriker sucht, plant häufig mehr als einen neuen Stromkreis: Photovoltaik auf dem Dach, einen Batteriespeicher, die Wallbox in der Garage oder eine Wärmepumpe, die einen größeren Zählerschrank braucht. Für all das ist im Stadtgebiet derselbe Netzbetreiber zuständig, und viele Schritte laufen über das Portal, in dem sich der ausführende Elektrobetrieb anmeldet.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker in Ravensburg: Netzanschluss, Baustrom und Zähler",
+      "text": "Das Stromnetz in Ravensburg und Weingarten betreibt die Netzgesellschaft des regionalen Versorgers. Bei neuen Hausanschlüssen ist sie für Strom, Gas, Wasser und Telekommunikation gemeinsame Ansprechpartnerin, sodass mehrere Leitungen in einem Graben verlegt werden können. Baustrom beantragt laut Netzbetreiber der Elektriker über das Installateurportal. Ist der Anschluss hergestellt, braucht der Netzbetreiber die Inbetriebsetzungsanzeige des Fachunternehmens, das die Installation im Gebäude ausgeführt hat; erst danach wird der Zähler gesetzt. Für Ladepunkte im Außenbereich ohne eigenen Zähler kommt eine Zähleranschlusssäule in Frage. Sie errichtet nicht der Netzbetreiber, sondern der Elektrobetrieb."
+    },
+    {
+      "h2": "Photovoltaik, Speicher und Balkonkraftwerk anmelden",
+      "text": "Für Anlagen mit mehr als 800 Watt Wechselrichterleistung sieht der Ravensburger Netzbetreiber zuerst eine Netzverträglichkeitsprüfung über seine Online-Klickstrecke vor, die Fertigmeldung folgt über den Link in der Netzzusage. Dazu gehören Datenblätter, das geplante Messkonzept mit Speicherschema und ein Inbetriebsetzungsprotokoll. Die Eintragung ins Marktstammdatenregister bleibt Sache des Anlagenbetreibers, je Anlage und je Speicher. Für Balkonkraftwerke gilt ein vereinfachtes Verfahren. Wird auf eine Vergütung verzichtet, reicht nach Angabe des Netzbetreibers die Registrierung im Marktstammdatenregister. Schildern Sie Ihr Vorhaben über unser Formular, dann wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
+    },
+    {
+      "h2": "Wallbox und Wärmepumpe als steuerbare Verbraucher",
+      "text": "Wallboxen, Wärmepumpen und Stromspeicher mit mehr als 4,2 kW fallen unter § 14a Energiewirtschaftsgesetz. Der Netzbetreiber darf sie in engen Grenzen dimmen, im Gegenzug sinken die Netzentgelte. Welche Voraussetzungen der Zählerplatz und die Steuerleitung erfüllen müssen, hat die Ravensburger Netzgesellschaft in eigenen technischen Mindestanforderungen festgelegt. Bei älteren Häusern in der Weststadt oder in Weißenau entscheidet sich daran oft, ob der vorhandene Zählerschrank weiter genutzt werden kann. Den Rahmen setzt der Ravensburger Klimakonsens: Der Gemeinderat hat 2020 das Ziel einer klimaneutralen Stadt bis spätestens 2040 beschlossen."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die TWS Netz GmbH betreibt das Stromversorgungsnetz im Stadtgebiet Ravensburg und Weingarten; Baustrom kann der Elektriker über das Installateurportal des Netzbetreibers beantragen.",
+      "quelle": "TWS Netz – Netzanschluss",
+      "url": "https://www.tws-netz.de/Netzanschluss",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach Fertigstellung eines Netzanschlusses benötigt der Netzbetreiber die Inbetriebsetzungsanzeige des Fachunternehmens, das die Installation im Gebäude ausgeführt hat; danach wird der Zähler eingebaut.",
+      "quelle": "TWS Netz – Netzanschluss",
+      "url": "https://www.tws-netz.de/Netzanschluss",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für Stromerzeugungsanlagen mit mehr als 801 W Wechselrichterleistung in der Niederspannung wird eine Netzverträglichkeitsprüfung angefragt; die Eintragung ins Marktstammdatenregister ist für den Anlagenbetreiber je Anlage und Speicher verpflichtend.",
+      "quelle": "TWS Netz – Anmeldung von Erzeugungsanlagen",
+      "url": "https://www.tws-netz.de/de/Einspeisung/Strom-Erzeugungsanlage-anmelden/Anmeldung-von-Erzeugungsanlagen/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Als Balkonkraftwerk gilt beim Ravensburger Netzbetreiber eine Anlage bis 800 VA Wechselrichterleistung und höchstens 2.000 Wp Modulleistung; bei Verzicht auf Vergütung reicht die Registrierung im Marktstammdatenregister.",
+      "quelle": "TWS Netz – Balkonkraftwerk",
+      "url": "https://www.tws-netz.de/balkonkraftwerk",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Wärmepumpen, Stromspeicher und weitere Verbrauchseinrichtungen über 4,2 kW gelten nach § 14a EnWG als steuerbar und erhalten reduzierte Netzentgelte; Anforderungen an Zählerplatz und Steuerleitung legt die TWS Netz in ihren technischen Mindestanforderungen fest.",
+      "quelle": "TWS Netz – Steuerbare Verbrauchseinrichtungen nach § 14a EnWG",
+      "url": "https://www.tws-netz.de/14a",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Eine Zähleranschlusssäule, etwa für eine Ladesäule im Außenbereich, wird nicht von der TWS Netz errichtet, sondern vom beauftragten Elektriker.",
+      "quelle": "TWS Netz – Haus- und Zähleranschlusssäule",
+      "url": "https://www.tws-netz.de/de/Netzanschluss/Gebaeude-anschliessen/Anschlussschrank/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Mit dem 2020 einstimmig beschlossenen „Ravensburger Klimakonsens“ verfolgt die Stadt das Ziel, bis spätestens 2040 klimaneutral zu werden.",
+      "quelle": "Stadt Ravensburg – CO2-neutrales Ravensburg",
+      "url": "https://www.ravensburg.de/rv/umwelt-klima/co2-neutrales-ravensburg/co2-neutrales-ravensburg.php",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wer beantragt in Ravensburg den Baustrom?",
+      "a": "Laut Netzbetreiber wendet man sich an den Elektriker. Er kann den Baustromanschluss über das Installateurportal der TWS Netz beantragen."
+    },
+    {
+      "q": "Muss ein Balkonkraftwerk in Ravensburg beim Netzbetreiber angemeldet werden?",
+      "a": "Bei Verzicht auf Einspeisevergütung genügt nach Angabe der TWS Netz die Registrierung im Marktstammdatenregister. Wer eine Vergütung möchte oder einen Kleinstspeicher betreibt, meldet sich direkt beim Netzbetreiber."
+    },
+    {
+      "q": "Gilt § 14a EnWG auch für meine neue Wallbox in Ravensburg?",
+      "a": "Betroffen sind steuerbare Verbrauchseinrichtungen mit mehr als 4,2 kW. Welche technischen Voraussetzungen der Zählerplatz erfüllen muss, steht in den Mindestanforderungen der TWS Netz."
+    }
+  ],
+  "offen": [
+    "Wallbox-Anmeldeseite der TWS Netz nicht separat geöffnet; Wallbox nur über § 14a-Seite belegt.",
+    "Ortsteile im Text (Weststadt, Weißenau) nur als Beispiele, nicht durch Fakten belegt.",
+    "Förderprogramme der TWS für Stromkunden (Speicher, Ladeboxen) bewusst nicht genannt, da Unternehmensangebot und Stand 2023."
+  ]
+}

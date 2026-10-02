@@ -1,0 +1,93 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "tuebingen",
+  "ortName": "Tübingen",
+  "kreis": "Tübingen",
+  "title": "Elektriker Tübingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Tübingen: Wallbox und PV im swt-Netzportal anmelden, § 14a EnWG, Balkonkraftwerk, städtisches PV-Förderprogramm. Kostenlos vermittelt.",
+  "h1": "Elektriker in Tübingen",
+  "einstieg": "Wer in Tübingen einen Elektriker sucht, plant häufig mehr als eine neue Leitung: eine Solaranlage auf dem Dach, einen Batteriespeicher, die Wallbox am Stellplatz oder einen Zählerplatz, der für die Wärmepumpe erweitert werden muss. Die Universitätsstadt hat sich dafür einen ehrgeizigen Rahmen gesetzt, und der örtliche Netzbetreiber hat für jede dieser Anlagen ein eigenes Anmeldeverfahren.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker in Tübingen: Anmeldung im swt-Netzportal",
+      "text": "Netzbetreiber im Stadtgebiet sind die Stadtwerke Tübingen. Für Erzeugungsanlagen unterscheiden sie drei Wege: steckerfertige Anlagen bis 800 W, Anlagen bis 270 kW und größere Anlagen. Bei Ladeeinrichtungen beginnt die Anmeldepflicht ab 3,6 kVA. Eine Wallbox bis 11 kW können Privatpersonen selbst im swt-Netzportal anmelden; darüber dürfen nur eingetragene Elektroinstallateure den Antrag stellen. Übersteigt die Summe je Kundenanlage 12 kVA, muss der Netzbetreiber der Installation zustimmen. Die genehmigte Leistung bleibt zwölf Monate reserviert. Nach der Montage wird das Formular zur Inbetriebsetzung hochgeladen."
+    },
+    {
+      "h2": "Wärmepumpe, Speicher und Balkonkraftwerk",
+      "text": "Wärmepumpen, Wallboxen, Stromspeicher und fest installierte Klimaanlagen mit mehr als 4,2 kW gelten nach § 14a EnWG als steuerbar; mehrere kleinere Geräte können zusammen darunter fallen. Die Stadtwerke dürfen ihre Leistung begrenzen, aber nicht abschalten. Für das verbrauchsabhängige Modul 2 braucht es einen separaten Zähler, für das zeitvariable Modul 3 ein intelligentes Messsystem. Angemeldet wird standardmäßig durch einen Elektroinstallateur, der im Installateurverzeichnis eingetragen ist. Für Balkonkraftwerke gilt im Tübinger Netz eine Obergrenze von 2.000 Wp Modulleistung je Zähler, bei Anschluss über einen Schuko-Stecker 960 Wp. Für eine Vergütung ist neben dem Marktstammdatenregister die Anmeldung im Netzportal nötig."
+    },
+    {
+      "h2": "Tübingen klimaneutral 2030: Solarstrom in der Stadt",
+      "text": "Die Stadt hält auch nach der Fortschreibung ihres Klimaschutzprogramms 2026 am Ziel fest, bis 2030 klimaneutral zu werden. Beim Strom ist der Weg weit: Nur etwa 14 Prozent wurden Anfang 2024 vor Ort erzeugt. Im Januar 2026 waren im Stadtgebiet 3.930 Photovoltaikanlagen installiert. Die Stadt unterstützt Photovoltaik und Batteriespeicher mit einem eigenen Förderprogramm, dessen Bedingungen sie selbst veröffentlicht. Neutrale Orientierung geben die Tübinger PV-Mentoren, Ehrenamtliche, die kostenfrei beraten. Schildern Sie Ihr Vorhaben über unser Formular, dann wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadtwerke Tübingen sind Netzbetreiber; ihr Anmeldeverfahren für Erzeugungsanlagen und Speicher unterscheidet steckerfertige PV-Anlagen bis 800 W, Anlagen bis 270 kW und Anlagen über 270 kW.",
+      "quelle": "Stadtwerke Tübingen – Anmeldeverfahren für Erzeugungsanlagen und Speicher",
+      "url": "https://www.swtue.de/netze/einspeisung/anmeldeverfahren.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ladeeinrichtungen sind ab 3,6 kVA anmeldepflichtig; bis 11 kW können Privatpersonen im swt-Netzportal anmelden, darüber nur eingetragene Elektroinstallateure. Über 12 kVA je Kundenanlage muss der Netzbetreiber zustimmen; die genehmigte Leistung wird zwölf Monate reserviert.",
+      "quelle": "Stadtwerke Tübingen – Ladeeinrichtung anmelden",
+      "url": "https://www.swtue.de/netze/netzanschluss/ladeeinrichtung-anmelden.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Steuerbar nach § 14a EnWG sind bei den Stadtwerken Tübingen Wärmepumpen, Wallboxen, Stromspeicher und fest installierte Klimaanlagen über 4,2 kW; die Anmeldung übernimmt standardmäßig ein im Installateurverzeichnis eingetragener Elektroinstallateur.",
+      "quelle": "Stadtwerke Tübingen – Steuerbare Verbrauchseinrichtungen",
+      "url": "https://www.swtue.de/netze/netzanschluss/steuerbare-verbrauchseinrichtungen.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Je Zähler kann ein Balkonkraftwerk mit höchstens 2.000 Wp Modulleistung und 800 W Wechselrichterleistung angemeldet werden, bei Schuko-Anschluss höchstens 960 Wp; für eine Vergütung ist zusätzlich die Anmeldung im swt-Netzportal nötig.",
+      "quelle": "Stadtwerke Tübingen – PV-Balkonkraftwerk",
+      "url": "https://www.swtue.de/energie/strom/pv-balkonkraftwerk.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Tübingen hält mit der Fortschreibung des Klimaschutzprogramms 2026 am Ziel fest, bis 2030 klimaneutral in Bezug auf die energiebedingten CO2-Emissionen zu werden.",
+      "quelle": "Universitätsstadt Tübingen – Tübingen klimaneutral 2030",
+      "url": "https://www.tuebingen.de/29645.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In Tübingen werden jährlich etwa 400 Millionen kWh Strom benötigt; nur etwa 14 Prozent davon wurden vor Ort erzeugt (Stand Anfang 2024).",
+      "quelle": "Universitätsstadt Tübingen – Stromwende",
+      "url": "https://www.tuebingen.de/43045.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Januar 2026 waren im Tübinger Stadtgebiet 3.930 Photovoltaikanlagen installiert; für Photovoltaikanlagen und Batteriespeicher gibt es ein städtisches Förderprogramm.",
+      "quelle": "Tübingen macht blau – Photovoltaik",
+      "url": "https://www.tuebingen.de/tuebingen-macht-blau/33120.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Tübinger PV-Mentoren sind Ehrenamtliche, die kostenfrei und neutral zu Photovoltaik beraten, von Balkonanlagen bis zu großen Dachanlagen.",
+      "quelle": "Tübingen macht blau – Tübinger PV-Mentoren",
+      "url": "https://www.tuebingen.de/tuebingen-macht-blau/33120/42873.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf ich meine Wallbox in Tübingen selbst beim Netzbetreiber anmelden?",
+      "a": "Bis 11 kW können Privatpersonen die Anmeldung im swt-Netzportal selbst vornehmen. Bei höherer Leistung stellen nur eingetragene Elektroinstallateure den Antrag."
+    },
+    {
+      "q": "Wie groß darf ein Balkonkraftwerk im Tübinger Netz sein?",
+      "a": "Die Stadtwerke Tübingen nennen höchstens 2.000 Wp Modulleistung je Zähler und 800 W Wechselrichterleistung. Bei Anschluss über einen Schuko-Stecker liegt die Grenze bei 960 Wp."
+    },
+    {
+      "q": "Gibt es in Tübingen eine städtische Förderung für Photovoltaik?",
+      "a": "Ja, die Stadt hat ein Förderprogramm für Photovoltaik und Batteriespeicher. Voraussetzungen und Antragsweg veröffentlicht sie auf der Seite der Kampagne „Tübingen macht blau“."
+    }
+  ],
+  "offen": [
+    "Ob alle Tübinger Teilorte im Netzgebiet der Stadtwerke Tübingen liegen, nicht geprüft.",
+    "Fördersätze und Module des städtischen PV-Förderprogramms bewusst nicht genannt.",
+    "swt-Seiten per WebFetch-Zusammenfassung gelesen (Inhalt in Akkordeons); Werte 3,6 kVA, 12 kVA, 2.000 Wp, 960 Wp stammen daraus."
+  ]
+}

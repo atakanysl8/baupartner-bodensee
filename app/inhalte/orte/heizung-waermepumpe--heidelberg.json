@@ -1,0 +1,91 @@
+{
+  "leistung": "heizung-waermepumpe",
+  "ort": "heidelberg",
+  "ortName": "Heidelberg",
+  "kreis": "Heidelberg",
+  "title": "Wärmepumpe Heidelberg – Heizungsbauer kostenlos vermittelt",
+  "description": "Wärmepumpe oder Fernwärme in Heidelberg: was der Wärmeplan empfiehlt, wo Erdwärme eine Erlaubnis braucht und wer berät. Heizungsbauer kostenlos vermittelt.",
+  "h1": "Wärmepumpe und Heizung in Heidelberg",
+  "einstieg": "Steht in Heidelberg der Austausch der Heizung an, stellt sich zuerst eine Ortsfrage: Liegt das Haus an einer Straße mit Fernwärme oder in einem Gebiet, in dem eine Wärmepumpe die naheliegende Lösung ist? Die Stadt hat dafür einen kommunalen Wärmeplan, die Stadtwerke veröffentlichen ihre Ausbauplanung, und für Erdwärme gelten wegen der vielen Wasserschutzgebiete eigene Regeln.",
+  "abschnitte": [
+    {
+      "h2": "Was der Heidelberger Wärmeplan vorsieht",
+      "text": "Der Gemeinderat hat den kommunalen Wärmeplan am 15. November 2023 als Leitlinie bis 2040 beschlossen. Heute wird Heidelberg laut Stadt etwa zur Hälfte mit Fernwärme versorgt, zur anderen Hälfte mit Erdgas und Heizöl. Der Plan setzt auf zwei Bausteine: einen großflächigen Ausbau der Fernwärme und Wärmepumpen dort, wo kein Netz kommt. Für Häuser im bestehenden Fernwärmegebiet empfiehlt die Stadt den Anschluss als erste Wahl. Wichtig für die Planung: Der Wärmeplan legt nach Darstellung der Stadt weder fest, ob noch wann die Fernwärme in eine bestimmte Straße kommt; die genannten Zeiträume sind Orientierungswerte. Wer heute eine Heizung ersetzen muss, sieht deshalb sinnvollerweise zuerst in die Ausbaukarte und entscheidet dann zwischen Übergangslösung, Anschluss und Wärmepumpe."
+    },
+    {
+      "h2": "Fernwärme-Ausbau und Satzungsgebiete",
+      "text": "Die Stadtwerke Heidelberg zeigen Bestandsnetz und geplante Leitungen in einer schematischen Karte; Interessierte können sich registrieren und werden informiert, sobald ein Anschluss möglich ist. Nach Angabe der Stadt stammte 2024 die Hälfte der Fernwärme der Stadtwerke aus klimaneutralen Quellen, bis 2035 soll sie vollständig klimaneutral sein. In einzelnen Gebieten wie der Bahnstadt oder Im Bieth besteht laut Stadtwerken nach der Fernwärmesatzung der Stadt eine Anschlusspflicht an die öffentliche Wärmeversorgung. Für den Altbau außerhalb dieser Gebiete nennt die Stadt als Faustwert: Eine Wärmepumpe funktioniert, wenn die nötige Vorlauftemperatur an den kältesten Tagen unter 55 Grad liegt; oft helfen hydraulischer Abgleich und einzelne größere Heizkörper."
+    },
+    {
+      "h2": "Erdwärme in Heidelberg: Erlaubnis und Beratung",
+      "text": "Erdwärmesonden reichen in Heidelberg typischerweise 50 bis 200 Meter tief; für Bau und Betrieb ist grundsätzlich eine wasserrechtliche Erlaubnis nötig, ebenso für Grundwasserwärmepumpen. Zuständig ist das Amt für Umweltschutz, Gewerbeaufsicht und Energie mit der Abteilung Technischer Gewässerschutz und Wasserrecht, die als untere Wasserbehörde geführt wird. In Wasserschutzgebieten oder auf Altlastenflächen können Anlagen abgelehnt werden; erste Hinweise liefert das Informationssystem ISONG des Landesamts für Geologie. Für die Frage, ob das eigene Haus wärmepumpentauglich ist, bietet die KLiBA einen Wärmepumpen-Eignungs-Check an. Steht die Richtung fest, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Der Heidelberger Gemeinderat hat am 15. November 2023 einen kommunalen Wärmeplan als Leitlinie bis 2040 beschlossen; die Stadt wird derzeit rund zur Hälfte mit Fernwärme und zur anderen Hälfte mit Erdgas und Heizöl versorgt.",
+      "quelle": "Stadt Heidelberg – Klimaneutrale Wärmeversorgung",
+      "url": "https://www.heidelberg.de/HD/Leben/klimaneutrale+waermeversorgung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut Stadt sagt der Wärmeplan noch nichts Verbindliches über Ausbau und Termine der Fernwärme; eine Wärmepumpe funktioniert im Bestand, wenn die Vorlauftemperatur an den kältesten Tagen unter 55 Grad Celsius liegt.",
+      "quelle": "Stadt Heidelberg – Häufige Fragen zur Wärmeplanung",
+      "url": "https://www.heidelberg.de/HD/Leben/haeufige+fragen+_+antworten+zur+waermeplanung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "2024 stammten nach Angabe der Stadt 50 Prozent der Fernwärme der Stadtwerke Heidelberg aus klimaneutralen Quellen; bis 2035 soll die Fernwärme vollständig klimaneutral sein.",
+      "quelle": "Stadt Heidelberg – Fernwärme in Heidelberg",
+      "url": "https://www.heidelberg.de/HD/Leben/Fernwaerme+in+Heidelberg.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Heidelberg stellen Bestandsnetz und geplanten Fernwärmeausbau schematisch in einer Karte dar; in Gebieten wie der Bahnstadt oder Im Bieth besteht nach der Fernwärmesatzung der Stadt eine Anschlusspflicht.",
+      "quelle": "Stadtwerke Heidelberg – Fernwärme-Verfügbarkeit",
+      "url": "https://www.swhd.de/fernwaerme-verfuegbarkeit",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für Erdwärmesonden (Bohrtiefe meist 50 bis 200 m) und Grundwasserwärmepumpen ist grundsätzlich eine wasserrechtliche Erlaubnis erforderlich; in Wasserschutzgebieten oder bei Altlasten können Anlagen abgelehnt werden.",
+      "quelle": "Stadt Heidelberg – Nutzung von Erdwärme",
+      "url": "https://www.heidelberg.de/HD/Leben/Nutzung+von+Erdwaerme.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Abteilung Technischer Gewässerschutz und Wasserrecht ist im Behördenwegweiser der Stadt Heidelberg als untere Wasserbehörde ausgewiesen.",
+      "quelle": "Stadt Heidelberg – Behördenwegweiser Technischer Gewässerschutz und Wasserrecht",
+      "url": "https://www.heidelberg.de/hd/-/Behoerdenwegweiser/technischer-gewaesserschutz-und-wasserrecht/oe6050391",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die KLiBA bietet Heidelberger Hausbesitzern einen Wärmepumpen-Eignungs-Check an, der vom Umweltamt bezuschusst wird.",
+      "quelle": "Stadt Heidelberg – Wärmepumpen",
+      "url": "https://www.heidelberg.de/HD/Leben/waermepumpen.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Liegt mein Haus in Heidelberg im Fernwärmegebiet?",
+      "a": "Das zeigt die Ausbaukarte der Stadtwerke Heidelberg schematisch, Änderungen der Planung sind möglich. Über das Netzportal kann man sich als Interessent registrieren."
+    },
+    {
+      "q": "Gibt es in Heidelberg eine Anschlusspflicht an die Fernwärme?",
+      "a": "Laut Stadtwerken besteht sie nur in bestimmten Satzungsgebieten wie der Bahnstadt oder Im Bieth. Für andere Gebiete empfiehlt der Wärmeplan den Anschluss, wo Fernwärme in der Straße liegt."
+    },
+    {
+      "q": "Wer ist in Heidelberg für die Erlaubnis einer Erdwärmesonde zuständig?",
+      "a": "Das Amt für Umweltschutz, Gewerbeaufsicht und Energie, Abteilung Technischer Gewässerschutz und Wasserrecht, als untere Wasserbehörde."
+    },
+    {
+      "q": "Taugt mein Heidelberger Altbau für eine Wärmepumpe?",
+      "a": "Nach Angabe der Stadt dann, wenn die Vorlauftemperatur an den kältesten Tagen unter 55 Grad bleibt. Eine Einschätzung liefert der Wärmepumpen-Eignungs-Check der KLiBA."
+    }
+  ],
+  "offen": [
+    "Anschlusspflicht Bahnstadt/Im Bieth nur über Stadtwerke-Seite belegt, Fernwärmesatzung selbst nicht geöffnet.",
+    "GEG-Aussagen der städtischen FAQ (65 %, Fristen) bewusst nicht übernommen.",
+    "Bohrtiefe 50–200 m ist allgemeine Angabe der Stadtseite, keine Heidelberg-spezifische Begrenzung."
+  ]
+}

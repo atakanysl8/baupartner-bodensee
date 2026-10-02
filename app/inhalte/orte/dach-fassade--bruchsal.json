@@ -1,0 +1,88 @@
+{
+  "leistung": "dach-fassade",
+  "ort": "bruchsal",
+  "ortName": "Bruchsal",
+  "kreis": "Karlsruhe",
+  "title": "Dachdecker Bruchsal – Fachbetrieb kostenlos vermittelt",
+  "description": "Dachdecker in Bruchsal: Dachsanierung im Sanierungsgebiet Heidelsheim, Steuerbescheinigung, Gründach und Solar im Bebauungsplan. Kostenlos vermittelt.",
+  "h1": "Dachdecker in Bruchsal",
+  "einstieg": "Wer in Bruchsal einen Dachdecker sucht, steht oft vor einer Entscheidung, die über das Ziegeldach hinausgeht: nur flicken, neu eindecken und dämmen oder gleich Platz für Solarmodule schaffen. Für Häuser im Heidelsheimer Ortskern kommen eigene Förder- und Steuerregeln hinzu, für Neubaugebiete die Klimaschutzvorgaben der Stadt.",
+  "abschnitte": [
+    {
+      "h2": "Dach erneuern im Sanierungsgebiet Heidelsheim Ortskern Nord",
+      "text": "Der nördliche Ortskern von Heidelsheim ist förmlich festgelegtes Sanierungsgebiet im Landessanierungsprogramm. Die städtischen Richtlinien für private Maßnahmen zählen dort ausdrücklich die Ausbesserung oder den Ersatz schadhafter Dachbeläge, die Erneuerung von Dachrinnen und die Verbesserung der Dachkonstruktion zu den Instandsetzungen, die mit Städtebaufördermitteln unterstützt werden können. Wärmedämmung von Dachflächen nennen die Richtlinien als typische energetische Einzelmaßnahme. Reine Instandhaltung, etwa ein neuer Fassadenanstrich oder das Nachstreichen von Dachrinnen, ist dagegen nicht förderfähig. Einen Rechtsanspruch auf Förderung gibt es nicht. Auch für Untergrombach Oberdorf hat die Stadt die Aufnahme in ein Erneuerungsprogramm beantragt."
+    },
+    {
+      "h2": "Steuerbescheinigung für Dacharbeiten im Sanierungsgebiet",
+      "text": "In förmlich festgelegten Bruchsaler Sanierungsgebieten gelten die erhöhten Absetzungen des Einkommensteuergesetzes für Modernisierung und Instandsetzung. Voraussetzung ist nach § 7h eine Bescheinigung der zuständigen Gemeindebehörde, die das Gebäude und die Maßnahmen bestätigt; die Stadt hat dazu eine eigene Informationsseite. Die Bescheinigung bezieht sich auf die konkrete Maßnahme; Auskunft zu Voraussetzungen und Ablauf gibt die Stadt. Ob und in welchem Umfang sich das steuerlich auswirkt, klärt in der Regel die steuerliche Beratung."
+    },
+    {
+      "h2": "Flachdach, Gründach und Solarpotenzial",
+      "text": "Für künftige Bebauungspläne hat Bruchsal eine Checkliste zum planmäßigen Klimaschutz beschlossen. Sie empfiehlt unter anderem, Flachdächer grundsätzlich zu begrünen, mit Ausnahmen für Photovoltaikflächen, wobei auch die Kombination möglich ist, und bei der Planung Dachform und Dachneigung für die Solarnutzung zu berücksichtigen. Wie viel Sonne auf ein bestehendes Dach fällt, zeigt das Solardachkataster im Energieatlas Baden-Württemberg per Ortssuche. Kommt ein Neubau hinzu, stellen die Stadtwerke den Netzanschluss erst nach Eindeckung des Daches und Einbau der Fenster her. Schildern Sie Ihr Dachvorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Dachdeckerbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Heidelsheim Ortskern Nord ist im Landessanierungsprogramm; die Sanierungssatzung wurde am 26.07.2016 beschlossen und das Gebiet bis 2020 dreimal erweitert.",
+      "quelle": "Stadt Bruchsal – Sanierungsgebiet Heidelsheim Ortskern Nord",
+      "url": "https://www.bruchsal.de/gestalten/bruchsalmorgen/Stadterneuerung/heidelsheim+ortskern+nord",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Förderrichtlinien für Heidelsheim Ortskern Nord zählen die Ausbesserung oder den Ersatz schadhafter Dachbeläge, Dachrinnen und die Verbesserung der Dachkonstruktion zu den Instandsetzungsmaßnahmen; ein neuer Fassadenanstrich oder das Nachstreichen von Dachrinnen gilt als nicht förderfähige Instandhaltung.",
+      "quelle": "Stadt Bruchsal – Richtlinien zur Förderung privater Maßnahmen, Heidelsheim Ortskern Nord",
+      "url": "https://www.bruchsal.de/site/Bruchsal-Internet-2023/get/params_E-1883231435/4677949/Foerderrichtlinien_f%C3%BCrPrivatma%C3%9FnahmenHeidelsheimOrtskernNord.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für das Gebiet Untergrombach Oberdorf hat die Stadt Bruchsal einen Aufnahmeantrag in ein städtebauliches Erneuerungsprogramm gestellt.",
+      "quelle": "Stadt Bruchsal – Untergrombach Oberdorf",
+      "url": "https://www.bruchsal.de/gestalten/bruchsalmorgen/Stadterneuerung/untergrombach+oberdorf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In förmlich festgelegten Bruchsaler Sanierungsgebieten gelten die Sonderabsetzungen nach §§ 7h, 10f EStG; nachgewiesen werden die Voraussetzungen durch eine Bescheinigung der zuständigen Gemeindebehörde.",
+      "quelle": "Stadt Bruchsal – Steuerbescheinigungen in den Bruchsaler Sanierungsgebieten",
+      "url": "https://www.bruchsal.de/gestalten/bruchsalmorgen/Stadterneuerung/steuerbescheinigungen+in+den+bruchsaler+sanierungsgebieten",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Bruchsaler Checkliste „planmäßiger Klimaschutz“ sieht vor, Flachdächer grundsätzlich zu begrünen, mit Ausnahmen für PV-Flächen und der Möglichkeit, beides zu kombinieren; für die Solarnutzung sind Dachform und Dachneigung zu berücksichtigen.",
+      "quelle": "Stadt Bruchsal – Checkliste planmäßiger Klimaschutz",
+      "url": "https://www.bruchsal.de/site/Bruchsal-Internet-2023/get/params_E-321468006_Dattachment/4688370/2%29%20Checkliste%20planm%C3%A4%C3%9Figer%20Klimaschutz.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Solardachkataster im Energieatlas Baden-Württemberg zeigt per Orts- oder Straßensuche die mögliche Photovoltaikleistung auf Dachflächen.",
+      "quelle": "LUBW – Energieatlas Baden-Württemberg, Potenzial Dach-Photovoltaik",
+      "url": "https://www.energieatlas-bw.de/sonne/dachflachen/solarpotenzial-auf-dachflachen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bei Neubauten erstellen die Stadtwerke Bruchsal die Netzanschlüsse nach Eindeckung des Daches und Einbau der Fenster.",
+      "quelle": "Stadtwerke Bruchsal – Netzanschluss",
+      "url": "https://www.stadtwerke-bruchsal.de/netze/netzanschluss/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wird eine Dachsanierung in Heidelsheim gefördert?",
+      "a": "Liegt das Haus im Sanierungsgebiet Heidelsheim Ortskern Nord, zählen etwa der Ersatz schadhafter Dachbeläge und Verbesserungen der Dachkonstruktion zu den förderfähigen Instandsetzungen. Einen Anspruch gibt es nicht; Auskunft gibt die Stadt."
+    },
+    {
+      "q": "Bekomme ich für ein neues Dach in Bruchsal eine Steuerbescheinigung?",
+      "a": "Nur in förmlich festgelegten Sanierungsgebieten und für Maßnahmen, die die Gemeinde bescheinigt. Die Stadt informiert auf ihrer Seite zu Steuerbescheinigungen über die Voraussetzungen."
+    },
+    {
+      "q": "Muss das Flachdach meines Neubaus in Bruchsal begrünt werden?",
+      "a": "Das richtet sich nach dem jeweiligen Bebauungsplan. Die städtische Klimaschutz-Checkliste empfiehlt für künftige Pläne, Flachdächer grundsätzlich zu begrünen; maßgeblich sind die Festsetzungen im Einzelfall."
+    }
+  ],
+  "offen": [
+    "Durchführungszeitraum Heidelsheim (laut Stadtseite „01.01.2016 - 31.04.2027“, offensichtlich Tippfehler) und Fördersatz/Höchstbetrag bewusst nicht genannt.",
+    "Ob die Steuerbescheinigung eine Abstimmung vor Baubeginn voraussetzt, steht nicht auf der Stadtseite; im Text bewusst offen gelassen.",
+    "Denkmalschutz in der Barockstadt Bruchsal (z. B. Schlossbereich) nicht recherchiert.",
+    "Starkregenkarten bewusst nicht verwendet, da bereits auf der Hochbau-Seite."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "leistung": "dach-fassade",
+  "ort": "fellbach",
+  "ortName": "Fellbach",
+  "kreis": "Rems-Murr-Kreis",
+  "title": "Dachdecker Fellbach – Fachbetrieb kostenlos vermittelt",
+  "description": "Dachdecker in Fellbach: Dacherneuerung im Sanierungsgebiet, Photovoltaik nach § 23 KlimaG BW, Gründach im Bebauungsplan. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Dachdecker in Fellbach",
+  "einstieg": "Viele Dächer in Fellbach stammen aus einer Zeit, in der Dämmung noch kaum eine Rolle spielte. Wer einen Dachdecker in Fellbach sucht, plant deshalb oft mehr als neue Ziegel: eine Dämmung der Dachfläche, neue Dachfenster, eine Solaranlage oder eine Dachbegrünung auf dem Garagen- oder Anbaudach.",
+  "abschnitte": [
+    {
+      "h2": "Altbaudächer in Fellbach: großes Sanierungspotenzial",
+      "text": "Der kommunale Wärmeplan der Stadt zeigt, wie alt der Bestand ist: Rund 80 Prozent der Fellbacher Gebäude wurden vor der ersten Wärmeschutzverordnung vom November 1977 errichtet. Durch umfassende Sanierungen ließe sich der Wärmeverbrauch in Fellbach laut Plan bis 2040 um bis zu 43 Prozent senken. Das Dach ist dabei eine der Flächen, an denen sich viel ändern lässt. Bei einer grundlegenden Dachsanierung schreibt das Klimaschutzgesetz Baden-Württemberg nach § 23 außerdem die Installation einer Photovoltaikanlage vor, worauf die Stadt auf ihrer Seite zur Gebäudesanierung hinweist. Das Solarpotenzial des eigenen Daches zeigt der PV-Rechner der Stadt."
+    },
+    {
+      "h2": "Dacherneuerung im Ortskern: Sanierungsgebiet Vordere Straße",
+      "text": "Wer im Sanierungsgebiet „Vordere Straße“ wohnt, sollte zwei Seiten kennen. Die Erneuerung der Dacheindeckung zählt die Stadt zu den wertsteigernden Veränderungen, die nach § 144 Baugesetzbuch sanierungsrechtlich genehmigt werden müssen. Zugleich nennt die Förderinformation der Stadt Dacherneuerung und Wärmedämmung des Daches als förderfähige Modernisierungen. Voraussetzung ist eine Modernisierungsvereinbarung mit der Stadt, die vor Baubeginn geschlossen wird; begonnene Maßnahmen werden nicht gefördert. Neben dem Zuschuss erwähnt die Stadt steuerliche Abschreibungsmöglichkeiten nach § 7h und § 10f Einkommensteuergesetz."
+    },
+    {
+      "h2": "Gründach, Beratung und Fachbetrieb",
+      "text": "Festsetzungen zur Begrünung von Dachflächen und Fassaden sind in Fellbacher Bebauungsplänen laut Grünstrategie der Stadt gängige Praxis. Ob für Ihr Grundstück eine solche Vorgabe gilt, steht im jeweiligen Bebauungsplan. Für eine neutrale Einschätzung bieten Stadt und Stadtwerke Fellbach eine kostenlose Energieberatung an. Wenn Ihr Vorhaben feststeht, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Rund 80 % der Fellbacher Gebäude wurden laut Wärmeplan vor der ersten Wärmeschutzverordnung (1. November 1977) errichtet; umfassende Sanierungen könnten den Wärmeverbrauch bis 2040 um bis zu 158 GWh bzw. 43 % senken.",
+      "quelle": "Stadt Fellbach – Kommunale Wärmeplanung",
+      "url": "https://www.fellbach.de/Kommunale-Waermeplanung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Fellbach weist darauf hin, dass die Landesgesetzgebung (§ 23 KlimaG BW) bei einer grundlegenden Dachsanierung die Installation einer Photovoltaikanlage vorschreibt.",
+      "quelle": "Stadt Fellbach – Gebäudesanierung",
+      "url": "https://www.fellbach.de/Gebaeudesanierung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In Fellbacher Sanierungsgebieten ist laut Stadt auch die Erneuerung der Dacheindeckung eine genehmigungspflichtige, wesentlich wertsteigernde Veränderung nach § 144 BauGB.",
+      "quelle": "Stadt Fellbach – Sanierung",
+      "url": "https://www.fellbach.de/de/Leben-in-Fellbach/Bauen-und-Wohnen/Sanierung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Sanierungsgebiet „Vordere Straße“ nennt die Stadt Dacherneuerung und Wärmedämmung des Daches als förderfähige Maßnahmen; mit der Umsetzung darf erst nach Abschluss der Modernisierungsvereinbarung begonnen werden.",
+      "quelle": "Stadt Fellbach – Förderinformation Sanierungsgebiet Vordere Straße",
+      "url": "https://www.fellbach.de/ceasy/resource/?id=4306&download=1",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Mit einer Modernisierungsvereinbarung im Gebiet „Vordere Straße“ besteht laut Stadt die Möglichkeit der steuerlichen Abschreibung von Baukosten nach § 7h und § 10f EStG.",
+      "quelle": "Stadt Fellbach – Förderinformation Sanierungsgebiet Vordere Straße",
+      "url": "https://www.fellbach.de/ceasy/resource/?id=4306&download=1",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut Grünstrategie der Stadt Fellbach sind Festsetzungen in Bebauungsplänen zur Begrünung von Tiefgaragen, Dachflächen und Fassaden in Fellbach gängige Praxis.",
+      "quelle": "Stadt Fellbach – Grünstrategie",
+      "url": "https://www.fellbach.de/Gruenstrategie",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Fellbach setzen bei der Solarenergie vor allem auf die Fellbacher Dachlandschaft, da die Gemarkung klein ist und Platz für großflächige Solarfelder fehlt.",
+      "quelle": "Stadt Fellbach – Solarisierung",
+      "url": "https://www.fellbach.de/de/Leben-in-Fellbach/Solarisierung",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Gilt in Fellbach bei einer Dachsanierung eine Pflicht zur Photovoltaik?",
+      "a": "Die Stadt Fellbach verweist auf § 23 Klimaschutzgesetz Baden-Württemberg, der bei einer grundlegenden Dachsanierung eine PV-Anlage vorschreibt. Was im Einzelfall als grundlegende Sanierung gilt, erläutern Energieagentur Rems-Murr und Umweltministerium."
+    },
+    {
+      "q": "Gibt es in Fellbach Zuschüsse für ein neues Dach?",
+      "a": "Im Sanierungsgebiet „Vordere Straße“ nennt die Stadt Dacherneuerung und Dachdämmung als förderfähig, wenn vorher eine Modernisierungsvereinbarung geschlossen wird. Für Gebäude außerhalb verweist die Stadt auf Förderprogramme von Bund und Land."
+    },
+    {
+      "q": "Wer berät in Fellbach neutral zur Dachsanierung?",
+      "a": "Die Fellbacher Energieberatung von Stadt und Stadtwerken, dienstags bei den Stadtwerken und donnerstags im Rathaus, sowie die Energieagentur Rems-Murr in Waiblingen."
+    }
+  ],
+  "offen": [
+    "Keine Gestaltungs- oder Altstadtsatzung mit Dachvorgaben für Fellbach gefunden.",
+    "Grünstrategie nennt Dachbegrünung als Festsetzung in Bebauungsplänen allgemein; keine konkreten Pläne geprüft.",
+    "Steuerliche Abschreibung (§ 7h/§ 10f EStG) nur als Wiedergabe der Stadt; ggf. Anwalt/Steuerberater prüfen lassen, ob die Erwähnung gewünscht ist."
+  ]
+}

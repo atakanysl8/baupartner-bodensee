@@ -1,0 +1,87 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "backnang",
+  "ortName": "Backnang",
+  "kreis": "Rems-Murr-Kreis",
+  "title": "Elektriker Backnang – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Backnang: PV- und Speicheranmeldung bei den Stadtwerken, § 14a-Datenblatt für Wallbox und Wärmepumpe, Wärmeplan. Kostenlos vermittelt.",
+  "h1": "Elektriker in Backnang",
+  "einstieg": "Ob Photovoltaik mit Batteriespeicher, eine Wärmepumpe statt der alten Ölheizung oder eine Wallbox in der Garage: Wer in Backnang einen Elektriker sucht, braucht neben dem Fachbetrieb auch den Netzbetreiber. Im Stromnetz der Stadtwerke Backnang laufen Anmeldung, Leistungserhöhung und Fertigmeldung über die Stadtwerke; in Teilen des Stadtgebiets kann ein anderer Netzbetreiber zuständig sein.",
+  "abschnitte": [
+    {
+      "h2": "Photovoltaik und Speicher in Backnang anmelden",
+      "text": "Für die Erstprüfung und die Einspeisezusage einer PV-Anlage verlangen die Stadtwerke Backnang zunächst die Formulare E.1, E.2 und E.10, ein Datenblatt zum Messkonzept und einen Lageplan mit eingezeichneter Modulfläche. Dazu kommen ein Schaltplan der gesamten elektrischen Anlage und Einheitenzertifikate nach VDE-AR-N 4105. Wer einen Batteriespeicher einplant, reicht zusätzlich das Datenblatt E.3 und ein Speicherschema ein. Für Anlagen über 25 kWp bestellen die Stadtwerke einen Funkrundsteuerempfänger für das Einspeisemanagement. Das Solarpotenzial des Daches lässt sich vorab im Solarkataster des Energieatlas Baden-Württemberg ablesen, auf das die Stadt verweist."
+    },
+    {
+      "h2": "Wärmepumpe und Wallbox: § 14a und Leistungserhöhung",
+      "text": "Für steuerbare Verbrauchseinrichtungen wie Wärmepumpen und Ladeeinrichtungen stellen die Stadtwerke Backnang ein eigenes Datenblatt nach § 14a Energiewirtschaftsgesetz bereit, außerdem ein Formular zur Anforderung einer Leistungserhöhung des Hausanschlusses. Das ist in Backnang mehr als ein Detail: Laut kommunalem Wärmeplan heizt die Kernstadt überwiegend mit Erdgas, die äußeren Ortsteile vermehrt mit Heizöl, und für das Ziel einer klimaneutralen Wärme bis 2040 braucht es den vermehrten Einsatz strombetriebener Wärmepumpen. Mit ihrer Wärmepumpenkampagne veröffentlicht die Stadt Steckbriefe von Backnanger Häusern mit Wärmepumpe, vom Fertighaus von 1972 bis zum kernsanierten Fachwerkhaus."
+    },
+    {
+      "h2": "So kommen Sie zum passenden Elektriker",
+      "text": "Wenn Sie wissen, was installiert werden soll, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Für Erstprüfung und Einspeisezusage einer PV-Anlage benötigen die Stadtwerke Backnang die Dokumente E.1, E.2, E.10, das Datenblatt Messkonzept Einspeiser/Speicher und einen Lageplan mit eingezeichneter Modulfläche.",
+      "quelle": "Stadtwerke Backnang – PV-Anlagen und Einspeiser",
+      "url": "https://www.swbk.de/Netze/PV-Anlagen-und-Einspeiser/PV-Anlagen-und-Einspeiser.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bei PV-Anlagen mit Speicher verlangen die Stadtwerke Backnang zusätzlich das Formular E.3 (Datenblatt Speicher) und ein Speicherschema; für Anlagen über 25 kWp gibt es ein Bestellformular für einen Funkrundsteuerempfänger zum Einspeisemanagement.",
+      "quelle": "Stadtwerke Backnang – PV-Anlagen und Einspeiser",
+      "url": "https://www.swbk.de/Netze/PV-Anlagen-und-Einspeiser/PV-Anlagen-und-Einspeiser.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Zu den Unterlagen gehören laut Stadtwerken Backnang auch ein Schaltplan der gesamten elektrischen Anlage sowie Einheitenzertifikate nach VDE 4105; über 30 kVA zusätzlich ein Nachweis zum NA-Schutz.",
+      "quelle": "Stadtwerke Backnang – PV-Anlagen und Einspeiser",
+      "url": "https://www.swbk.de/Netze/PV-Anlagen-und-Einspeiser/PV-Anlagen-und-Einspeiser.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Auf ihrer Stromnetz-Seite stellen die Stadtwerke Backnang ein Datenblatt für den Anschluss von Verbrauchseinrichtungen nach § 14a EnWG und ein Formular zur Anforderung einer Leistungserhöhung bereit.",
+      "quelle": "Stadtwerke Backnang – Stromnetz",
+      "url": "https://www.swbk.de/stromnetz",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut kommunalem Wärmeplan wird in der Backnanger Kernstadt vorwiegend mit Erdgas geheizt, in den äußeren Ortsteilen und am Stadtrand vermehrt mit Heizöl; für eine treibhausgasneutrale Versorgung bedarf es unter anderem des vermehrten Einsatzes strombetriebener Wärmepumpen.",
+      "quelle": "Stadt Backnang – Kommunale Wärmeplanung",
+      "url": "https://www.backnang.de/klima_+mobilitaet+und+umwelt/kommunale+waermeplanung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Mit ihrer Wärmepumpenkampagne veröffentlicht die Stadt Backnang Steckbriefe von Wärmepumpen in örtlichen Gebäuden, darunter ein Fertighaus von 1972 mit Erdwärmepumpe und ein kernsaniertes Fachwerkhaus von 1596.",
+      "quelle": "Stadt Backnang – Wärmepumpe",
+      "url": "https://www.backnang.de/klima_+mobilitaet+und+umwelt/klimamanagement/waermepumpe",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Backnang verweist für das Photovoltaik-Potenzial von Dächern auf das Solarkataster im Energieatlas Baden-Württemberg der LUBW, das Dachausrichtung, Neigung und den maximal erreichbaren Jahresertrag zeigt.",
+      "quelle": "Stadt Backnang – Solarpotenzial",
+      "url": "https://www.backnang.de/klima_+mobilitaet+und+umwelt/klimamanagement/solarprogramme",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welche Unterlagen brauchen die Stadtwerke Backnang für eine PV-Anlage?",
+      "a": "Für die Erstprüfung die Formulare E.1, E.2 und E.10, ein Datenblatt zum Messkonzept und einen Lageplan mit Modulfläche; mit Speicher zusätzlich E.3 und ein Speicherschema. Die Unterlagen stellt in der Regel der ausführende Elektriker zusammen."
+    },
+    {
+      "q": "Was muss ich in Backnang bei einer Wärmepumpe oder Wallbox mit dem Netzbetreiber klären?",
+      "a": "Die Stadtwerke Backnang stellen für steuerbare Verbrauchseinrichtungen ein Datenblatt nach § 14a EnWG bereit und, falls der Hausanschluss nicht reicht, ein Formular zur Leistungserhöhung. Welche Angaben nötig sind, beantworten die Stadtwerke."
+    },
+    {
+      "q": "Gibt es in Backnang Beispiele für Wärmepumpen im Altbau?",
+      "a": "Ja, die Stadt veröffentlicht im Rahmen ihrer Wärmepumpenkampagne Steckbriefe örtlicher Gebäude, auch von Altbauten ohne umfassende Sanierung. Auskunft gibt die Stabsstelle Klimamanagement."
+    }
+  ],
+  "offen": [
+    "Die Stadtwerke Backnang nennen als versorgte Fläche 10,76 km²; ob alle Stadtteile (z. B. Heiningen, Strümpfelbach, Waldrems) im Netz der Stadtwerke liegen, ist nicht belegt. Einstieg daher mit Hinweis auf mögliche andere Netzbetreiber.",
+    "Auf der Wärmepumpen-Seite der Stadt werden Firmen namentlich als Experten genannt; bewusst nicht übernommen.",
+    "Die Stadt bietet laut eigener Seite „derzeit keine Förderprogramme für Solaranlagen“; als datierte Momentangabe nicht verwendet."
+  ]
+}

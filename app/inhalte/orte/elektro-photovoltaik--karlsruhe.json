@@ -1,0 +1,88 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "karlsruhe",
+  "ortName": "Karlsruhe",
+  "kreis": "Karlsruhe",
+  "title": "Elektriker Karlsruhe – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Karlsruhe: Wallbox und PV beim Netzservice anmelden, Freileitung auf Erdkabel umstellen, Solar-Erstberatung der KEK. Kostenlos vermittelt.",
+  "h1": "Elektriker in Karlsruhe",
+  "einstieg": "Eine Wallbox in der Garage in Neureut, eine Wärmepumpe im Reihenhaus in Rintheim oder Module auf dem Dach in Durlach: Wer in Karlsruhe einen Elektriker sucht, hat selten nur eine neue Steckdose vor. Fast jedes dieser Vorhaben berührt den Hausanschluss und damit den Karlsruher Netzbetreiber, bei Photovoltaik kommen Dachfläche und gegebenenfalls Denkmalschutz hinzu.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker in Karlsruhe: was beim Netzbetreiber angemeldet wird",
+      "text": "Zuständiger Verteilnetzbetreiber im Karlsruher Netzgebiet ist die Netzservice-Gesellschaft der Stadtwerke. Sie unterscheidet zwischen Geräten, die nur angemeldet werden, und solchen, die vorab genehmigt werden müssen: Wallboxen, Klimaanlagen und Wärmepumpen fallen in die erste Gruppe, Durchlauferhitzer und andere stromintensive Verbraucher ab 12 kW in die zweite. Ab 4,2 kW Leistung gelten Ladepunkte, Wärmepumpen samt Heizstab und Batteriespeicher als steuerbare Verbrauchseinrichtungen nach § 14a Energiewirtschaftsgesetz. Formular und Einbaumeldung übernimmt in der Regel der Elektrofachbetrieb, der im Installateurverzeichnis des Netzbetreibers eingetragen sein muss."
+    },
+    {
+      "h2": "Dachständer, Erdkabel und neuer Hausanschlusskasten",
+      "text": "In Teilen der Stadt hängen ältere Häuser noch an einer Freileitung mit Dachständer. Der Netzbetreiber stellt solche Anschlüsse schrittweise auf Erdkabel um, abgestimmt mit dem Tiefbauamt, und nennt dafür unter anderem mehr Netzkapazität für Elektromobilität, Wärmepumpen und Photovoltaik. Bei einem Vor-Ort-Termin wird festgelegt, wo das Hausanschlusskabel ins Gebäude kommt; den Elektriker können Eigentümer dazu mitbringen. Nach der schriftlichen Freigabe verbindet ein Elektrofachbetrieb den Zählerplatz mit dem neuen Hausanschlusskasten."
+    },
+    {
+      "h2": "Photovoltaik in der Fächerstadt: Dach einschätzen, Denkmal klären",
+      "text": "Für den ersten Blick auf das eigene Dach verweist die städtische Solar-Offensive auf das Solarkataster der LUBW. Eine kostenfreie Erstberatung zu Photovoltaik und Balkonmodulen gibt es im Beratungszentrum der Karlsruher Energie- und Klimaschutzagentur, eine unabhängige Begleitung bis zur Inbetriebnahme bietet die BürgerSolarBeratung Karlsruhe. Bei Kulturdenkmalen haben sich die Genehmigungsbedingungen für Solaranlagen nach Angaben der Stadt deutlich verbessert, ein Abgleich mit dem Denkmalschutz bleibt aber Teil der Planung. Steht das Vorhaben fest, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Für alle Erzeugungsanlagen im Karlsruher Netzgebiet ist die Stadtwerke Karlsruhe Netzservice GmbH Ansprechpartner; eine Elektrofachkraft installiert die Anlage und meldet die Inbetriebnahme beim Verteilnetzbetreiber an.",
+      "quelle": "Stadtwerke Karlsruhe Netzservice – Erzeugungsanlagen",
+      "url": "https://www.netzservice-swka.de/netze/fuer-erzeuger/erzeugungsanlage-anmelden.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Wallboxen, Klimaanlagen und Wärmepumpen benötigen beim Karlsruher Netzbetreiber eine Anmeldung; Durchlauferhitzer, Motoren und stromintensive Verbraucher ab 12 kW müssen vorab genehmigt werden.",
+      "quelle": "Stadtwerke Karlsruhe Netzservice – E-Geräte und steuerbare Verbrauchseinrichtungen",
+      "url": "https://www.netzservice-swka.de/netze/fuer-verbraucher/e-geraete-steuerbare-verbrauchseinrichtungen.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Private Ladeeinrichtungen, Wärmepumpen inklusive Heizstab, Klimaanlagen und Batteriespeicher ab 4,2 kW fallen unter § 14a EnWG; im Gegenzug für die netzorientierte Steuerung gibt es ein reduziertes Netzentgelt.",
+      "quelle": "Stadtwerke Karlsruhe Netzservice – E-Geräte und steuerbare Verbrauchseinrichtungen",
+      "url": "https://www.netzservice-swka.de/netze/fuer-verbraucher/e-geraete-steuerbare-verbrauchseinrichtungen.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "An Strom-, Gas- oder Wasseranlagen in Gebäuden dürfen nur im Installateurverzeichnis des Netzbetreibers eingetragene Fachbetriebe arbeiten.",
+      "quelle": "Stadtwerke Karlsruhe Netzservice – Installateurverzeichnis",
+      "url": "https://www.netzservice-swka.de/netze/fuer-bauherren/installateurverzeichnis.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Netzbetreiber stellt Freileitungen in Abstimmung mit dem Tiefbauamt auf Erdkabel um; Dachständer entfallen, und nach schriftlicher Freigabe stellt ein Elektrofachbetrieb den Anschluss im Haus um.",
+      "quelle": "Stadtwerke Karlsruhe Netzservice – Freileitungsumstellung",
+      "url": "https://www.netzservice-swka.de/netze/fuer-verbraucher/freileitungsumstellung.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Karlsruher Solar-Offensive verweist Eigentümer auf das Solarkataster der LUBW, auf die kostenfreie Erstberatung im Beratungszentrum der KEK und auf die kostenlose, unabhängige BürgerSolarBeratung Karlsruhe.",
+      "quelle": "Stadt Karlsruhe, Klimaplattform KA° – Jeder kann Solar",
+      "url": "https://klima.karlsruhe.de/jeder-kann-solar",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Energieleitplan der Stadt betrachtet neben Wärme auch Strom, weil mit mehr Wärmepumpen und Elektromobilität der Bedarf an erneuerbarem Strom stark steigt; für Solaranlagen an Denkmalen haben sich die Genehmigungsbedingungen laut Stadt deutlich verbessert.",
+      "quelle": "Stadt Karlsruhe – Energieleitplan",
+      "url": "https://www.karlsruhe.de/umwelt-klima/klimaschutz-klimaanpassung/klimaschutzaktivitaeten/energieleitplan",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss eine neue Wallbox in Karlsruhe beim Netzbetreiber angemeldet werden?",
+      "a": "Ja, laut Netzservice der Stadtwerke benötigen Wallboxen eine Anmeldung, die in der Regel der ausführende Elektrofachbetrieb übernimmt. Ab 4,2 kW gilt die Wallbox als steuerbare Verbrauchseinrichtung nach § 14a EnWG."
+    },
+    {
+      "q": "Mein Haus in Karlsruhe hängt noch an einem Dachständer. Was passiert bei der Umstellung auf Erdkabel?",
+      "a": "Der Netzbetreiber informiert die Eigentümer schriftlich, legt bei einem Ortstermin den neuen Hausanschlusspunkt fest und verlegt das Kabel. Die Umstellung im Haus erledigt nach seiner Freigabe ein Elektrofachbetrieb."
+    },
+    {
+      "q": "Ist eine Photovoltaikanlage auf einem Karlsruher Kulturdenkmal möglich?",
+      "a": "Nach Angaben der Stadt lassen sich heute viele Anlagen realisieren, die früher nicht genehmigungsfähig waren. Ob und in welcher Form, klärt im Einzelfall die untere Denkmalschutzbehörde der Stadt."
+    }
+  ],
+  "offen": [
+    "Die Stadtteilnennungen im Einstieg (Neureut, Rintheim, Durlach) sind Beispiele ohne eigene Fakt-Quelle.",
+    "In welchen Stadtteilen noch Freileitungen bestehen, nennt der Netzbetreiber nicht; im Text daher nur „in Teilen der Stadt“.",
+    "BürgerSolarBeratung Karlsruhe ist eine von der Stadt verlinkte Beratungsinitiative; Trägerschaft nicht geprüft. KlimaBonus-Beträge der Seite bewusst nicht übernommen (Programm laut Stadt 2026 ausgeschöpft).",
+    "Netzbetreiber im Text ohne vollen Firmennamen als „Netzservice-Gesellschaft der Stadtwerke“ bezeichnet; in den Fakten mit vollem Namen."
+  ]
+}

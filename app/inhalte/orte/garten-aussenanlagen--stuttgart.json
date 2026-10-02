@@ -1,0 +1,87 @@
+{
+  "leistung": "garten-aussenanlagen",
+  "ort": "stuttgart",
+  "ortName": "Stuttgart",
+  "kreis": "Stuttgart",
+  "title": "Terrassenüberdachung Stuttgart – kostenlos vermittelt",
+  "description": "Terrassenüberdachung in Stuttgart: Bebauungsplan, Außenbereich, Baumschutzsatzung und Regenwassergebühr beim Pflastern. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Terrassenüberdachung in Stuttgart",
+  "einstieg": "Eine Terrassenüberdachung in Stuttgart, ein Carport an der Hangzufahrt, ein neuer Zaun oder ein frisch gepflasterter Hof: Im Garten verändert sich viel, ohne dass ein Bauantrag nötig wäre. Trotzdem setzen Bebauungsplan, Baumschutzsatzung und die Gebühr für Regenwasser in der Landeshauptstadt klare Rahmenbedingungen, und im Außenbereich gelten strengere Regeln als im Wohngebiet.",
+  "abschnitte": [
+    {
+      "h2": "Terrassenüberdachung und Carport: verfahrensfrei heißt nicht regelfrei",
+      "text": "Welche Vorhaben ohne Genehmigung auskommen, steht in § 50 der Landesbauordnung und dem Anhang dazu. Das Stuttgarter Baurechtsamt weist aber darauf hin, dass auch verfahrensfreie Vorhaben dem Bebauungsplan und den übrigen baurechtlichen Vorschriften entsprechen müssen. Bei Unsicherheit berät der Bürgerservice Bauen; die ersten 15 Minuten sind kostenfrei. Strenger ist es außerhalb der Baugebiete: Für Freizeitgrundstücke im Außenbereich nennt die Stadt Überdachungen, befestigte Terrassen und Stellplätze ausdrücklich als unzulässig, ebenso Zäune, Hecken und Mauern als Einfriedung."
+    },
+    {
+      "h2": "Pflaster, Zisterne, Entsiegelung: was die Regenwassergebühr beeinflusst",
+      "text": "In Stuttgart wird die Niederschlagswassergebühr nach der bebauten und befestigten Fläche berechnet, die an den Kanal angeschlossen ist. Wer seine Terrasse, Zufahrt oder seinen Hof neu anlegt, kann das berücksichtigen: Durchlässige Beläge mit höchstens 50 Prozent Versiegelung zählen nur zur Hälfte, und eine Zisterne nach DIN 1989 mit Notüberlauf mindert die angerechnete Dachfläche. Eine Regentonne zählt dabei nicht. Wer stark versiegelte Flächen zurückbaut und begrünt, kann über das Stuttgarter Grünprogramm gefördert werden."
+    },
+    {
+      "h2": "Geschützte Bäume und Schottergarten: Grenzen bei der Gestaltung",
+      "text": "Im Geltungsbereich der Stuttgarter Baumschutzsatzung sind größere Bäume geschützt, und zwar einschließlich des Wurzelbereichs. Pflaster, Beton oder bauliche Anlagen unter der Krone sind dort grundsätzlich verboten. Beim Thema Schottergarten verweist das Baurechtsamt auf das Verbot in Baden-Württemberg und informiert über den fachgerechten Rückbau. Schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Baurechtlich verfahrensfreie Vorhaben sind in § 50 LBO und im Anhang aufgeführt; laut Baurechtsamt Stuttgart müssen sie dennoch den baurechtlichen Vorschriften wie dem Bebauungsplan entsprechen. Die Beratung beim Bürgerservice Bauen ist bis 15 Minuten kostenfrei.",
+      "quelle": "Landeshauptstadt Stuttgart – Fragen rund ums Bauen (Baurechtsamt)",
+      "url": "https://www.stuttgart.de/leben/bauen/baurecht/faqs-baurechtsamt",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Außenbereich sind nach Angaben des Baurechtsamts insbesondere Überdachungen, befestigte Terrassen und Kfz-Stellplätze unzulässig; Einfriedungen wie Zäune, Hecken und Mauern sind dort grundsätzlich unzulässig, Ausnahmen gibt es nur für landwirtschaftliche Betriebe.",
+      "quelle": "Landeshauptstadt Stuttgart – Fragen rund ums Bauen (Baurechtsamt)",
+      "url": "https://www.stuttgart.de/leben/bauen/baurecht/faqs-baurechtsamt",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Versickerungsfähige befestigte Flächen mit einem Versiegelungsgrad von höchstens 50 Prozent gehen nur zu 50 Prozent in die Berechnungsfläche der Niederschlagswassergebühr ein; dafür müssen alle befestigten Flächen im Flächenerfassungsbogen genannt werden.",
+      "quelle": "Landeshauptstadt Stuttgart – Fragen rund um Abwassergebühren",
+      "url": "https://www.stuttgart.de/rathaus/finanzen/steuern-und-abgaben/fragen-rund-um-abwassergebuehren",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für Dachflächen, die an eine Zisterne mit Notüberlauf angeschlossen sind, bleiben je Kubikmeter Zisternenvolumen 20 m² unberücksichtigt, höchstens die Hälfte der Fläche; Voraussetzung ist eine Ausführung nach DIN 1989, Regentonnen gelten nicht als Zisterne.",
+      "quelle": "Landeshauptstadt Stuttgart – Fragen rund um Abwassergebühren",
+      "url": "https://www.stuttgart.de/rathaus/finanzen/steuern-und-abgaben/fragen-rund-um-abwassergebuehren",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stuttgarter Baumschutzsatzung schützt im Geltungsbereich Bäume ab 80 cm Stammumfang (gemessen in 1 m Höhe) samt Wurzelbereich; verboten sind dort unter anderem Befestigungen mit Asphalt, Beton oder Pflaster und das Errichten baulicher Anlagen.",
+      "quelle": "Stadtrecht Stuttgart 3/7 – Baumschutzsatzung",
+      "url": "https://www.stuttgart.de/medien/ibs/3-7.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Stuttgarter Grünprogramm fördert Entsiegelung mit Begrünung von Freiflächen, etwa Zufahrten und Innenhöfe, ab einem Versiegelungsgrad des Grundstücks von 31 Prozent; den Versiegelungsgrad kann man bei der Stadt gebührenfrei erfragen.",
+      "quelle": "Stadtrecht Stuttgart 3/9 – Richtlinie Stuttgarter Grünprogramm",
+      "url": "https://www.stuttgart.de/medien/ibs/3-9.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Stuttgarter Baurechtsamt informiert über das Schottergartenverbot in Baden-Württemberg und stellt Hinweise zum fachgerechten Rückbau sowie eine Pflanzenliste für naturnahe Vorgärten bereit.",
+      "quelle": "Landeshauptstadt Stuttgart – Fragen rund ums Bauen (Baurechtsamt)",
+      "url": "https://www.stuttgart.de/leben/bauen/baurecht/faqs-baurechtsamt",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich für eine Terrassenüberdachung in Stuttgart eine Genehmigung?",
+      "a": "Ob ein Vorhaben verfahrensfrei ist, regelt § 50 LBO. Auch dann muss es dem Bebauungsplan entsprechen; im Zweifel berät der Bürgerservice Bauen, die ersten 15 Minuten kostenfrei."
+    },
+    {
+      "q": "Darf ich auf meinem Gartengrundstück am Stadtrand eine überdachte Terrasse bauen?",
+      "a": "Liegt das Grundstück im Außenbereich, nennt das Baurechtsamt Überdachungen und befestigte Terrassen ausdrücklich als unzulässig. Maßgeblich ist, ob das Grundstück in einem Baugebiet liegt."
+    },
+    {
+      "q": "Wirkt sich neues Pflaster auf die Abwassergebühr in Stuttgart aus?",
+      "a": "Ja, über die Niederschlagswassergebühr. Durchlässige Beläge mit höchstens 50 Prozent Versiegelung zählen nur zur Hälfte, nicht an den Kanal angeschlossene Flächen gar nicht."
+    }
+  ],
+  "offen": [
+    "Keine eigene Stuttgarter Seite mit einer Liste verfahrensfreier Gartenvorhaben (Maße) gefunden; deshalb keine Maße zu Terrassenüberdachung oder Carport genannt.",
+    "Geltungsbereich der Baumschutzsatzung (Zonen 1 und 2, Lageplan) nicht im Detail wiedergegeben; ob ein Grundstück betroffen ist, nur über den Lageplan klärbar.",
+    "Nachbarrecht bewusst nicht behandelt."
+  ]
+}

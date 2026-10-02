@@ -1,0 +1,87 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "goeppingen",
+  "ortName": "Göppingen",
+  "kreis": "Göppingen",
+  "title": "Elektriker Göppingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Göppingen für PV-Anlage, Speicher und Wallbox: Anmeldung beim örtlichen Netzbetreiber, Regeln für Solar im Stadtkern. Kostenlos vermittelt.",
+  "h1": "Elektriker in Göppingen",
+  "einstieg": "Ob Photovoltaik auf dem Reihenhaus in Faurndau, ein Speicher im Keller oder die Wallbox in der Garage: Wer in Göppingen einen Elektriker beauftragt, hat es beim Netzanschluss mit einem einzigen örtlichen Verteilnetzbetreiber zu tun. Im historischen Stadtkern kommen eigene Gestaltungsregeln für Solaranlagen hinzu.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker Göppingen: PV und Speicher beim Netzbetreiber anmelden",
+      "text": "Das Stromnetz in Göppingen samt aller eingemeindeten Stadtbezirke betreibt seit 2014 die Energieversorgung Filstal; nach eigenen Angaben versorgt sie rund 35.000 Kunden. Eine neue PV-Anlage wird dort zunächst angefragt, anschließend geht es um die Netzverträglichkeit. Erst nach der Einspeisezusage folgt die Inbetriebsetzung mit den Unterlagen, die der Netzbetreiber je nach Spannungsebene und Anlage nennt. Nach seinen Angaben werden auch spätere Änderungen gemeldet, etwa die Erweiterung der Anlage, die Nachrüstung eines Speichers oder der Tausch von Modulen. Der Netzbetreiber weist außerdem darauf hin, dass die Registrierung im Marktstammdatenregister der Bundesnetzagentur Voraussetzung für die Vergütung ist und Speicher dort ebenfalls angemeldet werden."
+    },
+    {
+      "h2": "Wallbox und Wärmepumpe: steuerbare Verbrauchseinrichtungen",
+      "text": "Private Wallboxen, Wärmepumpen und Stromspeicher mit mehr als 4,2 kW Anschlussleistung gelten nach § 14a Energiewirtschaftsgesetz als steuerbare Verbrauchseinrichtungen. Der Göppinger Netzbetreiber beschreibt, dass er den Bezug solcher Geräte bei konkreter Überlastung zeitweise auf bis zu 4,2 kW senken darf, ohne den übrigen Haushaltsstrom zu berühren. Die Anmeldung vor der Inbetriebnahme übernimmt nach seinen Angaben in der Regel der eingetragene Elektroinstallateur. Für den Zählerschrank heißt das: Steuerungstechnik und Platz dafür gehören bei der Planung einer Wallbox gleich mit auf die Liste."
+    },
+    {
+      "h2": "Solar im historischen Stadtkern und neutrale Beratung",
+      "text": "Für den historischen Stadtkern gilt seit 2016 eine Gestaltungssatzung. Danach sind Anlagen zur Solargewinnung so anzubringen, dass sie von öffentlichen Straßen und Plätzen nicht sichtbar sind, und Photovoltaikelemente bündig in die Dachgestaltung einzufügen. Eine erste neutrale Einschätzung bietet die Energieagentur des Landkreises, deren Alleingesellschafter der Landkreis ist. Wenn Sie wissen, was Sie vorhaben, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Energieversorgung Filstal ist seit dem 1. Januar 2014 örtlicher Verteilnetzbetreiber in der Stadt Göppingen mit allen Eingemeindungen und versorgt rund 35.000 Kunden.",
+      "quelle": "Energieversorgung Filstal – Stromnetz",
+      "url": "https://evf.de/netze/stromnetz",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Neue Erzeugungsanlagen wie PV-Anlagen werden beim Göppinger Netzbetreiber angefragt, der sie auf Netzverträglichkeit untersucht; bei positivem Ergebnis folgt die Einspeisezusage, danach die Inbetriebsetzung.",
+      "quelle": "Energieversorgung Filstal – Neuanlage Erzeugungsanlage",
+      "url": "https://evf.de/netze/strom/neuanlage-erzeugungsanlagen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Änderungen an bestehenden Erzeugungsanlagen, zum Beispiel Erweiterung, Nachrüstung eines Speichers oder Austausch von PV-Modulen, sind dem Netzbetreiber rechtzeitig zu melden.",
+      "quelle": "Energieversorgung Filstal – Einspeiseanlagen",
+      "url": "https://evf.de/netze/strom/einspeiseanlagen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut Netzbetreiber ist die Registrierung im Marktstammdatenregister der Bundesnetzagentur unter anderem Voraussetzung für die Vergütung des eingespeisten Stroms; Speichersysteme sind dort ebenfalls anzumelden.",
+      "quelle": "Energieversorgung Filstal – Neuanlage Erzeugungsanlage",
+      "url": "https://evf.de/netze/strom/neuanlage-erzeugungsanlagen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Private Wallboxen, Wärmepumpen und Stromspeicher über 4,2 kW am Niederspannungsnetz sind steuerbare Verbrauchseinrichtungen nach § 14a EnWG; die Anmeldung übernimmt in der Regel der eingetragene Elektroinstallateur.",
+      "quelle": "Energieversorgung Filstal – Bezugs- und Entnahmeanlagen",
+      "url": "https://evf.de/netze/strom/bezug-und-entnahmeanlagen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach § 10 der Gestaltungssatzung für den historischen Stadtkern (in Kraft seit 10.03.2016) sind Anlagen zur Solargewinnung so anzubringen, dass sie von öffentlichen Straßen und Plätzen nicht sichtbar sind; Photovoltaikelemente sind bündig in das Dach einzufügen.",
+      "quelle": "Stadt Göppingen – Gestaltungssatzung Historischer Stadtkern",
+      "url": "https://www.goeppingen.de/site/Goeppingen-Internet-2021/get/params_E725958227_Dattachment/19926253/Gestaltungssatzung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Energieagentur Landkreis Göppingen ist gemeinnützig, ihr alleiniger Gesellschafter ist der Landkreis; sie bietet kostenlose Erstberatungen in ihren Räumen und in Rathäusern an.",
+      "quelle": "Energieagentur Landkreis Göppingen – Energieberatung für Privatpersonen",
+      "url": "https://www.klimaschutz-goeppingen.de/,Lde/start/unsere+leistungen/energieberatung.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wer ist in Göppingen Netzbetreiber für meine PV-Anlage?",
+      "a": "Örtlicher Verteilnetzbetreiber in Göppingen und allen Stadtbezirken ist die Energieversorgung Filstal. Dort werden Erzeugungsanlagen angefragt und Änderungen gemeldet."
+    },
+    {
+      "q": "Was gilt in Göppingen für eine Wallbox über 4,2 kW?",
+      "a": "Sie zählt nach Angaben des Netzbetreibers zu den steuerbaren Verbrauchseinrichtungen nach § 14a EnWG und wird vor der Inbetriebnahme angemeldet, in der Regel durch den Elektroinstallateur."
+    },
+    {
+      "q": "Darf ich in der Göppinger Innenstadt Solarmodule aufs Dach setzen?",
+      "a": "Die Gestaltungssatzung für den historischen Stadtkern verlangt, dass Solaranlagen von öffentlichen Straßen und Plätzen nicht sichtbar und bündig ins Dach eingefügt sind. Auskunft gibt der Fachbereich Stadtentwicklung."
+    }
+  ],
+  "offen": [
+    "„Faurndau“ im Einstieg ist ein Stadtbezirk Göppingens (auf goeppingen.de im Zusammenhang mit dem Bahnhof Faurndau genannt); die Beispielnutzung ist frei gewählt.",
+    "§ 13 der Gestaltungssatzung verlangt abweichend von § 50 LBO ein Kenntnisgabeverfahren u. a. für Solaranlagen; Bezug ist die LBO-Fassung von 2014. Nicht in den Text übernommen, da die LBO seither geändert wurde und die heutige Rechtslage offen ist – Anwaltsfrage.",
+    "Ob der Name „Energieversorgung Filstal“ als Netzbetreiber-Institution genannt werden darf (Tochter der Stadtwerke Göppingen laut Stadtseite Klimaschutz für Göppingen), bitte prüfen."
+  ]
+}

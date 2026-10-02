@@ -1,0 +1,94 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "schorndorf",
+  "ortName": "Schorndorf",
+  "kreis": "Rems-Murr-Kreis",
+  "title": "Elektriker Schorndorf – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Schorndorf: PV-Netzanschlussanfrage bei den Stadtwerken, Fertigmeldung, PV-Kennzeichnung für die Feuerwehr. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Elektriker in Schorndorf",
+  "einstieg": "Wer in Schorndorf einen Elektriker sucht, will oft eine Photovoltaikanlage aufs Dach bringen, den Zählerschrank modernisieren oder eine Ladestation für das E-Auto anschließen. Netzbetreiber im Gebiet der Stadtwerke Schorndorf sind die Stadtwerke selbst; über sie laufen Anfrage, Fertigmeldung und Zählersetzung.",
+  "abschnitte": [
+    {
+      "h2": "Photovoltaik in Schorndorf: vom Anfrageformular bis zum Zähler",
+      "text": "Für eine neue PV-Anlage sehen die Stadtwerke Schorndorf zunächst eine Netzanschlussanfrage mit eigenem Formular und vollständigen Unterlagen vor. Danach prüfen sie den Anschlusspunkt; bei Photovoltaik ist das laut Stadtwerken meist der bestehende Hausanschluss, bei größeren Anlagen wird es aufwendiger. Erst wenn die Anschlussunterlagen vorliegen, wird die Anlage errichtet. Nach der Fertigstellung sendet der Installateur eine Fertigmeldung; ohne sie erfolgt keine Inbetriebsetzung. Mit der Montage des Zählers werden zugleich Sicherheitsprüfungen der Anlage durchgeführt. Den Zähler kann auch ein Messstellenbetreiber eigener Wahl stellen, sonst übernehmen das die Stadtwerke."
+    },
+    {
+      "h2": "Elektriker in Schorndorf: Installateurverzeichnis und Kennzeichnung für die Feuerwehr",
+      "text": "Arbeiten an elektrischen Kundenanlagen im Netzgebiet der Stadtwerke führen Betriebe aus, die nach § 13 Niederspannungsanschlussverordnung in das Installateurverzeichnis eines Netzbetreibers eingetragen sind. Eine Besonderheit in Schorndorf ist der Hinweis der Stadt zum Brandschutz: Weil PV-Anlagen schon bei schwachem Licht Spannung liefern, empfiehlt die Feuerwehr ein Hinweisschild am Hausanschlusskasten oder Gebäudehauptverteiler. Die Stadtwerke stellen solche Aufkleber kostenfrei zur Verfügung. Zur Photovoltaikpflicht verweist die Stadt darauf, dass sie seit 2023 auch bei Dachsanierungen gilt, und auf die FAQ des Umweltministeriums."
+    },
+    {
+      "h2": "Beratung vor dem Auftrag",
+      "text": "Eine kostenlose, anbieterunabhängige Energieberatung der Energieagentur Rems-Murr gibt es jeden ersten und zweiten Donnerstag im Monat im Schorndorfer Rathaus. Wenn Ihr Vorhaben feststeht, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Für den Anschluss einer PV-Anlage verlangen die Stadtwerke Schorndorf eine Netzanschlussanfrage mit Formular und vollständigen Unterlagen; als Anschlusspunkt dient bei Photovoltaik meist der bestehende Hausanschluss.",
+      "quelle": "Stadtwerke Schorndorf – Einspeiser und Speicherbetreiber",
+      "url": "https://stadtwerke-schorndorf.de/einspeiser-und-speicherbetreiber/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut Stadtwerken Schorndorf kann eine EEG-Anlage erst nach Eingang der Fertigmeldung des Installateurs in Betrieb gesetzt werden; mit der Zählermontage werden Sicherheitsprüfungen der Anlage durchgeführt.",
+      "quelle": "Stadtwerke Schorndorf – Einspeiser und Speicherbetreiber",
+      "url": "https://stadtwerke-schorndorf.de/einspeiser-und-speicherbetreiber/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Installationsunternehmen, die im Netzgebiet der Stadtwerke Schorndorf elektrische Kundenanlagen errichten, ändern oder instand halten, benötigen eine Eintragung in das Installateurverzeichnis eines Netzbetreibers nach § 13 Abs. 2 NAV.",
+      "quelle": "Stadtwerke Schorndorf – Für Installateure",
+      "url": "https://stadtwerke-schorndorf.de/installateure/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bei der Inbetriebsetzung eines Stromanschlusses bestätigt eine elektrotechnische Fachkraft gegenüber den Stadtwerken Schorndorf per Fertigmeldung, dass die Anlage im Gebäude den geltenden Regeln entspricht; erst dann wird der Zähler montiert.",
+      "quelle": "Stadtwerke Schorndorf – Haushalt und Gewerbe",
+      "url": "https://stadtwerke-schorndorf.de/haushalt-und-gewerbe/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Schorndorf empfiehlt, PV-Anlagen für die Feuerwehr mit einem Hinweisschild am Hausanschlusskasten oder Gebäudehauptverteiler zu kennzeichnen; die Stadtwerke stellen Aufkleber kostenfrei zur Verfügung.",
+      "quelle": "Stadt Schorndorf – Brandschutz bei Photovoltaik-Anlagen",
+      "url": "https://www.schorndorf.de/de/wirtschaft-bauen/bauen-wohnen/Brandschutz-Photovoltaik-Anlagen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Schorndorf gibt wieder, dass in Baden-Württemberg die Photovoltaikpflicht seit 2022 für Neubauten gilt und ab 2023 auch bei Dachsanierungen.",
+      "quelle": "Stadt Schorndorf – Photovoltaik-Beratung",
+      "url": "https://www.schorndorf.de/de/stadt-buerger/klimaschutz-mobilitaet/foerderung-beratung/photovoltaik-beratung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Schorndorfer Gemeinderat hat im März 2021 beschlossen, dass die Stadt bis 2035 klimaneutral werden soll; rund 38 % der Treibhausgase in Schorndorf entstehen laut Stadt in Privathaushalten.",
+      "quelle": "Stadt Schorndorf – Städtisches Förderprogramm",
+      "url": "https://www.schorndorf.de/de/stadt-buerger/klimaschutz-mobilitaet/foerderung-beratung/staedtisches-foerderprogramm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Energieagentur Rems-Murr bietet jeden ersten und zweiten Donnerstag im Monat im Schorndorfer Rathaus am Marktplatz eine kostenlose, anbieterunabhängige Energieberatung an, unter anderem zu regenerativen Energien und Stromverbrauch.",
+      "quelle": "Stadt Schorndorf – Kostenlose Energieberatung",
+      "url": "https://www.schorndorf.de/de/stadt-buerger/klimaschutz-mobilitaet/foerderung-beratung/kostenlose-energieberatung",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie melde ich in Schorndorf eine Photovoltaikanlage an?",
+      "a": "Am Anfang steht die Netzanschlussanfrage PV bei den Stadtwerken Schorndorf mit den dort geforderten Unterlagen. Nach dem Bau sendet der Installateur die Fertigmeldung, danach wird der Zähler gesetzt und die Anlage in Betrieb genommen."
+    },
+    {
+      "q": "Warum soll meine PV-Anlage in Schorndorf gekennzeichnet sein?",
+      "a": "PV-Module liefern laut Stadt schon bei schwachem Licht Spannung, was Löscheinsätze erschwert. Die Feuerwehr Schorndorf empfiehlt deshalb ein Hinweisschild; Aufkleber gibt es kostenfrei bei den Stadtwerken."
+    },
+    {
+      "q": "Wo bekomme ich in Schorndorf eine neutrale Beratung zu Solarstrom?",
+      "a": "Bei der kostenlosen Energieberatung der Energieagentur Rems-Murr im Rathaus am Marktplatz, jeweils am ersten und zweiten Donnerstag im Monat nach telefonischer Anmeldung."
+    }
+  ],
+  "offen": [
+    "Konkrete Wallbox-Anmeldung bei den Stadtwerken Schorndorf nicht gefunden (vermutlich über Netzanschlussportal); deshalb keine Aussage dazu.",
+    "Ob alle Teilorte im Stromnetz der Stadtwerke Schorndorf liegen, nicht belegt; Einstieg vorsichtig formuliert („im Gebiet der Stadtwerke“).",
+    "Die Stadtwerke bieten selbst PV-Anlagen an (PV-Beratung mit Angebot); bewusst nicht erwähnt.",
+    "Energieagentur-Seite der Stadt verwendet das Wort „zertifiziert“; nicht übernommen."
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "leistung": "heizung-waermepumpe",
+  "ort": "stuttgart",
+  "ortName": "Stuttgart",
+  "kreis": "Stuttgart",
+  "title": "Wärmepumpe Stuttgart – Heizungsbauer kostenlos vermittelt",
+  "description": "Wärmepumpe und Heizung in Stuttgart: digitaler Wärmeplan, Erdwärme und Grundwasserschutz, städtisches Heizungsprogramm. Heizungsbauer kostenlos vermittelt.",
+  "h1": "Wärmepumpe und Heizung in Stuttgart",
+  "einstieg": "Die alte Gasheizung im Mehrfamilienhaus macht es nicht mehr lange, oder die Ölheizung im Einfamilienhaus auf den Fildern soll durch eine Wärmepumpe ersetzt werden: In Stuttgart stellt sich beim Heizungstausch zuerst die Frage, ob ein Wärmenetz in Reichweite ist. Danach geht es um Lärm, Untergrund und Förderung.",
+  "abschnitte": [
+    {
+      "h2": "Digitaler Wärmeplan: Wärmenetz oder eigene Heizung?",
+      "text": "Der kommunale Wärmeplan ist in Stuttgart als digitale Karte veröffentlicht. Sie teilt das Stadtgebiet in Farben ein: Wärmenetzeignungsgebiete mit und ohne laufende Planung, Gebiete zur Erweiterung bestehender Netze, bestehende Wärmenetze und Gebiete, in denen eine klimaneutrale Versorgung besonders herausfordernd ist. Wo keine Markierung steht, ist Einzelversorgung vorgesehen, also typischerweise die eigene Wärmepumpe. Die Stadt betont, dass der Plan keine Zusage für ein Wärmenetz enthält und niemand zum Anschluss verpflichtet ist. Für das bestehende Fernwärmenetz hat der Gemeinderat ein neues Vergabeverfahren beschlossen, nachdem der frühere Konzessionsvertrag Ende 2013 ausgelaufen war."
+    },
+    {
+      "h2": "Wärmepumpe in Stuttgart: Luft, Erdwärme und Grundwasserschutz",
+      "text": "Für die meisten Häuser nennt die Stadt die Luft-Wasser-Wärmepumpe als Lösung, wenn keine andere Wärmequelle verfügbar ist. Baurechtlich ist eine Wärmepumpe laut Baurechtsamt verfahrensfrei; zum Schutz der Nachbarn sind aber Mindestabstände einzuhalten, und gerade in dicht bebauten Halbhöhenlagen ist die Wahl eines leisen Geräts wichtig. Erdwärme ist in Stuttgart ein besonderes Thema: Neben Wasserschutzgebieten gibt es ein Heilquellenschutzgebiet für das Mineralwasser, und das Amt für Umweltschutz macht in wasserrechtlichen Verfahren fachliche Vorgaben zum Grundwasserschutz."
+    },
+    {
+      "h2": "Heizungstausch im Bestand: das städtische Heizungsprogramm",
+      "text": "Für Bestandsgebäude unterstützt die Stadt den Umstieg mit dem Heizungsprogramm: gefördert werden Wärmepumpen, Übergabestationen für den Anschluss an ein Wärmenetz und Solarthermie, außerdem größere Heizkörper, eine neue Fußbodenheizung oder die Umstellung von Einzelöfen auf eine Zentralheizung. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb für Heizung und Wärmepumpe aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Der digitale Wärmeplan der Stadt Stuttgart zeigt, welche Gebiete sich für ein Wärmenetz eignen; laut Stadt enthält er keine Zusage über die Entstehung eines Wärmenetzes, und Gebäudeeigentümer sind nicht verpflichtet, sich anzuschließen. Gebiete ohne Markierung sind für Einzelversorgung vorgesehen.",
+      "quelle": "Landeshauptstadt Stuttgart – Digitaler Wärmeplan",
+      "url": "https://www.stuttgart.de/leben/umwelt/energie/energieleitplanung/kommunaler-waermeplan/digitaler-waermeplan",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für den Bau von Wärmenetzen nennt die Stadt Energieversorger wie die Stuttgarter Stadtwerke; für die individuelle Versorgung der Gebäude sind die Eigentümer verantwortlich. Ist keine andere Wärmequelle vorhanden, kann laut Stadt in den meisten Fällen eine Luft-Wasser-Wärmepumpe genutzt werden.",
+      "quelle": "Landeshauptstadt Stuttgart – Fragen zur Kommunalen Wärmeplanung",
+      "url": "https://www.stuttgart.de/leben/umwelt/energie/energieleitplanung/kommunaler-waermeplan/fragen-zur-kommunalen-waermeplanung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Errichtung von Wärmepumpen ist nach Angaben des Stuttgarter Baurechtsamts nach Nr. 3 b des Anhangs zu § 50 Abs. 1 LBO baurechtlich verfahrensfrei; zum Schutz der Nachbarn sind Mindestabstände einzuhalten.",
+      "quelle": "Landeshauptstadt Stuttgart – Fragen rund ums Bauen (Baurechtsamt)",
+      "url": "https://www.stuttgart.de/leben/bauen/baurecht/faqs-baurechtsamt",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In Stuttgart wird Grundwasser zunehmend für Erdwärmesondenanlagen genutzt; neben einem Heilquellenschutzgebiet gibt es Wasserschutzgebiete, und die Stadt macht fachliche Vorgaben in Baugenehmigungs- und wasserrechtlichen Erlaubnisverfahren. Als Kontakt nennt die Stadt das Amt für Umweltschutz, Technischer Grundwasserschutz.",
+      "quelle": "Landeshauptstadt Stuttgart – Grundwasser",
+      "url": "https://www.stuttgart.de/leben/umwelt/wasser/grundwasser/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Informationssystem Oberflächennahe Geothermie (ISONG) des LGRB gibt Auskunft zur Errichtung von Erdwärmesonden bis 400 m Tiefe und liefert für jeden Standort in Baden-Württemberg ein prognostisches Bohrprofil.",
+      "quelle": "LGRBwissen – Informationssystem Oberflächennahe Geothermie (ISONG)",
+      "url": "https://lgrbwissen.lgrb-bw.de/geothermie/oberflaechennahe-geothermie/erdwaermesonden/informationssystem-oberflaechennahe-geothermie-isong",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Stuttgarter Heizungsprogramm gilt ausschließlich für Bestandsgebäude und fördert Wärmepumpen, Übergabestationen beim Anschluss an ein Wärmenetz, Solarthermie sowie unterstützende Maßnahmen wie größere Heizkörper und die Zentralisierung der Heizung.",
+      "quelle": "Landeshauptstadt Stuttgart – Heizungsprogramm",
+      "url": "https://www.stuttgart.de/leben/umwelt/energie/foerderprogramme/heizungsprogramm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Konzessionsvertrag für das bestehende Stuttgarter Fernwärmenetz ist am 31.12.2013 ausgelaufen; der Gemeinderat hat für bestehende Netze ein formales Ausschreibungsverfahren und für neue Fernwärmenetze ein gesondertes Verfahren beschlossen.",
+      "quelle": "Landeshauptstadt Stuttgart – Vergabe für Fernwärmenetz",
+      "url": "https://www.stuttgart.de/leben/bauen/vergabe-fuer-fernwaermenetz/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich mich in Stuttgart an ein Wärmenetz anschließen?",
+      "a": "Nach Angaben der Stadt verpflichtet der kommunale Wärmeplan niemanden zum Anschluss und sagt auch kein Wärmenetz zu. Er zeigt, welche Gebiete sich eignen."
+    },
+    {
+      "q": "Brauche ich in Stuttgart eine Baugenehmigung für eine Wärmepumpe?",
+      "a": "Laut Baurechtsamt ist die Errichtung baurechtlich verfahrensfrei. Mindestabstände zum Schutz der Nachbarn gelten trotzdem; die Stadt verweist dazu auf ein Merkblatt zum Lärmschutz."
+    },
+    {
+      "q": "Geht eine Erdwärmesonde überall in Stuttgart?",
+      "a": "Nicht ohne Weiteres: Es gibt Wasserschutzgebiete und ein Heilquellenschutzgebiet, und die Stadt stellt fachliche Anforderungen im wasserrechtlichen Verfahren. Einen ersten Überblick gibt ISONG, Auskunft das Amt für Umweltschutz."
+    }
+  ],
+  "offen": [
+    "Zuständigkeit als „untere Wasserbehörde“ nicht wörtlich gefunden; belegt ist nur, dass das Amt für Umweltschutz (Technischer Grundwasserschutz) Vorgaben in wasserrechtlichen Erlaubnisverfahren macht. Im Text so formuliert.",
+    "Keine Stuttgarter Seite gefunden, die konkrete Bohrverbote im Heilquellenschutzgebiet nennt; daher nur allgemein „nicht ohne Weiteres“.",
+    "Heizungsprogramm: Fördermittel 2026 laut Stadt ausgeschöpft (Auszahlung ab 2027) – nicht im Text; Fördersätze und JAZ-Anforderungen weggelassen.",
+    "Betreiber des bestehenden Fernwärmenetzes (EnBW) bewusst nicht genannt."
+  ]
+}

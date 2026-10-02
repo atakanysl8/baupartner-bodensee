@@ -1,0 +1,83 @@
+{
+  "leistung": "dach-fassade",
+  "ort": "ulm",
+  "ortName": "Ulm",
+  "kreis": "Ulm",
+  "title": "Dachdecker Ulm – Fachbetrieb kostenlos vermittelt",
+  "description": "Dachdecker in Ulm: Solardach mit dem Solarkataster planen, Gründach und Niederschlagsgebühr, Denkmal und Starkregen. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Dachdecker in Ulm",
+  "einstieg": "Ziegel verrutscht, Dämmung aus den Siebzigern, und eigentlich soll auch noch eine Solaranlage aufs Dach: Wer in Ulm einen Dachdecker sucht, verbindet die Dachsanierung oft mit mehreren Zielen. Dazu kommen städtische Rahmenbedingungen, vom Solarkataster über die Niederschlagswassergebühr bis zum Denkmalschutz bei älteren Bürgerhäusern.",
+  "abschnitte": [
+    {
+      "h2": "Neues Dach, Solaranlage und Gründach in Ulm",
+      "text": "Ob sich eine Dachfläche für Photovoltaik eignet, zeigt das Solardachkataster der Landesanstalt für Umwelt, auf das die Stadt Ulm verweist; ein eigenes städtisches Solarpotenzialkataster gab es bereits ab 2014. Die Berechnung berücksichtigt Neigung, Ausrichtung, Verschattung und Einstrahlung, Gauben, Dachfenster oder Schornsteine können das tatsächliche Ergebnis aber verändern. Deshalb lohnt es sich, Dachsanierung und Solaranlage gemeinsam zu planen, bevor der Dachdecker Lattung und Eindeckung festlegt. Eine Alternative oder Ergänzung auf flach geneigten Dächern ist die Begrünung: Bei den Entsorgungs-Betrieben der Stadt Ulm kann ein Gründach im Antrag auf Einzelveranlagung der Niederschlagswassergebühr als Abflussreduzierung angegeben werden. Die Stadt weist zudem in ihrer Klimaanalyse auf den sommerlichen Wärmeinsel-Effekt in dicht bebauten Bereichen hin."
+    },
+    {
+      "h2": "Altes Bürgerhaus, Denkmal und Starkregen",
+      "text": "Solaranlagen sind nach Angaben der Stadt unter bestimmten Voraussetzungen baugenehmigungsfrei, können aber Auflagen des Denkmalschutzes unterliegen; Auskunft gibt der BürgerService Bauen. Bei älteren Häusern lohnt der genaue Blick: Laut Stadt kann auch ein Gebäude, das nicht in der Denkmalliste steht, ein Kulturdenkmal sein, wenn es bisher nicht als solches erkannt wurde; in Zweifelsfällen prüft das Landesamt für Denkmalpflege. Für Dachentwässerung, Lichtschächte und Kellerabgänge spielt der Starkregen eine Rolle. Die Stadt erklärt, dass Starkregengefahrenkarten die Fließwege des Oberflächenabflusses darstellen und dass Starkregen in steileren Lagen Sturzfluten auslösen kann. Haben Sie Ihr Dachvorhaben grob umrissen, beschreiben Sie es über unser Formular; wir suchen einen passenden Dachdeckerbetrieb für Sie aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadt Ulm stellte Anfang 2014 ein eigenes Solarpotenzialkataster bereit; Anfang 2022 veröffentlichte die LUBW ein neues Solardachkataster, auf das die Stadt verweist.",
+      "quelle": "Stadt Ulm – Solarkataster",
+      "url": "https://www.ulm.de/leben-in-ulm/umwelt-energie-entsorgung/energie-und-klimaschutz/solarkataster",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Potenzialanalyse des Solarkatasters berücksichtigt Neigung, Ausrichtung, Verschattung und solare Einstrahlung; die Stadt Ulm weist darauf hin, dass Störobjekte wie Gauben, Dachfenster, Bäume oder Schornsteine die Realisierbarkeit beeinflussen.",
+      "quelle": "Stadt Ulm – Solarkataster",
+      "url": "https://www.ulm.de/leben-in-ulm/umwelt-energie-entsorgung/energie-und-klimaschutz/solarkataster",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Solaranlagen sind laut Stadt Ulm unter bestimmten Voraussetzungen baugenehmigungsfrei, unterliegen aber möglicherweise Auflagen des Denkmalschutzes; weitere Informationen gibt der BürgerService Bauen.",
+      "quelle": "Stadt Ulm – Solarkataster",
+      "url": "https://www.ulm.de/leben-in-ulm/umwelt-energie-entsorgung/energie-und-klimaschutz/solarkataster",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Antrag auf Einzelveranlagung der Niederschlagswassergebühr bei den Entsorgungs-Betrieben der Stadt Ulm können Abflussreduzierungen wie ein Gründach vermerkt werden.",
+      "quelle": "Entsorgungs-Betriebe der Stadt Ulm – Abwassergebühren",
+      "url": "https://www.ebu-ulm.de/abwasser/gebuehren.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Gebäude, die nicht in der Denkmalliste verzeichnet sind, können nach Angaben der Stadt Ulm dennoch Kulturdenkmale sein, wenn sie bislang nicht als solche erkannt wurden; in Zweifelsfällen prüft das Landesamt für Denkmalpflege.",
+      "quelle": "Stadt Ulm – Denkmalschutz in Ulm",
+      "url": "https://www.ulm.de/leben-in-ulm/bauen-und-wohnen/denkmalschutz/denkmalschutz-in-ulm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Starkregengefahrenkarten stellen laut Stadt Ulm die Überflutungsgefahr durch Oberflächenabfluss nach Starkregen und die Fließwege zum Gewässer dar; in steileren Gebieten kann Starkregen Sturzfluten auslösen.",
+      "quelle": "Stadt Ulm – Hochwasser und Starkregen",
+      "url": "https://www.ulm.de/leben-in-ulm/umwelt-energie-entsorgung/wasser/hochwasser-und-starkregen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Ulm hat eine stadtklimatologische Untersuchung mit Klimaanalysekarte veröffentlicht, die den sommerlichen Wärmeinsel-Effekt durch Versiegelung und geringen Vegetationsanteil beschreibt.",
+      "quelle": "Stadt Ulm – Stadtklima",
+      "url": "https://www.ulm.de/leben-in-ulm/umwelt-energie-entsorgung/stadtklima",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo sehe ich, ob mein Ulmer Dach für Photovoltaik geeignet ist?",
+      "a": "Die Stadt Ulm verweist auf das Solardachkataster der LUBW im Energieatlas Baden-Württemberg. Es liefert eine erste, unverbindliche Einschätzung je Dachfläche."
+    },
+    {
+      "q": "Wirkt sich ein Gründach in Ulm auf die Abwassergebühr aus?",
+      "a": "Ein Gründach kann im Antrag auf Einzelveranlagung der Niederschlagswassergebühr als Abflussreduzierung angegeben werden. Zuständig sind die Entsorgungs-Betriebe der Stadt Ulm."
+    },
+    {
+      "q": "Brauche ich für eine Solaranlage auf dem Dach in Ulm eine Genehmigung?",
+      "a": "Laut Stadt sind Solaranlagen unter bestimmten Voraussetzungen baugenehmigungsfrei, Denkmalschutz kann aber Auflagen bedeuten. Den Einzelfall klärt der BürgerService Bauen."
+    }
+  ],
+  "offen": [
+    "Keine städtische Gestaltungssatzung zu Dachformen oder Dacheindeckung in Ulm online gefunden.",
+    "Kein eigenes Gründach-Förderprogramm der Stadt Ulm gefunden; Ulmer Energieförderprogramm seit 01.09.2026 gestoppt.",
+    "Ob für Ulm bereits Starkregengefahrenkarten veröffentlicht sind, geht aus der Stadtseite nicht eindeutig hervor; nur allgemeine Erläuterung übernommen."
+  ]
+}

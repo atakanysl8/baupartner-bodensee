@@ -1,0 +1,93 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "waiblingen",
+  "ortName": "Waiblingen",
+  "kreis": "Rems-Murr-Kreis",
+  "title": "Elektriker Waiblingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Waiblingen: PV-Fertigmeldung bei den Stadtwerken, Wallbox-Anfrage, Zählerwechsel und Solarpotenzial im Gebäudesteckbrief. Kostenlos vermittelt.",
+  "h1": "Elektriker in Waiblingen",
+  "einstieg": "Wer in Waiblingen einen Elektriker sucht, plant oft mehr als neue Steckdosen: eine Photovoltaikanlage mit Speicher, eine Wallbox in der Garage oder einen neuen Zählerschrank im Altbau. Liegt das Haus im Stromnetz der Stadtwerke Waiblingen, laufen Anmeldung, Zählersetzung und Netzanschluss über sie als Netzbetreiber.",
+  "abschnitte": [
+    {
+      "h2": "Photovoltaik in Waiblingen: Fertigmeldung und Unterlagen für die Stadtwerke",
+      "text": "Für eine neue PV-Anlage mit Eigenverbrauch erwarten die Stadtwerke Waiblingen eine Fertigmeldung, dazu Konformitätserklärung sowie Datenblätter von Modulen, Wechselrichter und gegebenenfalls Speicher. Die Unterlagen sollen mindestens zwei Werktage vor dem Termin vorliegen. Für steckerfertige Balkonanlagen bis 2.000 Watt Modulleistung und 800 Watt Wechselrichterleistung genügt nach Angabe der Stadtwerke die Registrierung im Marktstammdatenregister. Ob sich das eigene Dach lohnt, lässt sich vorab im kostenlosen energetischen Gebäudesteckbrief der Stadt nachsehen, der auch das PV-Potenzial einer Adresse zeigt."
+    },
+    {
+      "h2": "Wallbox, Zählerschrank und Smart Meter: was der Netzbetreiber verlangt",
+      "text": "Für eine Ladeeinrichtung für Elektroautos sehen die Stadtwerke eine Netzanschlussanfrage mit eigenem Anfragebogen vor. Wird ein Stromzähler neu gesetzt oder ausgebaut, ist eine Fertigmeldung nötig, die ein im Installateurverzeichnis der Stadtwerke eingetragener Betrieb ausfüllt und die mindestens acht Werktage vor dem Einbau eingehen soll. Ein intelligentes Messsystem ist laut Stadtwerken insbesondere bei mehr als 6.000 kWh Jahresverbrauch und bei Erzeugungsanlagen über 7 kW vorgesehen. Im historischen Ortskern von Neustadt regelt außerdem eine Gestaltungssatzung, wo Ladeanlagen am Haus angebracht werden dürfen."
+    },
+    {
+      "h2": "Vom Vorhaben zum passenden Elektriker",
+      "text": "Für Fragen zu Eignung und Wirtschaftlichkeit einer Solaranlage bietet die Energieagentur Rems-Murr in Waiblingen eine Erst-Energieberatung an und kommt auf Wunsch zu einem PV-Eignungscheck ins Haus. Steht fest, was gebaut werden soll, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Für PV-Anlagen mit Selbstverbrauch ist bei den Stadtwerken Waiblingen eine Fertigmeldung einzureichen; Unterlagen wie Konformitätserklärung und Datenblätter von Modulen, Wechselrichter und Speicher sollen mindestens zwei Werktage vorher vorliegen.",
+      "quelle": "Stadtwerke Waiblingen – EEG & Einspeiser",
+      "url": "https://www.stadtwerke-waiblingen.de/Netze/Stromnetz/EEG-Einspeiser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Steckerfertige Balkon-PV-Anlagen bis 2.000 Watt Modulleistung und 800 Watt Wechselrichterleistung brauchen im Netz der Stadtwerke Waiblingen nur die Registrierung im Marktstammdatenregister, keine gesonderte Anmeldung beim Netzbetreiber.",
+      "quelle": "Stadtwerke Waiblingen – EEG & Einspeiser",
+      "url": "https://www.stadtwerke-waiblingen.de/Netze/Stromnetz/EEG-Einspeiser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für geplante Ladeeinrichtungen für Elektrofahrzeuge sehen die Stadtwerke Waiblingen eine Netzanschlussanfrage über einen Anfragebogen zur Netzanschlussprüfung vor.",
+      "quelle": "Stadtwerke Waiblingen – Messstellenbetrieb",
+      "url": "https://www.stadtwerke-waiblingen.de/Netze/Messstellenbetrieb",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Fertigmeldung für einen neuen Stromzähler füllt ein im Installateurverzeichnis der Stadtwerke Waiblingen eingetragener Installateur aus; sie soll mindestens acht Werktage vor Einbau oder Austausch eingehen.",
+      "quelle": "Stadtwerke Waiblingen – Messstellenbetrieb",
+      "url": "https://www.stadtwerke-waiblingen.de/Netze/Messstellenbetrieb",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ein intelligentes Messsystem ist laut Stadtwerken Waiblingen insbesondere für Verbraucher mit mehr als 6.000 kWh Jahresverbrauch und für EEG- oder KWK-Anlagen mit mehr als 7 kW installierter Leistung gesetzlich vorgesehen.",
+      "quelle": "Stadtwerke Waiblingen – Messstellenbetrieb",
+      "url": "https://www.stadtwerke-waiblingen.de/Netze/Messstellenbetrieb",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Waiblingen bietet kostenlose energetische Gebäudesteckbriefe an, die auf Basis von 3D-Gebäudemodellen den energetischen Zustand und das PV-Potenzial eines Gebäudes einschätzen.",
+      "quelle": "Stadt Waiblingen – Energetische Gebäudesteckbriefe",
+      "url": "https://www.waiblingen.de/de/Die-Stadt/Unsere-Stadt/Nachhaltigkeit-Umwelt/Energie-Klimaschutz/Energetische-Gebaeudesteckbriefe",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach der Gestaltungssatzung „Historischer Ortskern Neustadt“ sind Anlagen zum Laden von Elektrofahrzeugen an straßenzugewandten Fassaden nicht zulässig, soweit keine technischen Gründe dagegensprechen; Solaranlagen sind von dieser Regel ausgenommen.",
+      "quelle": "Stadt Waiblingen – Satzungstext Gestaltungssatzung Historischer Ortskern Neustadt",
+      "url": "https://www.waiblingen.de/ceasy/resource/?id=23356&download=1",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Energieagentur Rems-Murr bietet in Waiblingen eine kostenlose Erst-Energieberatung an und kommt bei Bedarf für einstündige Checks, unter anderem zur Photovoltaikeignung, ins Haus.",
+      "quelle": "Stadt Waiblingen – Kommunaler Wärmeplan",
+      "url": "https://www.waiblingen.de/de/Die-Stadt/Unsere-Stadt/Nachhaltigkeit-Umwelt/Energie-Klimaschutz/Kommunaler-Waermeplan",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich eine Balkon-PV-Anlage in Waiblingen bei den Stadtwerken anmelden?",
+      "a": "Nach Angabe der Stadtwerke Waiblingen nicht, sofern die Anlage 2.000 Watt Modulleistung und 800 Watt Wechselrichterleistung nicht überschreitet. Nötig ist dann die Registrierung im Marktstammdatenregister."
+    },
+    {
+      "q": "Wie erfahre ich, ob mein Dach in Waiblingen für Photovoltaik geeignet ist?",
+      "a": "Einen ersten Überblick gibt der kostenlose Gebäudesteckbrief der Stadt Waiblingen mit PV-Potenzial. Eine genauere Einschätzung vor Ort bietet die Energieagentur Rems-Murr mit ihrem PV-Eignungscheck."
+    },
+    {
+      "q": "Darf ich im Ortskern Neustadt eine Wallbox an der Straßenseite anbringen?",
+      "a": "Die Gestaltungssatzung „Historischer Ortskern Neustadt“ schließt Ladeanlagen an straßenzugewandten Fassaden grundsätzlich aus, soweit keine technischen Gründe dagegensprechen. Auskunft gibt die Abteilung Planung und Sanierung der Stadt."
+    }
+  ],
+  "offen": [
+    "Die Stadtwerke-Seite nennt für nicht registrierte Installateure eine Kopie der Konzession; nicht in den Text übernommen.",
+    "Der Eigenanteil für die Vor-Ort-Checks der Energieagentur wurde bewusst nicht genannt (Förderbetrag/Preis).",
+    "Ob das gesamte Waiblinger Stadtgebiet (inkl. aller Ortschaften) im Stromnetz der Stadtwerke Waiblingen liegt, ist auf den gelesenen Seiten nicht ausdrücklich gesagt; deshalb konditional formuliert („Liegt das Haus im Stromnetz …“)."
+  ]
+}

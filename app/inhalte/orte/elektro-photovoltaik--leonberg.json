@@ -1,0 +1,81 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "leonberg",
+  "ortName": "Leonberg",
+  "kreis": "Böblingen",
+  "title": "Elektriker Leonberg – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Leonberg: Stromnetz der Leo Energie, Photovoltaik als verfahrensfreies Vorhaben, Solar am Kulturdenkmal, Beratung. Kostenlos vermittelt.",
+  "h1": "Elektriker in Leonberg",
+  "einstieg": "Ein Elektriker in Leonberg bekommt heute oft mehr als einen Reparaturauftrag: Die Elektrik im Haus aus den Sechzigern in Eltingen soll erneuert werden, auf dem Dach in Höfingen eine Photovoltaikanlage entstehen, in der Garage eine Wallbox hängen. Wer dabei das Netz betreibt, was baurechtlich gilt und wo man sich neutral beraten lassen kann, ist in Leonberg klar geregelt.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker in Leonberg: wem das Stromnetz gehört",
+      "text": "Das Stromnetz auf Leonberger Gemarkung gehört der Leo Energie GmbH & Co. KG, die der Gemeinderat 2011 gegründet hat. Mehrheitseigner sind mit 51 Prozent die Stadtwerke Leonberg, die übrigen Anteile hält eine landesweite Netzgesellschaft, an die das Netz verpachtet ist und die es betreibt. Für Ihr Vorhaben bedeutet das in der Regel: Anmeldungen von Photovoltaik, Speicher, Wallbox oder Wärmepumpe gehen an den Netzbetreiber. Die Anmeldung erledigt meist der ausführende Elektrobetrieb."
+    },
+    {
+      "h2": "Photovoltaik in Leonberg: verfahrensfrei, aber nicht überall frei",
+      "text": "Laut Stadt hat die Solarenergie in Leonberg das größte Potenzial unter den erneuerbaren Energien, weil die meisten Dachflächen noch nicht genutzt werden. Für eine erste Einschätzung verweist sie auf den Energieatlas des Landes und stellt Infoblätter zu Photovoltaik und Balkonkraftwerken bereit. Baurechtlich zählt das ServiceBüroBauen Anlagen zur Solarnutzung zu den verfahrensfreien Vorhaben, weist aber darauf hin, dass Bebauungsplan und Nachbarrecht trotzdem gelten. Anders ist es am Kulturdenkmal: Dort sind sämtliche Aufbauten genehmigungspflichtig, also in der Regel auch Solarmodule. Für die Altstadt mit ihren Fachwerkhäusern ist das ein wichtiger Punkt."
+    },
+    {
+      "h2": "Beratung vor dem Auftrag",
+      "text": "Leonberg strebt Treibhausgasneutralität bis 2040 an und hat dafür ein Referat für Klimaschutz. Zusammen mit der Energieagentur Kreis Böblingen und der Verbraucherzentrale hat die Stadt 2026 Energie- und Wärmewendewochen mit Vorträgen auch zur Photovoltaik veranstaltet. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Leo Energie GmbH & Co. KG wurde nach Gemeinderatsbeschluss vom Juli 2011 gegründet; sie ist Eigentümerin des Strom- und des Gasnetzes auf Leonberger Gemarkung und verpachtet diese an die Netze BW GmbH. Die Stadtwerke Leonberg halten 51 Prozent, die Netze BW GmbH 49 Prozent.",
+      "quelle": "Stadt Leonberg – Leo Energie GmbH & Co. KG",
+      "url": "https://www.leonberg.de/Wirtschaft-Bauen/Stadtwerke-Leonberg/Leo-Energie/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach Angaben der Stadt Leonberg hat die Solarenergie dort das größte Potenzial, da die meisten Dachflächen für Photovoltaik- und Solarthermie-Anlagen noch nicht erschlossen sind; für eine erste Prüfung verweist die Stadt auf den Energieatlas Baden-Württemberg.",
+      "quelle": "Stadt Leonberg – Erneuerbare Energien",
+      "url": "https://www.leonberg.de/B%C3%BCrger-Stadt/Stadt/Energie-Umwelt-Klimaschutz/Erneuerbare-Energien/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Broschüre „Verfahrensfreie Vorhaben“ des ServiceBüroBauen (Stand 09/2024) nennt Anlagen zur photovoltaischen und thermischen Solarnutzung als verfahrensfrei; die Regelungen von Bebauungsplänen, des Baurechts und des Nachbarrechts sind dennoch zu beachten.",
+      "quelle": "Stadt Leonberg – ServiceBüroBauen, Broschüre Verfahrensfreie Vorhaben",
+      "url": "https://www.leonberg.de/loadDocument.phtml?FID=2691.612.1&Ext=PDF",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bei Kulturdenkmalen nennt die Stadt Leonberg sämtliche Aufbauten sowie die Anbringung von Parabolantennen als genehmigungspflichtig; untere Denkmalschutzbehörde ist die Baurechtsbehörde (Bauverwaltung).",
+      "quelle": "Stadt Leonberg – Denkmalschutz / Denkmalpflege",
+      "url": "https://www.leonberg.de/Wirtschaft-Bauen/Rund-ums-Bauen/ServiceB%C3%BCroBauen/Denkmalschutz/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Leonberg strebt Treibhausgasneutralität bis 2040 an; zuständig für Klimaschutz und Energiewende ist das Referat für Klimaschutz im Dezernat des Baubürgermeisters.",
+      "quelle": "Stadt Leonberg – Klimaschutz in Leonberg",
+      "url": "https://www.leonberg.de/B%C3%BCrger-Stadt/Stadt/Energie-Umwelt-Klimaschutz/Klimaschutz-in-Leonberg/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Gemeinsam mit der Energieagentur Kreis Böblingen und der Verbraucherzentrale BW führte die Stadt Leonberg 2026 Energie- und Wärmewendewochen mit kostenfreien Vorträgen zu Heizung, Photovoltaik und Sanierung durch.",
+      "quelle": "Stadt Leonberg – Energie- und Wärmewendewochen",
+      "url": "https://www.leonberg.de/B%C3%BCrger-Stadt/Stadt/Energie-Umwelt-Klimaschutz/Energie-und-W%C3%A4rmewendewochen/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wer betreibt das Stromnetz in Leonberg?",
+      "a": "Eigentümerin ist die Leo Energie, an der die Stadtwerke Leonberg mit 51 Prozent beteiligt sind. Betrieben wird das Netz von der Netze BW, an die es verpachtet ist."
+    },
+    {
+      "q": "Brauche ich in Leonberg eine Baugenehmigung für Photovoltaik?",
+      "a": "Das ServiceBüroBauen führt Solaranlagen als verfahrensfreie Vorhaben, der Bebauungsplan gilt trotzdem. Bei einem Kulturdenkmal ist eine denkmalschutzrechtliche Genehmigung nötig."
+    },
+    {
+      "q": "Wo kann ich in Leonberg das Solarpotenzial meines Dachs prüfen?",
+      "a": "Die Stadt verweist auf das Solardachkataster im Energieatlas Baden-Württemberg und stellt eigene Infoblätter zu Photovoltaik und Balkonkraftwerk bereit."
+    }
+  ],
+  "offen": [
+    "Netze BW als Netzbetreiber nur aus Leo-Energie-Seite (Verpachtung) und Kooperationsseite der Stadtwerke („Netze BW als erfahrener Netzbetreiber“) abgeleitet; netze-bw.de war nicht abrufbar (Timeout).",
+    "Stadtteilbeispiele im Einstieg (Eltingen, Höfingen) nicht durch Fakten belegt.",
+    "„Solarmodule in der Regel genehmigungspflichtig am Kulturdenkmal“ ist Ableitung aus „sämtliche Aufbauten“; bitte prüfen."
+  ]
+}

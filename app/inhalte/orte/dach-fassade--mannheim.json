@@ -1,0 +1,88 @@
+{
+  "leistung": "dach-fassade",
+  "ort": "mannheim",
+  "ortName": "Mannheim",
+  "kreis": "Mannheim",
+  "title": "Dachdecker Mannheim – Fachbetrieb kostenlos vermittelt",
+  "description": "Dachdecker in Mannheim: Dachsanierung, Dämmung und Gründach mit Begrünungssatzung, Gründachkataster und Denkmalschutz. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Dachdecker in Mannheim",
+  "einstieg": "Undichte Eindeckung auf dem Gründerzeithaus in der Oststadt, ein Flachdach über dem Anbau oder die Garage, die endlich gedämmt und begrünt werden soll: Wer einen Dachdecker in Mannheim sucht, plant in einer Stadt, die Dachflächen seit Jahren gezielt für Grün und Klimaanpassung nutzen will. Je nach Lage im Stadtgebiet spielen dabei eine Begrünungssatzung, der Denkmalschutz und städtische Programme eine Rolle.",
+  "abschnitte": [
+    {
+      "h2": "Flachdach in der Innenstadt: was die Begrünungssatzung verlangt",
+      "text": "Für die Quadrate und angrenzende Teile von Jungbusch, Neckarstadt-West und -Ost, Schwetzingerstadt-Oststadt und Lindenhof gilt die Begrünungssatzung der Stadt. Sie greift nicht nur bei Neubauten, sondern auch, wenn bestehende Gebäude durch genehmigungs- oder kenntnisgabepflichtige Maßnahmen geändert werden; Nutzungsänderungen und unwesentliche Änderungen sind ausgenommen. Verlangt wird mindestens eine extensive Begrünung mit Sedum- oder Moos-Sedum-Mischungen auf einer belebten Substratschicht von mindestens 10 cm. Flächen für technische Dachaufbauten sind ausgenommen. Für die Planung bedeutet das: Lastreserven, Abdichtung, Wurzelschutz und Entwässerung sollten von Beginn an auf ein Gründach ausgelegt sein. Ob ein Vorhaben unter die Satzung fällt, beantwortet der Fachbereich Baurecht."
+    },
+    {
+      "h2": "Gründachkataster und Abwassergebühr: Begrünung auch außerhalb der Pflicht",
+      "text": "Seit April 2025 stellt die Stadt ein Gründachkataster bereit, mit dem Eigentümer die Begrünungsmöglichkeiten für Haus- oder Garagendach abrufen können. Es ist mit dem Solardachkataster des Landes verknüpft, sodass sich Gründach und Photovoltaik gemeinsam betrachten lassen. Die Ergebnisse dienen laut Stadt nur der Orientierung, die Statik ist gesondert zu klären. Begrünte Dächer zählen nach der Abwassersatzung nur zur Hälfte für die Niederschlagswassergebühr, und seit Juli 2016 gibt es ein städtisches Förderprogramm für Dach-, Fassaden- und Entsiegelungsbegrünung."
+    },
+    {
+      "h2": "Dämmung und Denkmal: Altbauten in Mannheim",
+      "text": "Bei älteren Mannheimer Häusern lohnt vor Arbeiten am Dach die Frage, ob das Gebäude ein Kulturdenkmal ist. Der Schutz eines Kulturdenkmals umfasst laut Stadt unter anderem alle Fassaden und bauzeitliche Dachkonstruktionen, deshalb ist vor einer Neueindeckung oder Aufdachdämmung die Abstimmung mit der unteren Denkmalschutzbehörde ein Thema. Für die Dämmung von Dach und Fassade außerhalb solcher Fälle führt die Stadt ein eigenes Förderprogramm, das mit der Bundesförderung kombiniert wird; zu Bundes- und Landesmitteln berät die Klimaschutzagentur. Wenn Sie Ihr Dachvorhaben über unser Formular schildern, wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Begrünungssatzung gilt für die Mannheimer Innenstadt und angrenzende Teilbereiche von Jungbusch, Neckarstadt-West, Neckarstadt-Ost, Schwetzingerstadt-Oststadt und Lindenhof; die Begrünungspflicht entsteht auch, wenn vorhandene Gebäude durch genehmigungs- oder kenntnisgabepflichtige Maßnahmen geändert werden.",
+      "quelle": "Stadt Mannheim – Begrünungssatzung für die Innenstadt (Stadtrecht 6.7)",
+      "url": "https://www.mannheim.de/sites/default/files/2018-07/s06-07.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach § 5 der Begrünungssatzung ist die Dachbegrünung mindestens extensiv mit Sedum- oder Moos-Sedum-Mischungen und einer belebten Substratschicht von mindestens 10 cm anzulegen; Dachaufbauten für technische Anlagen sind von der Begrünungspflicht ausgenommen.",
+      "quelle": "Stadt Mannheim – Begrünungssatzung für die Innenstadt (Stadtrecht 6.7)",
+      "url": "https://www.mannheim.de/sites/default/files/2018-07/s06-07.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Mit dem im April 2025 vorgestellten Gründachkataster können Eigentümer prüfen, ob sich ihr Haus- oder Garagendach grundsätzlich für eine Begrünung eignet; das Kataster ist mit dem Solardachkataster Baden-Württemberg verlinkt, die statische Eignung ist eigenständig prüfen zu lassen.",
+      "quelle": "Stadt Mannheim – Pressemitteilung Gründachkataster",
+      "url": "https://www.mannheim.de/de/presse/gruendachkataster-fuer-die-stadt-mannheim",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach § 16 der Mannheimer Abwassersatzung werden Dächer mit Begrünung zu 50 % als Bemessungsgrundlage der Niederschlagswassergebühr herangezogen.",
+      "quelle": "Stadt Mannheim – Satzung über die öffentliche Abwasserbeseitigung 2026",
+      "url": "https://www.mannheim.de/sites/default/files/2026-01/Abwassersatzung%202026.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Zum 1. Juli 2016 startete die Stadt Mannheim ein Förderprogramm zur Begrünung von Dach-, Fassaden- und Entsiegelungsflächen; der Gemeinderat hatte die Richtlinien am 14. Juni beschlossen.",
+      "quelle": "Stadt Mannheim – Begrünung von Dächern und Fassaden",
+      "url": "https://www.mannheim.de/de/service-bieten/gruene-stadt/begruenung-von-daechern-und-fassaden",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Schutz eines Kulturdenkmals umfasst laut Stadt Mannheim unter anderem alle Fassaden und bauzeitliche Dachkonstruktionen; Auskunft zur Denkmaleigenschaft geben das Landesamt für Denkmalpflege (Dienstsitz Karlsruhe) und die Stadt als untere Denkmalschutzbehörde.",
+      "quelle": "Stadt Mannheim – Auskunft Denkmaleigenschaft",
+      "url": "https://www.mannheim.de/de/service-bieten/bauen-und-wohnen/denkmalschutz/auskunft-denkmaleigenschaft",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das städtische Programm zur energetischen Sanierung fördert laut Pressemitteilung vom 10.03.2026 Einzelmaßnahmen an der Gebäudehülle wie die Dämmung des Daches oder der Fassade; die Kombination mit der Bundesförderung für effiziente Gebäude bleibt Voraussetzung.",
+      "quelle": "Stadt Mannheim – Pressemitteilung Neustart der Förderprogramme",
+      "url": "https://www.mannheim.de/de/presse/neustart-der-foerderprogramme-fuer-gebaeudesanierung-heizungserneuerung-photovoltaik-und",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich mein Flachdach in Mannheim begrünen?",
+      "a": "In der Innenstadt und angrenzenden Bereichen sieht die Begrünungssatzung das für Flachdächer und flach geneigte Dächer vor, wenn ein genehmigungs- oder kenntnisgabepflichtiges Vorhaben vorliegt. Ob das für Ihr Vorhaben zutrifft, beantwortet der Fachbereich Baurecht."
+    },
+    {
+      "q": "Wie finde ich heraus, ob mein Mannheimer Dach für eine Begrünung taugt?",
+      "a": "Das Gründachkataster der Stadt gibt eine erste Einschätzung für Haus- und Garagendächer. Die Statik ist nach Hinweis der Stadt gesondert zu klären."
+    },
+    {
+      "q": "Steht mein Haus in Mannheim unter Denkmalschutz?",
+      "a": "Auskunft geben das Landesamt für Denkmalpflege im Regierungspräsidium Stuttgart, Dienstsitz Karlsruhe, und die Stadt als untere Denkmalschutzbehörde."
+    }
+  ],
+  "offen": [
+    "Begrünungssatzung: Fassung von 2018 (PDF 2018-07); Aktualität nicht separat geprüft. Die 10-m²/20°-Schwelle steht bereits auf hochbau--mannheim und wurde hier nur in der FAQ sinngemäß erwähnt.",
+    "„Quadrate“ als Bezeichnung der Innenstadt ist Ortskenntnis, Satzung spricht von „Innenstadt“.",
+    "Förderprogramme Stand Pressemitteilung 10.03.2026, keine Beträge genannt.",
+    "Hinweis zu Lastreserven/Abdichtung/Wurzelschutz ist fachliche Allgemeinaussage, nicht städtisch belegt."
+  ]
+}

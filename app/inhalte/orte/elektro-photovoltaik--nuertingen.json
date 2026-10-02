@@ -1,0 +1,80 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "nuertingen",
+  "ortName": "Nürtingen",
+  "kreis": "Esslingen",
+  "title": "Elektriker Nürtingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Nürtingen für Zählerschrank, Wallbox und Photovoltaik: Stromnetz der Stadtwerke, eigene Solarkarte, BürgerSolarBerater. Kostenlos vermittelt.",
+  "h1": "Elektriker in Nürtingen",
+  "einstieg": "Wer in Nürtingen einen Elektriker sucht, plant oft mehr als neue Steckdosen: Ein alter Zählerschrank soll Platz für Photovoltaik, Speicher oder Wallbox schaffen. In Nürtingen betreiben die Stadtwerke das Stromnetz selbst, und die Stadt hat für die Dächer eine eigene Solarkarte erstellen lassen.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker Nürtingen: Netzanschluss bei den Stadtwerken",
+      "text": "Für Hausanschluss, Zählerplatz und Einspeisung ist in Nürtingen der städtische Netzbetreiber zuständig: Die Stadtwerke Nürtingen versorgen nach eigenen Angaben nahezu 24.000 Entnahmestellen und berücksichtigen E-Mobilität und Stromspeicher bereits in der Netzplanung. Auf ihrer Seite zum Netzanschluss stellen sie die Technischen Anschlussbedingungen für das Niederspannungsnetz (TAB 2023) und ergänzende Bedingungen für Erzeugungsanlagen bereit. Elektrofachbetriebe registrieren sich im Netzportal der Stadtwerke. Für Fragen zu Stromhausanschlüssen gibt es beim Technischen Büro Stromversorgung eigene Ansprechpartner. Wer einen Zählerschrank erneuert oder eine PV-Anlage plant, sollte diese Unterlagen früh mit dem ausführenden Betrieb abgleichen."
+    },
+    {
+      "h2": "Solarkarte und BürgerSolarBerater: erst das Dach prüfen",
+      "text": "Ergänzend zum Solaratlas der LUBW hat die Stadt Nürtingen 2021 zusammen mit der Hochschule für Wirtschaft und Umwelt eine eigene Solarkarte erstellt. Sie zeigt für jede Dachfläche die jährliche Einstrahlung, die grundsätzliche Eignung und die mögliche PV-Leistung mit und ohne Aufständerung; für Handwerker und Energieberater gibt es zusätzlich eine Expertenversion mit Monatswerten. Wer unsicher ist, kann sich an die ehrenamtlichen BürgerSolarBerater wenden. Sie begleiten kostenlos von der ersten Idee bis zur Umsetzung und weisen laut Stadt auch auf die Tauglichkeit des Zählerschranks, Notstrom und das Laden des E-Autos mit eigenem Strom hin."
+    },
+    {
+      "h2": "Beratung im Technischen Rathaus und im Landkreis",
+      "text": "Eine kostenfreie, 45-minütige Erstberatung der Klimaschutzagentur des Landkreises Esslingen findet nach Terminabsprache auch im Technischen Rathaus in der Marktstraße statt, unter anderem zur Solarenergie. Für die Wallbox bietet der Landkreis auf seiner E-Mobilitäts-Website einen Ladeinfrastrukturrechner für Einwohner des Kreises an. Steht Ihr Vorhaben fest, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadtwerke Nürtingen versorgen mit ihrem Stromnetz nahezu 24.000 Entnahmestellen und berücksichtigen E-Mobilität und Stromspeicher in der Netzplanung.",
+      "quelle": "Stadtwerke Nürtingen – Stromnetz",
+      "url": "https://www.sw-nuertingen.de/netze/stromnetz",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für den Stromnetzanschluss stellen die Stadtwerke Nürtingen unter anderem die TAB 2023 Niederspannung und ergänzende Bedingungen für Erzeugungsanlagen im Niederspannungsnetz bereit.",
+      "quelle": "Stadtwerke Nürtingen – Netzanschluss Strom",
+      "url": "https://www.sw-nuertingen.de/netze/stromnetz/netzanschluss",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Nürtingen ließ 2021 mit der Hochschule für Wirtschaft und Umwelt eine eigene Solarkarte erstellen, die Einstrahlung in kWh pro m², Dacheignung und installierbare PV-Leistung zeigt.",
+      "quelle": "Stadt Nürtingen – Klimaschutz: Solarkarte",
+      "url": "https://www.klimaschutz-nuertingen.de/foerderung-beratung-partner/solarenergie/solarkarte",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die BürgerSolarBerater Nürtingen beraten ehrenamtlich und kostenlos zur eigenen PV-Anlage, auch zur Tauglichkeit des vorhandenen Zählerschranks und zur Wallbox.",
+      "quelle": "Stadt Nürtingen – Klimaschutz: Kostenlose BürgerSolarBerater",
+      "url": "https://www.klimaschutz-nuertingen.de/klimaschutz-in-nuertingen/neuigkeiten/1154/kostenlose-buergersolarberater-nuertingen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Klimaschutzagentur des Landkreises Esslingen bietet kostenfreie 45-minütige Erstberatungen, unter anderem zur Solarenergie, auch im Technischen Rathaus Nürtingen (Marktstraße 1) an.",
+      "quelle": "Klimaschutzagentur des Landkreises Esslingen – Privatpersonen",
+      "url": "https://ksa-es.de/privatpersonen/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ein Großteil der Ladestationen in Nürtingen wird von den Stadtwerken betrieben; der Landkreis Esslingen bietet Einwohnern einen Ladeinfrastrukturrechner für die private Ladestation.",
+      "quelle": "Stadt Nürtingen – Klimaschutz: E-Mobilität & Ladeinfrastruktur",
+      "url": "https://www.klimaschutz-nuertingen.de/klimaschutz-in-nuertingen/thg-bilanzen-massnahmen/mobilitaet/etablierte-massnahmen/e-mobilitaet-ladeinfrastruktur",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wer ist in Nürtingen Netzbetreiber für eine neue PV-Anlage oder Wallbox?",
+      "a": "Das Stromnetz in Nürtingen betreiben die Stadtwerke Nürtingen. Ihre Anschlussbedingungen und Formulare stehen auf der Seite zum Netzanschluss Strom."
+    },
+    {
+      "q": "Wie finde ich heraus, ob mein Dach in Nürtingen für Photovoltaik taugt?",
+      "a": "Die städtische Solarkarte zeigt Einstrahlung, Eignung und mögliche PV-Leistung je Dachfläche. Eine persönliche Einschätzung geben die ehrenamtlichen BürgerSolarBerater."
+    },
+    {
+      "q": "Gibt es in Nürtingen eine neutrale Beratung vor Ort?",
+      "a": "Ja, die Klimaschutzagentur des Landkreises Esslingen berät nach Terminabsprache kostenfrei im Technischen Rathaus in der Marktstraße 1."
+    }
+  ],
+  "offen": [
+    "Städtisches Förderprogramm für Stecker-Solargeräte bewusst ohne Betrag nicht aufgenommen (Förderbetrag).",
+    "Hinweis der Stadt, die Anmeldung von Balkonkraftwerken beim Netzbetreiber entfalle ohne EEG-Vergütung, nicht übernommen (Rechtsfrage, Marktstammdatenregister nicht erwähnt)."
+  ]
+}

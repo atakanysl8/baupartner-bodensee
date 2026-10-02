@@ -1,0 +1,88 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "pforzheim",
+  "ortName": "Pforzheim",
+  "kreis": "Pforzheim",
+  "title": "Elektriker Pforzheim – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Pforzheim: PV, Speicher, Wallbox und Wärmepumpe beim Netzbetreiber anmelden, Solarpotenzial laut Wärmeplan, Balkonkraftwerke. Kostenlos.",
+  "h1": "Elektriker in Pforzheim",
+  "einstieg": "Ob Zählerschrank im Mehrfamilienhaus der Nordstadt, Wallbox in der Garage in Büchenbronn oder Photovoltaik mit Speicher auf dem Dach in Huchenfeld: Wer in Pforzheim einen Elektriker beauftragt, hat es fast immer auch mit dem örtlichen Netzbetreiber zu tun. Dazu kommen das große ungenutzte Solarpotenzial der Stadt und ein städtisches Programm für Balkonkraftwerke.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker in Pforzheim: was beim Netzbetreiber angemeldet wird",
+      "text": "Netzbetreiber im Pforzheimer Stadtgebiet sind die Stadtwerke Pforzheim. Für PV-Anlagen und Speicher, Ladeeinrichtungen für Elektrofahrzeuge und Wärmepumpen stellen sie jeweils eigene Datenblätter und Inbetriebsetzungsprotokolle bereit; für Anlagen nach § 14a Energiewirtschaftsgesetz gibt es zusätzliche Unterlagen. Der Anschluss muss laut Stadtwerken von einem eingetragenen Installateur errichtet werden. Eingetragene Vertragsinstallateure reichen Netzanmeldungen und Inbetriebnahmen über ein eigenes Installateurportal ein. Für Eigentümer heißt das: Den Papierkram mit dem Netz übernimmt in der Regel der ausführende Elektrobetrieb. Vorher klärt er, ob Hausanschluss und Zählerschrank für Wallbox, Wärmepumpe oder Speicher ausreichen oder erneuert werden müssen."
+    },
+    {
+      "h2": "Viel Dachfläche, wenig Solarstrom",
+      "text": "Der kommunale Wärmeplan der Stadt, den der Planungs- und Umweltausschuss im Oktober 2023 zur Kenntnis genommen hat, enthält auch eine Auswertung zum Solarstrom. Nach einer Schätzung auf Basis des Marktstammdatenregisters stammten nur rund 5 Prozent des in Pforzheim verbrauchten Stroms aus Photovoltaik im Stadtgebiet. Gleichzeitig wurden anhand von Laserscandaten etwa 3,5 Millionen Quadratmeter geeignete Dachfläche ermittelt, auf der rechnerisch 61 Prozent des Stromverbrauchs von 2021 erzeugt werden könnten. Ob eine Anlage für ein bestimmtes Haus sinnvoll ist, hängt laut Bericht vom Lastgang des Gebäudes ab und braucht eine Einzelfallbetrachtung. Für die Innenstadt sieht die Gestaltungssatzung vor, dass ihre Fassadenregeln nicht gelten, soweit sie die Nutzung erneuerbarer Energien ausschließen oder unangemessen beeinträchtigen."
+    },
+    {
+      "h2": "Balkonkraftwerke und Beratung durch die keep",
+      "text": "Steckersolargeräte werden in Pforzheim nach Angabe der Stadtwerke ausschließlich im Marktstammdatenregister angemeldet. Seit 24. März 2026 fördert die Stadt Balkonkraftwerke; der Antrag läuft über die Klimaschutz- und Energieagentur Enzkreis Pforzheim (keep), verlangt werden unter anderem ein NA-Zertifikat und die Bestätigung aus dem Marktstammdatenregister. Angeschafft werden darf das Gerät laut Richtlinie nicht vor deren Inkrafttreten. Für größere Dachanlagen mit Speicher oder die Kombination mit Wärmepumpe und Wallbox lohnt eine neutrale Erstberatung bei der keep. Wenn Ihr Vorhaben klar ist, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadtwerke Pforzheim stellen als Netzbetreiber Anmeldeunterlagen für PV-Anlagen und Speicher, Ladeeinrichtungen für Elektrofahrzeuge und Wärmepumpen bereit; Balkonkraftwerke werden ausschließlich im Marktstammdatenregister angemeldet.",
+      "quelle": "Stadtwerke Pforzheim – Netzanschluss Privat- und Gewerbekunden",
+      "url": "https://www.stadtwerke-pforzheim.de/netze/netzanschluss/privat-und-gewerbekunden/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut Stadtwerken Pforzheim muss der Anschluss von einem eingetragenen Installateur errichtet werden; eingetragene Vertragsinstallateure nutzen für Netzanmeldungen und Inbetriebnahmen ein Installateurportal.",
+      "quelle": "Stadtwerke Pforzheim – Installateurportal",
+      "url": "https://www.stadtwerke-pforzheim.de/netze/netzanschluss/installateurportal/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach dem Bericht zur kommunalen Wärmeplanung wurden auf Basis des Marktstammdatenregisters (2023) rund 5 % des in Pforzheim verbrauchten Stroms durch Photovoltaikanlagen im Stadtgebiet erzeugt.",
+      "quelle": "Stadt Pforzheim – Kommunale Wärmeplanung, Endbericht",
+      "url": "https://cdn.pforzheim-web.de/fileadmin/user_upload/umwelt/klimaschutz/waermeplanung/2025-09-19_Berichtstext_KWP_Pforzheim_final.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die für Photovoltaik geeigneten Dachflächen in Pforzheim umfassen laut Wärmeplanung etwa 3,5 Mio. m²; darauf könnten rechnerisch 352 GWh/a erzeugt werden, rund 61 % des Stromverbrauchs von 2021.",
+      "quelle": "Stadt Pforzheim – Kommunale Wärmeplanung, Endbericht",
+      "url": "https://cdn.pforzheim-web.de/fileadmin/user_upload/umwelt/klimaschutz/waermeplanung/2025-09-19_Berichtstext_KWP_Pforzheim_final.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Den kommunalen Wärmeplan hat der Pforzheimer Planungs- und Umweltausschuss am 25. Oktober 2023 zur Kenntnis genommen; er enthält unter anderem eine Potenzialanalyse für Sonnenenergie.",
+      "quelle": "Klimaschutz Pforzheim – Wärmeplanung",
+      "url": "https://www.klimaschutz-pforzheim.de/informieren/waermeplanung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Pforzheim fördert seit 24. März 2026 Balkonkraftwerke; Anträge gehen an die keep, erforderlich sind unter anderem NA-Zertifikat und Bestätigung aus dem Marktstammdatenregister.",
+      "quelle": "Klimaschutz Pforzheim – Förderprogramm Balkonkraftwerke",
+      "url": "https://www.klimaschutz-pforzheim.de/massnahmen/foerderungen/foerderprogramm-balkonkraftwerke.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach der Gestaltungs- und Werbeanlagensatzung für die Pforzheimer Innenstadt gelten deren Anforderungen nach §§ 7–14 nicht, soweit sie die Nutzung erneuerbarer Energien ausschließen oder unangemessen beeinträchtigen.",
+      "quelle": "Stadt Pforzheim – Gestaltungs- und Werbeanlagensatzung Innenstadt (Nr. 742)",
+      "url": "https://cdn.pforzheim-web.de/fileadmin/user_upload/bauen/bpl/satzung/742/rk_gestaltungs-u_werbeanlagensatzung160125.pdf",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wer meldet in Pforzheim PV-Anlage oder Wallbox beim Netzbetreiber an?",
+      "a": "Die Stadtwerke Pforzheim verlangen, dass ein eingetragener Installateur den Anschluss errichtet. Netzanmeldung und Inbetriebnahme laufen in der Regel über dessen Zugang zum Installateurportal."
+    },
+    {
+      "q": "Muss ein Balkonkraftwerk in Pforzheim bei den Stadtwerken angemeldet werden?",
+      "a": "Nach Angabe der Stadtwerke wird es ausschließlich im Marktstammdatenregister angemeldet. Die Bestätigung von dort wird auch für den städtischen Förderantrag gebraucht."
+    },
+    {
+      "q": "Wie groß ist das Solarpotenzial auf Pforzheimer Dächern?",
+      "a": "Der Wärmeplan nennt rund 3,5 Millionen Quadratmeter geeignete Dachfläche. Ob sich eine Anlage für ein einzelnes Haus eignet, hängt vom Verbrauch und der Dachlage ab."
+    }
+  ],
+  "offen": [
+    "Förderhöhe Balkonkraftwerke bewusst nicht genannt.",
+    "Netzgebiet der Stadtwerke Pforzheim nicht ortsteilgenau belegt (Seite nennt nur „Pforzheim“); Text sagt „Stadtgebiet“.",
+    "Ortsteile im Einstieg (Nordstadt, Büchenbronn, Huchenfeld) nur als Beispiele.",
+    "Hinweis auf keep-Erstberatung aus bestehender Bad-Seite bekannt, hier nicht als eigener Fakt geführt."
+  ]
+}

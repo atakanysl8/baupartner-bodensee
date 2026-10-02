@@ -1,0 +1,81 @@
+{
+  "leistung": "dach-fassade",
+  "ort": "heidelberg",
+  "ortName": "Heidelberg",
+  "kreis": "Heidelberg",
+  "title": "Dachdecker Heidelberg – Fachbetrieb kostenlos vermittelt",
+  "description": "Dachdecker in Heidelberg: Gaubenregeln in Handschuhsheim, Dächer in den Gesamtanlagen, Gründach mit Solar nach Leitfaden der Stadt. Kostenlos vermittelt.",
+  "h1": "Dachdecker in Heidelberg",
+  "einstieg": "Einen Dachdecker in Heidelberg braucht, wer ein undichtes Dach sanieren, das Dachgeschoss dämmen oder eine Gaube aufsetzen lassen will. Vom Philosophenweg und vom Gaisberg sieht man auf die Dachlandschaft von Altstadt und Weststadt, im alten Ortskern von Handschuhsheim gelten eigene Gestaltungsregeln. Was auf dem Dach erlaubt ist, hängt deshalb stark vom Stadtteil ab.",
+  "abschnitte": [
+    {
+      "h2": "Handschuhsheim: Satteldach, Gauben und Ziegel nach Satzung",
+      "text": "Im Geltungsbereich der Gestaltungssatzung Handschuhsheim sind Hauptgebäude in den meisten Teilbereichen nur mit gleichschenkligem Satteldach und 45 bis 55 Grad Neigung zulässig, im Teilbereich B mit den Villen am Hang ab 30 Grad. Für Dachaufbauten nennt die Satzung genaue Maße: stehende Schlepp- oder Satteldachgauben, je Gebäude nur eine Gaubenform, einzeln höchstens 1,50 Meter breit und zusammen nicht mehr als die Hälfte der Dachbreite. Dachflächenfenster müssen stehend sein und sind auf der Straßenseite von Vordergebäuden nicht erlaubt. Als Material sieht die Satzung unglasierte Ziegel in Rot- und Brauntönen als Falz-, Pfannen- oder Biberschwanzziegel vor, Kunstschiefer und Faserzementplatten schließt sie aus."
+    },
+    {
+      "h2": "Dächer in den Gesamtanlagen Altstadt und Weststadt",
+      "text": "In der Gesamtanlage Weststadt sind Veränderungen an Dächern genehmigungspflichtig, sobald sie vom öffentlichen Verkehrsraum aus sichtbar sind; die Satzung nennt ausdrücklich Dacheindeckung, Dachaufbauten, Dacheinschnitte und Dachflächenfenster. Die untere Denkmalschutzbehörde entscheidet nach Anhörung des Regierungspräsidiums Karlsruhe. Für Solaranlagen in der Altstadt bezieht die städtische Richtlinie neben dem Stadtbild auch Brandschutz, Windlast, Statik und den Schutz historischer Dachwerke ein. Auf einem Kulturdenkmal ist eine Solaranlage danach zu versagen, wenn dafür der alte Dachstuhl ersetzt oder eine historisch schützenswerte Eindeckung entfernt werden müsste. Ein Dachdecker plant hier also eng mit der Denkmalbehörde."
+    },
+    {
+      "h2": "Gründach und Photovoltaik kombinieren",
+      "text": "Für Flachdächer und Garagen hat die Stadt den Handlungsleitfaden „Heidelberger Dach(g)arten“ veröffentlicht. Er beschreibt, dass begrünte Dächer 50 bis 70 Prozent des Regenwassers zurückhalten und die Kanalisation entlasten, und zeigt drei Varianten, Solarmodule mit Begrünung zu verbinden. Damit die Pflanzen die Module nicht verschatten, sollte deren Unterkante bei mindestens 30 Zentimetern liegen. Der Leitfaden kann in Bebauungsplänen und Baugenehmigungen festgesetzt werden, dient aber auch als Hilfe für freiwillige Gründächer. Das Gewicht von Substrat und Modulen ist bei der Statik zu berücksichtigen. Sobald feststeht, was auf Ihr Dach soll, wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Nach der Gestaltungssatzung Handschuhsheim sind Hauptgebäude in den Teilbereichen A und C bis F nur mit gleichschenkligen Satteldächern von 45 bis 55 Grad Neigung zulässig; einzelne Gauben dürfen höchstens 1,50 m breit sein und zusammen 50 % der Dachbreite nicht überschreiten.",
+      "quelle": "Stadt Heidelberg – Gestaltungssatzung Handschuhsheim (Ortsrecht 6.19)",
+      "url": "https://www.heidelberg.de/site/Heidelberg2021/get/documents_E1567602142/heidelberg/Objektdatenbank/30/PDF/30_pdf_ortsr_6-19_Gestaltungssatzung_Handschuhsheim.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Gestaltungssatzung Handschuhsheim lässt Ziegel in Rot- und Brauntönen (nicht glasiert) als Falz-, Pfannen- oder Biberschwanzziegel zu; Kunstschiefer und Faserzementplatten sind unzulässig, Dachflächenfenster auf straßenseitigen Dachflächen von Vordergebäuden nicht erlaubt.",
+      "quelle": "Stadt Heidelberg – Gestaltungssatzung Handschuhsheim (Ortsrecht 6.19)",
+      "url": "https://www.heidelberg.de/site/Heidelberg2021/get/documents_E1567602142/heidelberg/Objektdatenbank/30/PDF/30_pdf_ortsr_6-19_Gestaltungssatzung_Handschuhsheim.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In der Gesamtanlage Weststadt bedürfen vom öffentlichen Verkehrsraum aus sichtbare Veränderungen an Dächern (z. B. Dacheindeckung, Dachaufbauten, Dacheinschnitte, Dachflächenfenster) der Genehmigung der unteren Denkmalschutzbehörde, die nach Anhörung des Regierungspräsidiums Karlsruhe entscheidet.",
+      "quelle": "Stadt Heidelberg – Gesamtanlagenschutzsatzung Weststadt (Ortsrecht 6.22)",
+      "url": "https://www.heidelberg.de/site/Heidelberg2021/get/documents_E476557905/heidelberg/Objektdatenbank/30/PDF/30_pdf_ortsr_6-22_Gesamtanlagenschutzsatzung_Weststadt_Heidelberg.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die PV-Richtlinie für Alt-Heidelberg bezieht Brandschutz, Windlast, statische Tragfähigkeit und den Substanzschutz historischer Dachwerke ein; auf einem Kulturdenkmal ist die Genehmigung zu versagen, wenn der denkmalgeschützte Dachstuhl ersetzt oder eine schützenswerte Dacheindeckung entfernt werden müsste.",
+      "quelle": "Stadt Heidelberg – Richtlinie Photovoltaik Alt-Heidelberg (Ortsrecht 6.13.1)",
+      "url": "https://www.heidelberg.de/site/Heidelberg2021/get/documents_E305690521/heidelberg/Objektdatenbank/30/PDF/30_pdf_ortsr_6-13-1_Richtlinie_Genehmigung_Photovoltaik_Alt-Heidelberg.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut Handlungsleitfaden der Stadt Heidelberg können Dachbegrünungen 50 bis 70 % des Regenwassers zurückhalten; bei Solar-Gründächern soll die Modulunterkante bei mindestens 30 cm Höhe beginnen.",
+      "quelle": "Stadt Heidelberg – Handlungsleitfaden Dachbegrünung und Photovoltaik (2024)",
+      "url": "https://www.heidelberg.de/site/Heidelberg2021/get/documents_E-669064742/heidelberg/Objektdatenbank/31/PDF/31_pdf_Handlungsleitfaden_Dachbegruenung_Photovoltaik_Heidelberg_2024.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Leitfaden „Heidelberger Dach(g)arten“ kann in der verbindlichen Bauleitplanung und in Baugenehmigungen festgesetzt werden und lässt sich auch für freiwillige Begrünungen heranziehen.",
+      "quelle": "Stadt Heidelberg – Handlungsleitfaden Dachbegrünung und Photovoltaik (2024)",
+      "url": "https://www.heidelberg.de/site/Heidelberg2021/get/documents_E-669064742/heidelberg/Objektdatenbank/31/PDF/31_pdf_Handlungsleitfaden_Dachbegruenung_Photovoltaik_Heidelberg_2024.pdf",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie breit darf eine Gaube in Handschuhsheim sein?",
+      "a": "Nach der Gestaltungssatzung höchstens 1,50 Meter je Gaube, mit mindestens 1 Meter Abstand zum Ortgang und untereinander. Zusammen dürfen die Gauben die Hälfte der Dachbreite nicht überschreiten."
+    },
+    {
+      "q": "Brauche ich in der Heidelberger Weststadt eine Genehmigung für neue Dachziegel?",
+      "a": "Laut Gesamtanlagenschutzsatzung ist eine vom öffentlichen Verkehrsraum aus sichtbare Veränderung der Dacheindeckung genehmigungspflichtig. Zuständig ist die untere Denkmalschutzbehörde der Stadt."
+    },
+    {
+      "q": "Lassen sich Gründach und Solaranlage in Heidelberg kombinieren?",
+      "a": "Ja, der städtische Leitfaden beschreibt dafür drei Varianten. Die Module werden höher aufgeständert, ihre Unterkante liegt bei mindestens 30 Zentimetern."
+    }
+  ],
+  "offen": [
+    "Gestaltungssatzung Handschuhsheim in der Fassung der 27. Ergänzungslieferung (Stand 31.03.2006) gelesen; spätere Änderungen nicht geprüft.",
+    "Städtisches Förderprogramm „Nachhaltiges Wassermanagement“ (u. a. Dachbegrünung) steht laut Stadt im Förderstopp – deshalb nicht genannt.",
+    "Philosophenweg/Gaisberg im Einstieg aus § 3 der Gesamtanlagenschutzsatzungen abgeleitet, nicht als eigener Fakt geführt."
+  ]
+}

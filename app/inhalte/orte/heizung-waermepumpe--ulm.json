@@ -1,0 +1,89 @@
+{
+  "leistung": "heizung-waermepumpe",
+  "ort": "ulm",
+  "ortName": "Ulm",
+  "kreis": "Ulm",
+  "title": "Wärmepumpe Ulm – Heizungsbauer kostenlos vermittelt",
+  "description": "Wärmepumpe und Heizung in Ulm: Eignungsgebiete im Wärmeplan, Nahwärme in Stadtteilen, Erdwärme und untere Wasserbehörde. Heizungsbauer kostenlos vermittelt.",
+  "h1": "Wärmepumpe und Heizung in Ulm",
+  "einstieg": "Die alte Gas- oder Ölheizung soll raus, und die Frage lautet: Wärmepumpe, Fernwärme oder Nahwärme? In Ulm hängt die Antwort stark von der Adresse ab, denn zwei Wärmenetzbetreiber und mehrere kleinere Quartiersnetze prägen das Stadtgebiet. Wer seine Heizung erneuern will, prüft deshalb zuerst den kommunalen Wärmeplan und die Ausbaukarten, bevor Heizungsbauer und Wärmepumpe ins Spiel kommen.",
+  "abschnitte": [
+    {
+      "h2": "Ulmer Wärmeplan: Fokusgebiet, Eignungsgebiet oder Einzelversorgung?",
+      "text": "Der Wärmeplan der Stadt Ulm enthält Karten der Eignungs- und Fokusgebiete für Fernwärme mit den Zeithorizonten 2030 und 2040; über die Suchfunktion lässt sich das eigene Gebäude nach Straße und Hausnummer finden. Fokusgebiete sind Eignungsgebiete mit höherer Priorität. Die Stadt betont zugleich, dass der Plan informell und ohne rechtliche Außenwirkung ist: Ob ein Anschluss tatsächlich möglich ist, prüfen im Einzelfall die Fernwärme Ulm oder die Stadtwerke, und einen gesetzlichen Anspruch auf Anschluss gibt es nicht. Liegt das Haus außerhalb dieser Gebiete, ist eine Wärmepumpe für viele Eigentümer die naheliegende Option. Die Stadtwerke bieten mit dem Wärmekompass eine weitere Karte zu ihrem geplanten Netzausbau und nehmen dort auch Interessenbekundungen aus Straßen ohne Ausbauplanung entgegen."
+    },
+    {
+      "h2": "Erdwärme, Strom für die Wärmepumpe und der alte Öltank",
+      "text": "Für Erdwärmesonden liefert das Informationssystem Oberflächennahe Geothermie des Landesamts für Geologie eine erste Standortbeurteilung mit prognostiziertem Bohrprofil und Hinweisen auf Bohrrisiken. Zuständig für Schutz und Nutzung des Grundwassers ist in Ulm die Abteilung Umweltrecht und Gewerbeaufsicht als untere Wasserbehörde; dieselbe Abteilung nimmt auch Anzeigen zu Heizöltanks nach der AwSV entgegen, etwa wenn eine Tankanlage wesentlich geändert wird. Bei einer Luft-Wärmepumpe rückt dagegen der Stromanschluss in den Vordergrund: Geräte über 4,2 kW gelten als steuerbare Verbrauchseinrichtungen, mehrere Geräte derselben Kategorie samt Heizstab werden addiert. Ein Heizungsbauer klärt das in der Regel mit dem Elektriker und dem Netzbetreiber. Wenn Sie wissen, welche Lösung zu Ihrem Haus passen könnte, schildern Sie Ihr Vorhaben über unser Formular; wir suchen dafür einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Der kommunale Wärmeplan der Stadt Ulm stellt Eignungs- und Fokusgebiete der Fernwärme für 2030 und 2040 dar; ob ein Anschluss möglich ist, prüfen im Einzelfall die Fernwärme Ulm bzw. die Stadtwerke Ulm/Neu-Ulm.",
+      "quelle": "Stadt Ulm – Kommunale Wärmeplanung",
+      "url": "https://www.ulm.de/leben-in-ulm/umwelt-energie-entsorgung/energie-und-klimaschutz/klimaschutz-ulm-und-bw/kommunalewaermeplanung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach Angaben der Stadt ist der Ulmer Wärmeplan ein informeller Plan ohne rechtliche Außenwirkung; ein gesetzlicher Anspruch auf einen Anschluss an das Fernwärmenetz besteht nicht.",
+      "quelle": "Stadt Ulm – Kommunale Wärmeplanung",
+      "url": "https://www.ulm.de/leben-in-ulm/umwelt-energie-entsorgung/energie-und-klimaschutz/klimaschutz-ulm-und-bw/kommunalewaermeplanung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Ulm/Neu-Ulm betreiben in Ulmer Stadtteilen eigene Nahwärmenetze, unter anderem in Böfingen, Jungingen, Einsingen, Donaustetten/Gögglingen und im Wengenholz in Lehr, und veröffentlichen dafür Primärenergiefaktoren.",
+      "quelle": "Stadtwerke Ulm/Neu-Ulm – Kennzahlen Wärmenetze",
+      "url": "https://www.swu.de/privatkunden/produkte-leistungen/waerme/liefervertrag/waermenetze",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Wärmekompass der Stadtwerke Ulm/Neu-Ulm ist zu sehen, wo Fernwärme verfügbar ist und wo ein Ausbau geplant ist; für die Anschlussprüfung nennen die Stadtwerke eine Heizlastberechnung nach DIN EN 12831 als hilfreiche Grundlage.",
+      "quelle": "Stadtwerke Ulm/Neu-Ulm – Wärmekompass",
+      "url": "https://www.swu.de/privatkunden/produkte-leistungen/waerme/anschluss/waermekompass",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Abteilung Umweltrecht und Gewerbeaufsicht der Stadt Ulm ist untere Wasserbehörde und zuständig für Schutz und Nutzung des Grundwassers.",
+      "quelle": "Stadt Ulm – Wasser, das blaue Gold",
+      "url": "https://www.ulm.de/leben-in-ulm/umwelt-energie-entsorgung/wasser/wasser-das-blaue-gold",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Errichtung oder wesentliche Änderung von Heizöltankanlagen ist in Ulm nach § 40 AwSV anzuzeigen; Ansprechpartner ist die Abteilung Umweltrecht und Gewerbeaufsicht.",
+      "quelle": "Stadt Ulm – Wassergefährdende Stoffe",
+      "url": "https://www.ulm.de/leben-in-ulm/umwelt-energie-entsorgung/wasser/wassergef%C3%A4hrdende-stoffe",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Informationssystem Oberflächennahe Geothermie (ISONG) des LGRB liefert für einen konkreten Standort Angaben zum geothermischen Potenzial, zu Einschränkungen für Erdwärmesonden-Bohrungen und ein prognostiziertes Bohrprofil.",
+      "quelle": "LGRB Baden-Württemberg – ISONG",
+      "url": "https://lgrb-bw.de/geologischer-dienst/geothermie/isong",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Wärmepumpen und Klimaanlagen über 4,2 kW Netzanschlussleistung fallen unter die Regelung zu steuerbaren Verbrauchseinrichtungen; mehrere kleinere Anlagen derselben Kategorie, auch Heizstäbe, werden dabei addiert.",
+      "quelle": "Stadtwerke Ulm/Neu-Ulm Netze – Steuerbare Verbrauchseinrichtungen",
+      "url": "https://www.ulm-netze.de/netze-der-zukunft/steuerbare-verbrauchseinrichtungen",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie finde ich heraus, ob mein Haus in Ulm im Fernwärme-Eignungsgebiet liegt?",
+      "a": "Der Wärmeplan der Stadt Ulm enthält eine interaktive Karte, in der Sie Ihr Gebäude nach Straße und Hausnummer suchen können. Verbindlich ist die Karte nicht; die Anschlussprüfung erfolgt im Einzelfall durch den Netzbetreiber."
+    },
+    {
+      "q": "Wer ist in Ulm für Erdwärmesonden zuständig?",
+      "a": "Für Schutz und Nutzung des Grundwassers ist in Ulm die Abteilung Umweltrecht und Gewerbeaufsicht als untere Wasserbehörde zuständig. Eine erste Standorteinschätzung liefert das ISONG-Portal des LGRB."
+    },
+    {
+      "q": "Gibt es in Ulm Nahwärmenetze außerhalb der Innenstadt?",
+      "a": "Ja, die Stadtwerke Ulm/Neu-Ulm betreiben unter anderem Nahwärmenetze in Böfingen, Jungingen, Einsingen, Donaustetten/Gögglingen und im Wengenholz in Lehr."
+    }
+  ],
+  "offen": [
+    "Lettenwald, Lindenhöhe, Ochsensteige (SWU-Netze) nicht genannt, da Zuordnung zu Ulm oder Neu-Ulm nicht sicher.",
+    "Wärmeplan nennt Übergang EWärmeG/GEG mit Datumsangaben – bewusst nicht übernommen (datierte Rechtslage).",
+    "Ulmer Energieförderprogramm seit 01.09.2026 gestoppt – nicht erwähnt."
+  ]
+}

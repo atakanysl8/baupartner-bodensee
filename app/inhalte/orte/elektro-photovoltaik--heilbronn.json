@@ -1,0 +1,93 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "heilbronn",
+  "ortName": "Heilbronn",
+  "kreis": "Heilbronn",
+  "title": "Elektriker Heilbronn – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Heilbronn gesucht? Netzanschlussportal der NHF, Wallbox nach § 14a EnWG, PV und Speicher. Passender Fachbetrieb kostenlos vermittelt.",
+  "h1": "Elektriker in Heilbronn",
+  "einstieg": "Ein neuer Zählerschrank im Altbau, eine Wallbox in der Garage oder eine Solaranlage mit Speicher auf dem Reihenhaus: Wer einen Elektriker in Heilbronn sucht, hat es neben der Technik auch mit dem örtlichen Verteilnetzbetreiber zu tun. Dessen Anmeldewege haben sich zuletzt deutlich verändert, und für Wärmepumpen und Ladepunkte gelten neue Regeln zur Steuerbarkeit.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker Heilbronn: Anmeldung beim Netzbetreiber läuft digital",
+      "text": "Für Netzanfragen zu Photovoltaikanlagen verweist die Stadt Heilbronn auf die NHF Netzgesellschaft Heilbronn-Franken. Dort laufen Neuanschlüsse, Leistungserhöhungen am bestehenden Hausanschluss und die Anfrage für eine Erzeugungsanlage über ein Netzanschlussportal, nach Angaben der NHF inzwischen ausschließlich. Eingetragene Elektrofachkräfte können dort zusätzlich Inbetriebsetzungen und Plombieraufträge abwickeln. Für Anlagen am Niederspannungsnetz nennt die NHF die Anwendungsregel VDE-AR-N 4105 als technischen Maßstab. Anders bei steckerfertigen Balkonmodulen: Hier reicht laut NHF der Eintrag im Marktstammdatenregister der Bundesnetzagentur."
+    },
+    {
+      "h2": "Wallbox und Wärmepumpe: steuerbar nach § 14a EnWG",
+      "text": "Wer in Heilbronn eine Ladestation für das Elektroauto, eine Wärmepumpe oder einen Batteriespeicher mit mehr als 4,2 kW installieren lässt, fällt unter die Neuregelung der Bundesnetzagentur zu steuerbaren Verbrauchseinrichtungen. Nach den Informationen der NHF darf der Netzbetreiber die Leistung solcher Geräte bei hoher Netzauslastung vorübergehend begrenzen; im Gegenzug sind reduzierte Netzentgelte vorgesehen, wahlweise als Pauschale oder als prozentualer Abschlag. Die Inbetriebsetzung übernimmt eine eingetragene Elektrofachkraft, die das Gerät bei der NHF meldet. Bei Altbauten mit kleinem Zählerschrank ist deshalb oft zuerst zu klären, ob Platz für Steuertechnik und zusätzliche Zählerplätze vorhanden ist."
+    },
+    {
+      "h2": "Solarstrom vom eigenen Dach: Beratung in der Stadt",
+      "text": "Heilbronn will bis 2035 treibhausgasneutral werden, und nach Angaben der Stadt gehört die Hälfte der Solaranlagen im Stadtgebiet Privatleuten. Vor der Planung lohnt ein Blick in das Solardachkataster im Energieatlas Baden-Württemberg. Anbieterneutrale Beratung gibt es an zwei Stellen: bei der Energieagentur Heilbronn in der Lohtorstraße und bei der ehrenamtlichen Bürgersolarberatung, die vor allem Ein- und Zweifamilienhäuser berät, aber keine Handwerker vermittelt. Haben Sie Ihr Vorhaben geklärt, beschreiben Sie es in unserem Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Nach Angaben der Stadt Heilbronn befindet sich die Hälfte der Photovoltaikanlagen im Stadtgebiet im direkten Eigentum von Privatpersonen, inzwischen über 3.000 Anlagen.",
+      "quelle": "Stadt Heilbronn – Solarstrom für die Bürgerschaft",
+      "url": "https://www.heilbronn.de/umwelt-mobilitaet/energie/solarenergie-photovoltaik/solarstrom-fuer-die-buergerschaft.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die NHF Netzgesellschaft Heilbronn-Franken nimmt Anträge zum Netzanschluss seit 3. November 2025 ausschließlich über ihr Netzanschlussportal an, auch für Änderungen wie eine Leistungserhöhung.",
+      "quelle": "NHF Netzgesellschaft Heilbronn-Franken – Netzanschlussportal",
+      "url": "https://www.n-hf.de/netzanschluss/strom/neuanschluesse-anschlussaenderung/netzanschlussportal.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Steckerfertige Photovoltaikanlagen („Balkonkraftwerke“) werden laut NHF nur noch im Marktstammdatenregister der Bundesnetzagentur registriert; eine zusätzliche Anmeldung beim Netzbetreiber entfällt.",
+      "quelle": "NHF Netzgesellschaft Heilbronn-Franken – Netzanschlussportal",
+      "url": "https://www.n-hf.de/netzanschluss/strom/neuanschluesse-anschlussaenderung/netzanschlussportal.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Wärmepumpen, Ladeeinrichtungen und Batteriespeicher über 4,2 kW, die seit dem 1. Januar 2024 in Betrieb gehen, gelten nach § 14a EnWG als steuerbare Verbrauchseinrichtungen; ihre Inbetriebsetzung erfolgt durch eine eingetragene Elektrofachkraft und wird an die NHF gemeldet.",
+      "quelle": "NHF Netzgesellschaft Heilbronn-Franken – Neuregelung § 14a EnWG",
+      "url": "https://www.n-hf.de/netzanschluss/strom/neuanschluesse-anschlussaenderung/neuregelung-14a-enwg.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Erzeugungsanlagen am Niederspannungsnetz sind nach Angabe der NHF nach der VDE-Anwendungsregel VDE-AR-N 4105 zu errichten; die Anfrage läuft über das Netzanschlussportal.",
+      "quelle": "NHF Netzgesellschaft Heilbronn-Franken – Erzeugungsanlagen am Nieder- und Mittelspannungsnetz",
+      "url": "https://www.n-hf.de/einspeisung/strom/erzeugungsanlagen-am-nieder-und-mittelspannungsnetz.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Bürgersolarberatung Heilbronn berät ehrenamtlich, kostenlos und unabhängig zur eigenen PV-Anlage mit Schwerpunkt Ein- und Zweifamilienhaus; Steuerberatung und Handwerkervermittlung gehören nicht zum Angebot.",
+      "quelle": "Stadt Heilbronn – Bürgersolarberatung Heilbronn",
+      "url": "https://www.heilbronn.de/umwelt-mobilitaet/energie/solarenergie-photovoltaik/solarstrom-fuer-die-buergerschaft/buergersolarberatung-heilbronn.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Rund 40 Prozent der Treibhausgasemissionen im Heilbronner Stadtgebiet entfallen laut städtischem Klimaschutz-Monitoring auf den Strom.",
+      "quelle": "Stadt Heilbronn – Klimaschutz-Monitoring Photovoltaik",
+      "url": "https://klimaschutz.heilbronn.de/monitoring/massnahmen/photovoltaik",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Solardachkataster des Energieatlas Baden-Württemberg lässt sich über die Ortssuche die mögliche PV-Leistung einzelner Dachflächen anzeigen.",
+      "quelle": "Energieatlas Baden-Württemberg – Solarpotenzial auf Dachflächen",
+      "url": "https://www.energieatlas-bw.de/sonne/dachflachen/solarpotenzial-auf-dachflachen",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Bei wem wird in Heilbronn eine neue PV-Anlage oder Wallbox angemeldet?",
+      "a": "Die Stadt Heilbronn verweist für Netzanfragen auf die NHF Netzgesellschaft Heilbronn-Franken, bei der Anträge über das Netzanschlussportal laufen. Die Inbetriebsetzung meldet in der Regel die eingetragene Elektrofachkraft."
+    },
+    {
+      "q": "Muss ich ein Balkonkraftwerk in Heilbronn beim Netzbetreiber anmelden?",
+      "a": "Nach Angaben der NHF genügt die Registrierung im Marktstammdatenregister der Bundesnetzagentur; eine zusätzliche Anmeldung bei der NHF ist nicht vorgesehen."
+    },
+    {
+      "q": "Wo bekomme ich in Heilbronn eine neutrale Beratung zur Solaranlage?",
+      "a": "Bei der Energieagentur Heilbronn in der Lohtorstraße 24 sowie bei der ehrenamtlichen Bürgersolarberatung, die über die Stadt erreichbar ist. Beide verkaufen keine Anlagen."
+    }
+  ],
+  "offen": [
+    "Dass die NHF in allen Heilbronner Stadtteilen Verteilnetzbetreiberin ist, steht nicht wörtlich auf einer Quelle; belegt ist nur, dass die Stadt für PV-Netzanfragen auf die NHF verweist. Formulierung entsprechend vorsichtig.",
+    "Die Angabe der NHF zur Bearbeitungsdauer der Netzverträglichkeitsprüfung (bis zu acht Wochen) wurde bewusst weggelassen (Momentangabe).",
+    "Datum 3. November 2025 aus der NHF-Seite übernommen; da es in der Vergangenheit liegt, keine Fristaussage."
+  ]
+}

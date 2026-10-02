@@ -1,0 +1,99 @@
+{
+  "leistung": "maler-fliesen-boeden",
+  "ort": "wiesloch",
+  "ortName": "Wiesloch",
+  "kreis": "Rhein-Neckar-Kreis",
+  "title": "Maler & Fliesenleger Wiesloch – kostenlos vermittelt",
+  "description": "Maler und Fliesenleger in Wiesloch: hartes Wasser für Bad und Küche, Altstadt und Denkmal, Farbreste richtig entsorgen. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Maler und Fliesenleger in Wiesloch",
+  "einstieg": "Ein neues Bad im Reihenhaus in Frauenweiler, frische Wandfarbe in der Altbauwohnung in der Altstadt oder ein neuer Fassadenanstrich in Baiertal: In Wiesloch sind Maler und Fliesenleger oft gemeinsam gefragt. Mit dem Wasser aus den eigenen Tiefbrunnen, der historischen Altstadt und den Angeboten von Stadt und Kreis gibt es dabei ein paar örtliche Besonderheiten.",
+  "abschnitte": [
+    {
+      "h2": "Fliesen in Bad und Küche: Wieslocher Wasser ist hart",
+      "text": "Die Stadtwerke Wiesloch fördern das Trinkwasser aus Tiefbrunnen in Wasserschutzzonen und entziehen ihm im Wasserwerk Eisen und Mangan; Calcium und Magnesium bleiben enthalten. Nach Angabe der Stadtwerke liegt die Härte in Wiesloch und Baiertal bei 23 °dH, in Schatthausen bei 21,7 °dH, beides im Härtebereich hart. Für Fliesenleger ist das ein Planungsdetail: Großformatige Fliesen mit wenigen Fugen, glatte Oberflächen in der Dusche und gut zu reinigende Fugenmaterialien erleichtern den Alltag mit Kalk. Ein Fliesenleger kann vor Ort einschätzen, welches Material für die Nutzung passt."
+    },
+    {
+      "h2": "Maler in Wiesloch: Altstadt, Denkmal und Energieberatung",
+      "text": "Als Große Kreisstadt ist Wiesloch selbst für das Baurecht zuständig, nicht das Landratsamt. Für die Altstadt hat die Stadt eigene Teilbebauungspläne von Block 1 bis Block 7 und eine Altstadtsatzung veröffentlicht. Wer ein Kulturdenkmal streichen oder verputzen lassen möchte, sollte wissen, dass Maßnahmen, die das Erscheinungsbild beeinträchtigen können, nach Darstellung der Stadt von der Denkmalschutzbehörde zu genehmigen sind, auch ohne Baugenehmigung. Soll unter dem neuen Anstrich gedämmt werden, berät die KLiBA im Auftrag der Stadt kostenfrei zur energetischen Altbaumodernisierung, mit regelmäßigen Sprechstunden im Rathaus."
+    },
+    {
+      "h2": "Farbreste und Schadstoffe: was der Kreis annimmt",
+      "text": "Für Lackreste, Lasuren, Spachtelmassen und Klebstoffe aus Wieslocher Haushalten ist das Schadstoffmobil der AVR Kommunal zuständig, das an festen Terminen auf den AVR-Anlagen steht. Reine Dispersionsfarbe gilt dagegen nicht als Schadstoff. Bei Arbeiten an älteren Belägen mit Verdacht auf Schadstoffe ist im Kreis das Amt für Gewerbeaufsicht und Umweltschutz des Landratsamts Ansprechpartner für den Arbeitsschutz. Schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Laut Stadtwerke Wiesloch beträgt die Wasserhärte für Wiesloch und Baiertal 4,10 mmol/l bzw. 23 °dH und für Schatthausen 3,88 mmol/l bzw. 21,7 °dH, jeweils Härtebereich 3 (hart); verlinkt sind die Trinkwasseranalysen 2024.",
+      "quelle": "Stadtwerke Wiesloch – Wasserqualität",
+      "url": "https://www.stadtwerke-wiesloch.de/pb/450416.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Wieslocher Trinkwasser wird aus Tiefbrunnen mit Wasserschutzzonen gefördert; im Wasserwerk werden Eisen und Mangan durch Sauerstoffzugabe entzogen, Calcium, Magnesium und Fluorid bleiben enthalten.",
+      "quelle": "Stadtwerke Wiesloch – Trinkwasser",
+      "url": "https://www.stadtwerke-wiesloch.de/pb/450408.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Baurechtsamt des Landratsamts Rhein-Neckar-Kreis bearbeitet Baugesuche aus 38 Städten und Gemeinden; die Großen Kreisstädte, darunter Wiesloch, haben eine eigene Zuständigkeit.",
+      "quelle": "Landratsamt Rhein-Neckar-Kreis – Baurechtsamt",
+      "url": "https://www.rhein-neckar-kreis.de/landratsamt/aemter-und-aufgaben/baurechtsamt",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Wiesloch veröffentlicht für die Altstadt Teilbebauungspläne „Altstadt Block 1“ bis „Block 7“ sowie die Planzeichnung einer Altstadtsatzung.",
+      "quelle": "Stadt Wiesloch – Bebauungspläne",
+      "url": "https://www.wiesloch.de/bauen--stadtentwicklung/bauen/bebauungsplaene",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Maßnahmen an einem Kulturdenkmal, die in die Substanz eingreifen oder das Erscheinungsbild beeinträchtigen können, bedürfen laut Dienstleistungsbeschreibung der Stadt Wiesloch der Genehmigung der Denkmalschutzbehörde, unabhängig davon, ob eine Baugenehmigung nötig ist.",
+      "quelle": "Stadt Wiesloch – Denkmalrechtliche Genehmigung beantragen",
+      "url": "https://www.wiesloch.de/-/dienstleistungen/denkmalschutz---denkmalrechtliche-genehmigung-beantragen/vbid1283",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die KLiBA berät im Auftrag der Stadt Wiesloch Bürgerinnen und Bürger kostenfrei, unter anderem zur energetischen Altbaumodernisierung; ein Energieberater ist alle zwei Wochen mittwochs im Rathaus.",
+      "quelle": "Stadt Wiesloch – Beratungen zu Energie und Photovoltaik",
+      "url": "https://www.wiesloch.de/umwelt--mobilitaet/klimaschutz/energieberatung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Beim Schadstoffmobil der AVR Kommunal können Lacke, Lasuren, Kitte, Spachtelmassen und Klebstoffe in haushaltsüblichen Mengen kostenlos abgegeben werden; Dispersionsfarben gelten nicht als Schadstoff und gehören ausgetrocknet in den Restmüll.",
+      "quelle": "AVR Kommunal AöR (Rhein-Neckar-Kreis) – Schadstoffe",
+      "url": "https://www.avr-kommunal.de/leistungen/abfaelle/schadstoffe",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Amt für Gewerbeaufsicht und Umweltschutz des Landratsamts Rhein-Neckar-Kreis ist im technischen Arbeitsschutz unter anderem für den sicheren Umgang mit Gefahrstoffen und die Sicherheit auf Baustellen zuständig.",
+      "quelle": "Landratsamt Rhein-Neckar-Kreis – Amt für Gewerbeaufsicht und Umweltschutz",
+      "url": "https://www.rhein-neckar-kreis.de/landratsamt/aemter-und-aufgaben/amt-fuer-gewerbeaufsicht-und-umweltschutz",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Leitungswasser in Wiesloch?",
+      "a": "Die Stadtwerke Wiesloch geben für Wiesloch und Baiertal 23 °dH und für Schatthausen 21,7 °dH an. Beides liegt im Härtebereich hart."
+    },
+    {
+      "q": "Ist in Wiesloch die Stadt oder das Landratsamt für Baurecht zuständig?",
+      "a": "Wiesloch hat als Große Kreisstadt eine eigene Baurechtszuständigkeit. Auskunft zu Vorhaben in der Altstadt gibt deshalb die Stadtverwaltung."
+    },
+    {
+      "q": "Wohin mit Lackresten nach dem Streichen in Wiesloch?",
+      "a": "Lacke, Lasuren und Spachtelmassen nimmt das Schadstoffmobil der AVR Kommunal an festen Terminen kostenlos an. Dispersionsfarbe lässt man nach Angabe der AVR austrocknen und gibt sie in den Restmüll."
+    },
+    {
+      "q": "Gibt es in Wiesloch eine kostenlose Beratung zur Fassadendämmung?",
+      "a": "Die KLiBA berät im Auftrag der Stadt kostenfrei zur energetischen Altbaumodernisierung, mit Sprechstunden im Rathaus nach telefonischer Anmeldung."
+    }
+  ],
+  "offen": [
+    "Inhalt der Altstadtsatzung (nur Planzeichnung, OCR nicht lesbar) und der Block-Bebauungspläne nicht ausgewertet; keine Aussage zu Farb- oder Putzvorgaben möglich.",
+    "Denkmal-Fakt stammt aus der Service-BW-Dienstleistungsbeschreibung auf wiesloch.de (landesweit gleichlautend), nicht aus eigenem städtischen Text.",
+    "Keine eigene Gestaltungssatzung oder Fassadenprogramm der Stadt Wiesloch gefunden.",
+    "Tipps zu großformatigen Fliesen/Fugen sind fachliche Allgemeinaussagen, nicht belegt.",
+    "Stadtteile im Einstieg (Frauenweiler, Baiertal) als Beispiele, nicht belegt."
+  ]
+}

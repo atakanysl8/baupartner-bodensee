@@ -1,0 +1,82 @@
+{
+  "leistung": "maler-fliesen-boeden",
+  "ort": "ravensburg",
+  "ortName": "Ravensburg",
+  "kreis": "Ravensburg",
+  "title": "Maler & Fliesenleger Ravensburg – kostenlos vermittelt",
+  "description": "Maler und Fliesenleger in Ravensburg: Fassadenfarbe, Putz und Fachwerk nach Stadtbildsatzung der Altstadt, Erhaltungssatzungen, Beirat. Kostenlos vermittelt.",
+  "h1": "Maler und Fliesenleger in Ravensburg",
+  "einstieg": "Ein frischer Anstrich für das Bürgerhaus am Marienplatz, neue Fliesen im Bad eines Reihenhauses in der Südstadt oder ein Parkettboden in der Altbauwohnung: Maler- und Fliesenarbeiten wirken auf den ersten Blick wie reine Handwerksfragen. In der Ravensburger Altstadt kommen bei allem, was außen sichtbar ist, städtische Gestaltungsvorgaben hinzu, die schon seit Jahrzehnten gelten.",
+  "abschnitte": [
+    {
+      "h2": "Fassade streichen in der Altstadt: was die Stadtbildsatzung regelt",
+      "text": "Für die gesamte Altstadt innerhalb der früheren Stadtbefestigung gilt die Allgemeine Stadtbildsatzung von 1976. Sie sieht vor, dass Obergeschosse verputzt werden und historisches Sichtfachwerk erhalten bleibt, bei Renovierungen sogar freigelegt wird. Fensterläden, Stuckgliederungen und Fassadenmalereien sind zu erhalten oder wiederherzustellen. Für die Farbe gilt ein offener Maßstab: Außenfarben von Fassaden, Fenstern und Markisen dürfen den Altstadtcharakter nicht beeinträchtigen. Am Erdgeschoss lässt die Satzung Putz, rauen heimischen Naturstein oder geschlämmtes Mauerwerk zu. Nach ihrem Wortlaut bedürfen alle Veränderungen der äußeren Gestaltung einer Baugenehmigung. Vor dem Farbmuster an der Hauswand lohnt deshalb die Klärung mit dem Baudezernat."
+    },
+    {
+      "h2": "Erhaltungssatzungen, Beirat und Sanierungsgebiet",
+      "text": "Neben der Altstadt hat Ravensburg Erhaltungssatzungen für die Nordstadt, den Hirschgraben und den Bereich Eisenbahnstraße/Karlstraße erlassen. In der Altstadt bedarf nach der Erhaltungssatzung von 1990 jede Änderung baulicher Anlagen einer vorherigen Genehmigung. Gestalterische Fragen kann die Stadt dem Beirat für Städtebau vorlegen, dem neben Gemeinderäten und externen Fachleuten zwei Vertreter des Bürgerforums Altstadt angehören. Im Sanierungsgebiet „Altstadt und Erweiterung“ unterstützt die Stadt private Eigentümer bei Gebäudesanierungen, unter anderem mit Modernisierungs- und Instandsetzungsverträgen. Wenn Sie Ihr Vorhaben über unser Formular schildern, wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
+    },
+    {
+      "h2": "Innen: Fliesen und Böden ohne Satzungsfragen",
+      "text": "Für Arbeiten im Inneren greifen die Gestaltungssatzungen nicht, solange nichts am äußeren Erscheinungsbild geändert wird. Anders kann es bei Kulturdenkmalen sein, bei denen auch Ausstattung im Inneren geschützt sein kann. Im Altbau prüfen Fliesenleger und Bodenleger vor dem Verlegen in der Regel die Ebenheit und Tragfähigkeit des Untergrunds, besonders bei alten Holzbalkendecken, wie sie in Häusern der Oberstadt häufig sind. Wer Maler, Fliesenleger und Bodenleger hintereinander einsetzt, legt die Reihenfolge sinnvollerweise so fest, dass Anstrich und Bodenbelag sich nicht gegenseitig beschädigen."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Nach § 7 der Allgemeinen Stadtbildsatzung für die Altstadt sind Obergeschosse zu verputzen; historisches Sichtfachwerk ist zu erhalten und bei Umbau- oder Renovierungsmaßnahmen freizulegen.",
+      "quelle": "Stadt Ravensburg – Allgemeine Stadtbildsatzung (S-6-01)",
+      "url": "https://www.ravensburg.de/rv-wAssets/pdf/buergerservice-verwaltung/S-6-01-Allgemeine-Stadtbildsatzung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Außenfarben der Fassaden und dazugehöriger Teile wie Markisen, Fenster und Schaufenster dürfen laut Stadtbildsatzung den Altstadtcharakter nicht beeinträchtigen; am Erdgeschoss sind Verputz, rauer heimischer Naturstein oder geschlämmtes Mauerwerk zulässig.",
+      "quelle": "Stadt Ravensburg – Allgemeine Stadtbildsatzung (S-6-01)",
+      "url": "https://www.ravensburg.de/rv-wAssets/pdf/buergerservice-verwaltung/S-6-01-Allgemeine-Stadtbildsatzung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Erhaltungssatzung „Altstadt“ vom 25.06.1990 umfasst die gesamte Altstadt; dort bedürfen Errichtung, Abbruch, Änderung oder Nutzungsänderung baulicher Anlagen der vorherigen Genehmigung.",
+      "quelle": "Stadt Ravensburg – Erhaltungssatzung Altstadt (S-6-10)",
+      "url": "https://www.ravensburg.de/rv-wAssets/pdf/buergerservice-verwaltung/S-6-10-Erhaltungssatzung-Altstadt.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Ravensburger Stadtrecht führt neben der Altstadt Erhaltungssatzungen für Eisenbahnstraße/Karlstraße, Hirschgraben und Nordstadt.",
+      "quelle": "Stadt Ravensburg – Stadtrecht",
+      "url": "https://www.ravensburg.de/rv/buergerservice-verwaltung/stadtverwaltung/stadtrecht.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Beirat für Städtebau soll unter anderem das Stadtbild verbessern und Architekten und Bauherren beraten; ihm gehören auch zwei Vertreter des Bürgerforums Altstadt an.",
+      "quelle": "Stadt Ravensburg – Geschäftsordnung des Beirates für Städtebau (S-6-18)",
+      "url": "https://www.ravensburg.de/rv-wAssets/pdf/buergerservice-verwaltung/S-6-18-Geschaeftsordnung-des-Beirates-fuer-Stadtgestaltung-der-Stadt-RV.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Zu den Zielen im Sanierungsgebiet „Altstadt und Erweiterung“ gehört die Erhaltung stadtbildprägender Bausubstanz und die Unterstützung privater Eigentümer bei Gebäudesanierungen, unter anderem durch Modernisierungs- und Instandsetzungsverträge.",
+      "quelle": "Stadt Ravensburg – Altstadt und Erweiterung",
+      "url": "https://www.ravensburg.de/rv/wirtschaft-planen-bauen/stadtentwicklung-stadtsanierung/altstadt-erweiterung.php",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf ich mein Haus in der Ravensburger Altstadt in jeder Farbe streichen?",
+      "a": "Die Stadtbildsatzung nennt keine Farbpalette, verlangt aber, dass Außenfarben den Altstadtcharakter nicht beeinträchtigen. Veränderungen der äußeren Gestaltung sind laut Satzung genehmigungspflichtig; Auskunft gibt das Baudezernat."
+    },
+    {
+      "q": "Was gilt für Fachwerk an Ravensburger Altstadthäusern?",
+      "a": "Historisches Sichtfachwerk ist nach der Stadtbildsatzung zu erhalten und bei Renovierungen freizulegen. Neues Holzfachwerk kann im Einzelfall zugelassen werden."
+    },
+    {
+      "q": "Gibt es außerhalb der Altstadt Gestaltungsvorgaben?",
+      "a": "Ravensburg hat weitere Erhaltungssatzungen, etwa für die Nordstadt und den Hirschgraben. Ob ein Grundstück betroffen ist, klärt man bei der Stadt."
+    }
+  ],
+  "offen": [
+    "Bewilligungszeitraum des Sanierungsgebiets (bis 30.04.2029) bewusst nicht genannt (datierte Angabe).",
+    "Aussage zu geschützter Innenausstattung bei Kulturdenkmalen allgemein, ohne Ravensburger Quelle.",
+    "Hinweise zu Holzbalkendecken und Arbeitsreihenfolge sind allgemeine Fachaussagen ohne Quelle; Oberstadt/Südstadt nur Beispiele.",
+    "Erhaltungssatzungen Nordstadt, Hirschgraben, Eisenbahnstraße/Karlstraße nur im Verzeichnis gesehen, nicht inhaltlich geöffnet."
+  ]
+}

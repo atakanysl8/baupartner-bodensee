@@ -1,0 +1,86 @@
+{
+  "leistung": "dach-fassade",
+  "ort": "esslingen",
+  "ortName": "Esslingen",
+  "kreis": "Esslingen",
+  "title": "Dachdecker Esslingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Dachdecker in Esslingen am Neckar: Dachdeckung und Dämmung in der Gesamtanlage, Hitzeinseln, Starkregen in der Tallage, neutrale Beratung. Kostenlos vermittelt.",
+  "h1": "Dachdecker in Esslingen",
+  "einstieg": "Von den Weinberghängen aus sieht man über Esslingen vor allem eines: Dächer. Wer einen Dachdecker in Esslingen sucht, um ein Dach neu einzudecken, zu dämmen oder eine Fassade zu erneuern, sollte deshalb wissen, dass die Stadt genau dieses Bild schützt. Dazu kommen Hitze unter dem Dach und heftigere Regengüsse, mit denen die Stadt in ihrer Tallage rechnet.",
+  "abschnitte": [
+    {
+      "h2": "Neue Eindeckung in der Gesamtanlage: auch ohne Bauantrag genehmigungspflichtig",
+      "text": "Die Satzung über die Gesamtanlage „Esslingen am Neckar“ schützt ausdrücklich auch das Bild, das sich von den umgebenden Hängen bietet. Genehmigungspflichtig bei der Stadt als unterer Denkmalschutzbehörde sind laut § 4 auch Vorhaben, die keine Baugenehmigung brauchen, darunter Bedachungen einschließlich Maßnahmen der Wärmedämmung sowie Anlagen zur photovoltaischen und thermischen Solarnutzung. Bei eingetragenen Kulturdenkmalen bedarf schon die Instandsetzung der Genehmigung. Welche Ziegel, Farben und Dämmaufbauten dort in Frage kommen, klärt die Denkmalschutzbehörde."
+    },
+    {
+      "h2": "Hitze unterm Dach: Hotspots in Innenstadt, Mettingen und Zell",
+      "text": "Nach dem Klimaschutzkonzept der Stadt lag die Jahresmitteltemperatur 1990 bis 2019 bereits 1,5 °C über dem Mittel von 1881 bis 2010. Tagsüber bilden sich Hitze-Hotspots in der Innenstadt, in Mettingen, Berkheim und Zell, nachts zusätzlich in der Pliensauvorstadt und Teilen von Oberesslingen. Gleichzeitig regnet es seltener, aber heftiger; wegen der Tallage rechnet die Stadt mit Starkregenrisiken in nahezu allen Stadtteilen. Für Dachgeschosswohnungen werden damit sommerlicher Wärmeschutz, Dachentwässerung und Anschlüsse an Gauben und Fenster wichtiger."
+    },
+    {
+      "h2": "Sanieren mit Plan: Wärmeplanung und Beratung",
+      "text": "Im Zielszenario der städtischen Wärmeplanung sinkt der Wärmebedarf in Esslingen bis 2040 durch Gebäudesanierung um 25 Prozent; Dach und Fassade sind dabei zentrale Bauteile. Für die Planung verweist die Klimaschutzagentur des Landkreises auf den Sanierungsleitfaden Baden-Württemberg und Merkblätter von Zukunft Altbau, unter anderem zur Wärmedämmung. Wenn Sie wissen, was gemacht werden soll, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Nach § 4 der Satzung über die Gesamtanlage „Esslingen am Neckar“ sind Bedachungen einschließlich Maßnahmen der Wärmedämmung sowie Anlagen zur photovoltaischen und thermischen Solarnutzung genehmigungspflichtig, auch wenn sie keiner Baugenehmigung bedürfen.",
+      "quelle": "Stadt Esslingen am Neckar – Ortsrecht 6/3, Satzung Gesamtanlage",
+      "url": "https://www.esslingen.de/site/Esslingen_Layout_2022/get/documents_E501927659/es/Datenquelle-Esslingen-2022/Ortsrecht/6_Bau_Wohnungswesen/Ortsrecht%20ES%20Internet%206-3.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ein eingetragenes Kulturdenkmal darf nur mit Genehmigung der städtischen Denkmalschutzbehörde wiederhergestellt oder instand gesetzt werden; auch seine Umgebung gilt als schutzwürdig.",
+      "quelle": "Stadt Esslingen am Neckar – Denkmalschutz",
+      "url": "https://www.esslingen.de/wohnen-und-bauen/denkmalschutz",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Jahresmitteltemperatur in Esslingen stieg im Zeitraum 1990–2019 gegenüber 1881–2010 bereits um 1,5 °C.",
+      "quelle": "Stadt Esslingen am Neckar – Klimaanpassung",
+      "url": "https://www.esslingen.de/mobilitaet-und-klimaschutz/klima-und-umwelt/klimaanpassung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Tagsüber treten Hitze-Hotspots in der Innenstadt, in Mettingen, Berkheim und Zell auf, nachts in der gesamten Innenstadt, der Pliensauvorstadt und Teilen von Oberesslingen.",
+      "quelle": "Stadt Esslingen am Neckar – Klimaanpassung",
+      "url": "https://www.esslingen.de/mobilitaet-und-klimaschutz/klima-und-umwelt/klimaanpassung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Wegen der Tallage und heftigerer Niederschläge rechnet die Stadt Esslingen mit einem steigenden Starkregenrisiko, das zu Überflutungen in nahezu allen Stadtteilen führen kann.",
+      "quelle": "Stadt Esslingen am Neckar – Klimaanpassung",
+      "url": "https://www.esslingen.de/mobilitaet-und-klimaschutz/klima-und-umwelt/klimaanpassung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Zielszenario der Esslinger Wärmeplanung reduziert sich der gesamte Wärmebedarf bis 2040 durch Gebäudesanierung um 25 Prozent.",
+      "quelle": "Stadt Esslingen am Neckar – FAQ Kommunale Wärmeplanung",
+      "url": "https://www.esslingen.de/mobilitaet-und-klimaschutz/klima-und-umwelt/klimaschutzstrategie/faq-waermeplanung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Klimaschutzagentur des Landkreises Esslingen verweist auf den Sanierungsleitfaden Baden-Württemberg und Merkblätter von Zukunft Altbau, unter anderem zur Wärmedämmung.",
+      "quelle": "Klimaschutzagentur des Landkreises Esslingen – Privatpersonen",
+      "url": "https://ksa-es.de/privatpersonen/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Braucht eine neue Dacheindeckung in der Esslinger Altstadt eine Genehmigung?",
+      "a": "Im Bereich der Gesamtanlage nennt die Satzung Bedachungen einschließlich Wärmedämmung als genehmigungspflichtig, auch ohne Bauantrag. Zuständig ist die Stadt als untere Denkmalschutzbehörde."
+    },
+    {
+      "q": "Gilt das auch für die Dachdämmung eines Hauses in der Esslinger Gesamtanlage?",
+      "a": "Ja, die Satzung führt Maßnahmen der Wärmedämmung bei Bedachungen ausdrücklich auf. Ob Ihr Haus in der Gesamtanlage liegt, beantwortet die Denkmalschutzbehörde der Stadt."
+    },
+    {
+      "q": "Welche Esslinger Stadtteile sind im Sommer besonders heiß?",
+      "a": "Laut Stadt bilden sich tagsüber Hotspots in der Innenstadt, in Mettingen, Berkheim und Zell, nachts auch in der Pliensauvorstadt und Teilen von Oberesslingen."
+    }
+  ],
+  "offen": [
+    "Weinberghänge im Einstieg: gestützt auf die Satzung (Schutz des Bilds von den umgebenden Hängen) und die städtische Klimaseite (Weinbau); Formulierung frei.",
+    "Dachbegrünung: keine städtische Vorgabe oder Förderung für private Gründächer in Esslingen gefunden."
+  ]
+}

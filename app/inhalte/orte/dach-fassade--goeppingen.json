@@ -1,0 +1,81 @@
+{
+  "leistung": "dach-fassade",
+  "ort": "goeppingen",
+  "ortName": "Göppingen",
+  "kreis": "Göppingen",
+  "title": "Dachdecker Göppingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Dachdecker in Göppingen: Dachformen, Gauben und Dachrinnen nach der Gestaltungssatzung, Starkregen und Hitze im Filstal. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Dachdecker in Göppingen",
+  "einstieg": "Ein undichtes Dach im Stadtkern, eine neue Gaube für das Dachgeschoss oder Schäden nach einem Gewitter: Wer einen Dachdecker in Göppingen sucht, hat es je nach Lage mit sehr unterschiedlichen Vorgaben zu tun. Im historischen Stadtkern regelt eine Satzung Dachform, Gauben und sogar das Material der Regenrinne; im übrigen Stadtgebiet rücken Starkregen und heiße Sommer in den Vordergrund.",
+  "abschnitte": [
+    {
+      "h2": "Steile Dächer und Zwerchgiebel im klassizistischen Stadtkern",
+      "text": "Die Gestaltungssatzung für den historischen Stadtkern sieht vor, dass bei historischen Gebäuden das ursprüngliche Erscheinungsbild der Dachform erhalten oder wiederhergestellt wird. In Betracht kommen dort nur geneigte Dächer wie Sattel-, Walm- oder Krüppelwalmdach mit symmetrischer Neigung über 40 Grad; Dachüberstände an Traufe und Ortgang bleiben erhalten oder werden ortstypisch ausgebildet. Die für Göppingen charakteristischen Zwerchgiebel gelten als Teil der Fassade und sind zu erhalten. Bei einer Neueindeckung orientiert sich das Dach nach der Satzung an der Umgebung; Dachrinnen und Fallrohre sind aus Metall auszuführen und farblich an das Gebäude anzupassen."
+    },
+    {
+      "h2": "Gauben und Dachterrassen: Maße aus der Satzung",
+      "text": "Wer das Dachgeschoss ausbauen will, findet in § 9 der Satzung konkrete Zahlen. Dachgauben sind als Giebel- oder Schleppgauben möglich, sofern sie sich der Dachform unterordnen, und dürfen höchstens 2,5 Meter breit sein. Zusammen dürfen Dachaufbauten und Einschnitte maximal die halbe Länge der Dachfläche erreichen, der Abstand untereinander, zum Ortgang und zum First beträgt mindestens 1,20 Meter. Material und Farbe der Gauben richten sich nach dem Hauptdach; Dachterrassen sind zulässig, wenn sie die Dachlandschaft nicht dominieren. Beratung zur Anwendung bietet der Fachbereich Stadtentwicklung."
+    },
+    {
+      "h2": "Wärmer und nasser: Dach und Fassade im Klimawandel",
+      "text": "Nach Auswertungen der Stadt stieg die Jahresmitteltemperatur in Göppingen von 8,6 °C (1961–1990) auf 9,8 °C (1991–2020), die Zahl der heißen Tage von 7 auf 12. Nach den Starkregen im Sommer 2024 beschloss der Gemeinderat Anfang 2025 ein Starkregenrisikomanagement für die Kernstadt. Für das Dach heißt das: Dämmung gegen sommerliche Hitze und ausreichend bemessene Entwässerung gewinnen an Gewicht. Wenn Ihr Vorhaben feststeht, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Nach § 9.1 der Göppinger Gestaltungssatzung kommen bei historischen Gebäuden nur geneigte Dachformen wie Sattel-, Walm- oder Krüppelwalmdächer mit symmetrischer Dachneigung über 40 Grad in Betracht.",
+      "quelle": "Stadt Göppingen – Gestaltungssatzung Historischer Stadtkern",
+      "url": "https://www.goeppingen.de/site/Goeppingen-Internet-2021/get/params_E725958227_Dattachment/19926253/Gestaltungssatzung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Dachgauben dürfen laut § 9.2 höchstens 2,5 m breit sein; Dachaufbauten und Dacheinschnitte zusammen höchstens die halbe Länge der Dachfläche erreichen, mit mindestens 1,20 m Abstand untereinander, zum Ortgang und zum First.",
+      "quelle": "Stadt Göppingen – Gestaltungssatzung Historischer Stadtkern",
+      "url": "https://www.goeppingen.de/site/Goeppingen-Internet-2021/get/params_E725958227_Dattachment/19926253/Gestaltungssatzung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Dachrinnen und Regenfallrohre sind nach § 9.3 der Satzung in Metall auszuführen und an die Farbgestaltung des Gebäudes anzupassen; Gauben passen sich in Material und Farbe dem Hauptdach an.",
+      "quelle": "Stadt Göppingen – Gestaltungssatzung Historischer Stadtkern",
+      "url": "https://www.goeppingen.de/site/Goeppingen-Internet-2021/get/params_E725958227_Dattachment/19926253/Gestaltungssatzung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die für den klassizistischen Göppinger Stadtkern charakteristischen Zwerchgiebel sind laut Satzung zu erhalten; sie gelten optisch als Bestandteil der Fassade.",
+      "quelle": "Stadt Göppingen – Gestaltungssatzung Historischer Stadtkern",
+      "url": "https://www.goeppingen.de/site/Goeppingen-Internet-2021/get/params_E725958227_Dattachment/19926253/Gestaltungssatzung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Jahresmitteltemperatur in Göppingen lag 1961–1990 bei 8,6 °C und 1991–2020 bei 9,8 °C; die Zahl der heißen Tage stieg im gleichen Zeitraum von 7 auf 12.",
+      "quelle": "Stadt Göppingen – Klimafolgenanpassung",
+      "url": "https://www.goeppingen.de/start/gestalten/klimafolgenanpassung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Anfang 2025 beschloss der Göppinger Gemeinderat ein Starkregenrisikomanagement für die Kernstadt; für Hochwasser verweist die Stadt auf die Hochwassergefahrenkarten des Landes.",
+      "quelle": "Stadt Göppingen – Klimafolgenanpassung",
+      "url": "https://www.goeppingen.de/start/gestalten/klimafolgenanpassung.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie groß darf eine Dachgaube in der Göppinger Altstadt sein?",
+      "a": "Die Gestaltungssatzung begrenzt Gauben auf 2,5 Meter Breite; alle Aufbauten zusammen dürfen höchstens die halbe Dachlänge einnehmen. Auskunft gibt der Fachbereich Stadtentwicklung."
+    },
+    {
+      "q": "Darf ich im Göppinger Stadtkern ein Flachdach bauen?",
+      "a": "Nach der Satzung nur, wenn es der ursprünglichen Konzeption des Gebäudes entspricht; an Blockecken sind Flachdächer nicht zugelassen."
+    },
+    {
+      "q": "Welche Dachrinne ist in der Göppinger Innenstadt vorgesehen?",
+      "a": "Die Satzung sieht Dachrinnen und Fallrohre aus Metall vor, farblich an das Gebäude angepasst."
+    }
+  ],
+  "offen": [
+    "Satzungsstand 2016 (in Kraft 10.03.2016); spätere Änderungen nicht recherchiert.",
+    "„Filstal“ in der Description ist Ortskunde (Göppingen liegt an der Fils), nicht aus der Quelle.",
+    "Satz „Dämmung gegen sommerliche Hitze und ausreichend bemessene Entwässerung gewinnen an Gewicht“ ist eine fachliche Einordnung, kein Zitat."
+  ]
+}

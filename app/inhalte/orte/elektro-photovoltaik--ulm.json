@@ -1,0 +1,77 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "ulm",
+  "ortName": "Ulm",
+  "kreis": "Ulm",
+  "title": "Elektriker Ulm – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Ulm: PV-Anlage über das Netzportal anmelden, Wallbox und Speicher nach § 14a EnWG, Balkonkraftwerk. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Elektriker in Ulm",
+  "einstieg": "Wer in Ulm einen Elektriker sucht, plant häufig mehr als einen neuen Stromkreis: eine Photovoltaikanlage auf dem Reihenhaus am Eselsberg, einen Speicher im Keller in Söflingen oder eine Wallbox in der Garage in Wiblingen. Bei all diesen Vorhaben führt der Weg über den örtlichen Stromnetzbetreiber, der Anschluss, Zähler und Steuerung mitbestimmt.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker in Ulm: so läuft die PV-Anmeldung beim Netzbetreiber",
+      "text": "Netzbetreiber im Ulmer Stadtgebiet ist die Netzgesellschaft der Stadtwerke Ulm/Neu-Ulm. Für eine Photovoltaikanlage beschreibt sie ein festes Verfahren: Zuerst wird im Netzportal eine Voranfrage gestellt, entweder vom Eigentümer selbst oder vom beauftragten Installateur. Nach der Prüfung folgt eine Einspeisezusage mit Voranfragenummer, mit der der Installateur die Anlage anmeldet. Die Genehmigung zur Errichtung geht anschließend per E-Mail an den Installateur, ebenso die Bestätigung für die Inbetriebsetzung. Zum Schluss setzt der Messstellenbetreiber vor Ort den Einspeisezähler. Für Sie heißt das in der Regel: Der Elektrobetrieb sollte beim Netzbetreiber als Installateur eingetragen sein, sonst wird die Anmeldung aufwendiger. Wer eine EEG-Vergütung erhalten möchte, meldet die Anlage zusätzlich kaufmännisch über das Kundendatenblatt im Netzportal an."
+    },
+    {
+      "h2": "Wallbox, Speicher und Balkonkraftwerk im Ulmer Netz",
+      "text": "Wallboxen, Stromspeicher und Wärmepumpen mit mehr als 4,2 kW Anschlussleistung gelten nach § 14a des Energiewirtschaftsgesetzes als steuerbare Verbrauchseinrichtungen. Die Ulmer Netzgesellschaft erläutert, dass Netzbetreiber den Anschluss solcher Geräte nicht wegen fehlender Netzkapazität ablehnen dürfen, den Strombezug bei drohender Überlastung aber zeitweise dimmen können. Ein Speicher fällt auch dann darunter, wenn er per Software nur Solarstrom einlagern soll. Anders bei kleinen Steckeranlagen: Bis 800 Watt Wechselrichterleistung ist laut Netzbetreiber keine Anmeldung im Netz nötig, wohl aber der Eintrag im Marktstammdatenregister. Für eine neutrale Einschätzung vor dem Auftrag verweisen die Stadtwerke auf die Regionale Energieagentur Ulm. Steht Ihr Vorhaben fest, beschreiben Sie es kurz über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Für den Anschluss einer PV-Anlage im Ulmer Netz wird zuerst im Netzportal eine Voranfrage gestellt; nach erfolgreicher Prüfung folgt eine Einspeisezusage mit Voranfragenummer, mit der der Installateur die Anlage anmeldet.",
+      "quelle": "Stadtwerke Ulm/Neu-Ulm Netze – Erzeugungsanlagen & Speicher",
+      "url": "https://www.ulm-netze.de/leistungen/einspeiser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Anmeldung und Inbetriebnahme einer Erzeugungsanlage soll laut Ulmer Netzbetreiber ein bei ihm eingetragener Installateur durchführen; zum Abschluss vereinbart der Installateur einen Termin mit dem Messstellenbetreiber zur Zählersetzung.",
+      "quelle": "Stadtwerke Ulm/Neu-Ulm Netze – Erzeugungsanlagen & Speicher",
+      "url": "https://www.ulm-netze.de/leistungen/einspeiser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Steckerfertige PV-Anlagen bis 800 Watt Wechselrichterleistung müssen beim Ulmer Netzbetreiber nicht angemeldet werden, sind aber im Marktstammdatenregister der Bundesnetzagentur zu registrieren.",
+      "quelle": "Stadtwerke Ulm/Neu-Ulm Netze – Erzeugungsanlagen & Speicher",
+      "url": "https://www.ulm-netze.de/leistungen/einspeiser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach § 14a EnWG gelten private Wallboxen, Wärmepumpen und Stromspeicher mit mehr als 4,2 kW Netzanschlussleistung als steuerbare Verbrauchseinrichtungen; Netzbetreiber dürfen ihren Anschluss nicht wegen mangelnder Netzkapazität ablehnen, den Bezug aber bei drohender Überlastung zeitweise dimmen.",
+      "quelle": "Stadtwerke Ulm/Neu-Ulm Netze – Steuerbare Verbrauchseinrichtungen",
+      "url": "https://www.ulm-netze.de/netze-der-zukunft/steuerbare-verbrauchseinrichtungen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Stromspeicher sind laut Ulmer Netzbetreiber auch dann teilnahmepflichtig, wenn sie softwareseitig nur für die Einspeicherung von PV-Strom vorgesehen sind, sofern der Ladevorgang den Leistungsbezug aus dem Netz beeinflusst.",
+      "quelle": "Stadtwerke Ulm/Neu-Ulm Netze – Steuerbare Verbrauchseinrichtungen",
+      "url": "https://www.ulm-netze.de/netze-der-zukunft/steuerbare-verbrauchseinrichtungen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bei Fragen zu Photovoltaikanlagen für Eigenheime verweisen die Stadtwerke Ulm/Neu-Ulm auf die Regionale Energieagentur Ulm; der Netzanschluss selbst erfolgt beim örtlichen Netzbetreiber.",
+      "quelle": "Stadtwerke Ulm/Neu-Ulm – Photovoltaik",
+      "url": "https://www.swu.de/privatkunden/produkte-leistungen/strom/photovoltaik",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wer meldet in Ulm eine PV-Anlage beim Netzbetreiber an?",
+      "a": "Die Voranfrage können Eigentümer oder Installateur im Netzportal der Ulmer Netzgesellschaft stellen. Anmeldung und Inbetriebsetzung übernimmt danach in der Regel der beim Netzbetreiber eingetragene Elektrobetrieb."
+    },
+    {
+      "q": "Kann der Netzbetreiber in Ulm meine Wallbox drosseln?",
+      "a": "Wallboxen über 4,2 kW fallen unter § 14a EnWG. Der Netzbetreiber darf ihren Bezug bei drohender Überlastung zeitweise dimmen, ihren Anschluss aber nicht wegen fehlender Netzkapazität ablehnen."
+    },
+    {
+      "q": "Muss ich ein Balkonkraftwerk in Ulm anmelden?",
+      "a": "Bis 800 Watt Wechselrichterleistung ist nach Angaben des Ulmer Netzbetreibers keine Anmeldung im Netz nötig. Der Eintrag im Marktstammdatenregister ist trotzdem erforderlich."
+    }
+  ],
+  "offen": [
+    "Ortsteilnennungen im Einstieg (Eselsberg, Söflingen, Wiblingen) sind beispielhaft, nicht durch Fakten belegt.",
+    "Name der Netzgesellschaft (Stadtwerke Ulm/Neu-Ulm Netze GmbH) im Fließtext nur umschrieben; Netzportal-Details Stand 10/2026.",
+    "SWU-FAQ zu privaten Ladestationen lädt Antworten per JavaScript, Inhalte nicht lesbar und daher nicht verwendet."
+  ]
+}

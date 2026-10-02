@@ -1,0 +1,82 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "loerrach",
+  "ortName": "Lörrach",
+  "kreis": "Lörrach",
+  "title": "Elektriker Lörrach – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Lörrach für Photovoltaik, Balkonkraftwerk, Wallbox und Zählerschrank: SOLAR365-Beratung, Solarpotenzial und Wärmeplan. Kostenlos vermittelt.",
+  "h1": "Elektriker in Lörrach",
+  "einstieg": "Wer in Lörrach einen Elektriker sucht, hat oft ein Paket im Kopf: Solarmodule auf dem Dach in Tumringen oder Brombach, ein Speicher, vielleicht eine Wallbox und ein Zählerschrank, der das alles aufnehmen kann. Stadt und Landkreis unterstützen den Ausbau der Photovoltaik mit eigenen Angeboten, und der Wärmeplan gibt Hinweise darauf, ob später eine Wärmepumpe dazukommt.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker Lörrach: Solarpotenzial und SOLAR365",
+      "text": "Für die Frage, ob sich ein Dach eignet, verweist die Stadt Lörrach inzwischen auf zwei externe Werkzeuge: den Energieatlas Baden-Württemberg und das PV-Geoinformationssystem der EU, weil die eigenen Katasterdaten nicht mehr aktuell sind. Zusätzlich beteiligt sich Lörrach an der Initiative „SOLAR365 – Dein Dach für gutes Klima“ des Landkreises. Im Wettbewerb 365-Dächer zeichnet der Landkreis die Gemeinden mit dem größten Zubau aus, und Bürger der teilnehmenden Gemeinden erhalten eine kostenlose telefonische Photovoltaikberatung. Für die Elektroplanung schließen sich daran die Fragen nach Wechselrichterstandort, Leitungsführung und Zählerplatz an."
+    },
+    {
+      "h2": "Balkonkraftwerk, Wallbox und Anmeldung",
+      "text": "Auch steckerfertige Balkonsolaranlagen sind in Lörrach ein Thema: Der Gemeinderat hat 2021 beschlossen, sie grundsätzlich zu fördern. Die Stadt weist darauf hin, dass die ordnungsgemäße Anmeldung beim Netzbetreiber und im Marktstammdatenregister beim Betreiber liegt, bei Mietern zudem die Zustimmung des Eigentümers. Für Ladetechnik hat Lörrach ein E-Mobilitätskonzept und baut öffentliche Ladepunkte aus; die heimische Wallbox plant und meldet in der Regel der Elektrofachbetrieb beim Netzbetreiber an. Wer PV, Speicher und Wallbox kombiniert, lässt Hausanschluss und Messkonzept sinnvollerweise gemeinsam betrachten."
+    },
+    {
+      "h2": "Wärmeplan: Strom für die Heizung von morgen",
+      "text": "Im Landkreisprojekt UIWP wurden für alle 35 Kommunen des Landkreises Wärmepläne erstellt, auch für Lörrach. Wo Wärmenetze noch nicht in Reichweite sind, nennt die Stadt dezentrale Lösungen wie Wärmepumpen. Im Quartier Stetten-Dorf, wo ein neues Wärmenetz entsteht, gab es Informationsveranstaltungen unter anderem zur Photovoltaik. Wenn Sie wissen, was Sie umsetzen möchten, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Für die Prüfung der Solareignung verweist die Stadt Lörrach auf den Energieatlas Baden-Württemberg und das EU PV-Geoinformationssystem, da die bisherigen städtischen Daten nicht mehr auf dem neuesten Stand sind.",
+      "quelle": "Stadt Lörrach – Solarkataster",
+      "url": "https://www.loerrach.de/de/Stadt-Buergerschaft/Loerracht-macht-Klima/Energieversorgung-Strom/Solarkataster",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Lörrach beteiligt sich an der Initiative „SOLAR365 – Dein Dach für gutes Klima“ des Landkreises; Bürgerinnen und Bürger der teilnehmenden Wettbewerbsgemeinden erhalten eine kostenlose telefonische Photovoltaikberatung.",
+      "quelle": "Stadt Lörrach – SOLAR365",
+      "url": "https://www.loerrach.de/de/Stadt-Buergerschaft/Loerracht-macht-Klima/Energieversorgung-Strom/solar365",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Gemeinderat hat 2021 entschieden, Balkonsolaranlagen grundsätzlich zu fördern; für die Anmeldung beim Netzbetreiber und im Marktstammdatenregister ist laut Stadt der Antragsteller verantwortlich.",
+      "quelle": "Stadt Lörrach – Balkonsolaranlagen",
+      "url": "https://www.loerrach.de/Balkonsolaranlagen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das E-Mobilitätskonzept der Stadt Lörrach legt die Grundlagen für die Elektromobilität; die Verwaltung prüft fortlaufend weitere öffentliche Stellplätze für den Ausbau der Ladeinfrastruktur.",
+      "quelle": "Stadt Lörrach – E-Mobilität",
+      "url": "https://www.loerrach.de/de/Stadt-Buergerschaft/Loerracht-macht-Klima/Mobilitaet/E-Mobilitaet",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Landkreisprojekt UIWP wurden für alle 35 Kommunen im Landkreis Lörrach Wärmepläne erstellt; wo vorerst kein Wärmenetz möglich ist, nennt die Stadt dezentrale Lösungen wie Wärmepumpen oder Holzpelletkessel.",
+      "quelle": "Stadt Lörrach – Wärmeplan",
+      "url": "https://www.loerrach.de/de/Stadt-Buergerschaft/Loerracht-macht-Klima/Gebaeudessanierung-Waermeversorgung/Waermeplanung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Quartier Stetten-Dorf mit etwa 700 Gebäuden fanden im Projekt „Energiewandel im Quartier“ Informationsveranstaltungen unter anderem zur Photovoltaik statt.",
+      "quelle": "Stadt Lörrach – Energiewandel im Quartier",
+      "url": "https://www.loerrach.de/de/Stadt-Buergerschaft/Loerracht-macht-Klima/Gebaeudessanierung-Waermeversorgung/Energiewandel-im-Quartier",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie prüfe ich in Lörrach, ob mein Dach für Photovoltaik geeignet ist?",
+      "a": "Die Stadt verweist auf den Energieatlas Baden-Württemberg und das EU PV-Geoinformationssystem. Eine kostenlose telefonische Beratung gibt es über die Landkreis-Initiative SOLAR365."
+    },
+    {
+      "q": "Muss ein Balkonkraftwerk in Lörrach angemeldet werden?",
+      "a": "Die Stadt weist darauf hin, dass für die Anmeldung beim Netzbetreiber und im Marktstammdatenregister der Betreiber verantwortlich ist."
+    },
+    {
+      "q": "Gibt es in Lörrach einen Zuschuss für Balkonsolaranlagen?",
+      "a": "Der Gemeinderat hat die Förderung 2021 grundsätzlich beschlossen. Ob aktuell Mittel bereitstehen, veröffentlicht die Stadt auf ihrer Seite zu Balkonsolaranlagen."
+    }
+  ],
+  "offen": [
+    "Laut Stadtseite (Abruf 02.10.2026) ist die Balkonsolar-Förderung wegen der Haushaltslage ab 2026 vorerst eingestellt – im Text nicht als Momentangabe übernommen, nur Verweis auf die Seite.",
+    "Stromnetzbetreiber für Lörrach nicht recherchiert/belegt; im Text nur „Netzbetreiber“.",
+    "Ortsteile Tumringen und Brombach im Einstieg nur als Beispiele.",
+    "Anmeldung der Wallbox durch den Elektrofachbetrieb nur allgemein („in der Regel“), keine Lörracher Quelle."
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "schwaebisch-gmuend",
+  "ortName": "Schwäbisch Gmünd",
+  "kreis": "Ostalbkreis",
+  "title": "Elektriker Schwäbisch Gmünd – kostenlos vermittelt",
+  "description": "Elektriker in Schwäbisch Gmünd: PV-Anmeldung bei den Stadtwerken, Wallbox mit Zustimmung, Solaranlagen am Denkmal und im Sanierungsgebiet. Kostenlos vermittelt.",
+  "h1": "Elektriker in Schwäbisch Gmünd",
+  "einstieg": "Ob neue Unterverteilung im Altbau in der Oststadt, Photovoltaik auf dem Einfamilienhaus in Bettringen oder eine Wallbox in der Garage in Straßdorf: Wer einen Elektriker in Schwäbisch Gmünd sucht, hat es mit dem Netzbetreiber der Stadtwerke zu tun und, je nach Lage, mit Denkmalschutz oder Sanierungsrecht. Beides lässt sich vor dem ersten Angebot klären.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker in Schwäbisch Gmünd: Photovoltaik und Wallbox beim Netzbetreiber",
+      "text": "Den Netzbetreiber der Stadtwerke Gmünd sollte man laut eigener Darstellung schon in der Planungsphase einer PV-Anlage einbeziehen. Die Anmeldeunterlagen, darunter Formular, einpoliges Übersichtsschaltbild und Konformitätsnachweise, reicht ein in ein Installateurverzeichnis eingetragener Elektrofachbetrieb ein. Erst nach der Netzprüfung gibt es die Einspeisezusage, die den Startschuss für die Montage bildet. Speicher sollen ebenfalls angezeigt werden, mit eigenem Datenblatt und Messkonzept. Für eine Wallbox oder Ladesäule ist eine Zustimmung des Netzbetreibers nötig; sie gilt drei Monate, in denen die Ladeeinheit in Betrieb gehen kann. Einphasige Ladestationen müssen eine Asymmetrie von 4,6 kVA einhalten, darüber wird dreiphasig angeschlossen. Die Stadtwerke empfehlen außerdem, ein zusätzliches Messfeld im Zählerschrank einzuplanen, falls später eine getrennte Messung gewünscht ist."
+    },
+    {
+      "h2": "Solaranlage in der Altstadt oder im Sanierungsgebiet",
+      "text": "Die Gmünder Altstadt ist als Gesamtanlage denkmalgeschützt, und auch viele Einzelgebäude im Stadtgebiet sind Kulturdenkmale. Für Solaranlagen auf Denkmalen ist nach Angaben der Stadt eine denkmalschutzrechtliche Genehmigung erforderlich, unabhängig davon, ob für das Vorhaben eine Baugenehmigung nötig ist. Im förmlich festgelegten Sanierungsgebiet kommt ein weiterer Punkt hinzu: Dort zählt die Stadt den Einbau einer neuen Elektroanlage zu den Veränderungen, für die in der Regel eine sanierungsrechtliche Genehmigung erforderlich ist. Ob ein Grundstück betroffen ist, zeigt das Geodatenportal der Stadt; Auskunft gibt das Amt für Stadtentwicklung. Kleine Steckeranlagen speisen nach Hinweis der Stadtwerke nur normgerecht ein, wenn eine spezielle Energiesteckvorrichtung verwendet wird. Sobald Sie wissen, was Sie vorhaben, reicht eine kurze Schilderung über unser Formular; wir suchen für Sie einen passenden Elektrobetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Der Netzbetreiber der Stadtwerke Gmünd ist bei PV-Anlagen bereits in der Planungsphase einzubeziehen; die Anmeldeunterlagen reicht ein in ein Installateurverzeichnis eingetragener Elektrofachbetrieb ein, und erst nach der Netzprüfung erhält der Anlagenbetreiber die Einspeisezusage.",
+      "quelle": "Stadtwerke Gmünd Netze – Anschluss EEG-Anlagen",
+      "url": "https://www.stwgd-netze.de/anschluss-eeg-anlagen.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Betreiber von PV-Anlagen mit Batteriespeicher sollen dies den Stadtwerken Gmünd anzeigen; dafür werden Anmeldung/Datenblatt, Messkonzept und nach Inbetriebnahme ein Inbetriebsetzungsprotokoll benötigt.",
+      "quelle": "Stadtwerke Gmünd Netze – Anschluss EEG-Anlagen",
+      "url": "https://www.stwgd-netze.de/anschluss-eeg-anlagen.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für eine Ladeeinrichtung erteilen die Stadtwerke Gmünd eine schriftliche Zustimmung, die drei Monate gültig ist; einphasige Ladestationen müssen eine Asymmetrie von 4,6 kVA einhalten, darüber wird dreiphasig und symmetrisch angeschlossen.",
+      "quelle": "Stadtwerke Gmünd Netze – Netzanschluss Elektromobilität",
+      "url": "https://www.stwgd-netze.de/netzanschluss-elektromobilitaet.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Gmünd empfehlen, bei Planung oder Installation einer Ladestation ein zusätzliches Messfeld zu berücksichtigen, falls später eine getrennte Messung erforderlich wird.",
+      "quelle": "Stadtwerke Gmünd Netze – Netzanschluss Elektromobilität",
+      "url": "https://www.stwgd-netze.de/netzanschluss-elektromobilitaet.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für Solaranlagen auf Denkmalen ist in Schwäbisch Gmünd eine denkmalschutzrechtliche Genehmigung erforderlich; das gilt grundsätzlich unabhängig davon, ob für das Vorhaben eine Baugenehmigung nötig ist.",
+      "quelle": "Stadt Schwäbisch Gmünd – Denkmalschutz",
+      "url": "https://www.schwaebisch-gmuend.de/wohnen-bauen-stadtentwicklung/denkmalschutz.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In Gmünder Sanierungsgebieten nennt die Stadt den Einbau einer neuen Elektro- oder Heizungsanlage als Beispiel für Veränderungen, die in der Regel eine sanierungsrechtliche Genehmigung erfordern.",
+      "quelle": "Stadt Schwäbisch Gmünd – Stadtsanierung",
+      "url": "https://www.schwaebisch-gmuend.de/wohnen-bauen-stadtentwicklung/stadtsanierung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Steckerfertige PV-Anlagen dürfen nach Hinweis der Stadtwerke Gmünd nur über eine spezielle Energiesteckvorrichtung in vorhandene Endstromkreise einspeisen; haushaltsübliche Schutzkontaktsteckdosen sind dafür nicht zugelassen.",
+      "quelle": "Stadtwerke Gmünd Netze – Plug-In-Anlagen",
+      "url": "https://www.stwgd-netze.de/stromnetz/netzeinspeisung/anschluss-plug-in-anlagen-bis-600w.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wann bekomme ich in Schwäbisch Gmünd die Einspeisezusage für meine PV-Anlage?",
+      "a": "Nachdem der Elektrofachbetrieb die vollständigen Anmeldeunterlagen eingereicht hat und der Netzbetreiber die Netzprüfung abgeschlossen hat. Erst danach beginnt in der Regel die Montage."
+    },
+    {
+      "q": "Brauche ich für eine Wallbox in Schwäbisch Gmünd eine Zustimmung?",
+      "a": "Ja, der Netzbetreiber der Stadtwerke Gmünd erteilt eine schriftliche Zustimmung. Sie gilt drei Monate; geht die Ladeeinheit in dieser Zeit nicht in Betrieb, ist eine neue Anmeldung nötig."
+    },
+    {
+      "q": "Darf ich in der Gmünder Altstadt eine Solaranlage aufs Dach setzen?",
+      "a": "Auf Kulturdenkmalen ist eine denkmalschutzrechtliche Genehmigung erforderlich. Erste Hinweise für die Altstadt gibt das Solarkataster für die denkmalgeschützte Gesamtanlage im Geodatenportal."
+    }
+  ],
+  "offen": [
+    "Bearbeitungsdauer für Wallbox-Zustimmung (bis zu 6 Wochen laut Netzbetreiber) bewusst nicht übernommen (Momentangabe).",
+    "Seite zu Plug-In-Anlagen trägt noch „bis 600W“ im Titel; Leistungsgrenze daher nicht genannt.",
+    "Stadtteilnennungen im Einstieg beispielhaft."
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "leistung": "garten-aussenanlagen",
+  "ort": "goeppingen",
+  "ortName": "Göppingen",
+  "kreis": "Göppingen",
+  "title": "Terrassenüberdachung Göppingen – kostenlos vermittelt",
+  "description": "Terrassenüberdachung in Göppingen: wie die Niederschlagswassergebühr Dach, Pflaster und Zisterne bewertet, Höfe im Stadtkern. Kostenlos vermittelt.",
+  "h1": "Terrassenüberdachung in Göppingen",
+  "einstieg": "Wer eine Terrassenüberdachung in Göppingen plant, einen Carport aufstellt oder die Einfahrt neu pflastert, verändert mehr als die Optik des Grundstücks. Die Stadt berechnet ihre Niederschlagswassergebühr nach den bebauten und befestigten Flächen, und welcher Belag gewählt wird, zählt dabei unterschiedlich. Im historischen Stadtkern regelt zusätzlich eine Gestaltungssatzung den Umgang mit Höfen und Stellplätzen.",
+  "abschnitte": [
+    {
+      "h2": "Dach, Pflaster oder Schotterrasen: was die Göppinger Gebühr zählt",
+      "text": "Nach § 39 a der Göppinger Abwassersatzung sind die bebauten und befestigten Flächen eines Grundstücks Bemessungsgrundlage, soweit von ihnen Regenwasser in die öffentliche Kanalisation gelangt. Die Satzung gewichtet die Flächen nach ihrer Durchlässigkeit: Ziegel- und Kiesschüttdächer zählen voll, Gründächer zur Hälfte. Bei befestigten Flächen gilt Asphalt, Beton und Bitumen der Faktor 1,0, Pflaster, Platten, Ökopflaster und Rasenfugenpflaster 0,5; Schotterrasen, Kiesflächen und Rasengittersteine gehen mit 0,0 ein. Wer eine Terrassenüberdachung, einen Carport oder eine neue Hoffläche plant, kann den Belag also auch mit Blick auf die gebührenrelevante Fläche wählen; maßgeblich ist der Zustand zu Beginn des Veranlagungszeitraums."
+    },
+    {
+      "h2": "Regenwasser sammeln: Zisterne und Mulde",
+      "text": "Leitet das Dach der Überdachung in eine Zisterne, berücksichtigt die Satzung das ebenfalls. Flächen an Zisternen ohne Überlauf in den Kanal oder mit Brauchwassernutzung im Haushalt werden mit 0,0 angesetzt, Retentionszisternen mit mindestens 20 Litern Rückhaltevolumen je Quadratmeter angeschlossener Fläche mit 0,5. Ähnlich behandelt die Satzung Sickermulden und Mulden-Rigolen-Systeme mit vergleichbarer Rückhaltung. Wie eine konkrete Fläche eingestuft wird, beantwortet die Stadt Göppingen."
+    },
+    {
+      "h2": "Höfe und Stellplätze im Stadtkern, Bäume im Geoportal",
+      "text": "Für Grundstücke im historischen Stadtkern sieht die Gestaltungssatzung vor, den Versiegelungsgrad von Innenhöfen auf das unbedingt notwendige Maß zu beschränken; großflächige Versiegelung mit Beton und Asphalt ist dort nicht zulässig. Die Erläuterungen empfehlen bei neuer Pflasterung einen großen Fugenanteil. Für Bäume führt die Stadt ein Baumkataster, das über das Geoportal öffentlich einsehbar ist. Steht Ihr Vorhaben fest, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Bemessungsgrundlage der Niederschlagswassergebühr in Göppingen sind die bebauten und befestigten Flächen, von denen Niederschlagswasser unmittelbar oder mittelbar in die öffentlichen Abwasseranlagen gelangt (§ 39 a Abwassersatzung, Stand Januar 2026).",
+      "quelle": "Stadt Göppingen – Abwassersatzung",
+      "url": "https://www.goeppingen.de/site/Goeppingen-Internet-2021/get/documents_E-363562101/Goeppingen/Goeppingen_Anleitungen/Stadtrecht/07_Oeffentliche_Einrichtungen/70-01_Abwassersatzung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Dachflächen aus Ziegel oder mit Kiesschüttung werden mit dem Faktor 1,0 angesetzt, Gründächer mit 0,5.",
+      "quelle": "Stadt Göppingen – Abwassersatzung",
+      "url": "https://www.goeppingen.de/site/Goeppingen-Internet-2021/get/documents_E-363562101/Goeppingen/Goeppingen_Anleitungen/Stadtrecht/07_Oeffentliche_Einrichtungen/70-01_Abwassersatzung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für befestigte Flächen gelten die Faktoren 1,0 (Asphalt, Beton, Bitumen), 0,5 (Pflaster, Platten, Öko- und Rasenfugenpflaster) und 0,0 (Grasnarbe, Schotterrasen, Kies, Rasengittersteine).",
+      "quelle": "Stadt Göppingen – Abwassersatzung",
+      "url": "https://www.goeppingen.de/site/Goeppingen-Internet-2021/get/documents_E-363562101/Goeppingen/Goeppingen_Anleitungen/Stadtrecht/07_Oeffentliche_Einrichtungen/70-01_Abwassersatzung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Flächen an Zisternen ohne Überlauf in die Kanalisation oder mit Brauchwassernutzung im Haushalt erhalten den Faktor 0,0, Retentionszisternen mit mindestens 20 l Rückhaltevolumen je m² den Faktor 0,5.",
+      "quelle": "Stadt Göppingen – Abwassersatzung",
+      "url": "https://www.goeppingen.de/site/Goeppingen-Internet-2021/get/documents_E-363562101/Goeppingen/Goeppingen_Anleitungen/Stadtrecht/07_Oeffentliche_Einrichtungen/70-01_Abwassersatzung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach § 11 der Gestaltungssatzung für den historischen Stadtkern ist der Versiegelungsgrad von Innenhöfen auf das unbedingt notwendige Maß zu beschränken; großflächige Versiegelung aus Beton und Asphalt ist nicht zulässig.",
+      "quelle": "Stadt Göppingen – Gestaltungssatzung Historischer Stadtkern",
+      "url": "https://www.goeppingen.de/site/Goeppingen-Internet-2021/get/params_E725958227_Dattachment/19926253/Gestaltungssatzung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für die Bäume im Siedlungsgebiet führt die Stadt Göppingen ein Baumkataster, das über das Geoportal öffentlich zugänglich ist.",
+      "quelle": "Stadt Göppingen – Klimaschutz für Göppingen",
+      "url": "https://www.goeppingen.de/start/gestalten/klimaschutz+fuer+goeppingen.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Zählt eine Terrassenüberdachung in Göppingen zur Niederschlagswassergebühr?",
+      "a": "Maßgeblich sind laut Abwassersatzung bebaute und befestigte Flächen, deren Regenwasser in den öffentlichen Kanal gelangt. Wie Ihre Überdachung eingestuft wird, beantwortet die Stadt Göppingen."
+    },
+    {
+      "q": "Wie bewertet die Göppinger Abwassersatzung Pflaster und Asphalt?",
+      "a": "Die Satzung setzt Asphalt und Beton mit 1,0 an, Pflaster und Platten mit 0,5, Schotterrasen und Rasengittersteine mit 0,0."
+    },
+    {
+      "q": "Darf ich im Göppinger Stadtkern meinen Innenhof komplett asphaltieren?",
+      "a": "Die Gestaltungssatzung lässt großflächige Versiegelung aus Beton und Asphalt in Innenhöfen nicht zu. Auskunft gibt der Fachbereich Stadtentwicklung."
+    }
+  ],
+  "offen": [
+    "Verfahrensfreiheit von Terrassenüberdachungen/Carports: keine eigene Darstellung der Stadt Göppingen gefunden; daher bewusst keine Aussage.",
+    "Baumschutzsatzung: in der Stadtrecht-Liste von Göppingen nicht gefunden.",
+    "Ob eine Terrassenüberdachung als „bebaute Fläche“ im Sinne von § 39 a gilt, ist nicht ausdrücklich geregelt; im Text nur als Frage an die Stadt formuliert.",
+    "Satz „kann den Belag also auch mit Blick auf die gebührenrelevante Fläche wählen“ ist eine Ableitung aus den Faktoren, keine Ersparniszusage; Gebührensätze bewusst nicht genannt."
+  ]
+}

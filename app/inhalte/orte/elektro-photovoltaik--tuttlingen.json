@@ -1,0 +1,94 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "tuttlingen",
+  "ortName": "Tuttlingen",
+  "kreis": "Tuttlingen",
+  "title": "Elektriker Tuttlingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Tuttlingen: PV-Anlage und Wallbox bei den Stadtwerken anmelden, Zählerwechsel, § 14a EnWG, Dach-PV-Potenzial laut Wärmeplan. Kostenlos vermittelt.",
+  "h1": "Elektriker in Tuttlingen",
+  "einstieg": "Wer in Tuttlingen einen Elektriker sucht, plant oft eine Photovoltaikanlage auf dem Dach in Möhringen, eine Wallbox am Haus in Nendingen oder eine Wärmepumpe, die den alten Zählerschrank an seine Grenzen bringt. Im Donautal ist der Weg vergleichsweise kurz: Die Stadtwerke betreiben das Stromnetz selbst und geben für jedes dieser Vorhaben einen eigenen Ablauf vor.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker in Tuttlingen: PV-Anlage bei den Stadtwerken anmelden",
+      "text": "In Tuttlingen, Möhringen, Nendingen, Eßlingen und im Gewerbepark Take-Off sind die Stadtwerke Tuttlingen Netzbetreiber. Eine PV-Anlage ist vor der Installation dort anzumelden, mit VDE-Formularen und Messkonzept über das Online-Formular. Nach der Netzprüfung erhält der Elektriker das Ergebnis, und die Stadtwerke prüfen, ob ein Zählerwechsel nötig ist; der Austausch ist laut Stadtwerken kostenfrei. Bei Anlagen über 25 kW schreiben sie ein Tarifschaltgerät vor. Nach Abschluss der Arbeiten meldet der Elektrofachbetrieb die Fertigstellung, danach setzen die Stadtwerke den Zähler. Für Balkonkraftwerke bis 800 Watt entfällt die Anmeldung beim Netzbetreiber, die Registrierung bei der Bundesnetzagentur und gegebenenfalls die Zustimmung des Vermieters oder der Eigentümergemeinschaft bleiben."
+    },
+    {
+      "h2": "Wallbox, Wärmepumpe und steuerbare Verbraucher",
+      "text": "Ob eine Ladeeinrichtung bei den Stadtwerken nur anzumelden oder zu genehmigen ist, hängt von ihrer Anschlussleistung ab; über 12 kVA wird jeder Anschluss einzeln bewertet. Zuerst teilt man den Stadtwerken über ein Formular die Rahmenbedingungen mit, danach plant der Elektrofachbetrieb die Ausführung. Wallboxen, Wärmepumpen, Klimaanlagen und Speicher ab 4,2 kW elektrischer Anschlussleistung, die ab 2024 installiert wurden, sind nach § 14a Energiewirtschaftsgesetz steuerbar; im Gegenzug sinkt das Netzentgelt. Maßgeblich ist dabei die elektrische Anschlussleistung, nicht die Heizleistung. Wenn Sie Ihr Vorhaben über unser Formular schildern, wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
+    },
+    {
+      "h2": "Dach-PV im Tuttlinger Wärmeplan",
+      "text": "Der im Oktober 2024 einstimmig beschlossene kommunale Wärmeplan beschreibt den Weg zu einer klimaneutralen Wärmeversorgung bis 2040. Für die Stromerzeugung nennt er vor allem Dachflächen: Das PV-Dachflächenpotenzial wird danach zu 11 Prozent genutzt, und PV-Dachanlagen können den Strombedarf einer Wärmepumpe anteilig decken. Wer Photovoltaik und Wärmepumpe zusammen plant, braucht deshalb früh einen Elektriker, der Zählerschrank, Messkonzept und Anmeldung aufeinander abstimmt. Den Rahmen bildet ein langer Vorlauf: Tuttlingen hat 1993 sein erstes Klimaschutzkonzept vorgelegt und ist seit 1994 Mitglied im Klimabündnis."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadtwerke Tuttlingen sind Netzbetreiber in Tuttlingen, Möhringen, Nendingen, Eßlingen und im Gewerbepark Take-Off in Neuhausen ob Eck; PV-Anlagen sind vor der Installation bei ihnen anzumelden.",
+      "quelle": "Stadtwerke Tuttlingen – Photovoltaik",
+      "url": "https://www.swtenergie.de/de/Netze/Strom/Photovoltaik/Photovoltaik_201814.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach der Netzprüfung prüfen die Stadtwerke Tuttlingen, ob ein Zählerwechsel nötig ist; dieser ist für den Kunden kostenfrei. Bei Anlagen größer 25 kW ist ein Tarifschaltgerät vorgeschrieben.",
+      "quelle": "Stadtwerke Tuttlingen – Photovoltaik",
+      "url": "https://www.swtenergie.de/de/Netze/Strom/Photovoltaik/Photovoltaik_201814.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Steckfertige PV-Anlagen bis 800 Watt müssen bei den Stadtwerken Tuttlingen nicht mehr angemeldet werden; vor Inbetriebnahme sind die Anmeldung bei der Bundesnetzagentur und je nach Mietvertrag oder Eigentümergemeinschaft eine Zustimmung erforderlich.",
+      "quelle": "Stadtwerke Tuttlingen – Photovoltaik",
+      "url": "https://www.swtenergie.de/de/Netze/Strom/Photovoltaik/Photovoltaik_201814.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ladeeinrichtungen sind bei den Stadtwerken Tuttlingen je nach Anschlussleistung anmelde- oder genehmigungspflichtig; Anschlüsse über 12 kVA werden laut Stadtwerken individuell bewertet.",
+      "quelle": "Stadtwerke Tuttlingen – Elektromobilität",
+      "url": "https://www.swtenergie.de/de/Netze/Strom/Elektromobiltaet/Elektromobilitaet_200753.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ab 01.01.2024 installierte Verbraucher mit mindestens 4,2 kW elektrischer Anschlussleistung, etwa Wallboxen, Wärmepumpen und Speicher, sind nach § 14a EnWG steuerbar und erhalten ein vergünstigtes Netzentgelt.",
+      "quelle": "Stadtwerke Tuttlingen – Steuerbare Verbrauchseinrichtungen",
+      "url": "https://www.swtenergie.de/de/Netze/Strom/Steuerbare-Verbrauchseinrichtungen/Steuerbare-Verbrauchseinrichtungen.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut kommunalem Wärmeplan ist das PV-Dachflächenpotenzial in Tuttlingen bereits zu 11 % genutzt; PV-Dachanlagen können den Strombedarf einer Wärmepumpe anteilig decken.",
+      "quelle": "Stadt Tuttlingen – Kommunaler Wärmeplan",
+      "url": "https://www.tuttlingen.de/ceasy/resource/?id=29866&download=1",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Gemeinderat hat den Wärmeplan am 21. Oktober 2024 einstimmig beschlossen; er beschreibt den Weg zu einer CO2-neutralen Wärmeversorgung bis 2040, die Eignungsgebiete sind nicht verpflichtend.",
+      "quelle": "Stadt Tuttlingen – Kommunale Wärmeplanung",
+      "url": "https://www.tuttlingen.de/de/Die-Stadt/Stadtentwicklung/Umwelt-und-Klima/Klimaschutz/Kommunale-Waermeplanung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Tuttlingen legte 1993 sein erstes Klimaschutzkonzept vor und ist seit 1994 Mitglied im Klimabündnis europäischer Städte.",
+      "quelle": "Stadt Tuttlingen – Klimaschutz",
+      "url": "https://www.tuttlingen.de/de/Die-Stadt/Stadtentwicklung/Umwelt-und-Klima/Klimaschutz",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich ein Balkonkraftwerk bei den Stadtwerken Tuttlingen anmelden?",
+      "a": "Laut Stadtwerken nicht mehr. Vor der Inbetriebnahme ist aber die Anmeldung bei der Bundesnetzagentur nötig, und je nach Mietvertrag oder Eigentümergemeinschaft eine Zustimmung."
+    },
+    {
+      "q": "Wer bezahlt in Tuttlingen den neuen Zähler für die PV-Anlage?",
+      "a": "Ist nach der Netzprüfung ein Zählerwechsel nötig, ist der Austausch laut Stadtwerken für den Kunden kostenfrei. Die Montage übernehmen die Stadtwerke nach Terminvereinbarung."
+    },
+    {
+      "q": "Ab wann gilt § 14a EnWG für meine Wärmepumpe in Tuttlingen?",
+      "a": "Betroffen sind Geräte ab 4,2 kW elektrischer Anschlussleistung, die ab dem 1. Januar 2024 installiert wurden. Maßgeblich ist die elektrische Leistung, nicht die Heizleistung."
+    }
+  ],
+  "offen": [
+    "Übergangsfrist § 14a für Altanlagen (31.12.2028) bewusst nicht genannt (datierte Frist).",
+    "Wert 11 % PV-Dachnutzung aus dem Wärmeplan (Basisjahr 2021); Stand im Text nicht genannt, nur Quelle.",
+    "Ortsteile im Einstieg (Möhringen, Nendingen) als Beispiele.",
+    "Energieagentur nicht verwendet, da Nachfolge-Fakt bereits auf Bad-Seite Tuttlingen."
+  ]
+}

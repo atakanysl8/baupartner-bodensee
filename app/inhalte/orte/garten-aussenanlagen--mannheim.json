@@ -1,0 +1,81 @@
+{
+  "leistung": "garten-aussenanlagen",
+  "ort": "mannheim",
+  "ortName": "Mannheim",
+  "kreis": "Mannheim",
+  "title": "Terrassenüberdachung Mannheim – kostenlos vermittelt",
+  "description": "Terrassenüberdachung in Mannheim: Baurecht, Niederschlagswassergebühr, Pflaster und Baumschutz im Blick. Passenden Fachbetrieb kostenlos vermittelt bekommen.",
+  "h1": "Terrassenüberdachung in Mannheim",
+  "einstieg": "Terrassenüberdachung Mannheim: Das bedeutet oft einen kleinen Garten hinter dem Reihenhaus, alten Baumbestand beim Nachbarn und eine Abwassergebühr, die nach der befestigten Fläche berechnet wird. Ob Glasdach, Carport, neuer Zaun oder frisch gepflasterte Einfahrt, im Stadtgebiet lohnt ein Blick auf Baurecht, Abwassersatzung und Baumschutzsatzung, bevor das Material bestellt wird.",
+  "abschnitte": [
+    {
+      "h2": "Überdachung und Carport: was das Mannheimer Baurecht dazu sagt",
+      "text": "Der Fachbereich Baurecht, Bauverwaltung und Denkmalschutz verweist bei der Frage nach einer Genehmigung auf § 50 der Landesbauordnung und dessen Anhang, in dem die verfahrensfreien Vorhaben aufgelistet sind. Er betont zugleich, dass die Einhaltung der öffentlich-rechtlichen Vorschriften auch dann in der Verantwortung der Bauherren liegt. Passt ein grundsätzlich verfahrensfreies Vorhaben nicht zu den Festsetzungen, etwa des Bebauungsplans, ist nach Angabe der Stadt ein formloser Antrag auf Abweichung, Ausnahme oder Befreiung möglich. Für Grenzabstände von Hecken und Pflanzen verweist die Stadt auf das Nachbarrechtsgesetz Baden-Württemberg und eine Broschüre des Justizministeriums; zivilrechtliche Nachbarfragen beantwortet sie nicht selbst. Eine Bauberatung im Technischen Rathaus hilft bei der Einordnung."
+    },
+    {
+      "h2": "Pflaster, Rasengitter und Zisterne: die Niederschlagswassergebühr in Mannheim",
+      "text": "Mannheim berechnet die Niederschlagswassergebühr nach der an das Kanalnetz angeschlossenen Grundstücksfläche. Eine neue Terrassenüberdachung oder eine gepflasterte Zufahrt kann diese Fläche vergrößern. Die Abwassersatzung unterscheidet dabei: Flächen mit Rasengittersteinen oder Schotter zählen gar nicht, wasserdurchlässiges Pflaster zur Hälfte, ebenso Flächen, deren Regen in eine Zisterne ab einem Kubikmeter mit Überlauf läuft. Wer Regenwasser stattdessen auf dem Grundstück versickern lassen möchte, wendet sich an die untere Wasserbehörde; die Stadt nennt als Maßstab eine Versickerung über mindestens 30 cm bewachsenen Boden. Für die Entsiegelung mit anschließender Begrünung führt die Stadt ein eigenes Förderprogramm, das die Klimaschutzagentur verwaltet."
+    },
+    {
+      "h2": "Bäume, Starkregen und Fundamente im Garten",
+      "text": "Für Punktfundamente einer Überdachung oder Carports wird im Wurzelbereich gegraben. Nach der Mannheimer Baumschutzsatzung sind Bäume ab 60 cm Stammumfang in einem Meter Höhe geschützt, und als Wurzelbereich gilt der Kronenbereich zuzüglich 1,50 m, auch wenn der Baum auf dem Nachbargrundstück steht. Für Lage und Gefälle der Terrasse hilft die Starkregengefahrenkarte im Geoportal der Stadt, die für berechnete Stadtteile zeigt, wo sich bei Starkregen Wasser sammelt. Beschreiben Sie Ihr Projekt über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Nach Angabe der Stadt Mannheim sind alle verfahrensfreien Vorhaben in § 50 LBO und dessen Anhang aufgelistet; die Einhaltung der öffentlich-rechtlichen Vorschriften liegt in der Verantwortung des Bauherrn, und für ein grundsätzlich verfahrensfreies Vorhaben kann ein formloser Antrag auf Abweichungen, Ausnahmen oder Befreiungen gestellt werden.",
+      "quelle": "Stadt Mannheim – Bauantrag/Baugenehmigung",
+      "url": "https://www.mannheim.de/de/service-bieten/bauen-und-wohnen/bauen-und-baurecht/bauantragbaugenehmigung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach § 16 der Mannheimer Abwassersatzung werden Rasengitter- und Schotterflächen zu 0 %, wasserdurchlässig gepflasterte Flächen zu 50 % und Flächen mit Anschluss an eine Zisterne ab 1 m³ mit Überlauf zu 50 % für die Niederschlagswassergebühr angesetzt.",
+      "quelle": "Stadt Mannheim – Satzung über die öffentliche Abwasserbeseitigung 2026",
+      "url": "https://www.mannheim.de/sites/default/files/2026-01/Abwassersatzung%202026.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Mannheimer Baumschutzsatzung schützt Bäume mit einem Stammumfang von über 60 cm in 1 m Höhe; als Wurzelbereich gilt der Kronenbereich zuzüglich 1,50 m, und auch Bäume auf angrenzenden Grundstücken können von Bauarbeiten betroffen sein.",
+      "quelle": "Stadt Mannheim – Baumschutzsatzung",
+      "url": "https://www.mannheim.de/de/service-bieten/umwelt/naturschutz/baumschutzsatzung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Zum privaten Nachbarschaftsrecht verweist die Stadt Mannheim auf das Nachbarrechtsgesetz Baden-Württemberg und eine Broschüre des Justizministeriums, die auch Pflanzabstände an Grundstücksgrenzen behandelt.",
+      "quelle": "Stadt Mannheim – Nachbarschaftsrecht",
+      "url": "https://www.mannheim.de/de/service-bieten/bauen-und-wohnen/bauen-und-baurecht/nachbarschaftsrecht",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut Stadt Mannheim wird Niederschlagswasser nur dann schadlos beseitigt, wenn es flächenhaft oder in Mulden über mindestens 30 cm mächtigen bewachsenen Boden versickert; vorausgesetzt werden zudem ein versickerungsfähiger Boden ohne verzeichnete Altlasten.",
+      "quelle": "Stadt Mannheim – Versickerung von Niederschlagswasser",
+      "url": "https://www.mannheim.de/de/service-bieten/umwelt/grundwasser-und-gewaesserschutz/versickerung-von-niederschlagswasser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Starkregengefahrenkarte der Stadt Mannheim ist im städtischen Geoportal veröffentlicht und betrachtet drei Ereignisse: ein seltenes (etwa alle 30 Jahre), ein außergewöhnliches (100-jährliches) und ein Extremereignis.",
+      "quelle": "Stadt Mannheim – Starkregen",
+      "url": "https://www.mannheim.de/de/service-bieten/klima/anpassung-an-den-klimawandel/starkregen",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo finde ich in Mannheim heraus, ob meine Terrassenüberdachung eine Genehmigung braucht?",
+      "a": "Die Stadt verweist auf § 50 LBO mit Anhang und auf mögliche Festsetzungen von Bebauungsplänen. Auskunft gibt die Bauberatung des Fachbereichs Baurecht, Bauverwaltung und Denkmalschutz."
+    },
+    {
+      "q": "Wirkt sich neues Pflaster in Mannheim auf die Abwassergebühr aus?",
+      "a": "Die Niederschlagswassergebühr richtet sich nach der an den Kanal angeschlossenen Fläche. Rasengitter und Schotter zählen nach der Abwassersatzung nicht, wasserdurchlässiges Pflaster zur Hälfte."
+    },
+    {
+      "q": "Steht der Baum neben meiner geplanten Terrasse unter Schutz?",
+      "a": "In Mannheim sind Bäume ab 60 cm Stammumfang in einem Meter Höhe durch die Baumschutzsatzung geschützt. Rückfragen beantwortet das Team Baumschutzsatzung im Fachbereich Klima, Natur, Umwelt."
+    }
+  ],
+  "offen": [
+    "Keine Maße zu verfahrensfreien Überdachungen/Carports genannt (Vorgabe: keine eigene LBO-Auslegung); die Stadt gibt selbst keine Maße an.",
+    "Starkregengefahrenkarte liegt laut Stadt bisher nur für einzelne Stadtteile vor (Neckarau, Casterfeld, Feudenheim); im Text nur „für berechnete Stadtteile“.",
+    "Hinweis „Bauberatung im Technischen Rathaus“ stammt aus der Bauberatungsseite (bereits Fakt auf hochbau--mannheim), hier nicht erneut als Fakt geführt."
+  ]
+}

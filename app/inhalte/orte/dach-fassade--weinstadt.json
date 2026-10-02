@@ -1,0 +1,88 @@
+{
+  "leistung": "dach-fassade",
+  "ort": "weinstadt",
+  "ortName": "Weinstadt",
+  "kreis": "Rems-Murr-Kreis",
+  "title": "Dachdecker Weinstadt – Fachbetrieb kostenlos vermittelt",
+  "description": "Dachdecker in Weinstadt: Solarkataster im BürgerGIS, Dachformen im Bebauungsplan, Sanierungsgebiet Ortskern Beutelsbach. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Dachdecker in Weinstadt",
+  "einstieg": "Ob in Beutelsbach, Endersbach, Großheppach, Schnait oder Strümpfelbach: Wer in Weinstadt einen Dachdecker sucht, will häufig mehr als nur Ziegel tauschen. Neueindeckung, Dämmung und eine Photovoltaikanlage lassen sich bei einer Dachsanierung in einem Zug planen, und die Stadt stellt dafür einige Werkzeuge bereit.",
+  "abschnitte": [
+    {
+      "h2": "Solarkataster im BürgerGIS: das eigene Dach vorab prüfen",
+      "text": "Im kostenlosen BürgerGIS der Stadt Weinstadt gibt es ein überarbeitetes Solarkataster, das für jedes Gebäude Dachausrichtung, Dachneigung und den maximal erreichbaren Jahresertrag aus Photovoltaik oder Solarthermie anzeigt. Die Stadt weist darauf hin, dass dieses Potenzial von einer vollständig belegten Dachfläche ausgeht und die technische Umsetzbarkeit stark davon abweichen kann, etwa durch Gauben, Kamine oder Dachfenster. Als zweiten Schritt nennt sie den Energieatlas Baden-Württemberg für eine erste Wirtschaftlichkeitsrechnung. Installiert werden Solaranlagen laut Stadt von Elektrotechnik-Unternehmen, aber auch von manchen Dachdeckern und Heizungsbetrieben; bei einer Dachsanierung bietet es sich an, Unterkonstruktion und Durchdringungen gleich mit dem Dachdecker abzustimmen."
+    },
+    {
+      "h2": "Dachform, Bebauungsplan und Ortskern Beutelsbach",
+      "text": "Welche Dachform auf einem Grundstück zulässig ist, regelt in Weinstadt in der Regel der Bebauungsplan; Dachformen gehören laut Stadt zu den typischen Festsetzungen. Alle rechtskräftigen Pläne können im Stadtplanungsamt eingesehen werden, neuere auch im BürgerGIS. Für den Ortskern Beutelsbach läuft seit der Aufnahme in das Programm „Lebendige Zentren“ im Jahr 2023 die Vorbereitung eines Sanierungsgebiets von rund 8,3 Hektar. Zu den Sanierungszielen gehört die energetische Sanierung des Gebäudebestands. Private Eigentümer können nach Angaben der Stadt Fördermittel beantragen, sobald das Gebiet vom Gemeinderat förmlich festgelegt ist."
+    },
+    {
+      "h2": "Neutrale Beratung und der Weg zum Fachbetrieb",
+      "text": "Die Energieagentur Rems-Murr bietet Weinstädter Eigentümern eine kostenlose Erstberatung an, auch im Technischen Rathaus in Beutelsbach, und auf Wunsch eine ganzheitliche Energieberatung vor Ort. Wenn Ihr Vorhaben feststeht, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Das Solarkataster im BürgerGIS der Stadt Weinstadt zeigt für jedes Gebäude Dachausrichtung, Dachneigung und den maximal erreichbaren Jahresertrag aus Photovoltaik oder Solarthermie.",
+      "quelle": "Stadt Weinstadt – Solar-Offensive",
+      "url": "https://www.weinstadt.de/de/Klimaschutz/Solar-Offensive",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut Stadt Weinstadt geht das Kataster von einer vollständig und lückenlos belegten Dachfläche aus; die technische Umsetzbarkeit kann stark davon abweichen und sollte in einer detaillierten Planung eingeordnet werden.",
+      "quelle": "Stadt Weinstadt – Solar-Offensive",
+      "url": "https://www.weinstadt.de/de/Klimaschutz/Solar-Offensive",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Installation von Photovoltaikanlagen wird nach Angaben der Stadt Weinstadt von Elektrotechnik-Unternehmen, aber auch von manchen Dachdeckern und Heizung-Lüftung-Sanitär-Betrieben angeboten.",
+      "quelle": "Stadt Weinstadt – Solar-Offensive",
+      "url": "https://www.weinstadt.de/de/Klimaschutz/Solar-Offensive",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bebauungspläne in Weinstadt enthalten laut Stadt unter anderem Festsetzungen zu Dachformen; alle rechtskräftigen Pläne sind im Stadtplanungsamt einsehbar, neuere auch im Bürger-GIS.",
+      "quelle": "Stadt Weinstadt – Bebauungspläne",
+      "url": "https://www.weinstadt.de/de/Stadt-Service/Bauen-Gewerbe/Bebauungsplaene",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Ortskern Beutelsbach wurde 2023 in das Städtebauförderprogramm „Lebendige Zentren“ aufgenommen; zu den Sanierungszielen gehört die energetische Sanierung des Gebäudebestands, das Untersuchungsgebiet umfasst rund 8,3 Hektar.",
+      "quelle": "Stadt Weinstadt – Sanierungsgebiet Beutelsbach",
+      "url": "https://www.weinstadt.de/de/Aktuelles/temp.Projekte/Sanierungsgebiet-Beutelsbach",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Privatpersonen können im Sanierungsgebiet Beutelsbach laut Stadt Fördermittel beantragen, sobald das Gebiet durch Beschluss des Gemeinderats förmlich festgelegt ist.",
+      "quelle": "Stadt Weinstadt – Sanierungsgebiet Beutelsbach",
+      "url": "https://www.weinstadt.de/de/Aktuelles/temp.Projekte/Sanierungsgebiet-Beutelsbach",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Energieagentur Rems-Murr bietet Weinstädter Eigentümern eine kostenlose Erstberatung in ihren Räumen oder im Technischen Rathaus in Beutelsbach sowie eine ganzheitliche Energieberatung vor Ort an.",
+      "quelle": "Stadt Weinstadt – Energieberatung",
+      "url": "https://www.weinstadt.de/de/Klimaschutz/Energieberatung",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie finde ich heraus, ob sich mein Dach in Weinstadt für Photovoltaik eignet?",
+      "a": "Einen ersten Anhaltspunkt gibt das Solarkataster im BürgerGIS der Stadt Weinstadt mit Ausrichtung, Neigung und maximalem Ertrag je Gebäude. Weil es von einer voll belegten Dachfläche ausgeht, gehört die genaue Auslegung in die Planung mit dem Fachbetrieb."
+    },
+    {
+      "q": "Welche Dachform darf ich in Weinstadt bauen?",
+      "a": "Das regelt in der Regel der Bebauungsplan für das Grundstück. Rechtskräftige Pläne sind im Stadtplanungsamt einsehbar, neuere auch im BürgerGIS; Auskunft gibt das Baurechtsamt der Stadt."
+    },
+    {
+      "q": "Gibt es für Dachsanierungen im Ortskern Beutelsbach Fördermittel?",
+      "a": "Für das geplante Sanierungsgebiet Beutelsbach können Privatpersonen laut Stadt Fördermittel beantragen, sobald der Gemeinderat das Gebiet förmlich festgelegt hat. Ansprechpartnerin ist die Stadtplanung im Technischen Rathaus."
+    }
+  ],
+  "offen": [
+    "Stand des Sanierungsgebiets Beutelsbach (förmliche Festlegung erfolgt?) auf der Seite nicht aktuell erkennbar; Formulierung bedingt („sobald …“).",
+    "Keine Gestaltungs- oder Ortskernsatzung mit Dachvorgaben für Weinstadt gefunden.",
+    "Starkregen- und Dachbegrünungsvorgaben für Weinstadt nicht recherchiert.",
+    "Beispiele „Gauben, Kamine oder Dachfenster“ als Erläuterung ergänzt, auf der Stadtseite als „kleinteilige Elemente“ bezeichnet."
+  ]
+}

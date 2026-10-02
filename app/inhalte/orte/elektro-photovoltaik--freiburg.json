@@ -1,0 +1,82 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "freiburg",
+  "ortName": "Freiburg",
+  "kreis": "Freiburg im Breisgau",
+  "title": "Elektriker Freiburg – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Freiburg für Zählerschrank, Wallbox und Photovoltaik: Netzanmeldung, Solarkampagne und Altstadt-Regeln im Blick. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Elektriker in Freiburg",
+  "einstieg": "Wer in Freiburg einen Elektriker sucht, plant oft mehr als neue Steckdosen: Ein Zählerschrank nach heutigem Stand, eine Wallbox in der Garage oder eine Photovoltaikanlage auf dem Dach in Herdern, St. Georgen oder Zähringen hängen technisch eng zusammen. Mit rund 1.800 Sonnenstunden im Jahr sind die Voraussetzungen für Solarstrom gut, die Abstimmung mit dem Netzbetreiber und in der Innenstadt mit der Denkmalbehörde gehört aber dazu.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker in Freiburg: Netzanschluss über badenovaNETZE",
+      "text": "Für das Freiburger Stromnetz ist laut dem städtischen Faktenblatt zu Meldepflichten die badenovaNETZE GmbH zuständig. Der erste Kontakt läuft noch vor der Inbetriebnahme einer PV-Anlage: Der ausführende Solarbetrieb stellt das Netzanschlussbegehren, dabei wird unter anderem der Einspeisepunkt festgelegt. Nach der Inbetriebnahme bestätigt der Betrieb dem Netzbetreiber die fachgerechte Installation. Ähnliches gilt für Ladetechnik: Das Faktenblatt zur E-Mobilität nennt für Wallboxen ab 3,6 kW eine Anmeldung beim örtlichen Netzbetreiber, über 11 kW zusätzlich dessen Zustimmung. Wer Photovoltaik, Speicher und Wallbox kombinieren will, lässt Zählerplatz und Hausanschluss deshalb sinnvollerweise in einem Zug planen, damit Messkonzept und Steuerbarkeit zusammenpassen."
+    },
+    {
+      "h2": "Solarstrom in der Gesamtanlage Altstadt",
+      "text": "Innerhalb des Rings rund um die historische Altstadt gilt die Satzung zum Schutz der Gesamtanlage „Historische Altstadt und Innenstadtbereich“. Sie nennt Photovoltaik-Anlagen und andere Anlagen zur Nutzung der Sonnenenergie ausdrücklich als genehmigungspflichtige Veränderung, auch wenn keine Baugenehmigung nötig ist. Zuständig ist die untere Denkmalschutzbehörde im Baurechtsamt. Für Häuser außerhalb der in der Satzung abgegrenzten Innenstadt, etwa in den Ortschaften wie Hochdorf oder Munzingen, gilt diese Satzung nicht, Einzeldenkmale ausgenommen; dort ist eher die Frage, ob Dach und Hausanschluss für die geplante Leistung ausreichen. Größere Anlagen über 30 kWp tragen nach Angaben der Stadt die Netzanschlusskosten bis zum Verknüpfungspunkt selbst, die Stadt hat dafür ein eigenes Förderprogramm aufgelegt."
+    },
+    {
+      "h2": "Städtische Beratung vor dem Angebot",
+      "text": "Seit 2017 wirbt die Stadt mit der Kampagne „Dein Dach kann mehr!“ für Solaranlagen auf Dächern, Balkonen und Fassaden. Das Umweltschutzamt bietet dazu kostenlose, unabhängige Photovoltaik-Beratungen am Telefon oder im Beratungsbüro an; Fragen zu Balkon-PV beantwortet die Energieberatungshotline. Steht Ihr Vorhaben fest, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Regionaler Netzbetreiber in Freiburg ist laut städtischem Faktenblatt die badenovaNETZE GmbH; das Netzanschlussbegehren für eine PV-Anlage stellt in der Regel der Solarbetrieb noch vor der Inbetriebnahme (Stand Juli 2025).",
+      "quelle": "Stadt Freiburg – Faktenblatt Nr. 9 „Wo melde ich meine Photovoltaikanlage an?“",
+      "url": "https://www.freiburg.de/pb/site/Freiburg/get/params_E1444993372/2536052/9_Meldepflichten_V3c_Juli25_Vorschau.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das städtische Faktenblatt zur E-Mobilität nennt für Wallboxen ab 3,6 kW bis 11 kW Ladeleistung eine Anmeldepflicht beim örtlichen Netzbetreiber, über 11 kW zusätzlich dessen Zustimmung; die Installation darf nur ein Elektrofachbetrieb vornehmen.",
+      "quelle": "Stadt Freiburg – Faktenblatt Nr. 11 „Sonnenstrom tanken“",
+      "url": "https://www.freiburg.de/pb/site/Freiburg/get/params_E-1396998635/2536056/11_E-Mobiliaet_V4b_Juni26_Vorschau.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach der Satzung über die Gesamtanlage „Historische Altstadt und Innenstadtbereich“ bedürfen auch Photovoltaik-Anlagen und sonstige Solaranlagen der Genehmigung der unteren Denkmalschutzbehörde, selbst wenn sie baugenehmigungsfrei sind.",
+      "quelle": "Stadt Freiburg – Ortsrecht 10.03, Satzung Gesamtanlage Historische Altstadt und Innenstadtbereich",
+      "url": "https://www.freiburg.de/pb/site/Freiburg/get/documents_E1619767552/freiburg/daten/ortsrecht/10%20Denkmalschutz/OrtsR_10_03.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Freiburg hat nach Angaben der Stadt rund 1.800 Sonnenstunden im Jahr; mit einer Photovoltaik- und Windkraftoffensive soll die Solarenergie bis 2030 verfünffacht werden.",
+      "quelle": "Stadt Freiburg – Solarenergie",
+      "url": "https://www.freiburg.de/pb/232529.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bei Solaranlagen über 30 kWp tragen die Betreibenden laut Stadt die Kosten bis zum Netzverknüpfungspunkt; hier setzt das städtische Förderprogramm Netzanschlusserweiterung an.",
+      "quelle": "Stadt Freiburg – Solarenergie",
+      "url": "https://www.freiburg.de/pb/232529.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Mit der Kampagne „Dein Dach kann mehr!“ unterstützt die Stadt seit 2017 Photovoltaik auf Dächern, Balkonen und Fassaden; das Umweltschutzamt bietet kostenlose und unabhängige PV-Beratungen telefonisch oder im Beratungsbüro an.",
+      "quelle": "Stadt Freiburg – Kostenlose Beratungen zur Photovoltaik",
+      "url": "https://www.freiburg.de/pb/1077088.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wer ist in Freiburg Netzbetreiber für PV-Anlage und Wallbox?",
+      "a": "Laut Faktenblatt der Stadt ist es die badenovaNETZE GmbH. Netzanschlussbegehren und Fertigmeldung übernimmt in der Regel der ausführende Fachbetrieb."
+    },
+    {
+      "q": "Darf ich in der Freiburger Altstadt eine Solaranlage auf das Dach setzen?",
+      "a": "Im Bereich der Gesamtanlage „Historische Altstadt und Innenstadtbereich“ sind Solaranlagen genehmigungspflichtig. Auskunft gibt die untere Denkmalschutzbehörde im Baurechtsamt."
+    },
+    {
+      "q": "Gibt es in Freiburg eine neutrale Beratung zu Photovoltaik?",
+      "a": "Ja, die Stadt bietet im Rahmen von „Dein Dach kann mehr!“ kostenlose Beratungen am Telefon oder im Beratungsbüro an. Die Zahl der Termine ist begrenzt."
+    }
+  ],
+  "offen": [
+    "badenovaNETZE als Netzbetreiber nur über das städtische Faktenblatt (Stand Juli 2025) belegt, nicht über eine Seite des Netzbetreibers selbst.",
+    "Stadtteilnamen im Einstieg (Herdern, St. Georgen, Zähringen) nicht durch Fakten belegt; dass die Ortschaften (Hochdorf, Munzingen) außerhalb der Gesamtanlage liegen, aus der Abgrenzung in § 2 der Satzung (Ringstraßen der Innenstadt) abgeleitet. Andere Denkmal- oder Bebauungsplanvorgaben dort nicht geprüft.",
+    "Faktenblatt E-Mobilität nennt Anmeldepflicht/Zustimmung – als Wiedergabe formuliert; siehe Anwaltsfrage.",
+    "Ziel „Solarenergie bis 2030 verfünffachen“ ist ein städtisches Ziel, keine Zusage."
+  ]
+}

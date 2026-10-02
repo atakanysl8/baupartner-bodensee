@@ -1,0 +1,81 @@
+{
+  "leistung": "maler-fliesen-boeden",
+  "ort": "esslingen",
+  "ortName": "Esslingen",
+  "kreis": "Esslingen",
+  "title": "Maler & Fliesenleger Esslingen – kostenlos vermittelt",
+  "description": "Maler und Fliesenleger in Esslingen am Neckar: Putz und Farbe in der Gesamtanlage, Sanierungsgebiete und Genehmigungen bei der Stadt. Kostenlos vermittelt.",
+  "h1": "Maler und Fliesenleger in Esslingen",
+  "einstieg": "Ein neuer Fassadenanstrich in der Pliensauvorstadt, Fliesen in der Küche oder ein neuer Boden im Altbau am Burgberg: Wer in Esslingen am Neckar einen Maler oder Fliesenleger beauftragt, sollte vorab klären, wo das Haus liegt. Innen gelten selten Sonderregeln, außen dagegen kann schon die Farbe des Putzes genehmigungspflichtig sein.",
+  "abschnitte": [
+    {
+      "h2": "Putz und Farbe in der Esslinger Gesamtanlage",
+      "text": "Die Satzung über die Gesamtanlage „Esslingen am Neckar“ von 2015 stellt nicht nur die ehemalige Reichsstadt unter Schutz, sondern auch Pliensau- und Obertorvorstadt sowie Gebiete westlich und östlich der früheren Stadtmauer mit Bauten aus der Industrialisierung. Dort sind laut Satzung auch Veränderungen genehmigungspflichtig, die keine Baugenehmigung brauchen: ausdrücklich genannt werden Außenwandbekleidungen, Wärmedämmung, Verputz und Farbe sowie Fassadenelemente wie Türen, Fenster und Fensterläden. Zuständig ist die Stadt als untere Denkmalschutzbehörde. Nach der Satzung ist die Genehmigung zu erteilen, wenn das Bild der Gesamtanlage nur unerheblich oder vorübergehend beeinträchtigt würde. Welche Farbtöne und Putzstrukturen dort in Frage kommen, beantwortet die Denkmalschutzbehörde."
+    },
+    {
+      "h2": "Sanierungsgebiete: wenn ein Vermerk im Grundbuch steht",
+      "text": "Neben dem Denkmalschutz kennt Esslingen förmlich festgelegte Sanierungsgebiete. Nach Angaben der Stadt wird dort in der Regel ein Sanierungsvermerk ins Grundbuch eingetragen, und bauliche Veränderungen unterliegen nach § 144 Baugesetzbuch einer besonderen Genehmigung der Stadt. Ein Beispiel ist das rund 43 Hektar große Gebiet Mettingen-West, Brühl, Weil, das 2016 in das Programm „Soziale Stadt“ aufgenommen wurde. Im früheren Sanierungsgebiet Mettingen wurden auch private Modernisierungen gefördert. Ob ein Gebäude betroffen ist, beantwortet die Stadt."
+    },
+    {
+      "h2": "Innen: Fliesen und Böden ohne Satzungsfragen",
+      "text": "Für Fliesen, Parkett oder Vinyl in der Wohnung greifen Gesamtanlage und Sanierungsrecht in der Regel nicht, solange nichts am äußeren Bild verändert wird; bei eingetragenen Kulturdenkmalen kann auch das Innere geschützt sein, Auskunft gibt die Denkmalschutzbehörde. Wenn Sie wissen, was gemacht werden soll, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Nach § 4 der Satzung über die Gesamtanlage „Esslingen am Neckar“ sind unter anderem Außenwandbekleidungen, Wärmedämmung, Verputz und Farbe sowie Türen, Fenster und Fensterläden genehmigungspflichtig, auch wenn sie keiner Baugenehmigung bedürfen.",
+      "quelle": "Stadt Esslingen am Neckar – Ortsrecht 6/3, Satzung Gesamtanlage",
+      "url": "https://www.esslingen.de/site/Esslingen_Layout_2022/get/documents_E501927659/es/Datenquelle-Esslingen-2022/Ortsrecht/6_Bau_Wohnungswesen/Ortsrecht%20ES%20Internet%206-3.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Gesamtanlage umfasst neben der ehemaligen Reichsstadt auch Pliensau- und Obertorvorstadt sowie Gebiete westlich und östlich der spätmittelalterlichen Stadtmauer; die Satzung wurde 2015 bekannt gemacht.",
+      "quelle": "Stadt Esslingen am Neckar – Ortsrecht 6/3, Satzung Gesamtanlage",
+      "url": "https://www.esslingen.de/site/Esslingen_Layout_2022/get/documents_E501927659/es/Datenquelle-Esslingen-2022/Ortsrecht/6_Bau_Wohnungswesen/Ortsrecht%20ES%20Internet%206-3.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut Satzung ist die Genehmigung zu erteilen, wenn die Veränderung das Bild der Gesamtanlage nur unerheblich oder nur vorübergehend beeinträchtigen würde; sie kann mit Bedingungen und Auflagen verbunden werden.",
+      "quelle": "Stadt Esslingen am Neckar – Ortsrecht 6/3, Satzung Gesamtanlage",
+      "url": "https://www.esslingen.de/site/Esslingen_Layout_2022/get/documents_E501927659/es/Datenquelle-Esslingen-2022/Ortsrecht/6_Bau_Wohnungswesen/Ortsrecht%20ES%20Internet%206-3.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In förmlich festgelegten Sanierungsgebieten wird grundsätzlich ein Sanierungsvermerk ins Grundbuch eingetragen; bauliche Veränderungen unterliegen dann nach § 144 BauGB einer besonderen Genehmigungspflicht durch die Stadt.",
+      "quelle": "Stadt Esslingen am Neckar – Sanierungsgebiete",
+      "url": "https://www.esslingen.de/wohnen-und-bauen/stadtentwicklung/sanierungsgebiete",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Sanierungsgebiet „Soziale Stadt“ Mettingen-West, Brühl, Weil umfasst rund 43 Hektar und wurde 2016 in das Bund-Länder-Programm aufgenommen.",
+      "quelle": "Stadt Esslingen am Neckar – Sanierungsgebiete",
+      "url": "https://www.esslingen.de/wohnen-und-bauen/stadtentwicklung/sanierungsgebiete",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im abgeschlossenen Sanierungsgebiet Mettingen wurden im Landessanierungsprogramm auch private Modernisierungsmaßnahmen gefördert.",
+      "quelle": "Stadt Esslingen am Neckar – Sanierungsgebiete",
+      "url": "https://www.esslingen.de/wohnen-und-bauen/stadtentwicklung/sanierungsgebiete",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich in der Esslinger Altstadt eine Genehmigung für einen neuen Fassadenanstrich?",
+      "a": "Im Bereich der Gesamtanlage nennt die Satzung Verputz und Farbe ausdrücklich als genehmigungspflichtig. Zuständig ist die Stadt Esslingen als untere Denkmalschutzbehörde."
+    },
+    {
+      "q": "Gilt der Schutz der Gesamtanlage auch in der Pliensauvorstadt?",
+      "a": "Ja, laut Satzung gehören die Gebiete der ehemaligen Pliensau- und Obertorvorstadt zum Schutzgegenstand."
+    },
+    {
+      "q": "Was ändert ein Sanierungsgebiet in Esslingen für Arbeiten am Haus?",
+      "a": "Nach Angaben der Stadt unterliegen bauliche Veränderungen dort einer besonderen Genehmigungspflicht nach § 144 Baugesetzbuch. Ob Ihr Grundstück in einem Sanierungsgebiet liegt, beantwortet die Stadt."
+    }
+  ],
+  "offen": [
+    "Ortsnennungen „Pliensauvorstadt“ und „Burgberg“ im Einstieg: Pliensauvorstadt ist in der Satzung genannt, Burgberg auf der städtischen Denkmalschutzseite (Hänge); die Zuordnung eines konkreten Hauses ist frei gewählt.",
+    "Satz zu Fliesen/Böden („greifen in der Regel nicht“) ist eine allgemeine Einordnung; die Stadt nennt bei Kulturdenkmalen den Schutz von Erscheinungsbild und Substanz.",
+    "Steuerliche Abschreibung in Sanierungsgebieten (Sanierungsvertrag vor Baubeginn) steht auf der Stadtseite, wurde als Steuer-/Rechtsthema bewusst nicht übernommen."
+  ]
+}

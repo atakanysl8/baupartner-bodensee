@@ -1,0 +1,87 @@
+{
+  "leistung": "dach-fassade",
+  "ort": "heilbronn",
+  "ortName": "Heilbronn",
+  "kreis": "Heilbronn",
+  "title": "Dachdecker Heilbronn – Fachbetrieb kostenlos vermittelt",
+  "description": "Dachdecker in Heilbronn: Dachsanierung mit PV-Pflicht, Gründach und Abwassergebühr, Tonziegel in Alt-Böckingen. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Dachdecker in Heilbronn",
+  "einstieg": "Ein Dach aus den Sechzigerjahren, das neu eingedeckt und gedämmt werden soll, ein Flachdach über der Garage, das begrünt werden könnte, oder ein Ziegeldach in Alt-Böckingen: Wer einen Dachdecker in Heilbronn sucht, plant selten nur neue Ziegel. Dämmung, Solarnutzung, Regenwasser und die Vorgaben der Stadt gehören bei einer Dachsanierung von Anfang an dazu.",
+  "abschnitte": [
+    {
+      "h2": "Dachsanierung in Heilbronn: viel Altbestand, Solar inklusive",
+      "text": "Nach der Bestandsanalyse des kommunalen Wärmeplans wurden rund 80 Prozent der Heilbronner Gebäude vor 1979 errichtet, also vor der ersten Wärmeschutzverordnung. Entsprechend häufig stehen Dachdämmung und Neueindeckung gemeinsam an. Hinzu kommt eine Landesregel: Das Klimaschutzgesetz Baden-Württemberg sieht eine Photovoltaikpflicht auch für Bestandsgebäude vor, wenn ein Dach grundlegend saniert wird. Als grundlegend gilt nach den Erläuterungen des Umweltministeriums, wenn Abdichtung oder Eindeckung vollständig erneuert werden; die Reparatur kurzfristiger Schäden wie nach einem Sturm ist ausgenommen. Ob und wie die Pflicht im Einzelfall greift, beantworten das Umweltministerium in seinen FAQ und die Energieagentur Heilbronn."
+    },
+    {
+      "h2": "Gründach und Regenwasser: was die Abwassersatzung vorsieht",
+      "text": "Heilbronn berechnet die Niederschlagswassergebühr nach der angeschlossenen, versiegelten Fläche, gewichtet nach Wasserdurchlässigkeit. Eine normale Dachfläche zählt laut Abwassersatzung voll, ein Gründach mit bis zu zwölf Zentimetern Schichtstärke mit dem Faktor 0,6 und ein stärkeres Gründach mit 0,3. Das Klimaanpassungskonzept der Stadt nennt Dach- und Fassadenbegrünung ausdrücklich als Maßnahme gegen Hitze in der dicht bebauten Innenstadt. Das Merkblatt der Entsorgungsbetriebe zum Starkregen zählt zudem eine undichte Dachhaut und schadhafte Regenrohre zu den typischen Wegen, auf denen Wasser ins Haus gelangt."
+    },
+    {
+      "h2": "Dachform, Ziegel und Ortsbild",
+      "text": "Viele Heilbronner Bebauungspläne legen Dachform, Dachneigung und Firstrichtung fest; vor einer Gaube oder Aufstockung lohnt daher ein Blick in den Plan beim Service-Center Bauen und Wohnen in der Cäcilienstraße. In Alt-Böckingen gehören naturrote Tonziegel zum typischen Ortsbild, und der Antrag nach der Erhaltungssatzung beschreibt Maßnahmen wie eine Neueindeckung ausdrücklich. Steht fest, was am Dach geschehen soll, schildern Sie es in unserem Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Laut Wärmeplan wurden rund 80 Prozent der Gebäude in Heilbronn vor 1979 gebaut, also vor Inkrafttreten der ersten Wärmeschutzverordnung mit Mindestanforderungen an die Dämmung.",
+      "quelle": "Stadt Heilbronn – Kommunale Wärmeplanung, Abschlussbericht",
+      "url": "https://www.heilbronn.de/fileadmin/daten/stadtheilbronn/formulare/umwelt_mobilitaet/energie/Waerme/2025_Bericht_kwp_heilbronn_compressed.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Klimaschutz- und Klimawandelanpassungsgesetz BW sieht die Photovoltaikpflicht auch bei grundlegender Dachsanierung vor; grundlegend ist nach Darstellung des Umweltministeriums eine vollständige Erneuerung von Abdichtung oder Eindeckung, nicht aber die Behebung kurzfristig eingetretener Schäden.",
+      "quelle": "Umweltministerium Baden-Württemberg – Photovoltaikpflicht: Fragen und Antworten",
+      "url": "https://um.baden-wuerttemberg.de/de/klima-energie/energiewende/erneuerbare-energien/sonnenenergie/photovoltaik/photovoltaikpflicht/faq-photovoltaikpflicht",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach § 39a der Heilbronner Abwassersatzung zählen Dachflächen bei der Niederschlagswassergebühr mit dem Faktor 1,0, Gründächer bis 12 cm Schichtstärke mit 0,6 und Gründächer über 12 cm mit 0,3.",
+      "quelle": "Stadt Heilbronn – Abwassersatzung",
+      "url": "https://www.heilbronn.de/fileadmin/daten/stadtheilbronn/formulare/rathaus/stadtrecht/7_Oeffentliche_Einrichtungen_und_Wirtschaftsfoerderung/7_3_Abwassersatzung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das am 27. April 2023 beschlossene Klimaschutzteilkonzept zur Anpassung an den Klimawandel umfasst 31 Maßnahmen, darunter Dach- und Fassadenbegrünung und Materialien mit hoher Albedo.",
+      "quelle": "Stadt Heilbronn – Anpassung an den Klimawandel",
+      "url": "https://www.heilbronn.de/umwelt-mobilitaet/klima-klimaschutz/anpassung-an-den-klimawandel.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Faltblatt der Heilbronner Entsorgungsbetriebe zum Schutz vor Starkregenschäden nennt eine undichte Dachhaut und Regenrohre als einen der möglichen Wasserzutrittswege ins Gebäude.",
+      "quelle": "Stadt Heilbronn – Schutz vor Starkregenschäden",
+      "url": "https://www.heilbronn.de/fileadmin/daten/stadtheilbronn/formulare/rathaus/abwasser/Faltblatt_Schutz_vor_Starkregenschaeden.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Zu den üblichen Festsetzungen Heilbronner Bebauungspläne zählt die Stadt die Begrenzung der Traufhöhe sowie die Festlegung von Dachformen, Dachneigungen und Firstrichtungen.",
+      "quelle": "Stadt Heilbronn – Grundstücke im Geltungsbereich eines qualifizierten Bebauungsplans",
+      "url": "https://www.heilbronn.de/bauen-wohnen/bauen/das-grundstueck/qualifizierter-bebauungsplan.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für Alt-Böckingen nennt die Stadt naturrote Tonziegel als typische Dacheindeckung; im Antrag nach der Erhaltungssatzung sind geplante Maßnahmen wie eine Neueindeckung des Dachs zu beschreiben.",
+      "quelle": "Stadt Heilbronn – Erhaltungssatzung Alt-Böckingen",
+      "url": "https://www.heilbronn.de/bauen-wohnen/stadtplanung/erhaltungssatzung-alt-boeckingen.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Gilt in Heilbronn bei einer Dachsanierung die Photovoltaikpflicht?",
+      "a": "Das Landesgesetz sieht sie bei grundlegender Dachsanierung vor, also wenn Abdichtung oder Eindeckung vollständig erneuert werden. Einzelheiten und Ausnahmen erläutert das Umweltministerium in seinen FAQ; eine neutrale Erstberatung bietet die Energieagentur Heilbronn."
+    },
+    {
+      "q": "Wirkt sich ein Gründach in Heilbronn auf die Abwassergebühr aus?",
+      "a": "Ja, nach der Abwassersatzung werden Gründächer bei der Niederschlagswassergebühr geringer gewichtet als normale Dachflächen, abhängig von der Schichtstärke. Fragen zur Flächenveranlagung beantworten die Entsorgungsbetriebe der Stadt."
+    },
+    {
+      "q": "Darf ich in Alt-Böckingen mein Dach neu eindecken?",
+      "a": "Im Geltungsbereich der Erhaltungssatzung ist für Änderungen am äußeren Erscheinungsbild eine Genehmigung der Stadt vorgesehen. Zuständig ist das Planungs- und Baurechtsamt, das im Verfahren auch eine kostenlose Beratung anbietet."
+    }
+  ],
+  "offen": [
+    "Ob die gewichteten Faktoren nach § 39a in der aktuell gültigen Fassung der Abwassersatzung unverändert gelten, wurde anhand der auf heilbronn.de verlinkten Satzungsfassung geprüft, nicht anhand eines Änderungsverzeichnisses.",
+    "Ein städtisches Gründach-Förderprogramm wurde für Heilbronn nicht gefunden.",
+    "Eine eigene Starkregengefahrenkarte der Stadt wurde nicht gesucht; nur das Faltblatt der Entsorgungsbetriebe verwendet."
+  ]
+}

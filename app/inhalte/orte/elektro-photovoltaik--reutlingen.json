@@ -1,0 +1,94 @@
+{
+  "leistung": "elektro-photovoltaik",
+  "ort": "reutlingen",
+  "ortName": "Reutlingen",
+  "kreis": "Reutlingen",
+  "title": "Elektriker Reutlingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Elektriker in Reutlingen: PV-Anlage, Wallbox und Speicher beim Netzbetreiber anmelden, § 14a EnWG, Balkonkraftwerk, Beratung im Kreis. Kostenlos vermittelt.",
+  "h1": "Elektriker in Reutlingen",
+  "einstieg": "Wer in Reutlingen einen Elektriker sucht, hat oft ein Vorhaben, das weit über eine neue Steckdose hinausgeht: Photovoltaik auf dem Dach in Betzingen oder Sondelfingen, eine Wallbox in der Garage, ein Batteriespeicher oder ein Zählerschrank, der für die geplante Wärmepumpe nicht mehr reicht. Fast all das wird beim örtlichen Stromnetzbetreiber angemeldet.",
+  "abschnitte": [
+    {
+      "h2": "Elektriker in Reutlingen: vom PV-Antrag bis zum neuen Zähler",
+      "text": "Das Stromnetz in Reutlingen betreibt die FairNetz. Eine Erzeugungsanlage wird dort über das Installateurs- oder Netzanschlussportal angemeldet. Danach prüft der Netzbetreiber, ob der Hausanschluss die gewünschte Einspeiseleistung aufnehmen kann; erst dann folgt die Einspeisezusage, die in der Regel sechs Monate gilt. Sind Module und Wechselrichter montiert und ist der Zählerplatz vorbereitet, meldet das Vertragsinstallationsunternehmen die Fertigstellung. Die Registrierung im Marktstammdatenregister bleibt Aufgabe des Anlagenbetreibers und ist laut FairNetz Voraussetzung für die Auszahlung der Einspeisevergütung. Baurechtlich sieht das Land für Solaranlagen an und auf Gebäuden nach Darstellung der Stadt grundsätzlich keine Genehmigungspflicht vor; bei Kulturdenkmalen ist die Denkmalschutzbehörde einzubeziehen."
+    },
+    {
+      "h2": "Wallbox, Wärmepumpe und Speicher im Reutlinger Netz",
+      "text": "Eine Ladeeinrichtung ist bei der FairNetz grundsätzlich anmeldepflichtig. Liegt die Summenbemessungsleistung über 12 kVA, etwa bei zwei Wallboxen mit je 11 kW, braucht sie zusätzlich eine Genehmigung. Wallboxen, Wärmepumpen und Batteriespeicher mit mehr als 4,2 kW gelten als steuerbare Verbrauchseinrichtungen nach § 14a EnWG. Bei hoher Netzauslastung darf ihre Leistung vorübergehend begrenzt werden, eine Mindestleistung bleibt jedoch erhalten. Im Gegenzug sinken die Netzentgelte, wahlweise pauschal oder als prozentualer Abschlag auf den Arbeitspreis. Bei Balkonkraftwerken verweist der Netzbetreiber auf die VDE-Empfehlung, oberhalb von 960 Wp Modulleistung eine Elektrofachkraft hinzuzuziehen und eine Energiesteckdose zu installieren."
+    },
+    {
+      "h2": "Klimaziel 2040 und neutrale Beratung im Landkreis",
+      "text": "Die Stadt Reutlingen strebt Klimaneutralität bis spätestens 2040 an. Mit ihrem Energienutzungsplan hat sie die Vorgaben des Landes zur kommunalen Wärmeplanung umgesetzt und ihn um den Energiesektor ergänzt. Für Fragen vor der Auftragsvergabe bietet die KlimaschutzAgentur des Landkreises wöchentliche telefonische Energieberatungen an, die kostenfrei sind und etwa 45 Minuten dauern; Photovoltaik gehört zu ihren Themen. Wenn Sie Ihr Vorhaben über unser Formular schildern, wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Erzeugungsanlagen werden bei der FairNetz über das Installateurs- oder Netzanschlussportal angemeldet; nach einer Netzverträglichkeitsprüfung folgt die Einspeisezusage, die Leitungsreservierung gilt in der Regel sechs Monate.",
+      "quelle": "FairNetz Reutlingen – Einspeisung Schritt für Schritt",
+      "url": "https://www.fairnetzgmbh.de/privatkunden/einspeisung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Fertigstellung meldet das Vertragsinstallationsunternehmen, sobald Module und Wechselrichter installiert sind und der Zählerplatz vorbereitet ist; die Registrierung im Marktstammdatenregister ist Voraussetzung für die Auszahlung der Einspeisevergütung.",
+      "quelle": "FairNetz Reutlingen – Einspeisung Schritt für Schritt",
+      "url": "https://www.fairnetzgmbh.de/privatkunden/einspeisung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ladeeinrichtungen sind bei der FairNetz grundsätzlich anmeldepflichtig; bei einer Summenbemessungsleistung über 12 kVA, etwa zwei Ladepunkten mit je 11 kW, sind sie zusätzlich genehmigungspflichtig.",
+      "quelle": "FairNetz Reutlingen – E-Ladesäule anmelden",
+      "url": "https://www.fairnetzgmbh.de/privatkunden/e-ladesaeule",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Steuerbare Verbrauchseinrichtungen über 4,2 kW wie private Wallboxen, Wärmepumpen und Batteriespeicher darf der Netzbetreiber bei hoher Netzauslastung vorübergehend begrenzen; die Betreiber erhalten reduzierte Netzentgelte nach Modul 1, 2 oder 3.",
+      "quelle": "FairNetz Reutlingen – Neuregelung nach § 14a EnWG",
+      "url": "https://www.fairnetzgmbh.de/de/privatkunden/netzanschluss/neuregelung-nach-14a-enwg",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für Balkonkraftwerke verweist die FairNetz auf die VDE-Empfehlung, an einer Haushaltssteckdose nur bis 960 Wp Modulleistung anzuschließen und darüber bis 2.000 Wp eine Elektrofachkraft und eine Energiesteckdose einzusetzen.",
+      "quelle": "FairNetz Reutlingen – Balkonkraftwerk",
+      "url": "https://www.fairnetzgmbh.de/privatkunden/einspeisung/Balkonkraftwerk",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach Angabe der Stadt Reutlingen sieht das Baurecht des Landes für PV-Anlagen an und auf Gebäuden grundsätzlich keine Genehmigungspflicht vor; ausgenommen sind denkmalgeschützte Gebäude. Baurechtliche Fragen beantwortet das Bürgerbüro Bauen.",
+      "quelle": "Stadt Reutlingen – Entdecke Deine Sonnenseite: Photovoltaik",
+      "url": "https://www.reutlingen.de/Sonnenseite/Photovoltaik",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Reutlingen strebt Klimaneutralität bis spätestens 2040 an; mit dem Energienutzungsplan erfüllt sie die Vorgaben des Landes zur kommunalen Wärmeplanung.",
+      "quelle": "Stadt Reutlingen – Klimaschutz: Energie",
+      "url": "https://www.reutlingen.de/de/Rathaus/Rathaus-Themen/Klimaschutz/Energie",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die KlimaschutzAgentur Landkreis Reutlingen bietet wöchentliche, kostenfreie telefonische Beratungsgespräche von 45 Minuten an, unter anderem zu Photovoltaik.",
+      "quelle": "KlimaschutzAgentur Landkreis Reutlingen – Kostenlose Energieberatung",
+      "url": "https://www.klimaschutzagentur-reutlingen.de/kostenloseenergieberatung",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Braucht eine PV-Anlage auf meinem Reutlinger Dach eine Baugenehmigung?",
+      "a": "Nach Darstellung der Stadt sieht das Landesbaurecht für Anlagen an und auf Gebäuden grundsätzlich keine Genehmigungspflicht vor, ausgenommen sind denkmalgeschützte Gebäude. Auskunft im Einzelfall gibt das Bürgerbüro Bauen."
+    },
+    {
+      "q": "Muss ich eine 11-kW-Wallbox in Reutlingen anmelden?",
+      "a": "Laut FairNetz sind Ladeeinrichtungen grundsätzlich anmeldepflichtig. Eine Genehmigung ist zusätzlich nötig, wenn die Summenbemessungsleistung 12 kVA übersteigt."
+    },
+    {
+      "q": "Wo bekomme ich im Landkreis Reutlingen eine neutrale Beratung zu Photovoltaik?",
+      "a": "Die KlimaschutzAgentur Landkreis Reutlingen bietet wöchentlich kostenfreie telefonische Beratungsgespräche an; ein Termin wird vorab vereinbart."
+    }
+  ],
+  "offen": [
+    "FairNetz GmbH ist Tochter der FairEnergie (Stadtwerke Reutlingen); im Text als Netzbetreiber genannt wie im Ravensburger Muster.",
+    "Netzgebiet der FairNetz für alle Reutlinger Bezirksgemeinden nicht separat geprüft; die Stadt nennt für Reutlingen die FairEnergie als Netzbetreiber.",
+    "Stadtteile im Einstieg (Betzingen, Sondelfingen) nur als Beispiele, nicht durch Fakten belegt.",
+    "Batteriespeicher-Landesförderung (laut Stadtseite erschöpft) bewusst nicht erwähnt."
+  ]
+}

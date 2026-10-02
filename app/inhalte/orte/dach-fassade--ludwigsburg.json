@@ -1,0 +1,87 @@
+{
+  "leistung": "dach-fassade",
+  "ort": "ludwigsburg",
+  "ortName": "Ludwigsburg",
+  "kreis": "Ludwigsburg",
+  "title": "Dachdecker Ludwigsburg – Fachbetrieb kostenlos vermittelt",
+  "description": "Dachdecker in Ludwigsburg: Dachgauben in Erhaltungsgebieten, Gründach und Abwassergebühr, Starkregenkarten. Fachbetrieb für Ihr Dach kostenlos vermittelt.",
+  "h1": "Dachdecker in Ludwigsburg",
+  "einstieg": "Wer einen Dachdecker in Ludwigsburg sucht, hat oft mehr vor als eine Reparatur: eine neue Eindeckung mit Dämmung, eine Gaube für das ausgebaute Dachgeschoss oder ein begrüntes Flachdach mit Solarmodulen. In der Barockstadt kommt eine Besonderheit hinzu: In der Innenstadt, der Südstadt und mehreren alten Ortskernen gelten Erhaltungssatzungen, die gerade das Dach in den Blick nehmen.",
+  "abschnitte": [
+    {
+      "h2": "Gauben, Traufe, Eindeckung: Dächer in Ludwigsburgs Erhaltungsgebieten",
+      "text": "Nach der Begründung zur Erhaltungssatzung für die Innenstadt fallen alle geplanten Baumaßnahmen am Dach unter die Genehmigungspflicht, soweit sie für das Stadtbild maßgebend sind: Änderungen an Dachaufbauten und Dacheinschnitten, an Ortgang und Traufe sowie an der Dacheindeckung. Ähnlich ist es in der Südstadt, einer Gartenstadt der 1920er-Jahre auf Grundlage eines Baulinienplans von Theodor Fischer, für die der Gemeinderat 2022 eine Erhaltungssatzung beschlossen hat. Weitere Satzungen gelten unter anderem für die Ortskerne von Pflugfelden, Poppenweiler, Eglosheim, Hoheneck, Oßweil und Neckarweihingen. Ob ein Dachvorhaben betroffen ist, klären das Bürgerbüro Bauen oder der Fachbereich Stadtplanung und Geoinformation."
+    },
+    {
+      "h2": "Gründach mit Solar: Hinweise der Stadt",
+      "text": "Für Flachdächer wirbt die Stadt Ludwigsburg für die Kombination aus Dachbegrünung und Photovoltaik. Damit ein hochwertiges Gründach entsteht, nennt sie eine Aufbauhöhe von mindestens zwölf Zentimetern; zwischen Substrat und Modulunterkante sollen 20 bis 30 Zentimeter Abstand bleiben, damit die Pflanzen die Module nicht verschatten. Auch bei den Gebühren wirkt sich das Gründach aus: Die Abwassersatzung setzt Gründächer bei der Niederschlagswassergebühr mit dem Faktor 0,6 an, Ziegel-, Blech- und Glasdächer dagegen voll."
+    },
+    {
+      "h2": "Sturm, Hagel, Starkregen: das Dach als Schutz",
+      "text": "Ludwigsburg ist nach Angaben der Stadt schon heute spürbar von Stürmen, Hagel und Hitze betroffen. Für Starkregen hat die Stadt Gefahrenkarten erstellen lassen, die in der Stadtinfokarte Überflutungsausdehnung, Wassertiefen und Fließwege für drei Szenarien zeigen. Wer Dach, Rinnen und Fallrohre erneuert, kann diese Karten in die Planung einbeziehen. Steht Ihr Vorhaben fest, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Nach der Begründung zur Erhaltungssatzung Innenstadt fallen geplante Baumaßnahmen am Dach, also Änderungen an Dachaufbauten, Dacheinschnitten, Ortgang, Traufe und Dacheindeckung, unter die Genehmigungspflicht, soweit sie für das Stadtbild maßgebend sind.",
+      "quelle": "Stadt Ludwigsburg – Erhaltungssatzung Innenstadt, Textteil und Begründung",
+      "url": "https://www.ludwigsburg.de/site/Ludwigsburg-Internet-2020/get/params_E336548648/18055865/Erhaltungssatzung-Textteil-und-Begruendung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Südstadt entstand überwiegend in den 1920er-Jahren auf Grundlage eines 1908 genehmigten Baulinienplans von Theodor Fischer; ihre Erhaltungssatzung „Historischer Gartenstadtteil Südstadt“ nennt Dachaufbauten, Dacheinschnitte und Dacheindeckungen als Beispiele genehmigungspflichtiger Änderungen.",
+      "quelle": "Stadt Ludwigsburg – Erhaltungssatzung Südstadt, Begründung",
+      "url": "https://www.ludwigsburg.de/site/Ludwigsburg-Internet-2020/get/params_E-2122954682/20633175/Begr%C3%BCndung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Erhaltungssatzungen für historische Ortskerne hat der Gemeinderat unter anderem für Pflugfelden (2018), Poppenweiler (2019), Eglosheim und Hoheneck (2020), Oßweil (2022) und Neckarweihingen (2023) beschlossen.",
+      "quelle": "Stadt Ludwigsburg – Erhaltungssatzungen",
+      "url": "https://www.ludwigsburg.de/start/stadt+entwickeln/erhaltungssatzungen.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für ein hochwertiges Gründach nennt die Stadt eine Aufbauhöhe von mindestens 12 cm; bei Kombination mit Photovoltaik sollen zwischen Substratoberfläche und Modulunterkante mindestens 20 bis 30 cm liegen.",
+      "quelle": "Stadt Ludwigsburg – Dachbegrünung und Photovoltaik",
+      "url": "https://www.ludwigsburg.de/start/leben+in+ludwigsburg/dachbegruenung+und+photovoltaik.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach § 39 der Ludwigsburger Abwassersatzung werden Standarddächer wie Ziegel-, Blech- oder Glasdächer bei der Niederschlagswassergebühr mit dem Faktor 1,0 und Gründächer mit dem Faktor 0,6 berücksichtigt.",
+      "quelle": "Stadt Ludwigsburg – Abwassersatzung ab Januar 2025",
+      "url": "https://www.ludwigsburg.de/site/Ludwigsburg-Internet-2020/get/params_E-811307834/23398778/Abwassersatzung_ab_2025.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Starkregengefahrenkarten für Ludwigsburg zeigen Überflutungsausdehnung, Überflutungstiefen und Fließgeschwindigkeiten für ein seltenes (ca. 40 mm/h), ein außergewöhnliches (ca. 50 mm/h) und ein extremes Szenario (128 mm/h); abrufbar sind sie in der Stadtinfokarte.",
+      "quelle": "Stadt Ludwigsburg – Starkregengefahrenkarten",
+      "url": "https://www.ludwigsburg.de/start/leben+in+ludwigsburg/starkregengefahrenkarten.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ludwigsburg ist nach Angaben der Stadt bereits spürbar von klimatischen Veränderungen betroffen, etwa von Stürmen und Hagel, insbesondere aber von Hitze.",
+      "quelle": "Stadt Ludwigsburg – Klimaanpassung",
+      "url": "https://www.ludwigsburg.de/start/leben+in+ludwigsburg/klimaanpassung.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich in der Ludwigsburger Innenstadt eine Genehmigung für eine neue Dacheindeckung?",
+      "a": "Nach der Begründung zur Erhaltungssatzung fallen Änderungen an der Dacheindeckung unter die Genehmigungspflicht, soweit sie für das Stadtbild maßgebend sind. Ob das für Ihr Gebäude gilt, beantwortet das Bürgerbüro Bauen."
+    },
+    {
+      "q": "Liegt mein Haus in Ludwigsburg in einem Erhaltungsgebiet?",
+      "a": "Die Lagepläne und Gebäudelisten der Satzungen für Innenstadt, Südstadt und die historischen Ortskerne veröffentlicht die Stadt auf ihrer Seite zu den Erhaltungssatzungen."
+    },
+    {
+      "q": "Wo sehe ich, ob mein Grundstück in Ludwigsburg bei Starkregen gefährdet ist?",
+      "a": "In den Starkregengefahrenkarten, die in der Stadtinfokarte unter dem Reiter „Umwelt“ abrufbar sind. Ansprechpartner ist das Team Klima und Energie der Stadt."
+    }
+  ],
+  "offen": [
+    "Die Genehmigungstatbestände sind aus den Begründungen der Satzungen wiedergegeben, nicht aus dem Satzungstext selbst; Formulierungen deshalb als Wiedergabe gehalten.",
+    "Ob das Abstandsmaß für PV auf Gründächern eine Empfehlung der Stadt oder des zitierten Bundesverbands GebäudeGrün ist, geht aus der Seite nicht eindeutig hervor; als Angabe der städtischen Seite wiedergegeben.",
+    "Das städtische Natur- und Umweltschutzprogramm (Förderung von Begrünung) wurde nicht geöffnet und daher nicht erwähnt."
+  ]
+}

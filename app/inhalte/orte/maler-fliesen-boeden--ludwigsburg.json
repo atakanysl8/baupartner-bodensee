@@ -1,0 +1,81 @@
+{
+  "leistung": "maler-fliesen-boeden",
+  "ort": "ludwigsburg",
+  "ortName": "Ludwigsburg",
+  "kreis": "Ludwigsburg",
+  "title": "Maler & Fliesenleger Ludwigsburg – kostenlos vermittelt",
+  "description": "Maler oder Fliesenleger in Ludwigsburg: Fassadenanstrich in der Barockstadt, Dämmputz in Erhaltungsgebieten, Böden im Altbau. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Maler und Fliesenleger in Ludwigsburg",
+  "einstieg": "Die Fassade eines Bürgerhauses in der Innenstadt frisch streichen, das Treppenhaus im Gründerzeitbau renovieren oder in der Küche neue Fliesen und im Wohnzimmer Parkett verlegen: Wer in Ludwigsburg einen Maler oder Fliesenleger sucht, arbeitet oft an Häusern, deren Außenansicht die Stadt bewusst schützt. Für innen und außen gelten dabei unterschiedliche Regeln.",
+  "abschnitte": [
+    {
+      "h2": "Neuer Anstrich in der Barockstadt: was genehmigungsfrei bleibt",
+      "text": "Für die Innenstadt hat der Gemeinderat 2014 eine Erhaltungssatzung beschlossen; geprägt ist das Stadtbild vor allem von Bauten des Barocks, des Spätbarocks und der Gründerzeit. Die Begründung zur Satzung unterscheidet genau: Eine reine Renovierung der Fassade mit neuem Anstrich ist nicht genehmigungspflichtig. Anders bei stadtbildprägenden Gestaltungen wie Wärmedämmputzen, Gesimsbändern, Fensterläden oder Sockeln; hier sieht die Satzung eine erhaltungsrechtliche Genehmigung vor. Innere Umbauten, die das äußere Erscheinungsbild nicht verändern, sind ausgenommen, neue Fliesen und Böden im Inneren berühren die Satzung also in der Regel nicht."
+    },
+    {
+      "h2": "Fassaden nach historischem Vorbild",
+      "text": "Für die „Barocke Innenstadt“, also den Geltungsbereich der Erhaltungssatzung, unterhält die Stadt ein Förderprogramm für Fassadensanierungen. Nach den Richtlinien sollen die Fassaden nach historischem Vorbild gestaltet und in Abstimmung mit der Stadt ausgeführt werden; die Bewilligung stützt sich auf die Kostenberechnung eines Architekten oder auf Handwerkerangebote. Ältere Richtlinien der Stadt zur Denkmalpflege und Stadtgestaltung zählen Fassadenanstriche und Farbgestaltung ausdrücklich zu den Arbeiten, bei denen gestalterische Mehrkosten anfallen können. Auskunft gibt das Bürgerbüro Bauen."
+    },
+    {
+      "h2": "Südstadt und alte Ortskerne: Putz, Gesimse, Fensterläden",
+      "text": "Auch in der Südstadt, einer Gartenstadt der 1920er-Jahre mit vielen fast baugleichen Häusern, gilt seit 2022 eine Erhaltungssatzung. Ihre Begründung nennt Änderungen an der Fassade wie Wärmedämmputze, Gesimsbänder, Öffnungen in Außenwänden, Fensterläden und Sockel als Beispiele genehmigungspflichtiger Vorhaben. Ob eine Dämmung mit neuem Putz an einem bestimmten Haus möglich ist, beantwortet die Stadt im Einzelfall. Ist Ihr Vorhaben umrissen, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Nach der Begründung zur Erhaltungssatzung Innenstadt ist eine reine Renovierung der Fassade mit neuem Anstrich nicht genehmigungspflichtig, wohl aber stadtbildprägende Fassadengestaltungen wie Wärmedämmverputzungen, Gesimsbänder, Fensterläden und Sockel.",
+      "quelle": "Stadt Ludwigsburg – Erhaltungssatzung Innenstadt, Textteil und Begründung",
+      "url": "https://www.ludwigsburg.de/site/Ludwigsburg-Internet-2020/get/params_E336548648/18055865/Erhaltungssatzung-Textteil-und-Begruendung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Innere Umbauten, die das äußere Erscheinungsbild nicht verändern, sind laut Begründung von der Genehmigungspflicht der Erhaltungssatzung Innenstadt ausgenommen; das Stadtbild sei vor allem von Barock, Spätbarock und Gründerzeit geprägt.",
+      "quelle": "Stadt Ludwigsburg – Erhaltungssatzung Innenstadt, Textteil und Begründung",
+      "url": "https://www.ludwigsburg.de/site/Ludwigsburg-Internet-2020/get/params_E336548648/18055865/Erhaltungssatzung-Textteil-und-Begruendung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Gefördert werden Fassadensanierungen an allen Gebäuden im Geltungsbereich der Erhaltungssatzung „Historische Innenstadt Ludwigsburg“; die Fassaden sollen nach historischem Vorbild und in Abstimmung mit der Stadt gestaltet werden.",
+      "quelle": "Stadt Ludwigsburg – Richtlinien zum Förderprogramm für Kulturdenkmale und Fassadensanierungen (2016)",
+      "url": "https://www.ludwigsburg.de/site/Ludwigsburg-Internet-2020/get/params_E258571126/18111122/Richtlinie_Foerderprogramm_Kulturdenkmale_Fassadensanierung_FB60_01_04_2016.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach den Richtlinien von 2016 erfolgt eine Bewilligung auf Basis der Kostenberechnung eines Architekten oder von Handwerkerangeboten; Anträge nimmt der Fachbereich Bürgerbüro Bauen entgegen.",
+      "quelle": "Stadt Ludwigsburg – Richtlinien zum Förderprogramm für Kulturdenkmale und Fassadensanierungen (2016)",
+      "url": "https://www.ludwigsburg.de/site/Ludwigsburg-Internet-2020/get/params_E258571126/18111122/Richtlinie_Foerderprogramm_Kulturdenkmale_Fassadensanierung_FB60_01_04_2016.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Richtlinien der Stadt zur Förderung von Denkmalpflege, Stadtgestaltung und Fassadensanierungen nennen Fassadenanstriche und Farbgestaltung sowie die Freilegung von Fachwerk als Beispiele zuschussfähiger Mehraufwendungen.",
+      "quelle": "Stadt Ludwigsburg – Richtlinien zur Förderung der Denkmalpflege, Stadtgestaltung und von Fassadensanierungen",
+      "url": "https://www.ludwigsburg.de/site/Ludwigsburg-Internet-2020/get/params_E696936278/18111136/Richtlinien_Denkmalpflege_Stadtgestaltung_FB60_2007.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Begründung zur Erhaltungssatzung „Historischer Gartenstadtteil Südstadt“ (2022) nennt Wärmedämmputze, Gesimsbänder, Öffnungen in Außenwänden, Fensterläden und Sockel als Beispiele für genehmigungspflichtige Fassadenänderungen.",
+      "quelle": "Stadt Ludwigsburg – Erhaltungssatzung Südstadt, Begründung",
+      "url": "https://www.ludwigsburg.de/site/Ludwigsburg-Internet-2020/get/params_E-2122954682/20633175/Begr%C3%BCndung.pdf",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich in der Ludwigsburger Innenstadt eine Genehmigung, um meine Fassade neu zu streichen?",
+      "a": "Nach der Begründung zur Erhaltungssatzung ist ein reiner Neuanstrich nicht genehmigungspflichtig, bei Dämmputz oder Änderungen an Gesimsen und Fensterläden sieht die Satzung eine Genehmigung vor. Für Kulturdenkmale gelten zusätzlich die Regeln des Denkmalschutzes; Auskunft gibt das Bürgerbüro Bauen."
+    },
+    {
+      "q": "Gibt es in Ludwigsburg Unterstützung für Fassadensanierungen?",
+      "a": "Für Gebäude in der Barocken Innenstadt unterhält die Stadt ein Förderprogramm für Kulturdenkmale und Fassadensanierungen; ein Rechtsanspruch besteht nicht. Über die aktuellen Bedingungen informiert das Bürgerbüro Bauen."
+    },
+    {
+      "q": "Betrifft die Erhaltungssatzung auch neue Fliesen oder Böden im Haus?",
+      "a": "In der Regel nicht: Innere Umbauten, die das äußere Erscheinungsbild nicht verändern, sind nach der Begründung zur Innenstadt-Satzung ausgenommen. Bei Kulturdenkmalen gelten zusätzlich die Regeln des Denkmalschutzes."
+    }
+  ],
+  "offen": [
+    "Ob die Richtlinien von 2007 neben denen von 2016 noch gelten, ist unklar; beide stehen unter Stadtrecht. Fakt zu 2007 deshalb ohne Aussage zur Gültigkeit formuliert.",
+    "Ob das Fassadenförderprogramm derzeit Mittel hat, wurde nicht geprüft; keine Beträge genannt.",
+    "Wasserhärte für Fliesen nicht genannt, weil auf bad-sanitaer--ludwigsburg bereits belegt."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "leistung": "dach-fassade",
+  "ort": "reutlingen",
+  "ortName": "Reutlingen",
+  "kreis": "Reutlingen",
+  "title": "Dachdecker Reutlingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Dachdecker in Reutlingen: Gründach und Niederschlagswassergebühr, Zisterne, Asbestdach vor der PV-Anlage, Dämmung und Solarpotenzial. Kostenlos vermittelt.",
+  "h1": "Dachdecker in Reutlingen",
+  "einstieg": "Wer einen Dachdecker in Reutlingen sucht, hat selten nur ein undichtes Dach im Blick. Häufig geht es um mehr: alte Ziegel oder Faserzementplatten ersetzen, das Dach dämmen, ein Flachdach auf der Garage begrünen oder Platz für eine Solaranlage schaffen. In Reutlingen hängen solche Entscheidungen auch mit der Abwassergebühr und mit den Hinweisen der Stadt zu Dachflächen zusammen.",
+  "abschnitte": [
+    {
+      "h2": "Gründach in Reutlingen: Klimaanpassung und Abflussfaktor",
+      "text": "Die Stadt Reutlingen zählt die Dachbegrünung zu ihren Maßnahmen der Klimafolgenanpassung. Ein begrüntes Dach nimmt Regen wie ein Schwamm auf und entlastet so die Kanäle vor Ort. Seit 2009 ist die Abwassergebühr gesplittet; die Niederschlagswassergebühr richtet sich nach der Größe der bebauten und versiegelten Fläche, von der Regen in die Kanalisation gelangt. Die Stadtentwässerung setzt Ziegel-, Blech-, Glas- und Kiesdächer dabei mit dem Faktor 1,0 an, Gründächer bis 12 cm Schichtstärke mit 0,6 und Gründächer mit mehr als 12 cm mit 0,3. Wer neu eindecken oder ein Flachdach sanieren lässt, kann den Aufbau also auch unter diesem Gesichtspunkt mit dem Dachdecker besprechen."
+    },
+    {
+      "h2": "Regenrinne, Zisterne und Entwässerung",
+      "text": "Auch das, was unterhalb der Dachrinne passiert, wirkt sich auf die Gebühr aus. Flächen, die in eine Zisterne ohne Anschluss an die öffentliche Kanalisation entwässern, bleiben nach dem Merkblatt der Stadtentwässerung gebührenfrei. Zisternen mit Notüberlauf in den Kanal werden ab 2 m³ berücksichtigt: Je Kubikmeter Nutzvolumen verringert sich die angeschlossene Fläche um 15 m², höchstens um die Hälfte. Abweichende Angaben zu Abflussverhältnissen und Versiegelungsfaktoren nimmt die Stadtentwässerung über einen Korrekturbogen entgegen."
+    },
+    {
+      "h2": "Asbest, Dämmung und Solarpotenzial",
+      "text": "Manche ältere Dächer und Garagen sind noch mit Faserzementplatten gedeckt. Die Stadt weist darauf hin, dass auf Dächern mit verbautem Asbest eine Photovoltaikanlage ohne vorherige Sanierung gesetzlich untersagt ist. Ob sich das eigene Dach für Solarenergie eignet, lässt sich nach Hinweis der Stadt vorab in der interaktiven Karte des Landes abschätzen. Für die Wärmedämmung verweist die Stadt auf das Merkblatt von Zukunft Altbau; bei Dämmmaterial und Dämmstoffstärke helfen Energieberater oder Fachunternehmen. Über unser Formular schildern Sie Ihr Vorhaben; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadt Reutlingen führt die Dachbegrünung als Maßnahme der Klimafolgenanpassung: Das Grün nimmt Regenwasser wie ein Schwamm auf und entlastet die Kanalsysteme vor Ort.",
+      "quelle": "Stadt Reutlingen – Klimafolgenanpassung: Dachbegrünung",
+      "url": "https://www.reutlingen.de/de/Rathaus/Rathaus-Themen/Klimafolgenanpassung/Dachbegruenung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Seit dem 1. Januar 2009 ist die Reutlinger Abwassergebühr in Schmutz- und Niederschlagswassergebühr gesplittet; die Niederschlagswassergebühr orientiert sich an der bebauten, befestigten und versiegelten Fläche, über die Regen in die Kanalisation gelangt.",
+      "quelle": "Stadtentwässerung Reutlingen – Schmutz- und Niederschlagswassergebühr",
+      "url": "https://www.ser-reutlingen.de/abwassergebuehr",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für die Niederschlagswassergebühr setzt die Stadtentwässerung Ziegel-, Blech-, Glas- und Kiesdächer mit dem Abflussfaktor 1,0 an, Gründächer bis 12 cm Schichtstärke mit 0,6 und Gründächer über 12 cm mit 0,3.",
+      "quelle": "Stadtentwässerung Reutlingen – Bürgerinformation Niederschlagswassergebühr",
+      "url": "https://www.ser-reutlingen.de/ceasy/resource/?id=33584&download=1",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Flächen, die in eine Zisterne ohne Kanalanschluss entwässern, bleiben gebührenfrei; bei Zisternen mit Kanalanschluss ab 2 m³ wird die angeschlossene Fläche je m³ Nutzvolumen um 15 m² reduziert, höchstens um 50 %.",
+      "quelle": "Stadtentwässerung Reutlingen – Bürgerinformation Niederschlagswassergebühr",
+      "url": "https://www.ser-reutlingen.de/ceasy/resource/?id=33584&download=1",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach Angabe der Stadt Reutlingen ist die Anbringung einer PV-Anlage auf Dächern, bei denen Asbest verbaut wurde, ohne Sanierung gesetzlich untersagt.",
+      "quelle": "Stadt Reutlingen – Entdecke Deine Sonnenseite: Photovoltaik",
+      "url": "https://www.reutlingen.de/Sonnenseite/Photovoltaik",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Reutlingen verweist auf die interaktive Karte des Landes Baden-Württemberg, mit der sich abschätzen lässt, ob das eigene Dach für eine solare Nutzung geeignet ist.",
+      "quelle": "Stadt Reutlingen – Entdecke Deine Sonnenseite: Weitere Informationen",
+      "url": "https://www.reutlingen.de/Sonnenseite/Weitere-Informationen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Zur Wärmedämmung der Gebäudehülle verweist die Stadt Reutlingen auf ein Merkblatt von Zukunft Altbau; bei Dämmmaterial und Dämmstoffstärke helfen laut Stadt Energieberater oder Fachunternehmer.",
+      "quelle": "Stadt Reutlingen – Klimaschutz: Bauen und Wohnen",
+      "url": "https://www.reutlingen.de/de/Rathaus/Rathaus-Themen/Klimaschutz/Bauen-und-Wohnen",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie wird ein Gründach bei der Reutlinger Niederschlagswassergebühr angesetzt?",
+      "a": "Laut Merkblatt der Stadtentwässerung mit dem Abflussfaktor 0,6 bei bis zu 12 cm Schichtstärke und mit 0,3 bei mehr als 12 cm. Ein Ziegel- oder Blechdach zählt mit dem Faktor 1,0."
+    },
+    {
+      "q": "Kann auf ein altes Asbestdach in Reutlingen einfach eine Solaranlage?",
+      "a": "Nach Angabe der Stadt ist die Anbringung einer PV-Anlage auf Dächern mit verbautem Asbest ohne Sanierung gesetzlich untersagt. Das Dach wird also in der Regel zuerst saniert."
+    },
+    {
+      "q": "Wie wirkt sich eine Zisterne auf die Abwassergebühr in Reutlingen aus?",
+      "a": "Flächen, die in eine Zisterne ohne Kanalanschluss entwässern, bleiben gebührenfrei. Zisternen mit Kanalanschluss werden ab 2 m³ Nutzvolumen flächenmindernd berücksichtigt."
+    }
+  ],
+  "offen": [
+    "Keine Gestaltungs- oder Altstadtsatzung zu Dachformen/Eindeckung in Reutlingen gefunden; daher keine Vorgaben zu Dachfarbe oder Gauben genannt.",
+    "Kein städtisches Gründach-Förderprogramm gefunden (Stadt nennt auf der Energieseite keine eigenen Fördermöglichkeiten).",
+    "Faserzementplatten auf älteren Dächern im Text als allgemeine Einordnung, nicht belegt."
+  ]
+}
