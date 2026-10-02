@@ -6,6 +6,7 @@ import Footer from './components/Footer'
 import { LEISTUNGEN, LEISTUNG_SLUGS, GRUPPEN, leistungenDerGruppe, type LeistungSlug } from './inhalte/leistungen'
 import HeroBild from './components/HeroBild'
 import { RATGEBERLINKS } from './inhalte/ratgeber-seiten/links'
+import { LinkKarten } from './components/LinkKarten'
 
 /* ── Animation variants ──────────────────────────────────────────────────── */
 const fadeUp = {
@@ -1155,11 +1156,7 @@ function RatgeberTeaser() {
         <div className="eyebrow"><span className="bullet" /> Kosten</div>
         <h2>Was kostet Ihr Vorhaben?</h2>
         <p className="ratgeber-intro">Preisspannen aus zitierfähigen Quellen und die Faktoren, die den Preis bestimmen – als erste Orientierung vor dem Angebot.</p>
-        <ul className="start-ratgeber-liste">
-          {top.map((r) => (
-            <li key={r.slug}><a href={r.pfad}>{r.anker}</a></li>
-          ))}
-        </ul>
+        <LinkKarten karten={top.map((r) => ({ href: r.pfad, titel: r.anker, zusatz: LEISTUNGEN[r.leistung as LeistungSlug].name, art: 'kosten' as const }))} />
       </div>
     </section>
   )

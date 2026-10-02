@@ -3,6 +3,7 @@ import Footer from './Footer'
 import TextMitLinks from './TextMitLinks'
 import { LEISTUNGEN } from '../inhalte/leistungen'
 import { anker } from '../inhalte/anker'
+import { LinkKarten } from './LinkKarten'
 import { kostenPfad, kostenseitenFuer, type Ratgeberseite } from '../inhalte/ratgeber-seiten'
 import { RATGEBERLINKS } from '../inhalte/ratgeber-seiten/links'
 
@@ -104,16 +105,12 @@ export default function RatgeberSeite({ s }: { s: Ratgeberseite }) {
 
           <section className="ort-block ort-links">
             <h2>Passend zu Ihrem Vorhaben</h2>
-            <ul>
-              {verwandt.map((r) => (
-                <li key={r.pfad}><a href={r.pfad}>{r.anker}</a></li>
-              ))}
-              {weitereKosten.map((k) => (
-                <li key={k.slug}><a href={kostenPfad(k)}>{k.anker}</a></li>
-              ))}
-              <li><a href={`/leistungen/${s.leistung}/`}>{anker(`/leistungen/${s.leistung}/`)}</a> – Überblick</li>
-              <li><a href="/regionen/">{anker('/regionen/')}</a></li>
-            </ul>
+            <LinkKarten spalten={2} karten={[
+              ...verwandt.map((r) => ({ href: r.pfad, titel: r.anker, zusatz: 'Preise & Kostenfaktoren', art: 'kosten' as const })),
+              ...weitereKosten.map((k) => ({ href: kostenPfad(k), titel: k.anker, zusatz: 'Preise & Kostenfaktoren', art: 'kosten' as const })),
+              { href: `/leistungen/${s.leistung}/`, titel: anker(`/leistungen/${s.leistung}/`), zusatz: 'Leistung im Überblick', art: 'leistung' as const },
+              { href: '/regionen/', titel: anker('/regionen/'), zusatz: 'Alle Städte in Baden-Württemberg', art: 'hub' as const },
+            ]} />
           </section>
 
           <section className="ort-block ort-quellen">

@@ -13,7 +13,8 @@ const inhalt = (html) => html.replace(/<script[\s\S]*?<\/script>/g, '').replace(
 
 function links(html) {
   return [...html.matchAll(/<a\s[^>]*href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/g)]
-    .map(([, href, t]) => ({ ziel: href.split(/[?#]/)[0], text: text(t), roh: href }))
+    // Zusatzzeile der Linkkarten (lk-zusatz) ist Beschriftung, kein Ankertext
+    .map(([, href, t]) => ({ ziel: href.split(/[?#]/)[0], text: text(t.replace(/<span class="lk-zusatz">[\s\S]*?<\/span>/g, '')), roh: href }))
     .filter((l) => l.ziel.startsWith('/') && !l.ziel.startsWith('/_next') && !/\.[a-z0-9]+$/i.test(l.ziel))
 }
 

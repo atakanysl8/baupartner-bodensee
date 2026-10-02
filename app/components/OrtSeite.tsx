@@ -5,6 +5,7 @@ import { nachbarn, andereLeistungen, pfad, type Ortsseite } from '../inhalte/ort
 import { VERWANDT } from '../inhalte/ratgeber'
 import { RATGEBERLINKS } from '../inhalte/ratgeber-seiten/links'
 import { anker } from '../inhalte/anker'
+import { LinkKarten } from './LinkKarten'
 
 const BASIS = 'https://www.bodensee-baupartner.de'
 
@@ -97,20 +98,17 @@ export default function OrtSeite({ s }: { s: Ortsseite }) {
           </section>
 
           <section className="ort-block ort-links">
-            <h2>Weitere Orte und Leistungen</h2>
-            <ul>
-              {nachbarn(s).map((n) => (
-                <li key={pfad(n)}><a href={pfad(n)}>{n.h1}</a></li>
-              ))}
-              <li><a href={leistungPfad}>{anker(leistungPfad)}</a> – Überblick</li>
-              {ratgeber.map((r) => (
-                <li key={r.slug}><a href={r.pfad}>{r.anker}</a> – Preisspannen und Kostenfaktoren</li>
-              ))}
-              {imOrt.map((n) => (
-                <li key={pfad(n)}><a href={pfad(n)}>{n.h1}</a></li>
-              ))}
-              <li><a href="/regionen/">{anker('/regionen/')}</a></li>
-            </ul>
+            <h2>Kosten und Überblick</h2>
+            <LinkKarten spalten={2} karten={[
+              ...ratgeber.map((r) => ({ href: r.pfad, titel: r.anker, zusatz: 'Preise & Kostenfaktoren', art: 'kosten' as const })),
+              { href: leistungPfad, titel: anker(leistungPfad), zusatz: 'Leistung im Überblick', art: 'leistung' as const },
+            ]} />
+            <h2 className="ort-links-h2">Weitere Orte und Leistungen</h2>
+            <LinkKarten spalten={2} karten={[
+              ...nachbarn(s).map((n) => ({ href: pfad(n), titel: n.h1, zusatz: n.kreis, art: 'ort' as const })),
+              ...imOrt.map((n) => ({ href: pfad(n), titel: n.h1, zusatz: n.kreis, art: 'ort' as const })),
+              { href: '/regionen/', titel: anker('/regionen/'), zusatz: 'Alle Städte in Baden-Württemberg', art: 'hub' as const },
+            ]} />
           </section>
 
           <section className="ort-block ort-quellen">

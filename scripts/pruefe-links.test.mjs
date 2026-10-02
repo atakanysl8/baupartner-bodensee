@@ -63,3 +63,8 @@ test('Links in Navigation und Fußzeile zählen nicht als Eingang', () => {
   p['/'] = p['/'].replace('<nav><a href="/">Start</a></nav>', '<nav><a href="/">Start</a><a href="/x/">X Seite</a></nav>')
   assert.ok(fehler(p).some((f) => f.includes('/x/') && f.includes('verwaist')))
 })
+test('Zusatz in Linkkarten (lk-zusatz) zählt nicht zum Ankertext', () => {
+  const p = basis()
+  p['/regionen/'] = p['/regionen/'].replace(`<a href="${K}">Badsanierung Kosten</a>`, `<a href="${K}"><span class="lk-zusatz">Badsanierung &amp; Sanitär</span><span class="lk-titel">Badsanierung Kosten</span></a>`)
+  assert.deepEqual(fehler(p), [])
+})

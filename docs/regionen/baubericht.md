@@ -114,3 +114,7 @@ Betreiber-Entscheidung: Übersicht `/ratgeber/` und Menüpunkt „Ratgeber“ en
 
 - Betreiberwunsch: Ortsseiten-Listen erscheinen nicht mehr auf Leistungs- und Kostenseiten (`OrteDerLeistung` entfernt, Block „… in Ihrer Stadt“ auf Kostenseiten entfernt). Ortsseiten sind weiter über „Leistungen nach Ort“ (`/regionen/`, Fußzeile), Nachbarorte und verwandte Leistungen im Ort verlinkt; Klicktiefe ≤ 2, `pruefe-links` 0 Fehler (Ortsseiten Eingänge Median 5).
 - Die Textkästen im Abschnitt „Kosten & Planung“ aller 11 Leistungsseiten sind aufklappbar (`<details>`, Pfeilsymbol): nur Überschriften sichtbar, Text weiterhin im HTML.
+
+## Nachtrag 6: Linkkarten und Link-Chips (03.10.2026)
+
+Neue Komponente `LinkKarten`/`LinkChips` (`app/components/LinkKarten.tsx`): Karten mit Symbol (Rechner = Kosten, Pin = Ort, Haus = Leistung, Raster = Übersicht), Zusatzzeile, Pfeil und deutlichem Hover; „Passend dazu“ als Chips. Eingesetzt auf Startseite (Kostenkarten), allen Leistungsseiten („Kosten im Detail“, „Passend dazu“), Kostenseiten („Passend zu Ihrem Vorhaben“) und Ortsseiten („Kosten und Überblick“, „Weitere Orte und Leistungen“). `pruefe-links` wertet die Zusatzzeile (`lk-zusatz`) nicht als Ankertext. Prüfkette: 51/51 Tests, `pruefe-seo` 235/0, `pruefe-links` 235/0.

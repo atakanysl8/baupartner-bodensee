@@ -1,6 +1,7 @@
 import { RATGEBER, VERWANDT } from '../inhalte/ratgeber'
 import { LEISTUNGEN, type LeistungSlug } from '../inhalte/leistungen'
 import { RATGEBERLINKS } from '../inhalte/ratgeber-seiten/links'
+import { LinkKarten, LinkChips } from './LinkKarten'
 
 // Ratgeber-Abschnitt einer Leistungsseite (Kosten, Planung, Förderung) — siehe app/inhalte/ratgeber.ts.
 // Darunter die Kostenseiten dieser Leistung (/leistungen/<leistung>/<slug>/) und Querverweise auf verwandte Leistungen (interne Verlinkung).
@@ -29,23 +30,11 @@ export default function LeistungRatgeber({ leistung }: { leistung: LeistungSlug 
         </div>
         {seiten.length > 0 && (
           <>
-            <h3 className="leistung-kosten-titel">Kosten im Detail</h3>
-            <ul className="start-ratgeber-liste">
-              {seiten.map((x) => (
-                <li key={x.slug}><a href={x.pfad}>{x.anker}</a></li>
-              ))}
-            </ul>
+            <h3 className="lk-abschnitt-titel">Kosten im Detail</h3>
+            <LinkKarten karten={seiten.map((x) => ({ href: x.pfad, titel: x.anker, zusatz: 'Preise & Kostenfaktoren', art: 'kosten' as const }))} />
           </>
         )}
-        <p className="ratgeber-verwandt">
-          Passend dazu:{' '}
-          {VERWANDT[leistung].map((v, i) => (
-            <span key={v}>
-              {i > 0 && ' · '}
-              <a href={`/leistungen/${v}/`}>{LEISTUNGEN[v].name}</a>
-            </span>
-          ))}
-        </p>
+        <LinkChips label="Passend dazu" links={VERWANDT[leistung].map((v) => ({ href: `/leistungen/${v}/`, titel: LEISTUNGEN[v].name }))} />
       </div>
     </section>
   )
