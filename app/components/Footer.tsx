@@ -14,7 +14,7 @@ export default function Footer() {
         <div className="footer-grid">
           <div>
             <div className="footer-logo-wrap">
-              <img src="/logo.png" alt="Bodensee BauPartner" style={{ height: 40, width: 'auto' }} />
+              <img src="/logo.webp" width={182} height={156} alt="Bodensee BauPartner" style={{ height: 40, width: 'auto' }} />
             </div>
             <p className="footer-desc">
               Ihr persönlicher Bau-Vermittler in der Bodenseeregion — wir verbinden Sie mit passenden Fachbetrieben aus der Region für Ihr Projekt.

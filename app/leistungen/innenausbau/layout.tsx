@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/leistungen/innenausbau/' },
   title: 'Innenausbau Bodensee – Trockenbau, Parkett & Dachausbau | Bodensee BauPartner',
   description:
     'Innenausbau-Spezialisten am Bodensee: Trockenbau, Bodenbeläge, Malerarbeiten, Dachgeschossausbau & Türen. Kostenlose Vermittlung durch Bodensee BauPartner GbR.',
@@ -19,9 +20,27 @@ const faqSchema = {
   mainEntity: [
     { '@type': 'Question', name: 'Welche Innengewerke vermittelt Bodensee BauPartner?', acceptedAnswer: { '@type': 'Answer', text: 'Wir vermitteln Fachbetriebe für alle Innenausbaugewerke: Trockenbau, Bodenbeläge (Parkett, Fliesen, Designboden), Malerarbeiten, Tapezieren, Dachgeschossausbau sowie Türen und Innenverkleidungen. Sie nennen uns Ihr Projekt — wir finden den passenden Spezialisten.' } },
     { '@type': 'Question', name: 'Wie lange dauert ein Dachgeschossausbau?', acceptedAnswer: { '@type': 'Answer', text: 'Die Dauer hängt vom Zustand des Dachstuhls, der gewünschten Ausbaustufe und dem Umfang der Dämmarbeiten ab. Ein durchschnittlicher Dachgeschossausbau dauert zwischen 6 und 14 Wochen. Der vermittelte Fachbetrieb gibt Ihnen nach einer ersten Besichtigung eine verbindliche Zeitplanung.' } },
-    { '@type': 'Question', name: 'Kann ich für mehrere Gewerke gleichzeitig anfragen?', acceptedAnswer: { '@type': 'Answer', text: 'Ja, absolut. Wir können für ein Projekt mehrere passende Fachbetriebe vermitteln oder einen Betrieb, der mehrere Gewerke abdeckt. Beschreiben Sie uns einfach alle gewünschten Leistungen — wir koordinieren die Vermittlung.' } },
-    { '@type': 'Question', name: 'Was ist der Unterschied zwischen Parkett und Designboden?', acceptedAnswer: { '@type': 'Answer', text: 'Parkett besteht aus echtem Holz und ist besonders langlebig, kann mehrfach abgeschliffen werden und wertet optisch stark auf. Designboden (LVT) ist günstiger, feuchtigkeitsbeständiger und einfacher zu verlegen — ideal für Küche, Bad oder Mietobjekte.' } },
+    { '@type': 'Question', name: 'Kann ich für mehrere Gewerke gleichzeitig anfragen — z. B. Boden und Maler?', acceptedAnswer: { '@type': 'Answer', text: 'Ja, absolut. Wir können für ein Projekt mehrere passende Fachbetriebe vermitteln oder einen Betrieb, der mehrere Gewerke abdeckt. Beschreiben Sie uns einfach alle gewünschten Leistungen — wir koordinieren die Vermittlung.' } },
+    { '@type': 'Question', name: 'Was ist der Unterschied zwischen Parkett und Designboden?', acceptedAnswer: { '@type': 'Answer', text: 'Parkett besteht aus echtem Holz und ist besonders langlebig, kann mehrfach abgeschliffen werden und wertet optisch stark auf. Designboden (LVT) ist günstiger, feuchtigkeitsbeständiger und einfacher zu verlegen — ideal für Küche, Bad oder Mietobjekte. Der vermittelte Fachbetrieb berät Sie vor Ort zu den passenden Optionen für Ihre Anforderungen.' } },
     { '@type': 'Question', name: 'Was kostet die Innenausbau-Vermittlung?', acceptedAnswer: { '@type': 'Answer', text: 'Unsere Vermittlung ist vollständig kostenlos und unverbindlich. Sie zahlen keinen Aufschlag auf das Handwerkerangebot. Die Kosten tragen die Fachbetriebe.' } },
+  ],
+}
+
+const serviceSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Service',
+  serviceType: 'Innenausbau',
+  provider: { '@type': 'Organization', name: 'Bodensee BauPartner GbR', url: 'https://www.bodensee-baupartner.de/' },
+  areaServed: { '@type': 'State', name: 'Baden-Württemberg' },
+  description: 'Innenausbau-Spezialisten am Bodensee: Trockenbau, Bodenbeläge, Malerarbeiten, Dachgeschossausbau & Türen. Kostenlose Vermittlung durch Bodensee BauPartner GbR.',
+}
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Start', item: 'https://www.bodensee-baupartner.de/' },
+    { '@type': 'ListItem', position: 2, name: 'Innenausbau', item: 'https://www.bodensee-baupartner.de/leistungen/innenausbau/' },
   ],
 }
 
@@ -29,6 +48,8 @@ export default function Layout({ children }: { children: React.ReactNode }) {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       {children}
     </>
   )

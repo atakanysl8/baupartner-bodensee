@@ -16,6 +16,7 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/' },
   metadataBase: new URL('https://www.bodensee-baupartner.de'),
   title: 'Bodensee BauPartner – Handwerker & Baubetriebe am Bodensee vermitteln',
   description:
@@ -46,40 +47,11 @@ export const metadata: Metadata = {
   },
 }
 
-const localBusinessSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'LocalBusiness',
-  name: 'Bodensee BauPartner GbR',
-  description: 'Bauvermittlung in der Bodenseeregion – Handwerker & Baubetriebe für Hochbau, Tiefbau, Renovierung, Innenausbau & Bad.',
-  url: 'https://www.bodensee-baupartner.de',
-  telephone: '+4915752600306',
-  email: 'info@bodensee-baupartner.de',
-  address: {
-    '@type': 'PostalAddress',
-    streetAddress: 'Tulpenweg 1',
-    addressLocality: 'Überlingen',
-    postalCode: '88662',
-    addressCountry: 'DE',
-  },
-  areaServed: [
-    { '@type': 'City', name: 'Überlingen' },
-    { '@type': 'City', name: 'Friedrichshafen' },
-    { '@type': 'City', name: 'Konstanz' },
-    { '@type': 'City', name: 'Ravensburg' },
-    { '@type': 'City', name: 'Lindau' },
-  ],
-  serviceType: ['Hochbau', 'Tiefbau', 'Bad & Sanitär', 'Innenausbau', 'Renovierung & Sanierung'],
-  priceRange: 'Kostenlose Vermittlung',
-}
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="de" className={inter.variable}>
       <body>
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusinessSchema) }}
-        />
         {children}
         <CookieBanner />
       </body>

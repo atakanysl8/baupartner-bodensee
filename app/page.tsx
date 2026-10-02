@@ -65,7 +65,7 @@ function Nav() {
           transition={{ duration: 0.35 }}
         >
           <a href="#" className="nav-logo" aria-label="Bodensee BauPartner">
-            <img src="/logo.png" alt="Bodensee BauPartner" style={{ height: 52, width: 'auto' }} />
+            <img src="/logo.webp" width={182} height={156} alt="Bodensee BauPartner" style={{ height: 52, width: 'auto' }} />
           </a>
 
           <div className="nav-links">
@@ -199,7 +199,7 @@ function Hero() {
     <header className="hero" ref={ref}>
       <motion.div className="hero-image" style={{ y: imageY }}>
         <Image
-          src="/hero.png"
+          src="/hero.webp"
           alt="Bauprojekt am Bodensee"
           fill
           style={{ objectFit: 'cover', objectPosition: 'center right' }}
@@ -1099,9 +1099,37 @@ function SeoText() {
 }
 
 /* ── Page ────────────────────────────────────────────────────────────────── */
+// LocalBusiness nur auf der Startseite (Sitz Überlingen); Unter- und Ortsseiten nutzen Service-Schema.
+const localBusinessSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'LocalBusiness',
+  name: 'Bodensee BauPartner GbR',
+  description: 'Bauvermittlung in der Bodenseeregion – Handwerker & Baubetriebe für Hochbau, Tiefbau, Renovierung, Innenausbau & Bad.',
+  url: 'https://www.bodensee-baupartner.de',
+  telephone: '+4915752600306',
+  email: 'info@bodensee-baupartner.de',
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: 'Tulpenweg 1',
+    addressLocality: 'Überlingen',
+    postalCode: '88662',
+    addressCountry: 'DE',
+  },
+  areaServed: [
+    { '@type': 'City', name: 'Überlingen' },
+    { '@type': 'City', name: 'Friedrichshafen' },
+    { '@type': 'City', name: 'Konstanz' },
+    { '@type': 'City', name: 'Ravensburg' },
+    { '@type': 'City', name: 'Lindau' },
+  ],
+  serviceType: ['Hochbau', 'Tiefbau', 'Bad & Sanitär', 'Innenausbau', 'Renovierung & Sanierung'],
+  priceRange: 'Kostenlose Vermittlung',
+}
+
 export default function Page() {
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusinessSchema) }} />
       <Nav />
       <Hero />
       <StatsBar />

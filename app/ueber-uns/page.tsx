@@ -22,7 +22,7 @@ function Hero() {
   return (
     <section className="au-hero">
       <div className="au-hero-bg-image">
-        <Image src="/hero-alt.png" alt="" fill style={{ objectFit: 'cover', objectPosition: 'center right' }} priority />
+        <Image src="/hero.webp" alt="" fill style={{ objectFit: 'cover', objectPosition: 'center right' }} priority />
         <div className="au-hero-bg-overlay" />
       </div>
       <div className="wrap">
@@ -115,12 +115,12 @@ function WerWirSind() {
               </div>
               <div className="au-founders-portraits">
                 <div className="au-founder-portrait-card">
-                  <img src="/matei.jpeg" alt="Luca-Matei Brezeanu" className="au-founder-portrait-img" />
+                  <img src="/matei.webp" width={800} height={533} alt="Luca-Matei Brezeanu" className="au-founder-portrait-img" />
                   <div className="au-founder-name">Luca-Matei Brezeanu</div>
                   <div className="au-founder-role">Mitgründer & Vermittlung</div>
                 </div>
                 <div className="au-founder-portrait-card">
-                  <img src="/atakan.jpeg" alt="Atakan Yigit" className="au-founder-portrait-img" />
+                  <img src="/atakan.webp" width={800} height={800} alt="Atakan Yigit" className="au-founder-portrait-img" />
                   <div className="au-founder-name">Atakan Yigit</div>
                   <div className="au-founder-role">Mitgründer & Vermittlung</div>
                 </div>

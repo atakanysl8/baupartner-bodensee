@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/leistungen/hochbau/' },
   title: 'Hochbau am Bodensee – Rohbau & Mauerwerk | Bodensee BauPartner',
   description:
     'Hochbau-Fachbetriebe in der Bodenseeregion: Rohbau, Stahlbetonbau, Mauerwerk, Fassaden & Treppen. Kostenlose Vermittlung durch Bodensee BauPartner GbR.',
@@ -25,10 +26,30 @@ const faqSchema = {
   ],
 }
 
+const serviceSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Service',
+  serviceType: 'Hochbau',
+  provider: { '@type': 'Organization', name: 'Bodensee BauPartner GbR', url: 'https://www.bodensee-baupartner.de/' },
+  areaServed: { '@type': 'State', name: 'Baden-Württemberg' },
+  description: 'Hochbau-Fachbetriebe in der Bodenseeregion: Rohbau, Stahlbetonbau, Mauerwerk, Fassaden & Treppen. Kostenlose Vermittlung durch Bodensee BauPartner GbR.',
+}
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Start', item: 'https://www.bodensee-baupartner.de/' },
+    { '@type': 'ListItem', position: 2, name: 'Hochbau', item: 'https://www.bodensee-baupartner.de/leistungen/hochbau/' },
+  ],
+}
+
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       {children}
     </>
   )

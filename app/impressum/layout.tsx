@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/impressum/' },
   title: 'Impressum | Bodensee BauPartner GbR',
   description: 'Impressum der Bodensee BauPartner GbR – Angaben gemäß § 5 TMG, Kontaktdaten und rechtliche Hinweise.',
   robots: { index: false, follow: false },

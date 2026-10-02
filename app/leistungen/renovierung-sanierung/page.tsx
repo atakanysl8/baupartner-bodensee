@@ -25,7 +25,7 @@ function Hero() {
   return (
     <header className="hb-hero" ref={ref}>
       <div className="hb-hero-image">
-        <Image src="/hero.png" alt="Renovierung & Sanierung am Bodensee" fill style={{ objectFit: 'cover', objectPosition: 'center right' }} priority />
+        <Image src="/hero.webp" alt="Renovierung & Sanierung am Bodensee" fill style={{ objectFit: 'cover', objectPosition: 'center right' }} priority />
         <div className="hb-hero-overlay" />
       </div>
 

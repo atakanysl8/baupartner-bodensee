@@ -1,0 +1,10 @@
+FEHLER /datenschutz/: Canonical fehlt
+FEHLER /impressum/: Canonical fehlt
+FEHLER /: Canonical fehlt
+FEHLER /leistungen/bad-sanitaer/: Canonical fehlt
+FEHLER /leistungen/hochbau/: Canonical fehlt
+FEHLER /leistungen/innenausbau/: Canonical fehlt
+FEHLER /leistungen/renovierung-sanierung/: Canonical fehlt
+FEHLER /leistungen/tiefbau/: Canonical fehlt
+FEHLER /ueber-uns/: Canonical fehlt
+10 Seiten geprüft, 9 Fehler
