@@ -1,0 +1,172 @@
+{
+  "slug": "waermepumpe-kosten",
+  "leistung": "heizung-waermepumpe",
+  "rang": 1,
+  "anker": "Wärmepumpe Kosten",
+  "hauptbegriff": "wärmepumpe kosten",
+  "title": "Wärmepumpe Kosten: Preise, Zusatzkosten und Angebote",
+  "description": "Was kostet eine Wärmepumpe? Preisspannen für Luft- und Wasser-Wärmepumpen, Zusatzkosten beim Umstieg von Gas und worauf Sie bei Angeboten achten sollten.",
+  "h1": "Was kostet eine Wärmepumpe?",
+  "einstieg": "Die Kosten einer Wärmepumpe setzen sich aus dem Gerät, dem Einbau und den Arbeiten am Haus zusammen – und gerade der letzte Teil entscheidet oft über die Endsumme. Im Neubau ist die Wärmepumpe meist schnell geplant, im Altbau kommen Heizkörper, Elektrik, Fundament und der Rückbau der alten Anlage hinzu. Deshalb liegen seriöse Preisangaben weit auseinander. Hier finden Sie Spannen aus zitierfähigen Quellen, die wichtigsten Kostentreiber und Hinweise, wie sich Angebote vergleichen lassen. Für ein konkretes Angebot wählen wir einen Fachbetrieb für [[/leistungen/heizung-waermepumpe/]] aus, der Ihr Haus vorher ansieht.",
+  "kosten": {
+    "h2": "Wärmepumpe Kosten im Überblick",
+    "intro": "Die Zahlen stammen aus unterschiedlichen Erhebungen und messen nicht dasselbe. Die Richtwerte des Baukosteninformationszentrums Deutscher Architektenkammern (BKI) gelten für Anlage plus Einbau ohne Abbruch- und Umbaumaßnahmen und sind Nettopreise. Finanztip rechnet Gerät, Installation und Arbeiten am Haus zusammen. Die Verbraucherzentrale Rheinland-Pfalz hat echte Angebote für Einfamilienhäuser ausgewertet. Zusammen ergeben sie ein realistisches Bild der Bandbreite.",
+    "zeilen": [
+      {
+        "posten": "Luft-Wasser-Wärmepumpe bis 15 kW mit Speicher, Altbau (BKI, netto)",
+        "spanne": "ca. 28.270 €",
+        "q": 1
+      },
+      {
+        "posten": "Luft-Wasser-Wärmepumpe bis 25 kW mit Speicher, Altbau (BKI, netto)",
+        "spanne": "ca. 40.390 €",
+        "q": 1
+      },
+      {
+        "posten": "Wasser-Wasser-Wärmepumpe bis 15 kW mit Speicher und Brunnen, Altbau (BKI, netto)",
+        "spanne": "ca. 57.880 €",
+        "q": 1
+      },
+      {
+        "posten": "Zum Vergleich: Gas-Brennwerttherme 15–25 kW, Altbau (BKI, netto)",
+        "spanne": "ca. 14.230 €",
+        "q": 1
+      },
+      {
+        "posten": "Luftwärmepumpe gesamt (Gerät, Installation, Arbeiten am Haus)",
+        "spanne": "11.000 – 35.000 €",
+        "q": 3
+      },
+      {
+        "posten": "Erdwärmepumpe mit Sonde gesamt",
+        "spanne": "11.000 – 47.000 €",
+        "q": 3
+      },
+      {
+        "posten": "Angebote Luft-Wasser-Wärmepumpe für Einfamilienhäuser (Oktober 2024 bis Mai 2025)",
+        "spanne": "rund 20.000 – über 60.000 €, Durchschnitt rund 36.000 €",
+        "q": 5
+      },
+      {
+        "posten": "Anpassung des Heizsystems (Heizflächen, Verrohrung, Hydraulik)",
+        "spanne": "2.000 – 10.000 € und mehr",
+        "q": 2
+      },
+      {
+        "posten": "Rückbau und Entsorgung der alten Heizanlage",
+        "spanne": "1.000 – 6.000 €",
+        "q": 2
+      },
+      {
+        "posten": "Elektroinstallation und Netzanschluss",
+        "spanne": "1.000 – 5.000 €",
+        "q": 2
+      },
+      {
+        "posten": "Wartung pro Jahr im Einfamilienhaus",
+        "spanne": "ca. 100 – 400 €",
+        "q": 4
+      }
+    ],
+    "hinweis": "Die Preise steigen weiter: Für Heizanlagen und zentrale Wassererwärmungsanlagen, darunter Wärmepumpen, lagen die Baupreise laut Statistischem Bundesamt im Mai 2026 um 5,0 % über dem Vorjahresmonat. Ältere Durchschnittswerte sind deshalb eher als Untergrenze zu lesen."
+  },
+  "abschnitte": [
+    {
+      "h2": "Luftwärmepumpe, Erdwärme oder Grundwasser",
+      "text": "Die Wahl der Wärmequelle prägt den Preis stärker als der Hersteller. Luft-Wasser-Wärmepumpen holen die Energie aus der Außenluft und werden in Deutschland am häufigsten eingebaut. Sie brauchen keine Bohrung, dafür ein Außengerät mit Fundament und einen Standort, an dem der Schall die Nachbarn nicht stört. Erd- und Grundwasser-Wärmepumpen arbeiten bei Frost effizienter, verlangen aber eine Erschließung der Wärmequelle. Für Bohrungen, Kollektoren oder eine Brunnenanlage nennt Schwäbisch Hall rund 5.000 bis 15.000 Euro oder mehr, je nach Bodenverhältnissen; dazu kommen Planung, Gutachten und Genehmigungen mit etwa 1.000 bis 5.000 Euro. Wie aufwendig die Erschließung wird, hängt laut Schwäbisch Hall von Bodenart, Tiefe, Genehmigungen und der Zugänglichkeit des Geländes ab. Die Größe der Anlage richtet sich nach der Heizlast des Hauses: Je mehr Leistung nötig ist, desto teurer wird das Gerät. Eine bessere Dämmung kann deshalb die Investition in die Wärmepumpe verringern, weil eine kleinere Anlage genügt."
+    },
+    {
+      "h2": "Gasheizung auf Wärmepumpe umrüsten: Was zusätzlich anfällt",
+      "text": "Wer eine Gasheizung durch eine Wärmepumpe ersetzt, zahlt mehr als nur das neue Gerät. Die alte Anlage muss ausgebaut und entsorgt werden, oft sind Mauerdurchbrüche und Kernbohrungen für die Leitungen zum Außengerät nötig, und der Zählerschrank braucht häufig eine zusätzliche Absicherung. Besonders wichtig ist die Vorlauftemperatur: Eine Wärmepumpe arbeitet umso effizienter, je niedriger sie ist. Laut Verbraucherzentrale Rheinland-Pfalz steigt die Effizienz um 3 bis 4 Prozent, wenn die Vorlauftemperatur um 1 Kelvin sinkt – oft gelingt das, indem zu kleine Heizkörper durch größere ersetzt werden. Trotzdem fehlte der Heizkörpertausch in fast 90 Prozent der ausgewerteten Angebote. Flächenheizungen sind für niedrige Vorlauftemperaturen besonders geeignet; was der nachträgliche Einbau kostet, erklärt der Ratgeber [[/ratgeber/fussbodenheizung-nachruesten-kosten/]]. Nach dem Einbau gehört ein hydraulischer Abgleich dazu, damit alle Heizkörper richtig durchströmt werden."
+    },
+    {
+      "h2": "Warum Angebote so weit auseinanderliegen",
+      "text": "Die Verbraucherzentrale Baden-Württemberg hat rund 60 eingereichte Angebote verglichen; die Spanne für Wärmepumpe samt Einbau reichte von 29.000 bis 62.000 Euro. Ein Hauptgrund sind unterschiedliche Leistungen: Steht bei Fundament oder Elektroinstallation „bauseits“, ist diese Arbeit im Angebot nicht enthalten. Laut Verbraucherzentrale geht es dabei nicht selten um fünfstellige Beträge, die später zusätzlich anfallen. In der Auswertung aus Rheinland-Pfalz lagen die Lohnkosten zwischen rund 2.350 und 12.500 Euro, waren aber nur in gut 60 Prozent der Angebote überhaupt ausgewiesen. Für einen fairen Vergleich hilft eine Liste der Posten: Gerät und Speicher, Fundament, Elektroanschluss, Rückbau der alten Heizung, Heizkörpertausch, Warmwasserbereitung, Inbetriebnahme und hydraulischer Abgleich. Schwäbisch Hall empfiehlt zudem einen Puffer von 5 bis 15 Prozent der Gesamtinvestition für Unvorhergesehenes."
+    },
+    {
+      "h2": "Neue Heizung: Kosten über die Investition hinaus",
+      "text": "Wer eine neue Heizung plant, vergleicht neben dem Kaufpreis auch den Betrieb. Bei der Wärmepumpe hängen die Stromkosten stark vom Haus ab: co2online nennt für den Betriebsstrom eine Spanne von 230 bis 1.400 Euro pro Jahr, in einem ungedämmten Haus kann eine Luftwärmepumpe auch deutlich mehr verbrauchen. Die Wartung fällt mit etwa 100 bis 400 Euro im Jahr eher gering aus. Für den Heizungstausch gibt es Förderprogramme des Bundes (BEG über KfW bzw. BAFA); Bedingungen ändern sich, Auskunft geben KfW, BAFA und Energieberatung. In Baden-Württemberg beantwortet das Landesprogramm Zukunft Altbau Fragen zur Wärmepumpe kostenfrei. Wenn Sie uns Ihr Vorhaben schildern, wählen wir einen passenden Fachbetrieb aus, der sich bei Ihnen meldet und Heizlast, Aufstellort und Heizflächen vor dem Angebot prüft."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet eine Luftwärmepumpe im Einfamilienhaus?",
+      "a": "Finanztip nennt für eine Luftwärmepumpe mit Installation und Arbeiten am Haus 11.000 bis 35.000 Euro. Die von der Verbraucherzentrale Rheinland-Pfalz ausgewerteten Angebote lagen im Durchschnitt bei rund 36.000 Euro."
+    },
+    {
+      "q": "Ist eine Wärmepumpe im Altbau teurer als im Neubau?",
+      "a": "Ja, meist etwas. Das BKI nennt für eine Luft-Wasser-Wärmepumpe bis 15 kW im Neubau ca. 26.920 Euro und im Altbau ca. 28.270 Euro netto, ohne Umbauten wie neue Heizkörper."
+    },
+    {
+      "q": "Was bedeutet „bauseits“ in einem Wärmepumpen-Angebot?",
+      "a": "Bauseits heißt, dass der Auftraggeber diese Leistung selbst stellt oder separat beauftragt. Sie ist im Angebotspreis nicht enthalten, etwa Fundament oder Elektroanschluss."
+    },
+    {
+      "q": "Wie viel kostet die Erschließung bei einer Erdwärmepumpe?",
+      "a": "Für Bohrungen, Kollektoren oder eine Brunnenanlage nennt Schwäbisch Hall etwa 5.000 bis 15.000 Euro oder mehr. Entscheidend sind Bodenart, Tiefe und Genehmigung."
+    },
+    {
+      "q": "Braucht eine Wärmepumpe eine Fußbodenheizung?",
+      "a": "Nein. Auch mit Heizkörpern ist ein effizienter Betrieb möglich, wenn die Heizflächen groß genug für eine niedrige Vorlauftemperatur sind. Oft reicht der Tausch einzelner Heizkörper."
+    }
+  ],
+  "verwandt": [
+    "fussbodenheizung-nachruesten-kosten",
+    "energetische-sanierung"
+  ],
+  "quellen": [
+    {
+      "titel": "Neue Heizung: Kosten",
+      "herausgeber": "Bausparkasse Schwäbisch Hall (Richtwerte BKI, 1. Quartal 2026)",
+      "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-haustechnik/neue-heizung-kosten.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Was kostet eine Wärmepumpe im Altbau?",
+      "herausgeber": "Bausparkasse Schwäbisch Hall",
+      "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-haustechnik/waermepumpe-im-altbau.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Kosten für eine Wärmepumpe: Damit musst Du rechnen",
+      "herausgeber": "Finanztip (Stand 29. Juli 2026)",
+      "url": "https://www.finanztip.de/waermepumpe/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Wärmepumpe: Kosten, Funktion & Förderung",
+      "herausgeber": "co2online",
+      "url": "https://www.co2online.de/modernisieren-und-bauen/waermepumpe/waermepumpe-kosten/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Einbau von Wärmepumpen: Lückenhafte Angebote, riesige Kostenspanne",
+      "herausgeber": "Stiftung Warentest (Auswertung Verbraucherzentrale Rheinland-Pfalz, 25.06.2025)",
+      "url": "https://www.test.de/Einbau-von-Waermepumpen-Lueckenhafte-Angebote-riesige-Kostenspanne-6228678-0/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Wärmepumpen-Einbau: Kostenfallen vermeiden",
+      "herausgeber": "Stiftung Warentest (Auswertung Verbraucherzentrale Baden-Württemberg, 19.11.2025)",
+      "url": "https://www.test.de/Waermepumpen-Einbau-Kostenfallen-vermeiden-6262616-0/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025",
+      "herausgeber": "Statistisches Bundesamt",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Wärmepumpen: Die wichtigsten Fragen und Antworten zu Einsatz, Kosten und Lautstärke",
+      "herausgeber": "Zukunft Altbau (Landesprogramm Baden-Württemberg)",
+      "url": "https://www.zukunftaltbau.de/presse/presseinformationen/waermepumpen-die-wichtigsten-fragen-und-antworten-zu-einsatz-kosten-und-lautstaerke/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "offen": [
+    "Erstes Angebot der VZ BW (29.000–62.000 €) ohne Erhebungszeitraum, nur Veröffentlichung 19.11.2025.",
+    "BKI-Werte netto, Finanztip/VZ-Angebote vermutlich brutto – im Intro auf unterschiedliche Abgrenzung hingewiesen, MwSt-Status der Finanztip-Werte nicht ausgewiesen.",
+    "Zukunft Altbau (Quelle 8) nur für kostenfreie Beratung genutzt, Zahlen dort von 2024 nicht übernommen."
+  ]
+}

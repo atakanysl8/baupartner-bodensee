@@ -1,0 +1,67 @@
+{
+  "slug": "haustuer-kosten",
+  "leistung": "fenster-tueren",
+  "rang": 19,
+  "anker": "Haustür Kosten",
+  "hauptbegriff": "haustür kosten",
+  "title": "Haustür Kosten: Preise nach Material, Einbau und Sicherheit",
+  "description": "Haustür Kosten im Überblick: Preisspannen für Holz- und Aluminiumtüren, Einbau und Ausbau, Aufpreise für Einbruchschutz und Zutrittstechnik sowie GEG-Vorgaben.",
+  "h1": "Was kostet eine neue Haustür?",
+  "einstieg": "Die Haustür ist Visitenkarte, Wärmeschutz und Einbruchschutz in einem Bauteil. Entsprechend weit liegen die Haustür Kosten auseinander: von einfachen Modellen im unteren vierstelligen Bereich bis zu Einzelanfertigungen, die bis in den fünfstelligen Bereich reichen. Den Preis bestimmen vor allem Material, Größe und Seitenteile, die Widerstandsklasse gegen Einbruch, der Dämmwert und Extras wie elektronische Schlösser. Hier finden Sie Preisspannen aus zitierfähigen Quellen, die Mindestanforderung des Gebäudeenergiegesetzes und Hinweise, worauf es beim Austausch im Bestand ankommt.",
+  "kosten": {
+    "h2": "Haustür Kosten im Überblick",
+    "intro": "Neutrale Baukostenstatistiken zu Haustüren sind selten. Die folgenden Spannen stammen aus Ratgeberartikeln von Wohnglück.de und gelten für die Tür selbst; der Einbau ist, wo nicht anders genannt, nicht enthalten. Die Quelle betont, dass Online-Grundpreise aus Konfiguratoren mit Maßen, Glas, Beschlägen und Seitenteilen oft deutlich steigen.",
+    "zeilen": [
+      { "posten": "Holzhaustür, Einstieg mit Grundstandard", "spanne": "ab ca. 2.000 €", "q": 1 },
+      { "posten": "Holzhaustür, Mittelfeld", "spanne": "3.000 – 6.000 €", "q": 1 },
+      { "posten": "Holzhaustür, Unikat aus edlen Hölzern", "spanne": "6.000 – 11.000 €", "q": 1 },
+      { "posten": "Aluminium-Haustür mit Grundstandard / Mittelfeld", "spanne": "ab ca. 1.500 € / 1.500 – 5.000 €", "q": 2 },
+      { "posten": "Einbau einer Haustür", "spanne": "200 – 500 €", "q": 2 },
+      { "posten": "Einbruchhemmende Sicherheitstür, ohne Einbau", "spanne": "ab ca. 1.000 €", "q": 3 },
+      { "posten": "Panzerriegelschloss für bestehende Tür, ohne Montage", "spanne": "ab ca. 156 €", "q": 3 },
+      { "posten": "Fingerprint-System in neuer Tür integriert (Aufpreis)", "spanne": "800 – 1.500 €", "q": 4 }
+    ],
+    "hinweis": "Die Preise für Ausbauarbeiten an Wohngebäuden lagen laut Statistischem Bundesamt im Mai 2026 um 5,1 % über dem Vorjahresmonat, Metallbauarbeiten um 4,4 %. Ein Angebot kann deshalb über Spannen aus älteren Ratgebern liegen."
+  },
+  "abschnitte": [
+    {
+      "h2": "Holz, Aluminium oder Kunststoff",
+      "text": "Holz ist bei Haustüren nach wie vor beliebt, weil es gut dämmt und eine wohnliche Optik hat. Laut Wohnglück.de beginnen solide Holzhaustüren bei rund 2.000 Euro, das Mittelfeld liegt bei 3.000 bis 6.000 Euro. Mehrkosten entstehen dort durch höhere Sicherheits- und Dämmstandards, Sondermaße oder elektronische Zugangssysteme. Holz braucht Pflege: Je nach Beschichtung wird die Tür regelmäßig nachgeölt oder alle paar Jahre neu gestrichen. Aluminiumtüren sind pflegeleichter und witterungsbeständig; mit Grundstandard bei Sicherheit und Wärmeschutz kosten sie laut Quelle mindestens 1.500 Euro, im Mittelfeld 1.500 bis 5.000 Euro. Kombinationen mit Aluminium außen und Holz innen liegen eher am oberen Ende. Kunststofftüren sind die einfachste Variante; belastbare neutrale Preisangaben dafür haben wir nicht gefunden, deshalb nennen wir hier keine Zahl. Unabhängig vom Material gilt: Eine teure Tür ist nicht automatisch die konstruktiv oder dämmtechnisch bessere."
+    },
+    {
+      "h2": "Haustür austauschen: Kosten im Bestand",
+      "text": "Beim Austausch kommen zur neuen Tür der Ausbau und die Entsorgung der alten sowie der Einbau hinzu. Für die Montage nennt Wohnglück.de je nach Modell 200 bis 500 Euro. Im Altbau entscheidet vor allem die Öffnung über den Aufwand: Passt die neue Tür nicht in das vorhandene Maß, müssen Mauerwerk, Sturz oder Bodenanschluss angepasst werden. Häufig sind auch Putz- und Malerarbeiten an der Laibung, eine neue Schwelle und der Anschluss an Klingel, Licht oder Türöffner nötig. Wer einen schwellenlosen Zugang plant, sollte das früh ansprechen; manche Hersteller bieten Türen mit stufenloser Schwelle an. Wer gleichzeitig Fenster tauscht, kann die Arbeiten bündeln; Preise dafür nennt der Ratgeber [[/ratgeber/fenster-austauschen-kosten/]]. Für ein konkretes Angebot wählen wir einen Fachbetrieb für [[/leistungen/fenster-tueren/]] aus, der die Öffnung am Objekt aufmisst."
+    },
+    {
+      "h2": "Einbruchschutz: Widerstandsklassen und Nachrüstung",
+      "text": "Einbruchhemmende Türen werden nach DIN EN 1627 in Widerstandsklassen von RC 1 bis RC 6 eingeteilt. Die Polizei empfiehlt nach Angaben von Wohnglück.de mindestens RC 2. Eine Tür dieser Klasse hält einfachen Hebelwerkzeugen stand; eine RC-3-Tür muss einem Angriff mit zwei Schraubendrehern und einem Brecheisen mindestens fünf Minuten widerstehen. Je höher die Klasse, desto teurer die Tür; für eine einbruchhemmende Sicherheitstür nennt die Quelle mindestens rund 1.000 Euro ohne Einbau. Sicherheitsglas in der Tür verursacht in der Regel einige hundert Euro Zusatzkosten. Eine bestehende, stabile Tür lässt sich nachrüsten: mit einem Panzerriegelschloss nach DIN 18104-1 ab rund 156 Euro, einem Zusatzschloss ab rund 40 Euro und einem Schutzbeschlag nach DIN 18257, jeweils zuzüglich Montage."
+    },
+    {
+      "h2": "Wärmeschutz und Vorgaben",
+      "text": "Das Gebäudeenergiegesetz nennt in Anlage 7 für den Einbau neuer Außentüren einen Höchstwert des Wärmedurchgangskoeffizienten von 1,8 W/(m²·K), bezogen auf die Türfläche. Hochwertige Holztüren erreichen laut Wohnglück.de Werte um 0,86 W/(m²·K), also deutlich weniger als die Mindestanforderung. Für Förderprogramme gelten strengere Werte; für Haustüren gibt es Förderprogramme des Bundes (BEG über BAFA bzw. KfW), deren Bedingungen sich ändern. Auskunft geben BAFA, KfW und die Energieberatung. Neben dem Dämmwert der Tür zählt der Einbau: Dichtungen, ein sauberer Bodenanschluss und eine luftdichte Fuge zum Mauerwerk entscheiden, ob es an der Tür zieht. Fingerprint-Leser und andere elektronische Schlösser kosten in einer neuen Tür laut Wohnglück.de 800 bis 1.500 Euro Aufpreis; nachgerüstete Lösungen neben der Tür sind günstiger, aber weniger einbruchsicher."
+    }
+  ],
+  "faq": [
+    { "q": "Was kostet eine einfache neue Haustür mit Einbau?", "a": "Für Holz- und Aluminiumtüren mit Grundstandard nennt Wohnglück.de Preise ab etwa 1.500 bis 2.000 Euro, dazu 200 bis 500 Euro für den Einbau. Ausbau und Entsorgung der alten Tür sowie Anpassungen an der Öffnung kommen gegebenenfalls hinzu." },
+    { "q": "Welche Widerstandsklasse sollte eine Haustür haben?", "a": "Die Polizei empfiehlt für Haustüren mindestens die Widerstandsklasse RC 2 nach DIN EN 1627. Je nach Lage und Sicherheitsbedürfnis kann RC 3 sinnvoll sein." },
+    { "q": "Welchen U-Wert muss eine neue Haustür haben?", "a": "Das Gebäudeenergiegesetz nennt für neue Außentüren einen Höchstwert von 1,8 W/(m²·K). Für Förderprogramme gelten strengere Werte." },
+    { "q": "Kann ich meine alte Haustür sicherer machen statt sie zu tauschen?", "a": "Wenn die Grundkonstruktion stabil ist, lassen sich Zusatzschlösser, Panzerriegel und Schutzbeschläge nachrüsten. Bei schwachen Türblättern oder Rahmen ist ein Austausch meist die bessere Lösung." },
+    { "q": "Warum sind Online-Preise oft niedriger als das Angebot?", "a": "Online-Preise sind häufig Grundpreise für Standardmaße. Sondermaße, Glas, Beschläge, Seitenteile, Einbruchschutz sowie Ausbau und Montage erhöhen den Endpreis." }
+  ],
+  "verwandt": ["fenster-austauschen-kosten", "energetische-sanierung"],
+  "quellen": [
+    { "titel": "Haustüren aus Holz: Was kosten gute Holzhaustüren?", "herausgeber": "Wohnglück.de (Impleco GmbH)", "url": "https://wohnglueck.de/artikel/haustueren-aus-holz-was-kosten-gute-holzhaustueren-44667", "abruf": "2026-10-02" },
+    { "titel": "Alu-Haustüren: Was kosten gute Alutüren wirklich?", "herausgeber": "Wohnglück.de (Impleco GmbH)", "url": "https://wohnglueck.de/artikel/aluminium-haustueren-modelle-kosten-45114", "abruf": "2026-10-02" },
+    { "titel": "Einbruchschutz für die Tür: Haustür sichern", "herausgeber": "Wohnglück.de (Impleco GmbH)", "url": "https://wohnglueck.de/artikel/einbruchschutz-haustuer-23509", "abruf": "2026-10-02" },
+    { "titel": "Moderne Haustüren: Trends, Neuheiten & Kosten", "herausgeber": "Wohnglück.de (Impleco GmbH)", "url": "https://wohnglueck.de/artikel/haustueren-trends-neuheiten-kosten-45448", "abruf": "2026-10-02" },
+    { "titel": "Gebäudeenergiegesetz, Anlage 7: Höchstwerte der Wärmedurchgangskoeffizienten bei Änderung bestehender Gebäude", "herausgeber": "Bundesministerium der Justiz (gesetze-im-internet.de)", "url": "https://www.gesetze-im-internet.de/geg/anlage_7.html", "abruf": "2026-10-02" },
+    { "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
+  ],
+  "offen": [
+    "Keine neutrale Quelle (Verbraucherzentrale, BKI über Bausparkasse o. ä.) mit Haustürpreisen gefunden; alle Preise aus Wohnglück.de. Betreiber Impleco GmbH ist laut Impressum Darlehensvermittler (§ 34c/§ 34i GewO), kein Handwerksportal; Schwäbisch Hall zitiert wohnglueck.de als Quelle. Zugehörigkeit zur Schwäbisch-Hall-Gruppe im Impressum nicht ausgewiesen. Artikel ohne sichtbares Datum (Copyright 2021–2026).",
+    "Keine belastbaren Preise für Kunststoff-Haustüren gefunden (nur Portale/Hersteller).",
+    "Wohnglück widerspricht sich teils: 'hochwertige Holzhaustüren ab 5.000 €' (Trends-Artikel) vs. 'ab 2.000 €' (Holz-Artikel); verwendet wurde der Holz-Artikel.",
+    "Polizei-Empfehlung RC 2 nur indirekt über Wohnglück (Zitat Polizeiliche Kriminalprävention); polizei-beratung.de-Seite lieferte 404.",
+    "FAQ 1 'ab etwa 1.500 bis 2.000 Euro' fasst Alu (ab 1.500) und Holz (ab 2.000) zusammen."
+  ]
+}

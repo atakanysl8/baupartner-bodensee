@@ -1,0 +1,160 @@
+{
+  "slug": "barrierefreies-bad",
+  "leistung": "bad-sanitaer",
+  "rang": 8,
+  "anker": "Barrierefreies Bad",
+  "hauptbegriff": "barrierefreies bad",
+  "title": "Barrierefreies Bad: Maße nach DIN 18040-2 und Kosten",
+  "description": "Barrierefreies Bad planen: Bewegungsflächen und Türbreiten nach DIN 18040-2, Preise für bodengleiche Dusche, WC und Griffe sowie Tipps für den Umbau im Bestand.",
+  "h1": "Was braucht und was kostet ein barrierefreies Bad?",
+  "einstieg": "Ein barrierefreies Bad soll auch dann noch funktionieren, wenn Gehhilfe, Rollator oder Rollstuhl dazukommen oder eine zweite Person beim Waschen hilft. Entscheidend sind dafür weniger teure Objekte als ausreichende Bewegungsflächen, eine stufenlose Dusche, stabile Wände für Griffe und eine Tür, die im Notfall von außen zu öffnen ist. Hier finden Sie die wichtigsten Maße aus der Norm DIN 18040-2, Preise für typische Bausteine aus zitierfähigen Quellen und Hinweise, wo im Bestand die Kosten entstehen. Für ein konkretes Angebot wählen wir einen Fachbetrieb für [[/leistungen/bad-sanitaer/]] aus, der Ihr Bad vorher ansieht.",
+  "kosten": {
+    "h2": "Kosten für ein barrierefreies Bad im Überblick",
+    "intro": "Ein Komplettpreis lässt sich kaum nennen, weil der Umfang von einzelnen Haltegriffen bis zur vollständigen Sanierung reicht. Für eine Komplettsanierung nennt die Bausparkasse Schwäbisch Hall 900 bis 3.500 Euro je Quadratmeter Badfläche und weist darauf hin, dass der nachträgliche Einbau einer ebenerdigen Dusche zusätzlichen Umbau bedeutet. Die Einzelposten unten zeigen, was barrierefreie Ausführungen im Vergleich zu Standardobjekten kosten. Die Werte mit Quelle 1 stammen vom Baukosteninformationszentrum Deutscher Architektenkammern (BKI) und sind Nettopreise inklusive Montage.",
+    "zeilen": [
+      {
+        "posten": "Komplettsanierung je m² Badfläche",
+        "spanne": "900 – 3.500 €",
+        "q": 1
+      },
+      {
+        "posten": "Wand-WC, barrierefrei, mit Spülkasten und Betätigungsplatte",
+        "spanne": "ca. 1.415 € je Stück",
+        "q": 1
+      },
+      {
+        "posten": "Wand-WC, Standardausführung (zum Vergleich)",
+        "spanne": "ca. 1.045 € je Stück",
+        "q": 1
+      },
+      {
+        "posten": "Waschtisch, barrierefrei, mit berührungsloser Armatur",
+        "spanne": "ca. 1.725 € je Stück",
+        "q": 1
+      },
+      {
+        "posten": "Duschrinne aus Edelstahl mit Anschlussleitung (BKI, 4. Quartal 2024)",
+        "spanne": "ca. 782 € je Stück",
+        "q": 1
+      },
+      {
+        "posten": "Badewanne ausbauen",
+        "spanne": "ca. 190 € je Stück",
+        "q": 1
+      },
+      {
+        "posten": "Wanne zurückbauen, begehbare Dusche mit Glasabtrennung einbauen",
+        "spanne": "4.000 – 6.000 €",
+        "q": 2
+      },
+      {
+        "posten": "Höhenverstellbares WC",
+        "spanne": "800 – 1.000 €",
+        "q": 2
+      },
+      {
+        "posten": "Haltegriff / Stützgriff",
+        "spanne": "ab 75 € / ab 200 €",
+        "q": 2
+      }
+    ],
+    "hinweis": "Die Preise für Instandhaltungsarbeiten an Wohngebäuden lagen laut Statistischem Bundesamt im Mai 2026 um 5,6 % über dem Vorjahresmonat. Ältere Richtwerte sind deshalb eher als Untergrenze zu lesen."
+  },
+  "abschnitte": [
+    {
+      "h2": "Barrierefrei oder altersgerecht – der Unterschied",
+      "text": "Im Alltag werden beide Begriffe oft gleich verwendet, fachlich gibt es aber einen Unterschied. Ein altersgerechtes oder barrierereduziertes Bad beseitigt die wichtigsten Hürden: keine Türschwelle, eine ebenerdige Dusche, rutschhemmende Fliesen, Griffe an WC und Dusche. Barrierefrei im engeren Sinn ist ein Bad, wenn es die Anforderungen der Norm DIN 18040-2 für Wohnungen erfüllt. Diese Norm beschreibt Bewegungsflächen, Abstände, Türen und Ausstattung so, dass Menschen mit Seh- oder Bewegungseinschränkungen, ältere Menschen und Kinder das Bad ohne fremde Hilfe nutzen können. Für Rollstuhlnutzer sieht die Norm nochmals größere Flächen vor. Der vollständige Umbau nach Norm ist aufwendiger und teurer als eine altersgerechte Ausstattung. Für viele Eigentümer ist deshalb ein Mittelweg sinnvoll: das Bad jetzt so planen, dass die wichtigsten Maße stimmen und spätere Ergänzungen wie Griffe oder ein höheres WC ohne neuen Umbau möglich sind. Welche Variante passt, hängt von Grundriss, Gesundheit und Zeithorizont ab."
+    },
+    {
+      "h2": "Die wichtigsten Maße nach DIN 18040-2",
+      "text": "Die Bewegungsfläche vor WC, Waschtisch, Dusche und Wanne beträgt nach der Zusammenfassung von BauNetz Wissen in der Regel 1,20 × 1,20 Meter, für Rollstuhlnutzer mindestens 1,50 × 1,50 Meter. Bewegungsflächen dürfen sich überlagern, etwa vor Dusche und Waschtisch, was in kleinen Bädern Platz gewinnt. Der stufenlos begehbare Duschbereich soll mindestens 1,20 × 1,20 Meter groß sein und eine rutschhemmende Oberfläche haben. Zwischen den Sanitärobjekten und zur Wand nennt die Norm einen Mindestabstand von 20 Zentimetern. Drehflügeltüren schlagen nach außen auf und lassen sich von außen entriegeln, damit niemand bei einem Sturz die Tür blockiert. Für die Türbreite empfiehlt die Verbraucherzentrale mindestens 80, besser 90 Zentimeter; in Wohnungen für Rollstuhlnutzer sind mindestens 90 Zentimeter vorgesehen. Der Spiegel soll mindestens einen Meter hoch sein und direkt über dem Waschtisch hängen, damit er im Sitzen und Stehen nutzbar ist. Unter einem barrierefreien Waschtisch braucht es Beinfreiheit, laut Interhyp etwa 67 Zentimeter Höhe und bis zu 55 Zentimeter Tiefe."
+    },
+    {
+      "h2": "Bodengleiche Dusche im Bestand",
+      "text": "Der größte Kostenblock im Altbau ist meist die bodengleiche Dusche. Damit Wasser ohne Duschtasse abläuft, braucht der Ablauf Gefälle und ausreichend Einbauhöhe unter dem Fliesenbelag. Ist der Estrich zu dünn, wird er geöffnet, oder es kommt eine flache Duschrinne beziehungsweise ein Wandablauf zum Einsatz. Dazu gehört eine sorgfältige Abdichtung unter den Fliesen im gesamten Spritzwasserbereich. Für Böden in der Dusche nennt die Verbraucherzentrale als Beispiel Fliesen der Klasse R 11 B, die auch bei Nässe trittsicher sind. Wer die Wanne behalten möchte, kann laut Verbraucherzentrale den Ablauf schon so vorbereiten, dass später ein Umbau zur Dusche ohne großen Aufwand möglich ist. Wie stark die Dusche den Preis treibt, zeigt der Vergleich: Allein die Duschrinne liegt laut BKI bei rund 782 Euro, der Umbau von Wanne zu begehbarer Dusche mit Glasabtrennung nach Interhyp bei 4.000 bis 6.000 Euro."
+    },
+    {
+      "h2": "Griffe, WC und Waschtisch: vorausschauend planen",
+      "text": "Stütz- und Haltegriffe sollen das volle Körpergewicht tragen und brauchen deshalb eine feste Verankerung. Die DIN 18040-2 verlangt nach BauNetz Wissen, dass die Wände neben dem WC sowie an Dusche und Wanne so ausgebildet werden, dass Griffe später angebracht werden können. Praktisch lösen das Vorwandinstallationen, in die gleich Verstärkungen eingebaut werden. Bei Stützklappgriffen nennt BauNetz Wissen eine Vertikallast von mindestens 100 Kilogramm an der Spitze. Ein wandhängendes WC lässt sich in der gewünschten Höhe montieren; höhenverstellbare WCs und Waschtische passen sich unterschiedlichen Nutzern an. Als Armatur sind Einhebelmischer oder berührungslose Armaturen mit Temperaturbegrenzung üblich. Was eine Sanierung des ganzen Raums kostet, finden Sie im Ratgeber [[/ratgeber/badsanierung-kosten/]]."
+    },
+    {
+      "h2": "Förderung und Beratung",
+      "text": "Für barrierereduzierende Umbauten gibt es Förderprogramme, unter anderem der KfW; bei einem Pflegegrad kann zusätzlich die Pflegekasse Auskunft zu Zuschüssen geben. Bedingungen und Antragswege ändern sich, verbindliche Auskunft geben die KfW, die Pflegekasse und unabhängige Beratungsstellen. Für die Planung helfen ein einfacher Grundriss mit Maßen, Fotos von Tür, Dusche und Anschlüssen sowie eine Liste, wer das Bad künftig nutzt und welche Hilfsmittel absehbar sind. Damit lässt sich am Objekt klären, ob die Norm-Maße erreichbar sind oder ein barrierearmer Kompromiss sinnvoller ist. Hilfreich ist auch die Frage, ob Elektroarbeiten für Beleuchtung, Spiegel oder ein elektrisch höhenverstellbares WC anfallen und ob das Bad während des Umbaus anderweitig ersetzt werden kann, etwa durch ein zweites WC im Haus."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie groß muss ein barrierefreies Bad sein?",
+      "a": "Eine feste Mindestgröße nennt die Norm nicht, entscheidend sind die Bewegungsflächen von in der Regel 1,20 × 1,20 Metern vor den Objekten und eine Dusche von mindestens 1,20 × 1,20 Metern. Da sich Bewegungsflächen überlagern dürfen, passt das auch in kleinere Bäder, wenn die Anordnung stimmt."
+    },
+    {
+      "q": "Wie breit muss die Badtür sein?",
+      "a": "Die Verbraucherzentrale empfiehlt mindestens 80, besser 90 Zentimeter Durchgangsbreite. In Wohnungen für Rollstuhlnutzer sind mindestens 90 Zentimeter vorgesehen, und die Tür sollte nach außen aufgehen."
+    },
+    {
+      "q": "Kann ich eine bodengleiche Dusche im Altbau nachrüsten?",
+      "a": "In den meisten Altbauten ist das laut Verbraucherzentrale mit heutiger Technik möglich. Ob der Estrich geöffnet werden muss oder eine flache Rinne genügt, hängt von Aufbauhöhe und Leitungsführung ab."
+    },
+    {
+      "q": "Was kostet es, nur Haltegriffe nachzurüsten?",
+      "a": "Interhyp nennt für einen Haltegriff ab 75 Euro und für einen Stützgriff ab 200 Euro. Dazu kommt die Montage, die bei Leichtbauwänden eine Verstärkung erfordern kann."
+    },
+    {
+      "q": "Badewanne oder Dusche im barrierefreien Bad?",
+      "a": "Für Menschen mit eingeschränkter Mobilität ist ein niveaugleicher Duschplatz die Grundausstattung, eine Wanne gilt als wünschenswerte Ergänzung. In kleinen Bädern kann eine begehbare Kombiwanne mit niedrigem Einstieg ein Kompromiss sein."
+    }
+  ],
+  "verwandt": [
+    "badsanierung-kosten",
+    "fliesenleger-kosten"
+  ],
+  "quellen": [
+    {
+      "titel": "Badsanierung: Kosten",
+      "herausgeber": "Bausparkasse Schwäbisch Hall (Richtwerte BKI, 4. Quartal 2025 bzw. 2024)",
+      "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-sanieren-renovieren/badsanierung-kosten.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Altersgerechtes Bad: Umbau, Kosten und Förderung",
+      "herausgeber": "Interhyp (Baufinanzierung, Ratgeber vom 13.02.2024)",
+      "url": "https://www.interhyp.de/modernisierung/altersgerecht/bad/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Barrierefreie Sanitärräume nach DIN 18040-2",
+      "herausgeber": "BauNetz Wissen (Fachportal)",
+      "url": "https://www.baunetzwissen.de/bad-und-sanitaer/fachwissen/barrierefreiheit/barrierefreie-sanitaerraeume-nach-din-18040-2-172838",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Anforderungen an barrierefreie Bäder",
+      "herausgeber": "BauNetz Wissen (Fachportal)",
+      "url": "https://www.baunetzwissen.de/bad-und-sanitaer/fachwissen/barrierefreiheit/anforderungen-an-barrierefreie-baeder-172722",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Badezimmer – Platz gewinnen und Barrieren abbauen",
+      "herausgeber": "Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de/wissen/energie/energetische-sanierung/badezimmer-platz-gewinnen-und-barrieren-abbauen-54769",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025",
+      "herausgeber": "Statistisches Bundesamt",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Barrierefreie Bäder",
+      "herausgeber": "BauNetz Wissen (Fachportal)",
+      "url": "https://www.baunetzwissen.de/bad-und-sanitaer/fachwissen/barrierefreiheit/barrierefreie-baeder-172728",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "offen": [
+    "DIN 18040-2 selbst nicht eingesehen (kostenpflichtig); Maße aus BauNetz Wissen (Fachportal, Inhalte gesponsert von einem Griffhersteller) und übereinstimmend Interhyp. Türbreite 80 cm für Nicht-Rollstuhl-Bäder nur als Empfehlung der Verbraucherzentrale bzw. Interhyp-Liste genannt.",
+    "Interhyp ist Baufinanzierungsvermittler (kein Handwerksportal); Preise Dusche/WC/Griffe ohne Erhebungsquelle, Artikel vom 13.02.2024.",
+    "Kombiwanne-Hinweis (FAQ 5) aus Verbraucherzentrale, Duschplatz/Wanne aus BauNetz Wissen (Quelle 7)."
+  ]
+}

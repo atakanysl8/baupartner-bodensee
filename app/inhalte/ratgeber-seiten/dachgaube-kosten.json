@@ -1,0 +1,62 @@
+{
+  "slug": "dachgaube-kosten",
+  "leistung": "dach-fassade",
+  "rang": 12,
+  "anker": "Dachgaube Kosten",
+  "hauptbegriff": "dachgaube kosten",
+  "title": "Dachgaube Kosten: Preise nach Gaubenart und Größe",
+  "description": "Was kostet eine Dachgaube? Preisspannen für Schlepp-, Standard- und Fertiggauben, ein Rechenbeispiel mit Einzelposten sowie Hinweise zu Statik und Genehmigung.",
+  "h1": "Was kostet eine Dachgaube?",
+  "einstieg": "Eine Gaube schafft im Dachgeschoss Stehhöhe, Stellfläche und Tageslicht, greift aber tief in Dach und Statik ein. Entsprechend weit reichen die Dachgaube-Kosten: Eine Fertiggaube beginnt nach Angaben der Bausparkasse Wüstenrot bei rund 5.000 Euro, große, individuell gefertigte Gauben können bis zu 40.000 Euro kosten. Hier finden Sie Preisspannen nach Gaubenart, ein Rechenbeispiel mit Einzelposten und die Punkte, die den Preis treiben. Für ein konkretes Angebot wählen wir einen Fachbetrieb für [[/leistungen/dach-fassade/]] aus, der Dach und Dachstuhl vorher ansieht.",
+  "kosten": {
+    "h2": "Kosten einer Dachgaube im Überblick",
+    "intro": "Die Bausparkasse Wüstenrot nennt für eine neue Gaube je nach Umfang und Art 7.000 bis 40.000 Euro und unterscheidet Marktrichtwerte nach Gaubenart, jeweils inklusive Installation. Das Rechenbeispiel stammt vom Landesverband Holzbau Baden-Württemberg und beschreibt eine rund 3,60 Meter breite Gaube, die eine alte Gaube ersetzt.",
+    "zeilen": [
+      { "posten": "Neue Gaube, je nach Umfang und Art", "spanne": "7.000 – 40.000 €", "q": 1 },
+      { "posten": "Kleine, einfache Gaube (z. B. Flachdach- oder Schleppgaube)", "spanne": "ca. 7.000 – 12.000 €", "q": 1 },
+      { "posten": "Standard-Gaube (mittlere Größe, übliche Bekleidung und Fenster)", "spanne": "ca. 12.000 – 25.000 €", "q": 1 },
+      { "posten": "Aufwendige oder große Form (z. B. Fledermausgaube)", "spanne": "ca. 15.000 – 40.000 €", "q": 1 },
+      { "posten": "Fertiggaube", "spanne": "ca. 5.000 – 10.000 €", "q": 1 },
+      { "posten": "Beispiel: Gaube 3,60 m breit inkl. Abbruch der alten Gaube", "spanne": "25.000 €", "q": 1 },
+      { "posten": "Innenbekleidung Dachschräge, Gipsplatte mit Dämmung, je m²", "spanne": "ca. 139 €", "q": 3 }
+    ],
+    "hinweis": "Holz- und Dacharbeiten verteuern sich: Dachdeckungsarbeiten sowie Zimmer- und Holzbauarbeiten waren laut Statistischem Bundesamt im Mai 2026 jeweils um 7,3 % teurer als im Mai 2025. Ältere Beispielrechnungen sind deshalb eher als Untergrenze zu lesen."
+  },
+  "abschnitte": [
+    {
+      "h2": "Was den Preis einer Gaube bestimmt",
+      "text": "Die meisten Gauben werden individuell gefertigt, weil Dachneigung, Sparrenlage und Wünsche der Eigentümer verschieden sind. Wüstenrot nennt vier Haupttreiber. Erstens die Größe: Je breiter die Gaube und je mehr Fenster sie hat, desto teurer wird sie; auch die Wahl zwischen Zweifach- und Dreifachverglasung spielt eine Rolle. Zweitens Form und Dachneigung: Eine Walm- oder Fledermausgaube verlangt deutlich mehr handwerkliches Können als eine Schlepp- oder Flachdachgaube. Drittens das Material der Außenhülle: Eine Bekleidung aus Zink oder Aluminium ist günstiger als eine verputzte Variante mit Schindeldach. Viertens die Außenbeschattung, die gerade bei Südlage kaum verzichtbar ist, weil sich das Dachgeschoss im Sommer stark aufheizt. Hinzu kommen Kosten für Planung und Genehmigung, Gerüst oder Kran, das Öffnen des Daches, die Anpassung des Dachstuhls, Dacheindeckung und Anschlüsse sowie am Ende Wärmedämmung, Trockenbau und Putz im Innenraum."
+    },
+    {
+      "h2": "Rechenbeispiel aus Baden-Württemberg",
+      "text": "Wie sich die Summe zusammensetzt, zeigt ein Beispiel des Landesverbands Holzbau Baden-Württemberg, das Wüstenrot veröffentlicht. Ersetzt wird eine alte Gaube durch eine neue mit rund 3,60 Metern Breite. Abbruch und Entsorgung der alten Gaube schlagen mit 2.850 Euro zu Buche, Baugesuch und Statik mit 2.000 Euro. Die Holzkonstruktion samt Verkleidung kostet 8.400 Euro, Wärmedämmung, Verkleidung und Unterkonstruktion weitere 2.815 Euro. Für Flaschnerarbeiten mit Kupferdach und Kupfer-Seitenverkleidung fallen 6.000 Euro an, für zwei zweiflüglige, dreifach verglaste Holzfenster einschließlich Transport und Montage 3.000 Euro. Zusammen ergibt das 25.000 Euro. Das Beispiel zeigt, dass die eigentliche Konstruktion nur gut ein Drittel ausmacht und Blecharbeiten, Fenster, Planung und Abbruch zusammen mehr kosten. Wer statt Kupfer eine günstigere Bekleidung wählt, verändert die Summe spürbar."
+    },
+    {
+      "h2": "Fertiggaube oder Zimmermannsgaube?",
+      "text": "Industriell vorgefertigte Gauben sind laut Wüstenrot wegen ihrer Standardisierung in der Regel günstiger als individuell gefertigte; als Richtwert nennt die Bausparkasse 5.000 bis 10.000 Euro. Der Aufwand für die Dachöffnung, die Anschlüsse an die vorhandene Dämmung, die Abdichtung, die Dachdeckung und eventuelle Installationsarbeiten ist bei beiden Varianten allerdings gleich. Unterschiede gibt es bei der Logistik: Eine Zimmermannsgaube wird am Haus gefertigt und braucht ein Gerüst, eine Fertiggaube wird angeliefert und meist per Kran eingesetzt. Welche Variante passt, hängt davon ab, ob ein Standardmaß zur Dachneigung, zum Sparrenabstand und zur gewünschten Optik passt. Gerade bei älteren Häusern mit unregelmäßigem Dachstuhl ist eine individuell gefertigte Gaube oft die einzige Möglichkeit."
+    },
+    {
+      "h2": "Statik, Genehmigung und der richtige Zeitpunkt",
+      "text": "Für den Einbau einer Gaube ist nach Angaben von Wüstenrot in der Regel ein Bauantrag beim zuständigen Bauamt erforderlich, dazu kommen statische Nachweise; auch Schwäbisch Hall weist darauf hin, dass Gauben oft eine Baugenehmigung erfordern. Verbindliche Auskunft gibt die untere Baurechtsbehörde. Am günstigsten ist eine Gaube, wenn sie gleich beim Neubau oder im Zuge einer Dachsanierung eingeplant wird. Nachträglich wird es laut Wüstenrot deutlich teurer, im ungünstigen Fall muss die Dachdeckung auf der ganzen Gaubenseite abgenommen, eine vorhandene Solaranlage abgebaut und der Dachstuhl aufwendig angepasst werden. Wenn es Ihnen vor allem um mehr Tageslicht geht, ist ein Dachflächenfenster die kleinere Lösung; was es kostet, zeigt der Ratgeber [[/ratgeber/dachfenster-einbauen-kosten/]]. Für ein belastbares Angebot helfen Fotos von Dach und Dachboden, Maße der Dachfläche und eine Skizze, wo die Gaube sitzen soll. Wenn Sie uns Ihr Vorhaben schildern, wählen wir einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "faq": [
+    { "q": "Braucht man für eine Dachgaube eine Baugenehmigung?", "a": "Nach Angaben der Bausparkasse Wüstenrot ist für den Einbau einer Gaube in der Regel ein Bauantrag mit statischem Nachweis erforderlich. Ob das im Einzelfall gilt, beantwortet die untere Baurechtsbehörde." },
+    { "q": "Welche Gaubenform ist am günstigsten?", "a": "Schlepp- und Flachdachgauben bieten laut Wüstenrot den größten Raum- und Lichtgewinn bei vergleichsweise günstigem Preis. Für kleine, einfache Gauben dieser Art nennt die Bausparkasse etwa 7.000 bis 12.000 Euro." },
+    { "q": "Ist eine Fertiggaube günstiger?", "a": "Ja, vorgefertigte Gauben liegen nach Wüstenrot bei etwa 5.000 bis 10.000 Euro. Dachöffnung, Anschlüsse, Abdichtung und Innenausbau kosten aber genauso viel wie bei einer individuell gefertigten Gaube." },
+    { "q": "Was ist günstiger, Gaube oder Dachfenster?", "a": "Ein Dachflächenfenster in guter Qualität kostet laut Schwäbisch Hall inklusive Einbau rund 2.600 Euro und damit deutlich weniger als eine Gaube. Mehr Stehhöhe und Stellfläche schafft aber nur die Gaube." },
+    { "q": "Kann man eine Gaube in Eigenleistung bauen?", "a": "Wüstenrot rät davon ab, weil fehlerhafte Anschlüsse, Dämmung oder Abdichtung zu Nässeschäden und Schimmel führen können. Solche Baumängel verursachen nach Einschätzung der Bausparkasse hohe Folgekosten." }
+  ],
+  "verwandt": ["dachfenster-einbauen-kosten", "dachsanierung-kosten"],
+  "quellen": [
+    { "titel": "Was kostet eine Dachgaube?", "herausgeber": "Bausparkasse Wüstenrot (Stand Februar 2026; Beispiel Landesverband Holzbau Baden-Württemberg)", "url": "https://www.wuestenrot.de/modernisieren/kosten-gaube", "abruf": "2026-10-02" },
+    { "titel": "Dachausbau: Kosten", "herausgeber": "Bausparkasse Schwäbisch Hall", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen/dachausbau.html", "abruf": "2026-10-02" },
+    { "titel": "Dachsanierung: Kosten für ein neues Dach", "herausgeber": "Bausparkasse Schwäbisch Hall (Richtwerte BKI, 4. Quartal 2025)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-sanieren-renovieren/dachsanierung-kosten.html", "abruf": "2026-10-02" },
+    { "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
+  ],
+  "offen": [
+    "Kein neutraler Rang-1-Richtwert (Verbraucherzentrale, co2online, BKI) für komplette Gauben gefunden; Hauptquelle ist die Bausparkasse Wüstenrot ('Marktrichtwerte 2026'). Rechenbeispiel Landesverband Holzbau BW ohne Erhebungsjahr.",
+    "'Gut ein Drittel' für die Holzkonstruktion ist eigene Einordnung (8.400 von 25.000 €).",
+    "Genehmigungspflicht nur als Wiedergabe von Wüstenrot/Schwäbisch Hall; LBO BW (verfahrensfreie Vorhaben) nicht selbst geprüft."
+  ]
+}

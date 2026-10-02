@@ -1,0 +1,66 @@
+{
+  "slug": "dachfenster-einbauen-kosten",
+  "leistung": "dach-fassade",
+  "rang": 9,
+  "anker": "Dachfenster Einbau Kosten",
+  "hauptbegriff": "dachfenster einbauen kosten",
+  "title": "Dachfenster einbauen Kosten: Preise mit Montage",
+  "description": "Was kostet es, ein Dachfenster einbauen zu lassen? Preise je Fenster mit Montage, Kosten für Austausch, Innenausbau und Sonnenschutz sowie die Kostentreiber.",
+  "h1": "Was kostet es, ein Dachfenster einzubauen?",
+  "einstieg": "Ein Dachflächenfenster bringt Licht in Dachgeschoss und Treppenhaus, ohne die Dachform zu verändern. Wer ein Dachfenster einbauen lässt, zahlt neben dem Fenster selbst für das Öffnen des Daches, die Anschlüsse an Eindeckung und Dämmung sowie die Innenverkleidung. Hier finden Sie Preise aus zitierfähigen Quellen für Neueinbau, Austausch und Sonnenschutz und die Faktoren, die den Preis bestimmen. Für ein konkretes Angebot wählen wir einen Fachbetrieb für [[/leistungen/dach-fassade/]] aus, der Dach und Dachstuhl vorher ansieht.",
+  "kosten": {
+    "h2": "Kosten für den Einbau eines Dachfensters",
+    "intro": "Für neue Dachflächenfenster in guter Qualität nennt die Bausparkasse Schwäbisch Hall inklusive Einbau rund 2.600 Euro pro Stück; der Richtwert des Baukosteninformationszentrums Deutscher Architektenkammern (BKI) für den Austausch liegt mit rund 2.620 Euro in derselben Größenordnung. Einfache Modelle gibt es nach Angaben der Commerzbank je nach Größe ab 800 Euro inklusive Montage. Die BKI-Werte sind statistische Mittelwerte inklusive Mehrwertsteuer.",
+    "zeilen": [
+      { "posten": "Dachflächenfenster guter Qualität inkl. Einbau", "spanne": "rund 2.600 € je Stück", "q": 1 },
+      { "posten": "Dachflächenfenster austauschen (BKI)", "spanne": "ca. 2.620 € je Stück", "q": 2 },
+      { "posten": "Günstiges Dachfenster inkl. Montage, je nach Größe", "spanne": "ab 800 €", "q": 3 },
+      { "posten": "Plissee innen (einfacher Sonnenschutz)", "spanne": "ab ca. 20 €", "q": 1 },
+      { "posten": "Verdunkelungsrollo mit Kasten und Seitenschienen", "spanne": "ca. 50 – 70 €", "q": 1 },
+      { "posten": "Motorisierte Außenmarkise oder Rollladen", "spanne": "ab ca. 500 €", "q": 1 },
+      { "posten": "Wandbekleidung mit Gipsplatten je m²", "spanne": "100 – 120 €", "q": 1 },
+      { "posten": "Dachschräge mit Gipsplatte und Dämmung je m² (BKI)", "spanne": "ca. 139 €", "q": 2 }
+    ],
+    "hinweis": "Arbeiten am Dach werden teurer: Dachdeckungsarbeiten sowie Zimmer- und Holzbauarbeiten waren laut Statistischem Bundesamt im Mai 2026 jeweils um 7,3 % teurer als im Mai 2025. Ältere Preisangaben sind deshalb eher als Untergrenze zu lesen."
+  },
+  "abschnitte": [
+    {
+      "h2": "Was im Preis für den Einbau steckt",
+      "text": "Der Fensterpreis allein sagt wenig über die Gesamtkosten. Beim Neueinbau wird die Eindeckung im Bereich des Fensters abgenommen, die Öffnung zwischen den Sparren hergestellt und das Fenster mit einem passenden Eindeckrahmen an Ziegel, Schiefer oder Blech angeschlossen. Ist das gewünschte Fenster breiter als der Abstand zwischen zwei Sparren, muss in den Dachstuhl eingegriffen werden, was Zimmererarbeiten und gegebenenfalls einen statischen Nachweis nach sich zieht. Innen folgen der Anschluss an Dämmung und Dampfbremse, die Laibung und die Verkleidung der Dachschräge. Schwäbisch Hall zählt Spenglerarbeiten wie Einfassungen von Dachfenstern ausdrücklich zu den Kosten, die bei Dacharbeiten hinzukommen können. Nach Angaben der Commerzbank erfordert der Einbau mitunter zusätzlich einen Hubsteiger, wenn das Dach von außen schlecht erreichbar ist. Auch Größe, Bedienung und Verglasung verändern den Preis: Ein großes Fenster mit elektrischer Steuerung kostet mehr als ein kleines, handbedientes Modell."
+    },
+    {
+      "h2": "Austausch oder Neueinbau?",
+      "text": "Der Austausch eines vorhandenen Dachfensters ist meist einfacher, weil Öffnung, Wechsel im Dachstuhl und Innenverkleidung schon bestehen. Passt das neue Fenster in die alte Öffnung, beschränkt sich der Aufwand im Wesentlichen auf Ausbau, Einbau, Eindeckrahmen und Anschlüsse; das BKI nennt dafür rund 2.620 Euro pro Stück. Beim Neueinbau kommen dagegen die Arbeiten am Dachstuhl und der Innenausbau hinzu, bei einer Dachschräge mit Gipsplatte und Dämmung rechnet das BKI mit rund 139 Euro je Quadratmeter. Steht ohnehin eine Neueindeckung an, ist das laut Schwäbisch Hall ein guter Zeitpunkt, weil der Einbau von Dachflächenfenstern ein Eingriff in die Dachhaut ist und sich Anschlüsse dann am saubersten herstellen lassen. Reicht ein Fenster nicht aus, weil vor allem Stehhöhe und Stellfläche fehlen, ist eine Gaube die größere Lösung; Preise dafür nennt der Ratgeber [[/ratgeber/dachgaube-kosten/]]."
+    },
+    {
+      "h2": "Sonnenschutz gleich mitplanen",
+      "text": "Dachfenster liegen schräg zur Sonne und lassen im Sommer viel Wärme herein. Zukunft Altbau, das vom Umweltministerium Baden-Württemberg geförderte Informationsprogramm, gibt an, dass trotz des kleinen Flächenanteils rund die Hälfte der gesamten Hitze über die Fensterflächen ins Gebäude gelangt. Besonders wirksam sind danach außenliegende Systeme wie Rollläden oder Markisen, weil sie die Strahlung abfangen, bevor sie die Scheibe erreicht. Innenliegende Plissees ab etwa 20 Euro dienen eher dem Sichtschutz; ihr Verdunkelungseffekt ist laut Schwäbisch Hall fraglich. Für Schlafräume eignen sich Verdunkelungsrollos mit Kasten und Seitenschienen, die bei etwa 50 bis 70 Euro beginnen. Motorisierte Außenmarkisen oder Rollläden kosten ab etwa 500 Euro. Wer den Sonnenschutz gleich beim Einbau einplant, kann Anschlüsse und Stromzuleitung für elektrische Antriebe in einem Arbeitsgang vorsehen."
+    },
+    {
+      "h2": "Genehmigung, Dämmung und Angebot",
+      "text": "Ob für ein zusätzliches Dachfenster eine Genehmigung nötig ist, hängt von Lage und Gebäude ab, etwa bei Denkmalschutz oder einer örtlichen Gestaltungssatzung; Auskunft gibt die untere Baurechtsbehörde. Technisch entscheidend ist ein dichter Anschluss an die vorhandene Dämmung: Laut Zukunft Altbau kann schon eine offene Fuge von einem Millimeter Breite und einem Meter Länge den Dämmwert in dieser Zone nahezu halbieren. Für energieeffiziente Fenster gibt es Förderprogramme des Bundes (BEG über KfW bzw. BAFA); Bedingungen ändern sich, Auskunft geben KfW, BAFA und Energieberatung. Für ein vergleichbares Angebot helfen Fotos von Dach und Innenraum, die Dachneigung, das Eindeckmaterial, die gewünschte Fenstergröße und die Angabe, ob ein vorhandenes Fenster ersetzt oder ein neues eingebaut werden soll. Wenn Sie uns Ihr Vorhaben schildern, wählen wir einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "faq": [
+    { "q": "Was kostet ein Dachfenster mit Einbau?", "a": "Einfache Modelle gibt es nach Angaben der Commerzbank je nach Größe ab 800 Euro inklusive Montage. Für Dachflächenfenster in guter Qualität nennt Schwäbisch Hall inklusive Einbau rund 2.600 Euro pro Stück." },
+    { "q": "Ist der Austausch günstiger als ein Neueinbau?", "a": "In der Regel ja, weil Öffnung, Dachstuhlwechsel und Innenverkleidung schon vorhanden sind. Beim Neueinbau kommen Zimmerer-, Dämm- und Trockenbauarbeiten hinzu." },
+    { "q": "Welcher Sonnenschutz ist für Dachfenster sinnvoll?", "a": "Laut Zukunft Altbau sind außenliegende Systeme wie Rollläden oder Markisen besonders wirksam gegen Hitze. Motorisierte Außenverschattungen kosten nach Schwäbisch Hall ab etwa 500 Euro, Verdunkelungsrollos innen ab etwa 50 Euro." },
+    { "q": "Kann ein Dachfenster auch in ein gedämmtes Dach eingebaut werden?", "a": "Ja, die Dämmung und die Dampfbremse müssen danach aber lückenlos an den Fensterrahmen angeschlossen werden. Undichte Stellen mindern den Dämmwert und können zu Feuchteschäden führen." },
+    { "q": "Wann ist eine Gaube statt eines Dachfensters sinnvoll?", "a": "Wenn neben Licht auch Stehhöhe und Stellfläche gewonnen werden sollen. Eine Gaube kostet nach Angaben der Bausparkasse Wüstenrot allerdings mindestens etwa 5.000 Euro als Fertiggaube und meist deutlich mehr." }
+  ],
+  "verwandt": ["dachgaube-kosten", "dachdaemmung-kosten"],
+  "quellen": [
+    { "titel": "Dachausbau: Kosten", "herausgeber": "Bausparkasse Schwäbisch Hall", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen/dachausbau.html", "abruf": "2026-10-02" },
+    { "titel": "Dachsanierung: Kosten für ein neues Dach", "herausgeber": "Bausparkasse Schwäbisch Hall (Richtwerte BKI, 4. Quartal 2025)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-sanieren-renovieren/dachsanierung-kosten.html", "abruf": "2026-10-02" },
+    { "titel": "Was kostet eine Dachsanierung?", "herausgeber": "Commerzbank", "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/was-kostet-eine-dachsanierung/", "abruf": "2026-10-02" },
+    { "titel": "Sommerlicher Hitzeschutz", "herausgeber": "Zukunft Altbau (KEA Klimaschutz- und Energieagentur Baden-Württemberg)", "url": "https://www.zukunftaltbau.de/eigentuemer/daemmung-fenster-lueftung/hitzeschutz/", "abruf": "2026-10-02" },
+    { "titel": "Dachdämmung bietet Kälte- und Hitzeschutz", "herausgeber": "Zukunft Altbau (KEA Klimaschutz- und Energieagentur Baden-Württemberg)", "url": "https://www.zukunftaltbau.de/eigentuemer/daemmung-fenster-lueftung/dach/", "abruf": "2026-10-02" },
+    { "titel": "Was kostet eine Dachgaube?", "herausgeber": "Bausparkasse Wüstenrot (Stand Februar 2026)", "url": "https://www.wuestenrot.de/modernisieren/kosten-gaube", "abruf": "2026-10-02" },
+    { "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
+  ],
+  "offen": [
+    "Keine neutrale Quelle mit einer Preisspanne speziell für den nachträglichen Neueinbau (inkl. Dachstuhlwechsel und Innenausbau) gefunden; Portale (aroundhome, MyHammer u. a.) ausgeschlossen. Werte daher aus Schwäbisch Hall (Dachausbau, Stand 14.11.2025), BKI (Austausch) und Commerzbank (Seite 08/2025).",
+    "Technische Beschreibung (Sparrenabstand, Wechsel, Eindeckrahmen) ohne Zahlen, allgemeines Fachwissen ohne Einzelbeleg.",
+    "Genehmigungsfrage nur neutral verwiesen (untere Baurechtsbehörde); LBO BW nicht geprüft."
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "dachsanierung-kosten",
+  "leistung": "dach-fassade",
+  "rang": 7,
+  "anker": "Dachsanierung Kosten",
+  "hauptbegriff": "dachsanierung kosten",
+  "title": "Dachsanierung Kosten: Preise pro m² und Einzelposten",
+  "description": "Was kostet eine Dachsanierung? Preise pro Quadratmeter, Kosten für das neue Decken nach Material, Zusatzposten wie Gerüst und Entsorgung sowie die Solarpflicht.",
+  "h1": "Was kostet eine Dachsanierung?",
+  "einstieg": "Ein neues Dach gehört zu den größten Einzelausgaben am Haus, und die Dachsanierung kostet je nach Umfang schnell mehrere Zehntausend Euro. Ob nur die Eindeckung erneuert wird oder auch Dämmung, Lattung, Dachstuhl und Entwässerung, macht den größten Unterschied. Hier finden Sie Preisspannen aus zitierfähigen Quellen, die wichtigsten Kostentreiber und was in Baden-Württemberg zur Solarpflicht bei grundlegenden Dachsanierungen gilt. Für ein konkretes Angebot wählen wir einen Fachbetrieb für [[/leistungen/dach-fassade/]] aus, der Ihr Dach vorher ansieht.",
+  "kosten": {
+    "h2": "Kosten einer Dachsanierung im Überblick",
+    "intro": "Für eine umfangreiche Dachsanierung nennt die Bausparkasse Schwäbisch Hall grob 400 bis 600 Euro pro Quadratmeter Dachfläche, die Commerzbank für die Komplettsanierung 250 bis 400 Euro. Finanztip gibt für ein Dach mit 150 Quadratmetern je nach Umfang 15.000 bis 84.000 Euro an. Die Einzelposten stammen aus dem Baukosteninformationszentrum Deutscher Architektenkammern (BKI): Es sind statistische Mittelwerte inklusive Mehrwertsteuer, die regional deutlich schwanken. Bei Einzelmaßnahmen ist laut Quelle mit Zuschlägen zu rechnen.",
+    "zeilen": [
+      { "posten": "Umfangreiche Dachsanierung je m² Dachfläche", "spanne": "400 – 600 €", "q": 1 },
+      { "posten": "Komplettsanierung des Daches je m²", "spanne": "250 – 400 €", "q": 2 },
+      { "posten": "Dach mit 150 m², je nach Umfang", "spanne": "15.000 – 84.000 €", "q": 3 },
+      { "posten": "Einfache Dacheindeckung je m²", "spanne": "80 – 140 €", "q": 2 },
+      { "posten": "Dachbelag mit Unterbau abbrechen je m²", "spanne": "ca. 60 €", "q": 1 },
+      { "posten": "Dachlattung / Konterlattung je m²", "spanne": "ca. 17 €", "q": 1 },
+      { "posten": "Dachziegeldeckung (Falzziegel) je m²", "spanne": "ca. 54 €", "q": 1 },
+      { "posten": "Betonsteindeckung je m²", "spanne": "ca. 43 €", "q": 1 },
+      { "posten": "Schieferdeckung je m²", "spanne": "ca. 140 €", "q": 1 },
+      { "posten": "Dachbelag mit Aufdachdämmung je m²", "spanne": "ca. 240 €", "q": 1 },
+      { "posten": "Dachrinne (Entwässerung horizontal) je Meter", "spanne": "ca. 120 €", "q": 1 }
+    ],
+    "hinweis": "Dacharbeiten verteuern sich überdurchschnittlich: Dachdeckungsarbeiten sowie Zimmer- und Holzbauarbeiten waren laut Statistischem Bundesamt im Mai 2026 jeweils um 7,3 % teurer als im Mai 2025. Ältere Richtwerte sind deshalb eher als Untergrenze zu lesen."
+  },
+  "abschnitte": [
+    {
+      "h2": "Wovon der Preis abhängt",
+      "text": "Den größten Unterschied macht der Umfang. Eine reine Neueindeckung bleibt deutlich günstiger als eine Sanierung, bei der zusätzlich gedämmt, die Lattung ersetzt oder der Dachstuhl ausgebessert wird. Die Commerzbank nennt als weitere Faktoren die Dachform, den Zustand von Bausubstanz und Sparren sowie die gewählten Materialien. Hinzu kommen Posten, die in Quadratmeterpreisen oft fehlen: Nach Schwäbisch Hall gehören dazu Gerüst, Abriss und Entsorgung, gegebenenfalls ein neuer Schornsteinkopf, Spenglerarbeiten wie Einfassungen von Kamin und Dachfenstern sowie Ausbauarbeiten im Dachgeschoss. Müssen alte Baustoffe mit Asbest entsorgt werden, steigen die Kosten laut Commerzbank zusätzlich. Wie sich die Posten summieren, zeigt ein fiktives Rechenbeispiel der Commerzbank: Für 180 Quadratmeter Satteldach mit Abriss, Aufsparrendämmung, neuer Lattung und Betondachsteinen kommt sie auf 52.560 Euro – Gerüst und Spenglerarbeiten noch nicht eingerechnet. Komplizierte Dachformen mit Kehlen, Gauben und vielen Anschlüssen verlangen mehr Arbeitszeit als ein einfaches Satteldach."
+    },
+    {
+      "h2": "Dach neu decken: Kosten nach Material",
+      "text": "Wer das Dach neu decken lässt, entscheidet mit dem Material über Preis und Lebensdauer. In den BKI-Richtwerten liegt eine Betonsteindeckung bei rund 43 Euro je Quadratmeter, eine Falzziegeldeckung bei rund 54 Euro und eine Schieferdeckung bei rund 140 Euro. Das sind Werte für die Deckung selbst; Abbruch, Lattung und Unterspannbahn kommen hinzu. Für die Haltbarkeit gibt Schwäbisch Hall nach Angaben des Verbands Privater Bauherren bei Dachpfannen aus Beton etwa 60 Jahre und bei gebrannten Dachpfannen und Ziegeldächern etwa 80 Jahre an. Dachentwässerung und Schornsteinköpfe halten mit etwa 20 beziehungsweise 30 Jahren deutlich kürzer und werden bei einer Neueindeckung deshalb oft mit erneuert. Nicht jedes Material passt auf jedes Dach: Dachneigung, Gewicht und gegebenenfalls Vorgaben einer örtlichen Gestaltungssatzung oder des Denkmalschutzes schränken die Auswahl ein. Ob die vorhandene Lattung weiterverwendet werden kann, lässt sich erst beim Abdecken sicher beurteilen."
+    },
+    {
+      "h2": "Dämmung und Solarpflicht mitdenken",
+      "text": "Wird das Dach ohnehin abgedeckt, ist das der günstigste Zeitpunkt für eine Dämmung von außen. Welche Verfahren es gibt und was sie kosten, erklärt der Ratgeber [[/ratgeber/dachdaemmung-kosten/]]. Nach Darstellung von Finanztip können Arbeiten an mehr als zehn Prozent der Dachfläche Dämmvorgaben des Gebäudemodernisierungsgesetzes auslösen, kleinere Reparaturen dagegen nicht automatisch. In Baden-Württemberg gilt laut Umweltministerium die Photovoltaikpflicht auch bei einer grundlegenden Dachsanierung eines Bestandsgebäudes. Als grundlegend gilt danach eine Maßnahme, bei der Abdichtung oder Eindeckung vollständig erneuert wird, auch wenn Baustoffe wiederverwendet werden; ausgenommen sind Arbeiten ausschließlich zur Behebung kurzfristig eingetretener Schäden wie Sturmschäden. Im Regelfall reicht nach Angaben des Ministeriums eine Modulfläche von mindestens 60 Prozent der geeigneten Dachfläche, alternativ ist auch Solarthermie möglich. Zuständig sind die unteren Baurechtsbehörden. Was eine Anlage kostet, zeigt der Ratgeber [[/ratgeber/photovoltaik-kosten/]]. Für die Dachdämmung gibt es Förderprogramme des Bundes (BEG über KfW bzw. BAFA); Bedingungen ändern sich, Auskunft geben KfW, BAFA und Energieberatung."
+    },
+    {
+      "h2": "So entsteht ein belastbares Angebot",
+      "text": "Ein Quadratmeterpreis aus dem Internet ersetzt keine Besichtigung, denn der Zustand von Lattung, Sparren und Anschlüssen zeigt sich erst am Objekt. Für vergleichbare Angebote helfen die ungefähre Dachfläche, Fotos von Dach, Dachboden und Schäden, das Baujahr sowie eine klare Beschreibung, was erneuert werden soll: nur die Eindeckung, auch die Dämmung oder zusätzlich Fenster und Gauben. Finanztip rät, nicht nur Gesamtpreise zu vergleichen, sondern auch die enthaltenen Leistungen. Achten Sie darauf, ob Gerüst, Entsorgung, Spenglerarbeiten und Dachentwässerung in allen Angeboten gleich berücksichtigt sind. Wenn Sie uns Ihr Vorhaben schildern, wählen wir einen passenden Fachbetrieb aus, der sich bei Ihnen meldet und das Dach vor dem Angebot begutachtet."
+    }
+  ],
+  "faq": [
+    { "q": "Was kostet ein neues Dach für ein Einfamilienhaus?", "a": "Finanztip nennt für ein Dach mit 150 Quadratmetern je nach Umfang 15.000 bis 84.000 Euro. Das untere Ende steht für eine reine Neueindeckung, das obere für eine Sanierung mit Dachstuhl, Dämmung und Eindeckung." },
+    { "q": "Wie lange hält ein Dach?", "a": "Schwäbisch Hall gibt nach Angaben des Verbands Privater Bauherren für Dachpfannen aus Beton etwa 60 Jahre und für Ziegeldächer etwa 80 Jahre an. Die tragende Dachkonstruktion hält danach etwa 100 Jahre, die Dachentwässerung etwa 20 Jahre." },
+    { "q": "Gilt in Baden-Württemberg eine Solarpflicht bei der Dachsanierung?", "a": "Laut Umweltministerium Baden-Württemberg gilt die Photovoltaikpflicht bei grundlegenden Dachsanierungen, bei denen Abdichtung oder Eindeckung vollständig erneuert werden. Reparaturen nach kurzfristig eingetretenen Schäden wie Sturmschäden sind ausgenommen; Auskunft gibt die untere Baurechtsbehörde." },
+    { "q": "Ist eine Teilsanierung günstiger als ein komplett neues Dach?", "a": "Einzelne Reparaturen sind günstiger, solange Lattung, Sparren und Unterspannbahn in Ordnung sind. Häufen sich Schäden, kann eine umfassende Sanierung nach Einschätzung von Finanztip wirtschaftlicher sein als immer neue Reparaturen." },
+    { "q": "Sind die Preise in Baden-Württemberg anders?", "a": "Die genannten Spannen sind bundesweite Richtwerte, und Schwäbisch Hall weist ausdrücklich auf große regionale Unterschiede hin. Maßgeblich ist deshalb ein Angebot nach Besichtigung des Daches." }
+  ],
+  "verwandt": ["dachdaemmung-kosten", "photovoltaik-kosten"],
+  "quellen": [
+    { "titel": "Dachsanierung: Kosten für ein neues Dach", "herausgeber": "Bausparkasse Schwäbisch Hall (Richtwerte BKI, 4. Quartal 2025)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-sanieren-renovieren/dachsanierung-kosten.html", "abruf": "2026-10-02" },
+    { "titel": "Was kostet eine Dachsanierung?", "herausgeber": "Commerzbank", "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/was-kostet-eine-dachsanierung/", "abruf": "2026-10-02" },
+    { "titel": "Dach kaputt? Das ist bei der Sanierung wichtig", "herausgeber": "Finanztip (Angaben Dr. Klein und co2online, Stand September 2026)", "url": "https://www.finanztip.de/energetische-sanierung/dachsanierung/", "abruf": "2026-10-02" },
+    { "titel": "FAQ Photovoltaikpflicht", "herausgeber": "Ministerium für Umwelt, Klima und Energiewirtschaft Baden-Württemberg", "url": "https://um.baden-wuerttemberg.de/de/klima-energie/energiewende/erneuerbare-energien/sonnenenergie/photovoltaik/photovoltaikpflicht/faq-photovoltaikpflicht", "abruf": "2026-10-02" },
+    { "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
+  ],
+  "offen": [
+    "Quellen widersprechen sich bei der Komplettsanierung: Schwäbisch Hall 400–600 €/m² (Stand 20.09.2026), Commerzbank 250–400 €/m² (Seite 08/2025). Beide genannt.",
+    "Commerzbank nennt im Fließtext für Neueindeckung ohne Dämmung 150–250 €/m², in der Tabelle 'Einfache Dacheindeckung' 80–140 €/m²; Tabellenwert übernommen.",
+    "Gesetzesname 'Gebäudemodernisierungsgesetz' (GModG) aus Finanztip und Schwäbisch Hall übernommen; Paragrafen nicht selbst im Gesetzestext geprüft.",
+    "Lebensdauerwerte (Verband Privater Bauherren) ohne Erhebungsjahr, über Schwäbisch Hall zitiert."
+  ]
+}

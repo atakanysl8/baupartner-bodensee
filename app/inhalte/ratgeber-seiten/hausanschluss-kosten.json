@@ -1,0 +1,70 @@
+{
+  "slug": "hausanschluss-kosten",
+  "leistung": "tiefbau",
+  "rang": 28,
+  "anker": "Hausanschluss Kosten",
+  "hauptbegriff": "hausanschluss kosten",
+  "title": "Hausanschluss Kosten: Strom, Wasser, Kanal und Erdarbeiten",
+  "description": "Was kostet ein Hausanschluss? Preise für Strom, Wasser, Gas und Kanal, Beispiele aus Preisblättern von Stadtwerken und was die Erdarbeiten am Grundstück kosten.",
+  "h1": "Was kosten die Hausanschlüsse für einen Neubau?",
+  "einstieg": "Bevor ein Neubau bezogen werden kann, braucht er Anschlüsse an Strom, Trinkwasser, Abwasser und Telekommunikation, oft auch an Gas oder Fernwärme. Die Hausanschluss-Kosten setzen sich aus den Preisen der Netzbetreiber, dem Kanalanschluss der Gemeinde und den Erdarbeiten auf dem eigenen Grundstück zusammen. Hier finden Sie Durchschnittswerte, Beispiele aus Preisblättern von Stadtwerken in Baden-Württemberg und die Faktoren, die den Preis bestimmen. Für die Erdarbeiten auf dem Grundstück wählen wir einen Fachbetrieb für [[/leistungen/tiefbau/]] aus, der sich die Situation vorher ansieht.",
+  "kosten": {
+    "h2": "Hausanschluss Kosten im Überblick",
+    "intro": "Die Bausparkasse Schwäbisch Hall nennt für die Anschlüsse an die öffentlichen Netze zusammen rund 6.600 bis 11.800 Euro. Wie stark die Preise vom Einzelfall abhängen, zeigen die Preisblätter der Netzbetreiber: Sie rechnen meist mit einer Grundpauschale und einem Meterpreis für die Leitung bis ins Gebäude. Die Beispiele aus Baden-Baden sind Nettopreise zuzüglich Umsatzsteuer, die Werte aus Bietigheim-Bissingen Bruttopreise.",
+    "zeilen": [
+      { "posten": "Anschluss ans Stromnetz (Durchschnittswert)", "spanne": "2.000 – 3.000 €", "q": 1 },
+      { "posten": "Anschluss an die Wasserversorgung (Durchschnittswert)", "spanne": "2.000 – 5.000 €", "q": 1 },
+      { "posten": "Anschluss ans Gasnetz (Durchschnittswert)", "spanne": "2.000 – 3.000 €", "q": 1 },
+      { "posten": "Anschluss an die Telekommunikation (Durchschnittswert)", "spanne": "600 – 800 €", "q": 1 },
+      { "posten": "Leitungen und Rohre auf dem Grundstück inkl. Tiefbau je Meter", "spanne": "rund 1.000 €", "q": 1 },
+      { "posten": "Stromanschluss bis 3 × 100 A, Grundpauschale inkl. Erdarbeiten (Baden-Baden, netto)", "spanne": "3.650 € + 298 € je m", "q": 2 },
+      { "posten": "Wasseranschluss DN 25/DN 40, Grundpauschale inkl. Erdarbeiten (Baden-Baden, netto)", "spanne": "5.150 € + 510 € je m", "q": 3 },
+      { "posten": "Beispiel Stromanschluss 40 kW, 15 m ab Grundstücksgrenze (Bietigheim-Bissingen, brutto)", "spanne": "6.633,66 €", "q": 4 },
+      { "posten": "Kanalanschluss Schmutz- oder Mischwasser je Meter (Hannover)", "spanne": "1.515,29 €", "q": 5 },
+      { "posten": "Bodenaushub und Entsorgung beim Einfamilienhaus", "spanne": "5.000 – 20.000 €", "q": 6 }
+    ],
+    "hinweis": "Die Preise für Erdarbeiten an Wohngebäuden lagen laut Statistischem Bundesamt im Mai 2026 um 5,4 % über dem Vorjahresmonat. Verbindlich sind nur die Preisblätter und Angebote des für Ihr Grundstück zuständigen Netzbetreibers und der Gemeinde."
+  },
+  "abschnitte": [
+    {
+      "h2": "Woraus sich die Kosten zusammensetzen",
+      "text": "Jedes Baugrundstück wird zweimal erschlossen. Die öffentliche Erschließung reicht bis zur Grundstücksgrenze; sie wird über die Gemeinde und die Versorger abgewickelt. Die private Erschließung, häufig Hausanschluss genannt, umfasst nach der Beschreibung der Bausparkasse Schwäbisch Hall alle Arbeiten innerhalb des Grundstücks bis zum Haus. Dafür nennt die Bausparkasse rund 1.000 Euro pro Meter einschließlich Tiefbau und Verlegung und im Durchschnitt 15.000 bis 20.000 Euro für die private Erschließung. Entscheidend ist also der Abstand zwischen Straße und Hausanschlussraum: Je länger die Trasse, desto teurer. Dazu kommen Hindernisse wie Bäume, Zisternen, Mauern oder ein felsiger Untergrund. Welche weiteren Nebenkosten beim Neubau anfallen, erklärt der Ratgeber [[/ratgeber/haus-bauen-kosten/]]. Klären Sie die Lage des Hausanschlussraums deshalb früh in der Planung, möglichst zur Straße hin."
+    },
+    {
+      "h2": "Strom und Wasser: was in den Preisblättern steht",
+      "text": "Netzbetreiber veröffentlichen ihre Hausanschlusspreise in Preisblättern zu den Ergänzenden Bedingungen. Die Stadtwerke Baden-Baden berechnen für einen Stromanschluss bis 3 × 100 A eine Grundpauschale von 3.650 Euro einschließlich Erdarbeiten plus 298 Euro je laufendem Meter, für einen Wasseranschluss DN 25/DN 40 5.150 Euro plus 510 Euro je Meter, jeweils netto. Die Stadtwerke Bietigheim-Bissingen rechnen in ihrer Beispielrechnung für einen Stromanschluss mit 40 kW und 15 Metern Leitung ab der Grundstücksgrenze mit 6.633,66 Euro brutto. Darin steckt ein Baukostenzuschuss, der laut Preisblatt nur für den Teil der angemeldeten Leistung über 30 kW erhoben wird. Wer eine Wärmepumpe, eine Wallbox oder einen Durchlauferhitzer plant, sollte die Leistung deshalb sorgfältig anmelden. Werden Strom, Wasser und Gas in einem gemeinsamen Graben verlegt, sehen beide Preisblätter Nachlässe für den Mehrsparten-Hausanschluss vor."
+    },
+    {
+      "h2": "Kanalanschluss Kosten",
+      "text": "Für das Abwasser ist die Gemeinde oder ein Abwasserzweckverband zuständig. Wie der Anschluss abgerechnet wird, regelt die jeweilige Satzung, und die Unterschiede sind groß. Ein Beispiel ist die Stadtentwässerung Hannover: Sie berechnet für einen Anschlusskanal 1.515,29 Euro je Meter für Schmutz- oder Mischwasser und 836,99 Euro je Meter für Niederschlagswasser. Entsteht durch den Anschluss die einmalige Abwasserbeitragspflicht, ist der jeweils erste Anschluss dort über den Beitrag abgedeckt. Auf dem eigenen Grundstück kommen die Grundleitungen bis zum Kontrollschacht hinzu, die ein Fachbetrieb verlegt. Ob Regenwasser getrennt abgeleitet, versickert oder in einer Zisterne gesammelt werden soll, beeinflusst Leitungsführung und Kosten. Auskunft über Beiträge und technische Vorgaben gibt das Bauamt oder der Abwasserbetrieb der Gemeinde."
+    },
+    {
+      "h2": "Erdarbeiten Kosten und Eigenleistung",
+      "text": "Für Bodenaushub und Entsorgung beim Einfamilienhaus nennt die Bausparkasse Schwäbisch Hall je nach Standort 5.000 bis 20.000 Euro; diese Summe betrifft vor allem Baugrube und Keller, nicht nur die Leitungsgräben. Die Kosten steigen, wenn der Aushub belastet ist und als Sonderabfall entsorgt werden muss oder wenn auf kleinen Grundstücken kein Platz für eine Zwischenlagerung bleibt. Manche Netzbetreiber lassen Eigenleistungen zu: Die Stadtwerke Bietigheim-Bissingen schreiben für einen selbst geschachteten und wieder verfüllten Graben im Privatbereich 148,75 Euro je Meter brutto gut, wenn ihre Vorgaben eingehalten werden. Gräben, Bettung und Abstände müssen dabei den Vorgaben des Netzbetreibers entsprechen. Wer gleichzeitig die Bodenplatte gießen lässt, kann Leitungsdurchführungen und Erdarbeiten gemeinsam planen; Richtwerte dazu nennt der Ratgeber [[/ratgeber/bodenplatte-kosten/]]. Wenn Sie uns Ihr Vorhaben schildern, wählen wir einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "faq": [
+    { "q": "Wer beantragt die Hausanschlüsse?", "a": "Den Antrag stellt in der Regel der Bauherr oder die Bauherrin beim zuständigen Netzbetreiber bzw. bei der Gemeinde, häufig über ein Online-Portal. Für den Antrag werden üblicherweise Lageplan, Grundriss und die geplante Anschlussleistung benötigt." },
+    { "q": "Was kostet ein Hausanschluss bei 20 Metern Abstand zur Grundstücksgrenze?", "a": "Bei rund 1.000 Euro je Meter für die private Erschließung ergibt sich rechnerisch eine Größenordnung von 20.000 Euro für alle Leitungen zusammen. Die Preisblätter der Netzbetreiber zeigen, dass die Meterpreise je Sparte deutlich niedriger oder höher liegen können." },
+    { "q": "Sind Erschließungskosten und Hausanschlusskosten dasselbe?", "a": "Nein. Erschließungsbeiträge erhebt die Gemeinde für Straße und öffentliche Leitungen bis zur Grundstücksgrenze; die Hausanschlusskosten betreffen die Leitungen vom öffentlichen Netz bis ins Gebäude." },
+    { "q": "Lohnt ein gemeinsamer Graben für mehrere Leitungen?", "a": "Oft ja, weil die Erdarbeiten nur einmal anfallen. Die Stadtwerke Baden-Baden und Bietigheim-Bissingen sehen in ihren Preisblättern eigene Regeln für solche Mehrsparten-Hausanschlüsse vor." },
+    { "q": "Braucht ein Neubau noch einen Gasanschluss?", "a": "Das hängt vom Heizkonzept ab. Wird mit Wärmepumpe oder Fernwärme geheizt, entfällt der Gasanschluss; dafür ist beim Strom oder beim Wärmenetz eine eigene Anschlussplanung nötig." }
+  ],
+  "verwandt": ["haus-bauen-kosten", "bodenplatte-kosten"],
+  "quellen": [
+    { "titel": "Erschließungskosten Grundstück: Definition & Höhe", "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 30.08.2026)", "url": "https://www.schwaebisch-hall.de/ratgeber/immobilie-bauen/erschliessungskosten.html", "abruf": "2026-10-02" },
+    { "titel": "Preisblatt Strom zu den Ergänzenden Bedingungen zur NAV (Stand 01.05.2026)", "herausgeber": "Stadtwerke Baden-Baden", "url": "https://www.stadtwerke-baden-baden.de/media/docs/bauherren-und-planer/hausanschluss/Preisblatt_Ergaenzende_Bedingungen_zur_NAV.pdf", "abruf": "2026-10-02" },
+    { "titel": "Preisblatt Wasser zu den Ergänzenden Bestimmungen zur AVBWasserV (Stand 01.05.2026)", "herausgeber": "Stadtwerke Baden-Baden", "url": "https://www.stadtwerke-baden-baden.de/media/docs/bauherren-und-planer/hausanschluss/Preisblatt_Ergaenzende_Bestimmungen_zur_AVBWasserV.pdf", "abruf": "2026-10-02" },
+    { "titel": "Netzanschluss Preisblatt zu den Ergänzenden Bedingungen zur NAV (gültig ab 01.01.2026, Stand 05/2026)", "herausgeber": "Stadtwerke Bietigheim-Bissingen", "url": "https://www.sw-bb.de/_Resources/Persistent/6/4/a/d/64ad46aeb423e2179d0f9f02419a5d9790ea50f4/Preisblatt_Netzanschluss_Strom_Bi-Bi_Version.pdf", "abruf": "2026-10-02" },
+    { "titel": "Anschlusskosten für ein Grundstück", "herausgeber": "Landeshauptstadt Hannover, Stadtentwässerung (aktualisiert 17.04.2026)", "url": "https://www.hannover.de/Leben-in-der-Region-Hannover/Umwelt-Nachhaltigkeit/Wasser-Abwasser/Abwasser/Stadtentw%C3%A4sserung-Hannover/Geb%C3%BChren,-Beitr%C3%A4ge,-Entgelte/Anschlusskosten-f%C3%BCr-ein-Grundst%C3%BCck", "abruf": "2026-10-02" },
+    { "titel": "Baunebenkosten im Überblick", "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 09.07.2025)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen/baunebenkosten.html", "abruf": "2026-10-02" },
+    { "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
+  ],
+  "offen": [
+    "Kein neutraler BW-weiter Wert für den Kanalanschluss gefunden; Beispiel Hannover (außerhalb BW) als kommunales Beispiel. Besser wäre eine BW-Gemeindesatzung (z. B. Überlingen) – nicht recherchiert.",
+    "Baden-Baden-Preise netto (Preisblatt: zzgl. Umsatzsteuer), Bietigheim-Bissingen brutto – in Intro und Zeilen gekennzeichnet.",
+    "Stadtwerke als Herausgeber genannt (kommunale Versorger, keine Handwerksfirmen) – Rückfrage, ob die Namensnennung im Text erwünscht ist.",
+    "FAQ 20 m ≈ 20.000 € = einfache Multiplikation des Schwäbisch-Hall-Meterpreises.",
+    "Baukostenzuschuss nur über 30 kW: Wiedergabe aus dem Preisblatt Bietigheim-Bissingen (Bezug § 11 Abs. 3 NAV), nicht als allgemeine Rechtsaussage formuliert."
+  ]
+}

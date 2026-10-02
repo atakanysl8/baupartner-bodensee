@@ -1,0 +1,69 @@
+{
+  "slug": "wallbox-kosten",
+  "leistung": "elektro-photovoltaik",
+  "rang": 2,
+  "anker": "Wallbox Kosten",
+  "hauptbegriff": "wallbox kosten",
+  "title": "Wallbox Kosten: Gerät, Installation und Nebenkosten",
+  "description": "Was kostet eine Wallbox? Preise für Geräte mit 11 und 22 kW, Installationskosten nach Aufwand, Nebenkosten für Zählerschrank und Netzanschluss im Überblick.",
+  "h1": "Was kostet eine Wallbox mit Installation?",
+  "einstieg": "Wer ein Elektroauto zu Hause laden will, braucht eine fest installierte Ladestation. Die Wallbox Kosten bestehen aus zwei Teilen: dem Gerät selbst und der Installation durch einen Elektrofachbetrieb. Das Gerät ist oft der kleinere Posten – teuer wird es, wenn lange Kabelwege, Wanddurchbrüche, Erdarbeiten oder ein neuer Zählerschrank nötig sind. Hier finden Sie Preisspannen aus zitierfähigen Quellen und die Faktoren, die den Aufwand bestimmen. Für ein konkretes Angebot wählen wir einen Fachbetrieb für [[/leistungen/elektro-photovoltaik/]] aus, der Hausanschluss und Leitungsweg vorher prüft.",
+  "kosten": {
+    "h2": "Wallbox Kosten im Überblick",
+    "intro": "Für eine gängige 11-kW-Wallbox im Einfamilienhaus nennt der ADAC grob 1.200 bis 3.500 Euro inklusive Gerät und Installation. In einfachen Fällen mit günstigem Gerät kann es darunter liegen, bei hohem Installationsaufwand auch darüber. Die Einzelposten zeigen, woher die Spanne kommt.",
+    "zeilen": [
+      { "posten": "Wallbox 11 kW mit Installation im Einfamilienhaus", "spanne": "ca. 1.200 – 3.500 €", "q": 1 },
+      { "posten": "Wallbox-Gerät, einfache Modelle", "spanne": "300 – 600 €", "q": 1 },
+      { "posten": "Wallbox-Gerät, Mittelklasse", "spanne": "600 – 1.000 €", "q": 1 },
+      { "posten": "Wallbox-Gerät, Premium-Modelle", "spanne": "1.000 – 2.000 €", "q": 1 },
+      { "posten": "Wallbox für bidirektionales Laden", "spanne": "ca. 2.000 – 3.000 €", "q": 1 },
+      { "posten": "Wallbox 22 kW, günstigste Geräte", "spanne": "rund 500 – 600 €", "q": 2 },
+      { "posten": "Installation, geringer Aufwand (moderner Zählerschrank, Kabelweg unter 5 m)", "spanne": "500 – 800 €", "q": 1 },
+      { "posten": "Installation, mittlerer Aufwand (Kabelweg 10–20 m, 1–2 Wanddurchbrüche)", "spanne": "800 – 1.500 €", "q": 1 },
+      { "posten": "Installation, hoher Aufwand (neuer Zählerschrank, Erdarbeiten, Kabelweg über 30 m)", "spanne": "1.500 – 3.000 € und mehr", "q": 1 },
+      { "posten": "Standfuß oder Montagestele", "spanne": "400 – 1.000 €", "q": 1 },
+      { "posten": "Anschlussverstärkung beim Netzbetreiber, Durchschnitt", "spanne": "ca. 500 €", "q": 1 },
+      { "posten": "Betrieb von Smart Meter und Steuerbox, je Gerät (Preisobergrenze)", "spanne": "max. 50 € pro Jahr", "q": 1 }
+    ],
+    "hinweis": "Elektroarbeiten werden teurer: Für Elektro-, Sicherheits- und Informationstechnische Anlagen lagen die Baupreise laut Statistischem Bundesamt im Mai 2026 um 6,4 % über dem Vorjahresmonat. Ältere Durchschnittswerte sind deshalb eher als Untergrenze zu lesen."
+  },
+  "abschnitte": [
+    {
+      "h2": "Wallbox Installation: Kosten nach Aufwand",
+      "text": "Der größte Unterschied entsteht bei der Installation. Der ADAC unterscheidet drei Fälle: Bei geringem Aufwand ist der Zählerschrank modern, es gibt freie Plätze, die Wallbox hängt direkt daneben und das Kabel ist kürzer als fünf Meter. Bei mittlerem Aufwand führt die Leitung 10 bis 20 Meter weit, etwa in die Garage, mit ein bis zwei Wanddurchbrüchen und kleinen Anpassungen im Sicherungskasten. Hoher Aufwand bedeutet einen veralteten Zählerschrank, der komplett erneuert werden muss, Erd- oder Pflasterarbeiten für einen freistehenden Carport oder Kabelwege über 30 Meter. In Servicepaketen sind laut ADAC in der Regel Inbetriebnahme, Konfiguration und die Anmeldung beim Netzbetreiber enthalten. Für jede Wallbox sind ein Leitungsschutzschalter und ein Schutz gegen Gleich- und Wechselstromfehler nötig; ist die Gleichstrom-Fehlererkennung im Gerät integriert, kann das die Installation günstiger machen. Wie unterschiedlich Angebote ausfallen, zeigt ein Rechenbeispiel der Stiftung Warentest mit 1.800 bis 3.500 Euro allein für die Installation."
+    },
+    {
+      "h2": "11 oder 22 kW: Was die Ladeleistung kostet",
+      "text": "Für die meisten Haushalte reicht laut ADAC eine 11-kW-Wallbox. Eine 22-kW-Wallbox lädt nur dann doppelt so schnell, wenn auch das Auto 22 kW aufnehmen kann – manche Fahrzeuge laden einphasig und nutzen an einer 11-kW-Wallbox nur 3,7 kW. Die höhere Leistung hat Folgen für die Nebenkosten: Nach Angaben der Verbraucherzentrale besteht für Wallboxen eine Meldepflicht beim Netzbetreiber, ab 12 kW nach der Niederspannungsanschlussverordnung zusätzlich eine Genehmigungspflicht. Reicht der Hausanschluss nicht aus, wird eine Verstärkung fällig; der ADAC nennt dafür im Durchschnitt rund 500 Euro. Muss der Sicherungskasten nachgerüstet werden oder ist ein eigener Zähler gewünscht, rechnet Finanztip unter Berufung auf den ADAC mit 200 bis 1.100 Euro. Wer das Kabel großzügiger dimensioniert oder ein Leerrohr mitverlegt, hält sich eine spätere Erweiterung offen."
+    },
+    {
+      "h2": "Zählerschrank, Smart Meter und Steuerbarkeit",
+      "text": "Ein alter Zählerschrank ist einer der häufigsten Gründe, warum aus einer einfachen Montage ein großer Auftrag wird. Ob er für die zusätzliche Dauerlast ausreicht, lässt sich nur am Objekt beurteilen; was eine Modernisierung der Hauselektrik kostet, erklärt der Ratgeber [[/ratgeber/elektrik-erneuern-kosten/]]. Laut ADAC schreibt § 14a des Energiewirtschaftsgesetzes seit 2024 vor, dass neue Wallboxen steuerbar sind: Der Netzbetreiber darf die Ladeleistung bei drohender Überlastung zeitweise auf 4,2 kW begrenzen, im Gegenzug gibt es ein ermäßigtes Netzentgelt. Steigt der Jahresverbrauch über 6.000 Kilowattstunden oder wird die Wallbox als steuerbare Verbrauchseinrichtung registriert, sind ein intelligentes Messsystem und eine Steuerbox vorgesehen. Deren Einbau ist in diesem Fall kostenfrei, für den Betrieb gilt eine gesetzliche Obergrenze von jeweils 50 Euro pro Jahr."
+    },
+    {
+      "h2": "Wallbox mit Photovoltaik und Fördermöglichkeiten",
+      "text": "Mit einer eigenen Solaranlage lässt sich das Auto tagsüber mit Strom vom Dach laden. Die Verbraucherzentrale empfiehlt dafür ein Energiemanagementsystem, das die Ladeleistung an die momentane Erzeugung anpasst; ein Batteriespeicher kann den Solaranteil erhöhen, verursacht aber zusätzliche Kosten. Wer beides plant, sollte Wallbox und Anlage aufeinander abstimmen lassen – was eine Solaranlage kostet, zeigt der Ratgeber [[/ratgeber/photovoltaik-kosten/]]. Ein Bundesprogramm für die einzelne Wallbox am Eigenheim gibt es laut Stiftung Warentest nicht mehr; einige Städte und Stadtwerke haben eigene Programme, die oft an Stromtarife und Vertragslaufzeiten geknüpft sind. Auskunft geben die Kommune und der örtliche Energieversorger. Wenn Sie uns Ihr Vorhaben schildern, wählen wir einen passenden Fachbetrieb aus, der sich bei Ihnen meldet und Zählerschrank, Leitungsweg und Anschlussleistung vor dem Angebot prüft."
+    }
+  ],
+  "faq": [
+    { "q": "Darf ich eine Wallbox selbst anschließen?", "a": "Nein. Laut Verbraucherzentrale dürfen Ladestationen nur von einem Elektro-Fachbetrieb installiert werden und müssen beim Netzbetreiber angemeldet oder gegebenenfalls genehmigt werden." },
+    { "q": "Was kostet eine Wallbox im Mehrfamilienhaus?", "a": "Meist mehr als im Einfamilienhaus, weil Lastmanagement und längere Leitungswege dazukommen. In einer ADAC-Stichprobe von 2022 lagen die Angebote für eine Ladestation in der Tiefgarage eines Muster-Mehrfamilienhauses zwischen 1.045 und 5.200 Euro." },
+    { "q": "Welche laufenden Kosten hat eine Wallbox?", "a": "Neben dem Ladestrom fällt nur wenig an: Vom ADAC getestete Modelle verbrauchten im Bereitschaftsmodus Strom für 1 bis 15 Euro im Jahr. Eine Wartungspflicht für private Wallboxen gibt es laut ADAC nicht." },
+    { "q": "Brauche ich einen zweiten Stromzähler?", "a": "Nicht zwingend. Bei größeren Ladestationen kann der Netzbetreiber laut Verbraucherzentrale einen eigenen Zähler verlangen, dann kommen Zählerplatz und Stromvertrag hinzu." },
+    { "q": "Lohnt sich eine 22-kW-Wallbox?", "a": "Nur wenn das Fahrzeug diese Leistung aufnehmen kann. Für die meisten Haushalte reicht laut ADAC eine 11-kW-Wallbox, die nur anmelde-, aber nicht genehmigungspflichtig ist." }
+  ],
+  "verwandt": ["photovoltaik-kosten", "elektrik-erneuern-kosten"],
+  "quellen": [
+    { "titel": "Wallbox: Das kosten private Ladestationen plus Installation", "herausgeber": "ADAC (aktualisiert 29.06.2026)", "url": "https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/laden/wallbox-kosten/", "abruf": "2026-10-02" },
+    { "titel": "Wallbox: Alle Kosten der Ladestation für Dein E-Auto", "herausgeber": "Finanztip (Stand 08.10.2025)", "url": "https://www.finanztip.de/wallbox/", "abruf": "2026-10-02" },
+    { "titel": "Zuschüsse zur Wallbox", "herausgeber": "Stiftung Warentest (13.05.2026)", "url": "https://www.test.de/Regionale-Foerderung-von-Wallboxen-Wann-sich-Zuschuesse-rechnen-6301649-0/", "abruf": "2026-10-02" },
+    { "titel": "Elektroauto: Mit eigener Ladestation Solarstrom vom Dach laden", "herausgeber": "Verbraucherzentrale (Stand 24.07.2025)", "url": "https://verbraucherzentrale.de/wissen/energie/strom-sparen/elektroauto-mit-eigener-ladestation-solarstrom-vom-dach-laden-22557", "abruf": "2026-10-02" },
+    { "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
+  ],
+  "offen": [
+    "Finanztip nennt „ADAC: Installation 500–2.300 €“ (älterer ADAC-Stand); ADAC-Seite selbst nennt 500–3.000 €. Verwendet wurde der ADAC-Wert.",
+    "Mehrfamilienhaus-Stichprobe des ADAC stammt von 2022 – in FAQ mit Jahr genannt, ggf. streichen.",
+    "Aussagen zu § 14a EnWG, Smart-Meter-Pflicht und NAV-Genehmigung (ab 12 kW) sind Wiedergaben aus ADAC bzw. Verbraucherzentrale – Anwalt kurz prüfen lassen, ob die Formulierung als Rechtsauskunft gelesen werden kann.",
+    "FAQ „Darf ich … selbst anschließen? – Nein.“ ist eine klare Aussage mit Quelle; ggf. Anwalt."
+  ]
+}

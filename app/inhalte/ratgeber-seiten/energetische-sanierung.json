@@ -1,0 +1,66 @@
+{
+  "slug": "energetische-sanierung",
+  "leistung": "renovierung-sanierung",
+  "rang": 3,
+  "anker": "Energetische Sanierung",
+  "hauptbegriff": "energetische sanierung",
+  "title": "Energetische Sanierung: Kosten, Maßnahmen, Reihenfolge",
+  "description": "Energetische Sanierung: was Dämmung, Fenster und Heizung kosten, was eine Komplettsanierung im Einfamilienhaus kostet und welche Reihenfolge sinnvoll ist.",
+  "h1": "Was kostet eine energetische Sanierung?",
+  "einstieg": "Eine energetische Sanierung senkt den Energiebedarf eines Hauses: durch Dämmung von Dach, Fassade und Kellerdecke, neue Fenster und eine effiziente Heizung. Ob einzelne Maßnahmen oder eine Komplettsanierung – die Kosten reichen von wenigen tausend bis weit über hunderttausend Euro. Hier finden Sie Preisspannen aus zitierfähigen Quellen, die Kosten der wichtigsten Maßnahmen und eine sinnvolle Reihenfolge. Für ein konkretes Angebot wählen wir einen Fachbetrieb für [[/leistungen/renovierung-sanierung/]] aus, der sich Ihr Haus vorher ansieht.",
+  "kosten": {
+    "h2": "Energetische Sanierung: Kosten im Überblick",
+    "intro": "Die gemeinnützige Beratungsgesellschaft co2online hat Kosten einer Komplettsanierung für ein Einfamilienhaus mit 130 Quadratmetern Wohnfläche ausgewertet (Stand Februar 2026); je nach Heizsystem liegen die Investitionskosten dort zwischen 130.000 und 146.000 Euro. Die Sparkassen-Finanzgruppe nennt für ein durchschnittliches Einfamilienhaus eine Spanne von 20.000 bis 100.000 Euro, abhängig von Größe und Maßnahmen. Die Einzelwerte für Dämmung, Fenster und Heizung stammen von der Bausparkasse Schwäbisch Hall auf Basis des Baukosteninformationszentrums Deutscher Architektenkammern (BKI).",
+    "zeilen": [
+      { "posten": "Komplettsanierung Einfamilienhaus 130 m² mit Luft-Wärmepumpe", "spanne": "ca. 140.000 €", "q": 1 },
+      { "posten": "Komplettsanierung Einfamilienhaus 130 m² mit Erd-Wärmepumpe", "spanne": "ca. 146.000 €", "q": 1 },
+      { "posten": "Komplettsanierung Einfamilienhaus 130 m² mit Fernwärme", "spanne": "ca. 130.000 €", "q": 1 },
+      { "posten": "Energetische Sanierung Einfamilienhaus, je nach Maßnahmen", "spanne": "20.000 – 100.000 €", "q": 4 },
+      { "posten": "Dachdämmung je m², je nach Dämmart", "spanne": "40 – 114 €", "q": 2 },
+      { "posten": "Fassadendämmung je m²", "spanne": "175 – 350 €", "q": 2 },
+      { "posten": "Fenster erneuern je m² Fensterfläche (BKI, 2. Quartal 2025)", "spanne": "ca. 775 €", "q": 2 },
+      { "posten": "Heizungstausch, je nach Heizungstyp", "spanne": "ca. 12.500 – 70.000 €", "q": 2 },
+      { "posten": "Energieberatung mit individuellem Sanierungsfahrplan (Ein-/Zweifamilienhaus)", "spanne": "1.500 – 2.500 €", "q": 3 }
+    ],
+    "hinweis": "Baupreise steigen weiter: Die Preise für Ausbauarbeiten an Wohngebäuden lagen laut Statistischem Bundesamt im Mai 2026 um 5,1 % über dem Vorjahresmonat, für Wärmedämm-Verbundsysteme um 5,0 %. Die genannten Richtwerte ersetzen kein Angebot für Ihr Haus."
+  },
+  "abschnitte": [
+    {
+      "h2": "Haus sanieren: Kosten der einzelnen Maßnahmen",
+      "text": "Den größten Anteil haben meist Gebäudehülle und Heizung. Für die Dachdämmung nennt die Bausparkasse Schwäbisch Hall je nach Dämmart 40 bis 114 Euro pro Quadratmeter, die Dämmung der obersten Geschossdecke liegt laut BKI bei ca. 87 Euro (einfach) bis ca. 99 Euro (begehbar) je Quadratmeter. Eine Fassadendämmung kostet 175 bis 350 Euro pro Quadratmeter; die Spanne reicht vom Wärmedämm-Verbundsystem mit Polystyrol bis zur hinterlüfteten Fassade mit Holz oder Klinker. Beim Heizungstausch beginnen die Kosten laut Schwäbisch Hall bei rund 12.500 Euro und können je nach System bis zu 70.000 Euro erreichen; dazu kommen nach Angaben der Bausparkasse häufig Kosten für Demontage, Entsorgung und Einstellarbeiten. Was eine Wärmepumpe im Einzelnen kostet, erklärt der Ratgeber [[/ratgeber/waermepumpe-kosten/]]. Für Einzelmaßnahmen an der Gebäudehülle, die Heizung und die Sanierung zum Effizienzhaus gibt es Förderprogramme des Bundes (BEG über KfW bzw. BAFA); Bedingungen ändern sich, Auskunft geben KfW, BAFA und Energieberatung."
+    },
+    {
+      "h2": "Die richtige Reihenfolge",
+      "text": "Eine energetische Sanierung sollte als abgestimmtes Gesamtkonzept geplant werden, auch wenn sie in Etappen umgesetzt wird. Die Bausparkasse Schwäbisch Hall empfiehlt als Ablauf: Bestandsaufnahme durch eine Energieberatung, Festlegung der Sanierungsreihenfolge, Angebote einholen, Finanzierung planen und die Umsetzung dokumentieren. Grundsätzlich gilt: erst die Hülle, dann die Technik. Wird zuerst gedämmt und werden die Fenster erneuert, sinkt der Wärmebedarf, und die neue Heizung kann kleiner ausgelegt werden. Werden dagegen neue, dichte Fenster in eine ungedämmte Wand gesetzt, steigt das Risiko von Feuchtigkeit und Schimmel an kalten Stellen. Ein individueller Sanierungsfahrplan hält fest, welche Maßnahmen in welcher Folge sinnvoll sind; co2online nennt dafür für ein Ein- oder Zweifamilienhaus etwa 1.500 bis 2.500 Euro."
+    },
+    {
+      "h2": "Energetische Sanierung: Kosten der Komplettsanierung",
+      "text": "Wer alle Maßnahmen auf einmal umsetzt, hat den höchsten Einmalbetrag, aber auch nur eine Baustelle und eine Planung. Die Modellrechnung von co2online geht von einem Einfamilienhaus mit 130 Quadratmetern aus, bei dem Dämmung, Fenster und Heizung gleichzeitig erneuert werden. Die Investitionskosten liegen dort bei ca. 140.000 Euro mit Luft-Wärmepumpe, ca. 146.000 Euro mit Erd-Wärmepumpe, ca. 136.000 Euro mit Pelletheizung und ca. 130.000 Euro mit Fernwärme. co2online weist zugleich darauf hin, dass ein großer Teil davon Instandhaltung ist, die ohnehin fällig würde, etwa für eine neue Fassade oder alte Fenster; in der Rechnung mit Luft-Wärmepumpe sind das rund 55.200 Euro. Muss das Haus ohnehin bis auf den Rohbau zurückgebaut werden, gehen die Kosten in die Richtung einer Kernsanierung; was dabei anfällt, beschreibt der Ratgeber [[/ratgeber/kernsanierung-kosten/]]."
+    },
+    {
+      "h2": "Pflichten und Vorgaben",
+      "text": "Das Gebäudeenergiegesetz (GEG) enthält Anforderungen an Bestandsgebäude. Die Bausparkasse Schwäbisch Hall nennt als typische Nachrüstpflichten bei einem Eigentümerwechsel die Dämmung der obersten Geschossdecke oder des Dachs und die Dämmung ungedämmter Warmwasser- und Heizungsrohre in unbeheizten Räumen. Wird mehr als 10 % der Fläche eines Bauteils wie Dach oder Fassade erneuert, gelten laut Bausparkasse für diesen Bereich die gesetzlichen Mindestanforderungen. Für Baudenkmale gelten eigene Regeln, weil das äußere Erscheinungsbild meist erhalten bleiben soll. Welche Vorgaben im Einzelfall greifen, klären Energieberatung, Planer und die zuständige Baurechtsbehörde. Wenn Sie uns Ihr Vorhaben schildern, wählen wir einen passenden Fachbetrieb aus, der sich bei Ihnen meldet und den Umfang vor dem Angebot prüft."
+    }
+  ],
+  "faq": [
+    { "q": "Welche Maßnahme ist bei der energetischen Sanierung zuerst sinnvoll?", "a": "Meist die Gebäudehülle, also Dach oder oberste Geschossdecke, Fassade und Fenster. Danach lässt sich die Heizung passend zum geringeren Wärmebedarf auslegen; ein Sanierungsfahrplan legt die Reihenfolge für das konkrete Haus fest." },
+    { "q": "Was kostet eine energetische Sanierung pro Quadratmeter?", "a": "Einen festen Quadratmeterpreis gibt es nicht, weil die Maßnahmen sehr unterschiedlich sind. Rechnet man die co2online-Werte für ein 130-Quadratmeter-Haus um, ergeben sich für eine Komplettsanierung grob 1.000 bis 1.120 Euro je Quadratmeter Wohnfläche." },
+    { "q": "Kann man energetisch in Etappen sanieren?", "a": "Ja, das ist in der Praxis üblich. Wichtig ist, dass die Etappen aufeinander abgestimmt sind, damit zum Beispiel Fensteranschlüsse später zur Fassadendämmung passen." },
+    { "q": "Wer berät unabhängig zur energetischen Sanierung?", "a": "Energieberaterinnen und Energieberater erstellen Sanierungsfahrpläne; erste Orientierung geben auch die Energieberatung der Verbraucherzentrale, co2online und in Baden-Württemberg das Landesprogramm Zukunft Altbau." },
+    { "q": "Steigen die Kosten für Dämmung und Heizung weiter?", "a": "Laut Statistischem Bundesamt lagen die Preise für Ausbauarbeiten an Wohngebäuden im Mai 2026 um 5,1 % über dem Vorjahresmonat. Ältere Durchschnittswerte sind deshalb eher als Untergrenze zu lesen." }
+  ],
+  "verwandt": ["kernsanierung-kosten", "fassadendaemmung-kosten"],
+  "quellen": [
+    { "titel": "Energetische Sanierung: Kosten, Nutzen & Fördermittel", "herausgeber": "co2online gGmbH (Daten Stand Februar 2026)", "url": "https://www.co2online.de/modernisieren-und-bauen/sanierung-modernisierung/", "abruf": "2026-10-02" },
+    { "titel": "Kosten für energetische Sanierung: ein umfassender Überblick", "herausgeber": "Bausparkasse Schwäbisch Hall (Richtwerte BKI, aktualisiert 21.07.2026)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-sanieren-renovieren/energetische-sanierung-kosten.html", "abruf": "2026-10-02" },
+    { "titel": "Energieberatung: Lohnen sich die Kosten?", "herausgeber": "co2online gGmbH", "url": "https://www.co2online.de/modernisieren-und-bauen/sanierung-modernisierung/energieberatung/", "abruf": "2026-10-02" },
+    { "titel": "Kostenüberblick: Modernisierung, Sanierung und Renovierung", "herausgeber": "Sparkassen-Finanzgruppe (sparkasse.de)", "url": "https://www.sparkasse.de/pk/ratgeber/wohnen/immobilie-modernisieren/modernisierungskosten.html", "abruf": "2026-10-02" },
+    { "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
+  ],
+  "offen": [
+    "co2online-Modellrechnung zeigt auch Förderbeträge, Energiekosten und 'Netto-Belastung' – bewusst nicht übernommen (Förder- und Ersparnisverbot).",
+    "FAQ-Wert 1.000–1.120 €/m² = 130.000 bzw. 146.000 € geteilt durch 130 m² (eigene einfache Division, im Text erklärt). Bei Bedarf streichen.",
+    "Fassadendämmung 175–350 €/m² aus der Kurzübersicht von Schwäbisch Hall; die BKI-Tabelle dort reicht von ca. 40 € (Einblasdämmung) bis ca. 335 €.",
+    "GEG-Pflichten nur als Wiedergabe der Bausparkasse; ob die Formulierung zu Nachrüstpflichten beim Eigentümerwechsel juristisch vollständig ist, bitte prüfen lassen."
+  ]
+}

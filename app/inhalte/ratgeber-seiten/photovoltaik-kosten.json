@@ -1,0 +1,70 @@
+{
+  "slug": "photovoltaik-kosten",
+  "leistung": "elektro-photovoltaik",
+  "rang": 11,
+  "anker": "Photovoltaik Kosten",
+  "hauptbegriff": "kosten photovoltaik anlage",
+  "title": "Photovoltaik Kosten: Preise je kWp, mit und ohne Speicher",
+  "description": "Was kostet eine Photovoltaikanlage? Preise je kWp, Kosten für Speicher, Gerüst und Montage, laufende Kosten und die PV-Pflicht in Baden-Württemberg.",
+  "h1": "Was kostet eine Photovoltaikanlage?",
+  "einstieg": "Die Kosten einer Photovoltaikanlage hängen vor allem von ihrer Leistung ab, gemessen in Kilowatt-Peak (kWp), und davon, ob ein Batteriespeicher dazukommt. Module sind dabei längst nicht mehr der größte Posten: Montage, Unterkonstruktion, Wechselrichter, Gerüst und Elektroinstallation machen einen großen Teil der Rechnung aus. Weil Erhebungen unterschiedlich abgrenzen, liegen die veröffentlichten Preise spürbar auseinander. Hier finden Sie Spannen aus zitierfähigen Quellen und die Punkte, die den Preis bestimmen. Für ein konkretes Angebot wählen wir einen Fachbetrieb für [[/leistungen/elektro-photovoltaik/]] aus, der Dach und Zählerschrank vorher ansieht.",
+  "kosten": {
+    "h2": "Kosten einer Photovoltaikanlage im Überblick",
+    "intro": "Für Angebote ist der Preis je kWp die wichtigste Vergleichsgröße. Finanztip nennt übliche 1.000 bis 2.000 Euro pro kWp ohne Speicher, co2online 1.100 bis 1.500 Euro für eine durchschnittliche Dachanlage inklusive Montage. Die Richtwerte des Baukosteninformationszentrums Deutscher Architektenkammern (BKI), die Schwäbisch Hall veröffentlicht, liegen höher; sie sind statistische Mittelwerte aus abgerechneten Projekten und Nettopreise.",
+    "zeilen": [
+      { "posten": "PV-Anlage je kWp ohne Speicher (Angebotspreise)", "spanne": "1.000 – 2.000 €", "q": 3 },
+      { "posten": "Durchschnittliche Dachanlage je kWp inkl. Montage", "spanne": "1.100 – 1.500 €", "q": 2 },
+      { "posten": "PV-Anlage je kWp ohne Speicher (Branchenangaben)", "spanne": "ca. 1.400 – 1.900 €", "q": 1 },
+      { "posten": "PV-Anlage je kWp mit Speicher (Branchenangaben)", "spanne": "1.800 – 2.500 €", "q": 1 },
+      { "posten": "PV-Anlage 10 kWp, Altbau (BKI, netto)", "spanne": "ca. 22.050 €", "q": 1 },
+      { "posten": "PV-Anlage 10 kWp mit Batteriespeicher, Altbau (BKI, netto)", "spanne": "ca. 30.970 €", "q": 1 },
+      { "posten": "PV-Anlage mit Speicher für ein typisches Einfamilienhaus (reale Angebote)", "spanne": "14.000 – 20.000 €", "q": 3 },
+      { "posten": "Batteriespeicher inkl. Installation je kWh", "spanne": "400 – 800 €", "q": 4 },
+      { "posten": "Batteriespeicher mit 10 kWh", "spanne": "4.000 – 7.000 €", "q": 4 },
+      { "posten": "Montage auf dem Dach plus Elektroinstallation", "spanne": "ca. 4.000 – 5.000 € plus ca. 3.000 €", "q": 1 },
+      { "posten": "Gerüst", "spanne": "1.500 – 2.500 €", "q": 1 },
+      { "posten": "Betriebskosten pro Jahr", "spanne": "100 – 500 €", "q": 2 }
+    ],
+    "hinweis": "Die BKI-Werte verstehen sich netto und können regional und saisonal deutlich schwanken; die Angaben von Finanztip und co2online beruhen auf Angeboten und eigenen Berechnungen. Maßgeblich ist das Angebot für Ihr Dach."
+  },
+  "abschnitte": [
+    {
+      "h2": "Woraus sich der Preis zusammensetzt",
+      "text": "Schwäbisch Hall schlüsselt die Bausteine einer Anlage auf: Solarmodule kosten etwa 225 bis 250 Euro pro kWp, Wechselrichter rund 300 bis 500 Euro pro kWp, die Unterkonstruktion als reines Material etwa 350 bis 500 Euro pro kWp. Für die Montage auf dem Dach kommen ca. 4.000 bis 5.000 Euro hinzu, für die Elektroinstallation ca. 3.000 Euro und für das Gerüst 1.500 bis 2.500 Euro. In der Beispielrechnung für eine 8-kWp-Anlage mit Speicher im Neubau ergeben sich so rund 21.850 Euro. Weil Gerüst, Zähler, Netzanschluss und Überspannungsschutz kaum von der Anlagengröße abhängen, sinkt der Preis pro kWp mit wachsender Leistung, erklärt co2online. Teurer wird es bei schwierigen Dächern: Schiefer ist bei der Unterkonstruktion deutlich aufwendiger als Trapezblech, und viele Dachfenster, Gauben oder Verschattung verkleinern die nutzbare Fläche. Eine Faustregel zur Größe: 1 kWp erzeugt in Deutschland etwa 900 bis 1.100 Kilowattstunden Strom im Jahr."
+    },
+    {
+      "h2": "Kosten Photovoltaik mit Speicher",
+      "text": "Ein Batteriespeicher macht Solarstrom auch abends und nachts nutzbar. co2online nennt für den solaren Eigenverbrauch mit Speicher etwa 50 bis 60 Prozent. Dafür steigt die Investition deutlich: Finanztip beobachtet in Angeboten aus der eigenen Community 400 bis 800 Euro pro Kilowattstunde Speicherkapazität inklusive Installation, für einen 10-kWh-Speicher also 4.000 bis 7.000 Euro. Vorsicht bei Preisangaben ohne Montage, die mit 300 bis 450 Euro pro Kilowattstunde günstiger wirken. Kleine Speicher mit fünf Kilowattstunden sind je Kilowattstunde verhältnismäßig teurer als große. Wichtig ist, dass Anlage und Speicher zum Verbrauch des Haushalts passen; wer ein Elektroauto zu Hause laden will, kann die Ladestation gleich mitplanen lassen – was dafür anfällt, zeigt der Ratgeber [[/ratgeber/wallbox-kosten/]]. Speicher gelten als steuerbare Verbrauchseinrichtungen; dafür ist ein intelligentes Messsystem mit Steuerbox vorgesehen, dessen Betrieb laut Finanztip jährliche Gebühren verursacht."
+    },
+    {
+      "h2": "Photovoltaik-Pflicht bei der Dachsanierung in Baden-Württemberg",
+      "text": "In Baden-Württemberg gibt es seit 2023 eine Photovoltaik-Pflicht für grundlegende Dachsanierungen. Laut dem Landesprogramm Zukunft Altbau gilt eine Sanierung als grundlegend, wenn die Abdichtung oder die Eindeckung eines Daches vollständig erneuert wird; Reparaturen, etwa nach einem Sturmschaden, fallen nicht darunter. Berücksichtigt werden nur solargeeignete Dachflächen, beim Standardnachweis entsprechen 60 Prozent dieser Fläche der Mindestfläche der Anlage. Die Module können auch an der Fassade oder auf Nebengebäuden sitzen, und Solarthermie wird als Ersatzmaßnahme anerkannt. Die Anlage ist nach Angaben von Zukunft Altbau spätestens zwölf Monate nach Fertigstellung des Daches zu installieren. Wer ohnehin das Dach erneuert, kann Gerüst und Arbeiten bündeln; was die Dacherneuerung selbst kostet, erklärt der Ratgeber [[/ratgeber/dachsanierung-kosten/]]. Verbindliche Auskunft zu Einzelfällen gibt die untere Baurechtsbehörde."
+    },
+    {
+      "h2": "Laufende Kosten und Angebotsvergleich",
+      "text": "Nach der Installation fallen Betriebskosten an, die co2online mit 100 bis 500 Euro im Jahr beziffert: Zählerentgelt, Versicherung, gelegentliche Wartung und eine Rücklage für Reparaturen. Eine Versicherungs- oder Wartungspflicht gibt es laut co2online nicht, der Gebäudeversicherer erwartet aber eine Mitteilung über die neue Anlage. Bei neuen Anlagen mit mehr als sieben kWp baut der Messstellenbetreiber laut Finanztip ein Smart Meter mit Steuerbox ein, das jährlich mindestens 100 Euro kostet. Für den Angebotsvergleich hilft es, den Preis je kWp und je kWh Speicher getrennt auszuweisen und zu prüfen, ob Gerüst, Zählerschrank und Anmeldung beim Netzbetreiber enthalten sind. Gerade in älteren Häusern kann laut Finanztip ein neuer Zählerschrank nötig sein, der mehrere Tausend Euro kostet. Wenn Sie uns Ihr Vorhaben schildern, wählen wir einen passenden Fachbetrieb aus, der sich bei Ihnen meldet und Dach, Ausrichtung und Hausanschluss vor dem Angebot prüft."
+    }
+  ],
+  "faq": [
+    { "q": "Wie viel Dachfläche braucht eine Photovoltaikanlage?", "a": "co2online rechnet für eine Anlage mit 4 kW Leistung mit rund 25 Quadratmetern und für 10 kW mit rund 55 Quadratmetern, ausgehend von Hocheffizienzmodulen." },
+    { "q": "Ist eine Photovoltaikanlage im Altbau teurer?", "a": "Etwas. Das BKI nennt für eine 10-kWp-Anlage im Neubau ca. 20.040 Euro und im Altbau ca. 22.050 Euro netto. Ein alter Zählerschrank kann zusätzliche Kosten verursachen." },
+    { "q": "Was kostet ein Batteriespeicher?", "a": "Laut Finanztip in der Regel 400 bis 800 Euro pro Kilowattstunde inklusive Installation. Ein Speicher mit 10 Kilowattstunden kostet damit etwa 4.000 bis 7.000 Euro." },
+    { "q": "Braucht eine Photovoltaikanlage eine Wartung?", "a": "Eine Wartungspflicht gibt es laut co2online nicht. Für eine Wartung nennt das Portal alle vier Jahre 100 bis 300 Euro, je nach Größe der Anlage." },
+    { "q": "Gilt die PV-Pflicht auch, wenn nur einzelne Ziegel ersetzt werden?", "a": "Nein. Laut Zukunft Altbau gilt die Pflicht nicht für Reparaturen wie den Austausch einzelner Ziegel nach einem Sturmschaden, sondern für grundlegende Dachsanierungen." }
+  ],
+  "verwandt": ["wallbox-kosten", "dachsanierung-kosten"],
+  "quellen": [
+    { "titel": "Photovoltaik Kosten: Was eine PV-Anlage wirklich kostet", "herausgeber": "Bausparkasse Schwäbisch Hall (Richtwerte BKI, 1. Quartal 2026; aktualisiert 25.04.2026)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-haustechnik/photovoltaik-kosten.html", "abruf": "2026-10-02" },
+    { "titel": "Solaranlage: Kosten & Finanzierung", "herausgeber": "co2online (Preisstand März 2026)", "url": "https://www.co2online.de/modernisieren-und-bauen/photovoltaik/kosten-und-finanzierung/", "abruf": "2026-10-02" },
+    { "titel": "Photovoltaik: Lohnt sich eine Solaranlage?", "herausgeber": "Finanztip (Stand 28.05.2026)", "url": "https://www.finanztip.de/photovoltaik/", "abruf": "2026-10-02" },
+    { "titel": "PV-Speicher: Wann lohnt sich eine Solaranlage mit Speicher?", "herausgeber": "Finanztip (Stand 28.05.2026)", "url": "https://www.finanztip.de/photovoltaik/stromspeicher/", "abruf": "2026-10-02" },
+    { "titel": "Photovoltaik-Pflicht", "herausgeber": "Zukunft Altbau (Landesprogramm Baden-Württemberg)", "url": "https://www.zukunftaltbau.de/eigentuemer/heizung-erneuerbare-energie/photovoltaik-pflicht/", "abruf": "2026-10-02" }
+  ],
+  "offen": [
+    "co2online ist in sich widersprüchlich: Tabelle 10 kW = 9.200–10.400 €, Text 1.100–1.500 €/kWp und „etwa 13.000 € für durchschnittliche Anlage“. Tabelle nicht übernommen, nur kWp-Spanne.",
+    "BKI (Schwäbisch Hall) liegt mit ca. 22.050 € für 10 kWp Altbau deutlich über Finanztip/co2online – im Intro erklärt (Mittelwerte, netto, abgerechnete Projekte).",
+    "Kein Destatis-Hinweis, da die Pressemitteilung keinen PV-spezifischen Wert nennt.",
+    "PV-Pflicht-Abschnitt gibt Zukunft Altbau wieder (Pflicht, 60 %, zwölf Monate). Strafzahlungen bewusst weggelassen. Anwalt prüfen lassen, ob „ist … zu installieren“ als Rechtsanweisung gelesen wird.",
+    "Name Schwäbisch Hall im Fließtext als Quellen-Herausgeber genannt."
+  ]
+}

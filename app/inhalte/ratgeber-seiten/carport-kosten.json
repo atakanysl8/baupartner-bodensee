@@ -1,0 +1,68 @@
+{
+  "slug": "carport-kosten",
+  "leistung": "garten-aussenanlagen",
+  "rang": 18,
+  "anker": "Carport Kosten",
+  "hauptbegriff": "carport kosten",
+  "title": "Carport Kosten: Preise für Holz, Metall und Montage",
+  "description": "Was kostet ein Carport? Preisspannen für Einzel- und Doppelcarport aus Holz oder Aluminium, Montage, Fundament, Untergrund und Baurecht in Baden-Württemberg.",
+  "h1": "Was kostet ein Carport?",
+  "einstieg": "Ein Carport schützt das Auto vor Regen, Schnee und Laub und ist in der Regel deutlich günstiger als eine gemauerte Garage. Wie hoch die Kosten ausfallen, hängt von Größe, Material, Dachform und Ausstattung ab, etwa einem Abstellraum oder Seitenwänden. Neben dem Bausatz zählen Fundament, Montage und der Untergrund für den Stellplatz. Hier finden Sie Preisspannen aus zitierfähigen Quellen und die Regeln der Landesbauordnung Baden-Württemberg im Wortlaut. Für ein konkretes Angebot wählen wir einen Fachbetrieb für [[/leistungen/garten-aussenanlagen/]] aus, der sich Grundstück und Zufahrt vorher ansieht.",
+  "kosten": {
+    "h2": "Carport Kosten im Überblick",
+    "intro": "Die Bausparkasse Schwäbisch Hall nennt für einen Carport eine Spanne von rund 1.000 bis 9.000 Euro, an anderer Stelle 800 bis 9.000 Euro abhängig von Größe und Material. Die Commerzbank schlüsselt die Preise für Bausätze nach Material und Größe auf und nennt die Montagekosten getrennt. Fundament, Pflaster oder Schotter für den Stellplatz sowie Strom- und Wasserleitungen sind in den Bausatzpreisen nicht enthalten.",
+    "zeilen": [
+      { "posten": "Carport Holz, Bausatz einfache Ausführung (Einzelstellplatz)", "spanne": "1.000 – 2.000 €", "q": 2 },
+      { "posten": "Carport Metall, Bausatz mit Seitenelementen (Einzelstellplatz)", "spanne": "6.500 – 9.000 €", "q": 2 },
+      { "posten": "Bausatz Holzcarport, Einzel", "spanne": "ca. 500 – 7.000 €", "q": 1 },
+      { "posten": "Bausatz Holzcarport, Doppel", "spanne": "bis zu 9.000 €", "q": 1 },
+      { "posten": "Bausatz Aluminiumcarport, Einzel / Doppel", "spanne": "ab 1.200 € / bis zu 10.000 €", "q": 1 },
+      { "posten": "Montage", "spanne": "700 – 900 €", "q": 1 },
+      { "posten": "Carport (Außenanlagen Neubau)", "spanne": "800 – 9.000 €", "q": 3 },
+      { "posten": "Pflasterarbeiten Einfahrt inkl. Vorarbeiten je m²", "spanne": "70 – 210 €", "q": 4 },
+      { "posten": "Zum Vergleich: Fertiggarage / Massivgarage", "spanne": "5.000 – 9.000 € / 15.000 – 25.000 €", "q": 2 }
+    ],
+    "hinweis": "Baupreise steigen weiter: Laut Statistischem Bundesamt lagen die Preise für Zimmer- und Holzbauarbeiten an Wohngebäuden im Mai 2026 um 7,3 %, für Metallbauarbeiten um 4,4 % und für Erdarbeiten um 5,4 % über dem Vorjahresmonat. Ältere Richtwerte sind deshalb eher als Untergrenze zu lesen."
+  },
+  "abschnitte": [
+    {
+      "h2": "Holz, Aluminium oder Stahl: was den Preis bestimmt",
+      "text": "Am weitesten verbreitet ist laut Commerzbank der Holzcarport, oft aus imprägnierter Fichte. Holz ist vergleichsweise günstig, braucht aber regelmäßig Holzschutz. Aluminium und Stahl sind robuster und pflegeleichter, kosten dafür mehr in der Anschaffung. Auch die Dachform zählt: Ein Flachdach ist einfacher und schneller montiert als ein Satteldach oder ein Bogendach, und die Eindeckung reicht von Bitumen über Trapezblech bis zu Glas oder einem Gründach. Größer wird die Rechnung mit jedem Ausstattungswunsch. Schwäbisch Hall nennt für einen einfachen Holzbausatz 1.000 bis 2.000 Euro, für Metallcarports mit Seitenelementen 6.500 bis 9.000 Euro. Ein Carport ohne Seitenwände ist günstiger als einer mit, und ein integrierter Abstellraum oder Schuppen kommt zusätzlich. Ein Einzelcarport ist nach Angaben der Commerzbank meist fünf bis sieben Meter lang und drei bis vier Meter breit; wer zwei Autos, Fahrräder oder Gartengeräte unterbringen will, plant einen Doppelcarport, dessen Bausatz aus Holz laut Commerzbank bis zu 9.000 Euro kosten kann."
+    },
+    {
+      "h2": "Fundament, Untergrund und Anschlüsse",
+      "text": "Zu den Bausatzkosten kommen die Arbeiten am Boden. Die Pfosten stehen in der Regel auf Punktfundamenten, die weniger Material brauchen als eine durchgehende Betonplatte. Der Stellplatz selbst braucht einen tragfähigen Belag. Für Pflasterarbeiten in der Einfahrt nennt die Commerzbank inklusive Vorarbeiten, Material und Arbeitsstunden 70 bis 210 Euro je Quadratmeter; allein das Ausheben des Bodens schlägt mit 10 bis 15 Euro je Quadratmeter zu Buche, der Unterbau aus Schotter oder Kies mit 20 bis 25 Euro. Schwäbisch Hall rät, außerdem Zuleitungen für Strom und Wasser und die Zufahrt einzuplanen. Viele Bauherren nutzen den Carport für Beleuchtung, eine Steckdose oder eine Ladestation für das Elektroauto; was eine Ladestation mit Installation kostet, erklärt der Ratgeber [[/ratgeber/wallbox-kosten/]]. Werden Leerrohre und Kabel schon beim Fundament verlegt, muss der Belag später nicht noch einmal geöffnet werden. Auch Solarmodule auf dem Carportdach sind möglich, sie verlangen eine Konstruktion, die das zusätzliche Gewicht trägt."
+    },
+    {
+      "h2": "Carport und Baurecht in Baden-Württemberg",
+      "text": "Die Landesbauordnung für Baden-Württemberg führt in Anhang 1 zu § 50 die verfahrensfreien Vorhaben auf. Genannt sind dort „Garagen einschließlich überdachter Stellplätze mit einer mittleren Wandhöhe bis zu 3 m und einer Grundfläche bis zu 50 m², außer im Außenbereich“. Ebenfalls aufgeführt sind Stellplätze bis 50 Quadratmeter Nutzfläche je Grundstück im Innenbereich sowie Ladestationen für Elektromobilität. Verfahrensfrei heißt nicht regelfrei: Das Serviceportal des Landes weist darauf hin, dass auch solche Vorhaben das übrige Recht einhalten müssen, etwa Abstandsflächen, Brandschutz und Festsetzungen des Bebauungsplans, und dass die Gemeinde per Satzung ein Kenntnisgabeverfahren verlangen kann. Bebauungspläne regeln häufig auch Lage, Dachform oder Begrünung von Nebenanlagen. Bei einem Carport an der Grundstücksgrenze oder einem größeren Doppelcarport gibt die zuständige Baurechtsbehörde Auskunft. Werden Planunterlagen nötig, nennt die Commerzbank für einen Bauantrag meist rund 650 Euro Gesamtkosten."
+    },
+    {
+      "h2": "So entsteht ein vergleichbares Angebot",
+      "text": "Carport-Angebote unterscheiden sich vor allem darin, was enthalten ist: nur der Bausatz, Bausatz mit Montage oder die Komplettleistung mit Fundamenten, Pflaster und Entwässerung. Für einen fairen Vergleich helfen ein Lageplan oder eine Skizze mit Maßen, Fotos der Zufahrt, die gewünschte Größe und Dachform sowie Angaben zu Extras wie Abstellraum, Beleuchtung oder Ladestation. Klären Sie außerdem, wohin das Regenwasser vom Dach abgeleitet wird und ob der vorhandene Belag tragfähig ist. Je genauer Umfang und Ausstattung beschrieben sind, desto weniger Nachträge entstehen. Wenn Sie uns Ihr Vorhaben schildern, wählen wir einen passenden Fachbetrieb aus, der sich bei Ihnen meldet und die Gegebenheiten beim Termin am Objekt aufnimmt."
+    }
+  ],
+  "faq": [
+    { "q": "Ist ein Carport günstiger als eine Garage?", "a": "In der Regel ja. Schwäbisch Hall nennt für Carports rund 1.000 bis 9.000 Euro, für eine Massivgarage 15.000 bis 25.000 Euro. Eine Garage bietet dafür mehr Schutz vor Diebstahl und mehr Stauraum." },
+    { "q": "Was kostet ein Doppelcarport?", "a": "Für Bausätze nennt die Commerzbank bei Holz bis zu 9.000 Euro und bei Aluminium bis zu 10.000 Euro. Montage, Fundament und Belag kommen hinzu." },
+    { "q": "Kann ich einen Carport selbst aufbauen?", "a": "Einfache Holzbausätze mit Flachdach sind für geübte Heimwerker geeignet. Fundamente, Statik bei großen Spannweiten und Elektroanschlüsse gehören in fachkundige Hände." },
+    { "q": "Braucht ein Carport in Baden-Württemberg eine Baugenehmigung?", "a": "Die Landesbauordnung führt überdachte Stellplätze bis 3 Meter mittlere Wandhöhe und 50 Quadratmeter Grundfläche als verfahrensfrei auf, außer im Außenbereich. Bebauungsplan und Abstandsflächen gelten trotzdem; Auskunft gibt die zuständige Baurechtsbehörde." },
+    { "q": "Sind die Preise in Baden-Württemberg anders?", "a": "Die genannten Spannen sind bundesweite Richtwerte. Regionale Lohn- und Materialkosten sowie die Auslastung der Betriebe verschieben den Preis, deshalb ist ein Angebot nach Besichtigung maßgeblich." }
+  ],
+  "verwandt": ["wallbox-kosten", "terrassenueberdachung-kosten"],
+  "quellen": [
+    { "titel": "Carport Kosten: Planung, Preise & Spartipps", "herausgeber": "Commerzbank (aktualisiert 12.08.2025)", "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/carport-bau-mit-diesen-kosten-muessen-sie-rechnen/", "abruf": "2026-10-02" },
+    { "titel": "Carport oder Garage bauen", "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 12.08.2025)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen/carport-oder-garage-bauen.html", "abruf": "2026-10-02" },
+    { "titel": "Baukosten: Mit so viel müssen Sie beim Haus bauen rechnen", "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 12.02.2025)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen.html", "abruf": "2026-10-02" },
+    { "titel": "Pflasterarbeiten – Kosten, Arbeitsschritte und Beispielrechnung", "herausgeber": "Commerzbank (aktualisiert 12.08.2025)", "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/was-kosten-pflasterarbeiten/", "abruf": "2026-10-02" },
+    { "titel": "Landesbauordnung für Baden-Württemberg (LBO) in der Fassung vom 16. März 2026, Anhang 1 (zu § 50 Absatz 1) Verfahrensfreie Vorhaben", "herausgeber": "Land Baden-Württemberg, Landesrecht BW", "url": "https://www.landesrecht-bw.de/perma?d=jlr-NNLBW00007BCC", "abruf": "2026-10-02" },
+    { "titel": "Verfahrensfreie Bauvorhaben (Lebenslage)", "herausgeber": "Serviceportal Baden-Württemberg, Ministerium für Landesentwicklung und Wohnen (Freigabe 27.11.2025), eingebunden bei der Stadt Heidelberg", "url": "https://www.heidelberg.de/-/Lebenslagen/verfahrensfreie-bauvorhaben/leb5000753", "abruf": "2026-10-02" },
+    { "titel": "KORREKTUR: Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
+  ],
+  "offen": [
+    "Quellen widersprechen sich leicht (Schwäbisch Hall 1.000–9.000 € bzw. 800–9.000 €, Commerzbank Holzbausatz Einzel 500–7.000 €); alle Spannen nebeneinander genannt. Commerzbank nennt Montage einmal 700–900 €, an anderer Stelle 700–1.000 € – Tabelle nutzt 700–900 €.",
+    "Commerzbank-Aussage 'genehmigungsfrei z. B. bis 30 m²' bewusst nicht übernommen, da LBO BW 2026 50 m² nennt.",
+    "Bauantrag 'rund 650 €' (Commerzbank) ist bundesweiter Pauschalwert, ohne BW-Gebührenbezug.",
+    "Grenzbebauung/Abstandsflächen für Carports an der Grundstücksgrenze (§ 6 LBO) nicht ausgeführt – Anwaltsfrage."
+  ]
+}

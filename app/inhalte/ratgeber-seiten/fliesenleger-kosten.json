@@ -1,0 +1,69 @@
+{
+  "slug": "fliesenleger-kosten",
+  "leistung": "maler-fliesen-boeden",
+  "rang": 22,
+  "anker": "Fliesenleger Kosten",
+  "hauptbegriff": "fliesenleger kosten",
+  "title": "Fliesenleger Kosten: Preise pro m² und Stundenlohn",
+  "description": "Was kostet ein Fliesenleger? Preise pro Quadratmeter für das Verlegen, Materialkosten, Nebenposten wie Abbruch und Silikonfugen und ein Rechenbeispiel fürs Bad.",
+  "h1": "Was kostet ein Fliesenleger?",
+  "einstieg": "Fliesen sind robust und pflegeleicht, ihr Verlegen ist aber Handarbeit mit vielen Zuschnitten. Die Fliesenleger Kosten setzen sich deshalb vor allem aus Arbeitszeit zusammen, dazu kommen Material, Vorarbeiten am Untergrund und Nebenposten wie Silikonfugen. Wie hoch der Quadratmeterpreis ausfällt, hängt von Format, Raumschnitt und Zustand des Untergrunds ab. Hier finden Sie Preisspannen aus zitierfähigen Quellen und die Punkte, an denen sich Angebote unterscheiden.",
+  "kosten": {
+    "h2": "Fliesenleger Kosten im Überblick",
+    "intro": "Die Commerzbank trennt Arbeits- und Materialkosten und nennt einzelne Nebenposten. Die Richtwerte des Baukosteninformationszentrums Deutscher Architektenkammern (BKI), veröffentlicht von der Bausparkasse Schwäbisch Hall, enthalten Fliese und Verlegung zusammen; laut Quelle sind es statistische Mittelwerte und Nettowerte. Die Sparkasse gibt einen Einstiegspreis für die Beauftragung eines Fachbetriebs an.",
+    "zeilen": [
+      { "posten": "Fliesen verlegen (reine Arbeit)", "spanne": "50 – 80 € je m²", "q": 1 },
+      { "posten": "Fliesen (Material, je nach Art)", "spanne": "10 – 60 € je m²", "q": 1 },
+      { "posten": "Neue Fliesen verlegen und verfugen (Fachbetrieb, Einstieg)", "spanne": "ab ca. 80 € je m²", "q": 3 },
+      { "posten": "Fliesen verlegt, niedrige / mittlere / hohe Qualität (BKI)", "spanne": "ca. 115 / 155 / 195 € je m²", "q": 2 },
+      { "posten": "Stundenlohn Fliesenleger", "spanne": "mindestens 40 €", "q": 1 },
+      { "posten": "Alte Fliesen entfernen", "spanne": "ab 20 € je m²", "q": 1 },
+      { "posten": "Abbruch alter Fliesen, Untergrund vorbereiten (BKI)", "spanne": "ca. 65 € je m²", "q": 2 },
+      { "posten": "Spachteln und Grundieren", "spanne": "5 – 10 € je m²", "q": 1 },
+      { "posten": "Ausgleichsspachtelung 10 mm (BKI)", "spanne": "ca. 15 € je m²", "q": 2 },
+      { "posten": "Silikon- und Acrylfugen", "spanne": "5 – 17 € je lfm", "q": 1 },
+      { "posten": "Sockelleisten anbringen", "spanne": "2 – 6 € je lfm", "q": 1 },
+      { "posten": "Anfahrt", "spanne": "ab 40 €", "q": 1 }
+    ],
+    "hinweis": "Die Preise für Ausbauarbeiten lagen laut Statistischem Bundesamt im Mai 2026 um 5,1 % über dem Vorjahresmonat. Ältere Richtwerte sind deshalb eher als Untergrenze zu lesen."
+  },
+  "abschnitte": [
+    {
+      "h2": "Wie Fliesenleger abrechnen",
+      "text": "Fliesenarbeiten werden meist nach Quadratmetern angeboten, seltener nach Stunden. Für Kunden ist der Quadratmeterpreis leichter zu vergleichen, und laut Commerzbank geben Fliesenleger in Angeboten in der Regel einen Gesamtpreis für die zu fliesende Fläche an. Den größten Anteil daran haben die Arbeitsstunden. Wird nach Zeit abgerechnet, nennt die Commerzbank einen Stundenlohn von mindestens 40 Euro. Laufmeterpreise gelten für alles, was sich nicht in Fläche messen lässt: Silikon- und Acrylfugen, Sockelleisten und Kantenprofile. Separat berechnet werden außerdem oft Anfahrt, Entsorgung und das Vorbereiten des Untergrunds. Regional gibt es Unterschiede: In Großstädten liegen die Preise oft höher als auf dem Land, und ein Meisterbetrieb ist laut Commerzbank in der Regel teurer als ein Betrieb ohne Meistertitel. Wer Angebote vergleicht, sollte deshalb nicht nur auf den Quadratmeterpreis schauen, sondern prüfen, welche Nebenposten enthalten sind und welche gesondert abgerechnet werden."
+    },
+    {
+      "h2": "Fliesen verlegen Kosten: was den Quadratmeterpreis treibt",
+      "text": "Einen Festpreis pro Quadratmeter gibt es nicht. Das Format spielt eine große Rolle: Sowohl sehr kleine Fliesen und Mosaik als auch große Formate mit mehr als 30 Zentimetern Kantenlänge sind aufwendiger zu verlegen. Kleinformate brauchen mehr Fugen und Zeit, Großformate einen sehr ebenen Untergrund und oft zwei Personen beim Ansetzen. Der Raumschnitt kommt hinzu: Viele Ecken, Vorsprünge, Rohrdurchführungen und Fensterlaibungen bedeuten viele Zuschnitte. Auch die Verlegeart verändert den Preis. Das Kleben von Wand- und Bodenfliesen im Dünnbett ist günstiger als das Verlegen von Feinsteinzeug im Mörtelbett, und aufwendige Muster wie Fischgrät oder diagonale Verlegung verlängern die Arbeitszeit. Wer Kosten im Rahmen halten will, wählt ein gängiges Format, eine einfache Verlegeart und prüft, ob im Bad wirklich jede Wand bis zur Decke gefliest werden muss. Die Commerzbank weist darauf hin, dass viele Bäder nur dort gefliest werden, wo es nötig ist, und die übrigen Wände gestrichen werden."
+    },
+    {
+      "h2": "Material, Untergrund und Nebenposten",
+      "text": "Beim Material reicht die Spanne laut Commerzbank von 10 bis 60 Euro je Quadratmeter, Granit oder Glas kosten mehr als Keramik. Hinzu kommen Fliesenkleber, Fugenmasse, Silikon und Acryl. Wie viel Vorarbeit nötig ist, zeigt sich oft erst beim Entfernen des alten Belags. Das BKI rechnet für den Abbruch alter Fliesen einschließlich Vorbereitung des Untergrunds mit rund 65 Euro je Quadratmeter; müssen auch Estrich und Unterbau heraus, mit rund 85 Euro. Ein Ausgleich von 10 Millimetern kostet nach BKI etwa 15 Euro je Quadratmeter. Ob neue Fliesen auf alte gelegt werden können, hängt von Haftung, Aufbauhöhe und Türanschlüssen ab und lässt sich nur am Objekt beurteilen. Für Wohnräume kommen neben Fliesen auch Laminat, Vinyl oder Parkett in Frage; einen Preisvergleich bietet der Ratgeber [[/ratgeber/boden-verlegen-kosten/]]."
+    },
+    {
+      "h2": "Fliesen im Bad und ein belastbares Angebot",
+      "text": "Im Bad ist der Fliesenleger nur ein Gewerk unter mehreren. Im Rechenbeispiel der Commerzbank für ein Bad mit 40 Quadratmetern Wand- und Bodenfläche kommen Spachteln und Grundieren, Fliesen der Abriebklasse 2, weiteres Material, Verlegen und Verfugen zu 50 Euro je Quadratmeter, 30 Laufmeter Silikonfugen und zwei Anfahrten zusammen auf 4.030 Euro. Entscheidend in Nassbereichen ist die Abdichtung unter den Fliesen an Dusche, Wanne und Boden. Wie sich die Kosten eines kompletten Bads zusammensetzen, erklärt der Ratgeber [[/ratgeber/badsanierung-kosten/]]. Für ein vergleichbares Angebot helfen Raummaße mit Wand- und Bodenflächen, Fotos des vorhandenen Belags, das gewünschte Fliesenformat und die Angabe, ob alte Fliesen entfernt werden sollen. Wenn Sie uns Ihr Vorhaben schildern, wählen wir einen passenden Fachbetrieb für [[/leistungen/maler-fliesen-boeden/]] aus, der sich bei Ihnen meldet und den Untergrund vor dem Angebot prüft."
+    }
+  ],
+  "faq": [
+    { "q": "Was kostet ein Fliesenleger pro Stunde?", "a": "Die Commerzbank nennt einen Stundenlohn von mindestens 40 Euro. Üblicher ist allerdings die Abrechnung nach Quadratmetern, weil sich Angebote so leichter vergleichen lassen." },
+    { "q": "Was kostet es, 10 m² Boden fliesen zu lassen?", "a": "Mit dem BKI-Richtwert für Fliesen mittlerer Qualität von rund 155 Euro je Quadratmeter einschließlich Verlegung ergeben sich etwa 1.550 Euro. Abbruch, Ausgleich des Untergrunds und Anfahrt kommen gegebenenfalls hinzu." },
+    { "q": "Warum kosten große Fliesen mehr Arbeit?", "a": "Formate mit mehr als 30 Zentimetern Kantenlänge brauchen einen sehr ebenen Untergrund und sind schwerer zu handhaben. Das erhöht den Aufwand beim Vorbereiten und Ansetzen." },
+    { "q": "Werden Silikonfugen extra berechnet?", "a": "Ja, meist nach Laufmeter. Die Commerzbank nennt dafür 5 bis 17 Euro je Laufmeter." },
+    { "q": "Sind Fliesen im Wohnzimmer teurer als Laminat?", "a": "In der Regel ja. In einem Rechenbeispiel der Commerzbank kosten Standardfliesen mit Verlegematerial rund 25 Euro und das Verlegen rund 45 Euro je Quadratmeter, also etwa 70 Euro zusammen; für Laminat nennt die Sparkasse einen Einstieg ab etwa 35 Euro." }
+  ],
+  "verwandt": ["badsanierung-kosten", "boden-verlegen-kosten"],
+  "quellen": [
+    { "titel": "Fliesenleger: Welche Kosten ergeben sich?", "herausgeber": "Commerzbank (07.01.2025)", "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/fliesenleger-welche-kosten-entstehen/", "abruf": "2026-10-02" },
+    { "titel": "Sanierungskosten-Rechner für verschiedene Gewerke", "herausgeber": "Bausparkasse Schwäbisch Hall (Richtwerte BKI, 4. Quartal 2025)", "url": "https://www.schwaebisch-hall.de/rechner/renovierungskosten-berechnen.html", "abruf": "2026-10-02" },
+    { "titel": "Modernisierungskosten: Ausgaben bei Modernisierung, Sanierung und Renovierung einplanen", "herausgeber": "Sparkasse (sparkasse.de)", "url": "https://www.sparkasse.de/pk/ratgeber/wohnen/immobilie-modernisieren/modernisierungskosten.html", "abruf": "2026-10-02" },
+    { "titel": "Renovierungskosten für Haus und Wohnung", "herausgeber": "Commerzbank (19.11.2024)", "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/renovierungskosten-fuer-haus-und-wohnung/", "abruf": "2026-10-02" },
+    { "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
+  ],
+  "offen": [
+    "Kein neutraler Primärwert (Verbraucherzentrale, Destatis-Einzelpreise) für Fliesenlegerarbeiten; Werte aus Bank-/Sparkassen-Ratgebern und BKI über Schwäbisch Hall.",
+    "Sparkasse-Seite ohne Datum (LBS zitiert sie mit Zugriff 29.09.2026).",
+    "FAQ 10 m²: einfache Multiplikation 10 × 155 € (BKI). FAQ Wohnzimmer: 25 € + 45 € = 70 € aus Quelle 4.",
+    "Aussage zu Dünnbett/Mörtelbett, Format > 30 cm, Großstadt/Land und Meisterbetrieb aus Quelle 1; Fischgrät/Diagonal und ‚zwei Personen beim Ansetzen‘ allgemeines Fachwissen ohne Zahl."
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "fenster-austauschen-kosten",
+  "leistung": "fenster-tueren",
+  "rang": 13,
+  "anker": "Fenstertausch Kosten",
+  "hauptbegriff": "fenstereinbau kosten",
+  "title": "Fenstertausch Kosten: Preise für Fenster und Fenstereinbau",
+  "description": "Was kostet der Fenstereinbau? Preise je Fenster nach Rahmenmaterial für Neubau und Altbau, Kosten für Ausbau und Montage sowie Vorgaben des GEG beim Austausch.",
+  "h1": "Was kostet es, Fenster auszutauschen?",
+  "einstieg": "Neue Fenster verändern ein Haus spürbar: weniger Zugluft, wärmere Innenscheiben, oft auch besserer Schall- und Einbruchschutz. Die Kosten für den Fenstereinbau hängen vor allem vom Rahmenmaterial, von Größe und Verglasung und davon ab, ob es sich um einen Neubau oder den Austausch im Bestand handelt. Im Altbau kommen Ausbau, Entsorgung und Anschlussarbeiten an Laibung und Fensterbank hinzu. Hier finden Sie Preise je Fenster aus zitierfähigen Quellen, die gesetzlichen Mindestwerte und die Punkte, die ein Angebot vergleichbar machen.",
+  "kosten": {
+    "h2": "Fenstereinbau Kosten im Überblick",
+    "intro": "Die Bausparkasse Schwäbisch Hall veröffentlicht Richtwerte des Baukosteninformationszentrums Deutscher Architektenkammern (BKI) mit Stand 2. Quartal 2026. Die Preise gelten je Stück für ein einflügeliges Fenster mit Fensterbank innen und außen, inklusive Einbau und netto. Laut Quelle liegen die Kosten im Altbau rund zehn Prozent höher als im Neubau, weil Demontage, Entsorgung und aufwendigere Anschlussarbeiten dazukommen. Bei Einzelmaßnahmen sind Zuschläge möglich.",
+    "zeilen": [
+      { "posten": "Kunststofffenster, Neubau", "spanne": "ca. 940 € je Stück", "q": 1 },
+      { "posten": "Kunststofffenster, Altbau", "spanne": "ca. 1.050 € je Stück", "q": 1 },
+      { "posten": "Holzfenster, Neubau / Altbau", "spanne": "ca. 1.265 € / ca. 1.395 € je Stück", "q": 1 },
+      { "posten": "Holz-Alu-Fenster, Neubau / Altbau", "spanne": "ca. 1.605 € / ca. 1.780 € je Stück", "q": 1 },
+      { "posten": "Fenstertür Holz-Alu, Neubau / Altbau", "spanne": "ca. 2.615 € / ca. 3.200 € je Stück", "q": 1 },
+      { "posten": "Altes Fenster abbrechen", "spanne": "ca. 88 € je Stück", "q": 1 },
+      { "posten": "Einbau je Fenster", "spanne": "150 – 300 €, im Altbau bis 400 €", "q": 1 },
+      { "posten": "Aufpreis einbruchhemmendes Fenster (RC 2)", "spanne": "150 – 300 € je Fenster", "q": 1 }
+    ],
+    "hinweis": "Die Preise für Ausbauarbeiten an Wohngebäuden lagen laut Statistischem Bundesamt im Mai 2026 um 5,1 % über dem Vorjahresmonat. Angebote können deshalb über älteren Richtwerten liegen."
+  },
+  "abschnitte": [
+    {
+      "h2": "Fenster austauschen: Kosten für ein ganzes Haus abschätzen",
+      "text": "Für eine erste Schätzung genügt eine einfache Rechnung: Anzahl der Fenster mal Preis je Stück. Zehn Kunststofffenster im Altbau ergeben bei rund 1.050 Euro je Stück etwa 10.500 Euro netto, zehn Holz-Alu-Fenster bei rund 1.780 Euro etwa 17.800 Euro. Fenstertüren zum Balkon oder zur Terrasse sind deutlich teurer und sollten getrennt gezählt werden. Die BKI-Werte beziehen sich auf einflügelige Standardfenster. Zweiflügelige Fenster, bodentiefe Elemente, Sondermaße, Rundbögen und Sprossen erhöhen den Preis ebenso wie Schallschutz- oder Sonnenschutzglas. Nach Angaben von Schwäbisch Hall entfallen rund 20 bis 30 Prozent der Gesamtkosten auf den Einbau. Wer Rollläden erneuern, Rollladenkästen dämmen oder Fensterbänke tauschen lassen möchte, sollte das gleich mit anfragen, weil diese Arbeiten an derselben Stelle ansetzen."
+    },
+    {
+      "h2": "Kunststoff, Holz oder Holz-Alu?",
+      "text": "Das Rahmenmaterial ist der größte Preishebel. Kunststofffenster sind am günstigsten und pflegeleicht; hochwertige Mehrkammerprofile erreichen gute Dämmwerte. Holzfenster kosten mehr, haben eine gute Umweltbilanz und lassen sich bei kleinen Schäden reparieren, brauchen aber regelmäßige Pflege. Holz-Aluminium-Fenster verbinden eine Holzoberfläche innen mit einer witterungsbeständigen Aluschale außen und sind die teuerste der drei Varianten. Laut Verbraucherzentrale macht der Rahmen bis zu 30 Prozent der Fensterfläche aus, seine Dämmwirkung zählt also mit. Deshalb ist für den Vergleich der Uw-Wert des ganzen Fensters entscheidend, nicht der oft niedrigere Ug-Wert der Verglasung allein, der in manchen Werbeangaben hervorgehoben wird. Im Altbau nennt das BKI je Stück rund 1.050 Euro für Kunststoff und rund 1.780 Euro für Holz-Alu."
+    },
+    {
+      "h2": "Was das Gebäudeenergiegesetz vorgibt",
+      "text": "Beim Ersatz von Fenstern nennt das Gebäudeenergiegesetz in Anlage 7 Höchstwerte für den Wärmedurchgangskoeffizienten: 1,3 W/(m²·K) für Fenster und Fenstertüren, 1,4 W/(m²·K) für Dachflächenfenster. Nach Einschätzung der Verbraucherzentrale erfüllt bereits ein Fenster mit üblicher Zweifach-Wärmeschutzverglasung und einem Uw-Wert von etwa 1,2 diese Mindestanforderung; dreifach verglaste Fenster mit Werten um 0,9 sind heute üblich. Für Förderprogramme gelten strengere Werte; für den Fenstertausch gibt es Förderprogramme des Bundes (BEG über BAFA bzw. KfW), deren Bedingungen sich ändern. Auskunft geben BAFA, KfW und die Energieberatung. Fenster, die vor 1995 eingebaut wurden, haben laut Verbraucherzentrale in aller Regel keine Wärmeschutzverglasung."
+    },
+    {
+      "h2": "Fenster und Fassade zusammen denken",
+      "text": "Neue, dichte Fenster verändern das Raumklima. Weil die alten Fenster oft ein Stück weit mitgelüftet haben, kann nach dem Austausch Tauwasser leichter entstehen. Die Verbraucherzentrale empfiehlt deshalb, beim Fenstertausch auch über das Lüften nachzudenken, vom häufigeren Fensteröffnen bis zu kleinen Lüftern oder Lüftungsklappen im Rahmen. Ist die Außenwand ungedämmt, kann sie im Winter kälter sein als das neue Fenster; Feuchtigkeit schlägt sich dann an der Wand nieder. Werden Fassade und Fenster gemeinsam saniert, sitzt das Fenster in der Dämmebene und die Anschlussfuge wird überdeckt. Was die Dämmung der Außenwand kostet, erklärt der Ratgeber [[/ratgeber/fassadendaemmung-kosten/]]. Auch wenn die Fassade erst später folgt, ist es sinnvoll, die Einbauposition der Fenster schon darauf abzustimmen."
+    },
+    {
+      "h2": "So wird das Angebot vergleichbar",
+      "text": "Für einen Vergleich helfen eine Liste aller Fenster mit Breite, Höhe und Öffnungsart, Fotos von innen und außen sowie die Angabe, ob Rollläden vorhanden sind. Im Angebot sollten Uw-Wert, Verglasung, Profil, Einbauart mit Abdichtung der Anschlussfuge, Ausbau und Entsorgung sowie Putz- und Malerarbeiten an der Laibung getrennt ausgewiesen sein. Wer gleichzeitig die Eingangstür ersetzen möchte, findet Preise im Ratgeber [[/ratgeber/haustuer-kosten/]]. Wenn Sie uns Ihr Vorhaben schildern, wählen wir einen passenden Fachbetrieb für [[/leistungen/fenster-tueren/]] aus, der die Fenster am Objekt aufmisst und den Aufwand vor dem Angebot prüft. Sinnvoll ist auch die Frage, in welcher Reihenfolge die Räume getauscht werden und wie lange einzelne Öffnungen offen bleiben."
+    }
+  ],
+  "faq": [
+    { "q": "Wie viel kostet der Einbau eines Fensters ohne das Fenster selbst?", "a": "Schwäbisch Hall nennt für die Montage etwa 150 bis 300 Euro je Fenster, im Altbau bei erhöhtem Aufwand bis zu 400 Euro. Ausbau und Entsorgung des alten Fensters kommen hinzu." },
+    { "q": "Warum ist der Fenstertausch im Altbau teurer als im Neubau?", "a": "Das Fenster selbst kostet gleich viel, aber alte Fenster müssen ausgebaut und entsorgt werden. Dazu kommen Arbeiten an Laibung, Fensterbänken und Rollladenkästen." },
+    { "q": "Kann ich Fenster selbst einbauen?", "a": "Technisch ist es möglich, Fehler bei der Abdichtung der Anschlussfuge können aber Wärmeschutz mindern und Feuchteschäden verursachen. Laut Schwäbisch Hall gibt es staatliche Fördermittel nur, wenn ein Fachunternehmen die Arbeiten ausführt." },
+    { "q": "Ist Dreifachverglasung sinnvoll?", "a": "Dreifachverglasung ist laut Verbraucherzentrale energetisch fast 20 Prozent besser als eine Zweifach-Wärmeschutzverglasung und heute bei neuen Fenstern üblich. Sie macht das Fenster schwerer, was bei Beschlägen und Flügelgröße eine Rolle spielt." },
+    { "q": "Welche Sicherheitsklasse ist für Fenster sinnvoll?", "a": "Die Kriminalpolizei empfiehlt nach Angaben von Schwäbisch Hall einbruchhemmende Fenster nach DIN EN 1627 ab Widerstandsklasse RC 2, vor allem im Erdgeschoss und an Balkonen. Ein solches Fenster kann 150 bis 300 Euro teurer sein als ein Standardfenster." }
+  ],
+  "verwandt": ["haustuer-kosten", "fassadendaemmung-kosten"],
+  "quellen": [
+    { "titel": "Kosten für neue Fenster", "herausgeber": "Bausparkasse Schwäbisch Hall (Richtwerte BKI, 2. Quartal 2026)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-sanieren-renovieren/neue-fenster-kosten.html", "abruf": "2026-10-02" },
+    { "titel": "Fenster sanieren oder austauschen: Darauf sollten Sie achten", "herausgeber": "Verbraucherzentrale", "url": "https://www.verbraucherzentrale.de/wissen/energie/energetische-sanierung/fenster-sanieren-oder-austauschen-darauf-sollten-sie-achten-13878", "abruf": "2026-10-02" },
+    { "titel": "Neue Fenster: Wie planen Sie energieeffizient und sicher?", "herausgeber": "Verbraucherzentrale", "url": "https://www.verbraucherzentrale.de/wissen/energie/energetische-sanierung/neue-fenster-wie-planen-sie-energieeffizient-und-sicher-54798", "abruf": "2026-10-02" },
+    { "titel": "Gebäudeenergiegesetz, Anlage 7: Höchstwerte der Wärmedurchgangskoeffizienten bei Änderung bestehender Gebäude", "herausgeber": "Bundesministerium der Justiz (gesetze-im-internet.de)", "url": "https://www.gesetze-im-internet.de/geg/anlage_7.html", "abruf": "2026-10-02" },
+    { "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
+  ],
+  "offen": [
+    "Schwäbisch Hall nennt für Abbruch eines Fensters widersprüchlich ca. 88 € (BKI-Tabelle) und rund 55 € (Fließtext/Kurzfassung); verwendet wurde der Tabellenwert.",
+    "In der BKI-Tabelle bei Schwäbisch Hall sind zwei Fenstertür-Zeilen gleich als 'Kunststoff' beschriftet (1.400/1.595 € und 1.480/1.700 €) – unklar, daher nur die Holz-Alu-Fenstertür übernommen.",
+    "FAQ 3: 'Förderung nur bei Fachunternehmen' sinngemäß aus Schwäbisch Hall ('nur dann staatliche Fördermittel, wenn ... Fachunternehmen'); als 'in der Regel' formuliert.",
+    "Sparkasse (immobilien.sparkasse.de) nennt abweichend 500–780 € je Fenster (Berechnung Bayerisches Landesamt für Umwelt, Jahr unbekannt) – nicht übernommen."
+  ]
+}

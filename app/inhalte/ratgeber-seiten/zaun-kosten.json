@@ -1,0 +1,64 @@
+{
+  "slug": "zaun-kosten",
+  "leistung": "garten-aussenanlagen",
+  "rang": 25,
+  "anker": "Zaun Kosten",
+  "hauptbegriff": "zaun kosten",
+  "title": "Zaun Kosten: Preise pro Meter und Nachbarrecht in BW",
+  "description": "Was kostet ein Zaun? Preisspannen pro laufendem Meter, Kostenfaktoren beim Zaun setzen, Hecke als Alternative sowie Baurecht und Nachbarrecht in BW.",
+  "h1": "Was kostet ein Zaun?",
+  "einstieg": "Ein Zaun grenzt das Grundstück ab, hält Kinder und Haustiere im Garten und schützt je nach Bauart vor Blicken. Die Kosten hängen vor allem von Material, Höhe und Länge ab, dazu kommen Pfosten, Fundamente, Tore und der Aufwand beim Setzen. Weil Zäune meist pro laufendem Meter abgerechnet werden, lässt sich der Preis gut überschlagen, sobald die Länge feststeht. Hier finden Sie Preisspannen aus zitierfähigen Quellen sowie die Regeln aus Landesbauordnung und Nachbarrechtsgesetz Baden-Württemberg im Wortlaut. Für ein konkretes Angebot wählen wir einen Fachbetrieb für [[/leistungen/garten-aussenanlagen/]] aus, der den Verlauf der Grundstücksgrenze vorher ansieht.",
+  "kosten": {
+    "h2": "Zaun Kosten im Überblick",
+    "intro": "Die Bausparkasse Schwäbisch Hall nennt für Zaunanlagen je nach Material 30 bis 300 Euro pro laufendem Meter und für einen Holzzaun 20 bis 45 Euro pro Laufmeter. Die große Spanne erklärt sich durch die Bauarten: Ein einfacher Holz- oder Maschendrahtzaun liegt am unteren Ende, blickdichte Sichtschutzelemente, Metallzäune mit Toranlage oder Mauern am oberen. Die Beispiele für 30 Meter Zaunlänge sind einfach mit den Meterpreisen der Quelle multipliziert. Tore, Abriss eines alten Zauns und Entsorgung sind darin nicht enthalten.",
+    "zeilen": [
+      { "posten": "Zaunanlagen je laufendem Meter, je nach Material", "spanne": "30 – 300 €", "q": 2 },
+      { "posten": "Holzzaun je Laufmeter", "spanne": "20 – 45 €", "q": 1 },
+      { "posten": "Beispiel 30 m Zaunanlage (30 – 300 € × 30 m)", "spanne": "900 – 9.000 €", "q": 2 },
+      { "posten": "Beispiel 30 m Holzzaun (20 – 45 € × 30 m)", "spanne": "600 – 1.350 €", "q": 1 },
+      { "posten": "Hecke als Alternative, je Laufmeter", "spanne": "10 – 40 €", "q": 1 },
+      { "posten": "Honorar Gartenplanung, Grundstück mit 500 m²", "spanne": "ca. 500 €", "q": 1 }
+    ],
+    "hinweis": "Baupreise steigen weiter: Laut Statistischem Bundesamt lagen die Preise für Metallbauarbeiten an Wohngebäuden im Mai 2026 um 4,4 %, für Zimmer- und Holzbauarbeiten um 7,3 % und für Erdarbeiten um 5,4 % über dem Vorjahresmonat. Ältere Richtwerte sind deshalb eher als Untergrenze zu lesen."
+  },
+  "abschnitte": [
+    {
+      "h2": "Welche Zaunart passt und was sie kostet",
+      "text": "Die Wahl des Materials entscheidet über den Meterpreis mehr als jeder andere Punkt. Holzzäune sind in der Anschaffung günstig und wirken natürlich, Schwäbisch Hall nennt dafür 20 bis 45 Euro pro Laufmeter. Sie brauchen aber regelmäßige Pflege, und Pfosten, die direkt im Erdreich stehen, sind anfällig für Fäulnis. Metallzäune wie Doppelstabmatten sind langlebig und pflegeleicht; mit Sichtschutzstreifen lassen sie sich nachträglich blickdicht machen. Blickdichte Sichtschutzwände aus Holz, Kunststoff oder Metall, Gabionen mit Steinfüllung und gemauerte Einfriedungen liegen am oberen Ende der Spanne von 30 bis 300 Euro je Meter, weil sie mehr Material, schwerere Fundamente und mehr Arbeitszeit verlangen. Neben dem Material zählt die Höhe: Ein hüfthoher Vorgartenzaun braucht weniger Material und leichtere Pfosten als ein mannshoher Sichtschutz, der dem Wind eine große Fläche bietet. Tore und Türen werden meist gesondert berechnet, ebenso elektrische Antriebe für Einfahrtstore. Wer eine Einfahrt mit Tor plant, stimmt den Zaun sinnvollerweise mit Zufahrt und Stellplatz ab; Preise für einen überdachten Stellplatz nennt der Ratgeber [[/ratgeber/carport-kosten/]]."
+    },
+    {
+      "h2": "Zaun setzen: Kosten für Pfosten, Fundamente und Montage",
+      "text": "Ein großer Teil der Kosten entsteht im Boden. Pfosten werden in der Regel einbetoniert oder auf Fundamente mit Pfostenträgern gesetzt; je höher und geschlossener der Zaun, desto tiefer und kräftiger müssen die Fundamente sein, weil Wind auf geschlossene Flächen stark einwirkt. Steiniger Boden, Wurzeln alter Hecken oder ein Gefälle entlang der Grenze erhöhen den Aufwand. Bei Hanglage muss der Zaun abgetreppt oder dem Gelände angepasst werden, und mitunter ist eine kleine Stützmauer nötig. Kommt ein alter Zaun weg, fallen zusätzlich Abbau und Entsorgung an. Wichtig für die Kalkulation ist außerdem, ob Leitungen im Boden verlaufen, etwa für Strom, Wasser oder Telekommunikation; deren Lage sollte vor dem Bohren der Pfostenlöcher geklärt sein. Wer selbst Hand anlegt, kann einfache Holz- oder Stabmattenzäune mit etwas Geschick aufbauen, bei langen Strecken, Hanglage oder Toranlagen ist ein Fachbetrieb in der Regel die sicherere Wahl. Für einen fairen Vergleich sollten Angebote Material, Höhe, Pfostenart, Fundamente, Tore und Entsorgung als eigene Positionen ausweisen."
+    },
+    {
+      "h2": "Baurecht und Nachbarrecht in Baden-Württemberg",
+      "text": "Die Landesbauordnung für Baden-Württemberg führt in Anhang 1 zu § 50 „Einfriedungen im Innenbereich“ und „Stützmauern bis 2 m Höhe“ als verfahrensfreie Vorhaben auf. Das Serviceportal des Landes weist darauf hin, dass auch verfahrensfreie Vorhaben das übrige Recht einhalten müssen, etwa Festsetzungen des Bebauungsplans, und dass die Gemeinde per Satzung ein Kenntnisgabeverfahren verlangen kann. Bebauungspläne enthalten oft Vorgaben zu Höhe oder Art von Einfriedungen, und nach § 27 des Nachbarrechtsgesetzes haben Festsetzungen im Bebauungsplan Vorrang. Das Nachbarrechtsgesetz Baden-Württemberg sieht in § 11 vor, dass gegenüber nicht landwirtschaftlich genutzten Grundstücken mit toten Einfriedigungen, außer Drahtzäunen und Schranken, ein Grenzabstand entsprechend der Mehrhöhe einzuhalten ist, die über 1,50 m hinausgeht. Zäune, die weniger als 0,50 m von der Grenze abstehen, müssen danach so eingerichtet sein, dass sie von der Seite des Eigentümers aus ausgebessert werden können. Für Hecken bis 1,80 m Höhe nennt § 12 einen Abstand von 0,50 m. Verbindliche Auskunft geben Gemeinde und Baurechtsbehörde."
+    },
+    {
+      "h2": "Hecke oder Zaun?",
+      "text": "Eine Hecke ist in der Pflanzung günstiger als viele Zaunarten: Schwäbisch Hall nennt 10 bis 40 Euro pro Laufmeter. Sie braucht aber einige Jahre, bis sie dicht ist, muss regelmäßig geschnitten werden und nimmt mehr Fläche ein als ein Zaun. Das Nachbarrechtsgesetz Baden-Württemberg verlangt für Hecken eigene Abstände und sieht vor, dass Hecken nicht in der Zeit vom 1. März bis zum 30. September verkürzt werden müssen. Häufig ist eine Kombination sinnvoll: ein einfacher Stabmattenzaun als sofortige Abgrenzung, davor eine Hecke als Sichtschutz, die mit der Zeit in den Zaun hineinwächst. Wenn Sie uns Ihr Vorhaben schildern, wählen wir einen passenden Fachbetrieb aus, der sich bei Ihnen meldet und Länge, Gelände und Ausführung beim Termin am Objekt aufnimmt."
+    }
+  ],
+  "faq": [
+    { "q": "Was kostet ein Zaun für 50 Meter?", "a": "Mit der Spanne von 30 bis 300 Euro pro laufendem Meter ergeben sich rechnerisch 1.500 bis 15.000 Euro, je nach Material und Höhe. Tore, Hanglage und die Entsorgung eines alten Zauns kommen gegebenenfalls hinzu." },
+    { "q": "Welcher Zaun ist am günstigsten?", "a": "Einfache Holz- und Drahtzäune liegen am unteren Ende der Preisspanne. Blickdichte Sichtschutzwände, Gabionen und Mauern sind deutlich teurer." },
+    { "q": "Was kostet ein Zaun am Hang mehr?", "a": "Am Hang muss der Zaun abgetreppt oder dem Gelände angepasst werden, mitunter ist eine kleine Stützmauer nötig. Der Mehraufwand lässt sich nur am Objekt beziffern, deshalb sollte das Gefälle im Angebot ausdrücklich berücksichtigt sein." },
+    { "q": "Wie hoch darf ein Zaun in Baden-Württemberg sein?", "a": "Eine feste Höhengrenze nennt das Nachbarrechtsgesetz nicht; über 1,50 m Höhe wächst bei toten Einfriedigungen außer Drahtzäunen der Grenzabstand mit. Der Bebauungsplan kann eigene Vorgaben enthalten, Auskunft gibt die Gemeinde." },
+    { "q": "Sind die Preise in Baden-Württemberg anders?", "a": "Die genannten Spannen sind bundesweite Richtwerte. Regionale Lohn- und Materialkosten sowie die Auslastung der Betriebe verschieben den Preis, deshalb ist ein Angebot nach Besichtigung maßgeblich." }
+  ],
+  "verwandt": ["carport-kosten", "terrassenueberdachung-kosten"],
+  "quellen": [
+    { "titel": "Gartengestaltung: Kredit, Planung & mehr", "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 13.02.2025)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen/garten-anlegen.html", "abruf": "2026-10-02" },
+    { "titel": "Baukosten: Mit so viel müssen Sie beim Haus bauen rechnen", "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 12.02.2025)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen.html", "abruf": "2026-10-02" },
+    { "titel": "Landesbauordnung für Baden-Württemberg (LBO) in der Fassung vom 16. März 2026, Anhang 1 (zu § 50 Absatz 1) Verfahrensfreie Vorhaben", "herausgeber": "Land Baden-Württemberg, Landesrecht BW", "url": "https://www.landesrecht-bw.de/perma?d=jlr-NNLBW00007BCC", "abruf": "2026-10-02" },
+    { "titel": "Gesetz über das Nachbarrecht (Nachbarrechtsgesetz – NRG), §§ 11, 12, 27", "herausgeber": "Land Baden-Württemberg, Landesrecht BW (Stand: zuletzt geändert 6. Dezember 2022)", "url": "https://www.landesrecht-bw.de/perma?d=jlr-NNLBW00008C99", "abruf": "2026-10-02" },
+    { "titel": "Verfahrensfreie Bauvorhaben (Lebenslage)", "herausgeber": "Serviceportal Baden-Württemberg, Ministerium für Landesentwicklung und Wohnen (Freigabe 27.11.2025), eingebunden bei der Stadt Heidelberg", "url": "https://www.heidelberg.de/-/Lebenslagen/verfahrensfreie-bauvorhaben/leb5000753", "abruf": "2026-10-02" },
+    { "titel": "KORREKTUR: Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
+  ],
+  "offen": [
+    "Keine neutrale Quelle mit Meterpreisen je Zaunart (Doppelstabmatten, Gabionen, Sichtschutz, Montage separat) gefunden; nur Gesamtspanne 30–300 €/lfm und Holzzaun 20–45 €/lfm (Schwäbisch Hall). Holzzaun-Wert erscheint niedrig (vermutlich Material) – Quelle sagt nicht, ob Montage enthalten ist.",
+    "Beispielzeilen 30 m und FAQ 50 m: eigene Multiplikation der Quellen-Spannen.",
+    "NRG-Wiedergabe §§ 11, 12 (Fassung Stand 12/2022, Permalink auf das geöffnete Dokument); FAQ zur Zaunhöhe (Wiedergabe § 11 NRG) – Anwaltsfrage; Kostenteilung Grenzzaun bewusst nicht behandelt.",
+    "Leitungsabfrage vor dem Bohren nur allgemein, ohne Stelle/Pflicht."
+  ]
+}
