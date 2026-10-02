@@ -1890,3 +1890,14 @@ details.faq-item summary::-webkit-details-marker { display: none; }
 .mobile-menu-overlay .mobile-leistungen-item { font-size: 18px; }
 .ratgeber-verwandt { margin-top: 28px; font-size: 15px; color: var(--ink-2); }
 .ratgeber-verwandt a { color: var(--primary); text-decoration: underline; }
+
+/* ── Ratgeberseiten ───────────────────────────────────────────────────────── */
+.rg-tabelle-wrap { overflow-x: auto; margin: 18px 0; }
+.rg-tabelle { width: 100%; border-collapse: collapse; font-size: 15px; color: var(--ink-2); background: #fff; border: 1px solid var(--line); border-radius: var(--radius); }
+.rg-tabelle th, .rg-tabelle td { text-align: left; padding: 12px 14px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.rg-tabelle th { font-size: 13px; text-transform: uppercase; letter-spacing: 0.04em; color: var(--ink-3); }
+.rg-tabelle td:nth-child(2) { white-space: nowrap; font-weight: 600; color: var(--ink); }
+.rg-tabelle a, .ort-lead a, .ort-block p a, .ort-quellen a { color: var(--primary); text-decoration: underline; }
+.rg-hinweis { font-size: 14px !important; color: var(--ink-3) !important; }
+.ort-quellen ol { font-size: 13px; color: var(--ink-3); padding-left: 22px; line-height: 1.7; }
+@media (max-width: 640px) { .rg-tabelle td:nth-child(2) { white-space: normal; } }

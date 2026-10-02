@@ -1,0 +1,302 @@
+[
+ {
+  "rang": 1,
+  "slug": "waermepumpe-kosten",
+  "leistung": "heizung-waermepumpe",
+  "anker": "Wärmepumpe Kosten",
+  "hauptbegriff": "wärmepumpe kosten",
+  "volumen": 40500,
+  "neben": [
+   "gasheizung umrüsten auf wärmepumpe kosten",
+   "luftwärmepumpe kosten",
+   "neue heizung kosten"
+  ]
+ },
+ {
+  "rang": 2,
+  "slug": "wallbox-kosten",
+  "leistung": "elektro-photovoltaik",
+  "anker": "Wallbox Kosten",
+  "hauptbegriff": "wallbox kosten",
+  "volumen": 22200,
+  "neben": [
+   "wallbox installation kosten"
+  ]
+ },
+ {
+  "rang": 3,
+  "slug": "energetische-sanierung",
+  "leistung": "renovierung-sanierung",
+  "anker": "Energetische Sanierung",
+  "hauptbegriff": "energetische sanierung",
+  "volumen": 6600,
+  "neben": [
+   "energetische sanierung kosten",
+   "haus sanieren kosten"
+  ]
+ },
+ {
+  "rang": 4,
+  "slug": "badsanierung-kosten",
+  "leistung": "bad-sanitaer",
+  "anker": "Badsanierung Kosten",
+  "hauptbegriff": "badsanierung kosten",
+  "volumen": 4400,
+  "neben": [
+   "bad renovieren kosten",
+   "gäste wc renovieren kosten"
+  ]
+ },
+ {
+  "rang": 5,
+  "slug": "wintergarten-kosten",
+  "leistung": "garten-aussenanlagen",
+  "anker": "Wintergarten Kosten",
+  "hauptbegriff": "wintergarten kosten",
+  "volumen": 3600,
+  "neben": []
+ },
+ {
+  "rang": 6,
+  "slug": "kernsanierung-kosten",
+  "leistung": "renovierung-sanierung",
+  "anker": "Kernsanierung Kosten",
+  "hauptbegriff": "kernsanierung kosten",
+  "volumen": 2720,
+  "neben": [
+   "kosten einer kernsanierung",
+   "kernsanierung haus kosten"
+  ]
+ },
+ {
+  "rang": 7,
+  "slug": "dachsanierung-kosten",
+  "leistung": "dach-fassade",
+  "anker": "Dachsanierung Kosten",
+  "hauptbegriff": "dachsanierung kosten",
+  "volumen": 2400,
+  "neben": [
+   "dach neu decken kosten",
+   "neues dach kosten"
+  ]
+ },
+ {
+  "rang": 8,
+  "slug": "barrierefreies-bad",
+  "leistung": "bad-sanitaer",
+  "anker": "Barrierefreies Bad",
+  "hauptbegriff": "barrierefreies bad",
+  "volumen": 2400,
+  "neben": []
+ },
+ {
+  "rang": 9,
+  "slug": "dachfenster-einbauen-kosten",
+  "leistung": "dach-fassade",
+  "anker": "Dachfenster Einbau Kosten",
+  "hauptbegriff": "dachfenster einbauen kosten",
+  "volumen": 2400,
+  "neben": []
+ },
+ {
+  "rang": 10,
+  "slug": "haus-bauen-kosten",
+  "leistung": "hochbau",
+  "anker": "Hausbau Kosten",
+  "hauptbegriff": "haus bauen kosten",
+  "volumen": 2400,
+  "neben": [
+   "hausbau kosten"
+  ]
+ },
+ {
+  "rang": 11,
+  "slug": "photovoltaik-kosten",
+  "leistung": "elektro-photovoltaik",
+  "anker": "Photovoltaik Kosten",
+  "hauptbegriff": "kosten photovoltaik anlage",
+  "volumen": 2400,
+  "neben": [
+   "kosten photovoltaik mit speicher"
+  ]
+ },
+ {
+  "rang": 12,
+  "slug": "dachgaube-kosten",
+  "leistung": "dach-fassade",
+  "anker": "Dachgaube Kosten",
+  "hauptbegriff": "dachgaube kosten",
+  "volumen": 1900,
+  "neben": []
+ },
+ {
+  "rang": 13,
+  "slug": "fenster-austauschen-kosten",
+  "leistung": "fenster-tueren",
+  "anker": "Fenstertausch Kosten",
+  "hauptbegriff": "fenstereinbau kosten",
+  "volumen": 1900,
+  "neben": [
+   "fenster austauschen kosten"
+  ]
+ },
+ {
+  "rang": 14,
+  "slug": "fassadendaemmung-kosten",
+  "leistung": "dach-fassade",
+  "anker": "Fassadendämmung Kosten",
+  "hauptbegriff": "fassadendämmung kosten",
+  "volumen": 1600,
+  "neben": [
+   "fassadensanierung kosten"
+  ]
+ },
+ {
+  "rang": 15,
+  "slug": "fassade-streichen-kosten",
+  "leistung": "maler-fliesen-boeden",
+  "anker": "Fassadenanstrich Kosten",
+  "hauptbegriff": "fassade streichen kosten",
+  "volumen": 1600,
+  "neben": [
+   "haus streichen kosten"
+  ]
+ },
+ {
+  "rang": 16,
+  "slug": "boden-verlegen-kosten",
+  "leistung": "maler-fliesen-boeden",
+  "anker": "Bodenverlegung Kosten",
+  "hauptbegriff": "laminat verlegen kosten",
+  "volumen": 1600,
+  "neben": [
+   "vinylboden verlegen kosten",
+   "parkett verlegen kosten",
+   "boden verlegen kosten"
+  ]
+ },
+ {
+  "rang": 17,
+  "slug": "dachdaemmung-kosten",
+  "leistung": "dach-fassade",
+  "anker": "Dachdämmung Kosten",
+  "hauptbegriff": "dachdämmung kosten",
+  "volumen": 1300,
+  "neben": []
+ },
+ {
+  "rang": 18,
+  "slug": "carport-kosten",
+  "leistung": "garten-aussenanlagen",
+  "anker": "Carport Kosten",
+  "hauptbegriff": "carport kosten",
+  "volumen": 1300,
+  "neben": []
+ },
+ {
+  "rang": 19,
+  "slug": "haustuer-kosten",
+  "leistung": "fenster-tueren",
+  "anker": "Haustür Kosten",
+  "hauptbegriff": "haustür kosten",
+  "volumen": 1000,
+  "neben": [
+   "haustür austauschen kosten"
+  ]
+ },
+ {
+  "rang": 20,
+  "slug": "bodenplatte-kosten",
+  "leistung": "hochbau",
+  "anker": "Bodenplatte Kosten",
+  "hauptbegriff": "bodenplatte kosten",
+  "volumen": 1000,
+  "neben": []
+ },
+ {
+  "rang": 21,
+  "slug": "anbau-kosten",
+  "leistung": "hochbau",
+  "anker": "Anbau Kosten",
+  "hauptbegriff": "kosten anbau haus",
+  "volumen": 1000,
+  "neben": [
+   "anbau kosten"
+  ]
+ },
+ {
+  "rang": 22,
+  "slug": "fliesenleger-kosten",
+  "leistung": "maler-fliesen-boeden",
+  "anker": "Fliesenleger Kosten",
+  "hauptbegriff": "fliesenleger kosten",
+  "volumen": 880,
+  "neben": [
+   "fliesen verlegen kosten"
+  ]
+ },
+ {
+  "rang": 23,
+  "slug": "terrassenueberdachung-kosten",
+  "leistung": "garten-aussenanlagen",
+  "anker": "Terrassenüberdachung Kosten",
+  "hauptbegriff": "terrassenüberdachung kosten",
+  "volumen": 880,
+  "neben": [
+   "terrasse bauen kosten"
+  ]
+ },
+ {
+  "rang": 24,
+  "slug": "fussbodenheizung-nachruesten-kosten",
+  "leistung": "heizung-waermepumpe",
+  "anker": "Fußbodenheizung nachrüsten Kosten",
+  "hauptbegriff": "fußbodenheizung nachrüsten kosten",
+  "volumen": 720,
+  "neben": []
+ },
+ {
+  "rang": 25,
+  "slug": "zaun-kosten",
+  "leistung": "garten-aussenanlagen",
+  "anker": "Zaun Kosten",
+  "hauptbegriff": "zaun kosten",
+  "volumen": 590,
+  "neben": [
+   "zaun setzen kosten"
+  ]
+ },
+ {
+  "rang": 26,
+  "slug": "treppe-kosten",
+  "leistung": "innenausbau",
+  "anker": "Treppe Kosten",
+  "hauptbegriff": "treppe kosten",
+  "volumen": 590,
+  "neben": []
+ },
+ {
+  "rang": 27,
+  "slug": "elektrik-erneuern-kosten",
+  "leistung": "elektro-photovoltaik",
+  "anker": "Elektrik erneuern Kosten",
+  "hauptbegriff": "elektrik erneuern kosten",
+  "volumen": 480,
+  "neben": [
+   "elektroinstallation kosten",
+   "zählerschrank erneuern kosten"
+  ]
+ },
+ {
+  "rang": 28,
+  "slug": "hausanschluss-kosten",
+  "leistung": "tiefbau",
+  "anker": "Hausanschluss Kosten",
+  "hauptbegriff": "hausanschluss kosten",
+  "volumen": 320,
+  "neben": [
+   "erdarbeiten kosten",
+   "kanalanschluss kosten"
+  ]
+ }
+]
