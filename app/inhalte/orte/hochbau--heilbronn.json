@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Bauantrag in Heilbronn: Planungs- und Baurechtsamt in der Cäcilienstraße",
-      "text": "Als Stadtkreis erteilt Heilbronn Baugenehmigungen selbst; das Baugesuch geht an das Planungs- und Baurechtsamt mit dem Service-Center Bauen und Wohnen in der Cäcilienstraße 45. Nach den Hinweisen der Stadt werden die Angrenzer über das Vorhaben benachrichtigt und können die Pläne vier Wochen lang einsehen; Einwendungen sind in dieser Frist zu erheben. Für Wohngebäude nennt die Stadt einen gesetzlichen Entscheidungszeitraum von drei Monaten ab vollständigen Unterlagen und weist darauf hin, dass die meisten Verzögerungen auf unvollständige Bauvorlagen zurückgehen. Ob ein Grundstück im Geltungsbereich eines qualifizierten Bebauungsplans, im unbeplanten Innenbereich oder im Außenbereich liegt, entscheidet über die Bebaubarkeit."
+      "text": "Als Stadtkreis erteilt Heilbronn Baugenehmigungen selbst; das Baugesuch geht an das Planungs- und Baurechtsamt mit dem Service-Center Bauen und Wohnen in der Cäcilienstraße 45. Nach den Hinweisen der Stadt werden die Angrenzer über das Vorhaben benachrichtigt und können die Pläne vier Wochen lang einsehen; in diesem Zeitraum sieht das Verfahren auch Einwendungen vor. Die meisten Verzögerungen gehen nach Hinweis der Stadt auf unvollständige Bauvorlagen zurück. Ob ein Grundstück im Geltungsbereich eines qualifizierten Bebauungsplans, im unbeplanten Innenbereich oder im Außenbereich liegt, entscheidet über die Bebaubarkeit."
     },
     {
       "h2": "Neue Baugebiete und Bauplätze der Stadt",
-      "text": "Die Stadt Heilbronn listet ihre Wohnbauflächen nach Stadtteilen auf. In Sontheim entsteht das Baugebiet Klingenäcker mit rund 7,6 Hektar und etwa 190 Einzel-, Doppel- und Reihenhäusern, in Biberach das Gebiet Mühlberg-Finkenberg mit rund 9,5 Hektar. Bauplätze aus städtischem Besitz werden über die städtischen Immobilienangebote vergeben. Für Käufer städtischer Grundstücke gibt es zusätzlich ein Wohnungsbauförderprogramm für junge Ehepaare und Familien, die das Haus mindestens zehn Jahre selbst bewohnen. Wer bereits ein Grundstück hat, findet Bodenrichtwerte und den Immobilienmarktbericht beim Vermessungs- und Katasteramt, das die Geschäftsstelle des Gutachterausschusses führt."
+      "text": "Die Stadt Heilbronn listet ihre Wohnbauflächen nach Stadtteilen auf. In Sontheim entsteht das Baugebiet Klingenäcker mit rund 7,6 Hektar und etwa 190 Einzel-, Doppel- und Reihenhäusern, in Biberach das Gebiet Mühlberg-Finkenberg mit rund 9,5 Hektar. Bauplätze aus städtischem Besitz werden über die städtischen Immobilienangebote vergeben. Für Käufer städtischer Grundstücke gibt es zusätzlich ein Wohnungsbauförderprogramm für junge Ehepaare und Familien, die das Haus mindestens zehn Jahre selbst bewohnen; über die aktuellen Bedingungen informiert die Stadt. Wer bereits ein Grundstück hat, findet Bodenrichtwerte und den Immobilienmarktbericht beim Vermessungs- und Katasteramt, das die Geschäftsstelle des Gutachterausschusses führt."
     },
     {
       "h2": "Neckar, Schozach und Leinbach: Überschwemmungsgebiete beachten",
@@ -29,7 +29,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Die Angrenzer werden von der Baurechtsbehörde benachrichtigt und können die Planunterlagen vier Wochen lang einsehen; Einwendungen müssen in dieser Frist erhoben werden.",
+      "text": "Die Angrenzer werden von der Baurechtsbehörde benachrichtigt und können die Planunterlagen vier Wochen lang einsehen; Einwendungen sind innerhalb dieses Zeitraums vorgesehen.",
       "quelle": "Stadt Heilbronn – Wie funktioniert das Baugenehmigungsverfahren?",
       "url": "https://www.heilbronn.de/bauen-wohnen/bauen/planung/baugenehmigungsverfahren.html",
       "abruf": "2026-10-02"
@@ -76,12 +76,13 @@
     },
     {
       "q": "Liegt mein Grundstück in Heilbronn im Überschwemmungsgebiet?",
-      "a": "Das zeigen die Hochwassergefahrenkarten des Landes, die für den Neckar und mehrere Heilbronner Bäche vorliegen. Verbindliche Auskunft zum Vorhaben gibt das Planungs- und Baurechtsamt als Wasserbehörde."
+      "a": "Das zeigen die Hochwassergefahrenkarten des Landes, die für den Neckar und mehrere Heilbronner Bäche vorliegen. Auskunft zum konkreten Vorhaben gibt das Planungs- und Baurechtsamt der Stadt."
     }
   ],
   "offen": [
     "Die Seite zum Baugenehmigungsverfahren wirkt älter (z. B. Einreichung in dreifacher Ausfertigung); ob Heilbronn inzwischen nur noch digital über das Landesportal einreicht, wurde nicht geprüft und daher nicht erwähnt.",
     "Der Stand der Bauplatzvergabe in Klingenäcker und Mühlberg-Finkenberg (noch freie Plätze?) wurde nicht geprüft; im Text nur der Vergabeweg genannt.",
-    "Eine örtliche Stellplatzsatzung wurde nicht gesucht."
+    "Eine örtliche Stellplatzsatzung wurde nicht gesucht.",
+    "QA 02.10.: „Entscheidungszeitraum von drei Monaten“ entfernt (Quelle wirkt veraltet, Fristaussage); „Einwendungen sind in dieser Frist zu erheben“ neutral gefasst; Förderprogramm mit Verweis auf die Stadt ergänzt; nicht belegte Zuständigkeit „als Wasserbehörde“ aus FAQ entfernt."
   ]
 }

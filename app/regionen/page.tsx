@@ -38,7 +38,7 @@ export default function RegionenPage() {
                       {seiten.map((s, i) => (
                         <span key={s.leistung}>
                           {i > 0 && ' · '}
-                          <a href={pfad(s)}>{LEISTUNGEN[s.leistung].name}</a>
+                          <a href={pfad(s)} title={s.h1}>{LEISTUNGEN[s.leistung].ortsTitel(ort).split(' in ')[0]}</a>
                         </span>
                       ))}
                     </li>

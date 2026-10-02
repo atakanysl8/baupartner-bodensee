@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Bauantrag in Aalen: Bauordnungsamt und ViBa-BW",
-      "text": "Als Große Kreisstadt ist Aalen selbst Baurechtsbehörde; Bauanträge, Kenntnisgabeverfahren und Bauvorbescheide bearbeitet das städtische Bauordnungsamt im Rathaus am Marktplatz, nicht das Landratsamt. Für Beratungsgespräche lässt sich ein Termin beim Bürgerbüro Bau online buchen. Die Unterlagen werden in der Regel digital über den Onlinedienst ViBa-BW des Landes eingereicht. Nach Angaben der Stadt prüft das Bauordnungsamt zunächst die Vollständigkeit und beteiligt dann die übrigen Fachstellen, bevor es die Baugenehmigung erteilt. Mit den Arbeiten, auch mit dem Aushub der Baugrube, darf grundsätzlich erst nach Zustellung der Genehmigung begonnen werden. Liegt ein Grundstück in der Altstadt, ist zusätzlich die Gestaltungssatzung für den Altstadtbereich zu beachten, die im Ortsrecht der Stadt veröffentlicht ist."
+      "text": "Bauanträge, Kenntnisgabeverfahren und Bauvorbescheide bearbeitet in Aalen nach Angaben der Stadt das städtische Bauordnungsamt im Rathaus am Marktplatz. Die Unterlagen werden in der Regel digital über den Onlinedienst ViBa-BW des Landes eingereicht. Nach Angaben der Stadt prüft das Bauordnungsamt zunächst die Vollständigkeit und beteiligt dann die übrigen Fachstellen, bevor es die Baugenehmigung erteilt. Mit den Arbeiten, auch mit dem Aushub der Baugrube, wird nach Angaben der Stadt grundsätzlich erst nach Zustellung der Genehmigung begonnen. Liegt ein Grundstück in der Altstadt, gilt zusätzlich die Gestaltungssatzung für den Altstadtbereich, die im Ortsrecht der Stadt veröffentlicht ist."
     },
     {
       "h2": "Grundstück finden: Baulückenkataster, städtische Bauplätze und Bodenwert",
@@ -62,7 +62,7 @@
   "faq": [
     {
       "q": "Ist in Aalen das Landratsamt oder die Stadt für meinen Bauantrag zuständig?",
-      "a": "Zuständig ist das Bauordnungsamt der Stadt Aalen. Eingereicht wird in der Regel digital über ViBa-BW; einen Beratungstermin beim Bürgerbüro Bau kann man online vereinbaren."
+      "a": "Bauanträge bearbeitet nach Angaben der Stadt das städtische Bauordnungsamt. Eingereicht wird in der Regel digital über ViBa-BW; einen Beratungstermin beim Bürgerbüro Bau kann man online vereinbaren."
     },
     {
       "q": "Wie finde ich in Aalen eine Baulücke, wenn gerade kein Baugebiet ausgeschrieben ist?",
@@ -76,6 +76,8 @@
   "offen": [
     "Einstieg und Abschnitt 3: Hanglagen und Lage vieler Wohngebiete in den Tälern von Kocher und Aal sind ortskundliche Beschreibung, nicht durch eine Fakt-Quelle belegt.",
     "Der Satz zum Baubeginn erst nach Zustellung der Genehmigung stammt von der städtischen Seite „Baugenehmigung beantragen“; Ausnahmen (Teilbaugenehmigung, Kenntnisgabeverfahren) sind nicht ausgeführt.",
-    "Inhalt der Gestaltungssatzung Altstadt wurde nicht gelesen; nur ihre Existenz im Ortsrecht ist festgestellt."
+    "Inhalt der Gestaltungssatzung Altstadt wurde nicht gelesen; nur ihre Existenz im Ortsrecht ist festgestellt.",
+    "QA 02.10.: Abgeleitete Aussage „als Große Kreisstadt selbst Baurechtsbehörde … nicht das Landratsamt“ neutral gefasst (Abschnitt 1, FAQ 1); Baubeginn und Gestaltungssatzung ohne Anweisung formuliert.",
+    "QA 02.10.: Doppelten Satz zum Beratungstermin (steht in FAQ 1) aus Abschnitt 1 gestrichen (Wortgrenze 600)."
   ]
 }

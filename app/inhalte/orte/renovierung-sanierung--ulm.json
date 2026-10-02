@@ -14,11 +14,11 @@
     },
     {
       "h2": "Denkmal oder Gesamtanlage: wer in Ulm Auskunft gibt",
-      "text": "Ob ein Ulmer Gebäude Kulturdenkmal ist, steht in der Denkmalliste des Landesamts für Denkmalpflege. Diese Liste ist nach Angaben der Stadt derzeit nicht öffentlich einsehbar; bei berechtigtem Interesse geben aber die untere Denkmalschutzbehörde der Stadt und das Landesamt Auskunft. Auch ein Haus, das selbst nicht geschützt ist, kann bei Veränderungen am äußeren Erscheinungsbild unter das Denkmalschutzgesetz fallen, wenn es Teil einer Gesamtanlage ist oder in der Umgebung eines besonders bedeutenden Baudenkmals steht. Bei Fassadenanstrichen, die das Straßenbild prägen, berät zudem die städtische Stadtbildgestaltung zur Farbgebung."
+      "text": "Ob ein Ulmer Gebäude Kulturdenkmal ist, steht in der Denkmalliste des Landesamts für Denkmalpflege. Diese Liste ist nach Angaben der Stadt nicht öffentlich einsehbar; bei berechtigtem Interesse geben aber die untere Denkmalschutzbehörde der Stadt und das Landesamt Auskunft. Auch ein Haus, das selbst nicht geschützt ist, kann bei Veränderungen am äußeren Erscheinungsbild unter das Denkmalschutzgesetz fallen, wenn es Teil einer Gesamtanlage ist oder in der Umgebung eines besonders bedeutenden Baudenkmals steht. Bei Fassadenanstrichen, die das Straßenbild prägen, berät zudem die städtische Stadtbildgestaltung zur Farbgebung."
     },
     {
       "h2": "Wärmeplan, Fernwärme und Energieberatung vor Ort",
-      "text": "Ulm hat seinen kommunalen Wärmeplan im Oktober 2023 öffentlich vorgestellt; Bericht und Karten sind digital abrufbar. Die Fernwärme wird nach Angaben der Stadt unter anderem im Wengenviertel, im Dichterviertel, am Kuhberg und am Alten Eselsberg ausgebaut. Vor einer energetischen Sanierung bietet die Stadt über die Regionale Energieagentur eine kostenlose, anbieterneutrale Energieberatung, die auf Wunsch auch vor Ort stattfindet und das ganze Haus vom Keller bis zum Dach umfasst. Wenn Sie wissen, was saniert werden soll, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+      "text": "Ulm hat seinen kommunalen Wärmeplan im Oktober 2023 öffentlich vorgestellt; Bericht und Karten sind digital abrufbar. Als Ausbaugebiete der Fernwärme nennt die Stadt unter anderem das Wengenviertel, das Dichterviertel, den Kuhberg und den Alten Eselsberg. Vor einer energetischen Sanierung bietet die Stadt über die Regionale Energieagentur eine kostenlose, anbieterneutrale Energieberatung, die auf Wunsch auch vor Ort stattfindet und das ganze Haus vom Keller bis zum Dach umfasst. Wenn Sie wissen, was saniert werden soll, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
     }
   ],
   "fakten": [
@@ -41,7 +41,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Die Denkmalliste ist nach Angaben der Stadt Ulm derzeit nicht öffentlich zugänglich; bei berechtigtem Interesse geben die unteren Denkmalschutzbehörden und das Landesamt für Denkmalpflege Auskunft.",
+      "text": "Die Denkmalliste ist nach Angaben der Stadt Ulm nicht öffentlich zugänglich; bei berechtigtem Interesse geben die unteren Denkmalschutzbehörden und das Landesamt für Denkmalpflege Auskunft.",
       "quelle": "Stadt Ulm – Denkmalschutz",
       "url": "https://www.ulm.de/leben-in-ulm/bauen-und-wohnen/denkmalschutz/denkmalschutz-in-ulm",
       "abruf": "2026-10-02"
@@ -59,7 +59,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Die Fernwärme in Ulm wird nach Angaben der Stadt zu deutlich über 60 % aus regenerativen Brennstoffen erzeugt und unter anderem im Wengenviertel, Dichterviertel und am Kuhberg ausgebaut.",
+      "text": "Als Ausbaugebiete der Fernwärme nennt die Stadt Ulm unter anderem das Wengenviertel, das Dichterviertel und den Kuhberg.",
       "quelle": "Stadt Ulm – Ausbau der Fernwärme",
       "url": "https://www.ulm.de/leben-in-ulm/umwelt-energie-entsorgung/energie-und-klimaschutz/fernwaerme",
       "abruf": "2026-10-02"
@@ -83,6 +83,7 @@
     "Der Einstiegssatz zu Wiederaufbau-/Nachkriegsbauten ist allgemeine Ortskenntnis (gestützt auf die Beschreibung des Wengenviertels als „von Krieg und Wiederaufbau gezeichnet“), keine Statistik.",
     "Das städtische Energieförderprogramm hat laut Stadtseite seit 1. September 2026 einen Antrags- und Förderstopp; bewusst nicht erwähnt (datierte Momentangabe).",
     "Laut Sanierungstreuhand bestehen für das Wengenviertel „nach aktuellem Stand keine Förderanreize mehr“; im Text nur auf die Gebietsbetreuung verwiesen.",
-    "Die Sanierungstreuhand Ulm GmbH wird als Sanierungsträger der Stadt genannt (von ulm.de verlinkt); Gesellschafterstruktur nicht geprüft."
+    "Die Sanierungstreuhand Ulm GmbH wird als Sanierungsträger der Stadt genannt (von ulm.de verlinkt); Gesellschafterstruktur nicht geprüft.",
+    "QA 02.10.: „derzeit“ entfernt; Anteilswert Fernwärme (> 60 % regenerativ, ohne Stand) aus Fakt entfernt; Fernwärmeausbau ohne Verlaufsform gefasst."
   ]
 }

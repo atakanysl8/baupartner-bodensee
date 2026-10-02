@@ -6,7 +6,7 @@
   "title": "Bauunternehmen Schwäbisch Hall – kostenlos vermittelt",
   "description": "Bauen in Schwäbisch Hall: Baurechtsamt mit digitalem Bauantrag, Bauplätze über die HGE, Wärmeplanung und Starkregen. Bauunternehmen kostenlos vermittelt.",
   "h1": "Bauunternehmen in Schwäbisch Hall",
-  "einstieg": "Zwischen Kochertal und Hohenloher Ebene entstehen in Schwäbisch Hall neue Häuser vor allem in den Teilorten, etwa im geplanten Baugebiet Nördlicher Hallweg in Sulzdorf. Wer hier ein Einfamilienhaus, ein Doppelhaus oder einen Anbau plant, hat es mit dem städtischen Baurechtsamt, mit der städtischen Grundstücksgesellschaft HGE und mit einer Wärmeplanung zu tun, die auf bestehende Wärmenetze setzt.",
+  "einstieg": "Zwischen Kochertal und Hohenloher Ebene reicht das Bauen in Schwäbisch Hall von der Kernstadt bis in Teilorte wie Sulzdorf. Wer hier ein Einfamilienhaus, ein Doppelhaus oder einen Anbau plant, hat es mit dem städtischen Baurechtsamt, mit der städtischen Grundstücksgesellschaft HGE und mit einer Wärmeplanung zu tun, die auf bestehende Wärmenetze setzt.",
   "abschnitte": [
     {
       "h2": "Baurechtsamt in der Gymnasiumstraße: Bauantrag nur noch digital",
@@ -14,11 +14,11 @@
     },
     {
       "h2": "Bauplätze über die HGE, Bodenwerte beim Gutachterausschuss",
-      "text": "Wohnbauplätze vergibt in Schwäbisch Hall nicht die Stadtverwaltung direkt, sondern die HGE Haller Grundstücks- und Erschließungsgesellschaft, eine hundertprozentige Tochter der Stadt. Sie erschließt im Auftrag der Stadt auch das rund 10,4 Hektar große Gebiet Nördlicher Hallweg in Sulzdorf, für das ein städtebauliches Konzept mit Blick auf Energie und Wassermanagement entwickelt wird. Für die Einschätzung von Grundstückspreisen ist der Gemeinsame Gutachterausschuss bei der Stadt Schwäbisch Hall zuständig, dem auch Michelbach an der Bilz, Michelfeld und Rosengarten angehören. Seine Geschäftsstelle sitzt im selben Fachbereich wie das Baurechtsamt."
+      "text": "Wohnbauplätze vergibt in Schwäbisch Hall nicht die Stadtverwaltung direkt, sondern die HGE Haller Grundstücks- und Erschließungsgesellschaft, eine hundertprozentige Tochter der Stadt. Im Auftrag der Stadt entwickelt sie auch das rund 10,4 Hektar große Baugebiet Nördlicher Hallweg in Sulzdorf. Für die Einschätzung von Grundstückspreisen ist der Gemeinsame Gutachterausschuss bei der Stadt Schwäbisch Hall zuständig, dem auch Michelbach an der Bilz, Michelfeld und Rosengarten angehören. Seine Geschäftsstelle sitzt im selben Fachbereich wie das Baurechtsamt."
     },
     {
       "h2": "Heizung und Keller: Wärmeplan und Starkregenvorsorge",
-      "text": "Die Stadt hat gemeinsam mit den Stadtwerken Schwäbisch Hall einen kommunalen Wärmeplan erstellt, der bis 2040 eine treibhausgasneutrale Wärmeversorgung skizziert und auf den Ausbau der Fernwärme setzt. Zum Starkregen rät die Stadt, das Risiko schon in der Planung zu senken, etwa durch erhöhte Erdgeschosse oder gesicherte Lichtschächte, und weist auf die Pflicht zur Rückstausicherung unterhalb der Rückstauebene hin. Sobald Ihr Vorhaben feststeht, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Die Stadt hat gemeinsam mit den Stadtwerken Schwäbisch Hall einen kommunalen Wärmeplan erstellt, der bis 2040 eine treibhausgasneutrale Wärmeversorgung skizziert und auf den Ausbau der Fernwärme setzt. Zum Starkregen rät die Stadt, das Risiko schon in der Planung zu senken, etwa durch erhöhte Erdgeschosse oder gesicherte Lichtschächte, und nennt die Sicherung von Entwässerungseinrichtungen unterhalb der Rückstauebene gegen Rückstau. Sobald Ihr Vorhaben feststeht, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -41,7 +41,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Die HGE plant im Auftrag der Stadt das Baugebiet Nördlicher Hallweg mit rund 10,4 Hektar im Teilort Sulzdorf.",
+      "text": "Die HGE entwickelt im Auftrag der Stadt das Baugebiet Nördlicher Hallweg mit rund 10,4 Hektar im Teilort Sulzdorf.",
       "quelle": "Stadt Schwäbisch Hall – Baugebiet Nördlicher Hallweg",
       "url": "https://www.schwaebischhall.de/de/unsere-stadt/stadtentwicklung/baugebiet-noerdlicher-hallweg",
       "abruf": "2026-10-02"
@@ -59,7 +59,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Zur Starkregenvorsorge nennt die Stadt für Neubauten unter anderem den Verzicht auf Keller oder erhöhte Erdgeschosse und weist darauf hin, dass Entwässerungseinrichtungen unterhalb der Rückstauebene gegen Rückstau gesichert sein müssen.",
+      "text": "Zur Starkregenvorsorge nennt die Stadt für Neubauten unter anderem den Verzicht auf Keller oder erhöhte Erdgeschosse und nennt die Sicherung von Entwässerungseinrichtungen unterhalb der Rückstauebene gegen Rückstau.",
       "quelle": "Stadt Schwäbisch Hall – Starkregen",
       "url": "https://www.schwaebischhall.de/de/unsere-stadt/stadtentwicklung/starkregen",
       "abruf": "2026-10-02"
@@ -83,6 +83,7 @@
     "„Zwischen Kochertal und Hohenloher Ebene“ im Einstieg ist geografische Beschreibung ohne Fakt-Quelle.",
     "Vergabekriterien und Stand der HGE-Bauplätze (Website hge-sha.de) wurden nicht geprüft.",
     "Eine örtliche Stellplatzsatzung und eine Gesamtanlagen-Satzung für die Altstadt wurden nicht gefunden bzw. nicht gelesen.",
-    "Die Formulierung zu „erhöhten Erdgeschossen oder gesicherten Lichtschächten“ gibt allgemeine Hinweise der städtischen Starkregenseite wieder, die teils aus externen Leitfäden stammen."
+    "Die Formulierung zu „erhöhten Erdgeschossen oder gesicherten Lichtschächten“ gibt allgemeine Hinweise der städtischen Starkregenseite wieder, die teils aus externen Leitfäden stammen.",
+    "QA 02.10.: Planungs-/Bearbeitungsstand („geplantes Baugebiet“, „Konzept wird entwickelt“) und unbelegtes „vor allem in den Teilorten“ entfernt; Rückstau-Pflicht neutral formuliert."
   ]
 }

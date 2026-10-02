@@ -14,7 +14,7 @@
     },
     {
       "h2": "Umbau mit neuem Anschluss: Entwässerungsantrag und Rückstau",
-      "text": "Wird beim Badumbau der Anschluss an die öffentliche Kanalisation verändert, ist in Lörrach der Eigenbetrieb Abwasserbeseitigung zuständig. Nach seinen Angaben wird der Anschluss bei Um- und Neubauten erst nach einem Entwässerungsantrag genehmigt; die Kanalauskunft dafür erteilt die Grundstücksentwässerung. Anschlussarbeiten dürfen nur Fachunternehmen ausführen, anschließend folgt eine Dichtheitsprüfung. Als Rückstauebene gilt das Straßenniveau: Duschen, WCs oder Bodenabläufe darunter, etwa im Souterrain, sind gegen Rückstau zu sichern, zum Beispiel mit Hebeanlage oder Rückstauklappe. Die Stadt weist zudem darauf hin, dass das Stadtgebiet wegen seiner Topographie bei Starkregen besonders gefährdet ist."
+      "text": "Wird beim Badumbau der Anschluss an die öffentliche Kanalisation verändert, ist in Lörrach der Eigenbetrieb Abwasserbeseitigung zuständig. Nach seinen Angaben wird der Anschluss bei Um- und Neubauten erst nach einem Entwässerungsantrag genehmigt; die Kanalauskunft dafür erteilt die Grundstücksentwässerung. Anschlussarbeiten führen nach seinen Angaben Fachunternehmen aus, anschließend folgt eine Dichtheitsprüfung. Als Rückstauebene gilt das Straßenniveau; für Duschen, WCs oder Bodenabläufe darunter, etwa im Souterrain, nennt die Stadt eine Sicherung gegen Rückstau, zum Beispiel mit Hebeanlage oder Rückstauklappe. Die Stadt weist zudem darauf hin, dass das Stadtgebiet wegen seiner Topographie bei Starkregen besonders gefährdet ist."
     },
     {
       "h2": "Barrierefreies Bad: Pflegestützpunkt und Wohnberatung im Landkreis",
@@ -29,13 +29,13 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Bevor bei Um- und Neubauten der Anschluss an die öffentliche Kanalisation genehmigt wird, ist ein Entwässerungsantrag beim Eigenbetrieb Abwasserbeseitigung Lörrach zu stellen; Anschlüsse dürfen nur Fachunternehmen ausführen.",
+      "text": "Nach Angaben des Eigenbetriebs Abwasserbeseitigung Lörrach setzt die Genehmigung des Kanalanschlusses bei Um- und Neubauten einen Entwässerungsantrag voraus; die Anschlüsse führen Fachunternehmen aus.",
       "quelle": "Stadt Lörrach – Eigenbetrieb Abwasserbeseitigung",
       "url": "https://www.loerrach.de/eigenbetrieb-abwasserbeseitigung",
       "abruf": "2026-10-02"
     },
     {
-      "text": "Ablaufstellen unterhalb des Straßenniveaus (Rückstauebene) sind nach Angaben der Stadt Lörrach gegen Rückstau zu sichern, etwa durch Hebeanlagen oder Rückstauklappen.",
+      "text": "Für Ablaufstellen unterhalb des Straßenniveaus (Rückstauebene) nennt die Stadt Lörrach eine Sicherung gegen Rückstau, etwa durch Hebeanlagen oder Rückstauklappen.",
       "quelle": "Stadt Lörrach – Rückstau von Regenwasser",
       "url": "https://www.loerrach.de/5538",
       "abruf": "2026-10-02"
@@ -76,6 +76,7 @@
   "offen": [
     "Härteangabe „etwa 8 °dH“ stammt aus der Beschreibung der Stadt, nicht aus einer aktuellen Analyse; Analyse liegt bei bnNETZE/badenova Netze (nicht geöffnet).",
     "„Grundwasser aus dem Wiesental“ im Einstieg nicht durch Fakt-Quelle belegt; Ortsteile im Einstieg (Brombach, Stetten) nur aus Stadtseiten bekannt.",
-    "Die Fritz-Berger-Stiftung ist eine Stiftung (kein Handwerksbetrieb); Nennung, weil das Landratsamt sie als Beratungsangebot des Pflegestützpunkts aufführt."
+    "Die Fritz-Berger-Stiftung ist eine Stiftung (kein Handwerksbetrieb); Nennung, weil das Landratsamt sie als Beratungsangebot des Pflegestützpunkts aufführt.",
+    "QA 02.10.: Formulierungen „ist ein Entwässerungsantrag … zu stellen“, „dürfen nur … ausführen“ und „sind gegen Rückstau zu sichern“ als Angaben von Stadt/Eigenbetrieb neutral gefasst; Eigentümerverantwortung für die Hausinstallation auf loerrach.de/4528 wörtlich bestätigt."
   ]
 }

@@ -14,7 +14,7 @@
     },
     {
       "h2": "Bad im Untergeschoss: Hausanschluss und Rückstauebene in Heilbronn",
-      "text": "Das Heilbronner Kanalnetz ist rund 500 Kilometer lang und führt überwiegend Mischwasser, also Schmutz- und Regenwasser gemeinsam. Nach den Informationen der Entsorgungsbetriebe gehört die Anschlussleitung eines Grundstücks in Heilbronn einschließlich des Teils im öffentlichen Bereich den Eigentümern und liegt in ihrer Zuständigkeit. Als Rückstauebene gilt die Straßenoberfläche an der Anschlussstelle; Toiletten, Duschen oder Bodenabläufe darunter sind gegen Rückstau zu sichern, in der Regel über eine Hebeanlage. Auskunft zur Grundstücksentwässerung gibt die Abteilung Abwasser der Entsorgungsbetriebe der Stadt Heilbronn."
+      "text": "Das Heilbronner Kanalnetz ist rund 500 Kilometer lang und führt überwiegend Mischwasser, also Schmutz- und Regenwasser gemeinsam. Nach den Informationen der Entsorgungsbetriebe gehört die Anschlussleitung eines Grundstücks in Heilbronn einschließlich des Teils im öffentlichen Bereich den Eigentümern und liegt in ihrer Zuständigkeit. Als Rückstauebene gilt die Straßenoberfläche an der Anschlussstelle; für Toiletten, Duschen oder Bodenabläufe darunter nennt das Merkblatt der Stadt eine Sicherung gegen Rückstau, in der Regel über eine Hebeanlage. Auskunft zur Grundstücksentwässerung gibt die Abteilung Abwasser der Entsorgungsbetriebe der Stadt Heilbronn."
     },
     {
       "h2": "Barrierearmes Bad: Pflegestützpunkt und Energieagentur",
@@ -47,7 +47,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Ablaufstellen unterhalb der Rückstauebene, in Heilbronn die Straßenoberfläche an der Anschlussstelle, sind gegen Rückstau zu sichern; in der Regel über eine automatische Hebeanlage.",
+      "text": "Für Ablaufstellen unterhalb der Rückstauebene, in Heilbronn die Straßenoberfläche an der Anschlussstelle, nennt das Merkblatt der Stadt eine Sicherung gegen Rückstau, in der Regel über eine automatische Hebeanlage.",
       "quelle": "Stadt Heilbronn – Wie sichere ich mein Haus gegen Rückstau?",
       "url": "https://www.heilbronn.de/fileadmin/daten/stadtheilbronn/formulare/rathaus/abwasser/Wie_sichere_ich_mein_Haus_gegen_Rueckstau.pdf",
       "abruf": "2026-10-02"
@@ -82,6 +82,7 @@
   "offen": [
     "Die Merkblätter der Entsorgungsbetriebe zu Hausanschluss und Rückstau sind ältere Faltblätter; ob die zitierten Regeln wortgleich in der aktuellen Abwassersatzung stehen, wurde nicht im Satzungstext nachgeprüft.",
     "Ortsteilnennungen im Einstieg (Böckingen, Sontheim) sind Heilbronner Stadtteile, aber nicht durch eine eigene Fakt-Quelle belegt.",
-    "Ob der Pflegestützpunkt ausdrücklich Wohnraumanpassung berät, steht auf der Seite nicht wörtlich; belegt ist nur die allgemeine, neutrale Pflegeberatung."
+    "Ob der Pflegestützpunkt ausdrücklich Wohnraumanpassung berät, steht auf der Seite nicht wörtlich; belegt ist nur die allgemeine, neutrale Pflegeberatung.",
+    "QA 02.10.: Rückstausicherung als Wiedergabe des städtischen Merkblatts formuliert (keine Anweisung)."
   ]
 }

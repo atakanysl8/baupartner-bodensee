@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Erste Anlaufstelle: das Kompetenzzentrum Bauen-Wohnen-Förderung",
-      "text": "Heidelberg ist ein Stadtkreis, über Bauanträge entscheidet das Amt für Baurecht und Denkmalschutz der Stadt. Dessen Bauberatung im Kompetenzzentrum Bauen-Wohnen-Förderung am Kornmarkt gibt vor der Antragstellung Auskunft zur Bebaubarkeit von Grundstücken, zu rechtskräftigen Bebauungsplänen, örtlichen Satzungen und zu den Verfahrensarten. Termine lassen sich online buchen, die Beratung findet in Präsenz oder digital statt. Die Stadt weist darauf hin, dass diese Auskünfte eine erste Einschätzung sind. Bebauungspläne und sonstige Satzungen sind im Geoportal der Stadt einsehbar; Kenntnisgabeverfahren und Baulasten werden ebenfalls über das Kompetenzzentrum abgewickelt."
+      "text": "Für Bauvorhaben ist in Heidelberg das Amt für Baurecht und Denkmalschutz der Stadt Ansprechpartner. Dessen Bauberatung im Kompetenzzentrum Bauen-Wohnen-Förderung am Kornmarkt gibt vor der Antragstellung Auskunft zur Bebaubarkeit von Grundstücken, zu rechtskräftigen Bebauungsplänen, örtlichen Satzungen und zu den Verfahrensarten. Termine lassen sich online buchen, die Beratung findet in Präsenz oder digital statt. Die Stadt weist darauf hin, dass diese Auskünfte eine erste Einschätzung sind. Bebauungspläne und sonstige Satzungen sind im Geoportal der Stadt einsehbar; Kenntnisgabeverfahren und Baulasten werden ebenfalls über das Kompetenzzentrum abgewickelt."
     },
     {
       "h2": "Neckar, Bäche und Hanglagen: Gefahrenkarten vor dem Entwurf",
-      "text": "Für den Neckar, den Mühlbach, den Peterstaler Bach mit Steinbach sowie Leimbach und Landgraben liegen Hochwassergefahrenkarten vor, die zeigen, welche Flächen bei unterschiedlichen Hochwassern überflutet werden. Daneben hat die Stadt Starkregengefahrenkarten erstellen lassen; das außergewöhnliche Szenario lässt sich im Online-Stadtplan flurstücksgenau abrufen. Für einen Neubau in Hang- oder Tallage helfen diese Karten bei Entscheidungen über Höhenlage, Lichtschächte und Kellerabdichtung. Ein weiterer Punkt ist der Grundwasserschutz: Große Teile des Stadtgebiets sind Wasserschutzgebiet, und Erdwärmeanlagen sind beim Amt für Umweltschutz, Gewerbeaufsicht und Energie anzuzeigen und erlaubnispflichtig."
+      "text": "Für den Neckar, den Mühlbach, den Peterstaler Bach mit Steinbach sowie Leimbach und Landgraben liegen Hochwassergefahrenkarten vor, die zeigen, welche Flächen bei unterschiedlichen Hochwassern überflutet werden. Daneben hat die Stadt Starkregengefahrenkarten erstellen lassen; das außergewöhnliche Szenario lässt sich im Online-Stadtplan flurstücksgenau abrufen. Für einen Neubau in Hang- oder Tallage helfen diese Karten bei Entscheidungen über Höhenlage, Lichtschächte und Kellerabdichtung. Ein weiterer Punkt ist der Grundwasserschutz: Große Teile des Stadtgebiets sind Wasserschutzgebiet, und für Erdwärmeanlagen nennt die Stadt eine Anzeige- und Erlaubnispflicht; Auskunft gibt das Amt für Umweltschutz, Gewerbeaufsicht und Energie."
     },
     {
       "h2": "Grundstückswert und Planung: Bodenrichtwerte in Heidelberg",
@@ -47,7 +47,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Große Teile des Heidelberger Stadtgebiets sind als Wasserschutzgebiete ausgewiesen; Grundwasserbrunnen und Erdwärmeanlagen sind anzuzeigen und erlaubnispflichtig.",
+      "text": "Große Teile des Heidelberger Stadtgebiets sind als Wasserschutzgebiete ausgewiesen; für Grundwasserbrunnen und Erdwärmeanlagen nennt die Stadt eine Anzeige- und Erlaubnispflicht.",
       "quelle": "Stadt Heidelberg – Wasserversorgung und Grundwasserschutz",
       "url": "https://www.heidelberg.de/HD/Leben/Wasserversorgung+und+Grundwasserschutz.html",
       "abruf": "2026-10-02"
@@ -70,12 +70,13 @@
     },
     {
       "q": "Darf ich für meinen Neubau in Heidelberg eine Erdwärmesonde bohren?",
-      "a": "Erdwärmeanlagen sind in Heidelberg anzeige- und erlaubnispflichtig, weil große Teile der Stadt Wasserschutzgebiet sind. Zuständig ist das Amt für Umweltschutz, Gewerbeaufsicht und Energie."
+      "a": "Nach Angaben der Stadt sind Erdwärmeanlagen in Heidelberg anzeige- und erlaubnispflichtig; große Teile der Stadt sind Wasserschutzgebiet. Auskunft gibt das Amt für Umweltschutz, Gewerbeaufsicht und Energie."
     }
   ],
   "offen": [
     "Öffnungszeiten des Kompetenzzentrums (Di/Do) bewusst nicht genannt, da Momentangabe.",
     "Ob für Hochbau in Heidelberg eine Stellplatzsatzung gilt, wurde nicht recherchiert.",
-    "Baulandprogramm und Bauplatzvergabe der Stadt wurden nicht ausgewertet."
+    "Baulandprogramm und Bauplatzvergabe der Stadt wurden nicht ausgewertet.",
+    "QA 02.10.: Abgeleitete Zuständigkeitsaussage „über Bauanträge entscheidet das Amt für Baurecht und Denkmalschutz“ neutral als Ansprechpartner gefasst (Bauberatung gehört laut Kontaktangabe zu diesem Amt); Erdwärme-Pflichten als Angabe der Stadt formuliert."
   ]
 }

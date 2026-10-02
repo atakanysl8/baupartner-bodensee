@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Denkmalschutz innen: Raumaufteilung, Stuck, Türen und Böden",
-      "text": "In Heidelberg stehen rund 2900 Gebäude unter Denkmalschutz. Die Stadt stellt klar, dass das Denkmalschutzgesetz nicht nur das äußere, sondern auch das innere Erscheinungsbild eines Gebäudes erfasst: die historische Raumaufteilung und Ausstattung wie Stuckdecken, Friese, Türen, Lamperien, Treppen und Böden. Geschützt ist dabei die historisch bedeutsame Substanz. Ob eine Maßnahme im Einzelfall genehmigungspflichtig ist, entscheidet die untere Denkmalschutzbehörde im Amt für Baurecht und Denkmalschutz. Die Stadt betont, dass geplante Veränderungen vor der Ausführung abgestimmt werden müssen, wenn Förderungen oder steuerliche Vorteile nicht verloren gehen sollen. Ob ein Haus ein Kulturdenkmal ist, erfahren Sie im Bezirk Denkmalschutz des Amtes."
+      "text": "In Heidelberg stehen rund 2900 Gebäude unter Denkmalschutz. Die Stadt stellt klar, dass das Denkmalschutzgesetz nicht nur das äußere, sondern auch das innere Erscheinungsbild eines Gebäudes erfasst: die historische Raumaufteilung und Ausstattung wie Stuckdecken, Friese, Türen, Lamperien, Treppen und Böden. Geschützt ist dabei die historisch bedeutsame Substanz. Auskunft, ob eine Maßnahme im Einzelfall genehmigungspflichtig ist, gibt das Amt für Baurecht und Denkmalschutz der Stadt. Ob ein Haus ein Kulturdenkmal ist, erfahren Sie im Bezirk Denkmalschutz des Amtes."
     },
     {
       "h2": "Gesamtanlage Alt-Heidelberg: wenn der Innenausbau nach außen wirkt",
-      "text": "Altstadt und Weststadt sind als Gesamtanlagen geschützt, und zwar auch bei Häusern, die selbst kein Kulturdenkmal sind. In der Gesamtanlage Alt-Heidelberg betrifft das vor allem das äußere Bild: Veränderungen an Dachdeckung und Fassade, also an Fenstern, Türen, Fensterläden, Putz und Farbe, sind genehmigungspflichtig, auch wenn sie sonst keine Baugenehmigung bräuchten. Für einen Dachausbau mit neuen Dachfenstern oder einen Fenstertausch im Zuge der Modernisierung ist das deshalb früh zu klären. Hinzu kommen Erhaltungssatzungen, etwa für Handschuhsheim, die Weststadt und den alten Dorfkern von Neuenheim."
+      "text": "Altstadt und Weststadt sind als Gesamtanlagen geschützt, und zwar auch bei Häusern, die selbst kein Kulturdenkmal sind. In der Gesamtanlage Alt-Heidelberg betrifft das vor allem das äußere Bild: Für Veränderungen an Dachdeckung und Fassade, also an Fenstern, Türen, Fensterläden, Putz und Farbe, sieht die Satzung eine Genehmigung der unteren Denkmalschutzbehörde vor. Bei einem Dachausbau mit neuen Dachfenstern oder einem Fenstertausch im Zuge der Modernisierung spielt das deshalb früh eine Rolle. Hinzu kommen Erhaltungssatzungen, etwa für Handschuhsheim, die Weststadt und den alten Dorfkern von Neuenheim."
     },
     {
       "h2": "Beratung vor dem Umbau: Kompetenzzentrum und Energieberatung",
@@ -62,11 +62,11 @@
   "faq": [
     {
       "q": "Gilt der Denkmalschutz in Heidelberg auch für die Innenräume?",
-      "a": "Ja, nach Angabe der Stadt erfasst er auch das innere Erscheinungsbild, etwa Raumaufteilung, Stuck, Türen, Treppen und Böden. Ob eine konkrete Maßnahme genehmigungspflichtig ist, entscheidet die untere Denkmalschutzbehörde."
+      "a": "Ja, nach Angabe der Stadt erfasst er auch das innere Erscheinungsbild, etwa Raumaufteilung, Stuck, Türen, Treppen und Böden. Ob eine konkrete Maßnahme genehmigungspflichtig ist, beantwortet das Amt für Baurecht und Denkmalschutz."
     },
     {
       "q": "Mein Altstadthaus ist kein Denkmal – brauche ich für neue Fenster trotzdem eine Genehmigung?",
-      "a": "In der Gesamtanlage Alt-Heidelberg sind Veränderungen an Fenstern und Fassaden grundsätzlich genehmigungspflichtig, auch bei Gebäuden, die kein Kulturdenkmal sind. Auskunft gibt das Amt für Baurecht und Denkmalschutz."
+      "a": "Die Gesamtanlagenschutzsatzung Alt-Heidelberg sieht für Veränderungen an Fenstern und Fassaden grundsätzlich eine Genehmigung vor, auch bei Gebäuden, die kein Kulturdenkmal sind. Auskunft gibt das Amt für Baurecht und Denkmalschutz."
     },
     {
       "q": "Wo erfahre ich, ob mein Heidelberger Haus ein Kulturdenkmal ist?",
@@ -77,6 +77,7 @@
     "Das kommunale Förderprogramm „Stadtbildpflege und Denkmalschutz“ ist laut Stadtseite ausgesetzt („bis vermutlich Ende 2025“); Status 2026 unklar, deshalb nicht genannt.",
     "Inhalt der Erhaltungssatzungen (Handschuhsheim, Weststadt, Neuenheim) und der Gesamtanlagenschutzsatzung Weststadt nicht im Detail ausgewertet.",
     "Brandschutz-Zuständigkeit nicht recherchiert.",
-    "Aussage zur geringen Kriegszerstörung stammt von der Denkmalschutzseite der Stadt; Stadtteilnennungen im Einstieg nicht einzeln belegt."
+    "Aussage zur geringen Kriegszerstörung stammt von der Denkmalschutzseite der Stadt; Stadtteilnennungen im Einstieg nicht einzeln belegt.",
+    "QA 02.10.: Satz zu Abstimmungspflicht und Verlust von Förderungen/Steuervorteilen entfernt (Rechtsfolge/Handlungsanweisung); Entscheidungszuständigkeit der unteren Denkmalschutzbehörde neutral als Auskunft des Amts gefasst; Genehmigungspflicht in der Gesamtanlage als Satzungswiedergabe formuliert."
   ]
 }

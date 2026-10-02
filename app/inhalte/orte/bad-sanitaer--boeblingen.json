@@ -14,7 +14,7 @@
     },
     {
       "h2": "Rückstauebene Straßenoberkante: Kellerbäder in Böblingen absichern",
-      "text": "Abwasser ist in Böblingen Sache des Eigenbetriebs Stadtentwässerung Böblingen (SEBB). Er weist darauf hin, dass nach der Entwässerungssatzung der Stadt die Straßenoberkante als maximale Rückstauebene gilt. Alle Abläufe darunter, also auch Dusche, WC oder Waschmaschine im Untergeschoss, sind bei einer Überlastung des Kanals gefährdet. Wer ein Bad im Keller plant, bezieht die Rückstausicherung deshalb sinnvollerweise von Anfang an ein. Auf den Starkregen-Gefahrenkarten der SEBB lässt sich zudem prüfen, ob das Grundstück bei Starkregen gefährdet ist."
+      "text": "Ansprechpartner für das Abwasser ist in Böblingen die Stadtentwässerung Böblingen (SEBB). Sie weist darauf hin, dass nach der Entwässerungssatzung der Stadt die Straßenoberkante als maximale Rückstauebene gilt. Alle Abläufe darunter, also auch Dusche, WC oder Waschmaschine im Untergeschoss, sind bei einer Überlastung des Kanals gefährdet. Wer ein Bad im Keller plant, bezieht die Rückstausicherung deshalb sinnvollerweise von Anfang an ein. Auf den Starkregen-Gefahrenkarten der SEBB lässt sich zudem prüfen, ob das Grundstück bei Starkregen gefährdet ist."
     },
     {
       "h2": "Bad fürs Älterwerden: Fachstelle LiA und Pflegestützpunkt in Böblingen",
@@ -82,6 +82,7 @@
   "offen": [
     "Die Trinkwasseranalyse der Stadtwerke Böblingen (PDF) ist ein Scan und konnte nicht ausgelesen werden; Härteangabe stützt sich auf die Webseite (Bereich 8,4–14 °dH, ohne genauen Messwert).",
     "Ob die Stadtentwässerung für Bad-Umbauten einen Entwässerungsantrag verlangt, wurde nicht geprüft.",
-    "Dass die Erstberatung der Energieagentur auch Warmwasserspeicher abdeckt, ist nicht ausdrücklich belegt; die Stadt verlinkt sie nur unter Energie/Sanierung."
+    "Dass die Erstberatung der Energieagentur auch Warmwasserspeicher abdeckt, ist nicht ausdrücklich belegt; die Stadt verlinkt sie nur unter Energie/Sanierung.",
+    "QA 02.10.: Zuständigkeitsbehauptung „Sache des Eigenbetriebs“ ohne wörtlichen Beleg neutral als „Ansprechpartner“ gefasst."
   ]
 }

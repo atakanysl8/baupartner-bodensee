@@ -14,7 +14,7 @@
     },
     {
       "h2": "Kellerbad und Abwassersatzung: Rückstauebene beachten",
-      "text": "Die Ludwigsburger Abwassersatzung ist bei Kellerbädern deutlich: Toiletten, Bodenabläufe, Duschen und Waschbecken unterhalb der Rückstauebene sichert der Grundstückseigentümer auf eigene Kosten gegen Rückstau. Als Rückstauebene gilt die Straßenoberfläche an der Anschlussstelle. Herstellung und Änderung der Grundstücksentwässerung bedürfen nach der Satzung einer schriftlichen Genehmigung der Stadt, im Antrag sind auch Rückstauverschlüsse einzuzeichnen. Die Stadt stellt dazu einen Flyer „Rückstau von Abwasser“ bereit. Wer im Keller umbaut, sollte außerdem den Baugrund im Blick haben: Grund- und Sickerwasser dürfen nach Angaben der Stadt nicht über Drainagen in den Kanal geleitet werden."
+      "text": "Die Ludwigsburger Abwassersatzung ist bei Kellerbädern deutlich: Sie sieht vor, dass der Grundstückseigentümer Toiletten, Bodenabläufe, Duschen und Waschbecken unterhalb der Rückstauebene auf eigene Kosten gegen Rückstau sichert. Als Rückstauebene gilt die Straßenoberfläche an der Anschlussstelle. Für Herstellung und Änderung der Grundstücksentwässerung sieht die Satzung eine schriftliche Genehmigung der Stadt vor; zum Antrag gehören danach auch die eingezeichneten Rückstauverschlüsse. Die Stadt stellt dazu einen Flyer „Rückstau von Abwasser“ bereit. Bei Umbauten im Keller spielt außerdem der Baugrund eine Rolle: Nach Angaben der Stadt wird Grund- und Sickerwasser nicht über Drainagen in den Kanal geleitet."
     },
     {
       "h2": "Barrierearm umbauen: Pflegestützpunkt und Seniorenbüro",
@@ -35,7 +35,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Nach § 17 der Abwassersatzung sind Toiletten, Bodenabläufe, Spülen und Waschbecken unterhalb der Rückstauebene vom Grundstückseigentümer auf seine Kosten gegen Rückstau zu sichern.",
+      "text": "§ 17 der Abwassersatzung sieht vor, dass der Grundstückseigentümer Toiletten, Bodenabläufe, Spülen und Waschbecken unterhalb der Rückstauebene auf seine Kosten gegen Rückstau sichert.",
       "quelle": "Stadt Ludwigsburg – Abwassersatzung ab 2025",
       "url": "https://www.ludwigsburg.de/site/Ludwigsburg-Internet-2020/get/params_E-811307834/23398778/Abwassersatzung_ab_2025.pdf",
       "abruf": "2026-10-02"
@@ -66,7 +66,7 @@
     },
     {
       "q": "Was verlangt die Ludwigsburger Abwassersatzung bei einem Bad im Keller?",
-      "a": "Entwässerungsgegenstände unterhalb der Rückstauebene sind nach der Satzung gegen Rückstau zu sichern. Ob für den Umbau eine Genehmigung der Grundstücksentwässerung nötig ist, beantwortet die Stadtentwässerung Ludwigsburg."
+      "a": "Die Satzung sieht eine Sicherung gegen Rückstau für Entwässerungsgegenstände unterhalb der Rückstauebene vor. Ob für den Umbau eine Genehmigung der Grundstücksentwässerung nötig ist, beantwortet die Stadtentwässerung Ludwigsburg."
     },
     {
       "q": "Wer berät in Ludwigsburg neutral zum barrierefreien Bad?",
@@ -76,6 +76,7 @@
   "offen": [
     "Zuständige Stelle für Entwässerungsgenehmigungen als „Stadtentwässerung Ludwigsburg (SEL)“ aus städtischen Dokumenten (Baugrund-Infoblatt, SEL-Formulare) abgeleitet; eigene SEL-Seite nicht geprüft.",
     "Ortsteilnennungen im Einstieg (Südstadt, Oßweil) nur über Erhaltungssatzungs-Seite belegt, nicht als Fakt aufgeführt.",
-    "Ob das Seniorenbüro selbst die Wohnberatung durchführt oder ehrenamtliche Wohnberater vermittelt, nur aus Seitentext („Haupt- und Ehrenamtliche“) übernommen."
+    "Ob das Seniorenbüro selbst die Wohnberatung durchführt oder ehrenamtliche Wohnberater vermittelt, nur aus Seitentext („Haupt- und Ehrenamtliche“) übernommen.",
+    "QA 02.10.: Satzungspflichten (Rückstausicherung, Genehmigung, Antragsinhalt) als Wiedergabe der Satzung formuliert; „Wer im Keller umbaut, sollte …“ neutral gefasst."
   ]
 }

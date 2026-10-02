@@ -14,7 +14,7 @@
     },
     {
       "h2": "Kellerbad und Hausanschluss: Was die Stadtentwässerung vorgibt",
-      "text": "In Freiburg gehören Kanalanschlüsse und Entwässerungseinrichtungen im Haus den Eigentümern; nach Angaben des Eigenbetriebs Stadtentwässerung (ESE) gibt es doppelt so viele private wie öffentliche Abwasserkanäle. Als Rückstauebene gilt hier die Höhe von 10 cm über der endgültigen Straßenoberkante an der Anschlussstelle. Dusche, WC oder Waschbecken darunter, etwa in einem Souterrain- oder Kellerbad, sind gegen Rückstau zu sichern, zum Beispiel mit Rückstauverschluss oder Hebeanlage. Werden bestehende Entwässerungsanlagen nur instand gesetzt, genügt nach der Stadtentwässerungssatzung grundsätzlich eine Anzeige; bei Neubauten ist ein Entwässerungsantrag üblich. Die Beratung übernimmt im Auftrag des ESE dessen Dienstleister unter einer kostenlosen Rufnummer."
+      "text": "In Freiburg gehören Kanalanschlüsse und Entwässerungseinrichtungen im Haus den Eigentümern; nach Angaben des Eigenbetriebs Stadtentwässerung (ESE) gibt es doppelt so viele private wie öffentliche Abwasserkanäle. Als Rückstauebene gilt hier die Höhe von 10 cm über der endgültigen Straßenoberkante an der Anschlussstelle. Für Dusche, WC oder Waschbecken darunter sieht die Stadtentwässerung eine Sicherung gegen Rückstau vor, zum Beispiel mit Rückstauverschluss oder Hebeanlage. Werden bestehende Entwässerungsanlagen nur instand gesetzt, genügt nach der Stadtentwässerungssatzung grundsätzlich eine Anzeige; bei Neubauten ist ein Entwässerungsantrag üblich. Die Beratung übernimmt im Auftrag des ESE dessen Dienstleister unter einer kostenlosen Rufnummer."
     },
     {
       "h2": "Barrierearm umbauen und Warmwasser mitdenken",
@@ -29,7 +29,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Als Rückstauebene gilt in Freiburg die Höhe von 10 cm über der endgültigen Straßenoberkante an der Anschlussstelle; Entwässerungsgegenstände darunter sind gegen Rückstau zu sichern.",
+      "text": "Als Rückstauebene gilt in Freiburg die Höhe von 10 cm über der endgültigen Straßenoberkante an der Anschlussstelle; Entwässerungsgegenstände darunter sind nach Angaben des ESE gegen Rückstau zu sichern.",
       "quelle": "Eigenbetrieb Stadtentwässerung Freiburg – Rückstauebene",
       "url": "https://www.ese.freiburg.de/pb/620558.html",
       "abruf": "2026-10-02"
@@ -70,6 +70,8 @@
   "offen": [
     "Wasserversorger ist die badenova Netze GmbH (Konzessionsnehmerin der Stadt, keine Stadtwerke im engeren Sinn); im Fließtext daher nur „Wasserversorger“, in den Quellenfeldern mit Namen. Bitte prüfen, ob die Nennung im Quellenfeld so in Ordnung ist.",
     "Welche Stadtteile zu welchem der vier Versorgungsbereiche gehören, ist nur über die Adresssuche abrufbar und wurde nicht im Einzelnen geprüft.",
-    "Ortsteilnennungen im Einstieg (Wiehre, Littenweiler) sind nicht durch eine Fakt-Quelle belegt."
+    "Ortsteilnennungen im Einstieg (Wiehre, Littenweiler) sind nicht durch eine Fakt-Quelle belegt.",
+    "QA 02.10.: Rückstau-Pflicht in Abschnitt 2 und Fakt 2 als Angabe der Stadtentwässerung gefasst.",
+    "QA 02.10.: Beispiel Souterrain-/Kellerbad gestrichen (Wortgrenze 600)."
   ]
 }

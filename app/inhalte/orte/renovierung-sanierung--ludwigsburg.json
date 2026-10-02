@@ -10,16 +10,16 @@
   "abschnitte": [
     {
       "h2": "Sanierungsgebiete und Förderung für das historische Stadtbild",
-      "text": "Ludwigsburg nutzt die Städtebauförderung seit ihren Anfängen 1971; nach Angaben der Stadt wurden seither in 28 Sanierungsgebieten Maßnahmen umgesetzt. Aktuelle Gebiete sind unter anderem die Zentrale Innenstadt Entwicklung (ZIEL), der Ortskern Oßweil, die Jägerhofkaserne, der Bereich Grünbühl, Sonnenberg und Karlshöhe sowie die Östliche Innenstadt. Für private Eigentümer gibt es eigene Richtlinien zur Förderung privater Sanierungsmaßnahmen. Wer ein Kulturdenkmal besitzt oder in der Barocken Innenstadt eine Fassade erneuert, kann außerdem das städtische Förderprogramm für Kulturdenkmale und Fassadensanierung prüfen; es ist eine freiwillige Leistung im Rahmen der Haushaltsmittel. Das Platz- und Straßenbild am Marktplatz steht seit 1983 als Gesamtanlage unter Denkmalschutz."
+      "text": "Ludwigsburg nutzt die Städtebauförderung seit ihren Anfängen 1971; nach Angaben der Stadt wurden seither in 28 Sanierungsgebieten Maßnahmen umgesetzt. Zu den Sanierungsgebieten zählen unter anderem die Zentrale Innenstadt Entwicklung (ZIEL), der Ortskern Oßweil, die Jägerhofkaserne, der Bereich Grünbühl, Sonnenberg und Karlshöhe sowie die Östliche Innenstadt. Für Kulturdenkmale und Fassaden in der Barocken Innenstadt hat die Stadt zudem ein Förderprogramm für Kulturdenkmale und Fassadensanierung; es ist eine freiwillige Leistung im Rahmen der Haushaltsmittel, über die aktuellen Bedingungen informiert die Stadt. Das Platz- und Straßenbild am Marktplatz steht seit 1983 als Gesamtanlage unter Denkmalschutz."
     },
     {
       "h2": "Energetisch sanieren: Wärmebilder, Wärmeplan und neutrale Beratung",
-      "text": "Für den Einstieg bietet die Stadt mit CLIMAP kostenlose Wärmebildaufnahmen und einen Energiebericht für das eigene Gebäude an. Welche Heizung später passt, zeigt die kommunale Wärmeplanung: Den Ausbau der Fernwärme treiben die Stadtwerke voran, eine gemeinsame Wärme-Website von Ludwigsburg, Kornwestheim und SWLB zeigt in einer Karte, wann welche Straße an der Reihe ist. Neutral berät die Energieagentur Kreis Ludwigsburg (LEA) in einer kostenlosen Einstiegsberatung. Wer es schnell mag, findet bei der Stadt Informationen zum Sanierungssprint, einer Komplettsanierung zum Effizienzhaus in 22 Werktagen. Steht Ihr Sanierungskonzept, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Für den Einstieg bietet die Stadt mit CLIMAP kostenlose Wärmebildaufnahmen und einen Energiebericht für das eigene Gebäude an. Welche Heizung später passt, zeigt die kommunale Wärmeplanung: Den Ausbau der Fernwärme treiben die Stadtwerke voran, eine gemeinsame Wärme-Website von Ludwigsburg, Kornwestheim und SWLB zeigt in einer Karte, wann welche Straße an der Reihe ist. Neutral berät die Energieagentur Kreis Ludwigsburg (LEA) in einer kostenlosen Einstiegsberatung. Außerdem informiert die Stadt über den Sanierungssprint, nach ihrer Darstellung eine Komplettsanierung zum Effizienzhaus in 22 Werktagen. Steht Ihr Sanierungskonzept, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
     {
-      "text": "Seit Beginn der Städtebauförderung 1971 wurden in Ludwigsburg in 28 Sanierungsgebieten Maßnahmen realisiert; investiert wurden weit über 100 Millionen Euro an Städtebaufördermitteln.",
+      "text": "Seit Beginn der Städtebauförderung 1971 wurden in Ludwigsburg in 28 Sanierungsgebieten Maßnahmen realisiert.",
       "quelle": "Stadt Ludwigsburg – Stadterneuerung und Stadtsanierung",
       "url": "https://www.ludwigsburg.de/start/stadt+entwickeln/stadterneuerung+und+stadtsanierung.html",
       "abruf": "2026-10-02"
@@ -78,6 +78,7 @@
   "offen": [
     "Inhalt der „Richtlinien für die Förderung privater Sanierungsmaßnahmen“ (Flyer 2010) nicht geöffnet; nur Existenz in Stadtrecht-Liste geprüft, Aktualität unklar.",
     "Städtisches Klimaförderprogramm Wohnen laut Stadt ausgeschöpft; nicht erwähnt.",
-    "Liste der Sanierungsgebiete entspricht Stand der Stadtseite; Poppenweiler und Neckarweihingen sind ausgelaufen und daher weggelassen."
+    "Liste der Sanierungsgebiete entspricht Stand der Stadtseite; Poppenweiler und Neckarweihingen sind ausgelaufen und daher weggelassen.",
+    "QA 02.10.: Hinweis auf „Richtlinien zur Förderung privater Sanierungsmaßnahmen“ entfernt (Flyer 2010, nicht geöffnet, Aktualität unklar); Fördervolumen „über 100 Millionen Euro“ aus Fakt entfernt (Förderbeträge nicht im sichtbaren Text); „Aktuelle Gebiete“ neutral gefasst; Förderprogramm Kulturdenkmale mit Verweis auf die Stadt; „Wer es schnell mag“ (Werbeton) neutral gefasst."
   ]
 }

@@ -14,7 +14,7 @@
     },
     {
       "h2": "Arbeiten am Hausanschluss: was die Göppinger Abwassersatzung vorsieht",
-      "text": "Werden beim Umbau Leitungen bis zum Grundstücksanschluss erneuert oder verlegt, ist die städtische Abwassersatzung zu beachten. Sie sieht vor, dass Änderungs- und Erneuerungsarbeiten an privaten Grundstücksanschlüssen der Stadt mindestens 14 Tage vorher angezeigt werden und dass Grundstücksentwässerungsanlagen erst nach Zustimmung der Stadt in Betrieb gehen. Als Rückstauebene gilt in der Regel die Straßenoberfläche an der Anschlussstelle; Toiletten, Bodenabläufe oder Waschbecken darunter sind gegen Rückstau zu sichern. Gerade beim Bad im Untergeschoss lohnt es sich, Hebeanlage oder Rückstauverschluss von Anfang an einzuplanen. Auskunft zur Abwasserbeseitigung gibt die Stadt Göppingen mit ihrem Eigenbetrieb Stadtentwässerung."
+      "text": "Werden beim Umbau Leitungen bis zum Grundstücksanschluss erneuert oder verlegt, greift die städtische Abwassersatzung. Sie sieht vor, dass Änderungs- und Erneuerungsarbeiten an privaten Grundstücksanschlüssen der Stadt mindestens 14 Tage vorher angezeigt werden und dass Grundstücksentwässerungsanlagen erst nach Zustimmung der Stadt in Betrieb gehen. Als Rückstauebene gilt in der Regel die Straßenoberfläche an der Anschlussstelle; für Toiletten, Bodenabläufe oder Waschbecken darunter sieht die Satzung eine Sicherung gegen Rückstau vor. Gerade beim Bad im Untergeschoss lohnt es sich, Hebeanlage oder Rückstauverschluss von Anfang an einzuplanen. Auskunft zur Abwasserbeseitigung gibt die Stadt Göppingen."
     },
     {
       "h2": "Altersgerecht umbauen: Beratung in Göppingen",
@@ -83,6 +83,7 @@
     "Die °dH-Werte stammen aus einer tabellarischen PDF-Analyse, deren Spaltenzuordnung nach Textextraktion erfolgte (13,4 = Landeswasser, 15,1 = Eigenwasser WW Göppingen); bitte im PDF gegenprüfen.",
     "Der Wasserversorger (Energieversorgung Filstal) ist im Text nur als „örtlicher Versorger“ bezeichnet, da nicht geprüft wurde, ob er als Stadtwerk gilt; in den Quellenangaben steht der Name.",
     "Die Rolle des Eigenbetriebs Stadtentwässerung Göppingen (SEG) als Ansprechpartner ist aus dessen Betriebssatzung im Stadtrecht abgeleitet; eine eigene Website wurde nicht gefunden.",
-    "Ortsteilnennung „Innenstadt“ im Einstieg ist allgemein; Manzen und Hohenstaufen sind durch die EVF-Quelle belegt."
+    "Ortsteilnennung „Innenstadt“ im Einstieg ist allgemein; Manzen und Hohenstaufen sind durch die EVF-Quelle belegt.",
+    "QA 02.10.: Nur abgeleitete Rolle des Eigenbetriebs Stadtentwässerung aus dem Text entfernt; Satzungspflichten als Wiedergabe gefasst. Härtewerte im PDF gegengelesen (13,4 Landeswasser, 15,1 Eigenwasser WW Göppingen) – stimmen."
   ]
 }

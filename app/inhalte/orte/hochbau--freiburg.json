@@ -6,11 +6,11 @@
   "title": "Bauunternehmen Freiburg – kostenlos vermittelt",
   "description": "Neubau, Anbau oder Mehrfamilienhaus in Freiburg: Beratungszentrum Bauen, Stellplatzzonen, Dietenbach und Bodenrichtwerte. Bauunternehmen kostenlos vermittelt.",
   "h1": "Bauunternehmen in Freiburg",
-  "einstieg": "Bauland ist in Freiburg begehrt, und wer hier neu baut, erweitert oder ein Mehrfamilienhaus plant, bewegt sich zwischen engen Bestandsquartieren, dem neuen Stadtteil Dietenbach und eigenen städtischen Energie- und Stellplatzvorgaben. Als Stadtkreis ist Freiburg selbst Baurechtsbehörde; Bauanträge laufen also über die Stadtverwaltung und nicht über ein Landratsamt.",
+  "einstieg": "Bauland ist in Freiburg begehrt, und wer hier neu baut, erweitert oder ein Mehrfamilienhaus plant, bewegt sich zwischen engen Bestandsquartieren, dem neuen Stadtteil Dietenbach und eigenen städtischen Energie- und Stellplatzvorgaben. Bauanträge nimmt in Freiburg die Stadtverwaltung selbst entgegen.",
   "abschnitte": [
     {
       "h2": "Beratungszentrum Bauen im Rathaus im Stühlinger",
-      "text": "Erste Anlaufstelle für private Bauherren ist das Beratungszentrum Bauen (BZB) im Rathaus im Stühlinger. Dort gibt es Auskünfte und Unterlagen zum Grundstück, Erstinformationen zu Bebauungsplänen, Baulasten, Denkmalschutz und Altlasten, und Anträge können abgegeben werden. Wer schon konkrete Vorstellungen hat, kann eine vertiefte Beratung vor der Antragstellung durch das Baurechtsamt bekommen; das BZB klärt zunächst den Beratungsbedarf. Digitale Bauanträge nimmt die Stadt ausschließlich über das Virtuelle Bauamt Baden-Württemberg entgegen. Privatpersonen melden sich dort mit BundID und Online-Ausweis oder mit ihrem ELSTER-Konto an. Laufende Bauleitpläne und Beteiligungen veröffentlicht die Stadt in einem eigenen Online-Portal."
+      "text": "Erste Anlaufstelle für private Bauherren ist das Beratungszentrum Bauen (BZB) im Rathaus im Stühlinger. Dort gibt es Auskünfte und Unterlagen zum Grundstück, Erstinformationen zu Bebauungsplänen, Baulasten, Denkmalschutz und Altlasten, und Anträge können abgegeben werden. Wer schon konkrete Vorstellungen hat, kann eine vertiefte Beratung vor der Antragstellung durch das Baurechtsamt bekommen; das BZB klärt zunächst den Beratungsbedarf. Digitale Bauanträge nimmt die Stadt ausschließlich über das Virtuelle Bauamt Baden-Württemberg entgegen. Laufende Bauleitpläne und Beteiligungen veröffentlicht die Stadt in einem eigenen Online-Portal."
     },
     {
       "h2": "Stellplätze nach Zonen: Was die Freiburger Satzung verlangt",
@@ -56,7 +56,7 @@
   "faq": [
     {
       "q": "Wo reiche ich in Freiburg einen Bauantrag ein?",
-      "a": "Zuständig ist das Baurechtsamt der Stadt. Anträge können im Beratungszentrum Bauen im Rathaus im Stühlinger abgegeben oder digital über das Virtuelle Bauamt Baden-Württemberg eingereicht werden."
+      "a": "Bauanträge nimmt die Stadt Freiburg entgegen. Sie können im Beratungszentrum Bauen im Rathaus im Stühlinger abgegeben oder digital über das Virtuelle Bauamt Baden-Württemberg eingereicht werden."
     },
     {
       "q": "Gilt die Freiburger Stellplatzsatzung auch für ein Einfamilienhaus?",
@@ -71,6 +71,8 @@
     "Zeitplan der Dietenbach-Vermarktung (Vergabeentscheidung Gemeinderat 8.12.2026) bewusst weggelassen (datierte Angabe).",
     "„Bauland ist in Freiburg begehrt“ im Einstieg ist eine allgemeine Einschätzung ohne Fakt-Quelle.",
     "Stellplatzschlüssel für geförderte Wohnungen und Zone 4 nur verkürzt wiedergegeben (Zone 4 frei finanziert laut Stadt nicht durch die Satzung geregelt).",
-    "Angaben zum Virtuellen Bauamt (BundID/ELSTER) belegt durch https://www.freiburg.de/pb/1791809.html; Fakt wegen Wortgrenze 600 entfernt."
+    "Angaben zum Virtuellen Bauamt (BundID/ELSTER) belegt durch https://www.freiburg.de/pb/1791809.html; Fakt wegen Wortgrenze 600 entfernt.",
+    "QA 02.10.: Abgeleitete Aussage „als Stadtkreis selbst Baurechtsbehörde … nicht über ein Landratsamt“ (Einstieg, FAQ 1) neutral gefasst.",
+    "QA 02.10.: Satz zu BundID/ELSTER gestrichen (Wortgrenze 600; zugehöriger Fakt war bereits entfernt)."
   ]
 }

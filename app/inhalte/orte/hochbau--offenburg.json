@@ -67,8 +67,8 @@
   ],
   "faq": [
     {
-      "q": "Wo reiche ich in Offenburg einen Bauantrag ein?",
-      "a": "Zuständig ist die Abteilung Baurecht der Stadt im BürgerBüroBauen, Wilhelmstraße 12. Dort gibt es auch eine Bauberatung zur Bebaubarkeit."
+      "q": "Wo finde ich in Offenburg Ansprechpartner zum Bauantrag?",
+      "a": "Im BürgerBüroBauen in der Wilhelmstraße 12 sitzt die Abteilung Baurecht der Stadt. Dort informiert auch die Bauberatung über Bebaubarkeit und Baugenehmigung."
     },
     {
       "q": "Wie erfahre ich von neuen städtischen Bauplätzen in Offenburg?",
@@ -82,6 +82,7 @@
   "offen": [
     "Einstieg: „Offenburg wächst“ und Konversionsflächen sind aus den Projektseiten der Stadtplanung abgeleitet, aber nicht als Fakt belegt.",
     "Hochwasser-/Starkregenkarten für Offenburg (Kinzig) nicht gefunden; die Stadtseite verlinkt nur auf Landesportale.",
-    "Dass die Abteilung Baurecht Baurechtsbehörde (Große Kreisstadt) ist, steht nicht wörtlich auf der Seite."
+    "Dass die Abteilung Baurecht Baurechtsbehörde (Große Kreisstadt) ist, steht nicht wörtlich auf der Seite.",
+    "QA 02.10.: FAQ-Zuständigkeitsbehauptung („Zuständig ist die Abteilung Baurecht“) neutral gefasst, da Baurechtsbehörde nicht wörtlich belegt."
   ]
 }

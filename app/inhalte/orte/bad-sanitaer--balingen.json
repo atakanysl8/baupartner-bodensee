@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Von 8 bis 17 °dH: Wasserhärte nach Stadtteil",
-      "text": "Laut Wasserhärteplan der Stadtwerke Balingen erhält die Kernstadt überwiegend Mischwasser mit großem Anteil aus dem Zweckverband Wasserversorgung Zollernalb und der Bodensee-Wasserversorgung, mit 11 bis 13 °dH. Weilstetten und Roßwangen werden von der Hohenberggruppe beliefert und liegen mit 8 bis 11 °dH am weichsten. Teile von Erzingen, Endingen, Ostdorf und Engstlatt hängen am Zweckverband Hohenzollern mit 13 bis 16 °dH, während etwa Heselwangen, Stockenhausen, Zillhausen und Streichen Mischwasser mit geringem Bodenseeanteil und 15 bis 17 °dH bekommen. Für das neue Bad heißt das: In den härteren Lagen lohnt es sich, pflegeleichte Oberflächen und gut zugängliche Armaturen einzuplanen. Auskunft zur eigenen Adresse gibt das Technische Management der Stadtwerke."
+      "text": "Laut Wasserhärteplan der Stadtwerke Balingen erhält die Kernstadt überwiegend Mischwasser mit großem Anteil aus dem Zweckverband Wasserversorgung Zollernalb und der Bodensee-Wasserversorgung, mit 11 bis 13 °dH. Weilstetten und Roßwangen werden von der Hohenberggruppe beliefert und liegen mit 8 bis 11 °dH am weichsten. Teile von Erzingen, Endingen, Ostdorf und Engstlatt hängen am Zweckverband Hohenzollern mit 13 bis 16 °dH, während etwa Heselwangen, Stockenhausen, Zillhausen und Streichen Mischwasser mit geringem Bodenseeanteil und 15 bis 17 °dH bekommen. In den härteren Lagen lohnen sich pflegeleichte Oberflächen und gut zugängliche Armaturen. Auskunft zur eigenen Adresse gibt das Technische Management der Stadtwerke."
     },
     {
       "h2": "Vor dem Umbau: Entwässerungspläne und Sanierungsgebiet prüfen",
@@ -76,6 +76,8 @@
   "offen": [
     "Zuordnung der Stadtteile zu den Härtezonen ist aus der Karte (Wasserhärteplan) abgelesen; die Zonen schneiden teils durch Stadtteile, daher im Text mit „Teile von“ bzw. „etwa“ formuliert.",
     "Ob es in Balingen eine eigene Wohnberatung (ehrenamtlich) gibt, wurde nicht gefunden.",
-    "Hinweise der Stadt oder Stadtwerke zur Rückstausicherung wurden nicht gefunden; Thema im Text nicht behandelt."
+    "Hinweise der Stadt oder Stadtwerke zur Rückstausicherung wurden nicht gefunden; Thema im Text nicht behandelt.",
+    "QA 02.10.: Wasserhärteplan (Karte) gegengelesen: Legendenwerte und Zuordnung Weilstetten/Roßwangen, Heselwangen/Stockenhausen/Zillhausen/Streichen sowie Teile von Erzingen/Endingen/Ostdorf/Engstlatt stimmen; keine Textänderung.",
+    "QA 02.10.: Satz zur Badplanung in Abschnitt 1 gekürzt (Wortgrenze 600)."
   ]
 }

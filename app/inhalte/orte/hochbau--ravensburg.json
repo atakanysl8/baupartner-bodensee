@@ -14,7 +14,7 @@
     },
     {
       "h2": "Bauen am Hang: Starkregen und Sturzfluten",
-      "text": "Die Stadt beschreibt die Region als Gebiet mit vielen Hanglagen, in denen bei Starkregen sogenannte Sturzfluten mit hohen Strömungskräften entstehen können. Treibgut und Geröll sammeln sich dann an Verdolungen, Brücken oder Zäunen; der Rückstau überflutet das umliegende Gelände. Für ein Bauvorhaben am Hang oder in einer Senke gehören Geländemodellierung, Kellerabdichtung, Lichtschächte und die Lage von Eingängen deshalb früh in die Planung. Die Stadt erarbeitet für das gesamte Stadtgebiet ein Starkregenrisikomanagement; dazu wurde das Gebiet in drei Teilgebiete aufgeteilt, für die Gefahrenkarten und Risikoanalysen entstehen."
+      "text": "Die Stadt beschreibt die Region als Gebiet mit vielen Hanglagen, in denen bei Starkregen sogenannte Sturzfluten mit hohen Strömungskräften entstehen können. Treibgut und Geröll sammeln sich dann an Verdolungen, Brücken oder Zäunen; der Rückstau überflutet das umliegende Gelände. Für ein Bauvorhaben am Hang oder in einer Senke gehören Geländemodellierung, Kellerabdichtung, Lichtschächte und die Lage von Eingängen deshalb früh in die Planung. 2024 hat die Stadt beschlossen, für das gesamte Stadtgebiet ein Starkregenrisikomanagement zu erarbeiten; dazu wurde das Gebiet in drei Teilgebiete aufgeteilt, für die Gefahrenkarten und Risikoanalysen vorgesehen sind."
     },
     {
       "h2": "Grundstückswerte, Stadtsanierung und städtische Grundstücke",
@@ -47,7 +47,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Nach Angaben der Stadt können in der Region mit vielen Hanglagen bei Starkregen Sturzfluten entstehen; für das in drei Teilgebiete aufgeteilte Stadtgebiet wird ein Starkregenrisikomanagement erarbeitet.",
+      "text": "Nach Angaben der Stadt können in der Region mit vielen Hanglagen bei Starkregen Sturzfluten entstehen; 2024 hat die Stadt die Erarbeitung eines Starkregenrisikomanagements für das in drei Teilgebiete aufgeteilte Stadtgebiet beschlossen.",
       "quelle": "Stadt Ravensburg – Starkregenrisikomanagement",
       "url": "https://www.ravensburg.de/rv/aktuelles/2024/starkregenrisikomanagement.php",
       "abruf": "2026-10-02"
@@ -76,6 +76,7 @@
   "offen": [
     "Zuständigkeit als untere Baurechtsbehörde (Große Kreisstadt) nicht ausdrücklich auf einer Stadtseite gefunden; Text sagt nur, dass Bauanträge bei der Stadt eingereicht werden.",
     "Prämienkatalog Wohnen (Beratungsprämie für Aufteilung von Ein-/Doppelhäusern, befristet 2026) bewusst nicht aufgenommen.",
-    "Ortsbeschreibung im Einstieg (Schussental, Hänge von Veitsburg und Eschach, Nachverdichtung im Bestand) nicht durch Fakt-Quelle belegt."
+    "Ortsbeschreibung im Einstieg (Schussental, Hänge von Veitsburg und Eschach, Nachverdichtung im Bestand) nicht durch Fakt-Quelle belegt.",
+    "QA 02.10.: Bearbeitungsstand Starkregenrisikomanagement durch datierten Beschluss 2024 ersetzt; Baurechts-Zuständigkeit geprüft – Text nennt nur Einreichung bei der Stadt, bleibt."
   ]
 }

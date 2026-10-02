@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Seewasser mit mittlerer Härte: Armaturen und Glas in Konstanz",
-      "text": "Das Konstanzer Trinkwasser stammt nicht aus Brunnen, sondern aus dem Bodensee. Die Stadtwerke entnehmen es weit draußen in großer Tiefe und bereiten es im Wasserwerk Staad auf. Laut aktueller Analyse liegt die Gesamthärte bei gut 9 °dH und damit im Härtebereich „mittel“. Für die Badplanung heißt das: Kalkränder an Duschglas und Perlatoren treten auf, aber schwächer als in Gemeinden mit hartem Grundwasser. Ob eine Enthärtungsanlage sinnvoll ist, hängt in der Regel eher vom Warmwassersystem und den eigenen Ansprüchen ab als vom Wasser selbst."
+      "text": "Das Konstanzer Trinkwasser stammt nicht aus Brunnen, sondern aus dem Bodensee. Die Stadtwerke entnehmen es weit draußen in großer Tiefe und bereiten es im Wasserwerk Staad auf. Laut Analyse der Stadtwerke liegt die Gesamthärte bei gut 9 °dH und damit im Härtebereich „mittel“. Für die Badplanung heißt das: Kalkränder an Duschglas und Perlatoren treten auf, aber schwächer als in Gemeinden mit hartem Grundwasser. Ob eine Enthärtungsanlage sinnvoll ist, hängt in der Regel eher vom Warmwassersystem und den eigenen Ansprüchen ab als vom Wasser selbst."
     },
     {
       "h2": "Bad im Untergeschoss: Hausanschluss und Rückstauebene",
-      "text": "Wer im Keller ein Gäste-WC, einen Waschraum oder ein Einliegerbad plant, berührt das Kanalnetz der Stadt besonders direkt. Die Entsorgungsbetriebe Stadt Konstanz (EBK) weisen darauf hin, dass der private Hausanschluss bis zur Übergabe an den öffentlichen Kanal in der Verantwortung der Eigentümer liegt. Als Rückstauebene gilt in der Regel die Höhe des Kanaldeckels auf der Straße. Toiletten, Duschen oder Waschbecken darunter brauchen eine funktionierende Rückstausicherung, etwa einen Rückstauverschluss oder eine Hebeanlage. Auskunft zu Kanal und Anschluss gibt die Abteilung Abwasser der EBK."
+      "text": "Wer im Keller ein Gäste-WC, einen Waschraum oder ein Einliegerbad plant, berührt das Kanalnetz der Stadt besonders direkt. Die Entsorgungsbetriebe Stadt Konstanz (EBK) weisen darauf hin, dass der private Hausanschluss bis zur Übergabe an den öffentlichen Kanal in der Verantwortung der Eigentümer liegt. Als Rückstauebene gilt in der Regel die Höhe des Kanaldeckels auf der Straße. Für Toiletten, Duschen oder Waschbecken darunter nennt die EBK eine Rückstausicherung, etwa einen Rückstauverschluss oder eine Hebeanlage. Auskunft zu Kanal und Anschluss gibt die Abteilung Abwasser der EBK."
     },
     {
       "h2": "Barrierearm umbauen: Beratung bei der Stadt und beim Landkreis",
@@ -75,6 +75,7 @@
   ],
   "offen": [
     "Ob die Abteilung Abwasser der EBK konkrete Vorgaben (z. B. Entwässerungsantrag) für Bad-Umbauten macht, wurde nicht geprüft; im Text nur allgemein auf Auskunft verwiesen.",
-    "Ortsteilnennungen im Einstieg (Niederburg, Wollmatingen, Dettingen) sind ortsübliche Bezeichnungen, aber nicht durch eine Fakt-Quelle belegt."
+    "Ortsteilnennungen im Einstieg (Niederburg, Wollmatingen, Dettingen) sind ortsübliche Bezeichnungen, aber nicht durch eine Fakt-Quelle belegt.",
+    "QA 02.10.: „aktueller Analyse“ (Momentangabe) ersetzt; Rückstausicherung als Angabe der EBK statt als Anweisung formuliert."
   ]
 }

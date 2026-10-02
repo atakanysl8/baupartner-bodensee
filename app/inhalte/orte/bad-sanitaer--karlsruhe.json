@@ -41,7 +41,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Zum Schutz vor Rückstau verweist die Stadt auf DIN 1986-100 und DIN EN 12056-4; Versicherungen können Leistungen einschränken, wenn die Entwässerung nicht den Regeln der Technik entspricht.",
+      "text": "Zum Schutz vor Rückstau verweist die Stadt auf DIN 1986-100 und DIN EN 12056-4.",
       "quelle": "Stadt Karlsruhe, Tiefbauamt – Grundstücksentwässerung",
       "url": "https://www.karlsruhe.de/umwelt-klima/gewaesser-stadtentwaesserung/grundstuecksentwaesserung",
       "abruf": "2026-10-02"
@@ -76,6 +76,7 @@
   "offen": [
     "Ob jede kleine Änderung (z. B. Tausch eines WC an gleicher Stelle) unter die Genehmigungspflicht des Tiefbauamts fällt, ist nicht geprüft; der Text gibt nur die allgemeine Aussage der Stadt wieder.",
     "Die vier Wasserwerke sind auf https://www.stadtwerke-karlsruhe.de/de/pk/wasser/wasserwerke.php belegt, aber nicht als eigener Fakt aufgeführt.",
-    "Stadtteilnennungen im Einstieg (Weststadt, Rüppurr, Durlach) sind Karlsruher Stadtteile, aber nicht durch eine Fakt-Quelle belegt."
+    "Stadtteilnennungen im Einstieg (Weststadt, Rüppurr, Durlach) sind Karlsruher Stadtteile, aber nicht durch eine Fakt-Quelle belegt.",
+    "QA 02.10.: Rechtsfolge (Versicherungen können Leistungen einschränken) aus Fakt entfernt."
   ]
 }

@@ -6,7 +6,7 @@
   "title": "Bauunternehmen Villingen-Schwenningen – kostenlos vermittelt",
   "description": "Neubau oder Anbau in Villingen-Schwenningen: Bauberatung im Baurechtsamt, Gestaltungssatzung Villingen, Bodenrichtwerte. Bauunternehmen kostenlos vermittelt.",
   "h1": "Bauunternehmen in Villingen-Schwenningen",
-  "einstieg": "Ein Einfamilienhaus am Rand von Schwenningen, ein Anbau in einem der Ortsteile oder ein Wohnhaus nahe der Villinger Ringmauer: Was gebaut werden darf, hängt in Villingen-Schwenningen stark vom Standort ab. Als Große Kreisstadt hat die Stadt ein eigenes Baurechtsamt, für die historische Villinger Innenstadt gelten zusätzlich eigene örtliche Bauvorschriften.",
+  "einstieg": "Ein Einfamilienhaus am Rand von Schwenningen, ein Anbau in einem der Ortsteile oder ein Wohnhaus nahe der Villinger Ringmauer: Was gebaut werden darf, hängt in Villingen-Schwenningen stark vom Standort ab. Die Stadt hat ein eigenes Baurechtsamt, für die historische Villinger Innenstadt gelten zusätzlich eigene örtliche Bauvorschriften.",
   "abschnitte": [
     {
       "h2": "Bauberatung im Baurechtsamt und Bauantrag online",
@@ -61,8 +61,8 @@
   ],
   "faq": [
     {
-      "q": "Ist für Bauanträge in Villingen-Schwenningen das Landratsamt zuständig?",
-      "a": "Nein, die Stadt hat als Große Kreisstadt ein eigenes Baurechtsamt. Dort gibt es auch die Bauberatung; Anträge können online über das Virtuelle Baurechtsamt eingereicht werden."
+      "q": "Wo stelle ich in Villingen-Schwenningen einen Bauantrag?",
+      "a": "Die Stadt hat ein eigenes Baurechtsamt mit Bauberatung. Bauanträge lassen sich laut Stadt online über das Virtuelle Baurechtsamt einreichen."
     },
     {
       "q": "Welche Unterlagen sind für die Bauberatung sinnvoll?",
@@ -70,11 +70,12 @@
     },
     {
       "q": "Gelten in der Villinger Altstadt besondere Bauvorschriften?",
-      "a": "Für die historische Innenstadt Villingen gibt es eine Gestaltungssatzung und eine eigene Stellplatzsatzung. Ist das Gebäude ein Kulturdenkmal, sind Änderungen zusätzlich mit den Denkmalschutzbehörden abzustimmen."
+      "a": "Für die historische Innenstadt Villingen gibt es eine Gestaltungssatzung und eine eigene Stellplatzsatzung. Ist das Gebäude ein Kulturdenkmal, sind Änderungen nach Angaben der Stadt zusätzlich mit den Denkmalschutzbehörden abzustimmen."
     }
   ],
   "offen": [
     "Inhalt der Gestaltungssatzung Villingen und der Stellplatzsatzungen nicht gelesen (PDFs sind Scans ohne Textebene); nur Existenz und Titel aus der Ortsrechtsseite übernommen.",
-    "Ortsbeschreibungen im Einstieg (Ringmauer, Ortsteile) nicht durch eine Fakt-Quelle belegt."
+    "Ortsbeschreibungen im Einstieg (Ringmauer, Ortsteile) nicht durch eine Fakt-Quelle belegt.",
+    "QA 02.10.: Abgeleitete Zuständigkeit („als Große Kreisstadt“, „Landratsamt nicht zuständig“) aus Einstieg und FAQ entfernt; Denkmal-Abstimmung in FAQ als Angabe der Stadt gekennzeichnet."
   ]
 }

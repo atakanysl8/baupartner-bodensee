@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Sanierungsgebiete in Heilbronn: Innenstadt und Bahnhofsvorstadt",
-      "text": "Die Heilbronner Innenstadt ist seit den 1990er-Jahren mit Sanierungsgebieten belegt; das aktuelle Gebiet Innenstadt umfasst rund 48 Hektar und wird im vereinfachten Verfahren durchgeführt. Eigentümer dort können bei umfangreichen Modernisierungen steuerliche Vergünstigungen nutzen. Voraussetzung ist nach Angaben der Stadt, dass vor Beginn der Bauarbeiten eine Modernisierungsvereinbarung mit der Stadt abgeschlossen wird. Neu hinzugekommen ist das Gebiet Westlich Bahnhofsvorstadt II am Hauptbahnhof, das im umfassenden Verfahren saniert wird. Ob ein Haus in einem dieser Gebiete liegt und welche Regeln gelten, beantwortet das Amt für Liegenschaften und Stadterneuerung in der Lohtorstraße."
+      "text": "Die Heilbronner Innenstadt ist seit den 1990er-Jahren mit Sanierungsgebieten belegt; das Gebiet Innenstadt umfasst rund 48 Hektar und wird im vereinfachten Verfahren durchgeführt. Eigentümer dort können bei umfangreichen Modernisierungen steuerliche Vergünstigungen nutzen. Voraussetzung ist nach Angaben der Stadt, dass vor Beginn der Bauarbeiten eine Modernisierungsvereinbarung mit der Stadt abgeschlossen wird. Hinzu kommt das Gebiet Westlich Bahnhofsvorstadt II am Hauptbahnhof, 2025 in die Städtebauförderung aufgenommen, das im umfassenden Verfahren saniert wird. Ob ein Haus in einem dieser Gebiete liegt und welche Regeln gelten, beantwortet das Amt für Liegenschaften und Stadterneuerung in der Lohtorstraße."
     },
     {
       "h2": "Denkmalschutz und Alt-Böckingen: Was am Bestand geschützt ist",
-      "text": "Fast alle Kulturdenkmale im Heilbronner Stadtgebiet sind nach Angaben der Stadt in ihrem gesamten historischen Bestand geschützt, also auch Treppenhäuser, Türen, Stuckdecken oder alte Böden. Viele Arbeiten, die baurechtlich verfahrensfrei wären, brauchen deshalb eine denkmalschutzrechtliche Genehmigung; zuständig ist die untere Denkmalschutzbehörde der Stadt im Planungs- und Baurechtsamt. In Alt-Böckingen gilt seit 2009 zusätzlich eine Erhaltungssatzung: Rückbau, Änderung und Neuerrichtung baulicher Anlagen sind dort genehmigungspflichtig. Anlass war unter anderem, dass historische Ziegelfassaden gestrichen, verputzt oder gedämmt und alte Fenster und Klappläden entfernt wurden."
+      "text": "Fast alle Kulturdenkmale im Heilbronner Stadtgebiet sind nach Angaben der Stadt in ihrem gesamten historischen Bestand geschützt, also auch Treppenhäuser, Türen, Stuckdecken oder alte Böden. Auch für Arbeiten, die baurechtlich verfahrensfrei wären, kann deshalb eine denkmalschutzrechtliche Genehmigung nötig sein; zuständig ist laut Stadt ihre untere Denkmalschutzbehörde. In Alt-Böckingen gilt seit 2009 zusätzlich eine Erhaltungssatzung: Sie sieht für Rückbau, Änderung und Neuerrichtung baulicher Anlagen eine Genehmigung vor. Anlass war unter anderem, dass historische Ziegelfassaden gestrichen, verputzt oder gedämmt und alte Fenster und Klappläden entfernt wurden."
     },
     {
       "h2": "Energetisch sanieren mit Blick auf das Klimaziel 2035",
@@ -74,7 +74,7 @@
   "faq": [
     {
       "q": "Liegt mein Haus in einem Heilbronner Sanierungsgebiet?",
-      "a": "Aktuell sind unter anderem die Innenstadt und das Gebiet Westlich Bahnhofsvorstadt II festgelegt. Verbindliche Auskunft gibt das Amt für Liegenschaften und Stadterneuerung."
+      "a": "Festgelegt sind unter anderem die Innenstadt und das Gebiet Westlich Bahnhofsvorstadt II. Verbindliche Auskunft gibt das Amt für Liegenschaften und Stadterneuerung."
     },
     {
       "q": "Brauche ich bei einem Heilbronner Kulturdenkmal auch für Arbeiten im Inneren eine Genehmigung?",
@@ -82,7 +82,7 @@
     },
     {
       "q": "Darf ich in Alt-Böckingen die Ziegelfassade dämmen?",
-      "a": "Im Gebiet der Erhaltungssatzung sind Änderungen an baulichen Anlagen genehmigungspflichtig, und das Dämmen historischer Ziegelfassaden war einer der Anlässe für die Satzung. Ob und wie es möglich ist, klärt die Stadt im Einzelfall."
+      "a": "Die Erhaltungssatzung sieht für Änderungen an baulichen Anlagen eine Genehmigung vor, und das Dämmen historischer Ziegelfassaden war einer der Anlässe für die Satzung. Ob und wie es möglich ist, klärt die Stadt im Einzelfall."
     },
     {
       "q": "Wo bekomme ich in Heilbronn eine neutrale Energieberatung vor der Sanierung?",
@@ -92,6 +92,7 @@
   "offen": [
     "Im Sanierungsgebiet Christophstraße/Ellwanger Straße (Sozialer Zusammenhalt, seit 2021) wurde nicht erwähnt, da der genaue Gebietsname auf der Seite nicht eindeutig zu lesen war.",
     "Eine kommunale Wärmeplanung der Stadt Heilbronn wurde nicht gefunden; die verlinkte Seite zum Förderprogramm KLIMAfit war nicht erreichbar (404) und wurde nicht verwendet.",
-    "Ob die Erhaltungssatzung Alt-Böckingen eine Genehmigung auch für reine Fassadendämmung ohne Abbruch verlangt, ist aus der Seite nur mittelbar ableitbar (Änderung baulicher Anlagen)."
+    "Ob die Erhaltungssatzung Alt-Böckingen eine Genehmigung auch für reine Fassadendämmung ohne Abbruch verlangt, ist aus der Seite nur mittelbar ableitbar (Änderung baulicher Anlagen).",
+    "QA 02.10.: Momentangaben („aktuelle“, „Neu hinzugekommen“, „Aktuell“) entfernt; Zuordnung der Denkmalschutzbehörde zum Planungs- und Baurechtsamt (nicht belegt) entfernt; Genehmigungspflichten als Satzungswiedergabe formuliert."
   ]
 }

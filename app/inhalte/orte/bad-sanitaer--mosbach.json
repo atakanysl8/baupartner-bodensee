@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Eigenwasser und Bodenseewasser: Härte je nach Stadtteil",
-      "text": "Die Stadtwerke Mosbach sind nach eigenen Angaben der größte Trinkwasserlieferant im Neckar-Odenwald-Kreis und mischen Wasser aus eigenen Brunnen mit Bodenseewasser. Die Härtekarten der Stadtwerke zeigen für weite Teile der Kernstadt 12 bis 13,9 °dH, also mittelhartes Wasser. Im Gebiet um Bergfeld liegt der Wert bei 8,9 °dH, in Reichenbuch ebenfalls bei 8,9 °dH, in Sattelbach bei 8,4 °dH und in Lohrbach bei nur 6,5 °dH. Für die Badplanung heißt das: Kalkränder an Glas und Armaturen sind in der Kernstadt spürbar, aber kein Extremfall; in Lohrbach ist eine Enthärtung in der Regel kaum ein Thema."
+      "text": "Die Stadtwerke Mosbach mischen Wasser aus eigenen Brunnen mit Bodenseewasser. Die Härtekarten der Stadtwerke zeigen für weite Teile der Kernstadt 12 bis 13,9 °dH, also mittelhartes Wasser. Im Gebiet um Bergfeld liegt der Wert bei 8,9 °dH, in Lohrbach bei 6,5 °dH; die Werte der übrigen Stadtteile zeigt die Härtekarte der Stadtwerke. Für die Badplanung heißt das: Kalkränder an Glas und Armaturen sind in der Kernstadt spürbar, aber kein Extremfall; in Lohrbach ist eine Enthärtung in der Regel kaum ein Thema."
     },
     {
       "h2": "Abwasser im Mischsystem: Bad im Keller gut absichern",
-      "text": "Der größte Teil Mosbachs wird im Mischsystem entwässert: Schmutz- und Regenwasser fließen gemeinsam zur Kläranlage in Obrigheim. Nur Baugebiete, die seit Ende der 1990er-Jahre erschlossen wurden, haben getrennte Kanäle. Bei starkem Regen kann ein Mischkanal schnell voll laufen, und genau dann wird ein tief liegendes Bad zum Risiko. Die Abwassersatzung der Stadt verlangt deshalb, dass Toiletten, Duschen und Waschbecken unterhalb der Straßenoberfläche an der Anschlussstelle auf Kosten des Eigentümers gegen Rückstau gesichert werden. Wer ein Duschbad im Untergeschoss oder ein Gäste-WC im Souterrain plant, sollte Rückstauverschluss oder Hebeanlage von Anfang an mit einplanen."
+      "text": "Der größte Teil Mosbachs wird im Mischsystem entwässert: Schmutz- und Regenwasser fließen gemeinsam zur Kläranlage in Obrigheim. Nur Baugebiete, die seit Ende der 1990er-Jahre erschlossen wurden, haben getrennte Kanäle. Bei starkem Regen kann ein Mischkanal schnell voll laufen, und genau dann wird ein tief liegendes Bad zum Risiko. Die Abwassersatzung der Stadt sieht deshalb vor, dass Toiletten, Duschen und Waschbecken unterhalb der Straßenoberfläche an der Anschlussstelle auf Kosten des Eigentümers gegen Rückstau gesichert werden. Bei einem Duschbad im Untergeschoss oder einem Gäste-WC im Souterrain gehören Rückstauverschluss oder Hebeanlage deshalb von Anfang an in die Planung."
     },
     {
       "h2": "Selbstständig wohnen: Wohnraumberatung des Neckar-Odenwald-Kreises",
@@ -35,7 +35,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "In den Stadtteilen Lohrbach, Reichenbuch und Sattelbach liegt die Wasserhärte laut Karte der Stadtwerke bei 6,5, 8,9 und 8,4 °dH.",
+      "text": "Im Stadtteil Lohrbach liegt die Wasserhärte laut Karte der Stadtwerke bei 6,5 °dH; die Werte der übrigen Teilorte zeigt dieselbe Karte.",
       "quelle": "Stadtwerke Mosbach – Karte Wasserhärte Lohrbach, Reichenbuch, Sattelbach",
       "url": "https://www.swm-online.de/wp-content/uploads/pdf/wasserhaerte/Wasserhaerte_TeilorteMOS_web.pdf",
       "abruf": "2026-10-02"
@@ -62,7 +62,7 @@
   "faq": [
     {
       "q": "Wie hart ist das Wasser in Mosbach?",
-      "a": "In weiten Teilen der Kernstadt 12 bis 13,9 °dH, also mittelhart. Im Bereich Bergfeld und in Reichenbuch 8,9 °dH, in Sattelbach 8,4 °dH und in Lohrbach 6,5 °dH."
+      "a": "In weiten Teilen der Kernstadt 12 bis 13,9 °dH, also mittelhart. Im Bereich Bergfeld 8,9 °dH, in Lohrbach 6,5 °dH; die übrigen Teilorte zeigt die Härtekarte der Stadtwerke."
     },
     {
       "q": "Warum ist die Rückstausicherung bei einem Kellerbad in Mosbach wichtig?",
@@ -76,6 +76,8 @@
   "offen": [
     "Härtewerte stammen aus Kartenbildern (PDF ohne Text) der Stadtwerke; Zuordnung der 8,9-°dH-Fläche zu „Bergfeld“ und der drei Teilort-Werte zu Lohrbach/Reichenbuch/Sattelbach anhand der Kartenbeschriftung, bitte gegenprüfen.",
     "Der Satz zum Mischsystem „bei starkem Regen kann ein Mischkanal schnell voll laufen“ ist allgemeine Einordnung; die Stadt schreibt, Kanäle seien für Starkregen nicht ausgelegt.",
-    "Energieberatung für den Neckar-Odenwald-Kreis nicht recherchiert."
+    "Energieberatung für den Neckar-Odenwald-Kreis nicht recherchiert.",
+    "QA 02.10.: Härtewerte anhand der gerenderten Kartenbilder gegengeprüft (Bergfeld-Fläche 8,9 °dH beschriftet, Lohrbach 6,5 °dH; Reichenbuch 8,9 / Sattelbach 8,4 nach Lage) – bleiben; Selbstbeschreibung „größter Trinkwasserlieferant“ (Superlativ) entfernt; Rückstau als Satzungswiedergabe statt Anweisung gefasst.",
+    "Nachprüfung 02.10.: Werte Reichenbuch/Sattelbach (nur nach Kartenlage zugeordnet) entfernt."
   ]
 }

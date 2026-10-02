@@ -14,7 +14,7 @@
     },
     {
       "h2": "Kellerbad und neue Leitungen: was die Abwassersatzung der Stadt regelt",
-      "text": "Die Abwassersatzung der Stadt Bad Rappenau verlangt eine schriftliche Genehmigung der Stadt, wenn Grundstücksentwässerungsanlagen hergestellt oder geändert werden. Als Rückstauebene gilt die Straßenoberfläche an der Anschlussstelle; Toiletten, Bodenabläufe und Waschbecken darunter sind vom Eigentümer gegen Rückstau zu sichern. Nach der Satzung zählt in Bad Rappenau der Teil der Hausanschlussleitung, der unter öffentlichen Straßen und Grünflächen verläuft, zu den öffentlichen Abwasseranlagen."
+      "text": "Die Abwassersatzung der Stadt Bad Rappenau verlangt eine schriftliche Genehmigung der Stadt, wenn Grundstücksentwässerungsanlagen hergestellt oder geändert werden. Als Rückstauebene gilt die Straßenoberfläche an der Anschlussstelle; für Toiletten, Bodenabläufe und Waschbecken darunter sieht die Satzung eine Sicherung gegen Rückstau durch den Eigentümer vor. Nach der Satzung zählt in Bad Rappenau der Teil der Hausanschlussleitung, der unter öffentlichen Straßen und Grünflächen verläuft, zu den öffentlichen Abwasseranlagen."
     },
     {
       "h2": "Bad für das Alter: Beratung in Bad Rappenau und beim Landkreis",
@@ -82,6 +82,7 @@
   "offen": [
     "Die Abwassersatzung stammt von 2016; spätere Änderungssatzungen betreffen laut Titel nur Beiträge und Gebühren, wurden aber nicht im Volltext gelesen.",
     "Ob die IAV-Stelle oder der Pflegestützpunkt ausdrücklich zur Wohnraumanpassung berät, ist auf der städtischen Beratungsseite nicht genannt.",
-    "Die Seite des Pflegestützpunkts beim Landratsamt (landkreis-heilbronn.de) war nicht erreichbar; Angaben stammen von der Beratungsseite der Stadt Bad Rappenau."
+    "Die Seite des Pflegestützpunkts beim Landratsamt (landkreis-heilbronn.de) war nicht erreichbar; Angaben stammen von der Beratungsseite der Stadt Bad Rappenau.",
+    "QA 02.10.: Rückstau-Satz in Abschnitt 2 als Wiedergabe der Satzung gefasst (keine Anweisung an den Leser)."
   ]
 }

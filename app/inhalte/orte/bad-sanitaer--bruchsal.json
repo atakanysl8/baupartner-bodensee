@@ -14,7 +14,7 @@
     },
     {
       "h2": "Kellerbad und neue Leitungen: was die Bruchsaler Abwassersatzung regelt",
-      "text": "Die Abwassersatzung der Stadt Bruchsal sieht vor, dass die Herstellung von Grundstücksentwässerungsanlagen und auch deren Änderung einer schriftlichen Genehmigung der Stadt bedürfen. Das betrifft Badumbauten vor allem dann, wenn Leitungen neu verlegt oder ein Bad im Untergeschoss angeschlossen wird. Als Rückstauebene gilt nach der Satzung die Straßenoberfläche an der Anschlussstelle. Toiletten, Duschen, Bodenabläufe oder Waschbecken darunter sind nach der Satzung vom Eigentümer gegen Rückstau zu sichern. Zuständig ist der Eigenbetrieb Abwasserbetrieb der Stadt; die Höhenlage des Straßenkanals und die Lage der Anschlussstelle gibt die Stadt auf Anfrage heraus."
+      "text": "Die Abwassersatzung der Stadt Bruchsal sieht vor, dass die Herstellung von Grundstücksentwässerungsanlagen und auch deren Änderung einer schriftlichen Genehmigung der Stadt bedürfen. Das betrifft Badumbauten vor allem dann, wenn Leitungen neu verlegt oder ein Bad im Untergeschoss angeschlossen wird. Als Rückstauebene gilt nach der Satzung die Straßenoberfläche an der Anschlussstelle. Toiletten, Duschen, Bodenabläufe oder Waschbecken darunter sind nach der Satzung vom Eigentümer gegen Rückstau zu sichern. Auskunft gibt der Abwasserbetrieb der Stadt; die Höhenlage des Straßenkanals und die Lage der Anschlussstelle gibt die Stadt auf Anfrage heraus."
     },
     {
       "h2": "Barrierearm umbauen: Pflegestützpunkt und Energieberatung im Rathaus",
@@ -75,6 +75,7 @@
   ],
   "offen": [
     "Ob die Umkehrosmose das gesamte Wasser oder nur einen Teilstrom aufbereitet, ist auf der Quelle nicht eindeutig; im Text als „ein Teil des Wassers“ formuliert, ggf. prüfen.",
-    "Härtewerte der Wasserversorgung Mittelhardt für Büchenau wurden nicht recherchiert."
+    "Härtewerte der Wasserversorgung Mittelhardt für Büchenau wurden nicht recherchiert.",
+    "QA 02.10.: Zuständigkeitsbehauptung zum Abwasserbetrieb ohne Fakt-Beleg neutral als „Auskunft gibt“ gefasst."
   ]
 }

@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Karstwasser mit über 17 °dH: was das für Armaturen und Leitungen heißt",
-      "text": "Die Stadtwerke Heidenheim fördern das Trinkwasser in drei Pumpwerken, dem „Siebten Fuß“ in Aufhausen, dem Schmittenberg und der „Goldquelle“ in Mergelstetten, aus bis zu 150 Metern Tiefe. Laut aktueller Analyse liegt die Gesamthärte im Mittel bei 17,17 °dH und damit im harten Bereich. Zur Härtestabilisierung und gegen Korrosion setzen die Stadtwerke Phosphat und Silikat zu. Für die Badplanung bedeutet das: Kalkschutz an Duschabtrennung, Brausekopf und Warmwasserbereiter ist hier eher die Regel als die Ausnahme. Werden Leitungen erneuert, empfehlen die Stadtwerke Edelstahl, Kupfer oder Kunststoff gegenüber Stahl- und verzinkten Stahlleitungen."
+      "text": "Die Stadtwerke Heidenheim fördern das Trinkwasser in drei Pumpwerken, dem „Siebten Fuß“ in Aufhausen, dem Schmittenberg und der „Goldquelle“ in Mergelstetten, aus bis zu 150 Metern Tiefe. Laut Trinkwasseranalyse (Werte Juni 2026) liegt die Gesamthärte im Mittel bei 17,17 °dH und damit im harten Bereich. Zur Härtestabilisierung und gegen Korrosion setzen die Stadtwerke Phosphat und Silikat zu. Für die Badplanung bedeutet das: Kalkschutz an Duschabtrennung, Brausekopf und Warmwasserbereiter ist hier eher die Regel als die Ausnahme. Werden Leitungen erneuert, empfehlen die Stadtwerke Edelstahl, Kupfer oder Kunststoff gegenüber Stahl- und verzinkten Stahlleitungen."
     },
     {
       "h2": "Entwässerung in Heidenheim: Genehmigung und Rückstauebene",
-      "text": "Nach der Heidenheimer Abwassersatzung bedürfen Herstellung und Änderung einer Grundstücksentwässerungsanlage der schriftlichen Genehmigung der Stadt; ist für das Vorhaben eine Baugenehmigung erteilt, gilt diese Genehmigung als erteilt. Bei einem reinen Badtausch ohne neue Anschlüsse spielt das meist keine Rolle, bei einem neuen Bad im Keller oder veränderten Fallleitungen dagegen schon. Als Rückstauebene nennt die Satzung die Straßenoberfläche an der Anschlussstelle. Toiletten, Bodenabläufe und Waschbecken darunter sind gegen Rückstau zu sichern, etwa mit Rückstauverschluss oder Hebeanlage. Ob ein konkreter Umbau eine Genehmigung braucht, beantwortet die Stadt Heidenheim."
+      "text": "Nach der Heidenheimer Abwassersatzung bedürfen Herstellung und Änderung einer Grundstücksentwässerungsanlage der schriftlichen Genehmigung der Stadt; ist für das Vorhaben eine Baugenehmigung erteilt, gilt diese Genehmigung als erteilt. Berührt ist das vor allem bei Vorhaben, die die Entwässerung verändern, etwa ein neues Bad im Keller oder veränderte Fallleitungen. Als Rückstauebene nennt die Satzung die Straßenoberfläche an der Anschlussstelle; für tiefer liegende Toiletten, Bodenabläufe und Waschbecken sieht sie eine Sicherung gegen Rückstau vor, etwa mit Rückstauverschluss oder Hebeanlage. Ob ein konkreter Umbau eine Genehmigung braucht, beantwortet die Stadt Heidenheim."
     },
     {
       "h2": "Barrierefrei und energiesparend: Beratung im Landkreis",
@@ -47,7 +47,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Rückstauebene ist nach § 17 der Heidenheimer Abwassersatzung die Straßenoberfläche an der Anschlussstelle; tiefer liegende Toiletten, Bodenabläufe und Waschbecken sind vom Eigentümer gegen Rückstau zu sichern.",
+      "text": "Rückstauebene ist nach § 17 der Heidenheimer Abwassersatzung die Straßenoberfläche an der Anschlussstelle; für tiefer liegende Toiletten, Bodenabläufe und Waschbecken sieht die Satzung eine Sicherung gegen Rückstau durch den Eigentümer vor.",
       "quelle": "Stadt Heidenheim – Abwassersatzung",
       "url": "https://www.heidenheim.de/site/Heidenheim/get/documents_E-735979047/heidenheim/HDH_Stadt_Bibliothek/Rathaus%20%26%20Verwaltung/Stadtrecht/%C3%96ffentliche-Einrichtungen/Abwassersatzung.pdf",
       "abruf": "2026-10-02"
@@ -82,6 +82,7 @@
   "offen": [
     "Die Einordnung „hart“ für 17,17 °dH folgt den Härtebereichen des Wasch- und Reinigungsmittelgesetzes (über 14 °dH); die Stadtwerke-Analyse nennt den Härtebereich selbst nicht ausdrücklich.",
     "Ortsteilnennungen im Einstieg (Kernstadt, Schnaitheim, Mergelstetten) sind ortsübliche Bezeichnungen; Mergelstetten und Aufhausen sind durch die Stadtwerke-Quelle belegt.",
-    "Zuständige Stelle in der Stadtverwaltung für Entwässerungsgenehmigungen (laut Satzung „Fachbereich Bauen – Entwässerung“) wurde nicht auf einer eigenen Amtsseite geprüft."
+    "Zuständige Stelle in der Stadtverwaltung für Entwässerungsgenehmigungen (laut Satzung „Fachbereich Bauen – Entwässerung“) wurde nicht auf einer eigenen Amtsseite geprüft.",
+    "QA 02.10.: „aktueller Analyse“ durch Analysestand (Juni 2026) ersetzt; Rückstaupflicht als Satzungswiedergabe formuliert; nicht belegte Aussage „bei reinem Badtausch meist keine Rolle“ entfernt."
   ]
 }

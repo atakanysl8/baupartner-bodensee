@@ -14,7 +14,7 @@
     },
     {
       "h2": "Neue Grundleitungen: Entwässerung vorab genehmigen lassen",
-      "text": "Das städtische Kanalnetz ist rund 400 Kilometer lang, teils über 100 Jahre alt und arbeitet abschnittsweise im Misch- und im Trennsystem. Werden bei einem Umbau auf dem Grundstück neue erdverlegte Grundleitungen hergestellt oder bestehende geändert, ist das nach Angaben der Stadtwerke vor Beginn der Arbeiten genehmigen zu lassen; nach Abschluss wird die Inbetriebnahme beantragt. Dieses Verfahren läuft unabhängig vom Bauantrag. Bei alten Villen mit unbekanntem Leitungsverlauf hilft die Planauskunft der Stadtwerke, die Pläne zum öffentlichen Kanal und zu privaten Entwässerungsleitungen bereitstellt."
+      "text": "Das städtische Kanalnetz ist rund 400 Kilometer lang, teils über 100 Jahre alt und arbeitet abschnittsweise im Misch- und im Trennsystem. Für neue erdverlegte Grundleitungen auf dem Grundstück oder Änderungen an bestehenden sehen die Stadtwerke nach eigenen Angaben eine Genehmigung vor Beginn der Arbeiten vor; nach Abschluss folgt ein Antrag auf Inbetriebnahme. Dieses Verfahren läuft unabhängig vom Bauantrag. Bei alten Villen mit unbekanntem Leitungsverlauf hilft die Planauskunft der Stadtwerke, die Pläne zum öffentlichen Kanal und zu privaten Entwässerungsleitungen bereitstellt."
     },
     {
       "h2": "Vermietete Häuser, Pflege und Energie",
@@ -41,13 +41,13 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Das städtische Kanalnetz in Baden-Baden ist rund 400 Kilometer lang und teilweise über 100 Jahre alt; neue oder geänderte Grundleitungen auf dem Privatgrundstück sind vor Beginn der Arbeiten von den Stadtwerken genehmigen zu lassen.",
+      "text": "Das städtische Kanalnetz in Baden-Baden ist rund 400 Kilometer lang und teilweise über 100 Jahre alt; neue oder geänderte Grundleitungen auf dem Privatgrundstück bedürfen nach Angaben der Stadtwerke vor Beginn der Arbeiten ihrer Genehmigung.",
       "quelle": "Stadtwerke Baden-Baden – Abwasser (Kanalisation)",
       "url": "https://www.stadtwerke-baden-baden.de/de/entsorgung/abwasser.php",
       "abruf": "2026-10-02"
     },
     {
-      "text": "Die Stadtwerke Baden-Baden weisen darauf hin, dass für gewerblich genutzte Gebäude, etwa bei Vermietung von Wohnraum, mit Großanlage zur Trinkwassererwärmung eine Legionellenuntersuchung alle drei Jahre vorgeschrieben ist.",
+      "text": "Die Stadtwerke Baden-Baden weisen darauf hin, dass für gewerblich genutzte Gebäude, etwa bei Vermietung von Wohnraum, mit Großanlage zur Trinkwassererwärmung nach Trinkwasserverordnung eine Legionellenuntersuchung alle drei Jahre vorgesehen ist.",
       "quelle": "Stadtwerke Baden-Baden – Legionellen",
       "url": "https://www.stadtwerke-baden-baden.de/de/privatkunden/trinkwasser/legionellen.php",
       "abruf": "2026-10-02"
@@ -76,6 +76,7 @@
   "offen": [
     "Einstieg „hoher Anteil an Altbauten“, Weststadt und Rebland sind Einordnung, nicht statistisch belegt.",
     "Pflegestützpunkt der Stadt Baden-Baden nur indirekt belegt (Seite Seniorinnen & Senioren nennt ihn im Zusammenhang mit der Demenzkampagne); daher ohne eigenen Fakt.",
-    "Legionellen: Die Stadtwerke-Seite nennt Großanlage >400 l bzw. >3 l Leitungsinhalt als Kriterium; im Text vereinfacht als „Großanlage“. Ob die Aussage „vorgeschrieben“ juristisch so stehen darf, siehe Anwaltsfrage."
+    "Legionellen: Die Stadtwerke-Seite nennt Großanlage >400 l bzw. >3 l Leitungsinhalt als Kriterium; im Text vereinfacht als „Großanlage“. Ob die Aussage „vorgeschrieben“ juristisch so stehen darf, siehe Anwaltsfrage.",
+    "QA 02.10.: Handlungsanweisung „ist … genehmigen zu lassen“ (Abschnitt 2, Fakt 4) als Wiedergabe der Stadtwerke-Angabe neutral gefasst; Fakt Legionellen „vorgeschrieben“ → „vorgesehen“."
   ]
 }

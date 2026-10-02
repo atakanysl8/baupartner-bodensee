@@ -6,7 +6,7 @@
   "title": "Bauunternehmen Ulm – kostenlos vermittelt",
   "description": "Bauen in Ulm: Bürgerservice Bauen, Bauplatzvergabe per Bewerbung, Gestaltungsbeirat, Bebauungspläne online, Bodenrichtwerte. Kostenlos vermittelt.",
   "h1": "Bauunternehmen in Ulm",
-  "einstieg": "Ulm ist kreisfreie Stadt; Baurecht, Stadtplanung und Bauplatzvergabe liegen deshalb in einer Hand bei der Stadtverwaltung. Wer hier ein Einfamilienhaus in einem Neubaugebiet, ein Mehrfamilienhaus am Eselsberg oder einen Ersatzbau in der Innenstadt plant, hat mit dem Bürgerservice Bauen, einem Bewerbungsverfahren für städtische Bauplätze und bei größeren Projekten mit dem Ulmer Gestaltungsbeirat zu tun.",
+  "einstieg": "Ulm ist kreisfreie Stadt; Bauberatung, Stadtplanung und Bauplatzvergabe sind Aufgaben der Stadtverwaltung. Wer hier ein Einfamilienhaus in einem Neubaugebiet, ein Mehrfamilienhaus am Eselsberg oder einen Ersatzbau in der Innenstadt plant, hat mit dem Bürgerservice Bauen, einem Bewerbungsverfahren für städtische Bauplätze und bei größeren Projekten mit dem Ulmer Gestaltungsbeirat zu tun.",
   "abschnitte": [
     {
       "h2": "Erste Anlaufstelle: Bürgerservice Bauen in der Münchner Straße",
@@ -82,6 +82,7 @@
   "offen": [
     "Dass Ulm als Stadtkreis selbst untere Baurechtsbehörde ist, ist allgemein bekannt; im Text nur indirekt („in einer Hand bei der Stadtverwaltung“) formuliert, eine Amtsseite mit dem Begriff wurde nicht geöffnet.",
     "Ortsangaben im Einstieg (Eselsberg, Innenstadt) sind beispielhaft; Eselsberg ist durch die Fernwärme-Seite belegt.",
-    "Eine Starkregengefahrenkarte für Ulm wurde 2017 als in Arbeit erwähnt (EBU-Seite); ihr aktueller Stand wurde nicht geprüft und nicht erwähnt."
+    "Eine Starkregengefahrenkarte für Ulm wurde 2017 als in Arbeit erwähnt (EBU-Seite); ihr aktueller Stand wurde nicht geprüft und nicht erwähnt.",
+    "QA 02.10.: Abgeleitete Zuständigkeitsaussage („Baurecht … deshalb in einer Hand“) durch belegte Aufgaben ersetzt."
   ]
 }

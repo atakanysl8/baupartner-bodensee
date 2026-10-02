@@ -6,19 +6,19 @@
   "title": "Bauunternehmen Singen – kostenlos vermittelt",
   "description": "Neubau oder Umbau in Singen (Hohentwiel): digitaler Bauantrag über ViBa BW, Bebauungspläne, Bauplätze und Bodenwerte. Bauunternehmen kostenlos vermittelt.",
   "h1": "Bauunternehmen in Singen",
-  "einstieg": "In Singen reicht das Spektrum vom Einfamilienhaus in den Ortsteilen bis zum Mehrfamilienhaus in der Kernstadt. Bauherren haben es hier mit einem rein digitalen Bauantrag, mit eigenen Dorfentwicklungskonzepten für die sechs Ortsteile und mit einem städtischen Programm zu tun, das zusätzlichen Wohnraum in älteren Einfamilienhäusern anstoßen soll.",
+  "einstieg": "In Singen reicht das Spektrum vom Einfamilienhaus in den Ortsteilen bis zum Mehrfamilienhaus in der Kernstadt. Bauherren haben es hier mit einem rein digitalen Bauantrag, mit eigenen Dorfentwicklungskonzepten für die sechs Ortsteile und mit einem gemeinsamen Gutachterausschuss für den Hegau zu tun.",
   "abschnitte": [
     {
       "h2": "Bauantrag in Singen: nur noch digital über das virtuelle Bauamt",
-      "text": "Untere Baurechtsbehörde ist die Stadt Singen selbst; die Abteilung Baurecht sitzt im Rathaus am Hohgarten. Bauanträge und Kenntnisgaben nimmt die Stadt nur noch über das virtuelle Bauamt Baden-Württemberg (ViBa BW) entgegen. Für Privatpersonen heißt das Anmeldung mit BundID und Online-Ausweis oder alternativ mit dem ELSTER-Konto. Alle Pläne und Nachweise müssen im Archivformat PDF/A-1a vorliegen, andere PDF-Dateien nimmt das System nach Angaben der Stadt nicht an. Meist bereitet das Architekturbüro die Unterlagen vor; die eigene Anmeldung der Bauherren ist trotzdem früh zu klären."
+      "text": "Ansprechpartner für Bauanträge ist in Singen die städtische Abteilung Baurecht im Rathaus am Hohgarten. Bauanträge und Kenntnisgaben nimmt die Stadt nur noch über das virtuelle Bauamt Baden-Württemberg (ViBa BW) entgegen. Für Privatpersonen heißt das Anmeldung mit BundID und Online-Ausweis oder alternativ mit dem ELSTER-Konto. Alle Pläne und Nachweise müssen im Archivformat PDF/A-1a vorliegen, andere PDF-Dateien nimmt das System nach Angaben der Stadt nicht an. Meist bereitet das Architekturbüro die Unterlagen vor; die eigene Anmeldung der Bauherren ist trotzdem früh zu klären."
     },
     {
       "h2": "Bebauungspläne, Ortsteile und städtische Bauplätze",
-      "text": "In Singen können die Originale im Rathaus eingesehen werden; die Abteilung Stadtplanung schickt Plan und Unterlagen auf Anfrage auch kostenlos per E-Mail. Für Beuren an der Aach, Bohlingen, Friedingen, Hausen an der Aach, Schlatt unter Krähen und Überlingen am Ried geben Dorfentwicklungskonzepte die Richtung vor. Eigene Baugebiete erschließt die Stadt in Kernstadt und Ortsteilen und verkauft die Grundstücke an Bauwillige oder vergibt sie im Erbbaurecht. Ob gerade städtische Bauplätze angeboten werden, steht auf der Seite zu den Wohnbauflächen; Auskunft gibt die Abteilung Verwaltung und Liegenschaften."
+      "text": "In Singen können die Originale im Rathaus eingesehen werden; die Abteilung Stadtplanung schickt Plan und Unterlagen auf Anfrage auch kostenlos per E-Mail. Für Beuren an der Aach, Bohlingen, Friedingen, Hausen an der Aach, Schlatt unter Krähen und Überlingen am Ried geben Dorfentwicklungskonzepte die Richtung vor. Eigene Baugebiete erschließt die Stadt in Kernstadt und Ortsteilen und verkauft die Grundstücke an Bauwillige oder vergibt sie im Erbbaurecht. Ob städtische Bauplätze angeboten werden, steht auf der Seite zu den Wohnbauflächen; Auskunft gibt die Abteilung Verwaltung und Liegenschaften."
     },
     {
-      "h2": "Bestand erweitern: Wohnimpuls und Bodenwerte im Hegau",
-      "text": "Wer statt eines Neubaus ein älteres Einfamilienhaus teilen, aufstocken oder um eine Einliegerwohnung erweitern möchte, findet in Singen das städtische Programm „Wohnimpuls“. Es fördert die Beratung durch eine freie Architektin oder einen freien Architekten; der Umbau selbst und die Baugenehmigung sind davon getrennt. Für Grundstückswerte ist der Gemeinsame Gutachterausschuss Hegau-Hochrhein mit Geschäftsstelle bei der Stadt Singen zuständig. Wenn das Vorhaben greifbar wird, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+      "h2": "Bodenwerte im Hegau: der Gemeinsame Gutachterausschuss",
+      "text": "Für Grundstückswerte ist in Singen der Gemeinsame Gutachterausschuss Hegau-Hochrhein zuständig, der seit 2020 die Aufgaben von zwölf Städten und Gemeinden zwischen Aach, Engen und Gailingen bündelt; seine Geschäftsstelle ist beim Fachbereich Bauen der Stadt angesiedelt. Die Bodenrichtwertkarte stellt die Richtwerte mit ihren Zonen dar und gibt beim Kauf eines Bauplatzes eine erste Orientierung. Für ein bebautes Grundstück, etwa vor Abriss und Ersatzneubau, erstellt der Ausschuss auf Antrag ein schriftliches Verkehrswertgutachten; antragsberechtigt sind unter anderem Eigentümer, Kaufinteressenten dagegen nicht. Die Kaufpreissammlung selbst ist nicht öffentlich zugänglich. Wenn das Vorhaben greifbar wird, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
     }
   ],
   "fakten": [
@@ -59,9 +59,9 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Mit dem Programm „Wohnimpuls“ bezuschusst die Stadt Singen eine Architektenberatung, wenn Eigentümer in bestehenden Gebäuden zusätzlichen Wohnraum schaffen möchten; Umbaumaßnahmen selbst werden damit nicht finanziert.",
-      "quelle": "Stadt Singen – Förderprogramm Wohnimpuls",
-      "url": "https://www.singen.de/leben/wohnen-und-bauen/stadtentwicklung/foerderprogramm+wohnimpuls",
+      "text": "Verkehrswertgutachten erstellt der Gemeinsame Gutachterausschuss Hegau-Hochrhein auf Antrag, unter anderem von Eigentümern; Kaufinteressenten sind nicht antragsberechtigt. Die Kaufpreissammlung ist nicht öffentlich zugänglich.",
+      "quelle": "Stadt Singen – Gutachterausschuss",
+      "url": "https://www.singen.de/leben/wohnen-und-bauen/haus_grundstueck/gutachterausschuss",
       "abruf": "2026-10-02"
     }
   ],
@@ -77,14 +77,10 @@
     {
       "q": "Wer ermittelt in Singen den Wert eines Baugrundstücks?",
       "a": "Der Gemeinsame Gutachterausschuss Hegau-Hochrhein bei der Stadt Singen; auf Antrag von Eigentümern erstellt er auch Verkehrswertgutachten."
-    },
-    {
-      "q": "Gibt es in Singen Unterstützung, wenn ich mein Einfamilienhaus in zwei Wohnungen teilen möchte?",
-      "a": "Das Programm „Wohnimpuls“ bezuschusst eine Architektenberatung. Ob es aktuell angeboten wird, weiß die Abteilung Stadtplanung."
     }
   ],
   "offen": [
-    "Förderprogramm „Wohnimpuls“ ist laut Stadtseite befristet (Förderzeitraum bis 31.12.2026, 500 Euro, max. 50 Beratungen) — Betrag und Frist bewusst nicht genannt; Abschnitt und FAQ nach Programmende anpassen.",
-    "Stellplatzsatzung, Hochwasser-/Starkregenkarten und Baugrund (LGRB) für Singen nicht recherchiert."
+    "Stellplatzsatzung, Hochwasser-/Starkregenkarten und Baugrund (LGRB) für Singen nicht recherchiert.",
+    "QA 02.10.: Programm „Wohnimpuls“ (befristet bis 31.12.2026) aus Einstieg, Abschnitt, Fakten und FAQ entfernt; Abschnitt 3 durch Gutachterausschuss (Verkehrswertgutachten, Bodenrichtwertkarte, Kaufpreissammlung) ersetzt, Quelle singen.de/gutachterausschuss am 02.10. geöffnet. „Untere Baurechtsbehörde ist die Stadt selbst“ neutral gefasst (auf der Baurechtsseite nicht wörtlich belegt). „gerade“ entfernt."
   ]
 }

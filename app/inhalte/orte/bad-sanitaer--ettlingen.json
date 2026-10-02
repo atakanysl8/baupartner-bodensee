@@ -14,7 +14,7 @@
     },
     {
       "h2": "Leitungen ändern, Bad im Untergeschoss: Eigenbetrieb Abwasserbeseitigung",
-      "text": "Für Abwasserleitungen auf dem Grundstück ist in Ettlingen der Eigenbetrieb Abwasserbeseitigung der Stadt zuständig. Nach § 14 der Abwassersatzung bedürfen Herstellung, Anschluss und Änderung von Grundstücksentwässerungsleitungen einer schriftlichen Genehmigung; das Entwässerungsgesuch wird mit Lageplan und Unterlagen beim Eigenbetrieb eingereicht. Für Bäder im Keller ist außerdem der Rückstau wichtig. Bei Starkregen kann sich das Wasser im Kanal bis zur Straßenoberkante aufstauen und durch tiefer liegende Abläufe ins Haus drücken. Die Stadt hat deshalb in § 19 der Satzung eine Rückstausicherung vorgeschrieben und nennt Hebeanlagen und automatische Rückstauverschlüsse als Beispiele."
+      "text": "Ansprechpartner für Abwasserleitungen auf dem Grundstück ist in Ettlingen der Eigenbetrieb Abwasserbeseitigung der Stadt. Nach § 14 der Abwassersatzung bedürfen Herstellung, Anschluss und Änderung von Grundstücksentwässerungsleitungen einer schriftlichen Genehmigung; das Entwässerungsgesuch wird mit Lageplan und Unterlagen beim Eigenbetrieb eingereicht. Für Bäder im Keller ist außerdem der Rückstau wichtig. Bei Starkregen kann sich das Wasser im Kanal bis zur Straßenoberkante aufstauen und durch tiefer liegende Abläufe ins Haus drücken. § 19 der Satzung sieht deshalb eine Rückstausicherung vor; die Stadt nennt Hebeanlagen und automatische Rückstauverschlüsse als Beispiele."
     },
     {
       "h2": "Barrierearm umbauen: Pflegestützpunkt in der Klostergasse",
@@ -66,7 +66,7 @@
     },
     {
       "q": "Wo reiche ich in Ettlingen ein Entwässerungsgesuch für den Badumbau ein?",
-      "a": "Zuständig ist der Eigenbetrieb Abwasserbeseitigung der Stadt Ettlingen. Ob eine Änderung genehmigungspflichtig ist, klärt in der Regel der Eigenbetrieb vor Baubeginn."
+      "a": "Das Gesuch geht an den Eigenbetrieb Abwasserbeseitigung der Stadt Ettlingen. Ob eine Änderung genehmigungspflichtig ist, klärt in der Regel der Eigenbetrieb vor Baubeginn."
     },
     {
       "q": "Gibt es in Ettlingen eine Beratung, wenn das Bad wegen Pflegebedarf umgebaut werden soll?",
@@ -75,6 +75,7 @@
   ],
   "offen": [
     "Ob die Stadtwerke-Erstberatung zur Energie auch Nicht-Kunden offensteht, wurde nicht geprüft.",
-    "Ortsteilnennungen im Einstieg (Bruchhausen, Schöllbronn) und in der Überschrift (Schluttenbach, Ettlingenweier) stammen aus der Analyse-Tabelle der Stadtwerke."
+    "Ortsteilnennungen im Einstieg (Bruchhausen, Schöllbronn) und in der Überschrift (Schluttenbach, Ettlingenweier) stammen aus der Analyse-Tabelle der Stadtwerke.",
+    "QA 02.10.: Zuständigkeitsformulierungen zum Eigenbetrieb neutral gefasst (Abschnitt 2, FAQ 2); § 19 als Wiedergabe der Satzung."
   ]
 }

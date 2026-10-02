@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Bürgerbüro Bauen und Virtuelles Bauamt",
-      "text": "Erste Anlaufstelle für baurechtliche Fragen ist das Bürgerbüro Bauen der Stadt. Beratungen bis 15 Minuten sind dort gebührenfrei. Gegen Gebühr stellt es ein Servicepaket Planungsgrundlagen zusammen, das neben Bebauungsplan und Baulasten auch Angaben zu Erhaltungssatzung, Sanierungsgebiet, Hochwasser, Altlasten, Fliegerschäden und Denkmalschutz bündelt. Bauanträge, Bauvoranfragen und Kenntnisgabeverfahren reicht man in Ludwigsburg ausschließlich über das Virtuelle Bauamt ein; gebaut werden darf nach Baugenehmigung und Baufreigabe, dem „Roten Punkt“. In den Ortskernen von Eglosheim, Hoheneck, Oßweil, Pflugfelden, Poppenweiler und Neckarweihingen sowie in Innenstadt und Südstadt gelten Erhaltungssatzungen; dort kann auch ein Neubau eine erhaltungsrechtliche Genehmigung brauchen."
+      "text": "Erste Anlaufstelle für baurechtliche Fragen ist das Bürgerbüro Bauen der Stadt. Beratungen bis 15 Minuten sind dort gebührenfrei. Gegen Gebühr stellt es ein Servicepaket Planungsgrundlagen zusammen, das neben Bebauungsplan und Baulasten auch Angaben zu Erhaltungssatzung, Sanierungsgebiet, Hochwasser, Altlasten, Fliegerschäden und Denkmalschutz bündelt. Bauanträge, Bauvoranfragen und Kenntnisgabeverfahren laufen in Ludwigsburg nach Angaben der Stadt ausschließlich über das Virtuelle Bauamt; Baubeginn ist danach erst nach Baugenehmigung und Baufreigabe, dem „Roten Punkt“, möglich. In den Ortskernen von Eglosheim, Hoheneck, Oßweil, Pflugfelden, Poppenweiler und Neckarweihingen sowie in Innenstadt und Südstadt gelten Erhaltungssatzungen; sie sehen bei eingestuften Gebäuden auch für einen Neubau eine erhaltungsrechtliche Genehmigung vor."
     },
     {
       "h2": "Löss, Gipskeuper und Grundwasser: Der Ludwigsburger Baugrund",
-      "text": "Die Stadt hat ihren Baugrund in einem Infoblatt beschrieben. Oben liegen meist Lössschichten mit mittlerer Tragfähigkeit, die bei Wasserzutritt rasch aufweichen. Im Süden und Westen folgen oft tiefgründig verwitterte Reste des Gipskeupers, darunter Lettenkeuper und Muschelkalk, der als Fels beim Aushub teuer werden kann. Das Grundwasser steht je nach Lage zwischen etwa zwei und mehr als zehn Metern unter Gelände. Eingriffe ins Grundwasser, etwa für Baugrube oder Erdwärmesonde, sind nach Angaben der Stadt vor Baubeginn beim Landratsamt anzeige- und genehmigungspflichtig. Nach der Bauzeit darf Grundwasser nicht über Drainagen in den Kanal, das Untergeschoss wird dann gegebenenfalls wasserdicht ausgeführt. Mit diesen Grundlagen schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Die Stadt hat ihren Baugrund in einem Infoblatt beschrieben. Oben liegen meist Lössschichten mit mittlerer Tragfähigkeit, die bei Wasserzutritt rasch aufweichen. Im Süden und Westen folgen oft tiefgründig verwitterte Reste des Gipskeupers, darunter Lettenkeuper und Muschelkalk, der als Fels beim Aushub teuer werden kann. Das Grundwasser steht je nach Lage zwischen etwa zwei und mehr als zehn Metern unter Gelände. Eingriffe ins Grundwasser, etwa für Baugrube oder Erdwärmesonde, sind nach Angaben der Stadt vor Baubeginn beim Landratsamt anzeige- und genehmigungspflichtig. Nach der Bauzeit wird Grundwasser laut Stadt nicht über Drainagen in den Kanal geleitet, das Untergeschoss wird dann gegebenenfalls wasserdicht ausgeführt. Mit diesen Grundlagen schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -25,7 +25,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Bauanträge, Bauvoranfragen, Kenntnisgabeverfahren und Anträge auf Abweichungen sind in Ludwigsburg ausschließlich über das Virtuelle Bauamt einzureichen; Baubeginn erst nach Baugenehmigung und Baufreigabe (Roter Punkt).",
+      "text": "Bauanträge, Bauvoranfragen, Kenntnisgabeverfahren und Anträge auf Abweichungen laufen in Ludwigsburg ausschließlich über das Virtuelle Bauamt; Baubeginn ist laut Stadt erst nach Baugenehmigung und Baufreigabe (Roter Punkt) möglich.",
       "quelle": "Stadt Ludwigsburg – Baurechtliche Verfahren",
       "url": "https://www.ludwigsburg.de/start/rathaus+und+service/baurechtliche+verfahren.html",
       "abruf": "2026-10-02"
@@ -64,7 +64,7 @@
   "faq": [
     {
       "q": "Brauche ich in Ludwigsburg ein Baugrundgutachten?",
-      "a": "Laut Stadt ist nach DIN ab einem mittleren Schwierigkeitsgrad ein baugrundgeologisches Gutachten vorgesehen, und das Baugrundrisiko liegt beim Bauherrn. Die städtische Baugrundkarte gibt nur Anhaltspunkte."
+      "a": "Laut Stadt ist nach DIN ab einem mittleren Schwierigkeitsgrad ein baugrundgeologisches Gutachten vorgesehen. Die städtische Baugrundkarte gibt nur Anhaltspunkte und ersetzt kein Baugrundgutachten."
     },
     {
       "q": "Wie bekomme ich einen städtischen Bauplatz in Ludwigsburg?",
@@ -77,6 +77,7 @@
   ],
   "offen": [
     "Ortsteilnennungen im Einstieg (Poppenweiler, Weststadt, Schlösslesfeld) teils aus Bauplatz-Seite, nicht als einzelne Fakten aufgeführt.",
-    "Hochwasser-/Starkregenkarten der Stadt nicht gesondert recherchiert (nur über Servicepaket erwähnt)."
+    "Hochwasser-/Starkregenkarten der Stadt nicht gesondert recherchiert (nur über Servicepaket erwähnt).",
+    "QA 02.10.: Rechtsfolge „Baugrundrisiko liegt beim Bauherrn“ aus FAQ entfernt; Verfahrens- und Satzungsvorgaben (Virtuelles Bauamt, Roter Punkt, Erhaltungssatzung, Drainage) als Angabe der Stadt/Satzung statt als Anweisung formuliert."
   ]
 }

@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Wohnungsanpassung: Die Fa-GAP und der Pflegestützpunkt in Herrenberg",
-      "text": "Für ein Bad, das auch mit Rollator oder nach einem Sturz noch funktioniert, gibt es in Herrenberg eine städtische Anlaufstelle: die Fachstelle für Gesundheit, Alter und Pflege (Fa-GAP). Sie berät ältere Menschen und ihre Angehörigen und nennt ausdrücklich Wohnungsanpassung und technische Hilfsmittel als Themen, ebenso finanzielle Hilfen durch mögliche Kostenträger. Termine vergibt sie nach Vereinbarung, daneben gibt es offene Sprechzeiten. Für Fragen zur Pflegeversicherung verweist die Stadt auf den Pflegestützpunkt Herrenberg des Landkreises Böblingen. Wer früh klärt, welche Hilfsmittel in Frage kommen, kann Bewegungsflächen, Haltegriffe und eine schwellenlose Dusche gleich in die Planung aufnehmen."
+      "text": "Für ein Bad, das auch mit Rollator oder nach einem Sturz noch funktioniert, gibt es in Herrenberg eine städtische Anlaufstelle: die Fachstelle für Gesundheit, Alter und Pflege (Fa-GAP). Sie berät ältere Menschen und ihre Angehörigen und nennt ausdrücklich Wohnungsanpassung und technische Hilfsmittel als Themen, ebenso finanzielle Hilfen durch mögliche Kostenträger. Für Fragen zur Pflegeversicherung verweist die Stadt auf den Pflegestützpunkt Herrenberg des Landkreises Böblingen. Wer früh klärt, welche Hilfsmittel in Frage kommen, kann Bewegungsflächen, Haltegriffe und eine schwellenlose Dusche gleich in die Planung aufnehmen."
     },
     {
       "h2": "Abwasser und Starkregen: Was ein Kellerbad in Herrenberg betrifft",
-      "text": "Zuständig für die öffentliche Entwässerung ist in Herrenberg das Amt für Tiefbau und Entwässerung. Nach den Informationen der Stadt wird das Abwasser eines Grundstücks über einen Grundstücksentwässerungskanal an die öffentliche Kanalisation angeschlossen; für diese Leitung auf dem Grundstück sind die Eigentümer verantwortlich. Bei einem Bad oder WC im Untergeschoss spielt außerdem der Rückstau eine Rolle, den die Stadt neben Überschwemmungen ausdrücklich als Folge von Starkregen nennt. Herrenberg hat im Rahmen des kommunalen Starkregenrisikomanagements Starkregengefahrenkarten für die gesamte Gemarkung erstellen lassen und weist auf die private Vorsorgepflicht hin. Ein Blick in diese Karten hilft einzuschätzen, wie wichtig eine Rückstausicherung im Einzelfall ist."
+      "text": "Zuständig für die öffentliche Entwässerung ist in Herrenberg das Amt für Tiefbau und Entwässerung. Nach den Informationen der Stadt wird das Abwasser eines Grundstücks über einen Grundstücksentwässerungskanal an die öffentliche Kanalisation angeschlossen. Bei einem Bad oder WC im Untergeschoss spielt außerdem der Rückstau eine Rolle, den die Stadt neben Überschwemmungen ausdrücklich als Folge von Starkregen nennt. Herrenberg hat im Rahmen des kommunalen Starkregenrisikomanagements Starkregengefahrenkarten für die gesamte Gemarkung erstellen lassen und weist auf die private Vorsorgepflicht hin. Ein Blick in diese Karten hilft einzuschätzen, wie wichtig eine Rückstausicherung im Einzelfall ist."
     },
     {
       "h2": "Warmwasser und Heizung: Energieberatung im Klosterhof",
@@ -66,7 +66,7 @@
     },
     {
       "q": "Wer ist in Herrenberg für Kanal und Entwässerung zuständig?",
-      "a": "Das Amt für Tiefbau und Entwässerung der Stadt. Für den Grundstücksentwässerungskanal auf dem eigenen Grundstück sind die Eigentümer verantwortlich."
+      "a": "Für die öffentliche Entwässerung ist laut Stadt das Amt für Tiefbau und Entwässerung zuständig. Dort gibt es auch Auskunft zum Anschluss des Grundstücksentwässerungskanals an die Kanalisation."
     },
     {
       "q": "Wo bekomme ich in Herrenberg eine Energieberatung zur Warmwasserbereitung?",
@@ -77,7 +77,7 @@
     "Wasserhärte für Herrenberg nicht belegbar: Die Website der Stadtwerke Herrenberg war nicht erreichbar (Zertifikatsfehler / nginx-Standardseite); Herrenberg steht nicht in der Analyseliste der Ammertal-Schönbuchgruppe. Deshalb kein Wasserhärte-Abschnitt.",
     "Die Energieagentur Kreis Böblingen nennt für den Arbeitskreis Energie Herrenberg einen Unkostenbeitrag von 5 Euro, die Stadt spricht von kostenfreier Erstberatung – deshalb im Text keine Kostenangabe zum Arbeitskreis.",
     "Satz „für diese Leitung auf dem Grundstück sind die Eigentümer verantwortlich“ ist aus der Stadtseite abgeleitet (Eigentümer müssen anschließen), nicht wörtlich belegt.",
-    
+    "QA 02.10.: Hinweis auf offene Sprechzeiten der Fa-GAP entfernt (Momentangabe); nicht wörtlich belegte Eigentümerverantwortung für den Grundstücksentwässerungskanal aus Abschnitt und FAQ entfernt (Punkt 4).",
     "Die Seniorenseite der Stadt liefert HTTP-Status 404, zeigt aber Inhalt und Canonical auf dieselbe URL."
   ]
 }

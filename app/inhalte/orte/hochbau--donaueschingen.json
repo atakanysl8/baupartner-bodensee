@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Bauantrag und Bebauungspläne bei der Stadt Donaueschingen",
-      "text": "Die Stadtverwaltung führt in ihrer Bauverwaltung ein eigenes Sachgebiet Bauordnung, Bauanträge laufen also über die Stadt. Eingereicht werden sie digital über das Virtuelle Bauamt Baden-Württemberg; dort sind neben der Baugenehmigung auch Bauvoranfrage, Kenntnisgabeverfahren und vereinfachtes Verfahren hinterlegt. Privatpersonen melden sich mit BundID und Online-Ausweis oder mit ELSTER an. Die rechtsverbindlichen Bebauungspläne und örtlichen Bauvorschriften stellt die Stadt getrennt nach Kernstadt und den Ortsteilen Aasen, Grüningen, Heidenhofen, Hubertshofen, Neudingen, Pfohren und Wolterdingen online bereit. Anlagen, Gutachten und Regelwerke zu den Plänen können im Rathaus I eingesehen werden."
+      "text": "Die Stadtverwaltung führt in ihrer Bauverwaltung ein eigenes Sachgebiet Bauordnung. Bauanträge nimmt die Stadt digital über das Virtuelle Bauamt Baden-Württemberg entgegen; dort sind neben der Baugenehmigung auch Bauvoranfrage, Kenntnisgabeverfahren und vereinfachtes Verfahren hinterlegt. Privatpersonen melden sich mit BundID und Online-Ausweis oder mit ELSTER an. Die rechtsverbindlichen Bebauungspläne und örtlichen Bauvorschriften stellt die Stadt getrennt nach Kernstadt und den Ortsteilen Aasen, Grüningen, Heidenhofen, Hubertshofen, Neudingen, Pfohren und Wolterdingen online bereit. Anlagen, Gutachten und Regelwerke zu den Plänen können im Rathaus I eingesehen werden."
     },
     {
       "h2": "Bauplätze in Neudingen und das neue Quartier Am Buchberg",
-      "text": "Für Familien, die ein Einfamilienhaus planen, weist die Stadt im Teilort Neudingen das Baugebiet „Weiherbrünnele“ mit 20 Bauplätzen aus; Ansprechpartner ist die Ortsverwaltung. In der Kernstadt entsteht auf einem rund 14 Hektar großen früheren Militärgelände schrittweise das Stadtquartier „Am Buchberg“, das die städtische Konversions- und Entwicklungsgesellschaft vermarktet. Für Bestandsgebäude in den Ortskernen der Stadt- und Ortsteile gibt es seit 2015 eine städtische Ortskernförderung mit eigenen förderfähigen Zonen; ob Mittel verfügbar sind, beantwortet die Stadt. Den Wert eines Grundstücks hilft der gemeinsame Gutachterausschuss einzuschätzen, dessen Geschäftsstelle in Donaueschingen sitzt."
+      "text": "Für Familien, die ein Einfamilienhaus planen, weist die Stadt im Teilort Neudingen das Baugebiet „Weiherbrünnele“ mit 20 Bauplätzen aus; Ansprechpartner ist die Ortsverwaltung. In der Kernstadt entsteht auf einem rund 14 Hektar großen früheren Militärgelände schrittweise das Stadtquartier „Am Buchberg“, das die städtische Konversions- und Entwicklungsgesellschaft vermarktet. Für Bestandsgebäude in den Ortskernen der Stadt- und Ortsteile gibt es seit 2015 eine städtische Ortskernförderung mit eigenen förderfähigen Zonen; über die aktuellen Bedingungen informiert die Stadt. Den Wert eines Grundstücks hilft der gemeinsame Gutachterausschuss einzuschätzen, dessen Geschäftsstelle in Donaueschingen sitzt."
     },
     {
       "h2": "Starkregen und Hochwasser an Donau, Brigach und Breg",
@@ -73,7 +73,7 @@
   ],
   "faq": [
     {
-      "q": "Gibt es in Donaueschingen aktuell städtische Bauplätze für Einfamilienhäuser?",
+      "q": "Gibt es in Donaueschingen städtische Bauplätze für Einfamilienhäuser?",
       "a": "Die Stadt nennt auf ihrer Seite zu Wohnbauflächen das Baugebiet „Weiherbrünnele“ in Neudingen mit 20 Einfamilienhausbauplätzen. Auskunft zur Verfügbarkeit gibt die Ortsverwaltung Neudingen."
     },
     {
@@ -82,13 +82,14 @@
     },
     {
       "q": "Welche Bebauungspläne gelten in den Donaueschinger Ortsteilen?",
-      "a": "Die Stadt listet die rechtsverbindlichen Bebauungspläne getrennt nach Kernstadt und Ortsteilen auf. Ergänzende Unterlagen können im Rathaus I während der Sprechzeiten eingesehen werden."
+      "a": "Die Stadt listet die rechtsverbindlichen Bebauungspläne getrennt nach Kernstadt und Ortsteilen auf. Ergänzende Unterlagen können im Rathaus I eingesehen werden."
     }
   ],
   "offen": [
     "Bauplatzpreis Weiherbrünnele (155 €/m² laut Stadt) bewusst weggelassen.",
     "Ortskernförderung: Die Stadt meldet für 2026 ausgeschöpfte Haushaltsmittel; im Text daher nur Existenz des Programms und Verweis auf die Stadt.",
     "Zuständigkeit Baurecht aus Organigramm der Stadtverwaltung (Bauverwaltung, Sachgebiet Bauordnung) abgeleitet; keine eigene Seite „Baurechtsamt“ gefunden.",
-    "„Wo Brigach und Breg zusammenfließen“ im Einstieg ist Allgemeinwissen, nicht durch Fakt-Quelle belegt."
+    "„Wo Brigach und Breg zusammenfließen“ im Einstieg ist Allgemeinwissen, nicht durch Fakt-Quelle belegt.",
+    "QA 02.10.: Abgeleitete Folgerung „Bauanträge laufen also über die Stadt“ neutral gefasst; Ortskernförderung ohne Hinweis auf Mittelstand, mit Verweis auf die Stadt; „aktuell“ und „Sprechzeiten“ aus FAQ entfernt."
   ]
 }

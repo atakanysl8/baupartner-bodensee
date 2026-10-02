@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Zuständig in Konstanz: Baurechts- und Denkmalamt und Baupunkt",
-      "text": "Als Große Kreisstadt ist Konstanz selbst untere Baurechtsbehörde; Bauanträge laufen also nicht über das Landratsamt, sondern über das städtische Baurechts- und Denkmalamt. Erste Anlaufstelle für Beratungsgespräche ist der Baupunkt der Stadt. Den Bearbeitungsstand eingereichter Anträge können Bauherren und Architekten online abfragen. Ob für ein Grundstück ein Bebauungsplan gilt und was er festsetzt, zeigt das Geoportal der Stadt im Bereich Planen und Bauen. Liegt das Gebäude in der Altstadt oder steht es unter Denkmalschutz, ist zusätzlich die untere Denkmalschutzbehörde beteiligt; für deren Genehmigung gibt es ein eigenes Beiblatt zum Bauantrag."
+      "text": "Baugesuche bearbeitet in Konstanz die Stadt; auf ihren Seiten nennt sie dafür das städtische Baurechts- und Denkmalamt. Erste Anlaufstelle für Beratungsgespräche ist der Baupunkt der Stadt. Den Bearbeitungsstand eingereichter Anträge können Bauherren und Architekten online abfragen. Ob für ein Grundstück ein Bebauungsplan gilt und was er festsetzt, zeigt das Geoportal der Stadt im Bereich Planen und Bauen. Liegt das Gebäude in der Altstadt oder steht es unter Denkmalschutz, ist zusätzlich die untere Denkmalschutzbehörde beteiligt; für deren Genehmigung gibt es ein eigenes Beiblatt zum Bauantrag."
     },
     {
       "h2": "Bauturbo in Konstanz: Aufstocken und nachverdichten nach Kriterienkatalog",
-      "text": "Die Änderungen im Baugesetzbuch, die als Bauturbo bekannt sind, wendet Konstanz auf Grundlage eines vom Gemeinderat beschlossenen Kriterienkatalogs an. Nach Angaben der Stadt kommt er im gesamten Stadtgebiet in Frage, ausgenommen die denkmalgeschützte Altstadt sowie festgesetzte Industrie- und Gewerbegebiete. Ein Neubau braucht mindestens zwei Wohneinheiten, eine Erweiterung mindestens eine zusätzliche. Vor dem Bauantrag ist eine Vorabstimmung mit dem Baurechts- und Denkmalamt und dem Amt für Stadtplanung und Umwelt vorgesehen, außerdem verlangt die Stadt eine Bauverpflichtung zur Fertigstellung innerhalb von drei Jahren nach Genehmigung."
+      "text": "Die Änderungen im Baugesetzbuch, die als Bauturbo bekannt sind, wendet Konstanz auf Grundlage eines vom Gemeinderat beschlossenen Kriterienkatalogs an. Nach Angaben der Stadt kommt er im gesamten Stadtgebiet in Frage, ausgenommen die denkmalgeschützte Altstadt sowie festgesetzte Industrie- und Gewerbegebiete. Ein Neubau braucht mindestens zwei Wohneinheiten, eine Erweiterung mindestens eine zusätzliche. Vor dem Bauantrag ist eine Vorabstimmung mit dem Baurechts- und Denkmalamt und dem Amt für Stadtplanung und Umwelt vorgesehen, außerdem sieht der Katalog eine Bauverpflichtung zur Fertigstellung innerhalb von drei Jahren nach Genehmigung vor."
     },
     {
       "h2": "Grundstück, Bodenwert und Klima: Planungsgrundlagen am See",
@@ -67,8 +67,8 @@
   ],
   "faq": [
     {
-      "q": "Ist in Konstanz die Stadt oder das Landratsamt für meinen Bauantrag zuständig?",
-      "a": "Die Stadt selbst mit ihrem Baurechts- und Denkmalamt; erste Anlaufstelle ist der Baupunkt."
+      "q": "Wo werden in Konstanz Bauanträge bearbeitet?",
+      "a": "Baugesuche bearbeitet die Stadt Konstanz, die dafür ihr Baurechts- und Denkmalamt nennt; erste Anlaufstelle für Beratungsgespräche ist der Baupunkt."
     },
     {
       "q": "Kann ich mein Haus in der Konstanzer Altstadt über den Bauturbo aufstocken?",
@@ -86,6 +86,7 @@
   "offen": [
     "Satz im Einstieg „Bauland ist in Konstanz knapp … neue Flächen entstehen vor allem durch Nachverdichtung“ stützt sich auf die Begründung der Bauturbo-Seite („Wohnraum ist knapp“), nicht auf eine Flächenstatistik.",
     "Dass Konstanz als Große Kreisstadt selbst untere Baurechtsbehörde ist, ergibt sich aus der Nennung von unterer Baurechtsbehörde und Baurechts- und Denkmalamt auf der Bauturbo-Seite; eine eigene Amtsseite zum Baurechtsamt wurde nicht gefunden.",
-    "Eine örtliche Stellplatzsatzung (Kfz) der Stadt Konstanz wurde nicht geprüft; erwähnt sind nur die landesrechtlichen Fahrradstellplätze."
+    "Eine örtliche Stellplatzsatzung (Kfz) der Stadt Konstanz wurde nicht geprüft; erwähnt sind nur die landesrechtlichen Fahrradstellplätze.",
+    "QA 02.10.: Abgeleitete Aussage „Als Große Kreisstadt ist Konstanz selbst untere Baurechtsbehörde … nicht über das Landratsamt“ in Abschnitt und FAQ neutral gefasst (Punkt 4)."
   ]
 }

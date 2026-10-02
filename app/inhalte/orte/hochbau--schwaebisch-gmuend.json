@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Vom Bauantrag zum Roten Punkt: das Gmünder Baurechtsamt",
-      "text": "Bauanträge in Schwäbisch Gmünd gehen an das städtische Baurechtsamt als Baurechtsbehörde. Eingereicht wird über das Virtuelle Bauamt Baden-Württemberg; Privatpersonen melden sich dort mit einer BundID an. Die Stadt verlangt jede Bauvorlage als einzelne PDF/A-Datei und Pläne mit korrektem Maßstab. Nur die einreichende Person kann Nachrichten und Bescheide im Portal lesen; reicht der Entwurfsverfasser ein, ist eine Empfangsvollmacht nötig. Mit dem Bau begonnen werden darf erst, wenn die Baugenehmigung vorliegt und der Baufreigabeschein, in Gmünd „Roter Punkt“ genannt, erteilt ist. Für grundsätzliche Fragen zur Bebaubarkeit kann vorab ein Bauvorbescheid sinnvoll sein."
+      "text": "Bauanträge nimmt in Schwäbisch Gmünd das städtische Baurechtsamt entgegen. Eingereicht wird über das Virtuelle Bauamt Baden-Württemberg; Privatpersonen melden sich dort mit einer BundID an. Die Stadt verlangt jede Bauvorlage als einzelne PDF/A-Datei und Pläne mit korrektem Maßstab. Nur die einreichende Person kann Nachrichten und Bescheide im Portal lesen; reicht der Entwurfsverfasser ein, ist eine Empfangsvollmacht nötig. Nach Angaben der Stadt darf mit dem Bau erst begonnen werden, wenn die Baugenehmigung vorliegt und der Baufreigabeschein, in Gmünd „Roter Punkt“ genannt, erteilt ist. Für grundsätzliche Fragen zur Bebaubarkeit kann vorab ein Bauvorbescheid sinnvoll sein."
     },
     {
       "h2": "Bauplatz und Bodenwert: Bauplatzmanagement und gemeinsamer Gutachterausschuss",
@@ -88,6 +88,7 @@
   "offen": [
     "Die Bezeichnung „Baurechtsamt“ stammt aus dem Text der Stadt; der genaue Amtsname im Organigramm wurde nicht abgeglichen.",
     "Formulare zur Bauplatzbewerbung: Seite verweist auf „Liegenschafts- und Vermessungsamt“, Übersichtsseite auf „Amt für Stadtentwicklung“ – städtische Seiten uneinheitlich; im Text Amt für Stadtentwicklung genannt.",
-    "„Elf Stadtteile“ laut städtischer Liegenschaftsseite; nicht weiter abgeglichen."
+    "„Elf Stadtteile“ laut städtischer Liegenschaftsseite; nicht weiter abgeglichen.",
+    "QA 02.10.: Zuständigkeitsbehauptung „als Baurechtsbehörde“ entfernt (nicht wörtlich belegt); Baubeginn-Regel als Angabe der Stadt gekennzeichnet."
   ]
 }

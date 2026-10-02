@@ -14,11 +14,11 @@
     },
     {
       "h2": "Bebauungsplan, Verfahrensfreiheit und Stellplätze",
-      "text": "Liegt ein Grundstück im Geltungsbereich eines rechtskräftigen Bebauungsplans, muss das Vorhaben nach Darstellung der Stadt dessen Festsetzungen erfüllen, etwa zu Gebäudehöhe und Nutzung. Auch Vorhaben, die nach der Landesbauordnung verfahrensfrei sind, müssen nach Hinweis des Baurechtsamts Abstandsflächen und Bebauungsplan einhalten; in manchen Fällen sind dafür trotzdem Abweichungen oder Befreiungen zu beantragen. Für Stellplätze gilt seit 2011 eine Satzung, die das gesamte Stadtgebiet in drei Zonen unterteilt. Ziel ist nach Angaben der Stadt, die Innenstadt unter Berücksichtigung ihrer städtebaulichen und verkehrlichen Situation aufzuwerten. Welche Zone ein Grundstück betrifft, zeigt der Plan zur Satzung."
+      "text": "Liegt ein Grundstück im Geltungsbereich eines rechtskräftigen Bebauungsplans, muss das Vorhaben nach Darstellung der Stadt dessen Festsetzungen erfüllen, etwa zu Gebäudehöhe und Nutzung. Auch Vorhaben, die nach der Landesbauordnung verfahrensfrei sind, müssen nach Hinweis des Baurechtsamts Abstandsflächen und Bebauungsplan einhalten; in manchen Fällen können dafür trotzdem Abweichungen oder Befreiungen erforderlich sein. Für Stellplätze gilt seit 2011 eine Satzung, die das gesamte Stadtgebiet in drei Zonen unterteilt. Ziel ist nach Angaben der Stadt, die Innenstadt unter Berücksichtigung ihrer städtebaulichen und verkehrlichen Situation aufzuwerten. Welche Zone ein Grundstück betrifft, zeigt der Plan zur Satzung."
     },
     {
       "h2": "Grundstück und Bodenwert einschätzen",
-      "text": "Bodenrichtwerte ermittelt der Gutachterausschuss der Stadt Pforzheim; abrufbar sind sie über BORIS-BW, zuletzt zum Stichtag 1. Januar 2025. Städtische Wohnbauplätze vergibt das Vermessungs- und Liegenschaftsamt in der Deimlingstraße, das aktuelle Angebot veröffentlicht die Stadt auf ihrer Seite zu Bauplätzen. Gerade bei Hanggrundstücken über Enz und Nagold lohnt eine frühe Abstimmung von Gründung, Stützmauern und Geländeanschluss mit Planer und Bauunternehmen. Wenn Grundstück und Entwurf feststehen, schildern Sie Ihr Bauvorhaben über unser Formular. Wir wählen für Ihre Anfrage ein passendes Bauunternehmen aus."
+      "text": "Bodenrichtwerte ermittelt der Gutachterausschuss der Stadt Pforzheim; abrufbar sind sie über BORIS-BW, unter anderem zum Stichtag 1. Januar 2025. Städtische Wohnbauplätze vergibt das Vermessungs- und Liegenschaftsamt in der Deimlingstraße, das aktuelle Angebot veröffentlicht die Stadt auf ihrer Seite zu Bauplätzen. Gerade bei Hanggrundstücken über Enz und Nagold lohnt eine frühe Abstimmung von Gründung, Stützmauern und Geländeanschluss mit Planer und Bauunternehmen. Wenn Grundstück und Entwurf feststehen, schildern Sie Ihr Bauvorhaben über unser Formular. Wir wählen für Ihre Anfrage ein passendes Bauunternehmen aus."
     }
   ],
   "fakten": [
@@ -29,7 +29,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Auch verfahrensfreie Bauvorhaben müssen öffentlich-rechtliche Vorschriften wie Abstandsflächen oder Vorgaben eines Bebauungsplans einhalten, weshalb in einigen Fällen Abweichungen, Ausnahmen oder Befreiungen beim Baurechtsamt zu beantragen sind.",
+      "text": "Auch verfahrensfreie Bauvorhaben müssen öffentlich-rechtliche Vorschriften wie Abstandsflächen oder Vorgaben eines Bebauungsplans einhalten, weshalb in einigen Fällen Abweichungen, Ausnahmen oder Befreiungen beim Baurechtsamt erforderlich sein können.",
       "quelle": "Stadt Pforzheim – Baurecht",
       "url": "https://www.pforzheim.de/stadt/bauen-stadtentwicklung/baurecht.html",
       "abruf": "2026-10-02"
@@ -86,6 +86,7 @@
   "offen": [
     "Ob die Einreichung in Papierform in Pforzheim noch möglich ist, geht aus der Quelle nicht eindeutig hervor; im Text nur „über das Bauportal“.",
     "Hochwasser-/Starkregenkarten und Baugrund (LGRB) für Pforzheim wurden nicht eigens recherchiert; der Satz zu Hanggrundstücken ist allgemein gehalten.",
-    "Stadtteilnennungen im Einstieg (Büchenbronn, Nordstadt) sind Beispiele."
+    "Stadtteilnennungen im Einstieg (Büchenbronn, Nordstadt) sind Beispiele.",
+    "QA 02.10.: Antragsformulierung („sind zu beantragen“) neutral gefasst; „zuletzt“ beim Bodenrichtwert-Stichtag entfernt."
   ]
 }

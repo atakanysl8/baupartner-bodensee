@@ -10,20 +10,20 @@
   "abschnitte": [
     {
       "h2": "Hartes Mannheimer Grundwasser: was das für Armaturen und Warmwasser bedeutet",
-      "text": "Die MVV gewinnt das Trinkwasser für Mannheim in den Wasserwerken Käfertal und Rheinau und bezieht einen Teil aus dem Wasserwerk Schwetzinger Hardt des Zweckverbands Wasserversorgung Kurpfalz. Nach den aktuellen Analysen liegt die Gesamthärte bei rund 20 °dH, also im Härtebereich „hart“; im Wasserwerk Rheinau wird die Härte durch eine Entcarbonisierung bereits etwas gesenkt. Für ein neues Bad heißt das: Kalk setzt sich an Duschglas, Strahlreglern und in Durchlauferhitzern schneller ab als in Regionen mit weichem Wasser. Wer eine Enthärtungsanlage erwägt, plant ihren Platz sinnvollerweise gleich bei der Leitungsführung im Keller mit ein."
+      "text": "Die MVV gewinnt das Trinkwasser für Mannheim in den Wasserwerken Käfertal und Rheinau und bezieht einen Teil aus dem Wasserwerk Schwetzinger Hardt des Zweckverbands Wasserversorgung Kurpfalz. Nach den Trinkwasseranalysen der MVV (Probenahme August 2026) liegt die Gesamthärte bei rund 20 °dH, also im Härtebereich „hart“; im Wasserwerk Rheinau wird die Härte durch eine Entcarbonisierung bereits etwas gesenkt. Für ein neues Bad heißt das: Kalk setzt sich an Duschglas, Strahlreglern und in Durchlauferhitzern schneller ab als in Regionen mit weichem Wasser. Wer eine Enthärtungsanlage erwägt, plant ihren Platz sinnvollerweise gleich bei der Leitungsführung im Keller mit ein."
     },
     {
       "h2": "Kellerbad und Rückstau: Mischkanalisation am Zusammenfluss von Rhein und Neckar",
-      "text": "Mannheim betreibt eine Mischkanalisation: Regen- und Schmutzwasser fließen gemeinsam zum Klärwerk. Bei Starkregen oder Hochwasser von Rhein und Neckar kann der Wasserspiegel im Kanal steigen. Nach dem Merkblatt der Stadtentwässerung gilt die Straßenoberfläche als Rückstauebene; alles, was tiefer liegt, also etwa Dusche, WC oder Waschmaschinenablauf im Untergeschoss, braucht eine Rückstausicherung wie eine Rückstauklappe für fäkalienhaltiges Wasser oder eine Hebeanlage. Für die Leitungen auf dem eigenen Grundstück bis zum öffentlichen Kanal sind die Eigentümer selbst verantwortlich. Bei einem Bad im Souterrain lohnt es sich deshalb, den Zustand der Grundleitung gleich mit klären zu lassen."
+      "text": "Mannheim betreibt eine Mischkanalisation: Regen- und Schmutzwasser fließen gemeinsam zum Klärwerk. Bei Starkregen oder Hochwasser von Rhein und Neckar kann der Wasserspiegel im Kanal steigen. Nach dem Merkblatt der Stadtentwässerung gilt die Straßenoberfläche als Rückstauebene; für alles, was tiefer liegt, also etwa Dusche, WC oder Waschmaschinenablauf im Untergeschoss, sieht das Merkblatt eine Rückstausicherung vor, etwa eine Rückstauklappe für fäkalienhaltiges Wasser oder eine Hebeanlage. Für die Leitungen auf dem eigenen Grundstück bis zum öffentlichen Kanal sind die Eigentümer selbst verantwortlich. Bei einem Bad im Souterrain lohnt es sich deshalb, den Zustand der Grundleitung gleich mit klären zu lassen."
     },
     {
       "h2": "Barrierearm umbauen: städtische Förderung und Beratung in Mannheim",
-      "text": "Die Stadt Mannheim unterstützt mit einem eigenen Förderprogramm bauliche Maßnahmen, die Barrieren in Mietwohnungen und im Wohneigentum verringern; zuständig ist der Fachbereich Geoinformation und Stadtplanung, der auch über verfügbare Mittel Auskunft gibt. Zu Pflegegrad und Hilfsmitteln berät der Pflegestützpunkt Mannheim kostenfrei, im Quadrat K1 und in Außensprechstunden in mehreren Stadtteilen. Wenn Ihre Planung steht, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+      "text": "Die Stadt Mannheim unterstützt mit einem eigenen Förderprogramm bauliche Maßnahmen, die Barrieren in Mietwohnungen und im Wohneigentum verringern; Ansprechpartner ist laut Stadt der Fachbereich Geoinformation und Stadtplanung; über die aktuellen Bedingungen informiert die Stadt. Zu Pflegegrad und Hilfsmitteln berät der Pflegestützpunkt Mannheim kostenfrei, im Quadrat K1 und in Außensprechstunden in mehreren Stadtteilen. Wenn Ihre Planung steht, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
     }
   ],
   "fakten": [
     {
-      "text": "Laut den aktuellen Trinkwasseranalysen der MVV hat das Wasser aus dem Wasserwerk Käfertal eine Gesamthärte von 20,9 °dH und das aus dem Wasserwerk Rheinau von 19,7 °dH, jeweils Härtebereich „hart“.",
+      "text": "Laut den Trinkwasseranalysen der MVV (Probenahme August 2026) hat das Wasser aus dem Wasserwerk Käfertal eine Gesamthärte von 20,9 °dH und das aus dem Wasserwerk Rheinau von 19,7 °dH, jeweils Härtebereich „hart“.",
       "quelle": "MVV – Trinkwasseranalyse Wasserwerk Käfertal",
       "url": "https://www.mvv.de/fileadmin/user_upload_pk_gewk/pdf/Wasser/wasserqualitaet-kaefertal.pdf",
       "abruf": "2026-10-02"
@@ -72,17 +72,18 @@
     },
     {
       "q": "Was ist bei einer Dusche im Keller in Mannheim zu beachten?",
-      "a": "Weil die Straßenoberfläche als Rückstauebene gilt und das Kanalnetz Regen- und Schmutzwasser gemeinsam führt, brauchen Abläufe unterhalb dieser Höhe eine Rückstausicherung. Auskunft gibt die Stadtentwässerung Mannheim."
+      "a": "Weil die Straßenoberfläche als Rückstauebene gilt und das Kanalnetz Regen- und Schmutzwasser gemeinsam führt, sieht das Merkblatt der Stadtentwässerung für Abläufe unterhalb dieser Höhe eine Rückstausicherung vor. Auskunft gibt die Stadtentwässerung Mannheim."
     },
     {
       "q": "Gibt es in Mannheim einen Zuschuss für ein barrierearmes Bad?",
-      "a": "Die Stadt hat ein Förderprogramm zur Reduzierung von Barrieren in Wohnungen. Ob und in welchem Umfang Mittel verfügbar sind, beantwortet der Fachbereich Geoinformation und Stadtplanung."
+      "a": "Die Stadt hat ein Förderprogramm zur Reduzierung von Barrieren in Wohnungen. Über die aktuellen Bedingungen informiert die Stadt; Ansprechpartner ist der Fachbereich Geoinformation und Stadtplanung."
     }
   ],
   "offen": [
     "MVV ist als Aktiengesellschaft (mehrheitlich städtisch) der örtliche Wasserversorger und wird namentlich genannt – bitte prüfen, ob das unter die Ausnahme „Stadtwerke/Zweckverband“ fällt.",
     "Die Förderseite der Stadt meldet die Mittel für 2026 als ausgeschöpft; im Text deshalb nur auf Auskunft zur Verfügbarkeit verwiesen.",
     "Härtewerte stammen aus den Analysen mit Probenahme August 2026 und können sich ändern; Wasserwerk Schwetzinger Hardt nicht ausgewertet.",
-    "Stadtteilnennungen im Einstieg (Quadrate, Lindenhof, Feudenheim) sind ortsüblich, aber nicht durch eine Fakt-Quelle belegt."
+    "Stadtteilnennungen im Einstieg (Quadrate, Lindenhof, Feudenheim) sind ortsüblich, aber nicht durch eine Fakt-Quelle belegt.",
+    "QA 02.10.: „aktuelle Analysen“ durch Probenahme-Datum ersetzt; Hinweis auf verfügbare Fördermittel (Mittel 2026 ausgeschöpft) entfernt, nur neutraler Verweis auf die Stadt; Rückstausicherung als Wiedergabe des Merkblatts statt Anweisung gefasst."
   ]
 }

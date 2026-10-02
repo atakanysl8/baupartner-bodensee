@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Kundenbereich Baurecht in der Kaiserstraße",
-      "text": "Als Große Kreisstadt entscheidet Rastatt über Bauanträge selbst. Zuständig ist der Kundenbereich Baurecht in der Kaiserstraße 48a. Er nimmt Bauanträge im regulären und im vereinfachten Verfahren entgegen, bearbeitet Kenntnisgabeverfahren und Bauvorbescheide, führt das Baulastenverzeichnis und erteilt denkmalrechtliche Genehmigungen. Auch die Erfüllungserklärung zum Gebäudeenergiegesetz bei der Errichtung eines Gebäudes wird dort vorgelegt. Bebauungspläne, die seit Oktober 2017 in Kraft getreten sind, veröffentlicht die Stadt im Internet; ob ein Grundstück im Geltungsbereich eines älteren Plans liegt, beantwortet der Kundenbereich Stadtplanung. Ein Bauvorbescheid kann bei einem ungewöhnlichen Vorhaben, etwa einem Hinterhaus oder einer Aufstockung, früh Klarheit bringen."
+      "text": "Bauvorhaben bearbeitet bei der Stadt Rastatt der Kundenbereich Baurecht in der Kaiserstraße 48a. Er nimmt Bauanträge im regulären und im vereinfachten Verfahren entgegen, bearbeitet Kenntnisgabeverfahren und Bauvorbescheide, führt das Baulastenverzeichnis und erteilt denkmalrechtliche Genehmigungen. Auch die Erfüllungserklärung zum Gebäudeenergiegesetz bei der Errichtung eines Gebäudes wird dort vorgelegt. Bebauungspläne, die seit Oktober 2017 in Kraft getreten sind, veröffentlicht die Stadt im Internet; ob ein Grundstück im Geltungsbereich eines älteren Plans liegt, beantwortet der Kundenbereich Stadtplanung. Ein Bauvorbescheid kann bei einem ungewöhnlichen Vorhaben, etwa einem Hinterhaus oder einer Aufstockung, früh Klarheit bringen."
     },
     {
       "h2": "Bauplatz in Rastatt: Vergabe nach Kriterien statt Höchstgebot",
@@ -62,7 +62,7 @@
   "faq": [
     {
       "q": "Wo reiche ich in Rastatt einen Bauantrag ein?",
-      "a": "Beim Kundenbereich Baurecht der Stadt Rastatt in der Kaiserstraße 48a. Er ist auch für Kenntnisgabeverfahren und Bauvorbescheide zuständig."
+      "a": "Beim Kundenbereich Baurecht der Stadt Rastatt in der Kaiserstraße 48a. Dort werden auch Kenntnisgabeverfahren und Bauvorbescheide bearbeitet."
     },
     {
       "q": "Bekommt in Rastatt das höchste Gebot den Bauplatz?",
@@ -76,6 +76,7 @@
   "offen": [
     "Satz „Als Große Kreisstadt entscheidet Rastatt über Bauanträge selbst“ abgeleitet aus dem Leistungsangebot des Kundenbereichs Baurecht (Baugenehmigung beantragen).",
     "Einstieg (Baugebiete in Rauental/Niederbühl, Nachverdichtung) ist Einordnung; aktuelle Bauplatzangebote (Vogelsand, Förch) wegen Fristbezug nicht genannt.",
-    "Rastatter Baukindergeld (Förderrichtlinie) und Gestaltungssatzung Innenstadt (PDF nur als Bild) nicht ausgewertet."
+    "Rastatter Baukindergeld (Förderrichtlinie) und Gestaltungssatzung Innenstadt (PDF nur als Bild) nicht ausgewertet.",
+    "QA 02.10.: abgeleitete Zuständigkeit („Als Große Kreisstadt entscheidet Rastatt selbst“) neutral gefasst."
   ]
 }

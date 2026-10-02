@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Wasserhärte in Gmünd: von 12 bis 14,5 °dH je nach Stadtteil",
-      "text": "Die Stadtwerke Gmünd veröffentlichen die Härte getrennt nach Versorgungsgebieten. Für 2025 nennen sie für den größten Teil des Stadtgebiets 13,4 °dH, also „mittel“, ebenso für Bargau, Unterbettringen und Großdeinbach. Degenfeld mit 14 °dH sowie Weiler und Herdtlinsweiler mit 14,5 °dH liegen dagegen im Bereich „hart“. In den härteren Lagen setzt sich mehr Kalk an Duschwänden, Brauseköpfen und im Warmwasserspeicher ab. Ob eine Enthärtung sinnvoll ist, lässt sich mit dem Wert des eigenen Stadtteils besser beurteilen als mit einem Durchschnitt."
+      "text": "Die Stadtwerke Gmünd veröffentlichen die Härte getrennt nach Versorgungsgebieten. Für 2025 nennen sie für den größten Teil des Stadtgebiets 13,4 °dH, also „mittel“; im selben Härtebereich liegen Bargau, Unterbettringen und Großdeinbach. Degenfeld mit 14 °dH sowie Weiler und Herdtlinsweiler mit 14,5 °dH liegen dagegen im Bereich „hart“. In den härteren Lagen setzt sich mehr Kalk an Duschwänden, Brauseköpfen und im Warmwasserspeicher ab. Ob eine Enthärtung sinnvoll ist, lässt sich mit dem Wert des eigenen Stadtteils besser beurteilen als mit einem Durchschnitt."
     },
     {
       "h2": "Nach dem Unwetter von 2016: Kellerbäder gegen Überflutung sichern",
@@ -82,6 +82,7 @@
   "offen": [
     "Wasserhärte für Unterbettringen (12,7), Bargau (12,1) und Großdeinbach (13,5) im Text nur als „mittel“ zusammengefasst; „übriges Stadtgebiet“ = Zeile „GD Rest“ der Tabelle. Dass dort Landeswasser verteilt wird, ist nicht ausdrücklich belegt und daher nicht behauptet.",
     "Wer in Schwäbisch Gmünd die Grundstücksentwässerung betreut (Stadt oder Stadtwerke) und ob es eigene Hinweise zum Rückstau gibt, wurde nicht gefunden; Text bleibt allgemein.",
-    "Die Energieberatungs-Seite ist eine Termin-Seite (Dezember 2026); Sprechstundenrhythmus bewusst nicht genannt."
+    "Die Energieberatungs-Seite ist eine Termin-Seite (Dezember 2026); Sprechstundenrhythmus bewusst nicht genannt.",
+    "QA 02.10.: Satz zu Bargau/Unterbettringen/Großdeinbach präzisiert (dort andere Werte als 13,4 °dH, nur gleicher Härtebereich)."
   ]
 }

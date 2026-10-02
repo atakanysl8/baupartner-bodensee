@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Hartes Wasser in allen Ravensburger Versorgungszonen",
-      "text": "Laut aktueller Jahresanalyse des örtlichen Wasserversorgers liegt die Gesamthärte in allen Ravensburger Versorgungszonen im Bereich „hart“: in der Nord- und Oststadt bei 21,3 °dH, in West-, Süd- und Kernstadt bei 17,8 °dH, in Eschach und Weißenau bei 17,5 °dH. Für die Badplanung bedeutet das in der Regel mehr Pflegeaufwand an Duschglas, Fugen und Perlatoren. Armaturen mit leicht zu reinigenden Strahlreglern, beschichtetes Glas oder eine Enthärtungsanlage für die gesamte Hausinstallation sind hier häufiger ein Thema als in Gebieten mit weichem Wasser. Der Versorger weist darauf hin, dass die Hausinstallation hinter dem Wasserzähler in der Zuständigkeit der Eigentümer liegt."
+      "text": "Laut Jahresanalyse des örtlichen Wasserversorgers (Stand 07/2025) liegt die Gesamthärte in allen Ravensburger Versorgungszonen im Bereich „hart“: in der Nord- und Oststadt bei 21,3 °dH, in West-, Süd- und Kernstadt bei 17,8 °dH, in Eschach und Weißenau bei 17,5 °dH. Für die Badplanung bedeutet das in der Regel mehr Pflegeaufwand an Duschglas, Fugen und Perlatoren. Armaturen mit leicht zu reinigenden Strahlreglern, beschichtetes Glas oder eine Enthärtungsanlage für die gesamte Hausinstallation sind hier häufiger ein Thema als in Gebieten mit weichem Wasser. Der Versorger weist darauf hin, dass die Hausinstallation hinter dem Wasserzähler in der Zuständigkeit der Eigentümer liegt."
     },
     {
       "h2": "Bad im Untergeschoss: Abwasser und Starkregen mitdenken",
-      "text": "Die Abwasserentsorgung ist in Ravensburg städtische Aufgabe; Grundlage ist die Abwassersatzung der Stadt, die Schmutzwassergebühr ermittelt die Stadtkämmerei. Wer im Keller ein Gäste-WC oder eine Dusche einbauen lässt, hat zusätzlich mit der Starkregenvorsorge zu tun. Die Stadt weist darauf hin, dass Starkniederschläge auch in der Ebene zu Überflutungen führen können, weil die Wassermengen meist über den Bemessungsgrenzen der Kanalnetze liegen; in Hanglagen können zudem Sturzfluten entstehen. Abläufe unterhalb der Straßenhöhe brauchen deshalb in der Regel eine Rückstausicherung. Für das Stadtgebiet arbeitet die Stadt an einem Starkregenrisikomanagement mit Gefahrenkarten."
+      "text": "Die Abwasserentsorgung ist in Ravensburg städtische Aufgabe; Grundlage ist die Abwassersatzung der Stadt, die Schmutzwassergebühr ermittelt die Stadtkämmerei. Wer im Keller ein Gäste-WC oder eine Dusche einbauen lässt, hat zusätzlich mit der Starkregenvorsorge zu tun. Die Stadt weist darauf hin, dass Starkniederschläge auch in der Ebene zu Überflutungen führen können, weil die Wassermengen meist über den Bemessungsgrenzen der Kanalnetze liegen; in Hanglagen können zudem Sturzfluten entstehen. Abläufe unterhalb der Straßenhöhe brauchen deshalb in der Regel eine Rückstausicherung. 2024 hat die Stadt beschlossen, für das Stadtgebiet ein Starkregenrisikomanagement mit Gefahrenkarten zu erarbeiten."
     },
     {
       "h2": "Barrierefrei umbauen: Pflegestützpunkt Schussental und Energieberatung",
@@ -41,7 +41,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Die Stadt Ravensburg erarbeitet ein Starkregenrisikomanagement; sie weist darauf hin, dass Starkregen auch in der Ebene Überflutungen verursachen kann, weil die Wassermengen meist über den Bemessungsgrenzen der Kanalnetze liegen.",
+      "text": "Die Stadt Ravensburg hat 2024 die Erarbeitung eines Starkregenrisikomanagements beschlossen; sie weist darauf hin, dass Starkregen auch in der Ebene Überflutungen verursachen kann, weil die Wassermengen meist über den Bemessungsgrenzen der Kanalnetze liegen.",
       "quelle": "Stadt Ravensburg – Starkregenrisikomanagement",
       "url": "https://www.ravensburg.de/rv/aktuelles/2024/starkregenrisikomanagement.php",
       "abruf": "2026-10-02"
@@ -76,13 +76,14 @@
     },
     {
       "q": "Gibt es für Ravensburg Starkregengefahrenkarten?",
-      "a": "Die Stadt erarbeitet ein Starkregenrisikomanagement für das gesamte Stadtgebiet, aufgeteilt in drei Teilgebiete; begonnen wurde nach ihren Angaben mit Gefahrenkarten für das nordöstliche Stadtgebiet."
+      "a": "Die Stadt hat 2024 beschlossen, für das gesamte Stadtgebiet ein Starkregenrisikomanagement mit Gefahrenkarten zu erarbeiten, aufgeteilt in drei Teilgebiete. Welche Karten vorliegen, erfährt man bei der Stadt."
     }
   ],
   "offen": [
     "Wasserversorger ist die Technische Werke Schussental GmbH (kommunal getragen, aber nicht als „Stadtwerke“ benannt); im Fließtext nur „Wasserversorger“, Name nur im Quellenfeld.",
     "Zuordnung der Spalten in der PDF-Tabelle (pdftotext) geprüft, Gornhofen/Fildenmoos-Wert (16,4 °dH) wegen verschobener Spalte nicht übernommen.",
     "Keine eigene Seite der Stadt zur Rückstauebene gefunden; Rückstausicherung nur allgemein („in der Regel“).",
-    "Ortsangaben im Einstieg (Veitsburg, Weststadt, Eschach) nur teilweise durch Fakten belegt."
+    "Ortsangaben im Einstieg (Veitsburg, Weststadt, Eschach) nur teilweise durch Fakten belegt.",
+    "QA 02.10.: „aktuelle“ Jahresanalyse durch Stand 07/2025 ersetzt; Bearbeitungsstand des Starkregenrisikomanagements (laufende Erarbeitung, erste Karten Nordost) durch datierten Beschluss 2024 ersetzt."
   ]
 }

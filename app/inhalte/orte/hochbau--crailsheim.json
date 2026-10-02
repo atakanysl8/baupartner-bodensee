@@ -10,20 +10,20 @@
   "abschnitte": [
     {
       "h2": "Bauantrag bei der Stadt Crailsheim: nur über das Virtuelle Bauamt",
-      "text": "Untere Baurechtsbehörde ist in Crailsheim die Stadt selbst, zuständig ist das Sachgebiet Baurecht. Bauanträge nimmt die Stadt nach eigenen Angaben ausschließlich über das Virtuelle Bauamt Baden-Württemberg an; Anträge per Post oder E-Mail werden zurückgewiesen. Bauherren benötigen dafür eine BundID oder ihr ELSTER-Konto, Architekten ein Unternehmenskonto. Ob für ein Grundstück ein Bebauungsplan gilt, zeigt das BürgerGIS der Stadt, das Bebauungspläne und Flächennutzungsplan für alle Stadtteile online bereitstellt. Für Grundstücke, auf denen sich die notwendigen Stellplätze nicht herstellen lassen, hat der Gemeinderat im September 2026 neue Richtlinien zur Ablösung der Stellplatzpflicht beschlossen."
+      "text": "Untere Baurechtsbehörde ist in Crailsheim die Stadt selbst, zuständig ist das Sachgebiet Baurecht. Bauanträge nimmt die Stadt nach eigenen Angaben ausschließlich über das Virtuelle Bauamt Baden-Württemberg an; Anträge per Post oder E-Mail werden nicht bearbeitet. Bauherren benötigen dafür eine BundID oder ihr ELSTER-Konto, Architekten ein Unternehmenskonto. Ob für ein Grundstück ein Bebauungsplan gilt, zeigt das BürgerGIS der Stadt, das Bebauungspläne und Flächennutzungsplan für alle Stadtteile online bereitstellt. Für Grundstücke, auf denen sich die notwendigen Stellplätze nicht herstellen lassen, hat der Gemeinderat im September 2026 neue Richtlinien zur Ablösung der Stellplatzpflicht beschlossen."
     },
     {
       "h2": "Grundwegsiedlung Altenmünster: Bauplätze mit kalter Nahwärme",
-      "text": "Das Wohnbaugebiet Grundwegsiedlung grenzt südlich an Altenmünster und umfasst rund 8,5 Hektar. Die Stadt vergibt die Wohnbauplätze dort mit Selbstnutzungsverpflichtung, auch Modulhaus- und Doppelhausplätze, und zwar nach dem zeitlichen Eingang der Vormerkungen; der Beginn der Vormerkung wird im Stadtblatt und auf der Website angekündigt. Das Gebiet ist mit Wasser, Strom und kalter Nahwärme der Stadtwerke Crailsheim erschlossen. Diese Anschlusskosten sind nicht im Grundstückspreis enthalten, der Baukostenzuschuss für die kalte Nahwärme ist direkt nach dem Kaufvertrag fällig."
+      "text": "Das Wohnbaugebiet Grundwegsiedlung grenzt südlich an Altenmünster und umfasst rund 8,5 Hektar. Die Stadt vergibt die Wohnbauplätze dort mit Selbstnutzungsverpflichtung, auch Modulhaus- und Doppelhausplätze, und zwar nach dem zeitlichen Eingang der Vormerkungen; der Beginn der Vormerkung wird im Stadtblatt und auf der Website angekündigt. Das Gebiet ist mit Wasser, Strom und kalter Nahwärme der Stadtwerke Crailsheim erschlossen. Diese Anschlusskosten sind nicht im Grundstückspreis enthalten."
     },
     {
       "h2": "Baulücke statt grüner Wiese: Innenentwicklung und Bodenwert",
-      "text": "Mit dem Programm „Innen vor Außen“ fördert die Stadt den Abbruch alter Gebäude, wenn das Grundstück dadurch für eine neue Wohnbebauung frei wird. Bodenrichtwerte ermittelt der interkommunale Gutachterausschuss „Altkreis Crailsheim“ mit 13 Städten und Gemeinden; seine Geschäftsstelle sitzt im Ressort Stadtentwicklung, die Werte sind im BürgerGIS einsehbar. Wenn Grundstück und Vorhaben feststehen, können Sie Ihre Anfrage über unser Formular schildern. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+      "text": "Mit dem Programm „Innen vor Außen“ fördert die Stadt den Abbruch alter Gebäude, wenn das Grundstück dadurch für eine neue Wohnbebauung frei wird; über die aktuellen Bedingungen informiert die Stadt. Bodenrichtwerte ermittelt der interkommunale Gutachterausschuss „Altkreis Crailsheim“ mit 13 Städten und Gemeinden; seine Geschäftsstelle sitzt im Ressort Stadtentwicklung, die Werte sind im BürgerGIS einsehbar. Wenn Grundstück und Vorhaben feststehen, können Sie Ihre Anfrage über unser Formular schildern. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
     }
   ],
   "fakten": [
     {
-      "text": "Bauanträge sind in Crailsheim digital bei der unteren Baurechtsbehörde, der Stadt Crailsheim, über das Virtuelle Bauamt ViBa BW einzureichen; Anträge per Post oder E-Mail werden nicht bearbeitet.",
+      "text": "Die untere Baurechtsbehörde, die Stadt Crailsheim, nimmt Bauanträge digital über das Virtuelle Bauamt ViBa BW entgegen; Anträge per Post oder E-Mail werden nicht bearbeitet.",
       "quelle": "Stadt Crailsheim – Virtuelles Bauamt",
       "url": "https://www.crailsheim.de/rathaus/stadtentwicklung/virtuelles+bauamt",
       "abruf": "2026-10-02"
@@ -83,6 +83,7 @@
     "Die Stadtseite nennt für die Grundwegsiedlung konkrete Grundstückspreise und Anschlusskosten; sie wurden bewusst nicht übernommen (Momentangaben).",
     "Fördersatz und Höchstbetrag von „Innen vor Außen“ stehen auf der Stadtseite (40 %, max. 10.000 €), wurden aber nicht in den Text übernommen.",
     "Dass im Gebiet eine Wärmepumpe „die vorgesehene Lösung“ ist, folgt aus „Hausanschluss- und Wärmepumpenkosten“ auf der Stadtseite; eine ausdrückliche Anschlusspflicht wurde nicht geprüft.",
-    "Zum Hochwasser an der Jagst wurde keine städtische Quelle gesucht."
+    "Zum Hochwasser an der Jagst wurde keine städtische Quelle gesucht.",
+    "QA 02.10.: Fälligkeit des Baukostenzuschusses gestrichen; „Innen vor Außen“ mit Verweis auf die Stadt; Fakt 1 ohne „sind … einzureichen“; „zurückgewiesen“ → „nicht bearbeitet“."
   ]
 }

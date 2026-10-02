@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Planungsrecht in Esslingen: Bürgerbüro Bauen und Geoportal",
-      "text": "Erste Anlaufstelle für Fragen zum Planungsrecht ist das Bürgerbüro Bauen im Technischen Rathaus in der Ritterstraße. Dort gibt es Auskünfte zu geltenden Bebauungsplänen und maßstäbliche Ausdrucke der Planzeichnungen. Ein Teil der rechtsverbindlichen Pläne steht bereits im Geoportal der Stadt zum Download bereit, noch aber nicht alle. Zu vielen Bebauungsplänen gehört eine Satzung über örtliche Bauvorschriften, die nach Angaben der Stadt vor allem in Neubaugebieten und in der Altstadt Dachneigung, Dachfarbe oder die Größe von Dachaufbauten regelt. Für den Entwurf eines Neubaus lohnt sich der Blick in beide Teile früh, weil sie Kubatur und Dachform oft stärker bestimmen als der Grundriss."
+      "text": "Erste Anlaufstelle für Fragen zum Planungsrecht ist das Bürgerbüro Bauen im Technischen Rathaus in der Ritterstraße. Dort gibt es Auskünfte zu geltenden Bebauungsplänen und maßstäbliche Ausdrucke der Planzeichnungen. Ein Teil der rechtsverbindlichen Pläne steht im Geoportal der Stadt zum Download bereit. Zu vielen Bebauungsplänen gehört eine Satzung über örtliche Bauvorschriften, die nach Angaben der Stadt vor allem in Neubaugebieten und in der Altstadt Dachneigung, Dachfarbe oder die Größe von Dachaufbauten regelt. Für den Entwurf eines Neubaus lohnt sich der Blick in beide Teile früh, weil sie Kubatur und Dachform oft stärker bestimmen als der Grundriss."
     },
     {
       "h2": "Gesamtanlage und Außenbereich: wo in Esslingen Grenzen gelten",
@@ -23,7 +23,7 @@
   ],
   "fakten": [
     {
-      "text": "Auskünfte zu geltenden Bebauungsplänen gibt das Bürgerbüro Bauen in der Ritterstraße 17; ein Teil der rechtsverbindlichen Bebauungspläne ist im Geoportal der Stadt digital abrufbar, aber noch nicht alle.",
+      "text": "Auskünfte zu geltenden Bebauungsplänen gibt das Bürgerbüro Bauen in der Ritterstraße 17; ein Teil der rechtsverbindlichen Bebauungspläne ist im Geoportal der Stadt digital abrufbar.",
       "quelle": "Stadt Esslingen am Neckar – Bebauungspläne",
       "url": "https://www.esslingen.de/wohnen-und-bauen/bauen/bauleitplanung/bebauungsplaene",
       "abruf": "2026-10-02"
@@ -86,6 +86,7 @@
   "offen": [
     "Dass Esslingen als Große Kreisstadt selbst untere Baurechtsbehörde ist, wurde nicht auf einer Amtsseite belegt (Bürgerportal nur mit JavaScript, Suche verlangt Anmeldung); im Text daher nur das Bürgerbüro Bauen als Anlaufstelle genannt.",
     "Einstieg „viele Baugrundstücke sind Hanglagen oder Lücken in gewachsenen Quartieren“ ist allgemeine Beschreibung (gestützt auf aktuelle Ausschreibung „Baugrundstück in Hanglage“ und die Weinberg-Seite der Stadt), keine Statistik.",
-    "Esslingen hat eine Satzung über die beschränkte Verwendung luftverunreinigender Brennstoffe (Ortsrecht 6/5, 1997) für neue Feuerstätten; nicht in den Text aufgenommen, da Rechtsfolgen-nah – ggf. Anwaltsfrage."
+    "Esslingen hat eine Satzung über die beschränkte Verwendung luftverunreinigender Brennstoffe (Ortsrecht 6/5, 1997) für neue Feuerstätten; nicht in den Text aufgenommen, da Rechtsfolgen-nah – ggf. Anwaltsfrage.",
+    "QA 02.10.: Bearbeitungsstand des Geoportals („bereits … noch nicht alle“) entfernt."
   ]
 }

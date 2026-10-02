@@ -14,7 +14,7 @@
     },
     {
       "h2": "Rund 280 Bebauungspläne und eine Stellplatzsatzung für die Innenstadt",
-      "text": "Im städtischen Geodatenportal sind der Flächennutzungsplan und rund 280 Bebauungspläne mit Geltungsbereich und Nummer hinterlegt, ergänzt um Katasterkarte und Luftbild. Rechtsverbindlich ist der Originalplan, den die Stadt ebenfalls zur Einsicht bereithält. Für Wohnungen in der Innenstadt gilt eine eigene Stellplatzsatzung: Je nach Wohnfläche sind dort 0,6, 0,8 oder 1,0 Kfz-Stellplätze je Wohnung notwendig, bei Bestandsgebäuden nur für den umgebauten oder umgenutzten Teil. Außerhalb der Innenstadt richten sich Stellplätze nach Landesbauordnung, VwV Stellplätze und den jeweiligen Bebauungsplänen."
+      "text": "Im städtischen Geodatenportal sind der Flächennutzungsplan und rund 280 Bebauungspläne mit Geltungsbereich und Nummer hinterlegt, ergänzt um Katasterkarte und Luftbild. Rechtsverbindlich ist der Originalplan, den die Stadt ebenfalls zur Einsicht bereithält. Für Wohnungen in der Innenstadt gilt eine eigene Stellplatzsatzung: Je nach Wohnfläche sieht sie 0,6, 0,8 oder 1,0 Kfz-Stellplätze je Wohnung vor, bei Bestandsgebäuden nur für den umgebauten oder umgenutzten Teil. Außerhalb der Innenstadt richten sich Stellplätze nach Landesbauordnung, VwV Stellplätze und den jeweiligen Bebauungsplänen."
     },
     {
       "h2": "Städtische Bauplätze und Bodenwerte im östlichen Bodenseekreis",
@@ -47,7 +47,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Für die Genehmigung einer Grundstücksentwässerung sind Bauvorlagen nach § 8 LBOVVO in Verbindung mit § 15 der Abwassersatzung beim Bauordnungsamt einzureichen, unter anderem mit Untergeschoss-Grundrissen samt Rückstauverschlüssen.",
+      "text": "Für die Genehmigung einer Grundstücksentwässerung sieht die Stadt Bauvorlagen nach § 8 LBOVVO in Verbindung mit § 15 der Abwassersatzung beim Bauordnungsamt vor, unter anderem mit Untergeschoss-Grundrissen samt Rückstauverschlüssen.",
       "quelle": "Stadt Friedrichshafen – Antrag auf Entwässerung eines Grundstückes",
       "url": "https://www.friedrichshafen.de/buerger-stadt/rathaus-buergerservice/dienstleistungen-a-z/detailseite/dienstleistung/antrag-auf-entwaesserung-eines-grundstueckes/",
       "abruf": "2026-10-02"
@@ -86,6 +86,7 @@
   "offen": [
     "Ortsteil- und Lagebeispiele im Einstieg (Ailingen, Innenstadt, Seeufer) sind illustrativ, nicht durch Fakt belegt.",
     "Hochwasser-/Starkregengefahrenkarten und Baugrund (LGRB) für Friedrichshafen nicht recherchiert.",
-    "Geltungsbereich der Stellplatzsatzung Wohnen Innenstadt nur über Anlage 1 (Lageplan) definiert; Abgrenzung nicht geprüft."
+    "Geltungsbereich der Stellplatzsatzung Wohnen Innenstadt nur über Anlage 1 (Lageplan) definiert; Abgrenzung nicht geprüft.",
+    "QA 02.10.: Stellplatzsatzung als Wiedergabe gefasst; Fakt Entwässerung ohne „sind … einzureichen“."
   ]
 }

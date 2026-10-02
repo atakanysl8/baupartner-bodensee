@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Brunnenwasser aus dem Donautal: Härte und alte Leitungen",
-      "text": "Der größte Teil Ulms, darunter Eselsberg, Böfingen, Söflingen und Wiblingen, wird aus dem Brunnen „Rote Wand“ im Talboden der Donau versorgt; die Stadtwerke geben dafür 14,1 °dH an und ordnen es als mittelhart ein. Michelsberg und Safranberg erhalten überwiegend Wasser der Landeswasserversorgung, Lehr, Jungingen und Mähringen Wasser des Zweckverbands „Ulmer Alb“, jeweils mit 13,4 °dH. Kalkspuren an Glas und Armaturen sind also überall in der Stadt ein Thema. Bei der Sanierung älterer Häuser lohnt außerdem ein Blick auf die Leitungen: Die Stadtwerke weisen darauf hin, dass nach der Trinkwasserverordnung noch vorhandene Bleileitungen zu entfernen sind, und empfehlen, Stagnation von mehr als 72 Stunden in der Hausinstallation zu vermeiden."
+      "text": "Der größte Teil Ulms, darunter Eselsberg, Böfingen, Söflingen und Wiblingen, wird aus dem Brunnen „Rote Wand“ im Talboden der Donau versorgt; die Stadtwerke geben dafür 14,1 °dH an und ordnen es als mittelhart ein. Michelsberg und Safranberg erhalten überwiegend Wasser der Landeswasserversorgung, Lehr, Jungingen und Mähringen Wasser des Zweckverbands „Ulmer Alb“, jeweils mit 13,4 °dH. Kalkspuren an Glas und Armaturen sind also überall in der Stadt ein Thema. Bei der Sanierung älterer Häuser lohnt außerdem ein Blick auf die Leitungen: Die Stadtwerke weisen auf die Vorgaben der Trinkwasserverordnung zu Bleileitungen hin und empfehlen, Stagnation von mehr als 72 Stunden in der Hausinstallation zu vermeiden."
     },
     {
       "h2": "Kellerbad und Starkregen: Rückstauschutz in Ulm",
-      "text": "Nach Starkregen in den Jahren 2016 und 2017 liefen am Kuhberg und in der Weststadt zahlreiche Keller voll; die Entsorgungs-Betriebe der Stadt Ulm (EBU) haben das zum Anlass genommen, ausführlich über Rückstau zu informieren. Als Rückstauebene gilt in ebenen Lagen die Straßenoberfläche an der Anschlussstelle. Liegen Dusche, WC oder Waschmaschinenanschluss tiefer, kann Abwasser bei Starkregen über diese Abläufe ins Haus drücken; nach den rechtlichen Regelungen sichert sich jeder Grundstückseigentümer selbst gegen Rückstau. Die Leitungen vom Gebäude bis zum öffentlichen Kanal gelten nach der Ulmer Abwassersatzung als privat."
+      "text": "Nach Starkregen in den Jahren 2016 und 2017 liefen am Kuhberg und in der Weststadt zahlreiche Keller voll; die Entsorgungs-Betriebe der Stadt Ulm (EBU) haben das zum Anlass genommen, ausführlich über Rückstau zu informieren. Als Rückstauebene gilt in ebenen Lagen die Straßenoberfläche an der Anschlussstelle. Liegen Dusche, WC oder Waschmaschinenanschluss tiefer, kann Abwasser bei Starkregen über diese Abläufe ins Haus drücken. Einen vollständigen Schutz vor Rückstau im Kanalnetz können die EBU nach eigenen Angaben nicht gewährleisten; Auskunft zur Rückstausicherung geben die EBU. Die Leitungen vom Gebäude bis zum öffentlichen Kanal gelten nach der Ulmer Abwassersatzung als privat."
     },
     {
       "h2": "Barrierearm umbauen: Pflegestützpunkt der Stadt Ulm",
@@ -29,7 +29,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Die Stadtwerke Ulm/Neu-Ulm weisen darauf hin, dass im Gebäude noch vorhandene Bleileitungen nach § 45 der Trinkwasserverordnung zu entfernen sind, und empfehlen, Stagnation von mehr als 72 Stunden in der Trinkwasser-Installation zu vermeiden.",
+      "text": "Die Stadtwerke Ulm/Neu-Ulm weisen auf die Vorgaben des § 45 der Trinkwasserverordnung zu Bleileitungen im Gebäude hin und empfehlen, Stagnation von mehr als 72 Stunden in der Trinkwasser-Installation zu vermeiden.",
       "quelle": "SWU Stadtwerke Ulm/Neu-Ulm – Trinkwasser",
       "url": "https://www.swu.de/privatkunden/produkte-leistungen/trinkwasser/",
       "abruf": "2026-10-02"
@@ -66,7 +66,7 @@
     },
     {
       "q": "Was gilt in Ulm für alte Bleileitungen im Haus?",
-      "a": "Die Stadtwerke Ulm/Neu-Ulm weisen darauf hin, dass Bleileitungen nach der Trinkwasserverordnung zu entfernen sind. Bei einer Badsanierung im Altbau bietet es sich an, die Leitungen mit zu prüfen."
+      "a": "Die Stadtwerke Ulm/Neu-Ulm weisen auf die Vorgaben der Trinkwasserverordnung zu Bleileitungen hin. Bei einer Badsanierung im Altbau bietet es sich an, die Leitungen mit zu prüfen."
     },
     {
       "q": "Wer gibt in Ulm Auskunft zur Lage des Abwasserkanals vor meinem Haus?",
@@ -76,6 +76,7 @@
   "offen": [
     "Ortsteilnennungen im Einstieg (Weststadt, Wiblingen, Jungingen) sind ortsübliche Bezeichnungen; die Versorgungszuordnung ist durch die SWU-Quelle belegt.",
     "Die Abwassersatzung der Stadt Ulm selbst wurde nicht geöffnet; die Aussage zu privaten Entwässerungskanälen stammt von der EBU-Seite.",
-    "Die Bleileitungs-Pflicht ist als Hinweis der Stadtwerke wiedergegeben (Rechtsnähe) – siehe Anwaltsfrage."
+    "Die Bleileitungs-Pflicht ist als Hinweis der Stadtwerke wiedergegeben (Rechtsnähe) – siehe Anwaltsfrage.",
+    "QA 02.10.: Rechtspflichten (Bleileitungen entfernen, Eigentümer sichert sich selbst gegen Rückstau) neutral als Hinweis/Auskunftsstelle gefasst."
   ]
 }

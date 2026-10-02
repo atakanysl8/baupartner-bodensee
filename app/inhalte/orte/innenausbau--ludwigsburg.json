@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Dachausbau in Erhaltungsgebieten: Was von der Straße sichtbar ist",
-      "text": "Ludwigsburg hat seit 2014 mehrere Erhaltungssatzungen beschlossen, zuerst für die Innenstadt, später unter anderem für die Gartenstadt Südstadt und die historischen Ortskerne von Eglosheim, Hoheneck, Oßweil, Pflugfelden, Poppenweiler und Neckarweihingen. In diesen Gebieten sind Gebäude farbig eingestuft. Bei rot, orange oder gelb markierten Häusern braucht ein Umbau eine erhaltungsrechtliche Genehmigung, soweit er für das Stadtbild relevant ist. Das betrifft nach Angaben der Stadt in der Regel Arbeiten an Dach und Fassade auf der Straßenseite, also etwa neue Gauben oder Dachfenster beim Dachgeschossausbau. Reine Innenarbeiten berührt das meist nicht. Ob ein Vorhaben darunter fällt, klärt das Bürgerbüro Bauen oder der Fachbereich Stadtplanung und Geoinformation."
+      "text": "Ludwigsburg hat seit 2014 mehrere Erhaltungssatzungen beschlossen, zuerst für die Innenstadt, später unter anderem für die Gartenstadt Südstadt und die historischen Ortskerne von Eglosheim, Hoheneck, Oßweil, Pflugfelden, Poppenweiler und Neckarweihingen. In diesen Gebieten sind Gebäude farbig eingestuft. Für rot, orange oder gelb markierte Häuser sehen die Satzungen eine erhaltungsrechtliche Genehmigung vor, soweit ein Umbau für das Stadtbild relevant ist. Das betrifft nach Angaben der Stadt in der Regel Arbeiten an Dach und Fassade auf der Straßenseite, also etwa neue Gauben oder Dachfenster beim Dachgeschossausbau. Reine Innenarbeiten berührt das meist nicht. Ob ein Vorhaben darunter fällt, klärt das Bürgerbüro Bauen oder der Fachbereich Stadtplanung und Geoinformation."
     },
     {
       "h2": "Bauakte, Statik und Wohnungsteilung",
-      "text": "Vor einem Wanddurchbruch hilft ein Blick in die Unterlagen. Das Bürgerbüro Bauen gewährt Eigentümern gegen Gebühr Einsicht in die Bauakte und, soweit vorhanden, in Statikunterlagen, die auch ausgeliehen werden können. Bei denkmalgeschützten oder erhaltenswerten Gebäuden informiert es außerdem, welche Maßnahmen möglich sind. Wer ein Haus so umbaut, dass Wohnungen einzeln verkauft oder auf Kinder übertragen werden sollen, benötigt dafür unter anderem eine Abgeschlossenheitsbescheinigung mit Aufteilungsplan. Für die energetische Seite des Ausbaus, etwa die Dämmung der Dachschrägen, berät die Energieagentur Kreis Ludwigsburg kostenlos. Danach schildern Sie Ihr Vorhaben über unser Formular, und wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Vor einem Wanddurchbruch hilft ein Blick in die Unterlagen. Das Bürgerbüro Bauen gewährt Eigentümern gegen Gebühr Einsicht in die Bauakte und, soweit vorhanden, in Statikunterlagen, die auch ausgeliehen werden können. Bei denkmalgeschützten oder erhaltenswerten Gebäuden informiert es außerdem, welche Maßnahmen möglich sind. Sollen nach dem Umbau Wohnungen einzeln verkauft oder auf Kinder übertragen werden, nennt die Stadt für die Aufteilung in Wohnungseigentum unter anderem eine Abgeschlossenheitsbescheinigung mit Aufteilungsplan. Für die energetische Seite des Ausbaus, etwa die Dämmung der Dachschrägen, berät die Energieagentur Kreis Ludwigsburg kostenlos. Danach schildern Sie Ihr Vorhaben über unser Formular, und wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -71,6 +71,7 @@
   ],
   "offen": [
     "Ob einzelne Gebäude innerhalb der Gesamtanlage zusätzlich Einzeldenkmale sind (mit Innenschutz), nicht geprüft.",
-    "Zuständige untere Denkmalschutzbehörde für Ludwigsburg (Stadt als Große Kreisstadt) nicht ausdrücklich auf Stadtseite belegt; FAQ nennt nur „die Denkmalschutzbehörde“."
+    "Zuständige untere Denkmalschutzbehörde für Ludwigsburg (Stadt als Große Kreisstadt) nicht ausdrücklich auf Stadtseite belegt; FAQ nennt nur „die Denkmalschutzbehörde“.",
+    "QA 02.10.: Genehmigungspflicht nach Erhaltungssatzung als Satzungswiedergabe formuliert; „benötigt … eine Abgeschlossenheitsbescheinigung“ als Angabe der Stadt statt als Anweisung gefasst."
   ]
 }

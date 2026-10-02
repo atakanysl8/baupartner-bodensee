@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Stellplätze und Dächer: örtliche Bauvorschriften in Öhringen",
-      "text": "Öhringen hat die Stellplatzpflicht für Wohnungen per Satzung erhöht. Im bebauten Stadtgebiet einschließlich der Ortsteile sind 1,5 Stellplätze je Wohnung nachzuweisen. In einem abgegrenzten Teil der Kernstadt gelten für Wohnungen über 60 Quadratmeter 2 Stellplätze, davon ein halber im Freien. Ausgenommen sind unter anderem die Innenstadt und preisgebundener Wohnraum; abweichende Regeln in Bebauungsplänen haben Vorrang. Eine weitere Satzung regelt Dachfarben im Stadtgebiet: Zulässig sind ziegelrot bis rotbraun, grau, braun und anthrazit, glänzende Materialien nicht; Walmdächer sind zusätzlich erlaubt. Im Geltungsbereich der Gestaltungssatzung gelten eigene Vorgaben, bei Kulturdenkmalen das Denkmalrecht."
+      "text": "Öhringen hat die Stellplatzpflicht für Wohnungen per Satzung erhöht. Im bebauten Stadtgebiet einschließlich der Ortsteile sieht die Satzung 1,5 Stellplätze je Wohnung vor. In einem abgegrenzten Teil der Kernstadt gelten für Wohnungen über 60 Quadratmeter 2 Stellplätze, davon ein halber im Freien. Ausgenommen sind unter anderem die Innenstadt und preisgebundener Wohnraum; abweichende Regeln in Bebauungsplänen haben Vorrang. Eine weitere Satzung regelt Dachfarben im Stadtgebiet: Zulässig sind ziegelrot bis rotbraun, grau, braun und anthrazit, glänzende Materialien nicht; Walmdächer sind zusätzlich erlaubt. Im Geltungsbereich der Gestaltungssatzung gelten eigene Vorgaben, bei Kulturdenkmalen das Denkmalrecht."
     },
     {
       "h2": "Bauplatz, Bebauungsplan und Bodenwert",
-      "text": "Wer einen städtischen Bauplatz sucht, kann sich bei der Stadt in eine Interessentenliste eintragen. Nach Angaben der Stadt ist das keine Reservierung: Interessenten werden informiert, sobald Vergabekriterien feststehen, und bewerben sich dann gesondert. Genannt werden unter anderem das Gebiet Göckes I in Michelbach am Wald und der Limespark C in der Kernstadt. Die Bebauungspläne aller Kommunen im Hohenlohekreis stehen im HOKis-Geoportal online. Für die Einschätzung von Grundstückspreisen ist der gemeinsame Gutachterausschuss zuständig, den Öhringen mit Neuenstein, Zweiflingen, Pfedelbach und Bretzfeld bildet; seine Geschäftsstelle ist bei der Stadt Öhringen angesiedelt."
+      "text": "Wer einen städtischen Bauplatz sucht, kann sich bei der Stadt in eine Interessentenliste eintragen. Nach Angaben der Stadt ist das keine Reservierung: Interessenten werden informiert, sobald Vergabekriterien feststehen, und bewerben sich dann gesondert. Die Bebauungspläne aller Kommunen im Hohenlohekreis stehen im HOKis-Geoportal online. Für die Einschätzung von Grundstückspreisen ist der gemeinsame Gutachterausschuss zuständig, den Öhringen mit Neuenstein, Zweiflingen, Pfedelbach und Bretzfeld bildet; seine Geschäftsstelle ist bei der Stadt Öhringen angesiedelt."
     },
     {
       "h2": "Hochwasser und Starkregen: Wasser früh in die Planung nehmen",
@@ -73,7 +73,7 @@
   ],
   "faq": [
     {
-      "q": "Wie viele Stellplätze brauche ich in Öhringen pro Wohnung?",
+      "q": "Wie viele Stellplätze je Wohnung sieht die Öhringer Satzung vor?",
       "a": "Nach der städtischen Stellplatzsatzung in der Regel 1,5 je Wohnung, im Bereich „Kernstadt B“ für Wohnungen über 60 m² 2. Abweichende Festsetzungen im Bebauungsplan gehen vor."
     },
     {
@@ -87,6 +87,7 @@
   ],
   "offen": [
     "Dass die Stadt Öhringen als Große Kreisstadt selbst untere Baurechtsbehörde ist, ist nur mittelbar belegt (eigene Anmeldung „Stadt Öhringen“ im Portal ViBa BW); eine Amtsseite zum Baurechtsamt wurde nicht gefunden. Im Text daher nur „bei der Stadt Öhringen einreichen“.",
-    "Die Stadtbildsatzung (Gestaltungssatzung) und ihr Geltungsbereich wurden nicht im Volltext gelesen."
+    "Die Stadtbildsatzung (Gestaltungssatzung) und ihr Geltungsbereich wurden nicht im Volltext gelesen.",
+    "QA 02.10.: Nennung künftiger Vergabegebiete (Göckes I, Limespark C) als Momentangabe entfernt; Stellplatzpflicht als Satzungswiedergabe statt Anweisung gefasst."
   ]
 }

@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Bauordnungsamt, Baubezirke und digitaler Bauantrag",
-      "text": "Untere Baurechtsbehörde ist in Karlsruhe das Bauordnungsamt der Stadt. Es ist für Bauanträge, Bauvoranfragen und Kenntnisgabeverfahren zuständig und teilt das Stadtgebiet in drei Baubezirke auf: Welcher Bezirk Ansprechpartner ist, hängt vom Stadtteil des Grundstücks ab. Seit Januar 2025 nimmt das Amt Anträge nur noch digital über das Virtuelle Bauamt entgegen, Papier oder E-Mail werden nicht angenommen. Für Planende gibt es donnerstags vormittags eine offene Sprechzeit, bei Problemen mit der digitalen Antragstellung zusätzlich einen telefonischen Support. Termine vergeben die Baubezirke nach telefonischer Absprache."
+      "text": "Für Bauanträge, Bauvoranfragen und Kenntnisgabeverfahren ist in Karlsruhe laut Stadt das städtische Bauordnungsamt zuständig. Es teilt das Stadtgebiet in drei Baubezirke auf: Welcher Bezirk Ansprechpartner ist, hängt vom Stadtteil des Grundstücks ab. Seit Januar 2025 nimmt das Amt Anträge nur noch digital über das Virtuelle Bauamt entgegen, Papier oder E-Mail werden nicht angenommen. Bei Problemen mit der digitalen Antragstellung gibt es einen telefonischen Support. Termine vergeben die Baubezirke nach telefonischer Absprache."
     },
     {
       "h2": "Bebauungsplan, Stellplätze und Photovoltaik in der Fächerstadt",
@@ -85,6 +85,7 @@
   ],
   "offen": [
     "Stadtteilnennungen im Einstieg (Neureut, Südweststadt, Grötzingen) sind über die Baubezirksliste belegt, die konkreten Bauvorhaben dort sind nur Beispiele.",
-    "Baugrund (LGRB-Kartenviewer) wurde für Karlsruhe nicht eigens geprüft."
+    "Baugrund (LGRB-Kartenviewer) wurde für Karlsruhe nicht eigens geprüft.",
+    "QA 02.10.: Offene Sprechzeit (donnerstags vormittags) entfernt (Momentangabe); „Untere Baurechtsbehörde ist das Bauordnungsamt“ durch die belegte Zuständigkeitsangabe der Stadt ersetzt."
   ]
 }

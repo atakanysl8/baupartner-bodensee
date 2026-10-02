@@ -18,7 +18,7 @@
     },
     {
       "h2": "Barrierefrei umbauen: Beratung und städtisches Förderprogramm",
-      "text": "Für ein schwellenloses Bad gibt es in Stuttgart mehrere neutrale Anlaufstellen. Der Pflegestützpunkt der Stadt berät an sieben Standorten, nach Stadtbezirken aufgeteilt, unter anderem zu Hilfsmitteln und barrierearmem Wohnen. Das Energieberatungszentrum Stuttgart (EBZ) bietet eine von der Stadt geförderte Wohnraumberatung an, die Umbau und energetische Sanierung zusammen betrachtet. Die Stadt selbst hat ein Förderprogramm „Barrierefreies und altersgerechtes Wohnen“, das ausdrücklich auch Badumbauten nennt; ein Antrag ist dort nur vor Beginn der Arbeiten möglich. Wenn die Planung steht, schildern Sie Ihr Vorhaben über unser Formular, und wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Für ein schwellenloses Bad gibt es in Stuttgart mehrere neutrale Anlaufstellen. Der Pflegestützpunkt der Stadt berät an sieben Standorten, nach Stadtbezirken aufgeteilt, unter anderem zu Hilfsmitteln und barrierearmem Wohnen. Das Energieberatungszentrum Stuttgart (EBZ) bietet eine von der Stadt geförderte Wohnraumberatung an, die Umbau und energetische Sanierung zusammen betrachtet. Die Stadt selbst hat ein Förderprogramm „Barrierefreies und altersgerechtes Wohnen“, das ausdrücklich auch Badumbauten nennt; über die aktuellen Bedingungen informiert die Stadt. Wenn die Planung steht, schildern Sie Ihr Vorhaben über unser Formular, und wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -47,7 +47,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Das städtische Programm „Barrierefreies und altersgerechtes Wohnen“ nennt Badumbauten als förderfähig; Anträge sind nur vor Beginn der Umbaumaßnahme möglich.",
+      "text": "Das städtische Programm „Barrierefreies und altersgerechtes Wohnen“ nennt Badumbauten als förderfähig.",
       "quelle": "Landeshauptstadt Stuttgart – Förderprogramme barrierefreies Stuttgart",
       "url": "https://www.stuttgart.de/buergerinnen-und-buerger/menschen-mit-behinderung/barrierefrei-in-stuttgart/foerderprogramme-barrierefreies-stuttgart",
       "abruf": "2026-10-02"
@@ -82,6 +82,7 @@
   "offen": [
     "Welcher Stadtbezirk welches Fernwasser (bzw. welche Mischung) erhält, wurde nicht ermittelt; Text verweist auf die adressgenaue Abfrage.",
     "Das städtische Förderprogramm barrierefreies Wohnen meldet auf seiner Seite, dass die Fördermittel derzeit noch nicht zur Verfügung stehen; daher keine Beträge im Text.",
-    "Ortsteilnennungen im Einstieg (Westen, Filder, Degerloch) nicht durch Fakt-Quelle belegt."
+    "Ortsteilnennungen im Einstieg (Westen, Filder, Degerloch) nicht durch Fakt-Quelle belegt.",
+    "QA 02.10.: Förderbedingung „Antrag nur vor Beginn“ entfernt, Programm nur neutral mit Verweis auf die Stadt genannt."
   ]
 }

@@ -35,7 +35,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "In den übrigen Versorgungszonen liegt die Gesamthärte laut den Analysen 2025 zwischen 13,0 und 14,3 °dH, in der Zone Röhrach zum Beispiel bei 13,9 °dH.",
+      "text": "In den meisten übrigen Versorgungszonen liegt die Gesamthärte laut den Analysen 2025 zwischen 13,0 und 14,3 °dH, in der Zone Röhrach zum Beispiel bei 13,9 °dH.",
       "quelle": "Stadtwerke Schorndorf – Trinkwasseranalyse 2025 Zone Röhrach",
       "url": "https://stadtwerke-schorndorf.cdn.prismic.io/stadtwerke-schorndorf/aUE9JXNYClf9oP6h_251210_Trinkwasseranalyse-2025_Schorndorf-R%C3%B6hrach.pdf",
       "abruf": "2026-10-02"
@@ -81,6 +81,7 @@
   ],
   "offen": [
     "Die Härtewerte der übrigen Zonen wurden aus den gescannten Analyse-PDFs abgelesen (Buhlbronn, Mannshaupten, Schornbach je 13,0; Oberberken 13,3; Weiler 13,5; Steinmäurich 13,6; Röhrach 13,9; Unterberken 14,3 °dH); für Haubersbronn, Miedelsbach, Ottilienberg und Schlichten war der Wert im Ausschnitt nicht lesbar, Calcium/Magnesium liegen aber im selben Bereich.",
-    "Eine Abwassersatzung der Stadt Schorndorf (Rückstauebene, Genehmigung für Änderungen der Grundstücksentwässerung) wurde nicht gefunden und nicht zitiert."
+    "Eine Abwassersatzung der Stadt Schorndorf (Rückstauebene, Genehmigung für Änderungen der Grundstücksentwässerung) wurde nicht gefunden und nicht zitiert.",
+    "QA 02.10.: Fakt zur Härte der übrigen Zonen auf „in den meisten übrigen“ eingeschränkt, da für vier Zonen kein Wert lesbar war."
   ]
 }

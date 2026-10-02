@@ -6,15 +6,15 @@
   "title": "Bauunternehmen Stuttgart – kostenlos vermittelt",
   "description": "Neubau oder Anbau in Stuttgart: Baurechtsamt, über 3500 Bebauungspläne, Heilquellenschutz und Starkregen. Passender Baubetrieb kostenlos vermittelt.",
   "h1": "Bauunternehmen in Stuttgart",
-  "einstieg": "Bauland ist in Stuttgart knapp, gebaut wird oft am Hang, in Baulücken oder als Ersatzneubau auf einem Bestandsgrundstück. Wer hier ein Haus errichten, anbauen oder aufstocken will, hat es mit einem dicht geschichteten Planungsrecht, einem besonderen Untergrund und dem städtischen Baurechtsamt als Genehmigungsbehörde zu tun.",
+  "einstieg": "Bauland ist in Stuttgart knapp, gebaut wird oft am Hang, in Baulücken oder als Ersatzneubau auf einem Bestandsgrundstück. Wer hier ein Haus errichten, anbauen oder aufstocken will, hat es mit einem dicht geschichteten Planungsrecht, einem besonderen Untergrund und dem städtischen Baurechtsamt zu tun.",
   "abschnitte": [
     {
       "h2": "Baurechtsamt und Planrecht: Was auf einem Stuttgarter Grundstück erlaubt ist",
-      "text": "Untere Baurechtsbehörde ist in Stuttgart die Stadt selbst, genauer das Baurechtsamt. Erste Anlaufstelle ist dessen Bürgerservice Bauen, der die planungsrechtliche Bebaubarkeit anhand eines Datenblatts erläutert, das unter anderem Bebauungsplan, Sanierungsgebiet und Denkmalschutz enthält. Die erste Viertelstunde der Beratung ist nach Angaben der Stadt kostenfrei. Das Planrecht ist anspruchsvoll: Über 3500 Bebauungspläne gelten im Stadtgebiet, teils liegen mehrere Planschichten übereinander, und in Teilen der Stadt wirkt noch die Baustaffel von 1935. Seit Juni 2026 laufen die meisten Bauanträge in Stuttgart über das Landesportal „Virtuelles Bauamt“. Für Wohnungen gilt eine eigene Stellplatzsatzung, die die Zahl der Pkw-Stellplätze unter anderem nach der Anbindung an Bus und Bahn bemisst."
+      "text": "Ansprechpartner für Bauvorhaben ist in Stuttgart das städtische Baurechtsamt. Erste Anlaufstelle ist dessen Bürgerservice Bauen, der die planungsrechtliche Bebaubarkeit anhand eines Datenblatts erläutert, das unter anderem Bebauungsplan, Sanierungsgebiet und Denkmalschutz enthält. Die erste Viertelstunde der Beratung ist nach Angaben der Stadt kostenfrei. Das Planrecht ist anspruchsvoll: Über 3500 Bebauungspläne gelten im Stadtgebiet, teils liegen mehrere Planschichten übereinander, und in Teilen der Stadt wirkt noch die Baustaffel von 1935. Seit Juni 2026 laufen die meisten Bauanträge in Stuttgart über das Landesportal „Virtuelles Bauamt“. Für Wohnungen gilt eine eigene Stellplatzsatzung, die die Zahl der Pkw-Stellplätze unter anderem nach der Anbindung an Bus und Bahn bemisst."
     },
     {
       "h2": "Mineralwasser, Grundwasser und Starkregen: Der Untergrund zählt",
-      "text": "Stuttgart besitzt nach Budapest das größte Mineralwasservorkommen Europas, seit 2002 gibt es ein ausgewiesenes Heilquellenschutzgebiet, vor allem um Bad Cannstatt und Berg. Die Stadt macht deshalb in Baugenehmigungs- und wasserrechtlichen Verfahren fachliche Vorgaben zum Grundwasserschutz und überwacht Baustellen. Wer mit einem Keller ins Grundwasser reicht oder während der Bauzeit Wasser abpumpt, braucht in der Regel eine wasserrechtliche Erlaubnis. Dazu kommt das Thema Starkregen: Grundstücke am Hang, in Mulden oder im Tal sind laut Stadt besonders gefährdet, die städtische Starkregengefahrenkarte und die Hochwassergefahrenkarte des Landes zeigen die Lage. Wenn Grundstück und Rahmen klar sind, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Stuttgart besitzt nach Budapest das größte Mineralwasservorkommen Europas, seit 2002 gibt es ein ausgewiesenes Heilquellenschutzgebiet, vor allem um Bad Cannstatt und Berg. Die Stadt macht deshalb in Baugenehmigungs- und wasserrechtlichen Verfahren fachliche Vorgaben zum Grundwasserschutz und überwacht Baustellen. Für Keller im Grundwasser oder eine Wasserhaltung während der Bauzeit nennt die Stadt eine wasserrechtliche Erlaubnis als Voraussetzung. Dazu kommt das Thema Starkregen: Grundstücke am Hang, in Mulden oder im Tal sind laut Stadt besonders gefährdet, die städtische Starkregengefahrenkarte und die Hochwassergefahrenkarte des Landes zeigen die Lage. Wenn Grundstück und Rahmen klar sind, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -64,7 +64,7 @@
   "faq": [
     {
       "q": "Ist in Stuttgart die Stadt oder das Landratsamt für meinen Bauantrag zuständig?",
-      "a": "Stuttgart ist Stadtkreis, Baurechtsbehörde ist daher das städtische Baurechtsamt. Die Anträge laufen inzwischen überwiegend über das Virtuelle Bauamt des Landes."
+      "a": "Bauanträge werden bei der Stadt Stuttgart gestellt, überwiegend über das Virtuelle Bauamt des Landes. Ansprechpartner ist das städtische Baurechtsamt mit dem Bürgerservice Bauen."
     },
     {
       "q": "Wie finde ich heraus, welcher Bebauungsplan für mein Grundstück gilt?",
@@ -77,6 +77,7 @@
   ],
   "offen": [
     "Genaue Abgrenzung und Zonen des Heilquellenschutzgebiets nicht geprüft; nur allgemein beschrieben.",
-    "Bodenrichtwerte (Gutachterausschuss) nicht in den Text aufgenommen."
+    "Bodenrichtwerte (Gutachterausschuss) nicht in den Text aufgenommen.",
+    "QA 02.10.: Abgeleitete Zuständigkeitsaussage („untere Baurechtsbehörde“, „Stadtkreis, daher …“) neutral gefasst; Grundwasser-Erlaubnis als Angabe der Stadt statt Anweisung."
   ]
 }

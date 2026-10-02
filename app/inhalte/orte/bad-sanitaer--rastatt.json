@@ -6,7 +6,7 @@
   "title": "Badsanierung Rastatt – Fachbetrieb kostenlos vermittelt",
   "description": "Badsanierung in Rastatt: mittelhartes Grundwasser, Anmeldung bei den Stadtwerken, Rückstau nach Abwassersatzung 2026. Fachbetrieb kostenlos vermittelt.",
   "h1": "Badsanierung in Rastatt",
-  "einstieg": "In Rastatt reicht der Wohnungsbestand von der barocken Innenstadt bis zu den Rheinauen-Dörfern Plittersdorf und Wintersdorf. Wer hier ein Bad modernisiert, profitiert von vergleichsweise weichem Grundwasser, sollte aber die Regeln der Stadtwerke für Trinkwasserinstallationen und die neue Abwassersatzung der Stadt kennen, besonders bei einem Bad im Keller.",
+  "einstieg": "In Rastatt reicht der Wohnungsbestand von der barocken Innenstadt bis zu den Rheinauen-Dörfern Plittersdorf und Wintersdorf. Wer hier ein Bad modernisiert, profitiert von vergleichsweise weichem Grundwasser, sollte aber die Regeln der Stadtwerke für Trinkwasserinstallationen und die Abwassersatzung der Stadt kennen, besonders bei einem Bad im Keller.",
   "abschnitte": [
     {
       "h2": "Grundwasser aus Ottersdorf und Rauental: mittlere Härte",
@@ -14,7 +14,7 @@
     },
     {
       "h2": "Neue Leitungen anmelden, Rückstau einplanen",
-      "text": "Wird eine Trinkwasseranlage errichtet oder erweitert, etwa beim Versetzen des Bades oder einem zusätzlichen Duschbad, ist das bei den Stadtwerken Rastatt anzumelden. Die Anmeldung unterschreibt der verantwortliche Fachmann eines bei den Stadtwerken eingetragenen Installationsunternehmens; der Wasserzähler wird erst nach einer Sichtkontrolle eingebaut. Auf der Abwasserseite hält die Abwassersatzung der Stadt fest, dass Rückstau in Misch- und Regenwasserkanälen planmäßig vorgesehen ist und Wasserstände bis zur Straßenhöhe jederzeit möglich sind. Toiletten, Duschen oder Waschbecken darunter sind auf eigene Kosten zu sichern, und eine geänderte Grundstücksentwässerung darf erst nach Abnahme durch die Stadt in Betrieb gehen."
+      "text": "Wird eine Trinkwasseranlage errichtet oder erweitert, etwa beim Versetzen des Bades oder einem zusätzlichen Duschbad, sieht das Verfahren der Stadtwerke Rastatt eine Anmeldung vor. Die Anmeldung unterschreibt der verantwortliche Fachmann eines bei den Stadtwerken eingetragenen Installationsunternehmens; der Wasserzähler wird erst nach einer Sichtkontrolle eingebaut. Auf der Abwasserseite hält die Abwassersatzung der Stadt fest, dass Rückstau in Misch- und Regenwasserkanälen planmäßig vorgesehen ist und Wasserstände bis zur Straßenhöhe jederzeit möglich sind. Nach der Satzung sind Toiletten, Duschen oder Waschbecken darunter vom Eigentümer auf eigene Kosten zu sichern, und eine geänderte Grundstücksentwässerung geht erst nach Abnahme durch die Stadt in Betrieb."
     },
     {
       "h2": "Beratung im Landkreis: Pflege, Energie, Starkregen",
@@ -70,12 +70,13 @@
     },
     {
       "q": "Was regelt die Rastatter Abwassersatzung für ein Kellerbad?",
-      "a": "Sie weist darauf hin, dass Rückstau bis zur Straßenhöhe jederzeit möglich ist. Entwässerungsgegenstände darunter sind gegen Rückstau zu sichern, geänderte Anlagen werden von der Stadt abgenommen."
+      "a": "Sie weist darauf hin, dass Rückstau bis zur Straßenhöhe jederzeit möglich ist. Nach der Satzung sind Entwässerungsgegenstände darunter gegen Rückstau zu sichern, geänderte Anlagen werden von der Stadt abgenommen."
     }
   ],
   "offen": [
     "Ob eine reine Badsanierung ohne Leitungserweiterung bereits unter die Anmeldepflicht der Stadtwerke fällt, geht aus der Anleitung nicht eindeutig hervor; Text spricht nur von Errichtung/Erweiterung.",
     "Einstieg (barocke Innenstadt, Rheinauen-Dörfer) ist allgemeine Einordnung.",
-    "Eine Wohnberatung (Wohnraumanpassung) speziell im Landkreis Rastatt wurde nicht gefunden; Pflegestützpunkt nennt Wohnraumanpassung nicht ausdrücklich."
+    "Eine Wohnberatung (Wohnraumanpassung) speziell im Landkreis Rastatt wurde nicht gefunden; Pflegestützpunkt nennt Wohnraumanpassung nicht ausdrücklich.",
+    "QA 02.10.: „neue“ Abwassersatzung (Momentangabe) neutralisiert; Anmeldung und Rückstausicherung als Wiedergabe von Stadtwerke-Verfahren bzw. Satzung statt Anweisung gefasst."
   ]
 }

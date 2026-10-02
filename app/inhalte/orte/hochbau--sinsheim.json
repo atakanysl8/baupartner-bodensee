@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Bebauungspläne und Baurecht bei der Großen Kreisstadt",
-      "text": "Auf den Gemarkungen der Großen Kreisstadt Sinsheim gelten über 200 rechtskräftige Bebauungspläne einschließlich zahlreicher Änderungen. Sie sind im Geodatenportal der Stadt online einsehbar; rechtsverbindlich sind nach Hinweis der Stadt aber nur die Originalpläne beim Amt für Stadt- und Flächenentwicklung, das auch zum Verständnis der Festsetzungen berät. Bauanträge und Genehmigungen nach der Erhaltungssatzung laufen über die Baurechtsbehörde der Stadt Sinsheim. Für Grundriss, Geschosszahl und Dachform eines Neubaus ist der Bebauungsplan meist die erste Weichenstellung, deshalb lohnt der Blick ins Portal vor dem ersten Entwurf."
+      "text": "Auf den Gemarkungen der Großen Kreisstadt Sinsheim gelten über 200 rechtskräftige Bebauungspläne einschließlich zahlreicher Änderungen. Sie sind im Geodatenportal der Stadt online einsehbar; rechtsverbindlich sind nach Hinweis der Stadt aber nur die Originalpläne beim Amt für Stadt- und Flächenentwicklung, das auch zum Verständnis der Festsetzungen berät. Genehmigungen nach der Erhaltungssatzung erteilt laut Stadt die Baurechtsbehörde der Stadt Sinsheim. Für Grundriss, Geschosszahl und Dachform eines Neubaus ist der Bebauungsplan meist die erste Weichenstellung, deshalb lohnt der Blick ins Portal vor dem ersten Entwurf."
     },
     {
       "h2": "Gartenstadt, Starkregen und Bauplätze: örtliche Besonderheiten",
-      "text": "Für die Gartenstadt rund um den Heinrich-Hagmaier-Platz und ihre Osterweiterung entlang der General-Sigel-Straße gilt seit 2018 eine Erhaltungssatzung. Dort bedürfen Rückbau, Änderung und Neuerrichtung baulicher Anlagen einer Genehmigung, auch wenn das Vorhaben nach Landesbauordnung sonst verfahrensfrei wäre. Außerdem hat die Stadt für Kernstadt und Stadtteile Starkregengefahrenkarten erstellen lassen, die Überflutungstiefen und Fließgeschwindigkeiten für drei Szenarien zeigen; für Lage von Kellern, Lichtschächten und Hauseingängen sind sie eine wichtige Grundlage. Städtische Bauplätze vermarktet Sinsheim entweder nach Höchstgebot oder nach einem Einheimischen-Modell; welches Verfahren gilt, entscheidet der Gemeinderat, angeboten wird über die Plattform Baupilot."
+      "text": "Für die Gartenstadt rund um den Heinrich-Hagmaier-Platz und ihre Osterweiterung entlang der General-Sigel-Straße gilt seit 2018 eine Erhaltungssatzung. Die Satzung sieht für Rückbau, Änderung und Neuerrichtung baulicher Anlagen eine Genehmigung vor, auch wenn das Vorhaben nach Landesbauordnung sonst verfahrensfrei wäre. Außerdem hat die Stadt für Kernstadt und Stadtteile Starkregengefahrenkarten erstellen lassen, die Überflutungstiefen und Fließgeschwindigkeiten für drei Szenarien zeigen; für Lage von Kellern, Lichtschächten und Hauseingängen sind sie eine wichtige Grundlage. Städtische Bauplätze vermarktet Sinsheim entweder nach Höchstgebot oder nach einem Einheimischen-Modell; welches Verfahren gilt, entscheidet der Gemeinderat, angeboten wird über die Plattform Baupilot."
     },
     {
       "h2": "Bodenwert und Anfrage",
@@ -41,12 +41,6 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Im Baugebiet „Bründel“ in Dühren sind laut Stadt Wohngebäude mit höchstens zwei Wohneinheiten und zwei Stellplätzen je Wohneinheit vorgesehen.",
-      "quelle": "Stadt Sinsheim – Bauland",
-      "url": "https://www.sinsheim.de/wirtschaft-bauen-umwelt/bauen-wohnen/grundstuecke/bauplaetze",
-      "abruf": "2026-10-02"
-    },
-    {
       "text": "Die Starkregengefahrenkarten der Stadt Sinsheim zeigen Überflutungstiefen und Fließgeschwindigkeiten für drei Szenarien; das extreme Szenario beruht auf 128 Millimetern Niederschlag in einer Stunde.",
       "quelle": "Stadt Sinsheim – Starkregengefahrenkarten",
       "url": "https://www.sinsheim.de/leben-gesellschaft/bevoelkerungsschutz/starkregen",
@@ -66,7 +60,7 @@
     },
     {
       "q": "Was gilt beim Umbau oder Neubau in der Sinsheimer Gartenstadt?",
-      "a": "Dort gilt eine Erhaltungssatzung: Abbruch, Änderung und Neubau sind genehmigungspflichtig, auch wenn sie sonst verfahrensfrei wären. Zuständig ist die Baurechtsbehörde der Stadt."
+      "a": "Dort gilt eine Erhaltungssatzung; sie sieht für Abbruch, Änderung und Neubau eine Genehmigung vor, auch wenn diese sonst verfahrensfrei wären. Zuständig ist laut Stadt die Baurechtsbehörde der Stadt."
     },
     {
       "q": "Wie vergibt die Stadt Sinsheim ihre Bauplätze?",
@@ -76,6 +70,7 @@
   "offen": [
     "„Zwölf Stadtteile“ im Einstieg stützt sich auf die Seite der Stadtwerke (Versorgung in der Stadt und 12 Ortsteilen).",
     "Angaben zum Baugebiet Bründel sind eine Momentaufnahme des städtischen Bauplatzangebots.",
-    "Eine eigene Amtsseite der Baurechtsbehörde Sinsheim wurde nicht geöffnet; Zuständigkeit ergibt sich aus der Seite zur Erhaltungssatzung."
+    "Eine eigene Amtsseite der Baurechtsbehörde Sinsheim wurde nicht geöffnet; Zuständigkeit ergibt sich aus der Seite zur Erhaltungssatzung.",
+    "QA 02.10.: Zuständigkeit für Bauanträge (nur aus Erhaltungssatzungsseite abgeleitet) auf Genehmigungen nach der Erhaltungssatzung beschränkt; Satzungspflicht als Wiedergabe formuliert; Momentaufnahme Baugebiet „Bründel“ aus Fakten entfernt."
   ]
 }

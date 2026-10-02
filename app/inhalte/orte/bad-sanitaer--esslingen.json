@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Zwei Wasserquellen: Härte in Esslingen je nach Stadtteil",
-      "text": "Die Stadtwerke Esslingen versorgen die Stadt nicht aus eigenen Brunnen, sondern über zwei Fernwasserversorger. Der größte Teil Esslingens erhält Wasser der Landeswasserversorgung aus dem Donauried, das die Stadtwerke mit 13,2 °dH angeben. In Berkheim und auf dem Zollberg fließt Bodenseewasser mit 9,1 °dH. Beides liegt im Härtebereich „mittel“, der Unterschied von rund vier Grad ist aber an Duschglas, Perlatoren und im Warmwasserspeicher spürbar. Wer zwischen Wohnung in der Innenstadt und Haus in Berkheim vergleicht, sollte also nicht dieselbe Empfehlung zur Enthärtung erwarten. Für die Badplanung reicht in der Regel der Blick auf den eigenen Stadtteil."
+      "text": "Die Stadtwerke Esslingen versorgen die Stadt nicht aus eigenen Brunnen, sondern über zwei Fernwasserversorger. Der größte Teil Esslingens erhält Wasser der Landeswasserversorgung aus dem Donauried, das die Stadtwerke mit 13,2 °dH angeben. In Berkheim und auf dem Zollberg fließt Bodenseewasser mit 9,1 °dH. Beides liegt im Härtebereich „mittel“, der Unterschied von rund vier Grad ist aber an Duschglas, Perlatoren und im Warmwasserspeicher spürbar. Wer zwischen Wohnung in der Innenstadt und Haus in Berkheim vergleicht, sollte also nicht dieselbe Empfehlung zur Enthärtung erwarten."
     },
     {
       "h2": "Neue Abwasserleitung? Entwässerungsgesuch beim Tiefbauamt",
-      "text": "Werden im Zuge der Badsanierung Leitungen verlegt, ein Bad im Untergeschoss neu angeschlossen oder Fallrohre verändert, berührt das die Grundstücksentwässerung. Nach der Esslinger Abwassersatzung bedürfen Herstellung und Änderung von Grundstücksentwässerungsanlagen der schriftlichen Genehmigung der Stadt, zuständig ist das Tiefbauamt. Zum Entwässerungsgesuch gehören unter anderem Grundrisse des Untergeschosses mit Leitungen, Rückstauverschlüssen und Kontrollschacht. Als Rückstauebene gilt grundsätzlich die Straßenoberfläche über dem Anschluss an den öffentlichen Kanal; Toiletten, Bodenabläufe oder Waschbecken darunter sind gegen Rückstau zu sichern. Ob ein konkreter Umbau ein Gesuch auslöst, beantwortet das Tiefbauamt."
+      "text": "Werden im Zuge der Badsanierung Leitungen verlegt, ein Bad im Untergeschoss neu angeschlossen oder Fallrohre verändert, berührt das die Grundstücksentwässerung. Nach der Esslinger Abwassersatzung bedürfen Herstellung und Änderung von Grundstücksentwässerungsanlagen der schriftlichen Genehmigung der Stadt, zuständig ist das Tiefbauamt. Zum Entwässerungsgesuch gehören unter anderem Grundrisse des Untergeschosses mit Leitungen, Rückstauverschlüssen und Kontrollschacht. Als Rückstauebene gilt grundsätzlich die Straßenoberfläche über dem Anschluss an den öffentlichen Kanal; für Toiletten, Bodenabläufe oder Waschbecken darunter sieht die Satzung eine Sicherung gegen Rückstau vor. Ob ein konkreter Umbau ein Gesuch auslöst, beantwortet das Tiefbauamt."
     },
     {
       "h2": "Barrierearm und sparsam: Beratung in Stadt und Landkreis",
@@ -76,6 +76,8 @@
   "offen": [
     "Ortsteilnennungen im Einstieg (Altstadt, Oberesslingen, Berkheim) sind ortsübliche Bezeichnungen; nur Berkheim/Zollberg sind durch die Stadtwerke-Quelle belegt.",
     "Die Stadtwerke-Seite nennt Denkendorf und Nellingen ebenfalls als Bodenseewasser-Gebiete (Nachbargemeinden); im Text weggelassen.",
-    "Die Bezeichnung „Tiefbauamt“ als Genehmigungsstelle stammt aus § 9 der Abwassersatzung; eine eigene Amtsseite zum Entwässerungsgesuch wurde nicht gefunden (Suche auf esslingen.de verlangt Anmeldung)."
+    "Die Bezeichnung „Tiefbauamt“ als Genehmigungsstelle stammt aus § 9 der Abwassersatzung; eine eigene Amtsseite zum Entwässerungsgesuch wurde nicht gefunden (Suche auf esslingen.de verlangt Anmeldung).",
+    "QA 02.10.: Rückstau-Satz in Abschnitt 2 als Wiedergabe der Satzung gefasst.",
+    "QA 02.10.: Banalen Schlusssatz in Abschnitt 1 gestrichen (Wortgrenze 600)."
   ]
 }

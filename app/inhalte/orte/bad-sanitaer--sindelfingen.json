@@ -14,11 +14,11 @@
     },
     {
       "h2": "Kellerbad und Starkregen: Rückstauschutz in Sindelfingen mitdenken",
-      "text": "Ein Duschbad oder WC im Untergeschoss liegt oft unter dem Niveau des Straßenkanals. Die Stadt Sindelfingen nennt in ihren Hinweisen zum Starkregen ausdrücklich Rückstauklappen für Entwässerungsanschlüsse unterhalb des Kanalniveaus als Schutzmaßnahme und verweist für Fragen an die Stadtentwässerung Sindelfingen. Sie arbeitet an einem Starkregenrisikomanagement; die Starkregengefahrenkarten lassen sich per E-Mail oder als Kartenausschnitt bei der Stadtentwässerung anfordern. Wer ohnehin Leitungen im Keller öffnet, kann dabei klären lassen, ob ein Rückstauverschluss vorhanden ist. Ist der Umfang klar, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Ein Duschbad oder WC im Untergeschoss liegt oft unter dem Niveau des Straßenkanals. Die Stadt Sindelfingen nennt in ihren Hinweisen zum Starkregen ausdrücklich Rückstauklappen für Entwässerungsanschlüsse unterhalb des Kanalniveaus als Schutzmaßnahme und verweist für Fragen an die Stadtentwässerung Sindelfingen. Die Starkregengefahrenkarten lassen sich per E-Mail oder als Kartenausschnitt bei der Stadtentwässerung anfordern. Wer ohnehin Leitungen im Keller öffnet, kann dabei klären lassen, ob ein Rückstauverschluss vorhanden ist. Ist der Umfang klar, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     },
     {
       "h2": "Barrierearmes Bad: Wohnberatung und Pflegestützpunkt in Sindelfingen",
-      "text": "Enge Bäder und hohe Duschtassen gehören zu den häufigsten Hindernissen, wenn das Älterwerden in der eigenen Wohnung gelingen soll. Die Stadt Sindelfingen verweist dafür auf die Beratungsstelle Wohnungsanpassung des DRK-Kreisverbands Böblingen mit Sitz in Sindelfingen. Sie berät zu Hause, sucht gemeinsam nach Lösungen, begleitet die Anpassung und informiert über die Finanzierung. Der Pflegestützpunkt Sindelfingen am Corbeil-Essonnes-Platz ist zusätzlich für Aidlingen, Grafenau und Magstadt zuständig und hilft bei Fragen zu Leistungen der Pflegekassen. Zur Warmwasserbereitung berät die Energieagentur Kreis Böblingen unabhängig; wer Fernwärme bezieht, plant die angekündigte Absenkung der Netztemperaturen in der Regel gleich mit ein."
+      "text": "Enge Bäder und hohe Duschtassen gehören zu den häufigsten Hindernissen, wenn das Älterwerden in der eigenen Wohnung gelingen soll. Die Stadt Sindelfingen verweist dafür auf die Beratungsstelle Wohnungsanpassung des DRK-Kreisverbands Böblingen mit Sitz in Sindelfingen. Sie berät zu Hause, sucht gemeinsam nach Lösungen, begleitet die Anpassung und informiert über die Finanzierung. Der Pflegestützpunkt Sindelfingen am Corbeil-Essonnes-Platz ist zusätzlich für Aidlingen, Grafenau und Magstadt zuständig und hilft bei Fragen zu Leistungen der Pflegekassen. Zur Warmwasserbereitung berät die Energieagentur Kreis Böblingen unabhängig."
     }
   ],
   "fakten": [
@@ -57,12 +57,6 @@
       "quelle": "Stadt Sindelfingen – Beratungsangebote",
       "url": "https://www.sindelfingen.de/klima-umwelt/erneuerbare-energien/beratungsangebote",
       "abruf": "2026-10-02"
-    },
-    {
-      "text": "Die Stadtwerke Sindelfingen kündigen an, die Vor- und Rücklauftemperaturen in ihren Fernwärmenetzen in mehreren Schritten zu senken.",
-      "quelle": "Stadtwerke Sindelfingen – Neue Netztemperaturen",
-      "url": "https://www.stadtwerke-sindelfingen.de/privatkunden/fernwaerme/neue-netztemperaturen/",
-      "abruf": "2026-10-02"
     }
   ],
   "faq": [
@@ -77,10 +71,12 @@
     {
       "q": "Gibt es in Sindelfingen eine neutrale Beratung zum barrierearmen Bad?",
       "a": "Ja, die Stadt nennt die Beratungsstelle Wohnungsanpassung des DRK-Kreisverbands Böblingen, die auch zu Hause berät. Fragen zu Pflegekassenleistungen beantwortet der Pflegestützpunkt Sindelfingen."
-    }  ],
+    }
+  ],
   "offen": [
     "Ob die Stadtentwässerung Sindelfingen für Bad-Umbauten ein Entwässerungsgesuch verlangt, wurde nicht geprüft.",
     "Zeitplan der Fernwärme-Temperaturabsenkung (Quelle nennt Beginn ab 2030) bewusst nicht im Text genannt; Auswirkungen auf Warmwasserbereitung nicht aus Quelle belegt, nur allgemein angedeutet.",
-    "Ortsteilzuordnung zur Wasserversorgung stammt aus dem Analyseblatt der Stadtwerke (Stand 2024/2025)."
+    "Ortsteilzuordnung zur Wasserversorgung stammt aus dem Analyseblatt der Stadtwerke (Stand 2024/2025).",
+    "QA 02.10.: Bearbeitungsstand „arbeitet an einem Starkregenrisikomanagement“ entfernt; angekündigte Fernwärme-Temperaturabsenkung (künftig, Auswirkung unbelegt) aus Text und Fakten entfernt."
   ]
 }

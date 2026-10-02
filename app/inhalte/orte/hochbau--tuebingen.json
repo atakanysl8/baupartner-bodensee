@@ -6,7 +6,7 @@
   "title": "Bauunternehmen Tübingen – kostenlos vermittelt",
   "description": "Bauen in Tübingen: Fachbereich Baurecht, Tübinger Modell mit Konzeptvergabe, Bauplätze in den Teilorten, Bauturbo und Bodenrichtwerte. Kostenlos vermittelt.",
   "h1": "Bauunternehmen in Tübingen",
-  "einstieg": "Wohnraum ist in Tübingen gefragt, und die Universitätsstadt steuert ihre Bauflächen so aktiv wie kaum eine andere Stadt. Wer hier ein Haus bauen, mit einer Baugruppe ein Mehrfamilienhaus errichten oder ein Bestandsgebäude erweitern will, trifft auf eigene Vergabeverfahren, einen städtischen Fachbereich Baurecht und klare Regeln für den Bauturbo.",
+  "einstieg": "Wohnraum ist in Tübingen gefragt, und die Universitätsstadt steuert ihre Bauflächen mit eigenen Instrumenten. Wer hier ein Haus bauen, mit einer Baugruppe ein Mehrfamilienhaus errichten oder ein Bestandsgebäude erweitern will, trifft auf eigene Vergabeverfahren, einen städtischen Fachbereich Baurecht und klare Regeln für den Bauturbo.",
   "abschnitte": [
     {
       "h2": "Tübinger Modell: Wie die Stadt Bauland vergibt",
@@ -14,7 +14,7 @@
     },
     {
       "h2": "Fachbereich Baurecht und Service-Center Bauen in der Brunnenstraße",
-      "text": "Als Große Kreisstadt ist Tübingen selbst untere Baurechtsbehörde. Der städtische Fachbereich Baurecht bearbeitet Bauanträge, Bauvorbescheide, denkmalschutzrechtliche Genehmigungen sowie Genehmigungen in Sanierungsgebieten und Bereichen mit Erhaltungsgeboten. Für die Altstadt und andere Quartiere gibt es Ortsbild- und Erhaltungssatzungen mit eigenen Ansprechpersonen. Das Service-Center Bauen gibt allgemeine Auskünfte zu Verfahrensfragen und Auszüge aus dem Baulastenbuch; eine Beratung zu konkreten Einzelfragen ist nach Terminabsprache möglich, ersetzt aber nicht die Leistung eines Fachplaners. Wohnungsbau über den Bauturbo setzt in Tübingen die Zustimmung der Gemeinde voraus, die im Einzelfall entscheidet und Bedingungen an die städtebauliche Qualität knüpfen kann; einen Anspruch darauf gibt es nicht."
+      "text": "Zuständig für grundstücksbezogene Genehmigungen ist laut Stadt der Fachbereich Baurecht. Er bearbeitet Bauanträge, Bauvorbescheide, denkmalschutzrechtliche Genehmigungen sowie Genehmigungen in Sanierungsgebieten und Bereichen mit Erhaltungsgeboten. Für die Altstadt und andere Quartiere gibt es Ortsbild- und Erhaltungssatzungen mit eigenen Ansprechpersonen. Das Service-Center Bauen gibt allgemeine Auskünfte zu Verfahrensfragen und Auszüge aus dem Baulastenbuch; eine Beratung zu konkreten Einzelfragen ist nach Terminabsprache möglich, ersetzt aber nicht die Leistung eines Fachplaners. Wohnungsbau über den Bauturbo setzt in Tübingen die Zustimmung der Gemeinde voraus, die im Einzelfall entscheidet und Bedingungen an die städtebauliche Qualität knüpfen kann; einen Anspruch darauf gibt es nicht."
     },
     {
       "h2": "Bodenrichtwerte und Planung für das eigene Grundstück",
@@ -83,6 +83,7 @@
     "„Als Große Kreisstadt ist Tübingen selbst untere Baurechtsbehörde“ ist aus der Zuständigkeit des Fachbereichs Baurecht abgeleitet, nicht wörtlich belegt.",
     "Die Tübinger Eckpunkte zum Bauturbo (Qualität und soziale Sicherung) waren auf der Seite eingeklappt und nicht auslesbar.",
     "Hinweis auf „Tübinger Hanglagen“ ist eine allgemeine Ortsbeschreibung, keine Quellenaussage (Quelle nennt nur „besonders steil“ als Beispiel).",
-    "Hochwasser-/Starkregengefahr (Neckar, Ammer) und Baugrund nicht recherchiert."
+    "Hochwasser-/Starkregengefahr (Neckar, Ammer) und Baugrund nicht recherchiert.",
+    "QA 02.10.: Abgeleitete Aussage „als Große Kreisstadt untere Baurechtsbehörde“ durch belegte Zuständigkeit des Fachbereichs Baurecht ersetzt; Superlativ „so aktiv wie kaum eine andere Stadt“ entfernt."
   ]
 }

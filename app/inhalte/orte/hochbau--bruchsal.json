@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Baurechtsbehörde der Stadt und Bauantrag über ViBa",
-      "text": "Als Große Kreisstadt ist Bruchsal selbst untere Baurechtsbehörde. Seit dem 1. Oktober 2026 nimmt sie Bauanträge, Kenntnisgabeverfahren, Bauvoranfragen, Abweichungsanträge und Abgeschlossenheitsbescheinigungen nur noch digital über das Landesportal „Virtuelles Bauamt“ (ViBa) an, Papier ist nicht mehr vorgesehen. Grundlage sind nach Angabe der Stadt die Vorgaben der Landesbauordnung zur digitalen Einreichung; denkmalschutzrechtliche Anträge laufen weiterhin per E-Mail. Welcher Bebauungsplan für ein Grundstück gilt, lässt sich im interaktiven Stadtplan der Stadt abrufen, mit Planzeichnung, textlichen Festsetzungen und Begründung. Überschneiden sich Geltungsbereiche, gilt nach Angabe der Stadt der zuletzt rechtskräftig gewordene Plan."
+      "text": "Bauanträge in Bruchsal gehen an die Baurechtsbehörde der Stadt. Seit dem 1. Oktober 2026 nimmt sie Bauanträge, Kenntnisgabeverfahren, Bauvoranfragen, Abweichungsanträge und Abgeschlossenheitsbescheinigungen nur noch digital über das Landesportal „Virtuelles Bauamt“ (ViBa) an, Papier ist nicht mehr vorgesehen. Grundlage sind nach Angabe der Stadt die Vorgaben der Landesbauordnung zur digitalen Einreichung; denkmalschutzrechtliche Anträge laufen weiterhin per E-Mail. Welcher Bebauungsplan für ein Grundstück gilt, lässt sich im interaktiven Stadtplan der Stadt abrufen, mit Planzeichnung, textlichen Festsetzungen und Begründung. Überschneiden sich Geltungsbereiche, gilt nach Angabe der Stadt der zuletzt rechtskräftig gewordene Plan."
     },
     {
       "h2": "Bau-Turbo und Wohnbaustrategie 2026: was in Bruchsal neu ist",
@@ -82,6 +82,7 @@
   "offen": [
     "Dass Bruchsal als Große Kreisstadt untere Baurechtsbehörde ist, folgt aus der Pressemitteilung (Baurechtsbehörde der Stadt), der Status „Große Kreisstadt“ selbst ist nicht durch eine Fakt-Quelle belegt.",
     "Das Datum 1. Oktober 2026 liegt einen Tag vor dem Abruf; es ist eine Stichtagsangabe, keine Momentangabe.",
-    "Ortsteilnennungen im Einstieg (Heidelsheim, Südstadt, Obergrombach) sind Beispiele."
+    "Ortsteilnennungen im Einstieg (Heidelsheim, Südstadt, Obergrombach) sind Beispiele.",
+    "QA 02.10.: Abgeleitete Aussage „als Große Kreisstadt selbst untere Baurechtsbehörde“ neutral gefasst."
   ]
 }

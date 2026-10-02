@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Bodenseewasser mit Quellanteil: Wasserhärte in den Leonberger Stadtteilen",
-      "text": "Den größten Teil seines Trinkwassers bezieht Leonberg über den Zweckverband Bodensee-Wasserversorgung. Die Stadtwerke mischen Wasser aus der Mahdentalquelle und der Hofgartenquelle bei. Nach der aktuellen Parameterübersicht liegt die Gesamthärte in Leonberg, Eltingen, Silberberg, Gebersheim, Höfingen und Warmbronn bei 8,9 °dH; in der Niederzone des Ramtel unterhalb der Albertus-Magnus-Straße sind es 12,6 °dH. Alle Gebiete gehören damit zum mittleren Härtebereich. Für das Bad heißt das: Kalkablagerungen an Armaturen und Glas bleiben überschaubar, im Ramtel etwas ausgeprägter. Eine Enthärtungsanlage ist deshalb kein Muss, kann aber je nach Warmwassersystem und Anspruch sinnvoll sein."
+      "text": "Den größten Teil seines Trinkwassers bezieht Leonberg über den Zweckverband Bodensee-Wasserversorgung. Die Stadtwerke mischen Wasser aus der Mahdentalquelle und der Hofgartenquelle bei. Nach der Parameterübersicht der Stadtwerke (Stand 02/2026) liegt die Gesamthärte in Leonberg, Eltingen, Silberberg, Gebersheim, Höfingen und Warmbronn bei 8,9 °dH; in der Niederzone des Ramtel unterhalb der Albertus-Magnus-Straße sind es 12,6 °dH. Alle Gebiete gehören damit zum mittleren Härtebereich. Für das Bad heißt das: Kalkablagerungen an Armaturen und Glas bleiben überschaubar, im Ramtel etwas ausgeprägter. Eine Enthärtungsanlage ist deshalb kein Muss, kann aber je nach Warmwassersystem und Anspruch sinnvoll sein."
     },
     {
       "h2": "Installation und Warmwasser: Was die Stadtwerke Leonberg erwarten",
@@ -83,6 +83,7 @@
     "Zuordnung der Härtewerte zu den Stadtteilen aus der tabellarischen PDF der Stadtwerke rekonstruiert (Layout teils verschoben); Ramtel-Niederzone 12,6 °dH, übrige 8,9 °dH.",
     "Aussagen zu eingetragenen Installationsunternehmen und zur Anpassung bei Nutzungsänderung stammen aus der DVGW-Kompaktinfo (AVBWasserV), die die Stadtwerke verlinken; rechtliche Einordnung siehe Anwaltsfrage 07-boeblingen.",
     "Eine Wohnberatung/Wohnraumanpassung speziell für Leonberg wurde nicht gefunden; der Seniorenwegweiser der Stadt war nicht auslesbar.",
-    "Zuständigkeit Abwasser/Rückstau in Leonberg (Stadtentwässerung) nicht ermittelt."
+    "Zuständigkeit Abwasser/Rückstau in Leonberg (Stadtentwässerung) nicht ermittelt.",
+    "QA 02.10.: „aktuellen Parameterübersicht“ durch Stand 02/2026 ersetzt."
   ]
 }

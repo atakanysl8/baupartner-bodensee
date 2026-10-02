@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Servicebüro Bauen und virtuelles Bauamt: Bauanträge in Herrenberg",
-      "text": "Alle Fragen rund ums Planen und Bauen bündelt die Stadt Herrenberg im Servicebüro Bauen, persönlich vor Ort und mit digitalen Angeboten. Untere Baurechtsbehörde ist das Baurechtsamt der Stadt. Bauanträge nimmt Herrenberg seit Anfang 2025 nur noch digital an; inzwischen ist die Stadt an das landesweite virtuelle Bauamt angebunden, über das Anträge eingereicht werden. Auf der Seite des Servicebüros finden sich außerdem Hinweise zur Genehmigungsfiktion im vereinfachten Verfahren. Liegt das Grundstück in der denkmalgeschützten Altstadt, gilt zusätzlich die überarbeitete Gestaltungssatzung „Altstadt Herrenberg“, die 2024 in Kraft getreten ist."
+      "text": "Alle Fragen rund ums Planen und Bauen bündelt die Stadt Herrenberg im Servicebüro Bauen, persönlich vor Ort und mit digitalen Angeboten. Bauanträge nimmt die Stadt über ihr Baurechtsamt seit Anfang 2025 nur noch digital an; inzwischen ist die Stadt an das landesweite virtuelle Bauamt angebunden, über das Anträge eingereicht werden. Auf der Seite des Servicebüros finden sich außerdem Hinweise zur Genehmigungsfiktion im vereinfachten Verfahren. Liegt das Grundstück in der denkmalgeschützten Altstadt, gilt zusätzlich die überarbeitete Gestaltungssatzung „Altstadt Herrenberg“, die 2024 in Kraft getreten ist."
     },
     {
       "h2": "Bau-Turbo in Herrenberg: Mehr Wohnraum mit Zustimmung der Stadt",
@@ -78,7 +78,7 @@
     },
     {
       "q": "Kann ich in Herrenberg über den Bau-Turbo aufstocken?",
-      "a": "Aufstockungen, die neue Wohnungen schaffen, nennt die Stadt ausdrücklich als Anwendungsfall. Nötig ist die Zustimmung der Stadt, auf die grundsätzlich kein Anspruch besteht; eine Vorabklärung per E-Mail wird empfohlen."
+      "a": "Aufstockungen, die neue Wohnungen schaffen, nennt die Stadt ausdrücklich als Anwendungsfall. Nötig ist die Zustimmung der Stadt, auf die grundsätzlich kein Anspruch besteht; die Stadt empfiehlt eine Vorabklärung per E-Mail."
     },
     {
       "q": "Wo finde ich in Herrenberg freie Baugrundstücke?",
@@ -88,6 +88,7 @@
   "offen": [
     "„Seit 2026 auch die Möglichkeit des Bau-Turbos“ im Einstieg stützt sich auf den Gemeinderatsbeschluss vom 30.06.2026; der Bau-Turbo selbst gilt laut Stadt seit Ende Oktober 2025 bundesrechtlich.",
     "Datum der ViBa-Anbindung (09.09.2026) bewusst nicht im Text genannt.",
-    "Inhalte der Gestaltungssatzung (konkrete Vorgaben) nicht geprüft; Baugrund (LGRB) und Stellplatzsatzung nicht recherchiert."
+    "Inhalte der Gestaltungssatzung (konkrete Vorgaben) nicht geprüft; Baugrund (LGRB) und Stellplatzsatzung nicht recherchiert.",
+    "QA 02.10.: Nicht wörtlich belegte Aussage „Untere Baurechtsbehörde ist das Baurechtsamt der Stadt“ neutral gefasst („Bauanträge nimmt die Stadt über ihr Baurechtsamt … an“)."
   ]
 }

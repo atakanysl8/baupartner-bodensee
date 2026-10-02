@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Sanierungsgebiet oder Energiesparprogramm: In Stuttgart eine Frage der Adresse",
-      "text": "In Stuttgart wird nach Angaben der Stadt in 20 bis 30 Sanierungsgebieten der Städtebauförderung gearbeitet, mehr als 30 Verfahren sind abgeschlossen. Ein Gebiet bleibt in der Regel rund zehn Jahre in den Programmen von Bund und Land. Für private Modernisierungen in diesen Gebieten nennt die Stadt jeweils eigene Ansprechpersonen, für energetische Maßnahmen gibt es eine eigene Förderrichtlinie. Außerhalb davon gilt das städtische Energiesparprogramm-Wohnen, das Einzelmaßnahmen an der Gebäudehülle und Sanierungen zum Effizienzhaus 70 oder besser bezuschusst, sofern das Gebäude seit mindestens 15 Jahren bezugsfertig ist. In Sanierungsgebieten greift es nur ausnahmsweise. Ob und in welchem Umfang Mittel verfügbar sind, ändert sich von Jahr zu Jahr; den aktuellen Stand nennen die Stadt und das Energieberatungszentrum."
+      "text": "In Stuttgart wird nach Angaben der Stadt in 20 bis 30 Sanierungsgebieten der Städtebauförderung gearbeitet, mehr als 30 Verfahren sind abgeschlossen. Ein Gebiet bleibt in der Regel rund zehn Jahre in den Programmen von Bund und Land. Für private Modernisierungen in diesen Gebieten nennt die Stadt jeweils eigene Ansprechpersonen, für energetische Maßnahmen gibt es eine eigene Förderrichtlinie. Außerhalb davon gilt das städtische Energiesparprogramm-Wohnen, das Einzelmaßnahmen an der Gebäudehülle und Sanierungen zum Effizienzhaus 70 oder besser bezuschusst, sofern das Gebäude seit mindestens 15 Jahren bezugsfertig ist. In Sanierungsgebieten greift es nur ausnahmsweise. Über die aktuellen Bedingungen und verfügbaren Mittel informiert die Stadt."
     },
     {
       "h2": "Wärmeplan, Denkmalschutz und neutrale Beratung",
@@ -72,6 +72,7 @@
   "offen": [
     "Energiesparprogramm: Stadt meldet für 2026 ausgeschöpfte Mittel (Annahmeschluss 14.08.2026), Fortsetzung 2027 offen; im Text bewusst ohne Datum/Beträge.",
     "Inhalt der Förderrichtlinie 6/25 (Sanierungsgebiete) nur als Titel geprüft, Details nicht gelesen.",
-    "Ortsteilnennungen im Einstieg (Westen, Zuffenhausen) nicht belegt."
+    "Ortsteilnennungen im Einstieg (Westen, Zuffenhausen) nicht belegt.",
+    "QA 02.10.: Satz zur Mittelverfügbarkeit neutral mit Verweis auf die Stadt gefasst (Programm 2026 ausgeschöpft, keine Beträge/Fristen im Text)."
   ]
 }

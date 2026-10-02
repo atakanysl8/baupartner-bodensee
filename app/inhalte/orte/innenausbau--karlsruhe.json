@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Dachgeschoss oder Gewerbefläche zu Wohnraum ausbauen",
-      "text": "Wird aus einem Speicher oder einer früheren Gewerbefläche eine Wohnung, ändert sich meist die Nutzung. Für baurechtliche Fragen zu Umbau und Erweiterung ist in Karlsruhe das Bauordnungsamt der Stadt zuständig; es stellt auch Abgeschlossenheitsbescheinigungen aus, die bei einer neuen Eigentumswohnung im Dachgeschoss gebraucht werden können. Interessant für Vermieter ist das städtische Programm zur Mobilisierung von Wohnraum: Es bezuschusst ausdrücklich auch den erstmaligen Ausbau einer Dachgeschosswohnung und die Umnutzung gewerblicher Räume. Im Gegenzug ist die Wohnung für 20 Jahre günstiger an Haushalte mit Wohnberechtigungsschein zu vermieten."
+      "text": "Wird aus einem Speicher oder einer früheren Gewerbefläche eine Wohnung, ändert sich meist die Nutzung. Für baurechtliche Fragen zu Umbau und Erweiterung ist in Karlsruhe das Bauordnungsamt der Stadt zuständig; es stellt auch Abgeschlossenheitsbescheinigungen aus, die bei einer neuen Eigentumswohnung im Dachgeschoss gebraucht werden können. Interessant für Vermieter ist das städtische Programm zur Mobilisierung von Wohnraum: Es bezuschusst ausdrücklich auch den erstmaligen Ausbau einer Dachgeschosswohnung und die Umnutzung gewerblicher Räume. Als Gegenleistung sieht das Programm eine Vermietung über 20 Jahre unter der ortsüblichen Vergleichsmiete an Haushalte mit Wohnberechtigungsschein vor; über die aktuellen Bedingungen informiert die Stadt."
     },
     {
       "h2": "Altstadt Durlach: Gesamtanlage und Denkmalschutz auch im Inneren",
-      "text": "In der Altstadt Durlach gilt seit 1998 eine Gesamtanlagensatzung nach dem Denkmalschutzgesetz. Weil dennoch historische Gebäude verloren gingen, stellt die Stadt dort zusätzlich eine Erhaltungssatzung auf, eine Gestaltungssatzung ist ebenfalls in Aufstellung. Bei Kulturdenkmalen betrifft der Schutz nicht nur die Fassade: Auch Grundrisse, Treppen, Türen oder Stuck können Teil des Denkmalwerts sein. Ob ein Haus eingetragen ist, zeigt die Datenbank der Kulturdenkmale im Geoportal Baden-Württemberg mit den Texten der Denkmalliste. Die untere Denkmalschutzbehörde der Stadt berät zu denkmalverträglichen Lösungen, auf Wunsch mit Termin vor Ort."
+      "text": "In der Altstadt Durlach gilt seit 1998 eine Gesamtanlagensatzung nach dem Denkmalschutzgesetz. Bei Kulturdenkmalen betrifft der Schutz nicht nur die Fassade: Auch Grundrisse, Treppen, Türen oder Stuck können Teil des Denkmalwerts sein. Ob ein Haus eingetragen ist, zeigt die Datenbank der Kulturdenkmale im Geoportal Baden-Württemberg mit den Texten der Denkmalliste. Die untere Denkmalschutzbehörde der Stadt berät zu denkmalverträglichen Lösungen, auf Wunsch mit Termin vor Ort."
     },
     {
       "h2": "Brandschutz und Rettungswege: wer in Karlsruhe Auskunft gibt",
@@ -29,13 +29,13 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Die Förderung für die Mobilisierung von Wohnraum umfasst zum Beispiel den erstmaligen Ausbau einer Dachgeschosswohnung; bezuschusst werden 30 Prozent der förderfähigen Kosten, begrenzt auf 200 Euro je Quadratmeter, bei 20-jähriger Vermietung an Personen mit Wohnberechtigungsschein mindestens 10 Prozent unter der ortsüblichen Vergleichsmiete.",
+      "text": "Die Förderung für die Mobilisierung von Wohnraum umfasst zum Beispiel den erstmaligen Ausbau einer Dachgeschosswohnung und die Umnutzung gewerblich genutzter Räume; Gegenleistung ist eine 20-jährige Vermietung unter der ortsüblichen Vergleichsmiete an Personen mit Wohnberechtigungsschein.",
       "quelle": "Stadt Karlsruhe – Wohnen",
       "url": "https://www.karlsruhe.de/mobilitaet-stadtbild/bauen-und-immobilien/wohnen",
       "abruf": "2026-10-02"
     },
     {
-      "text": "In der Altstadt Durlach gilt seit 1998 die Gesamtanlagensatzung (§ 19 DSchG BW); eine Erhaltungssatzung und eine Gestaltungssatzung für das Gebiet sind in Aufstellung.",
+      "text": "In der Altstadt Durlach gilt seit 1998 die Gesamtanlagensatzung (§ 19 DSchG BW).",
       "quelle": "Stadt Karlsruhe – Erhaltungssatzung Altstadt Durlach",
       "url": "https://www.karlsruhe.de/bpl/erhaltungssatzung-altstadt-durlach",
       "abruf": "2026-10-02"
@@ -76,6 +76,7 @@
   "offen": [
     "Ob ein Dachgeschossausbau in Karlsruhe im Einzelfall genehmigungspflichtig oder verfahrensfrei ist, wurde nicht geprüft; im Text nur allgemein auf das Bauordnungsamt verwiesen.",
     "Die Aussage, dass bei Kulturdenkmalen auch Innenbauteile (Grundrisse, Treppen, Stuck) Teil des Denkmalwerts sein können, ist allgemeines Denkmalrecht und nicht durch eine Karlsruher Quelle belegt.",
-    "Die Branddirektion wird nur im Zusammenhang mit der Brandverhütungsschau belegt; im Text nicht als Beteiligte bei privaten Dachausbauten dargestellt."
+    "Die Branddirektion wird nur im Zusammenhang mit der Brandverhütungsschau belegt; im Text nicht als Beteiligte bei privaten Dachausbauten dargestellt.",
+    "QA 02.10.: Fördersatz und Höchstbetrag (30 %, 200 €/m²) aus Fakt entfernt; Programm Mobilisierung von Wohnraum laut Seite Wohnen weiterhin offen (nicht ausgeschöpft), mit Verweis „über die aktuellen Bedingungen informiert die Stadt“; Bearbeitungsstand „Erhaltungs- und Gestaltungssatzung Durlach in Aufstellung“ aus Abschnitt und Fakt entfernt."
   ]
 }

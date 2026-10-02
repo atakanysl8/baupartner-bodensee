@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Städtischer Zuschuss für das barrierefreie Bad in Friedrichshafen",
-      "text": "Die Stadt Friedrichshafen fördert im Rahmen ihrer Haushaltsmittel den barrierefreien Umbau bestehender Gebäude und Wohnungen. Antragsberechtigt sind Eigentümer und Vermieter, auch von Eigentumswohnungen. Für den Sanitärbereich nennt die Stadt zwei Anforderungen: ein WC mit 48 Zentimetern Sitzhöhe und einen stufenlos begeh- und befahrbaren Dusch- und Umsteigeplatz. Nach den Förderbedingungen ist der Antrag vor Abschluss der Maßnahme einzureichen. Planungsgrundlage ist die DIN 18040 Teil 2, wobei die Stadt in Absprache Abweichungen zulassen kann. Zuständig ist die Abteilung Wohnungsbindung und -förderung im Technischen Rathaus; ein Rechtsanspruch besteht nicht."
+      "text": "Die Stadt Friedrichshafen fördert im Rahmen ihrer Haushaltsmittel den barrierefreien Umbau bestehender Gebäude und Wohnungen. Antragsberechtigt sind Eigentümer und Vermieter, auch von Eigentumswohnungen. Für den Sanitärbereich nennt die Stadt zwei Anforderungen: ein WC mit 48 Zentimetern Sitzhöhe und einen stufenlos begeh- und befahrbaren Dusch- und Umsteigeplatz. Planungsgrundlage ist die DIN 18040 Teil 2, wobei die Stadt in Absprache Abweichungen zulassen kann. Über die aktuellen Bedingungen informiert die Abteilung Wohnungsbindung und -förderung im Technischen Rathaus; ein Rechtsanspruch besteht nicht."
     },
     {
       "h2": "Bodenseewasser und Warmwasser im Mehrfamilienhaus",
-      "text": "Das Trinkwasser in Friedrichshafen liefert das Stadtwerk am See. Es wird aus dem Bodensee gewonnen, mit Ozon und UV-Licht aufbereitet und liegt mit 9,2 °dH im Härtebereich „mittel“. Für Duschglas und Armaturen bedeutet das spürbaren, aber überschaubaren Kalk. Wichtiger wird in größeren Häusern die Warmwasseranlage: Das Stadtwerk nennt Anlagen mit mehr als 400 Litern Speicher oder mehr als 3 Litern Rohrleitungsinhalt Großanlagen, für die in vielen Wohnimmobilien regelmäßig auf Legionellen untersucht werden muss. Werden im Mehrfamilienhaus Leitungen oder Speicher erneuert, gehört das früh in die Abstimmung mit Verwaltung und Planer."
+      "text": "Das Trinkwasser in Friedrichshafen liefert das Stadtwerk am See. Es wird aus dem Bodensee gewonnen, mit Ozon und UV-Licht aufbereitet und liegt mit 9,2 °dH im Härtebereich „mittel“. Für Duschglas und Armaturen bedeutet das spürbaren, aber überschaubaren Kalk. Wichtiger wird in größeren Häusern die Warmwasseranlage: Das Stadtwerk nennt Anlagen mit mehr als 400 Litern Speicher oder mehr als 3 Litern Rohrleitungsinhalt Großanlagen, für die in vielen Wohnimmobilien regelmäßige Legionellenuntersuchungen vorgesehen sind. Werden im Mehrfamilienhaus Leitungen oder Speicher erneuert, gehört das früh in die Abstimmung mit Verwaltung und Planer."
     },
     {
       "h2": "Neutrale Beratung im Bodenseekreis vor dem Umbau",
@@ -76,6 +76,7 @@
   "offen": [
     "Ob das Stadtwerk am See alle Ortschaften von Friedrichshafen (Ailingen, Ettenkirch, Kluftern, Raderach) mit demselben Seewasser versorgt, ist nicht belegt; die Härteangabe gilt für das Versorgungsgebiet „Friedrichshafen (SWSee-Bodenseewasser)“.",
     "Förderbetrag 1.500 Euro (Sanitär) laut Stadtseite; Programm steht unter Haushaltsvorbehalt und kann sich ändern.",
-    "Legionellen-Pflicht nur sinngemäß nach Stadtwerk-Seite wiedergegeben (Trinkwasserverordnung nicht selbst geprüft)."
+    "Legionellen-Pflicht nur sinngemäß nach Stadtwerk-Seite wiedergegeben (Trinkwasserverordnung nicht selbst geprüft).",
+    "QA 02.10.: Antragsfrist-Satz („ist der Antrag vor Abschluss … einzureichen“) gestrichen, Verweis auf die Stadt ergänzt; Legionellen-Satz ohne „muss“."
   ]
 }

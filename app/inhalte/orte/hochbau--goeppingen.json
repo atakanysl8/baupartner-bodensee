@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Bauantrag in Göppingen: digital bei der Stadt",
-      "text": "Untere Baurechtsbehörde ist in Göppingen die Stadt selbst, mit ihrer Abteilung Baurecht in der Nördlichen Ringstraße. Bauanträge und Bauvorlagen werden dort seit Anfang 2025 nur noch elektronisch über das Virtuelle Bauamt Baden-Württemberg angenommen; Privatpersonen melden sich dafür mit einer BundID an. Ob für ein Grundstück ein Bebauungsplan gilt, zeigt teilweise das Geoportal der Stadt, das noch im Aufbau ist. Verbindliche Planauskünfte gibt die Abteilung Stadtplanung und Stadtentwicklung auf Anfrage per E-Mail gegen eine Gebühr je Dokument. Im historischen Stadtkern gilt zusätzlich eine Gestaltungssatzung, wenn ein Vorhaben von öffentlichen Straßen und Plätzen aus sichtbar ist; der Fachbereich Stadtentwicklung bietet dazu gestalterische Beratung an."
+      "text": "Untere Baurechtsbehörde ist in Göppingen die Stadt selbst, mit ihrer Abteilung Baurecht in der Nördlichen Ringstraße. Bauanträge und Bauvorlagen werden dort seit Anfang 2025 nur noch elektronisch über das Virtuelle Bauamt Baden-Württemberg angenommen; Privatpersonen melden sich dafür mit einer BundID an. Ob für ein Grundstück ein Bebauungsplan gilt, zeigt teilweise das Geoportal der Stadt. Verbindliche Planauskünfte gibt die Abteilung Stadtplanung und Stadtentwicklung auf Anfrage per E-Mail gegen eine Gebühr je Dokument. Im historischen Stadtkern gilt zusätzlich eine Gestaltungssatzung, wenn ein Vorhaben von öffentlichen Straßen und Plätzen aus sichtbar ist; der Fachbereich Stadtentwicklung bietet dazu gestalterische Beratung an."
     },
     {
       "h2": "Baulücken, Bauplatzbörse und Baulandstein",
@@ -47,7 +47,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Planauskünfte zu Bebauungsplänen erteilt die Abteilung Stadtplanung und Stadtentwicklung per E-Mail gegen eine Gebühr je Dokument; das Geoportal enthält erst einen Teil der rechtskräftigen Pläne.",
+      "text": "Planauskünfte zu Bebauungsplänen erteilt die Abteilung Stadtplanung und Stadtentwicklung per E-Mail gegen eine Gebühr je Dokument; das Geoportal enthält einen Teil der rechtskräftigen Pläne.",
       "quelle": "Stadt Göppingen – Bebauungspläne",
       "url": "https://www.goeppingen.de/start/informieren/Bebauungsplan.html",
       "abruf": "2026-10-02"
@@ -82,6 +82,7 @@
   "offen": [
     "„Neue Baugebiete sind rar“ stützt sich auf den Hinweis der Stadt „Derzeit befinden sich keine Bauplätze in der Veräußerung“ (Seite Städtische Bauplätze) – das ist eine Momentaufnahme; ggf. abschwächen.",
     "Der Erbbauzins (2,5 % des unerschlossenen Bauplatzpreises) und die Kaufoption nach zehn Jahren stehen auf der Stadtseite, wurden aber bewusst nicht übernommen (Beträge/Konditionen).",
-    "Hochwasser: Die Stadt verweist allgemein auf die Hochwassergefahrenkarten des Landes; eine kommunale Starkregengefahrenkarte für Göppingen wurde nicht gefunden. Die Nennung der Fils im Text ist ortskundlich, nicht aus der Quelle."
+    "Hochwasser: Die Stadt verweist allgemein auf die Hochwassergefahrenkarten des Landes; eine kommunale Starkregengefahrenkarte für Göppingen wurde nicht gefunden. Die Nennung der Fils im Text ist ortskundlich, nicht aus der Quelle.",
+    "QA 02.10.: Bearbeitungsstand des Geoportals („noch im Aufbau“, „erst“) entfernt."
   ]
 }
