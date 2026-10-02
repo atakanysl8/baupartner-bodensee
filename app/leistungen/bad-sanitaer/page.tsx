@@ -5,7 +5,6 @@ import { useState, useRef } from 'react'
 import Footer from '../../components/Footer'
 import Nav from '../../components/Nav'
 import LeistungRatgeber from '../../components/LeistungRatgeber'
-import OrteDerLeistung from '../../components/OrteDerLeistung'
 import HeroBild from '../../components/HeroBild'
 
 const fadeUp = {
@@ -527,7 +526,6 @@ export default function BadSanitaerPage() {
       <Warum />
       <CTABand />
       <LeistungRatgeber leistung="bad-sanitaer" />
-      <OrteDerLeistung leistung="bad-sanitaer" />
       <FAQ />
       <SeoText />
       <Footer />

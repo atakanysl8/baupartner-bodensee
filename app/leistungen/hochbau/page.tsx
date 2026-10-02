@@ -6,7 +6,6 @@ import type { Metadata } from 'next'
 import Footer from '../../components/Footer'
 import Nav from '../../components/Nav'
 import LeistungRatgeber from '../../components/LeistungRatgeber'
-import OrteDerLeistung from '../../components/OrteDerLeistung'
 import HeroBild from '../../components/HeroBild'
 
 const fadeUp = {
@@ -533,7 +532,6 @@ export default function HochbauPage() {
       <Warum />
       <CTABand />
       <LeistungRatgeber leistung="hochbau" />
-      <OrteDerLeistung leistung="hochbau" />
       <FAQ />
       <SeoText />
       <Footer />

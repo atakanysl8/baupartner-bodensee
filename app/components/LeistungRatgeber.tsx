@@ -14,11 +14,17 @@ export default function LeistungRatgeber({ leistung }: { leistung: LeistungSlug 
         <h2>{r.h2}</h2>
         <p className="ratgeber-intro">{r.intro}</p>
         <div className="ratgeber-grid">
+          {/* Aufklappbar: nur die Überschrift ist sichtbar, der Text steht trotzdem im HTML (Suchmaschinen) */}
           {r.bloecke.map((b) => (
-            <article key={b.h3} className="ratgeber-block">
-              <h3>{b.h3}</h3>
+            <details key={b.h3} className="ratgeber-block ratgeber-klapp">
+              <summary>
+                <h3>{b.h3}</h3>
+                <span className="ratgeber-pfeil" aria-hidden="true">
+                  <svg width="14" height="14" viewBox="0 0 14 14"><path d="M3 5l4 4 4-4" stroke="currentColor" fill="none" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" /></svg>
+                </span>
+              </summary>
               <p>{b.text}</p>
-            </article>
+            </details>
           ))}
         </div>
         {seiten.length > 0 && (

@@ -7,7 +7,6 @@ import { useState } from 'react'
 import Nav from './Nav'
 import Footer from './Footer'
 import LeistungRatgeber from './LeistungRatgeber'
-import OrteDerLeistung from './OrteDerLeistung'
 import { LEISTUNGEN, type LeistungSlug } from '../inhalte/leistungen'
 import HeroBild from './HeroBild'
 
@@ -193,7 +192,6 @@ export default function LeistungSeite({ slug, inhalt }: { slug: LeistungSlug; in
       </section>
 
       <LeistungRatgeber leistung={slug} />
-      <OrteDerLeistung leistung={slug} />
 
       <section className="faq-section">
         <div className="wrap">

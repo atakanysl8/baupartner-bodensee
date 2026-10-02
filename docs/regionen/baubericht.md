@@ -109,3 +109,8 @@ Betreiber-Entscheidung: Übersicht `/ratgeber/` und Menüpunkt „Ratgeber“ en
 - Verlinkung verstärkt: Leistungsseite → alle eigenen Kostenseiten (Karten „Kosten im Detail“); Ortsseite → alle Kostenseiten der Leistung; Kostenseite → verwandte + alle weiteren Kostenseiten der Leistung + Leistungsseite + 8 größte Ortsseiten der Leistung + `/regionen/`; Startseite → 12 Kostenseiten; `/regionen/` (Fußzeile, seitenweit) → alle 28 Kostenseiten.
 - Ergebnis `pruefe-links`: 235 Seiten, 0 Fehler; Kostenseiten Eingänge min. 3 / Median 31 (vorher 2 / 11), Ortsseiten Median 6; Klicktiefe ≤ 2. Tests 50/50, `pruefe-seo` 235/0, Bundle 0.
 - Da die Website noch nicht live ist, sind keine Weiterleitungen von `/ratgeber/…` nötig.
+
+## Nachtrag 5: Ortslisten nur noch auf Ortsseiten und Übersicht, aufklappbare Kästen (03.10.2026)
+
+- Betreiberwunsch: Ortsseiten-Listen erscheinen nicht mehr auf Leistungs- und Kostenseiten (`OrteDerLeistung` entfernt, Block „… in Ihrer Stadt“ auf Kostenseiten entfernt). Ortsseiten sind weiter über „Leistungen nach Ort“ (`/regionen/`, Fußzeile), Nachbarorte und verwandte Leistungen im Ort verlinkt; Klicktiefe ≤ 2, `pruefe-links` 0 Fehler (Ortsseiten Eingänge Median 5).
+- Die Textkästen im Abschnitt „Kosten & Planung“ aller 11 Leistungsseiten sind aufklappbar (`<details>`, Pfeilsymbol): nur Überschriften sichtbar, Text weiterhin im HTML.

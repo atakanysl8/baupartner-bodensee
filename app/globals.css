@@ -1914,3 +1914,16 @@ details.faq-item summary::-webkit-details-marker { display: none; }
 @media (max-width: 860px) { .start-ratgeber-liste { grid-template-columns: 1fr; } }
 .au-versprechen-text a { color: #fff; text-decoration: underline; }
 .leistung-kosten-titel { font-size: 20px; margin-top: 36px; }
+
+/* Aufklappbare Kästen im Abschnitt „Kosten & Planung“ der Leistungsseiten */
+.ratgeber-grid { align-items: start; }
+.ratgeber-klapp { padding: 0; }
+.ratgeber-klapp summary { list-style: none; display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 22px 26px; cursor: pointer; }
+.ratgeber-klapp summary::-webkit-details-marker { display: none; }
+.ratgeber-klapp summary h3 { margin: 0; }
+.ratgeber-klapp summary:hover h3 { color: var(--primary); }
+.ratgeber-klapp summary:focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; border-radius: var(--radius); }
+.ratgeber-pfeil { flex: none; display: inline-flex; align-items: center; justify-content: center; width: 30px; height: 30px; border-radius: 50%; border: 1px solid var(--line); color: var(--primary); transition: transform 0.25s ease, background 0.2s ease; }
+.ratgeber-klapp[open] .ratgeber-pfeil { transform: rotate(180deg); background: var(--paper); }
+.ratgeber-klapp p { padding: 0 26px 24px; }
+@media (min-width: 861px) { .ratgeber-klapp summary { min-height: 86px; } }

@@ -5,21 +5,19 @@ import { LEISTUNGEN } from '../inhalte/leistungen'
 import { anker } from '../inhalte/anker'
 import { kostenPfad, kostenseitenFuer, type Ratgeberseite } from '../inhalte/ratgeber-seiten'
 import { RATGEBERLINKS } from '../inhalte/ratgeber-seiten/links'
-import { ORTSLINKS } from '../inhalte/orte/links'
 
 const BASIS = 'https://www.bodensee-baupartner.de'
 const datum = (d: string) => d.split('-').reverse().join('.')
 
 // Darstellung einer Kostenseite unter /leistungen/<leistung>/<slug>/. Server-Komponente: der Text steht vollständig im HTML
 // und gelangt nicht ins Client-Bundle. Verlinkung: genau ein Textlink auf die eigene Leistungsseite (im Inhalt), Anfrage-Knopf,
-// verwandte Kostenseiten, alle weiteren Kostenseiten der Leistung, Ortsseiten der Leistung, Hub /regionen/.
+// verwandte Kostenseiten, alle weiteren Kostenseiten der Leistung, Hub /regionen/ (Ortsseiten bewusst nicht, Betreiberwunsch).
 export default function RatgeberSeite({ s }: { s: Ratgeberseite }) {
   const l = LEISTUNGEN[s.leistung]
   const anfrage = `/?leistung=${encodeURIComponent(s.leistung)}#kontakt`
   const stand = s.quellen.map((q) => q.abruf).sort().at(-1)!
   const verwandt = s.verwandt.map((v) => RATGEBERLINKS.find((r) => r.slug === v)).filter((r) => r !== undefined)
   const weitereKosten = kostenseitenFuer(s.leistung).filter((k) => k.slug !== s.slug && !s.verwandt.includes(k.slug))
-  const orte = (ORTSLINKS[s.leistung] ?? []).slice(0, 8)
   const jsonLd = [
     {
       '@context': 'https://schema.org',
@@ -114,20 +112,9 @@ export default function RatgeberSeite({ s }: { s: Ratgeberseite }) {
                 <li key={k.slug}><a href={kostenPfad(k)}>{k.anker}</a></li>
               ))}
               <li><a href={`/leistungen/${s.leistung}/`}>{anker(`/leistungen/${s.leistung}/`)}</a> – Überblick</li>
+              <li><a href="/regionen/">{anker('/regionen/')}</a></li>
             </ul>
           </section>
-
-          {orte.length > 0 && (
-            <section className="ort-block ort-links">
-              <h2>{l.name} in Ihrer Stadt</h2>
-              <ul>
-                {orte.map((o) => (
-                  <li key={o.pfad}><a href={o.pfad}>{o.h1}</a></li>
-                ))}
-                <li><a href="/regionen/">{anker('/regionen/')}</a></li>
-              </ul>
-            </section>
-          )}
 
           <section className="ort-block ort-quellen">
             <h2>Quellen</h2>
