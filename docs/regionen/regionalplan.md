@@ -68,3 +68,23 @@ Jede Seite zusätzlich: ≥ 5 amtlich belegte, leistungsbezogene Ortsangaben, so
 Bodensee-Begriffe haben kaum Volumen (bauunternehmen bodensee 40, bauunternehmen bodenseekreis 30, badsanierung bodensee / überlingen ohne Messwert). Stark und leicht (KD ≤ 13) sind bundesweite Kosten-/Fragebegriffe:
 badsanierung kosten 4.400 · kernsanierung 2.400 · barrierefreies bad 2.400 · bodenplatte kosten 1.000 · kernsanierung kosten 1.000 · badsanierung förderung 880 · anbau kosten 390 · rohbau kosten 320 · trockenbau kosten 320 · hausanschluss kosten 320 · erdarbeiten kosten 210 · altbausanierung kosten 140 · kanalanschluss kosten 140 · drainage kosten 140 · dachgeschossausbau kosten 90.
 → Leistungsseiten bekommen Abschnitte zu diesen Fragen. Eigene Ratgeberseiten je Frage wären der nächste große Hebel (nicht im Umfang dieser Runde).
+
+## Nachtrag 2: neue Leistungsbereiche (`auswahl-2.json`)
+
+Messung am 02.10.2026: „<Begriff> <Ort>“ für die 150 größten Orte Baden-Württembergs, 7 Begriffe, 1.050 Keywords (Rohdaten `messung/keywords-05-a.json`, `-b.json`). „dachsanierung“ und „zaunbau“ wurden nicht gemessen: Sie haben auf Ortsebene kaum Volumen, und die Seiten zielen ohnehin auf den Hauptbegriff.
+
+Nachfrage (Summe über alle gemessenen Orte): elektriker 17.960 · maler 9.580 · dachdecker 8.610 · fliesenleger 7.760 · terrassenüberdachung 1.700 · wärmepumpe 1.370 · heizungsinstallateur 680.
+
+SERP-Stichproben (elektriker ludwigsburg, maler reutlingen, dachdecker esslingen, wärmepumpe karlsruhe, terrassenüberdachung ulm, fliesenleger offenburg): Überall gibt es ein Local Pack, Betriebsseiten und Verzeichnisse (Gelbe Seiten, Das Örtliche, MyHammer, Kleinanzeigen). Vermittlungs- und Verzeichnisseiten ranken also mit, die Suchabsicht ist lokal-kommerziell. Bei „esslingen“ erscheint auch Esslingen ZH (Schweiz) – die Seite nennt deshalb „Esslingen am Neckar“.
+
+| Leistung | Regel | Seiten |
+|---|---|---|
+| Elektro & Photovoltaik („Elektriker in <Ort>“) | elektriker ≥ 170; ohne Brühl (Brühl NRW größer) | 31 |
+| Maler, Fliesen & Böden („Maler in <Ort>“) | maler + fliesenleger ≥ 160; ohne Biberach (mehrdeutig) | 31 |
+| Dach & Fassade („Dachdecker in <Ort>“) | dachdecker ≥ 90; ohne Brühl | 24 |
+| Heizung & Wärmepumpe | wärmepumpe + heizungsinstallateur ≥ 90 | 7 |
+| Garten & Außenanlagen („Terrassenüberdachung in <Ort>“) | terrassenüberdachung ≥ 70 | 7 |
+| Fenster & Türen | keine (Begriffe überwiegend navigational, kaum Ortsvolumen) | 0 |
+| **Gesamt** | 27 Kreise | **100** |
+
+Stufe P1 = Volumen mindestens doppelt so hoch wie die Schwelle, sonst P2. Wie in Runde 1 gilt: Jede Seite braucht ≥ 5 amtlich belegte, leistungsbezogene Ortsangaben, sonst wird sie nicht gebaut.
