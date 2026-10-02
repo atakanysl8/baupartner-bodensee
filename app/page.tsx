@@ -26,7 +26,7 @@ const staggerSlow = {
 // aus der zentralen Leistungsliste (app/inhalte/leistungen.ts), gruppiert für das Dropdown
 const LEISTUNGS_GRUPPEN = GRUPPEN.map((g) => ({
   titel: g.titel,
-  items: leistungenDerGruppe(g.gruppe).map((l) => ({ label: l.name, href: `/leistungen/${l.slug}` })),
+  items: leistungenDerGruppe(g.gruppe).map((l) => ({ label: l.name, href: `/leistungen/${l.slug}/` })),
 }))
 const leistungenItems = LEISTUNGS_GRUPPEN.flatMap((g) => g.items)
 
@@ -47,8 +47,8 @@ function Nav() {
   }, [menuOpen])
 
   const otherLinks = [
-    { href: '/ueber-uns', label: 'Über uns' },
-    { href: '/fuer-fachbetriebe', label: 'Für Fachbetriebe' },
+    { href: '/ueber-uns/', label: 'Über uns' },
+    { href: '/fuer-fachbetriebe/', label: 'Für Fachbetriebe' },
     { href: '#kontakt', label: 'Kontakt' },
   ]
 
@@ -387,7 +387,7 @@ function Intro() {
 const leistungen = [
   {
     featured: true,
-    href: '/leistungen/hochbau',
+    href: '/leistungen/hochbau/',
     icon: (
       <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" strokeWidth="1.5">
         <path d="M3 19h16"/><path d="M5 19V9l6-5 6 5v10"/><rect x="8" y="12" width="6" height="7"/>
@@ -399,7 +399,7 @@ const leistungen = [
   },
   {
     featured: false,
-    href: '/leistungen/tiefbau',
+    href: '/leistungen/tiefbau/',
     icon: (
       <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" strokeWidth="1.5">
         <rect x="3" y="3" width="16" height="16" rx="1"/><path d="M3 11h16M11 3v16"/>
@@ -411,7 +411,7 @@ const leistungen = [
   },
   {
     featured: false,
-    href: '/leistungen/bad-sanitaer',
+    href: '/leistungen/bad-sanitaer/',
     icon: (
       <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" strokeWidth="1.5">
         <path d="M12 2.69l5.66 5.66a8 8 0 11-11.31 0z"/>
@@ -423,7 +423,7 @@ const leistungen = [
   },
   {
     featured: false,
-    href: '/leistungen/innenausbau',
+    href: '/leistungen/innenausbau/',
     icon: (
       <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" strokeWidth="1.5">
         <rect x="2" y="7" width="20" height="10" rx="2"/><path d="M6 17v2M16 17v2M2 12h20"/>
@@ -435,7 +435,7 @@ const leistungen = [
   },
   {
     featured: false,
-    href: '/leistungen/renovierung-sanierung',
+    href: '/leistungen/renovierung-sanierung/',
     icon: (
       <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" strokeWidth="1.5">
         <path d="M14.7 6.3a1 1 0 000 1.4l1.6 1.6a1 1 0 001.4 0l3.77-3.77a6 6 0 01-7.94 7.94l-6.91 6.91a2.12 2.12 0 01-3-3l6.91-6.91a6 6 0 017.94-7.94l-3.76 3.76z"/>
@@ -447,7 +447,7 @@ const leistungen = [
   },
   {
     featured: false,
-    href: '/leistungen/dach-fassade',
+    href: '/leistungen/dach-fassade/',
     icon: (
       <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" strokeWidth="1.5">
         <path d="M2 11l9-7 9 7"/><path d="M5 9v10h12V9"/><path d="M9 19v-5h4v5"/>
@@ -459,7 +459,7 @@ const leistungen = [
   },
   {
     featured: false,
-    href: '/leistungen/heizung-waermepumpe',
+    href: '/leistungen/heizung-waermepumpe/',
     icon: (
       <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" strokeWidth="1.5">
         <path d="M11 3c2 3-2 4 0 7s-2 4 0 7"/><rect x="3" y="17" width="16" height="3" rx="1"/>
@@ -471,7 +471,7 @@ const leistungen = [
   },
   {
     featured: false,
-    href: '/leistungen/elektro-photovoltaik',
+    href: '/leistungen/elektro-photovoltaik/',
     icon: (
       <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" strokeWidth="1.5">
         <path d="M12 2L4 13h6l-1 7 8-11h-6z"/>
@@ -483,7 +483,7 @@ const leistungen = [
   },
   {
     featured: false,
-    href: '/leistungen/fenster-tueren',
+    href: '/leistungen/fenster-tueren/',
     icon: (
       <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" strokeWidth="1.5">
         <rect x="4" y="3" width="14" height="16" rx="1"/><path d="M11 3v16M4 11h14"/>
@@ -495,7 +495,7 @@ const leistungen = [
   },
   {
     featured: false,
-    href: '/leistungen/maler-fliesen-boeden',
+    href: '/leistungen/maler-fliesen-boeden/',
     icon: (
       <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" strokeWidth="1.5">
         <path d="M4 4h12v5H4z"/><path d="M10 9v4"/><rect x="8" y="13" width="4" height="6" rx="1"/>
@@ -507,7 +507,7 @@ const leistungen = [
   },
   {
     featured: false,
-    href: '/leistungen/garten-aussenanlagen',
+    href: '/leistungen/garten-aussenanlagen/',
     icon: (
       <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" strokeWidth="1.5">
         <path d="M3 19h16"/><path d="M5 19v-6h12v6"/><path d="M3 13l8-6 8 6"/>
@@ -1018,7 +1018,7 @@ function Kontakt() {
                               </span>
                             </label>
                             <p className="form-note">
-                              Ihre Angaben gehen an genau einen Fachbetrieb, den wir für Ihre Anfrage auswählen – an niemanden sonst. Mehr in der <a href="/datenschutz" style={{ textDecoration: 'underline' }}>Datenschutzerklärung</a>.
+                              Ihre Angaben gehen an genau einen Fachbetrieb, den wir für Ihre Anfrage auswählen – an niemanden sonst. Mehr in der <a href="/datenschutz/" style={{ textDecoration: 'underline' }}>Datenschutzerklärung</a>.
                             </p>
                           </div>
                         </>

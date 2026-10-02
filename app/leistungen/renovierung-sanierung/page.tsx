@@ -521,7 +521,7 @@ export default function RenovierungSanierungPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
-      <Nav aktuelleLeistung="/leistungen/renovierung-sanierung" />
+      <Nav aktuelleLeistung="/leistungen/renovierung-sanierung/" />
       <Hero />
       <Services />
       <Prozess />

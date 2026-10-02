@@ -6,7 +6,7 @@ import path from 'node:path'
 import { pathToFileURL } from 'node:url'
 
 // Guardrails + Anwaltsregeln: keine Netzwerk-/Qualitäts-/Tempo-Behauptungen, keine Erlösmodell-Details.
-const VERBOTEN = [
+export const VERBOTEN = [
   /geprüft/i, /zertifiziert/i, /\bbeste[nrs]?\b/i, /perfekt/i, /garant/i, /24\s*\/\s*7|rund um die uhr|24[- ]?stunden/i,
   /notdienst/i, /partnerbetrieb/i, /unser(e|em|en)? (netzwerk|partner)/i, /vor ort ansässig/i, /niederlassung/i,
   /bewertung/i, /\bsterne\b/i, /zufriedene kunden/i, /bußgeld/i, /provision/i, /innerhalb von \d+ (stunden|tagen)/i,

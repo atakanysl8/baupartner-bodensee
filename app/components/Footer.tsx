@@ -29,9 +29,9 @@ export default function Footer() {
           </div>
           <div className="footer-col">
             <p className="footer-col-titel">Unternehmen</p>
-            <a href="/ueber-uns">Über uns</a>
+            <a href="/ueber-uns/">Über uns</a>
             <a href="/#kontakt">Kontakt</a>
-            <a href="/fuer-fachbetriebe">Für Fachbetriebe</a>
+            <a href="/fuer-fachbetriebe/">Für Fachbetriebe</a>
             <a href="/regionen/">Leistungen nach Ort</a>
           </div>
         </div>
@@ -41,9 +41,9 @@ export default function Footer() {
         <div className="footer-bottom">
           <div>© 2026 Bodensee BauPartner GbR. Alle Rechte vorbehalten.</div>
           <div className="footer-legal">
-            <a href="/impressum">Impressum</a>
+            <a href="/impressum/">Impressum</a>
             <span>·</span>
-            <a href="/datenschutz">Datenschutz</a>
+            <a href="/datenschutz/">Datenschutz</a>
           </div>
         </div>
       </div>

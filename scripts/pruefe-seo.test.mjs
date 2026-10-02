@@ -2,7 +2,7 @@ import { test } from 'node:test'
 import assert from 'node:assert/strict'
 import { pruefeSeite } from './pruefe-seo.mjs'
 
-const gut = `<html><head><title>T</title><meta name="description" content="D"><link rel="canonical" href="https://www.bodensee-baupartner.de/x/"></head><body><nav><a href="/impressum/">i</a></nav><h1>H</h1><footer><a href="/impressum">I</a><a href="/datenschutz">D</a><a href="/fuer-fachbetriebe">F</a></footer></body></html>`
+const gut = `<html><head><title>T</title><meta name="description" content="D"><link rel="canonical" href="https://www.bodensee-baupartner.de/x/"></head><body><nav><a href="/impressum/">i</a></nav><h1>H</h1><footer><a href="/impressum/">I</a><a href="/datenschutz/">D</a><a href="/fuer-fachbetriebe/">F</a></footer></body></html>`
 
 test('gute Seite ohne Fehler', () => {
   assert.deepEqual(pruefeSeite(gut, '/x/'), [])
@@ -17,7 +17,7 @@ test('zwei H1', () => {
   assert.ok(pruefeSeite(gut.replace('<h1>H</h1>', '<h1>A</h1><h1>B</h1>'), '/x/').some(f => f.includes('H1')))
 })
 test('fehlender Pflichtlink im Footer', () => {
-  assert.ok(pruefeSeite(gut.replace('<a href="/fuer-fachbetriebe">F</a>', ''), '/x/').some(f => f.includes('fuer-fachbetriebe')))
+  assert.ok(pruefeSeite(gut.replace('<a href="/fuer-fachbetriebe/">F</a>', ''), '/x/').some(f => f.includes('fuer-fachbetriebe')))
 })
 test('doppelter Schema-Typ (z. B. zwei FAQPage)', () => {
   const ld = '<script type="application/ld+json">{"@type":"FAQPage"}</script>'
@@ -30,4 +30,10 @@ test('OneDrive-Konfliktkopie erkannt', async () => {
   assert.equal(istKonfliktkopie('page-LAPTOP-DEU06RDV-LAPTOP-DEU06RDV.js'), true)
   assert.equal(istKonfliktkopie('index.html'), false)
   assert.equal(istKonfliktkopie('395-45337087cfcb33c3.js'), false)
+})
+test('interner Link ohne Schrägstrich (Umleitung bei trailingSlash)', () => {
+  const html = gut.replace('<h1>H</h1>', '<h1>H</h1><a href="/leistungen/dach-fassade">D</a><a href="/?leistung=x#kontakt">K</a><a href="/logo.webp">L</a>')
+  const f = pruefeSeite(html, '/x/')
+  assert.ok(f.some(x => x.includes('/leistungen/dach-fassade')))
+  assert.equal(f.length, 1)
 })

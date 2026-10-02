@@ -28,6 +28,10 @@ export function pruefeSeite(html, pfad) {
   for (const t of new Set(typen)) if (typen.filter((x) => x === t).length > 1 || t === 'ungültiges JSON-LD') f.push(`Schema ${t} mehrfach/ungültig`)
   const footer = html.match(/<footer[\s\S]*?<\/footer>/)?.[0] ?? ''
   for (const l of PFLICHT_FOOTER) if (!new RegExp(`href="${l}/?"`).test(footer)) f.push(`Footer-Link ${l} fehlt`)
+  // Interne Seitenlinks mit Schrägstrich am Ende (trailingSlash): sonst leitet der Server jeden Klick per 301 um
+  const ohne = new Set([...html.matchAll(/href="(\/[^"?#]*?)(?:[?#][^"]*)?"/g)].map((m) => m[1])
+    .filter((p) => !p.endsWith('/') && !/\.[a-z0-9]+$/i.test(p) && !p.startsWith('/_next')))
+  for (const p of ohne) f.push(`Link ohne Schrägstrich: ${p}`)
   return f
 }
 

@@ -520,7 +520,7 @@ export default function BadSanitaerPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
-      <Nav aktuelleLeistung="/leistungen/bad-sanitaer" />
+      <Nav aktuelleLeistung="/leistungen/bad-sanitaer/" />
       <Hero />
       <Services />
       <Prozess />

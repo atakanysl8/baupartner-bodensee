@@ -41,7 +41,7 @@ export const INHALT: LeistungsInhalt = {
   cta: { h2: 'Streichen, fliesen oder', h2Betont: 'neuer Boden?', text: 'Schildern Sie uns Ihr Vorhaben – wir wählen einen passenden Fachbetrieb aus. Kostenlos und unverbindlich.' },
   faqTitel: 'Maler, Fliesen & Böden',
   faqs: [
-    { q: 'Kann man Fliesen auf alte Fliesen legen?', a: 'Das ist häufig möglich, wenn der alte Belag fest, eben und tragfähig ist und die Aufbauhöhe an Türen und Anschlüssen passt. Ob es im Einzelfall sinnvoll ist, beurteilt der Fliesenleger vor Ort.' },
+    { q: 'Kann man Fliesen auf alte Fliesen legen?', a: 'Das ist häufig möglich, wenn der alte Belag fest, eben und tragfähig ist und die Aufbauhöhe an Türen und Anschlüssen passt. Ob es im Einzelfall sinnvoll ist, beurteilt der Fliesenleger am Objekt.' },
     { q: 'Wann darf auf neuem Estrich ein Boden verlegt werden?', a: 'Erst wenn der Estrich ausreichend trocken ist. Vor dem Verlegen misst der Bodenleger in der Regel die Restfeuchte; die Trocknungszeit hängt von Estrichart, Dicke und Raumklima ab.' },
     { q: 'Brauche ich für einen neuen Fassadenanstrich eine Genehmigung?', a: 'Ein Anstrich ist in der Regel verfahrensfrei. In Gebieten mit Gestaltungssatzung, bei Kulturdenkmalen oder in Gesamtanlagen können jedoch Farbvorgaben gelten; Auskunft gibt die Stadt.' },
     { q: 'Lässt sich altes Parkett aufarbeiten?', a: 'Massivparkett und viele Mehrschichtparkette lassen sich mehrfach abschleifen und neu versiegeln oder ölen. Wie oft, hängt von der Stärke der Nutzschicht ab.' },

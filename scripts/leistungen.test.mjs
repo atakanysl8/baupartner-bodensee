@@ -21,3 +21,13 @@ test('Formular-Chips sind eindeutig', () => {
 test('jede Leistung hat eine Seite unter app/leistungen/<slug>/page.tsx', () => {
   for (const e of eintraege) assert.ok(fs.existsSync(path.join(import.meta.dirname, '..', 'app', 'leistungen', e.slug, 'page.tsx')), e.slug)
 })
+
+test('Leistungsseiten-Texte ohne verbotene Aussagen und ohne Präsenz-„vor Ort“', async () => {
+  const { VERBOTEN } = await import('./check-orte.mjs')
+  const ordner = path.join(import.meta.dirname, '..', 'app', 'inhalte', 'leistungsseiten')
+  for (const d of fs.readdirSync(ordner)) {
+    const text = fs.readFileSync(path.join(ordner, d), 'utf8')
+    for (const r of [...VERBOTEN, /(betrieb|handwerker|fliesenleger|elektriker|dachdecker|maler)\w* vor ort/i])
+      assert.ok(!r.test(text), `${d}: ${r}`)
+  }
+})

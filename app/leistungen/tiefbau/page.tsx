@@ -521,7 +521,7 @@ export default function TiefbauPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
-      <Nav aktuelleLeistung="/leistungen/tiefbau" />
+      <Nav aktuelleLeistung="/leistungen/tiefbau/" />
       <Hero />
       <Services />
       <Prozess />

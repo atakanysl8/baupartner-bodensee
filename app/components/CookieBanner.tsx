@@ -64,7 +64,7 @@ export default function CookieBanner() {
             >
               <p className="cookie-text">
                 Wir nutzen <strong>Google Analytics</strong>, um unsere Website zu verbessern. Deine Daten werden anonym verarbeitet.{' '}
-                <Link href="/datenschutz" className="cookie-link">Datenschutzerklärung</Link>
+                <Link href="/datenschutz/" className="cookie-link">Datenschutzerklärung</Link>
               </p>
               <div className="cookie-actions">
                 <button className="cookie-btn cookie-btn-reject" onClick={reject}>Ablehnen</button>

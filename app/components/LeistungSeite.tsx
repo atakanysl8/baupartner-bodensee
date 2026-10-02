@@ -57,7 +57,7 @@ export default function LeistungSeite({ slug, inhalt }: { slug: LeistungSlug; in
   return (
     <>
       {jsonLd.map((j) => <script key={j['@type']} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(j) }} />)}
-      <Nav aktuelleLeistung={`/leistungen/${slug}`} />
+      <Nav aktuelleLeistung={`/leistungen/${slug}/`} />
 
       <header className="hb-hero">
         <div className="hb-hero-image">

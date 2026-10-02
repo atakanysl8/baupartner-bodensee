@@ -38,7 +38,7 @@ export default function OrtSeite({ s }: { s: Ortsseite }) {
 
   return (
     <>
-      <Nav aktuelleLeistung={`/leistungen/${s.leistung}`} />
+      <Nav aktuelleLeistung={`/leistungen/${s.leistung}/`} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <main className="ort-section">
         <div className="wrap ort-inner">

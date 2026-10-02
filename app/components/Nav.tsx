@@ -7,7 +7,7 @@ import { GRUPPEN, leistungenDerGruppe } from '../inhalte/leistungen'
 // aus der zentralen Leistungsliste (app/inhalte/leistungen.ts), gruppiert für das Dropdown
 const LEISTUNGS_GRUPPEN = GRUPPEN.map((g) => ({
   titel: g.titel,
-  items: leistungenDerGruppe(g.gruppe).map((l) => ({ label: l.name, href: `/leistungen/${l.slug}` })),
+  items: leistungenDerGruppe(g.gruppe).map((l) => ({ label: l.name, href: `/leistungen/${l.slug}/` })),
 }))
 const leistungenItems = LEISTUNGS_GRUPPEN.flatMap((g) => g.items)
 
@@ -28,8 +28,8 @@ export default function Nav({ aktiv, aktuelleLeistung }: { aktiv?: string; aktue
   }, [menuOpen])
 
   const otherLinks = [
-    { href: '/ueber-uns', label: 'Über uns' },
-    { href: '/fuer-fachbetriebe', label: 'Für Fachbetriebe' },
+    { href: '/ueber-uns/', label: 'Über uns' },
+    { href: '/fuer-fachbetriebe/', label: 'Für Fachbetriebe' },
     { href: '/#kontakt', label: 'Kontakt' },
   ]
 

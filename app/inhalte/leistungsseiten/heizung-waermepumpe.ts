@@ -18,7 +18,7 @@ export const INHALT: LeistungsInhalt = {
       { icon: ['M4 6h16v12H4z', 'M8 10h8', 'M8 14h8', 'M12 18v3'], titel: 'Wärmepumpe', kurz: 'Luft-Wasser oder Erdwärme', text: 'Ob eine Wärmepumpe zu Ihrem Haus passt, hängt vor allem von Heizlast und benötigter Vorlauftemperatur ab. Wir vermitteln Betriebe, die Planung, Einbau und Inbetriebnahme übernehmen.' },
       { icon: ['M12 3c2 3-2 5 0 8s-2 5 0 8', 'M5 21h14'], titel: 'Heizungstausch', kurz: 'Alte Öl- oder Gasheizung ersetzen', text: 'Beim Austausch geht es um mehr als das Gerät: Hydraulischer Abgleich, Warmwasser und gegebenenfalls Heizkörper gehören zur Planung.' },
       { icon: ['M3 12h18', 'M3 6h18', 'M3 18h18'], titel: 'Fußbodenheizung & Heizkörper', kurz: 'Wärmeverteilung modernisieren', text: 'Fußbodenheizung im Neubau oder nachträglich, größere Heizkörper für niedrige Vorlauftemperaturen – passend zur geplanten Wärmeerzeugung.' },
-      { icon: ['M14.7 6.3a1 1 0 000 1.4l1.6 1.6a1 1 0 001.4 0l3.8-3.8a6 6 0 01-7.9 7.9l-6.9 6.9a2.1 2.1 0 01-3-3l6.9-6.9a6 6 0 017.9-7.9z'], titel: 'Wartung & Reparatur', kurz: 'Planbare Arbeiten an der Heizung', text: 'Regelmäßige Wartung, Reparaturen und Optimierung bestehender Anlagen. Einen Notdienst bieten wir nicht an.' },
+      { icon: ['M14.7 6.3a1 1 0 000 1.4l1.6 1.6a1 1 0 001.4 0l3.8-3.8a6 6 0 01-7.9 7.9l-6.9 6.9a2.1 2.1 0 01-3-3l6.9-6.9a6 6 0 017.9-7.9z'], titel: 'Wartung & Reparatur', kurz: 'Planbare Arbeiten an der Heizung', text: 'Regelmäßige Wartung, Reparaturen und Optimierung bestehender Anlagen – planbar und nach Absprache.' },
     ],
   },
   ablauf: {

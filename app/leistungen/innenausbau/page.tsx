@@ -519,7 +519,7 @@ export default function InnenausbauPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
-      <Nav aktuelleLeistung="/leistungen/innenausbau" />
+      <Nav aktuelleLeistung="/leistungen/innenausbau/" />
       <Hero />
       <Services />
       <Prozess />

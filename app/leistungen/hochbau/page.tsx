@@ -526,7 +526,7 @@ export default function HochbauPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
-      <Nav aktuelleLeistung="/leistungen/hochbau" />
+      <Nav aktuelleLeistung="/leistungen/hochbau/" />
       <Hero />
       <Services />
       <Prozess />
