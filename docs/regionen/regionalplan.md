@@ -20,7 +20,7 @@ Stand: 2026-10-02 · Spec: `docs/superpowers/specs/2026-10-02-ortsseiten-bw-desi
 | Leistungsseiten-Begriffe | 52 | ca. 15 | `messung/keywords-03-leistungsseiten.csv` |
 | Ranked Keywords Domain | 1 Abruf | gering | — |
 
-Stand nach Messung: 2.355 Credits verbleibend (→ 177 verbraucht; Audit läuft separat).
+Stand nach Messung: 2.355 Credits verbleibend (177 verbraucht). Endstand nach Audit und SERP-Nachprüfung: 2.277 (255 verbraucht).
 
 ### Entscheidungen aus dem Kostentest
 
