@@ -35,7 +35,7 @@ function seiten(ordner) {
   return out
 }
 
-if (import.meta.url === pathToFileURL(process.argv[1]).href) {
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
   const ordner = process.argv[2] ?? 'out'
   const titles = new Map(), descs = new Map()
   let fehler = 0, n = 0

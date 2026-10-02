@@ -1,0 +1,40 @@
+keyword,search_volume,main_intent,cpc,keyword_difficulty
+# Quelle: OpenSEO get_keyword_metrics (DataForSEO), Deutschland/de, ohne Monatsverläufe, abgerufen 2026-10-02. Zweck: Suchbegriffe für die bestehenden Leistungsseiten. Ohne Volumen geliefert: badsanierung bodenseekreis, badsanierung überlingen, tiefbau bodenseekreis, sowie (nicht zurückgegeben) handwerker bodensee, sanierung bodensee, tiefbau bodensee, hochbau bodensee, handwerker überlingen, handwerker bodenseekreis, handwerker baden-württemberg, sanierung förderung baden-württemberg, handwerker lindau, handwerker radolfzell
+energetische sanierung,6600,informational,4.46,39
+badsanierung kosten,4400,commercial,3.06,7
+handwerker finden,2900,navigational,2.43,33
+barrierefreies bad,2400,informational,2.89,0
+kernsanierung,2400,informational,8.62,2
+bodenplatte kosten,1000,informational,1.71,0
+kernsanierung kosten,1000,informational,3.58,0
+badsanierung förderung,880,commercial,1.89,0
+anbau kosten,390,commercial,2.73,0
+hausanschluss kosten,320,commercial,0.56,0
+rohbau kosten,320,commercial,2.61,0
+trockenbau kosten,320,informational,2.46,0
+bad sanieren kosten,210,informational,3.08,31
+erdarbeiten kosten,210,informational,1.43,0
+altbausanierung kosten,140,informational,2.72,13
+drainage kosten,140,informational,4.3,0
+kanalanschluss kosten,140,commercial,8.32,13
+handwerker vermittlung,110,navigational,3.96,34
+dachgeschossausbau kosten,90,informational,2.78,0
+innenausbau kosten,90,informational,1.75,0
+bauunternehmen baden-württemberg,70,commercial,3.83,2
+handwerkervermittlung,70,navigational,2.81,19
+aufstockung kosten,50,informational,1.45,0
+bauunternehmen bodensee,40,commercial,,17
+bauvermittlung,40,commercial,2.55,0
+handwerker konstanz,40,navigational,0.62,0
+bauunternehmen bodenseekreis,30,commercial,0.44,15
+bauunternehmen lindau,30,commercial,,23
+handwerker ravensburg,30,navigational,0.36,0
+bauunternehmen überlingen,20,commercial,1.66,51
+handwerker friedrichshafen,20,commercial,,
+badsanierung baden-württemberg,10,commercial,1.02,
+badsanierung lindau,10,commercial,5.98,
+bauunternehmen markdorf,10,navigational,1.11,
+innenausbau bodensee,10,commercial,0.72,
+tiefbau friedrichshafen,10,navigational,1.98,48
+tiefbau konstanz,10,navigational,1.58,50
+tiefbau ravensburg,10,navigational,2.73,45

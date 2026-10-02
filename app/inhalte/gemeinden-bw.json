@@ -1,0 +1,4817 @@
+[
+ {
+  "name": "Stuttgart",
+  "such": "Stuttgart",
+  "slug": "stuttgart",
+  "kreis": "Stuttgart",
+  "einwohner": 609365,
+  "lat": 48.775817,
+  "lon": 9.177734
+ },
+ {
+  "name": "Mannheim",
+  "such": "Mannheim",
+  "slug": "mannheim",
+  "kreis": "Mannheim",
+  "einwohner": 319536,
+  "lat": 49.48778,
+  "lon": 8.466275
+ },
+ {
+  "name": "Karlsruhe",
+  "such": "Karlsruhe",
+  "slug": "karlsruhe",
+  "kreis": "Karlsruhe",
+  "einwohner": 309247,
+  "lat": 49.009626,
+  "lon": 8.405282
+ },
+ {
+  "name": "Freiburg im Breisgau",
+  "such": "Freiburg",
+  "slug": "freiburg",
+  "kreis": "Freiburg im Breisgau",
+  "einwohner": 238299,
+  "lat": 47.994786,
+  "lon": 7.849877
+ },
+ {
+  "name": "Heidelberg",
+  "such": "Heidelberg",
+  "slug": "heidelberg",
+  "kreis": "Heidelberg",
+  "einwohner": 156092,
+  "lat": 49.410524,
+  "lon": 8.705543
+ },
+ {
+  "name": "Pforzheim",
+  "such": "Pforzheim",
+  "slug": "pforzheim",
+  "kreis": "Pforzheim",
+  "einwohner": 134422,
+  "lat": 48.891285,
+  "lon": 8.699166
+ },
+ {
+  "name": "Heilbronn",
+  "such": "Heilbronn",
+  "slug": "heilbronn",
+  "kreis": "Heilbronn",
+  "einwohner": 132516,
+  "lat": 49.140428,
+  "lon": 9.217953
+ },
+ {
+  "name": "Ulm",
+  "such": "Ulm",
+  "slug": "ulm",
+  "kreis": "Ulm",
+  "einwohner": 130288,
+  "lat": 48.398454,
+  "lon": 9.990402
+ },
+ {
+  "name": "Reutlingen",
+  "such": "Reutlingen",
+  "slug": "reutlingen",
+  "kreis": "Reutlingen",
+  "einwohner": 119040,
+  "lat": 48.49208,
+  "lon": 9.212006
+ },
+ {
+  "name": "Esslingen am Neckar",
+  "such": "Esslingen",
+  "slug": "esslingen",
+  "kreis": "Esslingen",
+  "einwohner": 95419,
+  "lat": 48.741347,
+  "lon": 9.309565
+ },
+ {
+  "name": "Ludwigsburg",
+  "such": "Ludwigsburg",
+  "slug": "ludwigsburg",
+  "kreis": "Ludwigsburg",
+  "einwohner": 93002,
+  "lat": 48.896233,
+  "lon": 9.190393
+ },
+ {
+  "name": "Tübingen",
+  "such": "Tübingen",
+  "slug": "tuebingen",
+  "kreis": "Tübingen",
+  "einwohner": 92607,
+  "lat": 48.520863,
+  "lon": 9.054572
+ },
+ {
+  "name": "Villingen-Schwenningen",
+  "such": "Villingen-Schwenningen",
+  "slug": "villingen-schwenningen",
+  "kreis": "Schwarzwald-Baar-Kreis",
+  "einwohner": 89766,
+  "lat": 48.058255,
+  "lon": 8.459649
+ },
+ {
+  "name": "Konstanz",
+  "such": "Konstanz",
+  "slug": "konstanz",
+  "kreis": "Konstanz",
+  "einwohner": 86691,
+  "lat": 47.662757,
+  "lon": 9.175957
+ },
+ {
+  "name": "Aalen",
+  "such": "Aalen",
+  "slug": "aalen",
+  "kreis": "Ostalbkreis",
+  "einwohner": 67675,
+  "lat": 48.835057,
+  "lon": 10.092337
+ },
+ {
+  "name": "Schwäbisch Gmünd",
+  "such": "Schwäbisch Gmünd",
+  "slug": "schwaebisch-gmuend",
+  "kreis": "Ostalbkreis",
+  "einwohner": 63930,
+  "lat": 48.802384,
+  "lon": 9.796508
+ },
+ {
+  "name": "Offenburg",
+  "such": "Offenburg",
+  "slug": "offenburg",
+  "kreis": "Ortenaukreis",
+  "einwohner": 63437,
+  "lat": 48.469474,
+  "lon": 7.944214
+ },
+ {
+  "name": "Friedrichshafen",
+  "such": "Friedrichshafen",
+  "slug": "friedrichshafen",
+  "kreis": "Bodenseekreis",
+  "einwohner": 62781,
+  "lat": 47.652205,
+  "lon": 9.479614
+ },
+ {
+  "name": "Sindelfingen",
+  "such": "Sindelfingen",
+  "slug": "sindelfingen",
+  "kreis": "Böblingen",
+  "einwohner": 61428,
+  "lat": 48.709831,
+  "lon": 9.002211
+ },
+ {
+  "name": "Göppingen",
+  "such": "Göppingen",
+  "slug": "goeppingen",
+  "kreis": "Göppingen",
+  "einwohner": 58678,
+  "lat": 48.703267,
+  "lon": 9.653964
+ },
+ {
+  "name": "Waiblingen",
+  "such": "Waiblingen",
+  "slug": "waiblingen",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 57186,
+  "lat": 48.83001,
+  "lon": 9.314525
+ },
+ {
+  "name": "Baden-Baden",
+  "such": "Baden-Baden",
+  "slug": "baden-baden",
+  "kreis": "Baden-Baden",
+  "einwohner": 56952,
+  "lat": 48.761794,
+  "lon": 8.239951
+ },
+ {
+  "name": "Lörrach",
+  "such": "Lörrach",
+  "slug": "loerrach",
+  "kreis": "Lörrach",
+  "einwohner": 51274,
+  "lat": 47.612096,
+  "lon": 7.659191
+ },
+ {
+  "name": "Lahr/Schwarzwald",
+  "such": "Lahr",
+  "slug": "lahr",
+  "kreis": "Ortenaukreis",
+  "einwohner": 51208,
+  "lat": 48.339132,
+  "lon": 7.874292
+ },
+ {
+  "name": "Böblingen",
+  "such": "Böblingen",
+  "slug": "boeblingen",
+  "kreis": "Böblingen",
+  "einwohner": 51204,
+  "lat": 48.685296,
+  "lon": 9.009663
+ },
+ {
+  "name": "Rastatt",
+  "such": "Rastatt",
+  "slug": "rastatt",
+  "kreis": "Rastatt",
+  "einwohner": 50753,
+  "lat": 48.857703,
+  "lon": 8.202529
+ },
+ {
+  "name": "Heidenheim an der Brenz",
+  "such": "Heidenheim",
+  "slug": "heidenheim",
+  "kreis": "Heidenheim",
+  "einwohner": 50612,
+  "lat": 48.677736,
+  "lon": 10.154639
+ },
+ {
+  "name": "Ravensburg",
+  "such": "Ravensburg",
+  "slug": "ravensburg",
+  "kreis": "Ravensburg",
+  "einwohner": 50549,
+  "lat": 47.78366,
+  "lon": 9.615089
+ },
+ {
+  "name": "Leonberg",
+  "such": "Leonberg",
+  "slug": "leonberg",
+  "kreis": "Böblingen",
+  "einwohner": 49514,
+  "lat": 48.800497,
+  "lon": 9.016776
+ },
+ {
+  "name": "Singen (Hohentwiel)",
+  "such": "Singen",
+  "slug": "singen",
+  "kreis": "Konstanz",
+  "einwohner": 48089,
+  "lat": 47.759711,
+  "lon": 8.835117
+ },
+ {
+  "name": "Bruchsal",
+  "such": "Bruchsal",
+  "slug": "bruchsal",
+  "kreis": "Karlsruhe",
+  "einwohner": 47578,
+  "lat": 49.125785,
+  "lon": 8.5977
+ },
+ {
+  "name": "Albstadt",
+  "such": "Albstadt",
+  "slug": "albstadt",
+  "kreis": "Zollernalbkreis",
+  "einwohner": 47047,
+  "lat": 48.214156,
+  "lon": 9.026328
+ },
+ {
+  "name": "Fellbach",
+  "such": "Fellbach",
+  "slug": "fellbach",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 46659,
+  "lat": 48.80685,
+  "lon": 9.278375
+ },
+ {
+  "name": "Filderstadt",
+  "such": "Filderstadt",
+  "slug": "filderstadt",
+  "kreis": "Esslingen",
+  "einwohner": 46274,
+  "lat": 48.67876,
+  "lon": 9.21973
+ },
+ {
+  "name": "Weinheim",
+  "such": "Weinheim",
+  "slug": "weinheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 45919,
+  "lat": 49.550558,
+  "lon": 8.670732
+ },
+ {
+  "name": "Rottenburg am Neckar",
+  "such": "Rottenburg",
+  "slug": "rottenburg",
+  "kreis": "Tübingen",
+  "einwohner": 45579,
+  "lat": 48.479475,
+  "lon": 8.936507
+ },
+ {
+  "name": "Bietigheim-Bissingen",
+  "such": "Bietigheim-Bissingen",
+  "slug": "bietigheim-bissingen",
+  "kreis": "Ludwigsburg",
+  "einwohner": 43354,
+  "lat": 48.948358,
+  "lon": 9.132652
+ },
+ {
+  "name": "Schwäbisch Hall",
+  "such": "Schwäbisch Hall",
+  "slug": "schwaebisch-hall",
+  "kreis": "Schwäbisch Hall",
+  "einwohner": 42705,
+  "lat": 49.112856,
+  "lon": 9.735145
+ },
+ {
+  "name": "Kirchheim unter Teck",
+  "such": "Kirchheim unter Teck",
+  "slug": "kirchheim-unter-teck",
+  "kreis": "Esslingen",
+  "einwohner": 42382,
+  "lat": 48.646093,
+  "lon": 9.453784
+ },
+ {
+  "name": "Schorndorf",
+  "such": "Schorndorf",
+  "slug": "schorndorf",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 41469,
+  "lat": 48.805051,
+  "lon": 9.528152
+ },
+ {
+  "name": "Leinfelden-Echterdingen",
+  "such": "Leinfelden-Echterdingen",
+  "slug": "leinfelden-echterdingen",
+  "kreis": "Esslingen",
+  "einwohner": 41448,
+  "lat": 48.693719,
+  "lon": 9.138976
+ },
+ {
+  "name": "Nürtingen",
+  "such": "Nürtingen",
+  "slug": "nuertingen",
+  "kreis": "Esslingen",
+  "einwohner": 40898,
+  "lat": 48.625847,
+  "lon": 9.343281
+ },
+ {
+  "name": "Ostfildern",
+  "such": "Ostfildern",
+  "slug": "ostfildern",
+  "kreis": "Esslingen",
+  "einwohner": 39794,
+  "lat": 48.712327,
+  "lon": 9.301248
+ },
+ {
+  "name": "Kehl",
+  "such": "Kehl",
+  "slug": "kehl",
+  "kreis": "Ortenaukreis",
+  "einwohner": 39708,
+  "lat": 48.572447,
+  "lon": 7.813177
+ },
+ {
+  "name": "Backnang",
+  "such": "Backnang",
+  "slug": "backnang",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 38615,
+  "lat": 48.94691,
+  "lon": 9.424452
+ },
+ {
+  "name": "Ettlingen",
+  "such": "Ettlingen",
+  "slug": "ettlingen",
+  "kreis": "Karlsruhe",
+  "einwohner": 38557,
+  "lat": 48.942,
+  "lon": 8.405904
+ },
+ {
+  "name": "Sinsheim",
+  "such": "Sinsheim",
+  "slug": "sinsheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 37105,
+  "lat": 49.252996,
+  "lon": 8.878701
+ },
+ {
+  "name": "Tuttlingen",
+  "such": "Tuttlingen",
+  "slug": "tuttlingen",
+  "kreis": "Tuttlingen",
+  "einwohner": 37093,
+  "lat": 47.983725,
+  "lon": 8.818761
+ },
+ {
+  "name": "Crailsheim",
+  "such": "Crailsheim",
+  "slug": "crailsheim",
+  "kreis": "Schwäbisch Hall",
+  "einwohner": 35905,
+  "lat": 49.135752,
+  "lon": 10.071139
+ },
+ {
+  "name": "Balingen",
+  "such": "Balingen",
+  "slug": "balingen",
+  "kreis": "Zollernalbkreis",
+  "einwohner": 35744,
+  "lat": 48.274036,
+  "lon": 8.851588
+ },
+ {
+  "name": "Rheinfelden (Baden)",
+  "such": "Rheinfelden",
+  "slug": "rheinfelden",
+  "kreis": "Lörrach",
+  "einwohner": 34788,
+  "lat": 47.561128,
+  "lon": 7.78365
+ },
+ {
+  "name": "Biberach an der Riß",
+  "such": "Biberach",
+  "slug": "biberach",
+  "kreis": "Biberach",
+  "einwohner": 34275,
+  "lat": 48.097465,
+  "lon": 9.79203
+ },
+ {
+  "name": "Herrenberg",
+  "such": "Herrenberg",
+  "slug": "herrenberg",
+  "kreis": "Böblingen",
+  "einwohner": 34167,
+  "lat": 48.595705,
+  "lon": 8.867369
+ },
+ {
+  "name": "Kornwestheim",
+  "such": "Kornwestheim",
+  "slug": "kornwestheim",
+  "kreis": "Ludwigsburg",
+  "einwohner": 34149,
+  "lat": 48.86536,
+  "lon": 9.18586
+ },
+ {
+  "name": "Weil am Rhein",
+  "such": "Weil am Rhein",
+  "slug": "weil-am-rhein",
+  "kreis": "Lörrach",
+  "einwohner": 32361,
+  "lat": 47.594284,
+  "lon": 7.629579
+ },
+ {
+  "name": "Radolfzell am Bodensee",
+  "such": "Radolfzell",
+  "slug": "radolfzell",
+  "kreis": "Konstanz",
+  "einwohner": 31689,
+  "lat": 47.739107,
+  "lon": 8.968663
+ },
+ {
+  "name": "Bretten",
+  "such": "Bretten",
+  "slug": "bretten",
+  "kreis": "Karlsruhe",
+  "einwohner": 30312,
+  "lat": 49.036665,
+  "lon": 8.707641
+ },
+ {
+  "name": "Winnenden",
+  "such": "Winnenden",
+  "slug": "winnenden",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 29844,
+  "lat": 48.877185,
+  "lon": 9.396202
+ },
+ {
+  "name": "Emmendingen",
+  "such": "Emmendingen",
+  "slug": "emmendingen",
+  "kreis": "Emmendingen",
+  "einwohner": 29530,
+  "lat": 48.122053,
+  "lon": 7.847625
+ },
+ {
+  "name": "Gaggenau",
+  "such": "Gaggenau",
+  "slug": "gaggenau",
+  "kreis": "Rastatt",
+  "einwohner": 29394,
+  "lat": 48.807364,
+  "lon": 8.317525
+ },
+ {
+  "name": "Wangen im Allgäu",
+  "such": "Wangen im Allgäu",
+  "slug": "wangen-im-allgaeu",
+  "kreis": "Ravensburg",
+  "einwohner": 28784,
+  "lat": 47.685855,
+  "lon": 9.832354
+ },
+ {
+  "name": "Vaihingen an der Enz",
+  "such": "Vaihingen an der Enz",
+  "slug": "vaihingen-an-der-enz",
+  "kreis": "Ludwigsburg",
+  "einwohner": 28558,
+  "lat": 48.933224,
+  "lon": 8.960417
+ },
+ {
+  "name": "Bühl",
+  "such": "Bühl",
+  "slug": "buehl",
+  "kreis": "Rastatt",
+  "einwohner": 28433,
+  "lat": 48.696265,
+  "lon": 8.136444
+ },
+ {
+  "name": "Wiesloch",
+  "such": "Wiesloch",
+  "slug": "wiesloch",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 27911,
+  "lat": 49.293493,
+  "lon": 8.701276
+ },
+ {
+  "name": "Geislingen an der Steige",
+  "such": "Geislingen an der Steige",
+  "slug": "geislingen-an-der-steige",
+  "kreis": "Göppingen",
+  "einwohner": 27781,
+  "lat": 48.623045,
+  "lon": 9.835836
+ },
+ {
+  "name": "Ehingen (Donau)",
+  "such": "Ehingen",
+  "slug": "ehingen",
+  "kreis": "Alb-Donau-Kreis",
+  "einwohner": 27700,
+  "lat": 48.283666,
+  "lon": 9.725211
+ },
+ {
+  "name": "Weinstadt",
+  "such": "Weinstadt",
+  "slug": "weinstadt",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 26926,
+  "lat": 48.803451,
+  "lon": 9.385556
+ },
+ {
+  "name": "Achern",
+  "such": "Achern",
+  "slug": "achern",
+  "kreis": "Ortenaukreis",
+  "einwohner": 26873,
+  "lat": 48.628851,
+  "lon": 8.074429
+ },
+ {
+  "name": "Leimen",
+  "such": "Leimen",
+  "slug": "leimen",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 26815,
+  "lat": 49.349054,
+  "lon": 8.688782
+ },
+ {
+  "name": "Mühlacker",
+  "such": "Mühlacker",
+  "slug": "muehlacker",
+  "kreis": "Enzkreis",
+  "einwohner": 26793,
+  "lat": 48.945605,
+  "lon": 8.8419
+ },
+ {
+  "name": "Neckarsulm",
+  "such": "Neckarsulm",
+  "slug": "neckarsulm",
+  "kreis": "Heilbronn",
+  "einwohner": 26470,
+  "lat": 49.190147,
+  "lon": 9.223944
+ },
+ {
+  "name": "Remseck am Neckar",
+  "such": "Remseck",
+  "slug": "remseck",
+  "kreis": "Ludwigsburg",
+  "einwohner": 26089,
+  "lat": 48.87067,
+  "lon": 9.279445
+ },
+ {
+  "name": "Öhringen",
+  "such": "Öhringen",
+  "slug": "oehringen",
+  "kreis": "Hohenlohekreis",
+  "einwohner": 25871,
+  "lat": 49.200104,
+  "lon": 9.501119
+ },
+ {
+  "name": "Horb am Neckar",
+  "such": "Horb am Neckar",
+  "slug": "horb-am-neckar",
+  "kreis": "Freudenstadt",
+  "einwohner": 25687,
+  "lat": 48.445165,
+  "lon": 8.692721
+ },
+ {
+  "name": "Stutensee",
+  "such": "Stutensee",
+  "slug": "stutensee",
+  "kreis": "Karlsruhe",
+  "einwohner": 25422,
+  "lat": 49.063748,
+  "lon": 8.470789
+ },
+ {
+  "name": "Waldshut-Tiengen",
+  "such": "Waldshut-Tiengen",
+  "slug": "waldshut-tiengen",
+  "kreis": "Waldshut",
+  "einwohner": 25084,
+  "lat": 47.632439,
+  "lon": 8.271113
+ },
+ {
+  "name": "Weingarten",
+  "such": "Weingarten",
+  "slug": "weingarten",
+  "kreis": "Ravensburg",
+  "einwohner": 25034,
+  "lat": 47.807399,
+  "lon": 9.640669
+ },
+ {
+  "name": "Rottweil",
+  "such": "Rottweil",
+  "slug": "rottweil",
+  "kreis": "Rottweil",
+  "einwohner": 25001,
+  "lat": 48.167866,
+  "lon": 8.627337
+ },
+ {
+  "name": "Calw",
+  "such": "Calw",
+  "slug": "calw",
+  "kreis": "Calw",
+  "einwohner": 24750,
+  "lat": 48.713372,
+  "lon": 8.741194
+ },
+ {
+  "name": "Ellwangen (Jagst)",
+  "such": "Ellwangen",
+  "slug": "ellwangen",
+  "kreis": "Ostalbkreis",
+  "einwohner": 24589,
+  "lat": 48.962988,
+  "lon": 10.131979
+ },
+ {
+  "name": "Freudenstadt",
+  "such": "Freudenstadt",
+  "slug": "freudenstadt",
+  "kreis": "Freudenstadt",
+  "einwohner": 24537,
+  "lat": 48.463876,
+  "lon": 8.411368
+ },
+ {
+  "name": "Mosbach",
+  "such": "Mosbach",
+  "slug": "mosbach",
+  "kreis": "Neckar-Odenwald-Kreis",
+  "einwohner": 24393,
+  "lat": 49.352037,
+  "lon": 9.146596
+ },
+ {
+  "name": "Leutkirch im Allgäu",
+  "such": "Leutkirch",
+  "slug": "leutkirch",
+  "kreis": "Ravensburg",
+  "einwohner": 24325,
+  "lat": 47.825064,
+  "lon": 10.024379
+ },
+ {
+  "name": "Bad Mergentheim",
+  "such": "Bad Mergentheim",
+  "slug": "bad-mergentheim",
+  "kreis": "Main-Tauber-Kreis",
+  "einwohner": 24084,
+  "lat": 49.490973,
+  "lon": 9.773085
+ },
+ {
+  "name": "Nagold",
+  "such": "Nagold",
+  "slug": "nagold",
+  "kreis": "Calw",
+  "einwohner": 23813,
+  "lat": 48.550906,
+  "lon": 8.723706
+ },
+ {
+  "name": "Metzingen",
+  "such": "Metzingen",
+  "slug": "metzingen",
+  "kreis": "Reutlingen",
+  "einwohner": 23305,
+  "lat": 48.536849,
+  "lon": 9.283998
+ },
+ {
+  "name": "Laupheim",
+  "such": "Laupheim",
+  "slug": "laupheim",
+  "kreis": "Biberach",
+  "einwohner": 22836,
+  "lat": 48.230018,
+  "lon": 9.883733
+ },
+ {
+  "name": "Wertheim",
+  "such": "Wertheim",
+  "slug": "wertheim",
+  "kreis": "Main-Tauber-Kreis",
+  "einwohner": 22808,
+  "lat": 49.759581,
+  "lon": 9.516823
+ },
+ {
+  "name": "Überlingen",
+  "such": "Überlingen",
+  "slug": "ueberlingen",
+  "kreis": "Bodenseekreis",
+  "einwohner": 22799,
+  "lat": 47.768547,
+  "lon": 9.159266
+ },
+ {
+  "name": "Eppingen",
+  "such": "Eppingen",
+  "slug": "eppingen",
+  "kreis": "Heilbronn",
+  "einwohner": 22796,
+  "lat": 49.137701,
+  "lon": 8.909012
+ },
+ {
+  "name": "Bad Rappenau",
+  "such": "Bad Rappenau",
+  "slug": "bad-rappenau",
+  "kreis": "Heilbronn",
+  "einwohner": 22728,
+  "lat": 49.240303,
+  "lon": 9.103117
+ },
+ {
+  "name": "Ditzingen",
+  "such": "Ditzingen",
+  "slug": "ditzingen",
+  "kreis": "Ludwigsburg",
+  "einwohner": 22551,
+  "lat": 48.827632,
+  "lon": 9.068779
+ },
+ {
+  "name": "Waghäusel",
+  "such": "Waghäusel",
+  "slug": "waghaeusel",
+  "kreis": "Karlsruhe",
+  "einwohner": 22301,
+  "lat": 49.250734,
+  "lon": 8.514287
+ },
+ {
+  "name": "Eislingen/Fils",
+  "such": "Eislingen",
+  "slug": "eislingen",
+  "kreis": "Göppingen",
+  "einwohner": 22168,
+  "lat": 48.700842,
+  "lon": 9.707697
+ },
+ {
+  "name": "Schwetzingen",
+  "such": "Schwetzingen",
+  "slug": "schwetzingen",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 21864,
+  "lat": 49.384642,
+  "lon": 8.574386
+ },
+ {
+  "name": "Donaueschingen",
+  "such": "Donaueschingen",
+  "slug": "donaueschingen",
+  "kreis": "Schwarzwald-Baar-Kreis",
+  "einwohner": 21734,
+  "lat": 47.951414,
+  "lon": 8.497777
+ },
+ {
+  "name": "Waldkirch",
+  "such": "Waldkirch",
+  "slug": "waldkirch",
+  "kreis": "Emmendingen",
+  "einwohner": 21725,
+  "lat": 48.093941,
+  "lon": 7.961225
+ },
+ {
+  "name": "Mössingen",
+  "such": "Mössingen",
+  "slug": "moessingen",
+  "kreis": "Tübingen",
+  "einwohner": 21658,
+  "lat": 48.405779,
+  "lon": 9.057746
+ },
+ {
+  "name": "Bad Krozingen",
+  "such": "Bad Krozingen",
+  "slug": "bad-krozingen",
+  "kreis": "Breisgau-Hochschwarzwald",
+  "einwohner": 21620,
+  "lat": 47.916377,
+  "lon": 7.699949
+ },
+ {
+  "name": "Hockenheim",
+  "such": "Hockenheim",
+  "slug": "hockenheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 21599,
+  "lat": 49.318938,
+  "lon": 8.547437
+ },
+ {
+  "name": "Rheinstetten",
+  "such": "Rheinstetten",
+  "slug": "rheinstetten",
+  "kreis": "Karlsruhe",
+  "einwohner": 21233,
+  "lat": 48.959096,
+  "lon": 8.292901
+ },
+ {
+  "name": "Bad Waldsee",
+  "such": "Bad Waldsee",
+  "slug": "bad-waldsee",
+  "kreis": "Ravensburg",
+  "einwohner": 20910,
+  "lat": 47.92251,
+  "lon": 9.751276
+ },
+ {
+  "name": "Tettnang",
+  "such": "Tettnang",
+  "slug": "tettnang",
+  "kreis": "Bodenseekreis",
+  "einwohner": 20522,
+  "lat": 47.671477,
+  "lon": 9.589453
+ },
+ {
+  "name": "Schramberg",
+  "such": "Schramberg",
+  "slug": "schramberg",
+  "kreis": "Rottweil",
+  "einwohner": 20415,
+  "lat": 48.225467,
+  "lon": 8.386187
+ },
+ {
+  "name": "Müllheim im Markgräflerland",
+  "such": "Müllheim",
+  "slug": "muellheim",
+  "kreis": "Breisgau-Hochschwarzwald",
+  "einwohner": 20241,
+  "lat": 47.808248,
+  "lon": 7.630871
+ },
+ {
+  "name": "Schopfheim",
+  "such": "Schopfheim",
+  "slug": "schopfheim",
+  "kreis": "Lörrach",
+  "einwohner": 20198,
+  "lat": 47.650141,
+  "lon": 7.822962
+ },
+ {
+  "name": "Pfullingen",
+  "such": "Pfullingen",
+  "slug": "pfullingen",
+  "kreis": "Reutlingen",
+  "einwohner": 20032,
+  "lat": 48.466279,
+  "lon": 9.226443
+ },
+ {
+  "name": "Oberkirch",
+  "such": "Oberkirch",
+  "slug": "oberkirch",
+  "kreis": "Ortenaukreis",
+  "einwohner": 19977,
+  "lat": 48.531805,
+  "lon": 8.077097
+ },
+ {
+  "name": "Bad Friedrichshall",
+  "such": "Bad Friedrichshall",
+  "slug": "bad-friedrichshall",
+  "kreis": "Heilbronn",
+  "einwohner": 19910,
+  "lat": 49.229477,
+  "lon": 9.215882
+ },
+ {
+  "name": "Giengen an der Brenz",
+  "such": "Giengen",
+  "slug": "giengen",
+  "kreis": "Heidenheim",
+  "einwohner": 19857,
+  "lat": 48.623783,
+  "lon": 10.24167
+ },
+ {
+  "name": "Hechingen",
+  "such": "Hechingen",
+  "slug": "hechingen",
+  "kreis": "Zollernalbkreis",
+  "einwohner": 19760,
+  "lat": 48.351487,
+  "lon": 8.962947
+ },
+ {
+  "name": "Korntal-Münchingen",
+  "such": "Korntal-Münchingen",
+  "slug": "korntal-muenchingen",
+  "kreis": "Ludwigsburg",
+  "einwohner": 19666,
+  "lat": 48.826004,
+  "lon": 9.12377
+ },
+ {
+  "name": "Weil der Stadt",
+  "such": "Weil der Stadt",
+  "slug": "weil-der-stadt",
+  "kreis": "Böblingen",
+  "einwohner": 19311,
+  "lat": 48.751993,
+  "lon": 8.870105
+ },
+ {
+  "name": "Renningen",
+  "such": "Renningen",
+  "slug": "renningen",
+  "kreis": "Böblingen",
+  "einwohner": 18728,
+  "lat": 48.765313,
+  "lon": 8.936373
+ },
+ {
+  "name": "Sachsenheim",
+  "such": "Sachsenheim",
+  "slug": "sachsenheim",
+  "kreis": "Ludwigsburg",
+  "einwohner": 18549,
+  "lat": 48.959506,
+  "lon": 9.063337
+ },
+ {
+  "name": "Gerlingen",
+  "such": "Gerlingen",
+  "slug": "gerlingen",
+  "kreis": "Ludwigsburg",
+  "einwohner": 18307,
+  "lat": 48.800587,
+  "lon": 9.062047
+ },
+ {
+  "name": "Buchen (Odenwald)",
+  "such": "Buchen",
+  "slug": "buchen",
+  "kreis": "Neckar-Odenwald-Kreis",
+  "einwohner": 18293,
+  "lat": 49.521795,
+  "lon": 9.323179
+ },
+ {
+  "name": "Pfinztal",
+  "such": "Pfinztal",
+  "slug": "pfinztal",
+  "kreis": "Karlsruhe",
+  "einwohner": 18291,
+  "lat": 48.986457,
+  "lon": 8.541756
+ },
+ {
+  "name": "Bad Säckingen",
+  "such": "Bad Säckingen",
+  "slug": "bad-saeckingen",
+  "kreis": "Waldshut",
+  "einwohner": 17924,
+  "lat": 47.552535,
+  "lon": 7.948758
+ },
+ {
+  "name": "Bad Saulgau",
+  "such": "Bad Saulgau",
+  "slug": "bad-saulgau",
+  "kreis": "Sigmaringen",
+  "einwohner": 17824,
+  "lat": 48.013864,
+  "lon": 9.499183
+ },
+ {
+  "name": "Stockach",
+  "such": "Stockach",
+  "slug": "stockach",
+  "kreis": "Konstanz",
+  "einwohner": 17547,
+  "lat": 47.848855,
+  "lon": 9.00899
+ },
+ {
+  "name": "Trossingen",
+  "such": "Trossingen",
+  "slug": "trossingen",
+  "kreis": "Tuttlingen",
+  "einwohner": 17538,
+  "lat": 48.074438,
+  "lon": 8.632659
+ },
+ {
+  "name": "Eggenstein-Leopoldshafen",
+  "such": "Eggenstein-Leopoldshafen",
+  "slug": "eggenstein-leopoldshafen",
+  "kreis": "Karlsruhe",
+  "einwohner": 16850,
+  "lat": 49.08108,
+  "lon": 8.392996
+ },
+ {
+  "name": "Sigmaringen",
+  "such": "Sigmaringen",
+  "slug": "sigmaringen",
+  "kreis": "Sigmaringen",
+  "einwohner": 16756,
+  "lat": 48.086623,
+  "lon": 9.214788
+ },
+ {
+  "name": "Brackenheim",
+  "such": "Brackenheim",
+  "slug": "brackenheim",
+  "kreis": "Heilbronn",
+  "einwohner": 16712,
+  "lat": 49.078235,
+  "lon": 9.064886
+ },
+ {
+  "name": "Blaustein",
+  "such": "Blaustein",
+  "slug": "blaustein",
+  "kreis": "Alb-Donau-Kreis",
+  "einwohner": 16630,
+  "lat": 48.416145,
+  "lon": 9.921863
+ },
+ {
+  "name": "Breisach am Rhein",
+  "such": "Breisach",
+  "slug": "breisach",
+  "kreis": "Breisgau-Hochschwarzwald",
+  "einwohner": 16617,
+  "lat": 48.031142,
+  "lon": 7.583227
+ },
+ {
+  "name": "Künzelsau",
+  "such": "Künzelsau",
+  "slug": "kuenzelsau",
+  "kreis": "Hohenlohekreis",
+  "einwohner": 16457,
+  "lat": 49.277894,
+  "lon": 9.687069
+ },
+ {
+  "name": "Walldorf",
+  "such": "Walldorf",
+  "slug": "walldorf",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 16219,
+  "lat": 49.303151,
+  "lon": 8.642764
+ },
+ {
+  "name": "Karlsbad",
+  "such": "Karlsbad",
+  "slug": "karlsbad",
+  "kreis": "Karlsruhe",
+  "einwohner": 16137,
+  "lat": 48.916735,
+  "lon": 8.50601
+ },
+ {
+  "name": "Wendlingen am Neckar",
+  "such": "Wendlingen",
+  "slug": "wendlingen",
+  "kreis": "Esslingen",
+  "einwohner": 16002,
+  "lat": 48.672462,
+  "lon": 9.379528
+ },
+ {
+  "name": "Kernen im Remstal",
+  "such": "Kernen im Remstal",
+  "slug": "kernen-im-remstal",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 15907,
+  "lat": 48.808537,
+  "lon": 9.317937
+ },
+ {
+  "name": "Eppelheim",
+  "such": "Eppelheim",
+  "slug": "eppelheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 15706,
+  "lat": 49.401236,
+  "lon": 8.631011
+ },
+ {
+  "name": "Ebersbach an der Fils",
+  "such": "Ebersbach an der Fils",
+  "slug": "ebersbach-an-der-fils",
+  "kreis": "Göppingen",
+  "einwohner": 15550,
+  "lat": 48.714242,
+  "lon": 9.523452
+ },
+ {
+  "name": "Freiberg am Neckar",
+  "such": "Freiberg am Neckar",
+  "slug": "freiberg-am-neckar",
+  "kreis": "Ludwigsburg",
+  "einwohner": 15482,
+  "lat": 48.933909,
+  "lon": 9.195537
+ },
+ {
+  "name": "Langenau",
+  "such": "Langenau",
+  "slug": "langenau",
+  "kreis": "Alb-Donau-Kreis",
+  "einwohner": 15359,
+  "lat": 48.499499,
+  "lon": 10.121087
+ },
+ {
+  "name": "Marbach am Neckar",
+  "such": "Marbach",
+  "slug": "marbach",
+  "kreis": "Ludwigsburg",
+  "einwohner": 15348,
+  "lat": 48.939832,
+  "lon": 9.259828
+ },
+ {
+  "name": "Sandhausen",
+  "such": "Sandhausen",
+  "slug": "sandhausen",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 15331,
+  "lat": 49.342601,
+  "lon": 8.658493
+ },
+ {
+  "name": "Grenzach-Wyhlen",
+  "such": "Grenzach-Wyhlen",
+  "slug": "grenzach-wyhlen",
+  "kreis": "Lörrach",
+  "einwohner": 15262,
+  "lat": 47.553081,
+  "lon": 7.658946
+ },
+ {
+  "name": "Baiersbronn",
+  "such": "Baiersbronn",
+  "slug": "baiersbronn",
+  "kreis": "Freudenstadt",
+  "einwohner": 15256,
+  "lat": 48.505528,
+  "lon": 8.371955
+ },
+ {
+  "name": "Schriesheim",
+  "such": "Schriesheim",
+  "slug": "schriesheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 15114,
+  "lat": 49.47608,
+  "lon": 8.664038
+ },
+ {
+  "name": "Isny im Allgäu",
+  "such": "Isny im Allgäu",
+  "slug": "isny-im-allgaeu",
+  "kreis": "Ravensburg",
+  "einwohner": 15015,
+  "lat": 47.692238,
+  "lon": 10.039361
+ },
+ {
+  "name": "Bad Wurzach",
+  "such": "Bad Wurzach",
+  "slug": "bad-wurzach",
+  "kreis": "Ravensburg",
+  "einwohner": 14927,
+  "lat": 47.908416,
+  "lon": 9.896525
+ },
+ {
+  "name": "Eberbach",
+  "such": "Eberbach",
+  "slug": "eberbach",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 14729,
+  "lat": 49.461538,
+  "lon": 8.989557
+ },
+ {
+  "name": "Malsch",
+  "such": "Malsch",
+  "slug": "malsch",
+  "kreis": "Karlsruhe",
+  "einwohner": 14728,
+  "lat": 48.879543,
+  "lon": 8.334952
+ },
+ {
+  "name": "Edingen-Neckarhausen",
+  "such": "Edingen-Neckarhausen",
+  "slug": "edingen-neckarhausen",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 14714,
+  "lat": 49.448784,
+  "lon": 8.611007
+ },
+ {
+  "name": "Oberndorf am Neckar",
+  "such": "Oberndorf am Neckar",
+  "slug": "oberndorf-am-neckar",
+  "kreis": "Rottweil",
+  "einwohner": 14711,
+  "lat": 48.290124,
+  "lon": 8.569312
+ },
+ {
+  "name": "Münsingen",
+  "such": "Münsingen",
+  "slug": "muensingen",
+  "kreis": "Reutlingen",
+  "einwohner": 14695,
+  "lat": 48.411369,
+  "lon": 9.494863
+ },
+ {
+  "name": "Brühl",
+  "such": "Brühl",
+  "slug": "bruehl",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 14567,
+  "lat": 49.395199,
+  "lon": 8.534338
+ },
+ {
+  "name": "Kraichtal",
+  "such": "Kraichtal",
+  "slug": "kraichtal",
+  "kreis": "Karlsruhe",
+  "einwohner": 14546,
+  "lat": 49.122597,
+  "lon": 8.714528
+ },
+ {
+  "name": "Plochingen",
+  "such": "Plochingen",
+  "slug": "plochingen",
+  "kreis": "Esslingen",
+  "einwohner": 14503,
+  "lat": 48.713282,
+  "lon": 9.41695
+ },
+ {
+  "name": "Murrhardt",
+  "such": "Murrhardt",
+  "slug": "murrhardt",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 14490,
+  "lat": 48.980867,
+  "lon": 9.579648
+ },
+ {
+  "name": "Markdorf",
+  "such": "Markdorf",
+  "slug": "markdorf",
+  "kreis": "Bodenseekreis",
+  "einwohner": 14305,
+  "lat": 47.72035,
+  "lon": 9.389138
+ },
+ {
+  "name": "Remshalden",
+  "such": "Remshalden",
+  "slug": "remshalden",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 14291,
+  "lat": 48.810023,
+  "lon": 9.442436
+ },
+ {
+  "name": "Gernsbach",
+  "such": "Gernsbach",
+  "slug": "gernsbach",
+  "kreis": "Rastatt",
+  "einwohner": 14264,
+  "lat": 48.763758,
+  "lon": 8.337715
+ },
+ {
+  "name": "Uhingen",
+  "such": "Uhingen",
+  "slug": "uhingen",
+  "kreis": "Göppingen",
+  "einwohner": 14203,
+  "lat": 48.70652,
+  "lon": 9.585162
+ },
+ {
+  "name": "Holzgerlingen",
+  "such": "Holzgerlingen",
+  "slug": "holzgerlingen",
+  "kreis": "Böblingen",
+  "einwohner": 14153,
+  "lat": 48.637131,
+  "lon": 9.011719
+ },
+ {
+  "name": "Lauda-Königshofen",
+  "such": "Lauda-Königshofen",
+  "slug": "lauda-koenigshofen",
+  "kreis": "Main-Tauber-Kreis",
+  "einwohner": 14150,
+  "lat": 49.57011,
+  "lon": 9.70108
+ },
+ {
+  "name": "Erbach",
+  "such": "Erbach",
+  "slug": "erbach",
+  "kreis": "Alb-Donau-Kreis",
+  "einwohner": 14126,
+  "lat": 48.326196,
+  "lon": 9.892784
+ },
+ {
+  "name": "Markgröningen",
+  "such": "Markgröningen",
+  "slug": "markgroeningen",
+  "kreis": "Ludwigsburg",
+  "einwohner": 14052,
+  "lat": 48.905178,
+  "lon": 9.081072
+ },
+ {
+  "name": "St. Leon-Rot",
+  "such": "St. Leon-Rot",
+  "slug": "st-leon-rot",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 13978,
+  "lat": 49.267197,
+  "lon": 8.599891
+ },
+ {
+  "name": "Friesenheim",
+  "such": "Friesenheim",
+  "slug": "friesenheim",
+  "kreis": "Ortenaukreis",
+  "einwohner": 13884,
+  "lat": 48.373236,
+  "lon": 7.881795
+ },
+ {
+  "name": "Waldbronn",
+  "such": "Waldbronn",
+  "slug": "waldbronn",
+  "kreis": "Karlsruhe",
+  "einwohner": 13799,
+  "lat": 48.931426,
+  "lon": 8.461134
+ },
+ {
+  "name": "Philippsburg",
+  "such": "Philippsburg",
+  "slug": "philippsburg",
+  "kreis": "Karlsruhe",
+  "einwohner": 13765,
+  "lat": 49.236173,
+  "lon": 8.453544
+ },
+ {
+  "name": "Spaichingen",
+  "such": "Spaichingen",
+  "slug": "spaichingen",
+  "kreis": "Tuttlingen",
+  "einwohner": 13750,
+  "lat": 48.073153,
+  "lon": 8.739277
+ },
+ {
+  "name": "Obersulm",
+  "such": "Obersulm",
+  "slug": "obersulm",
+  "kreis": "Heilbronn",
+  "einwohner": 13741,
+  "lat": 49.135333,
+  "lon": 9.384003
+ },
+ {
+  "name": "Denzlingen",
+  "such": "Denzlingen",
+  "slug": "denzlingen",
+  "kreis": "Emmendingen",
+  "einwohner": 13734,
+  "lat": 48.066785,
+  "lon": 7.883854
+ },
+ {
+  "name": "Meckenbeuren",
+  "such": "Meckenbeuren",
+  "slug": "meckenbeuren",
+  "kreis": "Bodenseekreis",
+  "einwohner": 13717,
+  "lat": 47.700637,
+  "lon": 9.562678
+ },
+ {
+  "name": "Asperg",
+  "such": "Asperg",
+  "slug": "asperg",
+  "kreis": "Ludwigsburg",
+  "einwohner": 13695,
+  "lat": 48.905309,
+  "lon": 9.135236
+ },
+ {
+  "name": "Ettenheim",
+  "such": "Ettenheim",
+  "slug": "ettenheim",
+  "kreis": "Ortenaukreis",
+  "einwohner": 13670,
+  "lat": 48.254555,
+  "lon": 7.812984
+ },
+ {
+  "name": "Bad Schönborn",
+  "such": "Bad Schönborn",
+  "slug": "bad-schoenborn",
+  "kreis": "Karlsruhe",
+  "einwohner": 13529,
+  "lat": 49.219375,
+  "lon": 8.652877
+ },
+ {
+  "name": "Pfullendorf",
+  "such": "Pfullendorf",
+  "slug": "pfullendorf",
+  "kreis": "Sigmaringen",
+  "einwohner": 13496,
+  "lat": 47.923774,
+  "lon": 9.255547
+ },
+ {
+  "name": "Östringen",
+  "such": "Östringen",
+  "slug": "oestringen",
+  "kreis": "Karlsruhe",
+  "einwohner": 13447,
+  "lat": 49.218783,
+  "lon": 8.712417
+ },
+ {
+  "name": "Weinsberg",
+  "such": "Weinsberg",
+  "slug": "weinsberg",
+  "kreis": "Heilbronn",
+  "einwohner": 13406,
+  "lat": 49.150258,
+  "lon": 9.285758
+ },
+ {
+  "name": "Tauberbischofsheim",
+  "such": "Tauberbischofsheim",
+  "slug": "tauberbischofsheim",
+  "kreis": "Main-Tauber-Kreis",
+  "einwohner": 13341,
+  "lat": 49.622047,
+  "lon": 9.662778
+ },
+ {
+  "name": "Neckargemünd",
+  "such": "Neckargemünd",
+  "slug": "neckargemuend",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 13323,
+  "lat": 49.394478,
+  "lon": 8.7973
+ },
+ {
+  "name": "Herbrechtingen",
+  "such": "Herbrechtingen",
+  "slug": "herbrechtingen",
+  "kreis": "Heidenheim",
+  "einwohner": 13281,
+  "lat": 48.621668,
+  "lon": 10.175775
+ },
+ {
+  "name": "Ketsch",
+  "such": "Ketsch",
+  "slug": "ketsch",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 13154,
+  "lat": 49.366957,
+  "lon": 8.526937
+ },
+ {
+  "name": "Wehr",
+  "such": "Wehr",
+  "slug": "wehr",
+  "kreis": "Waldshut",
+  "einwohner": 13102,
+  "lat": 47.629747,
+  "lon": 7.904562
+ },
+ {
+  "name": "Bad Dürrheim",
+  "such": "Bad Dürrheim",
+  "slug": "bad-duerrheim",
+  "kreis": "Schwarzwald-Baar-Kreis",
+  "einwohner": 13084,
+  "lat": 48.022026,
+  "lon": 8.530554
+ },
+ {
+  "name": "Ubstadt-Weiher",
+  "such": "Ubstadt-Weiher",
+  "slug": "ubstadt-weiher",
+  "kreis": "Karlsruhe",
+  "einwohner": 13077,
+  "lat": 49.160402,
+  "lon": 8.631072
+ },
+ {
+  "name": "Gärtringen",
+  "such": "Gärtringen",
+  "slug": "gaertringen",
+  "kreis": "Böblingen",
+  "einwohner": 12895,
+  "lat": 48.641924,
+  "lon": 8.901692
+ },
+ {
+  "name": "Titisee-Neustadt",
+  "such": "Titisee-Neustadt",
+  "slug": "titisee-neustadt",
+  "kreis": "Breisgau-Hochschwarzwald",
+  "einwohner": 12873,
+  "lat": 47.916511,
+  "lon": 8.208431
+ },
+ {
+  "name": "Ladenburg",
+  "such": "Ladenburg",
+  "slug": "ladenburg",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 12820,
+  "lat": 49.471947,
+  "lon": 8.610298
+ },
+ {
+  "name": "Sulz am Neckar",
+  "such": "Sulz am Neckar",
+  "slug": "sulz-am-neckar",
+  "kreis": "Rottweil",
+  "einwohner": 12772,
+  "lat": 48.366375,
+  "lon": 8.632773
+ },
+ {
+  "name": "Neuenburg am Rhein",
+  "such": "Neuenburg am Rhein",
+  "slug": "neuenburg-am-rhein",
+  "kreis": "Breisgau-Hochschwarzwald",
+  "einwohner": 12738,
+  "lat": 47.813974,
+  "lon": 7.559796
+ },
+ {
+  "name": "Bad Urach",
+  "such": "Bad Urach",
+  "slug": "bad-urach",
+  "kreis": "Reutlingen",
+  "einwohner": 12705,
+  "lat": 48.493051,
+  "lon": 9.400021
+ },
+ {
+  "name": "Dossenheim",
+  "such": "Dossenheim",
+  "slug": "dossenheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 12702,
+  "lat": 49.451501,
+  "lon": 8.677836
+ },
+ {
+  "name": "Blaubeuren",
+  "such": "Blaubeuren",
+  "slug": "blaubeuren",
+  "kreis": "Alb-Donau-Kreis",
+  "einwohner": 12669,
+  "lat": 48.412587,
+  "lon": 9.783757
+ },
+ {
+  "name": "Bretzfeld",
+  "such": "Bretzfeld",
+  "slug": "bretzfeld",
+  "kreis": "Hohenlohekreis",
+  "einwohner": 12624,
+  "lat": 49.177232,
+  "lon": 9.440237
+ },
+ {
+  "name": "Linkenheim-Hochstetten",
+  "such": "Linkenheim-Hochstetten",
+  "slug": "linkenheim-hochstetten",
+  "kreis": "Karlsruhe",
+  "einwohner": 12601,
+  "lat": 49.124733,
+  "lon": 8.408502
+ },
+ {
+  "name": "Niefern-Öschelbronn",
+  "such": "Niefern-Öschelbronn",
+  "slug": "niefern-oeschelbronn",
+  "kreis": "Enzkreis",
+  "einwohner": 12583,
+  "lat": 48.908786,
+  "lon": 8.798354
+ },
+ {
+  "name": "Graben-Neudorf",
+  "such": "Graben-Neudorf",
+  "slug": "graben-neudorf",
+  "kreis": "Karlsruhe",
+  "einwohner": 12496,
+  "lat": 49.172696,
+  "lon": 8.496271
+ },
+ {
+  "name": "Neuhausen auf den Fildern",
+  "such": "Neuhausen auf den Fildern",
+  "slug": "neuhausen-auf-den-fildern",
+  "kreis": "Esslingen",
+  "einwohner": 12449,
+  "lat": 48.684669,
+  "lon": 9.278797
+ },
+ {
+  "name": "Heddesheim",
+  "such": "Heddesheim",
+  "slug": "heddesheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 12382,
+  "lat": 49.504679,
+  "lon": 8.603136
+ },
+ {
+  "name": "Laichingen",
+  "such": "Laichingen",
+  "slug": "laichingen",
+  "kreis": "Alb-Donau-Kreis",
+  "einwohner": 12371,
+  "lat": 48.489445,
+  "lon": 9.685733
+ },
+ {
+  "name": "Rielasingen-Worblingen",
+  "such": "Rielasingen-Worblingen",
+  "slug": "rielasingen-worblingen",
+  "kreis": "Konstanz",
+  "einwohner": 12353,
+  "lat": 47.728398,
+  "lon": 8.846
+ },
+ {
+  "name": "St. Georgen im Schwarzwald",
+  "such": "St. Georgen im Schwarzwald",
+  "slug": "st-georgen-im-schwarzwald",
+  "kreis": "Schwarzwald-Baar-Kreis",
+  "einwohner": 12262,
+  "lat": 48.126225,
+  "lon": 8.332259
+ },
+ {
+  "name": "Salem",
+  "such": "Salem",
+  "slug": "salem",
+  "kreis": "Bodenseekreis",
+  "einwohner": 12252,
+  "lat": 47.759725,
+  "lon": 9.310691
+ },
+ {
+  "name": "Tamm",
+  "such": "Tamm",
+  "slug": "tamm",
+  "kreis": "Ludwigsburg",
+  "einwohner": 12245,
+  "lat": 48.920183,
+  "lon": 9.117204
+ },
+ {
+  "name": "Lauffen am Neckar",
+  "such": "Lauffen",
+  "slug": "lauffen",
+  "kreis": "Heilbronn",
+  "einwohner": 12218,
+  "lat": 49.076213,
+  "lon": 9.150312
+ },
+ {
+  "name": "Wernau (Neckar)",
+  "such": "Wernau",
+  "slug": "wernau",
+  "kreis": "Esslingen",
+  "einwohner": 12210,
+  "lat": 48.689366,
+  "lon": 9.421663
+ },
+ {
+  "name": "Oftersheim",
+  "such": "Oftersheim",
+  "slug": "oftersheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 12165,
+  "lat": 49.368098,
+  "lon": 8.585149
+ },
+ {
+  "name": "Besigheim",
+  "such": "Besigheim",
+  "slug": "besigheim",
+  "kreis": "Ludwigsburg",
+  "einwohner": 12159,
+  "lat": 49.000174,
+  "lon": 9.140825
+ },
+ {
+  "name": "Gundelfingen",
+  "such": "Gundelfingen",
+  "slug": "gundelfingen",
+  "kreis": "Breisgau-Hochschwarzwald",
+  "einwohner": 12146,
+  "lat": 48.042406,
+  "lon": 7.8668
+ },
+ {
+  "name": "Teningen",
+  "such": "Teningen",
+  "slug": "teningen",
+  "kreis": "Emmendingen",
+  "einwohner": 12072,
+  "lat": 48.126973,
+  "lon": 7.810263
+ },
+ {
+  "name": "Gaildorf",
+  "such": "Gaildorf",
+  "slug": "gaildorf",
+  "kreis": "Schwäbisch Hall",
+  "einwohner": 12054,
+  "lat": 49.00045,
+  "lon": 9.76983
+ },
+ {
+  "name": "Leutenbach",
+  "such": "Leutenbach",
+  "slug": "leutenbach",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 12036,
+  "lat": 48.887529,
+  "lon": 9.392571
+ },
+ {
+  "name": "Burladingen",
+  "such": "Burladingen",
+  "slug": "burladingen",
+  "kreis": "Zollernalbkreis",
+  "einwohner": 12025,
+  "lat": 48.28913,
+  "lon": 9.1153
+ },
+ {
+  "name": "Steinheim an der Murr",
+  "such": "Steinheim an der Murr",
+  "slug": "steinheim-an-der-murr",
+  "kreis": "Ludwigsburg",
+  "einwohner": 11962,
+  "lat": 48.965777,
+  "lon": 9.278099
+ },
+ {
+  "name": "Hemsbach",
+  "such": "Hemsbach",
+  "slug": "hemsbach",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 11822,
+  "lat": 49.592797,
+  "lon": 8.656453
+ },
+ {
+  "name": "Schwaigern",
+  "such": "Schwaigern",
+  "slug": "schwaigern",
+  "kreis": "Heilbronn",
+  "einwohner": 11784,
+  "lat": 49.141683,
+  "lon": 9.056965
+ },
+ {
+  "name": "Remchingen",
+  "such": "Remchingen",
+  "slug": "remchingen",
+  "kreis": "Enzkreis",
+  "einwohner": 11757,
+  "lat": 48.94645,
+  "lon": 8.574545
+ },
+ {
+  "name": "Oberderdingen",
+  "such": "Oberderdingen",
+  "slug": "oberderdingen",
+  "kreis": "Karlsruhe",
+  "einwohner": 11753,
+  "lat": 49.062716,
+  "lon": 8.80201
+ },
+ {
+  "name": "Durmersheim",
+  "such": "Durmersheim",
+  "slug": "durmersheim",
+  "kreis": "Rastatt",
+  "einwohner": 11747,
+  "lat": 48.931418,
+  "lon": 8.268461
+ },
+ {
+  "name": "Leingarten",
+  "such": "Leingarten",
+  "slug": "leingarten",
+  "kreis": "Heilbronn",
+  "einwohner": 11595,
+  "lat": 49.143857,
+  "lon": 9.127562
+ },
+ {
+  "name": "Walldürn",
+  "such": "Walldürn",
+  "slug": "wallduern",
+  "kreis": "Neckar-Odenwald-Kreis",
+  "einwohner": 11562,
+  "lat": 49.582516,
+  "lon": 9.368531
+ },
+ {
+  "name": "Korb",
+  "such": "Korb",
+  "slug": "korb",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 11558,
+  "lat": 48.841999,
+  "lon": 9.361341
+ },
+ {
+  "name": "Sinzheim",
+  "such": "Sinzheim",
+  "slug": "sinzheim",
+  "kreis": "Rastatt",
+  "einwohner": 11547,
+  "lat": 48.760234,
+  "lon": 8.163518
+ },
+ {
+  "name": "Rudersberg",
+  "such": "Rudersberg",
+  "slug": "rudersberg",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 11543,
+  "lat": 48.883356,
+  "lon": 9.529647
+ },
+ {
+  "name": "Bopfingen",
+  "such": "Bopfingen",
+  "slug": "bopfingen",
+  "kreis": "Ostalbkreis",
+  "einwohner": 11531,
+  "lat": 48.857911,
+  "lon": 10.351593
+ },
+ {
+  "name": "Gerstetten",
+  "such": "Gerstetten",
+  "slug": "gerstetten",
+  "kreis": "Heidenheim",
+  "einwohner": 11530,
+  "lat": 48.622994,
+  "lon": 10.018422
+ },
+ {
+  "name": "Nußloch",
+  "such": "Nußloch",
+  "slug": "nussloch",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 11392,
+  "lat": 49.322794,
+  "lon": 8.69587
+ },
+ {
+  "name": "Ammerbuch",
+  "such": "Ammerbuch",
+  "slug": "ammerbuch",
+  "kreis": "Tübingen",
+  "einwohner": 11386,
+  "lat": 48.554229,
+  "lon": 8.965685
+ },
+ {
+  "name": "Rheinau",
+  "such": "Rheinau",
+  "slug": "rheinau",
+  "kreis": "Ortenaukreis",
+  "einwohner": 11374,
+  "lat": 48.664363,
+  "lon": 7.939856
+ },
+ {
+  "name": "Engen",
+  "such": "Engen",
+  "slug": "engen",
+  "kreis": "Konstanz",
+  "einwohner": 11351,
+  "lat": 47.854017,
+  "lon": 8.772115
+ },
+ {
+  "name": "Straubenhardt",
+  "such": "Straubenhardt",
+  "slug": "straubenhardt",
+  "kreis": "Enzkreis",
+  "einwohner": 11317,
+  "lat": 48.854542,
+  "lon": 8.531485
+ },
+ {
+  "name": "Welzheim",
+  "such": "Welzheim",
+  "slug": "welzheim",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 11268,
+  "lat": 48.874336,
+  "lon": 9.63467
+ },
+ {
+  "name": "Schwieberdingen",
+  "such": "Schwieberdingen",
+  "slug": "schwieberdingen",
+  "kreis": "Ludwigsburg",
+  "einwohner": 11258,
+  "lat": 48.876494,
+  "lon": 9.073065
+ },
+ {
+  "name": "Eningen unter Achalm",
+  "such": "Eningen",
+  "slug": "eningen",
+  "kreis": "Reutlingen",
+  "einwohner": 11145,
+  "lat": 48.486636,
+  "lon": 9.259408
+ },
+ {
+  "name": "Gengenbach",
+  "such": "Gengenbach",
+  "slug": "gengenbach",
+  "kreis": "Ortenaukreis",
+  "einwohner": 11135,
+  "lat": 48.405617,
+  "lon": 8.013343
+ },
+ {
+  "name": "Denkendorf",
+  "such": "Denkendorf",
+  "slug": "denkendorf",
+  "kreis": "Esslingen",
+  "einwohner": 11123,
+  "lat": 48.694154,
+  "lon": 9.31755
+ },
+ {
+  "name": "Riedlingen",
+  "such": "Riedlingen",
+  "slug": "riedlingen",
+  "kreis": "Biberach",
+  "einwohner": 11122,
+  "lat": 48.153659,
+  "lon": 9.472452
+ },
+ {
+  "name": "Rutesheim",
+  "such": "Rutesheim",
+  "slug": "rutesheim",
+  "kreis": "Böblingen",
+  "einwohner": 11047,
+  "lat": 48.809882,
+  "lon": 8.945152
+ },
+ {
+  "name": "Haigerloch",
+  "such": "Haigerloch",
+  "slug": "haigerloch",
+  "kreis": "Zollernalbkreis",
+  "einwohner": 10919,
+  "lat": 48.366535,
+  "lon": 8.804191
+ },
+ {
+  "name": "Altensteig",
+  "such": "Altensteig",
+  "slug": "altensteig",
+  "kreis": "Calw",
+  "einwohner": 10849,
+  "lat": 48.584389,
+  "lon": 8.601974
+ },
+ {
+  "name": "Kenzingen",
+  "such": "Kenzingen",
+  "slug": "kenzingen",
+  "kreis": "Emmendingen",
+  "einwohner": 10829,
+  "lat": 48.193031,
+  "lon": 7.769903
+ },
+ {
+  "name": "Gottmadingen",
+  "such": "Gottmadingen",
+  "slug": "gottmadingen",
+  "kreis": "Konstanz",
+  "einwohner": 10772,
+  "lat": 47.735149,
+  "lon": 8.777019
+ },
+ {
+  "name": "Herbolzheim",
+  "such": "Herbolzheim",
+  "slug": "herbolzheim",
+  "kreis": "Emmendingen",
+  "einwohner": 10741,
+  "lat": 48.222221,
+  "lon": 7.777447
+ },
+ {
+  "name": "Möglingen",
+  "such": "Möglingen",
+  "slug": "moeglingen",
+  "kreis": "Ludwigsburg",
+  "einwohner": 10730,
+  "lat": 48.887185,
+  "lon": 9.126384
+ },
+ {
+  "name": "Plankstadt",
+  "such": "Plankstadt",
+  "slug": "plankstadt",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 10714,
+  "lat": 49.392183,
+  "lon": 8.593962
+ },
+ {
+  "name": "Lorch",
+  "such": "Lorch",
+  "slug": "lorch",
+  "kreis": "Ostalbkreis",
+  "einwohner": 10704,
+  "lat": 48.797029,
+  "lon": 9.689403
+ },
+ {
+  "name": "Karlsdorf-Neuthard",
+  "such": "Karlsdorf-Neuthard",
+  "slug": "karlsdorf-neuthard",
+  "kreis": "Karlsruhe",
+  "einwohner": 10673,
+  "lat": 49.136151,
+  "lon": 8.545484
+ },
+ {
+  "name": "Donzdorf",
+  "such": "Donzdorf",
+  "slug": "donzdorf",
+  "kreis": "Göppingen",
+  "einwohner": 10550,
+  "lat": 48.686613,
+  "lon": 9.811046
+ },
+ {
+  "name": "Meßstetten",
+  "such": "Meßstetten",
+  "slug": "messstetten",
+  "kreis": "Zollernalbkreis",
+  "einwohner": 10521,
+  "lat": 48.180918,
+  "lon": 8.963063
+ },
+ {
+  "name": "Endingen am Kaiserstuhl",
+  "such": "Endingen",
+  "slug": "endingen",
+  "kreis": "Emmendingen",
+  "einwohner": 10517,
+  "lat": 48.142314,
+  "lon": 7.701325
+ },
+ {
+  "name": "Steinen",
+  "such": "Steinen",
+  "slug": "steinen",
+  "kreis": "Lörrach",
+  "einwohner": 10500,
+  "lat": 47.643739,
+  "lon": 7.73952
+ },
+ {
+  "name": "Schönaich",
+  "such": "Schönaich",
+  "slug": "schoenaich",
+  "kreis": "Böblingen",
+  "einwohner": 10483,
+  "lat": 48.656516,
+  "lon": 9.062322
+ },
+ {
+  "name": "Aulendorf",
+  "such": "Aulendorf",
+  "slug": "aulendorf",
+  "kreis": "Ravensburg",
+  "einwohner": 10466,
+  "lat": 47.951301,
+  "lon": 9.638492
+ },
+ {
+  "name": "Appenweier",
+  "such": "Appenweier",
+  "slug": "appenweier",
+  "kreis": "Ortenaukreis",
+  "einwohner": 10367,
+  "lat": 48.537224,
+  "lon": 7.978133
+ },
+ {
+  "name": "Kirchzarten",
+  "such": "Kirchzarten",
+  "slug": "kirchzarten",
+  "kreis": "Breisgau-Hochschwarzwald",
+  "einwohner": 10364,
+  "lat": 47.965089,
+  "lon": 7.955318
+ },
+ {
+  "name": "Bad Wildbad",
+  "such": "Bad Wildbad",
+  "slug": "bad-wildbad",
+  "kreis": "Calw",
+  "einwohner": 10359,
+  "lat": 48.752251,
+  "lon": 8.549762
+ },
+ {
+  "name": "Heubach",
+  "such": "Heubach",
+  "slug": "heubach",
+  "kreis": "Ostalbkreis",
+  "einwohner": 10241,
+  "lat": 48.78878,
+  "lon": 9.934626
+ },
+ {
+  "name": "Neuenstadt am Kocher",
+  "such": "Neuenstadt am Kocher",
+  "slug": "neuenstadt-am-kocher",
+  "kreis": "Heilbronn",
+  "einwohner": 10218,
+  "lat": 49.237185,
+  "lon": 9.330987
+ },
+ {
+  "name": "Birkenfeld",
+  "such": "Birkenfeld",
+  "slug": "birkenfeld",
+  "kreis": "Enzkreis",
+  "einwohner": 10134,
+  "lat": 48.870121,
+  "lon": 8.636435
+ },
+ {
+  "name": "Königsbach-Stein",
+  "such": "Königsbach-Stein",
+  "slug": "koenigsbach-stein",
+  "kreis": "Enzkreis",
+  "einwohner": 10133,
+  "lat": 48.966057,
+  "lon": 8.610536
+ },
+ {
+  "name": "Süßen",
+  "such": "Süßen",
+  "slug": "suessen",
+  "kreis": "Göppingen",
+  "einwohner": 10115,
+  "lat": 48.680177,
+  "lon": 9.757236
+ },
+ {
+  "name": "Mengen",
+  "such": "Mengen",
+  "slug": "mengen",
+  "kreis": "Sigmaringen",
+  "einwohner": 10114,
+  "lat": 48.048768,
+  "lon": 9.329165
+ },
+ {
+  "name": "Wildberg",
+  "such": "Wildberg",
+  "slug": "wildberg",
+  "kreis": "Calw",
+  "einwohner": 10045,
+  "lat": 48.625146,
+  "lon": 8.746753
+ },
+ {
+  "name": "Dettingen an der Erms",
+  "such": "Dettingen an der Erms",
+  "slug": "dettingen-an-der-erms",
+  "kreis": "Reutlingen",
+  "einwohner": 10018,
+  "lat": 48.529679,
+  "lon": 9.346973
+ },
+ {
+  "name": "Weilheim an der Teck",
+  "such": "Weilheim an der Teck",
+  "slug": "weilheim-an-der-teck",
+  "kreis": "Esslingen",
+  "einwohner": 10007,
+  "lat": 48.615689,
+  "lon": 9.537362
+ },
+ {
+  "name": "Willstätt",
+  "such": "Willstätt",
+  "slug": "willstaett",
+  "kreis": "Ortenaukreis",
+  "einwohner": 9999,
+  "lat": 48.541564,
+  "lon": 7.893251
+ },
+ {
+  "name": "Weil im Schönbuch",
+  "such": "Weil im Schönbuch",
+  "slug": "weil-im-schoenbuch",
+  "kreis": "Böblingen",
+  "einwohner": 9987,
+  "lat": 48.622879,
+  "lon": 9.061727
+ },
+ {
+  "name": "Neuried",
+  "such": "Neuried",
+  "slug": "neuried",
+  "kreis": "Ortenaukreis",
+  "einwohner": 9980,
+  "lat": 48.467234,
+  "lon": 7.807163
+ },
+ {
+  "name": "Walzbachtal",
+  "such": "Walzbachtal",
+  "slug": "walzbachtal",
+  "kreis": "Karlsruhe",
+  "einwohner": 9940,
+  "lat": 49.010197,
+  "lon": 8.611602
+ },
+ {
+  "name": "Schwaikheim",
+  "such": "Schwaikheim",
+  "slug": "schwaikheim",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 9934,
+  "lat": 48.877358,
+  "lon": 9.34922
+ },
+ {
+  "name": "Blumberg",
+  "such": "Blumberg",
+  "slug": "blumberg",
+  "kreis": "Schwarzwald-Baar-Kreis",
+  "einwohner": 9847,
+  "lat": 47.839705,
+  "lon": 8.534256
+ },
+ {
+  "name": "Pliezhausen",
+  "such": "Pliezhausen",
+  "slug": "pliezhausen",
+  "kreis": "Reutlingen",
+  "einwohner": 9837,
+  "lat": 48.559129,
+  "lon": 9.20596
+ },
+ {
+  "name": "Ilsfeld",
+  "such": "Ilsfeld",
+  "slug": "ilsfeld",
+  "kreis": "Heilbronn",
+  "einwohner": 9806,
+  "lat": 49.05512,
+  "lon": 9.24477
+ },
+ {
+  "name": "Plüderhausen",
+  "such": "Plüderhausen",
+  "slug": "pluederhausen",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 9755,
+  "lat": 48.795519,
+  "lon": 9.599182
+ },
+ {
+  "name": "Köngen",
+  "such": "Köngen",
+  "slug": "koengen",
+  "kreis": "Esslingen",
+  "einwohner": 9656,
+  "lat": 48.684568,
+  "lon": 9.363326
+ },
+ {
+  "name": "Aichtal",
+  "such": "Aichtal",
+  "slug": "aichtal",
+  "kreis": "Esslingen",
+  "einwohner": 9643,
+  "lat": 48.621,
+  "lon": 9.236006
+ },
+ {
+  "name": "Hirschberg an der Bergstraße",
+  "such": "Hirschberg an der Bergstraße",
+  "slug": "hirschberg-an-der-bergstrasse",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 9592,
+  "lat": 49.49855,
+  "lon": 8.656323
+ },
+ {
+  "name": "Kißlegg",
+  "such": "Kißlegg",
+  "slug": "kisslegg",
+  "kreis": "Ravensburg",
+  "einwohner": 9579,
+  "lat": 47.787754,
+  "lon": 9.881938
+ },
+ {
+  "name": "Oberhausen-Rheinhausen",
+  "such": "Oberhausen-Rheinhausen",
+  "slug": "oberhausen-rheinhausen",
+  "kreis": "Karlsruhe",
+  "einwohner": 9515,
+  "lat": 49.260511,
+  "lon": 8.482728
+ },
+ {
+  "name": "Magstadt",
+  "such": "Magstadt",
+  "slug": "magstadt",
+  "kreis": "Böblingen",
+  "einwohner": 9427,
+  "lat": 48.742432,
+  "lon": 8.962269
+ },
+ {
+  "name": "Bisingen",
+  "such": "Bisingen",
+  "slug": "bisingen",
+  "kreis": "Zollernalbkreis",
+  "einwohner": 9423,
+  "lat": 48.310155,
+  "lon": 8.917087
+ },
+ {
+  "name": "March",
+  "such": "March",
+  "slug": "march",
+  "kreis": "Breisgau-Hochschwarzwald",
+  "einwohner": 9337,
+  "lat": 48.053089,
+  "lon": 7.78046
+ },
+ {
+  "name": "Ochsenhausen",
+  "such": "Ochsenhausen",
+  "slug": "ochsenhausen",
+  "kreis": "Biberach",
+  "einwohner": 9326,
+  "lat": 48.06947,
+  "lon": 9.951929
+ },
+ {
+  "name": "Aidlingen",
+  "such": "Aidlingen",
+  "slug": "aidlingen",
+  "kreis": "Böblingen",
+  "einwohner": 9313,
+  "lat": 48.677969,
+  "lon": 8.896991
+ },
+ {
+  "name": "Pfedelbach",
+  "such": "Pfedelbach",
+  "slug": "pfedelbach",
+  "kreis": "Hohenlohekreis",
+  "einwohner": 9300,
+  "lat": 49.17696,
+  "lon": 9.503745
+ },
+ {
+  "name": "Ehningen",
+  "such": "Ehningen",
+  "slug": "ehningen",
+  "kreis": "Böblingen",
+  "einwohner": 9275,
+  "lat": 48.65926,
+  "lon": 8.940525
+ },
+ {
+  "name": "Laufenburg (Baden)",
+  "such": "Laufenburg",
+  "slug": "laufenburg",
+  "kreis": "Waldshut",
+  "einwohner": 9268,
+  "lat": 47.565321,
+  "lon": 8.061623
+ },
+ {
+  "name": "Hilzingen",
+  "such": "Hilzingen",
+  "slug": "hilzingen",
+  "kreis": "Konstanz",
+  "einwohner": 9257,
+  "lat": 47.765627,
+  "lon": 8.777866
+ },
+ {
+  "name": "Dornstadt",
+  "such": "Dornstadt",
+  "slug": "dornstadt",
+  "kreis": "Alb-Donau-Kreis",
+  "einwohner": 9233,
+  "lat": 48.466494,
+  "lon": 9.942617
+ },
+ {
+  "name": "Ilvesheim",
+  "such": "Ilvesheim",
+  "slug": "ilvesheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 9231,
+  "lat": 49.472324,
+  "lon": 8.567892
+ },
+ {
+  "name": "Bad Liebenzell",
+  "such": "Bad Liebenzell",
+  "slug": "bad-liebenzell",
+  "kreis": "Calw",
+  "einwohner": 9215,
+  "lat": 48.771372,
+  "lon": 8.73361
+ },
+ {
+  "name": "Frickenhausen",
+  "such": "Frickenhausen",
+  "slug": "frickenhausen",
+  "kreis": "Esslingen",
+  "einwohner": 9202,
+  "lat": 48.593654,
+  "lon": 9.359845
+ },
+ {
+  "name": "Gäufelden",
+  "such": "Gäufelden",
+  "slug": "gaeufelden",
+  "kreis": "Böblingen",
+  "einwohner": 9199,
+  "lat": 48.55375,
+  "lon": 8.829578
+ },
+ {
+  "name": "Urbach",
+  "such": "Urbach",
+  "slug": "urbach",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 9176,
+  "lat": 48.81022,
+  "lon": 9.576727
+ },
+ {
+  "name": "Lichtenstein",
+  "such": "Lichtenstein",
+  "slug": "lichtenstein",
+  "kreis": "Reutlingen",
+  "einwohner": 9158,
+  "lat": 48.430248,
+  "lon": 9.254311
+ },
+ {
+  "name": "Gomaringen",
+  "such": "Gomaringen",
+  "slug": "gomaringen",
+  "kreis": "Tübingen",
+  "einwohner": 9114,
+  "lat": 48.452476,
+  "lon": 9.096513
+ },
+ {
+  "name": "Kusterdingen",
+  "such": "Kusterdingen",
+  "slug": "kusterdingen",
+  "kreis": "Tübingen",
+  "einwohner": 9094,
+  "lat": 48.521842,
+  "lon": 9.120318
+ },
+ {
+  "name": "Dielheim",
+  "such": "Dielheim",
+  "slug": "dielheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 9058,
+  "lat": 49.282607,
+  "lon": 8.734802
+ },
+ {
+  "name": "Bad Schussenried",
+  "such": "Bad Schussenried",
+  "slug": "bad-schussenried",
+  "kreis": "Biberach",
+  "einwohner": 9012,
+  "lat": 48.004849,
+  "lon": 9.657495
+ },
+ {
+  "name": "Schemmerhofen",
+  "such": "Schemmerhofen",
+  "slug": "schemmerhofen",
+  "kreis": "Biberach",
+  "einwohner": 8868,
+  "lat": 48.174074,
+  "lon": 9.795846
+ },
+ {
+  "name": "Untergruppenbach",
+  "such": "Untergruppenbach",
+  "slug": "untergruppenbach",
+  "kreis": "Heilbronn",
+  "einwohner": 8798,
+  "lat": 49.091469,
+  "lon": 9.276206
+ },
+ {
+  "name": "Steinheim am Albuch",
+  "such": "Steinheim am Albuch",
+  "slug": "steinheim-am-albuch",
+  "kreis": "Heidenheim",
+  "einwohner": 8790,
+  "lat": 48.692172,
+  "lon": 10.063541
+ },
+ {
+  "name": "Meßkirch",
+  "such": "Meßkirch",
+  "slug": "messkirch",
+  "kreis": "Sigmaringen",
+  "einwohner": 8776,
+  "lat": 47.992608,
+  "lon": 9.111166
+ },
+ {
+  "name": "Kressbronn am Bodensee",
+  "such": "Kressbronn",
+  "slug": "kressbronn",
+  "kreis": "Bodenseekreis",
+  "einwohner": 8769,
+  "lat": 47.596747,
+  "lon": 9.59834
+ },
+ {
+  "name": "Waldenbuch",
+  "such": "Waldenbuch",
+  "slug": "waldenbuch",
+  "kreis": "Böblingen",
+  "einwohner": 8740,
+  "lat": 48.638166,
+  "lon": 9.12974
+ },
+ {
+  "name": "Furtwangen im Schwarzwald",
+  "such": "Furtwangen",
+  "slug": "furtwangen",
+  "kreis": "Schwarzwald-Baar-Kreis",
+  "einwohner": 8740,
+  "lat": 48.051584,
+  "lon": 8.205476
+ },
+ {
+  "name": "Mühlhausen",
+  "such": "Mühlhausen",
+  "slug": "muehlhausen",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 8727,
+  "lat": 49.248138,
+  "lon": 8.726913
+ },
+ {
+  "name": "Efringen-Kirchen",
+  "such": "Efringen-Kirchen",
+  "slug": "efringen-kirchen",
+  "kreis": "Lörrach",
+  "einwohner": 8704,
+  "lat": 47.649597,
+  "lon": 7.565548
+ },
+ {
+  "name": "Rauenberg",
+  "such": "Rauenberg",
+  "slug": "rauenberg",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 8701,
+  "lat": 49.266186,
+  "lon": 8.70473
+ },
+ {
+  "name": "Keltern",
+  "such": "Keltern",
+  "slug": "keltern",
+  "kreis": "Enzkreis",
+  "einwohner": 8687,
+  "lat": 48.901298,
+  "lon": 8.576844
+ },
+ {
+  "name": "Kandern",
+  "such": "Kandern",
+  "slug": "kandern",
+  "kreis": "Lörrach",
+  "einwohner": 8657,
+  "lat": 47.714834,
+  "lon": 7.662899
+ },
+ {
+  "name": "Nordheim",
+  "such": "Nordheim",
+  "slug": "nordheim",
+  "kreis": "Heilbronn",
+  "einwohner": 8531,
+  "lat": 49.109167,
+  "lon": 9.126068
+ },
+ {
+  "name": "Möckmühl",
+  "such": "Möckmühl",
+  "slug": "moeckmuehl",
+  "kreis": "Heilbronn",
+  "einwohner": 8489,
+  "lat": 49.323117,
+  "lon": 9.359823
+ },
+ {
+  "name": "Staufen im Breisgau",
+  "such": "Staufen",
+  "slug": "staufen",
+  "kreis": "Breisgau-Hochschwarzwald",
+  "einwohner": 8392,
+  "lat": 47.880529,
+  "lon": 7.729921
+ },
+ {
+  "name": "Reichenbach an der Fils",
+  "such": "Reichenbach an der Fils",
+  "slug": "reichenbach-an-der-fils",
+  "kreis": "Esslingen",
+  "einwohner": 8390,
+  "lat": 48.709743,
+  "lon": 9.459835
+ },
+ {
+  "name": "Reilingen",
+  "such": "Reilingen",
+  "slug": "reilingen",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 8299,
+  "lat": 49.29268,
+  "lon": 8.566677
+ },
+ {
+  "name": "Aspach",
+  "such": "Aspach",
+  "slug": "aspach",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 8228,
+  "lat": 48.96663,
+  "lon": 9.397127
+ },
+ {
+  "name": "Bönnigheim",
+  "such": "Bönnigheim",
+  "slug": "boennigheim",
+  "kreis": "Ludwigsburg",
+  "einwohner": 8193,
+  "lat": 49.041614,
+  "lon": 9.093322
+ },
+ {
+  "name": "Dornstetten",
+  "such": "Dornstetten",
+  "slug": "dornstetten",
+  "kreis": "Freudenstadt",
+  "einwohner": 8192,
+  "lat": 48.470329,
+  "lon": 8.499599
+ },
+ {
+  "name": "Kuppenheim",
+  "such": "Kuppenheim",
+  "slug": "kuppenheim",
+  "kreis": "Rastatt",
+  "einwohner": 8161,
+  "lat": 48.827747,
+  "lon": 8.254177
+ },
+ {
+  "name": "Hohberg",
+  "such": "Hohberg",
+  "slug": "hohberg",
+  "kreis": "Ortenaukreis",
+  "einwohner": 8143,
+  "lat": 48.423963,
+  "lon": 7.908087
+ },
+ {
+  "name": "Knittlingen",
+  "such": "Knittlingen",
+  "slug": "knittlingen",
+  "kreis": "Enzkreis",
+  "einwohner": 8138,
+  "lat": 49.024124,
+  "lon": 8.758013
+ },
+ {
+  "name": "Uhldingen-Mühlhofen",
+  "such": "Uhldingen-Mühlhofen",
+  "slug": "uhldingen-muehlhofen",
+  "kreis": "Bodenseekreis",
+  "einwohner": 8099,
+  "lat": 47.735636,
+  "lon": 9.245612
+ },
+ {
+  "name": "Salach",
+  "such": "Salach",
+  "slug": "salach",
+  "kreis": "Göppingen",
+  "einwohner": 8071,
+  "lat": 48.690404,
+  "lon": 9.737615
+ },
+ {
+  "name": "Zell am Harmersbach",
+  "such": "Zell am Harmersbach",
+  "slug": "zell-am-harmersbach",
+  "kreis": "Ortenaukreis",
+  "einwohner": 8068,
+  "lat": 48.346261,
+  "lon": 8.062103
+ },
+ {
+  "name": "Jettingen",
+  "such": "Jettingen",
+  "slug": "jettingen",
+  "kreis": "Böblingen",
+  "einwohner": 8064,
+  "lat": 48.577417,
+  "lon": 8.774656
+ },
+ {
+  "name": "Lauchringen",
+  "such": "Lauchringen",
+  "slug": "lauchringen",
+  "kreis": "Waldshut",
+  "einwohner": 8057,
+  "lat": 47.630759,
+  "lon": 8.304688
+ },
+ {
+  "name": "Hüfingen",
+  "such": "Hüfingen",
+  "slug": "huefingen",
+  "kreis": "Schwarzwald-Baar-Kreis",
+  "einwohner": 8048,
+  "lat": 47.9255,
+  "lon": 8.488945
+ },
+ {
+  "name": "Neuenbürg",
+  "such": "Neuenbürg",
+  "slug": "neuenbuerg",
+  "kreis": "Enzkreis",
+  "einwohner": 8012,
+  "lat": 48.848189,
+  "lon": 8.589759
+ },
+ {
+  "name": "Forst",
+  "such": "Forst",
+  "slug": "forst",
+  "kreis": "Karlsruhe",
+  "einwohner": 7998,
+  "lat": 49.152909,
+  "lon": 8.586918
+ },
+ {
+  "name": "Großbottwar",
+  "such": "Großbottwar",
+  "slug": "grossbottwar",
+  "kreis": "Ludwigsburg",
+  "einwohner": 7951,
+  "lat": 48.999692,
+  "lon": 9.292335
+ },
+ {
+  "name": "Althengstett",
+  "such": "Althengstett",
+  "slug": "althengstett",
+  "kreis": "Calw",
+  "einwohner": 7925,
+  "lat": 48.723525,
+  "lon": 8.795915
+ },
+ {
+  "name": "Neresheim",
+  "such": "Neresheim",
+  "slug": "neresheim",
+  "kreis": "Ostalbkreis",
+  "einwohner": 7921,
+  "lat": 48.752577,
+  "lon": 10.336826
+ },
+ {
+  "name": "Loßburg",
+  "such": "Loßburg",
+  "slug": "lossburg",
+  "kreis": "Freudenstadt",
+  "einwohner": 7916,
+  "lat": 48.411512,
+  "lon": 8.453275
+ },
+ {
+  "name": "Lenningen",
+  "such": "Lenningen",
+  "slug": "lenningen",
+  "kreis": "Esslingen",
+  "einwohner": 7884,
+  "lat": 48.551225,
+  "lon": 9.472018
+ },
+ {
+  "name": "Hemmingen",
+  "such": "Hemmingen",
+  "slug": "hemmingen",
+  "kreis": "Ludwigsburg",
+  "einwohner": 7871,
+  "lat": 48.865398,
+  "lon": 9.032461
+ },
+ {
+  "name": "Weikersheim",
+  "such": "Weikersheim",
+  "slug": "weikersheim",
+  "kreis": "Main-Tauber-Kreis",
+  "einwohner": 7860,
+  "lat": 49.482875,
+  "lon": 9.902462
+ },
+ {
+  "name": "Ehrenkirchen",
+  "such": "Ehrenkirchen",
+  "slug": "ehrenkirchen",
+  "kreis": "Breisgau-Hochschwarzwald",
+  "einwohner": 7855,
+  "lat": 47.921491,
+  "lon": 7.739988
+ },
+ {
+  "name": "Aldingen",
+  "such": "Aldingen",
+  "slug": "aldingen",
+  "kreis": "Tuttlingen",
+  "einwohner": 7834,
+  "lat": 48.094541,
+  "lon": 8.702513
+ },
+ {
+  "name": "Weissach",
+  "such": "Weissach",
+  "slug": "weissach",
+  "kreis": "Böblingen",
+  "einwohner": 7749,
+  "lat": 48.846812,
+  "lon": 8.927545
+ },
+ {
+  "name": "Bad Wimpfen",
+  "such": "Bad Wimpfen",
+  "slug": "bad-wimpfen",
+  "kreis": "Heilbronn",
+  "einwohner": 7725,
+  "lat": 49.228198,
+  "lon": 9.163305
+ },
+ {
+  "name": "Langenargen",
+  "such": "Langenargen",
+  "slug": "langenargen",
+  "kreis": "Bodenseekreis",
+  "einwohner": 7708,
+  "lat": 47.596737,
+  "lon": 9.54014
+ },
+ {
+  "name": "Bad Herrenalb",
+  "such": "Bad Herrenalb",
+  "slug": "bad-herrenalb",
+  "kreis": "Calw",
+  "einwohner": 7681,
+  "lat": 48.797568,
+  "lon": 8.438156
+ },
+ {
+  "name": "Oberkochen",
+  "such": "Oberkochen",
+  "slug": "oberkochen",
+  "kreis": "Ostalbkreis",
+  "einwohner": 7679,
+  "lat": 48.784042,
+  "lon": 10.105585
+ },
+ {
+  "name": "Bühlertal",
+  "such": "Bühlertal",
+  "slug": "buehlertal",
+  "kreis": "Rastatt",
+  "einwohner": 7660,
+  "lat": 48.682789,
+  "lon": 8.191679
+ },
+ {
+  "name": "Illingen",
+  "such": "Illingen",
+  "slug": "illingen",
+  "kreis": "Enzkreis",
+  "einwohner": 7639,
+  "lat": 48.954066,
+  "lon": 8.918461
+ },
+ {
+  "name": "Schömberg",
+  "such": "Schömberg",
+  "slug": "schoemberg",
+  "kreis": "Calw",
+  "einwohner": 7636,
+  "lat": 48.78717,
+  "lon": 8.645825
+ },
+ {
+  "name": "Weissach im Tal",
+  "such": "Weissach im Tal",
+  "slug": "weissach-im-tal",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 7598,
+  "lat": 48.929826,
+  "lon": 9.47773
+ },
+ {
+  "name": "Löffingen",
+  "such": "Löffingen",
+  "slug": "loeffingen",
+  "kreis": "Breisgau-Hochschwarzwald",
+  "einwohner": 7589,
+  "lat": 47.883793,
+  "lon": 8.343862
+ },
+ {
+  "name": "Elzach",
+  "such": "Elzach",
+  "slug": "elzach",
+  "kreis": "Emmendingen",
+  "einwohner": 7576,
+  "lat": 48.172277,
+  "lon": 8.069355
+ },
+ {
+  "name": "Renchen",
+  "such": "Renchen",
+  "slug": "renchen",
+  "kreis": "Ortenaukreis",
+  "einwohner": 7568,
+  "lat": 48.587888,
+  "lon": 8.013581
+ },
+ {
+  "name": "Winterbach",
+  "such": "Winterbach",
+  "slug": "winterbach",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 7567,
+  "lat": 48.799784,
+  "lon": 9.479554
+ },
+ {
+  "name": "Abtsgmünd",
+  "such": "Abtsgmünd",
+  "slug": "abtsgmuend",
+  "kreis": "Ostalbkreis",
+  "einwohner": 7560,
+  "lat": 48.894913,
+  "lon": 10.002231
+ },
+ {
+  "name": "Oberstenfeld",
+  "such": "Oberstenfeld",
+  "slug": "oberstenfeld",
+  "kreis": "Ludwigsburg",
+  "einwohner": 7505,
+  "lat": 49.024346,
+  "lon": 9.321661
+ },
+ {
+  "name": "Klettgau",
+  "such": "Klettgau",
+  "slug": "klettgau",
+  "kreis": "Waldshut",
+  "einwohner": 7427,
+  "lat": 47.658934,
+  "lon": 8.420527
+ },
+ {
+  "name": "Flein",
+  "such": "Flein",
+  "slug": "flein",
+  "kreis": "Heilbronn",
+  "einwohner": 7422,
+  "lat": 49.100989,
+  "lon": 9.213902
+ },
+ {
+  "name": "Baienfurt",
+  "such": "Baienfurt",
+  "slug": "baienfurt",
+  "kreis": "Ravensburg",
+  "einwohner": 7403,
+  "lat": 47.826982,
+  "lon": 9.651432
+ },
+ {
+  "name": "Schutterwald",
+  "such": "Schutterwald",
+  "slug": "schutterwald",
+  "kreis": "Ortenaukreis",
+  "einwohner": 7354,
+  "lat": 48.453676,
+  "lon": 7.887414
+ },
+ {
+  "name": "Gundelsheim",
+  "such": "Gundelsheim",
+  "slug": "gundelsheim",
+  "kreis": "Heilbronn",
+  "einwohner": 7313,
+  "lat": 49.284163,
+  "lon": 9.160815
+ },
+ {
+  "name": "Allensbach",
+  "such": "Allensbach",
+  "slug": "allensbach",
+  "kreis": "Konstanz",
+  "einwohner": 7299,
+  "lat": 47.715742,
+  "lon": 9.070194
+ },
+ {
+  "name": "Aichwald",
+  "such": "Aichwald",
+  "slug": "aichwald",
+  "kreis": "Esslingen",
+  "einwohner": 7291,
+  "lat": 48.75899,
+  "lon": 9.379855
+ },
+ {
+  "name": "Albbruck",
+  "such": "Albbruck",
+  "slug": "albbruck",
+  "kreis": "Waldshut",
+  "einwohner": 7284,
+  "lat": 47.591149,
+  "lon": 8.130079
+ },
+ {
+  "name": "Alfdorf",
+  "such": "Alfdorf",
+  "slug": "alfdorf",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 7237,
+  "lat": 48.843821,
+  "lon": 9.718908
+ },
+ {
+  "name": "Pfalzgrafenweiler",
+  "such": "Pfalzgrafenweiler",
+  "slug": "pfalzgrafenweiler",
+  "kreis": "Freudenstadt",
+  "einwohner": 7222,
+  "lat": 48.528061,
+  "lon": 8.567546
+ },
+ {
+  "name": "Neulußheim",
+  "such": "Neulußheim",
+  "slug": "neulussheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 7220,
+  "lat": 49.293561,
+  "lon": 8.522135
+ },
+ {
+  "name": "Haslach im Kinzigtal",
+  "such": "Haslach im Kinzigtal",
+  "slug": "haslach-im-kinzigtal",
+  "kreis": "Ortenaukreis",
+  "einwohner": 7189,
+  "lat": 48.276357,
+  "lon": 8.087753
+ },
+ {
+  "name": "Ilshofen",
+  "such": "Ilshofen",
+  "slug": "ilshofen",
+  "kreis": "Schwäbisch Hall",
+  "einwohner": 7080,
+  "lat": 49.169825,
+  "lon": 9.921075
+ },
+ {
+  "name": "Schwanau",
+  "such": "Schwanau",
+  "slug": "schwanau",
+  "kreis": "Ortenaukreis",
+  "einwohner": 7057,
+  "lat": 48.386219,
+  "lon": 7.757697
+ },
+ {
+  "name": "Waldstetten",
+  "such": "Waldstetten",
+  "slug": "waldstetten",
+  "kreis": "Ostalbkreis",
+  "einwohner": 7018,
+  "lat": 48.766084,
+  "lon": 9.819633
+ },
+ {
+  "name": "Ostrach",
+  "such": "Ostrach",
+  "slug": "ostrach",
+  "kreis": "Sigmaringen",
+  "einwohner": 7013,
+  "lat": 47.953822,
+  "lon": 9.380955
+ },
+ {
+  "name": "Königsbronn",
+  "such": "Königsbronn",
+  "slug": "koenigsbronn",
+  "kreis": "Heidenheim",
+  "einwohner": 6966,
+  "lat": 48.743064,
+  "lon": 10.11239
+ },
+ {
+  "name": "Schallstadt",
+  "such": "Schallstadt",
+  "slug": "schallstadt",
+  "kreis": "Breisgau-Hochschwarzwald",
+  "einwohner": 6966,
+  "lat": 47.957208,
+  "lon": 7.760755
+ },
+ {
+  "name": "Sonnenbühl",
+  "such": "Sonnenbühl",
+  "slug": "sonnenbuehl",
+  "kreis": "Reutlingen",
+  "einwohner": 6955,
+  "lat": 48.38956,
+  "lon": 9.179523
+ },
+ {
+  "name": "Murg",
+  "such": "Murg",
+  "slug": "murg",
+  "kreis": "Waldshut",
+  "einwohner": 6930,
+  "lat": 47.55475,
+  "lon": 8.020644
+ },
+ {
+  "name": "Dietenheim",
+  "such": "Dietenheim",
+  "slug": "dietenheim",
+  "kreis": "Alb-Donau-Kreis",
+  "einwohner": 6921,
+  "lat": 48.212211,
+  "lon": 10.069592
+ },
+ {
+  "name": "Schwendi",
+  "such": "Schwendi",
+  "slug": "schwendi",
+  "kreis": "Biberach",
+  "einwohner": 6897,
+  "lat": 48.175367,
+  "lon": 9.975708
+ },
+ {
+  "name": "Berglen",
+  "such": "Berglen",
+  "slug": "berglen",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 6861,
+  "lat": 48.861445,
+  "lon": 9.469424
+ },
+ {
+  "name": "Eberdingen",
+  "such": "Eberdingen",
+  "slug": "eberdingen",
+  "kreis": "Ludwigsburg",
+  "einwohner": 6820,
+  "lat": 48.880949,
+  "lon": 8.964232
+ },
+ {
+  "name": "Wutöschingen",
+  "such": "Wutöschingen",
+  "slug": "wutoeschingen",
+  "kreis": "Waldshut",
+  "einwohner": 6820,
+  "lat": 47.659937,
+  "lon": 8.366501
+ },
+ {
+  "name": "Auenwald",
+  "such": "Auenwald",
+  "slug": "auenwald",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 6806,
+  "lat": 48.937414,
+  "lon": 9.499196
+ },
+ {
+  "name": "Bonndorf im Schwarzwald",
+  "such": "Bonndorf",
+  "slug": "bonndorf",
+  "kreis": "Waldshut",
+  "einwohner": 6799,
+  "lat": 47.819632,
+  "lon": 8.343011
+ },
+ {
+  "name": "Boxberg",
+  "such": "Boxberg",
+  "slug": "boxberg",
+  "kreis": "Main-Tauber-Kreis",
+  "einwohner": 6784,
+  "lat": 49.481118,
+  "lon": 9.641258
+ },
+ {
+  "name": "Dettenheim",
+  "such": "Dettenheim",
+  "slug": "dettenheim",
+  "kreis": "Karlsruhe",
+  "einwohner": 6753,
+  "lat": 49.161291,
+  "lon": 8.415615
+ },
+ {
+  "name": "Mutlangen",
+  "such": "Mutlangen",
+  "slug": "mutlangen",
+  "kreis": "Ostalbkreis",
+  "einwohner": 6724,
+  "lat": 48.823598,
+  "lon": 9.797933
+ },
+ {
+  "name": "Wiernsheim",
+  "such": "Wiernsheim",
+  "slug": "wiernsheim",
+  "kreis": "Enzkreis",
+  "einwohner": 6722,
+  "lat": 48.890993,
+  "lon": 8.852211
+ },
+ {
+  "name": "Argenbühl",
+  "such": "Argenbühl",
+  "slug": "argenbuehl",
+  "kreis": "Ravensburg",
+  "einwohner": 6719,
+  "lat": 47.688159,
+  "lon": 9.959372
+ },
+ {
+  "name": "Oedheim",
+  "such": "Oedheim",
+  "slug": "oedheim",
+  "kreis": "Heilbronn",
+  "einwohner": 6692,
+  "lat": 49.239986,
+  "lon": 9.257536
+ },
+ {
+  "name": "Deizisau",
+  "such": "Deizisau",
+  "slug": "deizisau",
+  "kreis": "Esslingen",
+  "einwohner": 6685,
+  "lat": 48.712039,
+  "lon": 9.384075
+ },
+ {
+  "name": "Wüstenrot",
+  "such": "Wüstenrot",
+  "slug": "wuestenrot",
+  "kreis": "Heilbronn",
+  "einwohner": 6674,
+  "lat": 49.080263,
+  "lon": 9.460742
+ },
+ {
+  "name": "Kupferzell",
+  "such": "Kupferzell",
+  "slug": "kupferzell",
+  "kreis": "Hohenlohekreis",
+  "einwohner": 6663,
+  "lat": 49.227563,
+  "lon": 9.68958
+ },
+ {
+  "name": "Hardheim",
+  "such": "Hardheim",
+  "slug": "hardheim",
+  "kreis": "Neckar-Odenwald-Kreis",
+  "einwohner": 6650,
+  "lat": 49.608193,
+  "lon": 9.474484
+ },
+ {
+  "name": "Immendingen",
+  "such": "Immendingen",
+  "slug": "immendingen",
+  "kreis": "Tuttlingen",
+  "einwohner": 6635,
+  "lat": 47.939111,
+  "lon": 8.733578
+ },
+ {
+  "name": "Laudenbach",
+  "such": "Laudenbach",
+  "slug": "laudenbach",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 6627,
+  "lat": 49.611097,
+  "lon": 8.6545
+ },
+ {
+  "name": "Heitersheim",
+  "such": "Heitersheim",
+  "slug": "heitersheim",
+  "kreis": "Breisgau-Hochschwarzwald",
+  "einwohner": 6598,
+  "lat": 47.871917,
+  "lon": 7.664915
+ },
+ {
+  "name": "Murr",
+  "such": "Murr",
+  "slug": "murr",
+  "kreis": "Ludwigsburg",
+  "einwohner": 6593,
+  "lat": 48.962627,
+  "lon": 9.259995
+ },
+ {
+  "name": "Grafenau",
+  "such": "Grafenau",
+  "slug": "grafenau",
+  "kreis": "Böblingen",
+  "einwohner": 6582,
+  "lat": 48.711098,
+  "lon": 8.91395
+ },
+ {
+  "name": "Osterburken",
+  "such": "Osterburken",
+  "slug": "osterburken",
+  "kreis": "Neckar-Odenwald-Kreis",
+  "einwohner": 6572,
+  "lat": 49.428346,
+  "lon": 9.426233
+ },
+ {
+  "name": "Schelklingen",
+  "such": "Schelklingen",
+  "slug": "schelklingen",
+  "kreis": "Alb-Donau-Kreis",
+  "einwohner": 6564,
+  "lat": 48.372526,
+  "lon": 9.734923
+ },
+ {
+  "name": "Neuenstein",
+  "such": "Neuenstein",
+  "slug": "neuenstein",
+  "kreis": "Hohenlohekreis",
+  "einwohner": 6556,
+  "lat": 49.205319,
+  "lon": 9.582072
+ },
+ {
+  "name": "Neulingen",
+  "such": "Neulingen",
+  "slug": "neulingen",
+  "kreis": "Enzkreis",
+  "einwohner": 6555,
+  "lat": 48.970506,
+  "lon": 8.728215
+ },
+ {
+  "name": "Nattheim",
+  "such": "Nattheim",
+  "slug": "nattheim",
+  "kreis": "Heidenheim",
+  "einwohner": 6531,
+  "lat": 48.699582,
+  "lon": 10.241784
+ },
+ {
+  "name": "Bietigheim",
+  "such": "Bietigheim",
+  "slug": "bietigheim",
+  "kreis": "Rastatt",
+  "einwohner": 6473,
+  "lat": 48.91379,
+  "lon": 8.246052
+ },
+ {
+  "name": "Dunningen",
+  "such": "Dunningen",
+  "slug": "dunningen",
+  "kreis": "Rottweil",
+  "einwohner": 6456,
+  "lat": 48.212884,
+  "lon": 8.50459
+ },
+ {
+  "name": "Immenstaad am Bodensee",
+  "such": "Immenstaad",
+  "slug": "immenstaad",
+  "kreis": "Bodenseekreis",
+  "einwohner": 6434,
+  "lat": 47.666622,
+  "lon": 9.37146
+ },
+ {
+  "name": "Rheinmünster",
+  "such": "Rheinmünster",
+  "slug": "rheinmuenster",
+  "kreis": "Rastatt",
+  "einwohner": 6433,
+  "lat": 48.746539,
+  "lon": 8.046134
+ },
+ {
+  "name": "Rosenfeld",
+  "such": "Rosenfeld",
+  "slug": "rosenfeld",
+  "kreis": "Zollernalbkreis",
+  "einwohner": 6426,
+  "lat": 48.286301,
+  "lon": 8.723243
+ },
+ {
+  "name": "Essingen",
+  "such": "Essingen",
+  "slug": "essingen",
+  "kreis": "Ostalbkreis",
+  "einwohner": 6421,
+  "lat": 48.808719,
+  "lon": 10.027392
+ },
+ {
+  "name": "Maulbronn",
+  "such": "Maulbronn",
+  "slug": "maulbronn",
+  "kreis": "Enzkreis",
+  "einwohner": 6371,
+  "lat": 49.000362,
+  "lon": 8.814618
+ },
+ {
+  "name": "Ottersweier",
+  "such": "Ottersweier",
+  "slug": "ottersweier",
+  "kreis": "Rastatt",
+  "einwohner": 6351,
+  "lat": 48.669485,
+  "lon": 8.11188
+ },
+ {
+  "name": "Güglingen",
+  "such": "Güglingen",
+  "slug": "gueglingen",
+  "kreis": "Heilbronn",
+  "einwohner": 6344,
+  "lat": 49.066703,
+  "lon": 8.99847
+ },
+ {
+  "name": "Winterlingen",
+  "such": "Winterlingen",
+  "slug": "winterlingen",
+  "kreis": "Zollernalbkreis",
+  "einwohner": 6336,
+  "lat": 48.178723,
+  "lon": 9.117643
+ },
+ {
+  "name": "Vogtsburg im Kaiserstuhl",
+  "such": "Vogtsburg",
+  "slug": "vogtsburg",
+  "kreis": "Breisgau-Hochschwarzwald",
+  "einwohner": 6328,
+  "lat": 48.088977,
+  "lon": 7.629966
+ },
+ {
+  "name": "Beilstein",
+  "such": "Beilstein",
+  "slug": "beilstein",
+  "kreis": "Heilbronn",
+  "einwohner": 6326,
+  "lat": 49.040994,
+  "lon": 9.313798
+ },
+ {
+  "name": "Steinenbronn",
+  "such": "Steinenbronn",
+  "slug": "steinenbronn",
+  "kreis": "Böblingen",
+  "einwohner": 6315,
+  "lat": 48.66012,
+  "lon": 9.119496
+ },
+ {
+  "name": "Waldachtal",
+  "such": "Waldachtal",
+  "slug": "waldachtal",
+  "kreis": "Freudenstadt",
+  "einwohner": 6314,
+  "lat": 48.476598,
+  "lon": 8.575573
+ },
+ {
+  "name": "Altlußheim",
+  "such": "Altlußheim",
+  "slug": "altlussheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 6307,
+  "lat": 49.301347,
+  "lon": 8.498339
+ },
+ {
+  "name": "Ihringen",
+  "such": "Ihringen",
+  "slug": "ihringen",
+  "kreis": "Breisgau-Hochschwarzwald",
+  "einwohner": 6283,
+  "lat": 48.045815,
+  "lon": 7.64615
+ },
+ {
+  "name": "Ingersheim",
+  "such": "Ingersheim",
+  "slug": "ingersheim",
+  "kreis": "Ludwigsburg",
+  "einwohner": 6277,
+  "lat": 48.961199,
+  "lon": 9.184679
+ },
+ {
+  "name": "Bammental",
+  "such": "Bammental",
+  "slug": "bammental",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 6266,
+  "lat": 49.357303,
+  "lon": 8.77808
+ },
+ {
+  "name": "Benningen am Neckar",
+  "such": "Benningen am Neckar",
+  "slug": "benningen-am-neckar",
+  "kreis": "Ludwigsburg",
+  "einwohner": 6260,
+  "lat": 48.947824,
+  "lon": 9.242498
+ },
+ {
+  "name": "Trochtelfingen",
+  "such": "Trochtelfingen",
+  "slug": "trochtelfingen",
+  "kreis": "Reutlingen",
+  "einwohner": 6254,
+  "lat": 48.308771,
+  "lon": 9.246991
+ },
+ {
+  "name": "Kämpfelbach",
+  "such": "Kämpfelbach",
+  "slug": "kaempfelbach",
+  "kreis": "Enzkreis",
+  "einwohner": 6252,
+  "lat": 48.934316,
+  "lon": 8.635617
+ },
+ {
+  "name": "Zimmern ob Rottweil",
+  "such": "Zimmern ob Rottweil",
+  "slug": "zimmern-ob-rottweil",
+  "kreis": "Rottweil",
+  "einwohner": 6239,
+  "lat": 48.167498,
+  "lon": 8.590787
+ },
+ {
+  "name": "Schliengen",
+  "such": "Schliengen",
+  "slug": "schliengen",
+  "kreis": "Lörrach",
+  "einwohner": 6227,
+  "lat": 47.754977,
+  "lon": 7.577673
+ },
+ {
+  "name": "Wolfschlugen",
+  "such": "Wolfschlugen",
+  "slug": "wolfschlugen",
+  "kreis": "Esslingen",
+  "einwohner": 6224,
+  "lat": 48.653445,
+  "lon": 9.288023
+ },
+ {
+  "name": "Neckartenzlingen",
+  "such": "Neckartenzlingen",
+  "slug": "neckartenzlingen",
+  "kreis": "Esslingen",
+  "einwohner": 6222,
+  "lat": 48.590722,
+  "lon": 9.233903
+ },
+ {
+  "name": "Kappelrodeck",
+  "such": "Kappelrodeck",
+  "slug": "kappelrodeck",
+  "kreis": "Ortenaukreis",
+  "einwohner": 6221,
+  "lat": 48.591492,
+  "lon": 8.117423
+ },
+ {
+  "name": "Zell im Wiesental",
+  "such": "Zell im Wiesental",
+  "slug": "zell-im-wiesental",
+  "kreis": "Lörrach",
+  "einwohner": 6215,
+  "lat": 47.707567,
+  "lon": 7.852117
+ },
+ {
+  "name": "Gammertingen",
+  "such": "Gammertingen",
+  "slug": "gammertingen",
+  "kreis": "Sigmaringen",
+  "einwohner": 6198,
+  "lat": 48.250288,
+  "lon": 9.2157
+ },
+ {
+  "name": "Bondorf",
+  "such": "Bondorf",
+  "slug": "bondorf",
+  "kreis": "Böblingen",
+  "einwohner": 6196,
+  "lat": 48.521605,
+  "lon": 8.836174
+ },
+ {
+  "name": "Dornhan",
+  "such": "Dornhan",
+  "slug": "dornhan",
+  "kreis": "Rottweil",
+  "einwohner": 6191,
+  "lat": 48.350916,
+  "lon": 8.510397
+ },
+ {
+  "name": "Deißlingen",
+  "such": "Deißlingen",
+  "slug": "deisslingen",
+  "kreis": "Rottweil",
+  "einwohner": 6191,
+  "lat": 48.114542,
+  "lon": 8.605369
+ },
+ {
+  "name": "Dußlingen",
+  "such": "Dußlingen",
+  "slug": "dusslingen",
+  "kreis": "Tübingen",
+  "einwohner": 6186,
+  "lat": 48.452421,
+  "lon": 9.054599
+ },
+ {
+  "name": "Neuffen",
+  "such": "Neuffen",
+  "slug": "neuffen",
+  "kreis": "Esslingen",
+  "einwohner": 6176,
+  "lat": 48.555671,
+  "lon": 9.37432
+ },
+ {
+  "name": "Geisingen",
+  "such": "Geisingen",
+  "slug": "geisingen",
+  "kreis": "Tuttlingen",
+  "einwohner": 6166,
+  "lat": 47.922537,
+  "lon": 8.650319
+ },
+ {
+  "name": "Dettingen unter Teck",
+  "such": "Dettingen unter Teck",
+  "slug": "dettingen-unter-teck",
+  "kreis": "Esslingen",
+  "einwohner": 6150,
+  "lat": 48.617753,
+  "lon": 9.452957
+ },
+ {
+  "name": "Westhausen",
+  "such": "Westhausen",
+  "slug": "westhausen",
+  "kreis": "Ostalbkreis",
+  "einwohner": 6131,
+  "lat": 48.884017,
+  "lon": 10.186554
+ },
+ {
+  "name": "Eutingen im Gäu",
+  "such": "Eutingen im Gäu",
+  "slug": "eutingen-im-gaeu",
+  "kreis": "Freudenstadt",
+  "einwohner": 6112,
+  "lat": 48.47781,
+  "lon": 8.748033
+ },
+ {
+  "name": "Muggensturm",
+  "such": "Muggensturm",
+  "slug": "muggensturm",
+  "kreis": "Rastatt",
+  "einwohner": 6103,
+  "lat": 48.869678,
+  "lon": 8.276717
+ },
+ {
+  "name": "Pleidelsheim",
+  "such": "Pleidelsheim",
+  "slug": "pleidelsheim",
+  "kreis": "Ludwigsburg",
+  "einwohner": 6096,
+  "lat": 48.95908,
+  "lon": 9.205009
+ },
+ {
+  "name": "Altbach",
+  "such": "Altbach",
+  "slug": "altbach",
+  "kreis": "Esslingen",
+  "einwohner": 6084,
+  "lat": 48.723629,
+  "lon": 9.380166
+ },
+ {
+  "name": "Hüttlingen",
+  "such": "Hüttlingen",
+  "slug": "huettlingen",
+  "kreis": "Ostalbkreis",
+  "einwohner": 6079,
+  "lat": 48.892987,
+  "lon": 10.097961
+ },
+ {
+  "name": "Kronau",
+  "such": "Kronau",
+  "slug": "kronau",
+  "kreis": "Karlsruhe",
+  "einwohner": 6077,
+  "lat": 49.219296,
+  "lon": 8.634487
+ },
+ {
+  "name": "Billigheim",
+  "such": "Billigheim",
+  "slug": "billigheim",
+  "kreis": "Neckar-Odenwald-Kreis",
+  "einwohner": 6072,
+  "lat": 49.347877,
+  "lon": 9.254676
+ },
+ {
+  "name": "Alpirsbach",
+  "such": "Alpirsbach",
+  "slug": "alpirsbach",
+  "kreis": "Freudenstadt",
+  "einwohner": 6042,
+  "lat": 48.345111,
+  "lon": 8.402938
+ },
+ {
+  "name": "Kirchheim am Neckar",
+  "such": "Kirchheim am Neckar",
+  "slug": "kirchheim-am-neckar",
+  "kreis": "Ludwigsburg",
+  "einwohner": 6031,
+  "lat": 49.044258,
+  "lon": 9.145033
+ },
+ {
+  "name": "Meersburg",
+  "such": "Meersburg",
+  "slug": "meersburg",
+  "kreis": "Bodenseekreis",
+  "einwohner": 6019,
+  "lat": 47.695076,
+  "lon": 9.273408
+ },
+ {
+  "name": "Mainhardt",
+  "such": "Mainhardt",
+  "slug": "mainhardt",
+  "kreis": "Schwäbisch Hall",
+  "einwohner": 5963,
+  "lat": 49.075798,
+  "lon": 9.55678
+ },
+ {
+  "name": "Kirchardt",
+  "such": "Kirchardt",
+  "slug": "kirchardt",
+  "kreis": "Heilbronn",
+  "einwohner": 5944,
+  "lat": 49.205097,
+  "lon": 8.990394
+ },
+ {
+  "name": "Geislingen",
+  "such": "Geislingen",
+  "slug": "geislingen",
+  "kreis": "Zollernalbkreis",
+  "einwohner": 5905,
+  "lat": 48.287956,
+  "lon": 8.811353
+ },
+ {
+  "name": "Königsfeld im Schwarzwald",
+  "such": "Königsfeld im Schwarzwald",
+  "slug": "koenigsfeld-im-schwarzwald",
+  "kreis": "Schwarzwald-Baar-Kreis",
+  "einwohner": 5898,
+  "lat": 48.138624,
+  "lon": 8.421452
+ },
+ {
+  "name": "Ispringen",
+  "such": "Ispringen",
+  "slug": "ispringen",
+  "kreis": "Enzkreis",
+  "einwohner": 5891,
+  "lat": 48.918096,
+  "lon": 8.667748
+ },
+ {
+  "name": "Bodelshausen",
+  "such": "Bodelshausen",
+  "slug": "bodelshausen",
+  "kreis": "Tübingen",
+  "einwohner": 5865,
+  "lat": 48.392533,
+  "lon": 8.9735
+ },
+ {
+  "name": "Haiterbach",
+  "such": "Haiterbach",
+  "slug": "haiterbach",
+  "kreis": "Calw",
+  "einwohner": 5859,
+  "lat": 48.524432,
+  "lon": 8.649992
+ },
+ {
+  "name": "Waibstadt",
+  "such": "Waibstadt",
+  "slug": "waibstadt",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 5849,
+  "lat": 49.299852,
+  "lon": 8.920252
+ },
+ {
+  "name": "Sontheim an der Brenz",
+  "such": "Sontheim an der Brenz",
+  "slug": "sontheim-an-der-brenz",
+  "kreis": "Heidenheim",
+  "einwohner": 5846,
+  "lat": 48.556231,
+  "lon": 10.2867
+ },
+ {
+  "name": "Bräunlingen",
+  "such": "Bräunlingen",
+  "slug": "braeunlingen",
+  "kreis": "Schwarzwald-Baar-Kreis",
+  "einwohner": 5843,
+  "lat": 47.930249,
+  "lon": 8.448829
+ },
+ {
+  "name": "Löchgau",
+  "such": "Löchgau",
+  "slug": "loechgau",
+  "kreis": "Ludwigsburg",
+  "einwohner": 5837,
+  "lat": 49.001831,
+  "lon": 9.10601
+ },
+ {
+  "name": "Niedereschach",
+  "such": "Niedereschach",
+  "slug": "niedereschach",
+  "kreis": "Schwarzwald-Baar-Kreis",
+  "einwohner": 5821,
+  "lat": 48.132561,
+  "lon": 8.528615
+ },
+ {
+  "name": "Hausach",
+  "such": "Hausach",
+  "slug": "hausach",
+  "kreis": "Ortenaukreis",
+  "einwohner": 5815,
+  "lat": 48.28416,
+  "lon": 8.171188
+ },
+ {
+  "name": "Nufringen",
+  "such": "Nufringen",
+  "slug": "nufringen",
+  "kreis": "Böblingen",
+  "einwohner": 5804,
+  "lat": 48.622489,
+  "lon": 8.888193
+ },
+ {
+  "name": "Elztal",
+  "such": "Elztal",
+  "slug": "elztal",
+  "kreis": "Neckar-Odenwald-Kreis",
+  "einwohner": 5800,
+  "lat": 49.384876,
+  "lon": 9.191576
+ },
+ {
+  "name": "Schrozberg",
+  "such": "Schrozberg",
+  "slug": "schrozberg",
+  "kreis": "Schwäbisch Hall",
+  "einwohner": 5768,
+  "lat": 49.344875,
+  "lon": 9.979876
+ },
+ {
+  "name": "Hambrücken",
+  "such": "Hambrücken",
+  "slug": "hambruecken",
+  "kreis": "Karlsruhe",
+  "einwohner": 5687,
+  "lat": 49.186033,
+  "lon": 8.544792
+ },
+ {
+  "name": "Umkirch",
+  "such": "Umkirch",
+  "slug": "umkirch",
+  "kreis": "Breisgau-Hochschwarzwald",
+  "einwohner": 5683,
+  "lat": 48.032065,
+  "lon": 7.761774
+ },
+ {
+  "name": "Neubulach",
+  "such": "Neubulach",
+  "slug": "neubulach",
+  "kreis": "Calw",
+  "einwohner": 5676,
+  "lat": 48.661372,
+  "lon": 8.692017
+ },
+ {
+  "name": "Satteldorf",
+  "such": "Satteldorf",
+  "slug": "satteldorf",
+  "kreis": "Schwäbisch Hall",
+  "einwohner": 5666,
+  "lat": 49.170293,
+  "lon": 10.081515
+ },
+ {
+  "name": "Wolfach",
+  "such": "Wolfach",
+  "slug": "wolfach",
+  "kreis": "Ortenaukreis",
+  "einwohner": 5626,
+  "lat": 48.298549,
+  "lon": 8.222231
+ },
+ {
+  "name": "Böhmenkirch",
+  "such": "Böhmenkirch",
+  "slug": "boehmenkirch",
+  "kreis": "Göppingen",
+  "einwohner": 5621,
+  "lat": 48.684616,
+  "lon": 9.931883
+ },
+ {
+  "name": "Oberboihingen",
+  "such": "Oberboihingen",
+  "slug": "oberboihingen",
+  "kreis": "Esslingen",
+  "einwohner": 5610,
+  "lat": 48.647727,
+  "lon": 9.366724
+ },
+ {
+  "name": "Neudenau",
+  "such": "Neudenau",
+  "slug": "neudenau",
+  "kreis": "Heilbronn",
+  "einwohner": 5608,
+  "lat": 49.292642,
+  "lon": 9.270659
+ },
+ {
+  "name": "Schöntal",
+  "such": "Schöntal",
+  "slug": "schoental",
+  "kreis": "Hohenlohekreis",
+  "einwohner": 5599,
+  "lat": 49.344441,
+  "lon": 9.52668
+ },
+ {
+  "name": "Baltmannsweiler",
+  "such": "Baltmannsweiler",
+  "slug": "baltmannsweiler",
+  "kreis": "Esslingen",
+  "einwohner": 5588,
+  "lat": 48.742625,
+  "lon": 9.448403
+ },
+ {
+  "name": "Gemmingen",
+  "such": "Gemmingen",
+  "slug": "gemmingen",
+  "kreis": "Heilbronn",
+  "einwohner": 5582,
+  "lat": 49.156795,
+  "lon": 8.982537
+ },
+ {
+  "name": "Rot am See",
+  "such": "Rot am See",
+  "slug": "rot-am-see",
+  "kreis": "Schwäbisch Hall",
+  "einwohner": 5543,
+  "lat": 49.248906,
+  "lon": 10.02557
+ },
+ {
+  "name": "Kippenheim",
+  "such": "Kippenheim",
+  "slug": "kippenheim",
+  "kreis": "Ortenaukreis",
+  "einwohner": 5534,
+  "lat": 48.294627,
+  "lon": 7.82454
+ },
+ {
+  "name": "Heimsheim",
+  "such": "Heimsheim",
+  "slug": "heimsheim",
+  "kreis": "Enzkreis",
+  "einwohner": 5531,
+  "lat": 48.805183,
+  "lon": 8.863456
+ },
+ {
+  "name": "Bötzingen",
+  "such": "Bötzingen",
+  "slug": "boetzingen",
+  "kreis": "Breisgau-Hochschwarzwald",
+  "einwohner": 5517,
+  "lat": 48.069628,
+  "lon": 7.720789
+ },
+ {
+  "name": "Dettenhausen",
+  "such": "Dettenhausen",
+  "slug": "dettenhausen",
+  "kreis": "Tübingen",
+  "einwohner": 5506,
+  "lat": 48.607603,
+  "lon": 9.100748
+ },
+ {
+  "name": "Kirchentellinsfurt",
+  "such": "Kirchentellinsfurt",
+  "slug": "kirchentellinsfurt",
+  "kreis": "Tübingen",
+  "einwohner": 5487,
+  "lat": 48.53123,
+  "lon": 9.149618
+ },
+ {
+  "name": "Kuchen",
+  "such": "Kuchen",
+  "slug": "kuchen",
+  "kreis": "Göppingen",
+  "einwohner": 5481,
+  "lat": 48.635851,
+  "lon": 9.800136
+ },
+ {
+  "name": "Igersheim",
+  "such": "Igersheim",
+  "slug": "igersheim",
+  "kreis": "Main-Tauber-Kreis",
+  "einwohner": 5479,
+  "lat": 49.496624,
+  "lon": 9.815731
+ },
+ {
+  "name": "Ofterdingen",
+  "such": "Ofterdingen",
+  "slug": "ofterdingen",
+  "kreis": "Tübingen",
+  "einwohner": 5470,
+  "lat": 48.42084,
+  "lon": 9.030929
+ },
+ {
+  "name": "Ingelfingen",
+  "such": "Ingelfingen",
+  "slug": "ingelfingen",
+  "kreis": "Hohenlohekreis",
+  "einwohner": 5468,
+  "lat": 49.299402,
+  "lon": 9.654049
+ },
+ {
+  "name": "Horgenzell",
+  "such": "Horgenzell",
+  "slug": "horgenzell",
+  "kreis": "Ravensburg",
+  "einwohner": 5462,
+  "lat": 47.806456,
+  "lon": 9.497983
+ },
+ {
+  "name": "Küssaberg",
+  "such": "Küssaberg",
+  "slug": "kuessaberg",
+  "kreis": "Waldshut",
+  "einwohner": 5459,
+  "lat": 47.589996,
+  "lon": 8.305426
+ },
+ {
+  "name": "Munderkingen",
+  "such": "Munderkingen",
+  "slug": "munderkingen",
+  "kreis": "Alb-Donau-Kreis",
+  "einwohner": 5447,
+  "lat": 48.236714,
+  "lon": 9.647663
+ },
+ {
+  "name": "Walddorfhäslach",
+  "such": "Walddorfhäslach",
+  "slug": "walddorfhaeslach",
+  "kreis": "Reutlingen",
+  "einwohner": 5445,
+  "lat": 48.586231,
+  "lon": 9.183734
+ },
+ {
+  "name": "Rechberghausen",
+  "such": "Rechberghausen",
+  "slug": "rechberghausen",
+  "kreis": "Göppingen",
+  "einwohner": 5427,
+  "lat": 48.731398,
+  "lon": 9.64174
+ },
+ {
+  "name": "Sersheim",
+  "such": "Sersheim",
+  "slug": "sersheim",
+  "kreis": "Ludwigsburg",
+  "einwohner": 5405,
+  "lat": 48.961021,
+  "lon": 9.01213
+ },
+ {
+  "name": "Merzhausen",
+  "such": "Merzhausen",
+  "slug": "merzhausen",
+  "kreis": "Breisgau-Hochschwarzwald",
+  "einwohner": 5381,
+  "lat": 47.966362,
+  "lon": 7.828697
+ },
+ {
+  "name": "Obrigheim",
+  "such": "Obrigheim",
+  "slug": "obrigheim",
+  "kreis": "Neckar-Odenwald-Kreis",
+  "einwohner": 5377,
+  "lat": 49.353176,
+  "lon": 9.089945
+ },
+ {
+  "name": "Forchtenberg",
+  "such": "Forchtenberg",
+  "slug": "forchtenberg",
+  "kreis": "Hohenlohekreis",
+  "einwohner": 5375,
+  "lat": 49.287249,
+  "lon": 9.562246
+ },
+ {
+  "name": "Ertingen",
+  "such": "Ertingen",
+  "slug": "ertingen",
+  "kreis": "Biberach",
+  "einwohner": 5375,
+  "lat": 48.096788,
+  "lon": 9.460739
+ },
+ {
+  "name": "Meckesheim",
+  "such": "Meckesheim",
+  "slug": "meckesheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 5356,
+  "lat": 49.32267,
+  "lon": 8.81789
+ },
+ {
+  "name": "Sulzbach an der Murr",
+  "such": "Sulzbach an der Murr",
+  "slug": "sulzbach-an-der-murr",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 5355,
+  "lat": 49.002908,
+  "lon": 9.501017
+ },
+ {
+  "name": "Obersontheim",
+  "such": "Obersontheim",
+  "slug": "obersontheim",
+  "kreis": "Schwäbisch Hall",
+  "einwohner": 5350,
+  "lat": 49.057122,
+  "lon": 9.89935
+ },
+ {
+  "name": "Blaufelden",
+  "such": "Blaufelden",
+  "slug": "blaufelden",
+  "kreis": "Schwäbisch Hall",
+  "einwohner": 5348,
+  "lat": 49.297785,
+  "lon": 9.974402
+ },
+ {
+  "name": "Tiefenbronn",
+  "such": "Tiefenbronn",
+  "slug": "tiefenbronn",
+  "kreis": "Enzkreis",
+  "einwohner": 5346,
+  "lat": 48.824167,
+  "lon": 8.800599
+ },
+ {
+  "name": "Sasbach",
+  "such": "Sasbach",
+  "slug": "sasbach",
+  "kreis": "Ortenaukreis",
+  "einwohner": 5340,
+  "lat": 48.638758,
+  "lon": 8.091829
+ },
+ {
+  "name": "Jestetten",
+  "such": "Jestetten",
+  "slug": "jestetten",
+  "kreis": "Waldshut",
+  "einwohner": 5340,
+  "lat": 47.649692,
+  "lon": 8.567756
+ },
+ {
+  "name": "Warthausen",
+  "such": "Warthausen",
+  "slug": "warthausen",
+  "kreis": "Biberach",
+  "einwohner": 5337,
+  "lat": 48.128975,
+  "lon": 9.797727
+ },
+ {
+  "name": "Rangendingen",
+  "such": "Rangendingen",
+  "slug": "rangendingen",
+  "kreis": "Zollernalbkreis",
+  "einwohner": 5331,
+  "lat": 48.382119,
+  "lon": 8.885614
+ },
+ {
+  "name": "Stühlingen",
+  "such": "Stühlingen",
+  "slug": "stuehlingen",
+  "kreis": "Waldshut",
+  "einwohner": 5318,
+  "lat": 47.745475,
+  "lon": 8.445849
+ },
+ {
+  "name": "Wannweil",
+  "such": "Wannweil",
+  "slug": "wannweil",
+  "kreis": "Reutlingen",
+  "einwohner": 5312,
+  "lat": 48.517041,
+  "lon": 9.151047
+ },
+ {
+  "name": "Külsheim",
+  "such": "Külsheim",
+  "slug": "kuelsheim",
+  "kreis": "Main-Tauber-Kreis",
+  "einwohner": 5309,
+  "lat": 49.670835,
+  "lon": 9.517596
+ },
+ {
+  "name": "Rosengarten",
+  "such": "Rosengarten",
+  "slug": "rosengarten",
+  "kreis": "Schwäbisch Hall",
+  "einwohner": 5301,
+  "lat": 49.066934,
+  "lon": 9.726334
+ },
+ {
+  "name": "Ühlingen-Birkendorf",
+  "such": "Ühlingen-Birkendorf",
+  "slug": "uehlingen-birkendorf",
+  "kreis": "Waldshut",
+  "einwohner": 5286,
+  "lat": 47.718673,
+  "lon": 8.317652
+ },
+ {
+  "name": "Kappel-Grafenhausen",
+  "such": "Kappel-Grafenhausen",
+  "slug": "kappel-grafenhausen",
+  "kreis": "Ortenaukreis",
+  "einwohner": 5280,
+  "lat": 48.291847,
+  "lon": 7.743559
+ },
+ {
+  "name": "Baindt",
+  "such": "Baindt",
+  "slug": "baindt",
+  "kreis": "Ravensburg",
+  "einwohner": 5271,
+  "lat": 47.84186,
+  "lon": 9.661164
+ },
+ {
+  "name": "Achstetten",
+  "such": "Achstetten",
+  "slug": "achstetten",
+  "kreis": "Biberach",
+  "einwohner": 5258,
+  "lat": 48.258983,
+  "lon": 9.898085
+ },
+ {
+  "name": "Angelbachtal",
+  "such": "Angelbachtal",
+  "slug": "angelbachtal",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 5241,
+  "lat": 49.233855,
+  "lon": 8.773413
+ },
+ {
+  "name": "Mahlberg",
+  "such": "Mahlberg",
+  "slug": "mahlberg",
+  "kreis": "Ortenaukreis",
+  "einwohner": 5239,
+  "lat": 48.288279,
+  "lon": 7.809923
+ },
+ {
+  "name": "Bad Bellingen",
+  "such": "Bad Bellingen",
+  "slug": "bad-bellingen",
+  "kreis": "Lörrach",
+  "einwohner": 5238,
+  "lat": 47.731696,
+  "lon": 7.556809
+ },
+ {
+  "name": "Erdmannhausen",
+  "such": "Erdmannhausen",
+  "slug": "erdmannhausen",
+  "kreis": "Ludwigsburg",
+  "einwohner": 5191,
+  "lat": 48.941641,
+  "lon": 9.296924
+ },
+ {
+  "name": "St. Johann",
+  "such": "St. Johann",
+  "slug": "st-johann",
+  "kreis": "Reutlingen",
+  "einwohner": 5188,
+  "lat": 48.452886,
+  "lon": 9.341319
+ },
+ {
+  "name": "Iffezheim",
+  "such": "Iffezheim",
+  "slug": "iffezheim",
+  "kreis": "Rastatt",
+  "einwohner": 5186,
+  "lat": 48.822716,
+  "lon": 8.140588
+ },
+ {
+  "name": "Erlenbach",
+  "such": "Erlenbach",
+  "slug": "erlenbach",
+  "kreis": "Heilbronn",
+  "einwohner": 5179,
+  "lat": 49.170228,
+  "lon": 9.268814
+ },
+ {
+  "name": "Reichenau",
+  "such": "Reichenau",
+  "slug": "reichenau",
+  "kreis": "Konstanz",
+  "einwohner": 5165,
+  "lat": 47.698036,
+  "lon": 9.060705
+ },
+ {
+  "name": "Lonsee",
+  "such": "Lonsee",
+  "slug": "lonsee",
+  "kreis": "Alb-Donau-Kreis",
+  "einwohner": 5148,
+  "lat": 48.543054,
+  "lon": 9.917632
+ },
+ {
+  "name": "Neuhausen",
+  "such": "Neuhausen",
+  "slug": "neuhausen",
+  "kreis": "Enzkreis",
+  "einwohner": 5147,
+  "lat": 48.792915,
+  "lon": 8.778275
+ },
+ {
+  "name": "Haßmersheim",
+  "such": "Haßmersheim",
+  "slug": "hassmersheim",
+  "kreis": "Neckar-Odenwald-Kreis",
+  "einwohner": 5129,
+  "lat": 49.301027,
+  "lon": 9.14612
+ },
+ {
+  "name": "Sulzfeld",
+  "such": "Sulzfeld",
+  "slug": "sulzfeld",
+  "kreis": "Karlsruhe",
+  "einwohner": 5112,
+  "lat": 49.103766,
+  "lon": 8.856733
+ },
+ {
+  "name": "Adelsheim",
+  "such": "Adelsheim",
+  "slug": "adelsheim",
+  "kreis": "Neckar-Odenwald-Kreis",
+  "einwohner": 5112,
+  "lat": 49.401957,
+  "lon": 9.391601
+ },
+ {
+  "name": "Lenzkirch",
+  "such": "Lenzkirch",
+  "slug": "lenzkirch",
+  "kreis": "Breisgau-Hochschwarzwald",
+  "einwohner": 5107,
+  "lat": 47.869062,
+  "lon": 8.200446
+ },
+ {
+  "name": "Talheim",
+  "such": "Talheim",
+  "slug": "talheim",
+  "kreis": "Heilbronn",
+  "einwohner": 5095,
+  "lat": 49.083283,
+  "lon": 9.193502
+ },
+ {
+  "name": "Steißlingen",
+  "such": "Steißlingen",
+  "slug": "steisslingen",
+  "kreis": "Konstanz",
+  "einwohner": 5081,
+  "lat": 47.79781,
+  "lon": 8.92425
+ },
+ {
+  "name": "Deggingen",
+  "such": "Deggingen",
+  "slug": "deggingen",
+  "kreis": "Göppingen",
+  "einwohner": 5061,
+  "lat": 48.59776,
+  "lon": 9.722279
+ },
+ {
+  "name": "Heiningen",
+  "such": "Heiningen",
+  "slug": "heiningen",
+  "kreis": "Göppingen",
+  "einwohner": 5060,
+  "lat": 48.660666,
+  "lon": 9.651131
+ },
+ {
+  "name": "Krauchenwies",
+  "such": "Krauchenwies",
+  "slug": "krauchenwies",
+  "kreis": "Sigmaringen",
+  "einwohner": 5060,
+  "lat": 48.018687,
+  "lon": 9.248681
+ },
+ {
+  "name": "Oberteuringen",
+  "such": "Oberteuringen",
+  "slug": "oberteuringen",
+  "kreis": "Bodenseekreis",
+  "einwohner": 5056,
+  "lat": 47.725477,
+  "lon": 9.471967
+ },
+ {
+  "name": "Illerkirchberg",
+  "such": "Illerkirchberg",
+  "slug": "illerkirchberg",
+  "kreis": "Alb-Donau-Kreis",
+  "einwohner": 5050,
+  "lat": 48.33831,
+  "lon": 9.999035
+ },
+ {
+  "name": "Bad Boll",
+  "such": "Bad Boll",
+  "slug": "bad-boll",
+  "kreis": "Göppingen",
+  "einwohner": 5048,
+  "lat": 48.639235,
+  "lon": 9.616604
+ },
+ {
+  "name": "Unterschneidheim",
+  "such": "Unterschneidheim",
+  "slug": "unterschneidheim",
+  "kreis": "Ostalbkreis",
+  "einwohner": 5035,
+  "lat": 48.942,
+  "lon": 10.365761
+ },
+ {
+  "name": "Brigachtal",
+  "such": "Brigachtal",
+  "slug": "brigachtal",
+  "kreis": "Schwarzwald-Baar-Kreis",
+  "einwohner": 5026,
+  "lat": 48.016006,
+  "lon": 8.470163
+ },
+ {
+  "name": "Münstertal/Schwarzwald",
+  "such": "Münstertal",
+  "slug": "muenstertal",
+  "kreis": "Breisgau-Hochschwarzwald",
+  "einwohner": 5022,
+  "lat": 47.854495,
+  "lon": 7.784148
+ },
+ {
+  "name": "Frankenhardt",
+  "such": "Frankenhardt",
+  "slug": "frankenhardt",
+  "kreis": "Schwäbisch Hall",
+  "einwohner": 5020,
+  "lat": 49.081875,
+  "lon": 9.980093
+ },
+ {
+  "name": "Ötigheim",
+  "such": "Ötigheim",
+  "slug": "oetigheim",
+  "kreis": "Rastatt",
+  "einwohner": 5004,
+  "lat": 48.893206,
+  "lon": 8.231643
+ },
+ {
+  "name": "Abstatt",
+  "such": "Abstatt",
+  "slug": "abstatt",
+  "kreis": "Heilbronn",
+  "einwohner": 5000,
+  "lat": 49.068456,
+  "lon": 9.290986
+ }
+]
