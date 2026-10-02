@@ -1,0 +1,101 @@
+[
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "freiburg",
+  "ortName": "Freiburg",
+  "amtlicherName": "Freiburg im Breisgau",
+  "kreis": "Freiburg im Breisgau",
+  "einwohner": 238299,
+  "volumen": 100
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "freiburg",
+  "ortName": "Freiburg",
+  "amtlicherName": "Freiburg im Breisgau",
+  "kreis": "Freiburg im Breisgau",
+  "einwohner": 238299,
+  "volumen": 690
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "villingen-schwenningen",
+  "ortName": "Villingen-Schwenningen",
+  "amtlicherName": "Villingen-Schwenningen",
+  "kreis": "Schwarzwald-Baar-Kreis",
+  "einwohner": 89766,
+  "volumen": 30
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "villingen-schwenningen",
+  "ortName": "Villingen-Schwenningen",
+  "amtlicherName": "Villingen-Schwenningen",
+  "kreis": "Schwarzwald-Baar-Kreis",
+  "einwohner": 89766,
+  "volumen": 120
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "donaueschingen",
+  "ortName": "Donaueschingen",
+  "amtlicherName": "Donaueschingen",
+  "kreis": "Schwarzwald-Baar-Kreis",
+  "einwohner": 21734,
+  "volumen": 70
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "tuttlingen",
+  "ortName": "Tuttlingen",
+  "amtlicherName": "Tuttlingen",
+  "kreis": "Tuttlingen",
+  "einwohner": 37093,
+  "volumen": 20
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "tuttlingen",
+  "ortName": "Tuttlingen",
+  "amtlicherName": "Tuttlingen",
+  "kreis": "Tuttlingen",
+  "einwohner": 37093,
+  "volumen": 80
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "ravensburg",
+  "ortName": "Ravensburg",
+  "amtlicherName": "Ravensburg",
+  "kreis": "Ravensburg",
+  "einwohner": 50549,
+  "volumen": 40
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "ravensburg",
+  "ortName": "Ravensburg",
+  "amtlicherName": "Ravensburg",
+  "kreis": "Ravensburg",
+  "einwohner": 50549,
+  "volumen": 160
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "loerrach",
+  "ortName": "Lörrach",
+  "amtlicherName": "Lörrach",
+  "kreis": "Lörrach",
+  "einwohner": 51274,
+  "volumen": 30
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "loerrach",
+  "ortName": "Lörrach",
+  "amtlicherName": "Lörrach",
+  "kreis": "Lörrach",
+  "einwohner": 51274,
+  "volumen": 180
+ }
+]

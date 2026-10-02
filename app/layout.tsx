@@ -18,7 +18,7 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   alternates: { canonical: '/' },
   metadataBase: new URL('https://www.bodensee-baupartner.de'),
-  title: 'Bodensee BauPartner – Handwerker & Baubetriebe am Bodensee vermitteln',
+  title: 'Handwerker & Bauunternehmen am Bodensee – BauPartner',
   description:
     'Bodensee BauPartner vermittelt Handwerker & Baubetriebe in der Bodenseeregion – für Hochbau, Tiefbau, Renovierung, Innenausbau & Bad. Kostenlos & unverbindlich.',
   keywords: [

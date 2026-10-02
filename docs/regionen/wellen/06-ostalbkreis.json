@@ -1,0 +1,83 @@
+[
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "aalen",
+  "ortName": "Aalen",
+  "amtlicherName": "Aalen",
+  "kreis": "Ostalbkreis",
+  "einwohner": 67675,
+  "volumen": 30
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "aalen",
+  "ortName": "Aalen",
+  "amtlicherName": "Aalen",
+  "kreis": "Ostalbkreis",
+  "einwohner": 67675,
+  "volumen": 200
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "schwaebisch-gmuend",
+  "ortName": "Schwäbisch Gmünd",
+  "amtlicherName": "Schwäbisch Gmünd",
+  "kreis": "Ostalbkreis",
+  "einwohner": 63930,
+  "volumen": 30
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "schwaebisch-gmuend",
+  "ortName": "Schwäbisch Gmünd",
+  "amtlicherName": "Schwäbisch Gmünd",
+  "kreis": "Ostalbkreis",
+  "einwohner": 63930,
+  "volumen": 160
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "offenburg",
+  "ortName": "Offenburg",
+  "amtlicherName": "Offenburg",
+  "kreis": "Ortenaukreis",
+  "einwohner": 63437,
+  "volumen": 30
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "offenburg",
+  "ortName": "Offenburg",
+  "amtlicherName": "Offenburg",
+  "kreis": "Ortenaukreis",
+  "einwohner": 63437,
+  "volumen": 160
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "lahr",
+  "ortName": "Lahr",
+  "amtlicherName": "Lahr/Schwarzwald",
+  "kreis": "Ortenaukreis",
+  "einwohner": 51208,
+  "volumen": 70
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "balingen",
+  "ortName": "Balingen",
+  "amtlicherName": "Balingen",
+  "kreis": "Zollernalbkreis",
+  "einwohner": 35744,
+  "volumen": 20
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "balingen",
+  "ortName": "Balingen",
+  "amtlicherName": "Balingen",
+  "kreis": "Zollernalbkreis",
+  "einwohner": 35744,
+  "volumen": 130
+ }
+]

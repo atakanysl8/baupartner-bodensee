@@ -5,6 +5,7 @@ import { useState, useRef } from 'react'
 import Image from 'next/image'
 import Footer from '../../components/Footer'
 import Nav from '../../components/Nav'
+import LeistungRatgeber from '../../components/LeistungRatgeber'
 import OrteDerLeistung from '../../components/OrteDerLeistung'
 
 const fadeUp = {
@@ -388,6 +389,14 @@ const faqs = [
     a: 'Absolut. Barrierefreier Umbau — bodengleiche Dusche, Haltegriffe, breitere Türen — ist eines unserer häufigsten Vermittlungsthemen. Wir vermitteln spezialisierte Fachbetriebe, die solche Umbauten routiniert und förderfähig umsetzen.',
   },
   {
+    q: 'Kann ich während der Badsanierung im Haus wohnen bleiben?',
+    a: 'In der Regel ja. Gibt es kein zweites WC oder keine zweite Dusche, lassen sich Übergangslösungen oft mit dem Betrieb abstimmen; die Bauphase mit gesperrtem Bad hängt vom Umfang ab.',
+  },
+  {
+    q: 'Welche Angaben helfen für ein passendes Angebot?',
+    a: 'Raummaße, einige Fotos, das ungefähre Baujahr des Hauses und Ihre Wünsche – etwa Dusche statt Wanne oder ein barrierearmes Bad. Damit kann der Betrieb den Besichtigungstermin gezielt vorbereiten.',
+  },
+  {
     q: 'Was kostet die Vermittlung eines Bad-Fachbetriebs?',
     a: 'Unsere Vermittlung ist für Sie vollständig kostenlos und unverbindlich. Die Kosten tragen die Fachbetriebe — Sie zahlen keinen Aufschlag und gehen keinerlei Verpflichtung ein.',
   },
@@ -489,16 +498,11 @@ function SeoText() {
 }
 
 /* ── Page ─────────────────────────────────────────────────────────────────── */
+// aus den sichtbaren FAQ erzeugt — JSON-LD und Seite können nicht auseinanderlaufen
 const faqSchema = {
   '@context': 'https://schema.org',
   '@type': 'FAQPage',
-  mainEntity: [
-    { '@type': 'Question', name: 'Wie lange dauert eine komplette Badsanierung?', acceptedAnswer: { '@type': 'Answer', text: 'Eine typische Badsanierung dauert je nach Größe und Umfang zwischen zwei und vier Wochen. Bei aufwendigeren Projekten mit Installationsarbeiten, neuen Leitungen oder barrierefreiem Umbau kann es etwas länger dauern. Der vermittelte Fachbetrieb gibt Ihnen nach der Besichtigung eine verbindliche Zeitplanung.' } },
-    { '@type': 'Question', name: 'Was kostet ein neues Badezimmer am Bodensee?', acceptedAnswer: { '@type': 'Answer', text: 'Die Kosten hängen stark von Größe, Materialwahl und Umfang der Arbeiten ab. Ein einfaches Standardbad startet ab ca. 8.000–12.000 €, ein hochwertiges Designbad kann deutlich mehr kosten. Der vermittelte Fachbetrieb erstellt Ihnen ein transparentes Angebot — auf Wunsch als Festpreis.' } },
-    { '@type': 'Question', name: 'Welche Sanitärbetriebe vermitteln Sie?', acceptedAnswer: { '@type': 'Answer', text: 'Wir vermitteln Sanitärbetriebe aus der Bodenseeregion. Für Installationsarbeiten an wasser- und gasführenden Leitungen gelten die gesetzlichen Vorgaben der Handwerksordnung, die der jeweils ausführende Betrieb einzuhalten hat.' } },
-    { '@type': 'Question', name: 'Kann ich auch ein barrierefreies Bad umbauen lassen?', acceptedAnswer: { '@type': 'Answer', text: 'Absolut. Barrierefreier Umbau — bodengleiche Dusche, Haltegriffe, breitere Türen — ist eines unserer häufigsten Vermittlungsthemen. Wir vermitteln spezialisierte Fachbetriebe, die solche Umbauten routiniert und förderfähig umsetzen.' } },
-    { '@type': 'Question', name: 'Was kostet die Vermittlung eines Bad-Fachbetriebs?', acceptedAnswer: { '@type': 'Answer', text: 'Unsere Vermittlung ist für Sie vollständig kostenlos und unverbindlich. Die Kosten tragen die Fachbetriebe — Sie zahlen keinen Aufschlag und gehen keinerlei Verpflichtung ein.' } },
-  ],
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
 }
 
 const serviceSchema = {
@@ -531,6 +535,7 @@ export default function BadSanitaerPage() {
       <Prozess />
       <Warum />
       <CTABand />
+      <LeistungRatgeber leistung="bad-sanitaer" />
       <OrteDerLeistung leistung="bad-sanitaer" />
       <FAQ />
       <SeoText />

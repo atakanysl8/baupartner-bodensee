@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   alternates: { canonical: '/leistungen/innenausbau/' },
-  title: 'Innenausbau Bodensee – Trockenbau, Parkett & Dachausbau | Bodensee BauPartner',
+  title: 'Innenausbau am Bodensee – Trockenbau & Dachausbau',
   description:
-    'Innenausbau-Spezialisten am Bodensee: Trockenbau, Bodenbeläge, Malerarbeiten, Dachgeschossausbau & Türen. Kostenlose Vermittlung durch Bodensee BauPartner GbR.',
+    'Trockenbau, Dachgeschossausbau, Böden oder Malerarbeiten: Wir vermitteln Ihnen einen passenden Innenausbau-Fachbetrieb am Bodensee – kostenlos.',
   openGraph: {
     title: 'Innenausbau am Bodensee – Bodensee BauPartner',
     description:

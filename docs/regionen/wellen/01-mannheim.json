@@ -1,0 +1,65 @@
+[
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "mannheim",
+  "ortName": "Mannheim",
+  "amtlicherName": "Mannheim",
+  "kreis": "Mannheim",
+  "einwohner": 319536,
+  "volumen": 180
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "mannheim",
+  "ortName": "Mannheim",
+  "amtlicherName": "Mannheim",
+  "kreis": "Mannheim",
+  "einwohner": 319536,
+  "volumen": 530
+ },
+ {
+  "leistung": "renovierung-sanierung",
+  "ort": "mannheim",
+  "ortName": "Mannheim",
+  "amtlicherName": "Mannheim",
+  "kreis": "Mannheim",
+  "einwohner": 319536,
+  "volumen": 50
+ },
+ {
+  "leistung": "innenausbau",
+  "ort": "mannheim",
+  "ortName": "Mannheim",
+  "amtlicherName": "Mannheim",
+  "kreis": "Mannheim",
+  "einwohner": 319536,
+  "volumen": 40
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "heidelberg",
+  "ortName": "Heidelberg",
+  "amtlicherName": "Heidelberg",
+  "kreis": "Heidelberg",
+  "einwohner": 156092,
+  "volumen": 120
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "heidelberg",
+  "ortName": "Heidelberg",
+  "amtlicherName": "Heidelberg",
+  "kreis": "Heidelberg",
+  "einwohner": 156092,
+  "volumen": 170
+ },
+ {
+  "leistung": "innenausbau",
+  "ort": "heidelberg",
+  "ortName": "Heidelberg",
+  "amtlicherName": "Heidelberg",
+  "kreis": "Heidelberg",
+  "einwohner": 156092,
+  "volumen": 30
+ }
+]

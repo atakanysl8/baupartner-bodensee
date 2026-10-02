@@ -1,0 +1,92 @@
+[
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "weinheim",
+  "ortName": "Weinheim",
+  "amtlicherName": "Weinheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 45919,
+  "volumen": 30
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "weinheim",
+  "ortName": "Weinheim",
+  "amtlicherName": "Weinheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 45919,
+  "volumen": 140
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "sinsheim",
+  "ortName": "Sinsheim",
+  "amtlicherName": "Sinsheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 37105,
+  "volumen": 20
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "sinsheim",
+  "ortName": "Sinsheim",
+  "amtlicherName": "Sinsheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 37105,
+  "volumen": 80
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "schwetzingen",
+  "ortName": "Schwetzingen",
+  "amtlicherName": "Schwetzingen",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 21864,
+  "volumen": 20
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "mosbach",
+  "ortName": "Mosbach",
+  "amtlicherName": "Mosbach",
+  "kreis": "Neckar-Odenwald-Kreis",
+  "einwohner": 24393,
+  "volumen": 20
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "rastatt",
+  "ortName": "Rastatt",
+  "amtlicherName": "Rastatt",
+  "kreis": "Rastatt",
+  "einwohner": 50753,
+  "volumen": 40
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "rastatt",
+  "ortName": "Rastatt",
+  "amtlicherName": "Rastatt",
+  "kreis": "Rastatt",
+  "einwohner": 50753,
+  "volumen": 90
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "baden-baden",
+  "ortName": "Baden-Baden",
+  "amtlicherName": "Baden-Baden",
+  "kreis": "Baden-Baden",
+  "einwohner": 56952,
+  "volumen": 40
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "baden-baden",
+  "ortName": "Baden-Baden",
+  "amtlicherName": "Baden-Baden",
+  "kreis": "Baden-Baden",
+  "einwohner": 56952,
+  "volumen": 50
+ }
+]

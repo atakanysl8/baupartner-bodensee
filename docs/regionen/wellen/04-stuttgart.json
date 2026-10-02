@@ -1,0 +1,83 @@
+[
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "stuttgart",
+  "ortName": "Stuttgart",
+  "amtlicherName": "Stuttgart",
+  "kreis": "Stuttgart",
+  "einwohner": 609365,
+  "volumen": 230
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "stuttgart",
+  "ortName": "Stuttgart",
+  "amtlicherName": "Stuttgart",
+  "kreis": "Stuttgart",
+  "einwohner": 609365,
+  "volumen": 930
+ },
+ {
+  "leistung": "renovierung-sanierung",
+  "ort": "stuttgart",
+  "ortName": "Stuttgart",
+  "amtlicherName": "Stuttgart",
+  "kreis": "Stuttgart",
+  "einwohner": 609365,
+  "volumen": 210
+ },
+ {
+  "leistung": "innenausbau",
+  "ort": "stuttgart",
+  "ortName": "Stuttgart",
+  "amtlicherName": "Stuttgart",
+  "kreis": "Stuttgart",
+  "einwohner": 609365,
+  "volumen": 90
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "ludwigsburg",
+  "ortName": "Ludwigsburg",
+  "amtlicherName": "Ludwigsburg",
+  "kreis": "Ludwigsburg",
+  "einwohner": 93002,
+  "volumen": 90
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "ludwigsburg",
+  "ortName": "Ludwigsburg",
+  "amtlicherName": "Ludwigsburg",
+  "kreis": "Ludwigsburg",
+  "einwohner": 93002,
+  "volumen": 230
+ },
+ {
+  "leistung": "renovierung-sanierung",
+  "ort": "ludwigsburg",
+  "ortName": "Ludwigsburg",
+  "amtlicherName": "Ludwigsburg",
+  "kreis": "Ludwigsburg",
+  "einwohner": 93002,
+  "volumen": 30
+ },
+ {
+  "leistung": "innenausbau",
+  "ort": "ludwigsburg",
+  "ortName": "Ludwigsburg",
+  "amtlicherName": "Ludwigsburg",
+  "kreis": "Ludwigsburg",
+  "einwohner": 93002,
+  "volumen": 30
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "bietigheim-bissingen",
+  "ortName": "Bietigheim-Bissingen",
+  "amtlicherName": "Bietigheim-Bissingen",
+  "kreis": "Ludwigsburg",
+  "einwohner": 43354,
+  "volumen": 30
+ }
+]

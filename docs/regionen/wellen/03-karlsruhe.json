@@ -1,0 +1,83 @@
+[
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "karlsruhe",
+  "ortName": "Karlsruhe",
+  "amtlicherName": "Karlsruhe",
+  "kreis": "Karlsruhe",
+  "einwohner": 309247,
+  "volumen": 160
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "karlsruhe",
+  "ortName": "Karlsruhe",
+  "amtlicherName": "Karlsruhe",
+  "kreis": "Karlsruhe",
+  "einwohner": 309247,
+  "volumen": 800
+ },
+ {
+  "leistung": "renovierung-sanierung",
+  "ort": "karlsruhe",
+  "ortName": "Karlsruhe",
+  "amtlicherName": "Karlsruhe",
+  "kreis": "Karlsruhe",
+  "einwohner": 309247,
+  "volumen": 60
+ },
+ {
+  "leistung": "innenausbau",
+  "ort": "karlsruhe",
+  "ortName": "Karlsruhe",
+  "amtlicherName": "Karlsruhe",
+  "kreis": "Karlsruhe",
+  "einwohner": 309247,
+  "volumen": 30
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "bruchsal",
+  "ortName": "Bruchsal",
+  "amtlicherName": "Bruchsal",
+  "kreis": "Karlsruhe",
+  "einwohner": 47578,
+  "volumen": 20
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "bruchsal",
+  "ortName": "Bruchsal",
+  "amtlicherName": "Bruchsal",
+  "kreis": "Karlsruhe",
+  "einwohner": 47578,
+  "volumen": 440
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "ettlingen",
+  "ortName": "Ettlingen",
+  "amtlicherName": "Ettlingen",
+  "kreis": "Karlsruhe",
+  "einwohner": 38557,
+  "volumen": 40
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "pforzheim",
+  "ortName": "Pforzheim",
+  "amtlicherName": "Pforzheim",
+  "kreis": "Pforzheim",
+  "einwohner": 134422,
+  "volumen": 60
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "pforzheim",
+  "ortName": "Pforzheim",
+  "amtlicherName": "Pforzheim",
+  "kreis": "Pforzheim",
+  "einwohner": 134422,
+  "volumen": 230
+ }
+]

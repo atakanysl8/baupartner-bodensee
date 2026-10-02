@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   alternates: { canonical: '/leistungen/tiefbau/' },
-  title: 'Tiefbau am Bodensee – Erdarbeiten & Kanalbau | Bodensee BauPartner',
+  title: 'Tiefbau am Bodensee – Erdarbeiten & Kanalanschluss',
   description:
-    'Tiefbau-Fachbetriebe in der Bodenseeregion: Erdarbeiten, Fundamentierung, Kanal- & Leitungsbau, Straßenbau. Kostenlose Vermittlung durch Bodensee BauPartner GbR.',
+    'Erdarbeiten, Kanalanschluss, Hausanschluss oder Drainage: Wir vermitteln Ihnen einen passenden Tiefbaubetrieb am Bodensee – kostenlos und unverbindlich.',
   openGraph: {
     title: 'Tiefbau am Bodensee – Bodensee BauPartner',
     description:

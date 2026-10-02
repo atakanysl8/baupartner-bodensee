@@ -1,0 +1,9 @@
+{
+  "quelle": "OpenSEO run_site_audit, auditId 6ad7a0c9-0aa1-4472-b8f1-016442859a02, https://www.bodensee-baupartner.de/, 12 Seiten, abgeschlossen 2026-10-02T13:05:54Z",
+  "befunde": [
+    { "typ": "heading-order-skip", "schwere": "info", "seiten": ["/", "/ueber-uns/", "/impressum/", "/datenschutz/"] },
+    { "typ": "noindex-page", "schwere": "info", "seiten": ["/impressum/", "/datenschutz/"], "bewertung": "gewollt" },
+    { "typ": "slow-response", "schwere": "info", "seiten": [{ "url": "/ueber-uns/", "ms": 10512 }, { "url": "/impressum/", "ms": 3079 }], "bewertung": "Hosting (Hostinger), statische Dateien — nicht im Code lösbar" },
+    { "typ": "title-too-long", "schwere": "info", "seiten": [{ "url": "/", "zeichen": 69 }, { "url": "/ueber-uns/", "zeichen": 67 }] }
+  ]
+}

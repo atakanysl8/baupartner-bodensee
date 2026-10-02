@@ -1,0 +1,83 @@
+[
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "heilbronn",
+  "ortName": "Heilbronn",
+  "amtlicherName": "Heilbronn",
+  "kreis": "Heilbronn",
+  "einwohner": 132516,
+  "volumen": 80
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "heilbronn",
+  "ortName": "Heilbronn",
+  "amtlicherName": "Heilbronn",
+  "kreis": "Heilbronn",
+  "einwohner": 132516,
+  "volumen": 370
+ },
+ {
+  "leistung": "renovierung-sanierung",
+  "ort": "heilbronn",
+  "ortName": "Heilbronn",
+  "amtlicherName": "Heilbronn",
+  "kreis": "Heilbronn",
+  "einwohner": 132516,
+  "volumen": 60
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "bad-rappenau",
+  "ortName": "Bad Rappenau",
+  "amtlicherName": "Bad Rappenau",
+  "kreis": "Heilbronn",
+  "einwohner": 22728,
+  "volumen": 20
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "waiblingen",
+  "ortName": "Waiblingen",
+  "amtlicherName": "Waiblingen",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 57186,
+  "volumen": 50
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "schorndorf",
+  "ortName": "Schorndorf",
+  "amtlicherName": "Schorndorf",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 41469,
+  "volumen": 20
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "oehringen",
+  "ortName": "Öhringen",
+  "amtlicherName": "Öhringen",
+  "kreis": "Hohenlohekreis",
+  "einwohner": 25871,
+  "volumen": 60
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "schwaebisch-hall",
+  "ortName": "Schwäbisch Hall",
+  "amtlicherName": "Schwäbisch Hall",
+  "kreis": "Schwäbisch Hall",
+  "einwohner": 42705,
+  "volumen": 120
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "crailsheim",
+  "ortName": "Crailsheim",
+  "amtlicherName": "Crailsheim",
+  "kreis": "Schwäbisch Hall",
+  "einwohner": 35905,
+  "volumen": 110
+ }
+]

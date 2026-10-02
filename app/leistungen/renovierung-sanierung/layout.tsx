@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   alternates: { canonical: '/leistungen/renovierung-sanierung/' },
-  title: 'Energetische Sanierung Bodensee – KfW Förderung & Kernsanierung | Bodensee BauPartner',
+  title: 'Sanierung am Bodensee – Kernsanierung & Altbau',
   description:
-    'Sanierungs-Fachbetriebe am Bodensee: Kernsanierung, Heizungsaustausch, Dämmung & KfW-Förderung. Kostenlose Vermittlung durch Bodensee BauPartner GbR.',
+    'Kernsanierung, energetische Sanierung oder Altbau modernisieren: Wir vermitteln Ihnen einen passenden Sanierungs-Fachbetrieb am Bodensee – kostenlos.',
   openGraph: {
     title: 'Renovierung & Sanierung am Bodensee – Bodensee BauPartner',
     description:

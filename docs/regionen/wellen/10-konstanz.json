@@ -1,0 +1,47 @@
+[
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "konstanz",
+  "ortName": "Konstanz",
+  "amtlicherName": "Konstanz",
+  "kreis": "Konstanz",
+  "einwohner": 86691,
+  "volumen": 30
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "konstanz",
+  "ortName": "Konstanz",
+  "amtlicherName": "Konstanz",
+  "kreis": "Konstanz",
+  "einwohner": 86691,
+  "volumen": 50
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "singen",
+  "ortName": "Singen",
+  "amtlicherName": "Singen (Hohentwiel)",
+  "kreis": "Konstanz",
+  "einwohner": 48089,
+  "volumen": 90
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "friedrichshafen",
+  "ortName": "Friedrichshafen",
+  "amtlicherName": "Friedrichshafen",
+  "kreis": "Bodenseekreis",
+  "einwohner": 62781,
+  "volumen": 30
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "friedrichshafen",
+  "ortName": "Friedrichshafen",
+  "amtlicherName": "Friedrichshafen",
+  "kreis": "Bodenseekreis",
+  "einwohner": 62781,
+  "volumen": 120
+ }
+]

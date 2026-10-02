@@ -5,6 +5,7 @@ import { useState, useRef } from 'react'
 import Image from 'next/image'
 import Footer from '../../components/Footer'
 import Nav from '../../components/Nav'
+import LeistungRatgeber from '../../components/LeistungRatgeber'
 
 const fadeUp = {
   hidden: { opacity: 0, y: 28 },
@@ -280,7 +281,7 @@ function Warum() {
               <h2>Warum Bodensee <em>BauPartner?</em></h2>
             </motion.div>
             <motion.p className="hb-why-text" variants={fadeUp}>
-              Tiefbau verlangt Präzision. Ohne perfekte Erdarbeiten bleibt kein Haus stabil. Wir vernetzen Sie blitzschnell mit erfahrenen Tiefbauern aus der Bodenseeregion.
+              Tiefbau verlangt Präzision. Ohne saubere Erdarbeiten bleibt kein Haus stabil. Wir vermitteln Ihnen unkompliziert einen passenden Tiefbaubetrieb aus der Bodenseeregion.
             </motion.p>
             <motion.a
               href="/#kontakt"
@@ -381,12 +382,20 @@ const faqs = [
     a: 'Das hängt von Art und Umfang der Arbeiten ab. Für Kanalbauarbeiten, Leitungsverlegungen und größere Erdarbeiten sind in der Regel Genehmigungen und Leitungsauskünfte erforderlich. Die vermittelten Fachbetriebe kennen die regionalen Vorschriften und begleiten Sie durch den Prozess.',
   },
   {
-    q: 'Kann ich für dringende Tiefbauarbeiten — z. B. Kanalschaden — anfragen?',
-    a: 'Ja. Melden Sie sich direkt per Telefon, dann können wir schnellstmöglich einen geeigneten Betrieb aus der Region kontaktieren. Für Notfälle empfehlen wir den telefonischen Weg für eine schnellere Reaktion.',
+    q: 'Kann ich auch eine Reparatur – z. B. am Hausanschluss oder an der Entwässerung – anfragen?',
+    a: 'Ja, auch Reparaturen an Leitungen oder an der Grundstücksentwässerung können Sie anfragen. Einen Notdienst bieten wir nicht an; bei Schäden an öffentlichen Leitungen ist der jeweilige Versorger bzw. die Gemeinde zuständig.',
   },
   {
     q: 'Wie läuft die Vermittlung eines Tiefbau-Betriebs ab?',
     a: 'Sie beschreiben uns Ihr Vorhaben — Lage, Umfang und Zeitplan. Wir wählen den passenden Fachbetrieb aus, stellen den Kontakt her und übergeben alle Informationen. Den Rest klären Sie direkt mit dem Betrieb — schnell, kostenlos und unverbindlich.',
+  },
+  {
+    q: 'Wer ist für die Entwässerung auf meinem Grundstück zuständig?',
+    a: 'Leitungen auf dem privaten Grundstück liegen in der Regel in der Verantwortung der Eigentümer. Welche technischen Vorgaben gelten und ob ein Entwässerungsantrag nötig ist, regelt die Entwässerungssatzung der Gemeinde.',
+  },
+  {
+    q: 'Ist vor Erdarbeiten ein Baugrundgutachten sinnvoll?',
+    a: 'Bei Neubauten und größeren Erdarbeiten in der Regel ja: Es zeigt Bodenart, Tragfähigkeit und Grundwasser und macht Mengen und Kosten besser kalkulierbar.',
   },
   {
     q: 'Was kostet mich die Tiefbau-Vermittlung?',
@@ -490,16 +499,11 @@ function SeoText() {
 }
 
 /* ── Page ─────────────────────────────────────────────────────────────────── */
+// aus den sichtbaren FAQ erzeugt — JSON-LD und Seite können nicht auseinanderlaufen
 const faqSchema = {
   '@context': 'https://schema.org',
   '@type': 'FAQPage',
-  mainEntity: [
-    { '@type': 'Question', name: 'Was zählt alles zum Tiefbau?', acceptedAnswer: { '@type': 'Answer', text: 'Zum Tiefbau gehören alle Arbeiten unterhalb der Erdoberfläche: Erdaushub, Fundamentierung, Bodenplatte, Kanal- und Leitungsbau, Straßen- und Wegebau sowie Hangsicherung und Spundwände. Wir vermitteln Fachbetriebe für alle diese Bereiche.' } },
-    { '@type': 'Question', name: 'Brauche ich für Tiefbauarbeiten eine Genehmigung?', acceptedAnswer: { '@type': 'Answer', text: 'Das hängt von Art und Umfang der Arbeiten ab. Für Kanalbauarbeiten, Leitungsverlegungen und größere Erdarbeiten sind in der Regel Genehmigungen und Leitungsauskünfte erforderlich. Die vermittelten Fachbetriebe kennen die regionalen Vorschriften und begleiten Sie durch den Prozess.' } },
-    { '@type': 'Question', name: 'Kann ich für dringende Tiefbauarbeiten — z. B. Kanalschaden — anfragen?', acceptedAnswer: { '@type': 'Answer', text: 'Ja. Melden Sie sich direkt per Telefon, dann können wir schnellstmöglich einen geeigneten Betrieb aus der Region kontaktieren. Für Notfälle empfehlen wir den telefonischen Weg für eine schnellere Reaktion.' } },
-    { '@type': 'Question', name: 'Wie läuft die Vermittlung eines Tiefbau-Betriebs ab?', acceptedAnswer: { '@type': 'Answer', text: 'Sie beschreiben uns Ihr Vorhaben — Lage, Umfang und Zeitplan. Wir wählen den passenden Fachbetrieb aus, stellen den Kontakt her und übergeben alle Informationen. Den Rest klären Sie direkt mit dem Betrieb — schnell, kostenlos und unverbindlich.' } },
-    { '@type': 'Question', name: 'Was kostet mich die Tiefbau-Vermittlung?', acceptedAnswer: { '@type': 'Answer', text: 'Unsere Vermittlung ist für Sie vollständig kostenlos und unverbindlich. Die Kosten tragen die Fachbetriebe — Sie zahlen keinen Aufschlag und gehen keinerlei Verpflichtung ein.' } },
-  ],
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
 }
 
 const serviceSchema = {
@@ -532,6 +536,7 @@ export default function TiefbauPage() {
       <Prozess />
       <Warum />
       <CTABand />
+      <LeistungRatgeber leistung="tiefbau" />
       <FAQ />
       <SeoText />
       <Footer />

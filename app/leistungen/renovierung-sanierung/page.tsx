@@ -5,6 +5,7 @@ import { useState, useRef } from 'react'
 import Image from 'next/image'
 import Footer from '../../components/Footer'
 import Nav from '../../components/Nav'
+import LeistungRatgeber from '../../components/LeistungRatgeber'
 import OrteDerLeistung from '../../components/OrteDerLeistung'
 
 const fadeUp = {
@@ -374,7 +375,7 @@ function CTABand() {
 const faqs = [
   {
     q: 'Welche staatlichen Förderungen gibt es für Sanierungen am Bodensee?',
-    a: 'Für energetische Sanierungen stehen verschiedene Förderprogramme zur Verfügung: KfW-Bundesförderung für effiziente Gebäude (BEG), BAFA-Zuschüsse für Heizungsaustausch und Dämmmaßnahmen sowie ggf. Landesmittel in Baden-Württemberg. Die vermittelten Fachbetriebe kennen die aktuellen Programme und begleiten Sie bei der Antragstellung.',
+    a: 'Für energetische Sanierungen stehen verschiedene Förderprogramme zur Verfügung: KfW-Bundesförderung für effiziente Gebäude (BEG), BAFA-Zuschüsse für Heizungsaustausch und Dämmmaßnahmen sowie ggf. Landesmittel in Baden-Württemberg. Welche Programme und Bedingungen aktuell gelten, erfahren Sie bei KfW, BAFA und L-Bank sowie bei einer Energieberatung.',
   },
   {
     q: 'Was ist eine Kernsanierung und wann lohnt sie sich?',
@@ -382,11 +383,19 @@ const faqs = [
   },
   {
     q: 'Wie viel kann ich durch eine energetische Sanierung sparen?',
-    a: 'Das hängt vom Ausgangszustand des Gebäudes und den durchgeführten Maßnahmen ab. In der Praxis berichten Eigentümer nach einer umfassenden energetischen Sanierung oft von 30–60 % Energieeinsparung. Besonders wirkungsvoll sind Dachdämmung, Fassadendämmung, neue Fenster und ein moderner Heizungsaustausch.',
+    a: 'Das hängt vom Ausgangszustand des Gebäudes und den durchgeführten Maßnahmen ab. Wie viel Energie sich in Ihrem Haus einsparen lässt, beziffert ein individueller Sanierungsfahrplan der Energieberatung. Häufig betrachtet werden Dach- und Fassadendämmung, Fenster und die Heizung.',
   },
   {
     q: 'Können die vermittelten Betriebe bei KfW- und BAFA-Anträgen helfen?',
-    a: 'Ja. Viele der vermittelten Fachbetriebe sind als Energieeffizienz-Experten anerkannt oder arbeiten regelmäßig mit solchen zusammen. Für KfW-Förderungen ist ein zugelassener Energie-Effizienz-Experte (EEE) verpflichtend — wir achten darauf, dass Ihnen der richtige Betrieb vermittelt wird.',
+    a: 'Ja. Für viele KfW-Förderungen ist die Einbindung eines Energieeffizienz-Experten Voraussetzung. Wenn Sie eine Förderung planen, nennen Sie das in Ihrer Anfrage – wir berücksichtigen es bei der Auswahl des Betriebs.',
+  },
+  {
+    q: 'In welcher Reihenfolge wird ein Haus sinnvoll saniert?',
+    a: 'Häufig zuerst die Gebäudehülle (Dach, Fassade, Fenster), danach die Haustechnik – so lässt sich die Heizung auf den geringeren Wärmebedarf auslegen. Ein Sanierungsfahrplan der Energieberatung legt die Reihenfolge für Ihr Haus fest.',
+  },
+  {
+    q: 'Muss ich im Altbau mit Schadstoffen rechnen?',
+    a: 'Je nach Baujahr können Baustoffe wie asbesthaltige Platten oder belastete Kleber verbaut sein. Eine Bestandsaufnahme vor Beginn klärt das; der Umgang damit unterliegt besonderen Vorschriften.',
   },
   {
     q: 'Was kostet die Vermittlung eines Sanierungs-Fachbetriebs?',
@@ -490,16 +499,11 @@ function SeoText() {
 }
 
 /* ── Page ─────────────────────────────────────────────────────────────────── */
+// aus den sichtbaren FAQ erzeugt — JSON-LD und Seite können nicht auseinanderlaufen
 const faqSchema = {
   '@context': 'https://schema.org',
   '@type': 'FAQPage',
-  mainEntity: [
-    { '@type': 'Question', name: 'Welche staatlichen Förderungen gibt es für Sanierungen am Bodensee?', acceptedAnswer: { '@type': 'Answer', text: 'Für energetische Sanierungen stehen verschiedene Förderprogramme zur Verfügung: KfW-Bundesförderung für effiziente Gebäude (BEG), BAFA-Zuschüsse für Heizungsaustausch und Dämmmaßnahmen sowie ggf. Landesmittel in Baden-Württemberg. Die vermittelten Fachbetriebe kennen die aktuellen Programme und begleiten Sie bei der Antragstellung.' } },
-    { '@type': 'Question', name: 'Was ist eine Kernsanierung und wann lohnt sie sich?', acceptedAnswer: { '@type': 'Answer', text: 'Bei einer Kernsanierung wird ein Gebäude bis auf die tragende Struktur zurückgebaut und vollständig modernisiert — Elektrik, Sanitär, Heizung, Dämmung, Innenausbau. Das lohnt sich besonders bei stark veralteten Gebäuden, wenn Einzelmaßnahmen wirtschaftlich nicht sinnvoll wären oder wenn ein Altbau auf den Stand eines Neubaus gebracht werden soll.' } },
-    { '@type': 'Question', name: 'Wie viel kann ich durch eine energetische Sanierung sparen?', acceptedAnswer: { '@type': 'Answer', text: 'Das hängt vom Ausgangszustand des Gebäudes und den durchgeführten Maßnahmen ab. In der Praxis berichten Eigentümer nach einer umfassenden energetischen Sanierung oft von 30–60 % Energieeinsparung. Besonders wirkungsvoll sind Dachdämmung, Fassadendämmung, neue Fenster und ein moderner Heizungsaustausch.' } },
-    { '@type': 'Question', name: 'Können die vermittelten Betriebe bei KfW- und BAFA-Anträgen helfen?', acceptedAnswer: { '@type': 'Answer', text: 'Ja. Viele der vermittelten Fachbetriebe sind als Energieeffizienz-Experten anerkannt oder arbeiten regelmäßig mit solchen zusammen. Für KfW-Förderungen ist ein zugelassener Energie-Effizienz-Experte (EEE) verpflichtend — wir achten darauf, dass Ihnen der richtige Betrieb vermittelt wird.' } },
-    { '@type': 'Question', name: 'Was kostet die Vermittlung eines Sanierungs-Fachbetriebs?', acceptedAnswer: { '@type': 'Answer', text: 'Unsere Vermittlung ist für Sie vollständig kostenlos und unverbindlich. Die Kosten tragen die Fachbetriebe — Sie zahlen keinen Aufschlag auf das Handwerkerangebot und gehen keinerlei Verpflichtung ein.' } },
-  ],
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
 }
 
 const serviceSchema = {
@@ -532,6 +536,7 @@ export default function RenovierungSanierungPage() {
       <Prozess />
       <Warum />
       <CTABand />
+      <LeistungRatgeber leistung="renovierung-sanierung" />
       <OrteDerLeistung leistung="renovierung-sanierung" />
       <FAQ />
       <SeoText />

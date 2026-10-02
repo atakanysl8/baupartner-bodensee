@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   alternates: { canonical: '/ueber-uns/' },
-  title: 'Über uns – Bodensee BauPartner GbR | Ihr Bau-Vermittler am Bodensee',
+  title: 'Über uns – Bodensee BauPartner GbR aus Überlingen',
   description:
     'Lernen Sie Bodensee BauPartner GbR kennen – Luca-Matei Brezeanu & Atakan Yigit vermitteln in Überlingen Fachbetriebe für Bauprojekte in der Bodenseeregion.',
   openGraph: {

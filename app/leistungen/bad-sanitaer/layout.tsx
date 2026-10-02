@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   alternates: { canonical: '/leistungen/bad-sanitaer/' },
-  title: 'Badezimmer renovieren Bodensee – Sanitärbetriebe | Bodensee BauPartner',
+  title: 'Badsanierung am Bodensee – Kosten, Ablauf & Fachbetrieb',
   description:
-    'Sanitärbetriebe für Badsanierung, barrierefreies Bad & Badezimmer-Renovierung am Bodensee. Kostenlose Vermittlung durch Bodensee BauPartner GbR.',
+    'Badsanierung, barrierefreies Bad oder neues Gäste-WC: Wir vermitteln Ihnen einen passenden Sanitär-Fachbetrieb am Bodensee – kostenlos und unverbindlich.',
   openGraph: {
     title: 'Bad & Sanitär am Bodensee – Bodensee BauPartner',
     description:

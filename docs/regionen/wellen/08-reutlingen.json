@@ -1,0 +1,101 @@
+[
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "reutlingen",
+  "ortName": "Reutlingen",
+  "amtlicherName": "Reutlingen",
+  "kreis": "Reutlingen",
+  "einwohner": 119040,
+  "volumen": 80
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "reutlingen",
+  "ortName": "Reutlingen",
+  "amtlicherName": "Reutlingen",
+  "kreis": "Reutlingen",
+  "einwohner": 119040,
+  "volumen": 220
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "esslingen",
+  "ortName": "Esslingen",
+  "amtlicherName": "Esslingen am Neckar",
+  "kreis": "Esslingen",
+  "einwohner": 95419,
+  "volumen": 30
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "esslingen",
+  "ortName": "Esslingen",
+  "amtlicherName": "Esslingen am Neckar",
+  "kreis": "Esslingen",
+  "einwohner": 95419,
+  "volumen": 160
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "goeppingen",
+  "ortName": "Göppingen",
+  "amtlicherName": "Göppingen",
+  "kreis": "Göppingen",
+  "einwohner": 58678,
+  "volumen": 40
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "goeppingen",
+  "ortName": "Göppingen",
+  "amtlicherName": "Göppingen",
+  "kreis": "Göppingen",
+  "einwohner": 58678,
+  "volumen": 160
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "ulm",
+  "ortName": "Ulm",
+  "amtlicherName": "Ulm",
+  "kreis": "Ulm",
+  "einwohner": 130288,
+  "volumen": 120
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "ulm",
+  "ortName": "Ulm",
+  "amtlicherName": "Ulm",
+  "kreis": "Ulm",
+  "einwohner": 130288,
+  "volumen": 580
+ },
+ {
+  "leistung": "renovierung-sanierung",
+  "ort": "ulm",
+  "ortName": "Ulm",
+  "amtlicherName": "Ulm",
+  "kreis": "Ulm",
+  "einwohner": 130288,
+  "volumen": 70
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "heidenheim",
+  "ortName": "Heidenheim",
+  "amtlicherName": "Heidenheim an der Brenz",
+  "kreis": "Heidenheim",
+  "einwohner": 50612,
+  "volumen": 20
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "heidenheim",
+  "ortName": "Heidenheim",
+  "amtlicherName": "Heidenheim an der Brenz",
+  "kreis": "Heidenheim",
+  "einwohner": 50612,
+  "volumen": 120
+ }
+]

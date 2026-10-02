@@ -21,7 +21,7 @@ export default function Footer() {
             </p>
           </div>
           <div className="footer-col">
-            <h5>Leistungen</h5>
+            <p className="footer-col-titel">Leistungen</p>
             <a href="/leistungen/hochbau">Hochbau</a>
             <a href="/leistungen/tiefbau">Tiefbau</a>
             <a href="/leistungen/bad-sanitaer">Bad &amp; Sanitär</a>
@@ -29,7 +29,7 @@ export default function Footer() {
             <a href="/leistungen/renovierung-sanierung">Renovierung &amp; Sanierung</a>
           </div>
           <div className="footer-col">
-            <h5>Unternehmen</h5>
+            <p className="footer-col-titel">Unternehmen</p>
             <a href="/ueber-uns">Über uns</a>
             <a href="/#kontakt">Kontakt</a>
             <a href="/fuer-fachbetriebe">Für Fachbetriebe</a>

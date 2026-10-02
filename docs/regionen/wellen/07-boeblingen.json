@@ -1,0 +1,92 @@
+[
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "sindelfingen",
+  "ortName": "Sindelfingen",
+  "amtlicherName": "Sindelfingen",
+  "kreis": "Böblingen",
+  "einwohner": 61428,
+  "volumen": 30
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "boeblingen",
+  "ortName": "Böblingen",
+  "amtlicherName": "Böblingen",
+  "kreis": "Böblingen",
+  "einwohner": 51204,
+  "volumen": 40
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "boeblingen",
+  "ortName": "Böblingen",
+  "amtlicherName": "Böblingen",
+  "kreis": "Böblingen",
+  "einwohner": 51204,
+  "volumen": 120
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "leonberg",
+  "ortName": "Leonberg",
+  "amtlicherName": "Leonberg",
+  "kreis": "Böblingen",
+  "einwohner": 49514,
+  "volumen": 20
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "leonberg",
+  "ortName": "Leonberg",
+  "amtlicherName": "Leonberg",
+  "kreis": "Böblingen",
+  "einwohner": 49514,
+  "volumen": 140
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "herrenberg",
+  "ortName": "Herrenberg",
+  "amtlicherName": "Herrenberg",
+  "kreis": "Böblingen",
+  "einwohner": 34167,
+  "volumen": 20
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "herrenberg",
+  "ortName": "Herrenberg",
+  "amtlicherName": "Herrenberg",
+  "kreis": "Böblingen",
+  "einwohner": 34167,
+  "volumen": 70
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "tuebingen",
+  "ortName": "Tübingen",
+  "amtlicherName": "Tübingen",
+  "kreis": "Tübingen",
+  "einwohner": 92607,
+  "volumen": 50
+ },
+ {
+  "leistung": "hochbau",
+  "ort": "tuebingen",
+  "ortName": "Tübingen",
+  "amtlicherName": "Tübingen",
+  "kreis": "Tübingen",
+  "einwohner": 92607,
+  "volumen": 230
+ },
+ {
+  "leistung": "bad-sanitaer",
+  "ort": "rottenburg",
+  "ortName": "Rottenburg",
+  "amtlicherName": "Rottenburg am Neckar",
+  "kreis": "Tübingen",
+  "einwohner": 45579,
+  "volumen": 30
+ }
+]

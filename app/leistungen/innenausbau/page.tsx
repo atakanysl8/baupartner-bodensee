@@ -5,6 +5,7 @@ import { useState, useRef } from 'react'
 import Image from 'next/image'
 import Footer from '../../components/Footer'
 import Nav from '../../components/Nav'
+import LeistungRatgeber from '../../components/LeistungRatgeber'
 import OrteDerLeistung from '../../components/OrteDerLeistung'
 
 const fadeUp = {
@@ -46,7 +47,7 @@ function Hero() {
           </motion.p>
 
           <motion.p className="hb-hero-lead" variants={fadeUp}>
-            Der perfekte Feinschliff für Ihr Zuhause. Wir koordinieren die Suche und vermitteln Ihnen passende Gewerke – damit Ihre Wohnwelten nach Ihren Wünschen entstehen.
+            Der letzte Feinschliff für Ihr Zuhause. Wir koordinieren die Suche und vermitteln Ihnen passende Gewerke – damit Ihre Wohnwelten nach Ihren Wünschen entstehen.
           </motion.p>
 
           <motion.div className="hero-ctas" variants={fadeUp}>
@@ -88,7 +89,7 @@ const serviceItems = [
     ),
     title: 'Böden',
     desc: 'Fachbetriebe für Parkett, Fliesen & edle Böden',
-    detail: 'Von Echtholzparkett über großformatige Fliesen bis zum Designboden — wir finden den Verlege-Spezialisten, der Ihren Boden perfekt in Szene setzt.',
+    detail: 'Von Echtholzparkett über großformatige Fliesen bis zum Designboden — wir finden den Verlege-Spezialisten, der Ihren Boden fachgerecht verlegt.',
   },
   {
     icon: (
@@ -387,6 +388,14 @@ const faqs = [
     a: 'Parkett besteht aus echtem Holz und ist besonders langlebig, kann mehrfach abgeschliffen werden und wertet optisch stark auf. Designboden (LVT) ist günstiger, feuchtigkeitsbeständiger und einfacher zu verlegen — ideal für Küche, Bad oder Mietobjekte. Der vermittelte Fachbetrieb berät Sie vor Ort zu den passenden Optionen für Ihre Anforderungen.',
   },
   {
+    q: 'Brauche ich für den Dachgeschossausbau eine Genehmigung?',
+    a: 'Entsteht neuer Wohnraum, ist häufig ein Bauantrag erforderlich – maßgeblich sind Landesbauordnung und Bebauungsplan. Verbindliche Auskunft gibt die untere Baurechtsbehörde.',
+  },
+  {
+    q: 'Lassen sich Trockenbau, Elektro und Sanitär zusammen planen?',
+    a: 'Ja, und das ist sinnvoll: Leitungen werden vor dem Schließen der Wände verlegt. Beschreiben Sie in Ihrer Anfrage alle geplanten Arbeiten, dann kann die Reihenfolge von Anfang an abgestimmt werden.',
+  },
+  {
     q: 'Was kostet die Innenausbau-Vermittlung?',
     a: 'Unsere Vermittlung ist vollständig kostenlos und unverbindlich. Sie zahlen keinen Aufschlag auf das Handwerkerangebot. Die Kosten tragen die Fachbetriebe.',
   },
@@ -471,7 +480,7 @@ function SeoText() {
           <div className="seo-block">
             <h2 className="seo-heading">Parkett, Fliesen & Designböden in der Bodenseeregion verlegen lassen</h2>
             <p className="seo-body">
-              Der Boden gibt jedem Raum seinen Charakter. Von klassischem Echtholzparkett über großformatige Feinsteinzeug-Fliesen bis hin zu modernen Designböden (LVT) — unsere Verlege-Spezialisten in Überlingen, Friedrichshafen und Konstanz setzen Ihren Boden perfekt in Szene. Wir vermitteln den Betrieb, der zu Ihrem Stil, Budget und Untergrund passt.
+              Der Boden gibt jedem Raum seinen Charakter. Von klassischem Echtholzparkett über großformatige Feinsteinzeug-Fliesen bis hin zu modernen Designböden (LVT) — die vermittelten Verlege-Fachbetriebe setzen Ihren Boden fachgerecht in Szene. Wir vermitteln den Betrieb, der zu Ihrem Stil, Budget und Untergrund passt.
             </p>
           </div>
 
@@ -488,16 +497,11 @@ function SeoText() {
 }
 
 /* ── Page ─────────────────────────────────────────────────────────────────── */
+// aus den sichtbaren FAQ erzeugt — JSON-LD und Seite können nicht auseinanderlaufen
 const faqSchema = {
   '@context': 'https://schema.org',
   '@type': 'FAQPage',
-  mainEntity: [
-    { '@type': 'Question', name: 'Welche Innengewerke vermittelt Bodensee BauPartner?', acceptedAnswer: { '@type': 'Answer', text: 'Wir vermitteln Fachbetriebe für alle Innenausbaugewerke: Trockenbau, Bodenbeläge (Parkett, Fliesen, Designboden), Malerarbeiten, Tapezieren, Dachgeschossausbau sowie Türen und Innenverkleidungen. Sie nennen uns Ihr Projekt — wir finden den passenden Spezialisten.' } },
-    { '@type': 'Question', name: 'Wie lange dauert ein Dachgeschossausbau?', acceptedAnswer: { '@type': 'Answer', text: 'Die Dauer hängt vom Zustand des Dachstuhls, der gewünschten Ausbaustufe und dem Umfang der Dämmarbeiten ab. Ein durchschnittlicher Dachgeschossausbau dauert zwischen 6 und 14 Wochen. Der vermittelte Fachbetrieb gibt Ihnen nach einer ersten Besichtigung eine verbindliche Zeitplanung.' } },
-    { '@type': 'Question', name: 'Kann ich für mehrere Gewerke gleichzeitig anfragen — z. B. Boden und Maler?', acceptedAnswer: { '@type': 'Answer', text: 'Ja, absolut. Wir können für ein Projekt mehrere passende Fachbetriebe vermitteln oder einen Betrieb, der mehrere Gewerke abdeckt. Beschreiben Sie uns einfach alle gewünschten Leistungen — wir koordinieren die Vermittlung.' } },
-    { '@type': 'Question', name: 'Was ist der Unterschied zwischen Parkett und Designboden?', acceptedAnswer: { '@type': 'Answer', text: 'Parkett besteht aus echtem Holz und ist besonders langlebig, kann mehrfach abgeschliffen werden und wertet optisch stark auf. Designboden (LVT) ist günstiger, feuchtigkeitsbeständiger und einfacher zu verlegen — ideal für Küche, Bad oder Mietobjekte. Der vermittelte Fachbetrieb berät Sie vor Ort zu den passenden Optionen für Ihre Anforderungen.' } },
-    { '@type': 'Question', name: 'Was kostet die Innenausbau-Vermittlung?', acceptedAnswer: { '@type': 'Answer', text: 'Unsere Vermittlung ist vollständig kostenlos und unverbindlich. Sie zahlen keinen Aufschlag auf das Handwerkerangebot. Die Kosten tragen die Fachbetriebe.' } },
-  ],
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
 }
 
 const serviceSchema = {
@@ -530,6 +534,7 @@ export default function InnenausbauPage() {
       <Prozess />
       <Warum />
       <CTABand />
+      <LeistungRatgeber leistung="innenausbau" />
       <OrteDerLeistung leistung="innenausbau" />
       <FAQ />
       <SeoText />

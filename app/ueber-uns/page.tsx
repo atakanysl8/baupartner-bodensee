@@ -88,7 +88,7 @@ function WerWirSind() {
               Bauen, Sanieren oder Renovieren ist für Privatkunden oft eine riesige Herausforderung. Welche Firma ist seriös? Wer hat Zeit? Wer liefert Qualität?
             </motion.p>
             <motion.p className="au-body" variants={fadeUp}>
-              Genau aus diesem Grund haben wir, <strong>Luca-Matei Brezeanu</strong> und <strong>Atakan Yigit</strong>, die Bodensee BauPartner GbR gegründet. Wir übernehmen für Sie das, was am meisten Nerven kostet: Die Suche nach dem perfekten Baupartner.
+              Genau aus diesem Grund haben wir, <strong>Luca-Matei Brezeanu</strong> und <strong>Atakan Yigit</strong>, die Bodensee BauPartner GbR gegründet. Wir übernehmen für Sie das, was am meisten Nerven kostet: Die Suche nach dem passenden Baupartner.
             </motion.p>
 
             <motion.div className="au-promise-badge" variants={fadeUp}>
@@ -262,7 +262,7 @@ const trustItems = [
       </svg>
     ),
     title: 'Heimatverbundenheit',
-    desc: 'Unser Sitz ist in Überlingen. Wir kennen die Region, wir kennen die Handwerker. Durch kurze Wege und regionale Nähe können wir blitzschnell für Sie agieren.',
+    desc: 'Unser Sitz ist in Überlingen. Wir kennen die Region, wir kennen die Handwerker. Kurze Wege und regionale Nähe machen die Abstimmung einfach.',
   },
 ]
 
