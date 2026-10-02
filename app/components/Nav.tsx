@@ -28,6 +28,7 @@ export default function Nav({ aktiv, aktuelleLeistung }: { aktiv?: string; aktue
   }, [menuOpen])
 
   const otherLinks = [
+    { href: '/ratgeber/', label: 'Ratgeber' },
     { href: '/ueber-uns/', label: 'Über uns' },
     { href: '/fuer-fachbetriebe/', label: 'Für Fachbetriebe' },
     { href: '/#kontakt', label: 'Kontakt' },

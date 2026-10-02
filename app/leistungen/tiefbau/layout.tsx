@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     'Erdarbeiten, Kanalanschluss, Hausanschluss oder Drainage: Wir vermitteln Ihnen einen passenden Tiefbaubetrieb am Bodensee – kostenlos und unverbindlich.',
   openGraph: {
-    title: 'Tiefbau am Bodensee – Bodensee BauPartner',
+    title: 'Tiefbau & Erdarbeiten am Bodensee – Bodensee BauPartner',
     description:
       'Wir vermitteln Tiefbau-Fachbetriebe in der Bodenseeregion – kostenlos & unverbindlich.',
     locale: 'de_DE',

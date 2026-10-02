@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     'Trockenbau, Dachgeschossausbau, Böden oder Malerarbeiten: Wir vermitteln Ihnen einen passenden Innenausbau-Fachbetrieb am Bodensee – kostenlos.',
   openGraph: {
-    title: 'Innenausbau am Bodensee – Bodensee BauPartner',
+    title: 'Innenausbau & Trockenbau am Bodensee – Bodensee BauPartner',
     description:
       'Wir vermitteln Innenausbau-Fachbetriebe in der Bodenseeregion – kostenlos & unverbindlich.',
     locale: 'de_DE',

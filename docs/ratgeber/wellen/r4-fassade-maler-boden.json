@@ -1,0 +1,48 @@
+[
+ {
+  "rang": 14,
+  "slug": "fassadendaemmung-kosten",
+  "leistung": "dach-fassade",
+  "anker": "Fassadendämmung Kosten",
+  "hauptbegriff": "fassadendämmung kosten",
+  "volumen": 1600,
+  "neben": [
+   "fassadensanierung kosten"
+  ]
+ },
+ {
+  "rang": 15,
+  "slug": "fassade-streichen-kosten",
+  "leistung": "maler-fliesen-boeden",
+  "anker": "Fassadenanstrich Kosten",
+  "hauptbegriff": "fassade streichen kosten",
+  "volumen": 1600,
+  "neben": [
+   "haus streichen kosten"
+  ]
+ },
+ {
+  "rang": 16,
+  "slug": "boden-verlegen-kosten",
+  "leistung": "maler-fliesen-boeden",
+  "anker": "Bodenverlegung Kosten",
+  "hauptbegriff": "laminat verlegen kosten",
+  "volumen": 1600,
+  "neben": [
+   "vinylboden verlegen kosten",
+   "parkett verlegen kosten",
+   "boden verlegen kosten"
+  ]
+ },
+ {
+  "rang": 22,
+  "slug": "fliesenleger-kosten",
+  "leistung": "maler-fliesen-boeden",
+  "anker": "Fliesenleger Kosten",
+  "hauptbegriff": "fliesenleger kosten",
+  "volumen": 880,
+  "neben": [
+   "fliesen verlegen kosten"
+  ]
+ }
+]

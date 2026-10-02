@@ -1,0 +1,42 @@
+[
+ {
+  "rang": 8,
+  "slug": "barrierefreies-bad",
+  "leistung": "bad-sanitaer",
+  "anker": "Barrierefreies Bad",
+  "hauptbegriff": "barrierefreies bad",
+  "volumen": 2400,
+  "neben": []
+ },
+ {
+  "rang": 13,
+  "slug": "fenster-austauschen-kosten",
+  "leistung": "fenster-tueren",
+  "anker": "Fenstertausch Kosten",
+  "hauptbegriff": "fenstereinbau kosten",
+  "volumen": 1900,
+  "neben": [
+   "fenster austauschen kosten"
+  ]
+ },
+ {
+  "rang": 19,
+  "slug": "haustuer-kosten",
+  "leistung": "fenster-tueren",
+  "anker": "Haustür Kosten",
+  "hauptbegriff": "haustür kosten",
+  "volumen": 1000,
+  "neben": [
+   "haustür austauschen kosten"
+  ]
+ },
+ {
+  "rang": 26,
+  "slug": "treppe-kosten",
+  "leistung": "innenausbau",
+  "anker": "Treppe Kosten",
+  "hauptbegriff": "treppe kosten",
+  "volumen": 590,
+  "neben": []
+ }
+]

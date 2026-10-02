@@ -1,0 +1,42 @@
+[
+ {
+  "rang": 5,
+  "slug": "wintergarten-kosten",
+  "leistung": "garten-aussenanlagen",
+  "anker": "Wintergarten Kosten",
+  "hauptbegriff": "wintergarten kosten",
+  "volumen": 3600,
+  "neben": []
+ },
+ {
+  "rang": 23,
+  "slug": "terrassenueberdachung-kosten",
+  "leistung": "garten-aussenanlagen",
+  "anker": "Terrassenüberdachung Kosten",
+  "hauptbegriff": "terrassenüberdachung kosten",
+  "volumen": 880,
+  "neben": [
+   "terrasse bauen kosten"
+  ]
+ },
+ {
+  "rang": 18,
+  "slug": "carport-kosten",
+  "leistung": "garten-aussenanlagen",
+  "anker": "Carport Kosten",
+  "hauptbegriff": "carport kosten",
+  "volumen": 1300,
+  "neben": []
+ },
+ {
+  "rang": 25,
+  "slug": "zaun-kosten",
+  "leistung": "garten-aussenanlagen",
+  "anker": "Zaun Kosten",
+  "hauptbegriff": "zaun kosten",
+  "volumen": 590,
+  "neben": [
+   "zaun setzen kosten"
+  ]
+ }
+]

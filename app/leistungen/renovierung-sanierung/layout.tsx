@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     'Kernsanierung, energetische Sanierung oder Altbau modernisieren: Wir vermitteln Ihnen einen passenden Sanierungs-Fachbetrieb am Bodensee – kostenlos.',
   openGraph: {
-    title: 'Renovierung & Sanierung am Bodensee – Bodensee BauPartner',
+    title: 'Sanierung & Renovierung am Bodensee – Bodensee BauPartner',
     description:
       'Wir vermitteln Sanierungs-Fachbetriebe in der Bodenseeregion – kostenlos & unverbindlich.',
     locale: 'de_DE',

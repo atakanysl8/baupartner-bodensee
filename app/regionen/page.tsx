@@ -24,7 +24,7 @@ export default function RegionenPage() {
           <div className="eyebrow"><span className="bullet" /> Baden-Württemberg</div>
           <h1 className="ort-h1">Leistungen nach Ort in Baden-Württemberg</h1>
           <p className="ort-lead">
-            Hier finden Sie unsere Seiten zu Badsanierung, Bauunternehmen, Sanierung und Innenausbau in einzelnen Städten Baden-Württembergs – mit örtlichen Hinweisen zu Zuständigkeiten, Satzungen und Beratungsstellen. Ihre Anfrage ist kostenlos und unverbindlich.
+            Hier finden Sie unsere Seiten für Badsanierung, Bauunternehmen, Sanierung, Innenausbau, Elektriker, Maler und Fliesenleger, Dachdecker, Wärmepumpe und Heizung sowie Terrassenüberdachung in einzelnen Städten Baden-Württembergs – mit örtlichen Hinweisen zu Zuständigkeiten, Satzungen und Beratungsstellen. Was Vorhaben ungefähr kosten, zeigt unser <a href="/ratgeber/">Ratgeber Baukosten</a>. Ihre Anfrage ist kostenlos und unverbindlich.
           </p>
           {sortiert.map(([kreis, orte]) => (
             <section key={kreis} className="regionen-kreis">

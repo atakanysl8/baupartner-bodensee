@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   alternates: { canonical: '/regionen/' },
   title: 'Leistungen nach Ort – Baden-Württemberg | Bodensee BauPartner',
   description:
-    'Badsanierung, Bauunternehmen, Sanierung und Innenausbau nach Ort: alle Städte in Baden-Württemberg mit eigener Seite – kostenlos und unverbindlich anfragen.',
+    'Elektriker, Maler, Dachdecker, Badsanierung, Bauunternehmen und mehr nach Ort: alle Städte in Baden-Württemberg mit eigener Seite – kostenlos anfragen.',
   openGraph: {
     title: 'Leistungen nach Ort – Bodensee BauPartner',
     description: 'Unsere Ortsseiten für Baden-Württemberg im Überblick.',

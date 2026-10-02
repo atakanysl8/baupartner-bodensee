@@ -1,0 +1,33 @@
+[
+ {
+  "rang": 10,
+  "slug": "haus-bauen-kosten",
+  "leistung": "hochbau",
+  "anker": "Hausbau Kosten",
+  "hauptbegriff": "haus bauen kosten",
+  "volumen": 2400,
+  "neben": [
+   "hausbau kosten"
+  ]
+ },
+ {
+  "rang": 20,
+  "slug": "bodenplatte-kosten",
+  "leistung": "hochbau",
+  "anker": "Bodenplatte Kosten",
+  "hauptbegriff": "bodenplatte kosten",
+  "volumen": 1000,
+  "neben": []
+ },
+ {
+  "rang": 21,
+  "slug": "anbau-kosten",
+  "leistung": "hochbau",
+  "anker": "Anbau Kosten",
+  "hauptbegriff": "kosten anbau haus",
+  "volumen": 1000,
+  "neben": [
+   "anbau kosten"
+  ]
+ }
+]

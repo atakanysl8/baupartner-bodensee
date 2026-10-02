@@ -1,0 +1,41 @@
+[
+ {
+  "rang": 7,
+  "slug": "dachsanierung-kosten",
+  "leistung": "dach-fassade",
+  "anker": "Dachsanierung Kosten",
+  "hauptbegriff": "dachsanierung kosten",
+  "volumen": 2400,
+  "neben": [
+   "dach neu decken kosten",
+   "neues dach kosten"
+  ]
+ },
+ {
+  "rang": 17,
+  "slug": "dachdaemmung-kosten",
+  "leistung": "dach-fassade",
+  "anker": "Dachdämmung Kosten",
+  "hauptbegriff": "dachdämmung kosten",
+  "volumen": 1300,
+  "neben": []
+ },
+ {
+  "rang": 12,
+  "slug": "dachgaube-kosten",
+  "leistung": "dach-fassade",
+  "anker": "Dachgaube Kosten",
+  "hauptbegriff": "dachgaube kosten",
+  "volumen": 1900,
+  "neben": []
+ },
+ {
+  "rang": 9,
+  "slug": "dachfenster-einbauen-kosten",
+  "leistung": "dach-fassade",
+  "anker": "Dachfenster Einbau Kosten",
+  "hauptbegriff": "dachfenster einbauen kosten",
+  "volumen": 2400,
+  "neben": []
+ }
+]

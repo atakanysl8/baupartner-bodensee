@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     'Neubau, Rohbau, Anbau oder Aufstockung: Wir vermitteln Ihnen ein passendes Bauunternehmen am Bodensee – kostenlos und unverbindlich, ein Betrieb je Anfrage.',
   openGraph: {
-    title: 'Hochbau am Bodensee – Bodensee BauPartner',
+    title: 'Neubau & Rohbau am Bodensee – Bodensee BauPartner',
     description:
       'Wir vermitteln Hochbau-Fachbetriebe in der Bodenseeregion – kostenlos & unverbindlich.',
     locale: 'de_DE',

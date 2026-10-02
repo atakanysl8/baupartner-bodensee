@@ -1901,3 +1901,9 @@ details.faq-item summary::-webkit-details-marker { display: none; }
 .rg-hinweis { font-size: 14px !important; color: var(--ink-3) !important; }
 .ort-quellen ol { font-size: 13px; color: var(--ink-3); padding-left: 22px; line-height: 1.7; }
 @media (max-width: 640px) { .rg-tabelle td:nth-child(2) { white-space: normal; } }
+.start-ratgeber-liste { list-style: none; display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px 24px; margin-top: 28px; padding: 0; }
+.start-ratgeber-liste a { display: block; background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 20px; font-weight: 600; color: var(--ink); }
+.start-ratgeber-liste a:hover { border-color: var(--primary); color: var(--primary); }
+.seo-body a { color: var(--primary); text-decoration: underline; }
+@media (max-width: 860px) { .start-ratgeber-liste { grid-template-columns: 1fr; } }
+.au-versprechen-text a { color: #fff; text-decoration: underline; }

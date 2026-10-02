@@ -1,0 +1,46 @@
+[
+ {
+  "rang": 1,
+  "slug": "waermepumpe-kosten",
+  "leistung": "heizung-waermepumpe",
+  "anker": "Wärmepumpe Kosten",
+  "hauptbegriff": "wärmepumpe kosten",
+  "volumen": 40500,
+  "neben": [
+   "gasheizung umrüsten auf wärmepumpe kosten",
+   "luftwärmepumpe kosten",
+   "neue heizung kosten"
+  ]
+ },
+ {
+  "rang": 24,
+  "slug": "fussbodenheizung-nachruesten-kosten",
+  "leistung": "heizung-waermepumpe",
+  "anker": "Fußbodenheizung nachrüsten Kosten",
+  "hauptbegriff": "fußbodenheizung nachrüsten kosten",
+  "volumen": 720,
+  "neben": []
+ },
+ {
+  "rang": 2,
+  "slug": "wallbox-kosten",
+  "leistung": "elektro-photovoltaik",
+  "anker": "Wallbox Kosten",
+  "hauptbegriff": "wallbox kosten",
+  "volumen": 22200,
+  "neben": [
+   "wallbox installation kosten"
+  ]
+ },
+ {
+  "rang": 11,
+  "slug": "photovoltaik-kosten",
+  "leistung": "elektro-photovoltaik",
+  "anker": "Photovoltaik Kosten",
+  "hauptbegriff": "kosten photovoltaik anlage",
+  "volumen": 2400,
+  "neben": [
+   "kosten photovoltaik mit speicher"
+  ]
+ }
+]

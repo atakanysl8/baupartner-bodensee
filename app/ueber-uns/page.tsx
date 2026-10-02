@@ -222,7 +222,7 @@ function Versprechen() {
           <div className="au-versprechen-text">
             <h2>Unser <em>100% Versprechen</em></h2>
             <p>
-              Wir mauern nicht selbst, aber wir geben unser Bestes für Ihre erfolgreiche Vermittlung. Wir suchen für jede Anfrage den passenden Betrieb aus der Bodenseeregion.
+              Wir mauern nicht selbst, aber wir geben unser Bestes für Ihre erfolgreiche Vermittlung. Wir suchen für jede Anfrage den passenden Betrieb aus der Bodenseeregion. Sie führen selbst einen Fachbetrieb und möchten Anfragen erhalten? Alles Weitere steht unter <a href="/fuer-fachbetriebe/">Für Fachbetriebe</a>.
             </p>
           </div>
         </motion.div>

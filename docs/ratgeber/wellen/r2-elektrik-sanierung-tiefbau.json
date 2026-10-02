@@ -1,0 +1,50 @@
+[
+ {
+  "rang": 27,
+  "slug": "elektrik-erneuern-kosten",
+  "leistung": "elektro-photovoltaik",
+  "anker": "Elektrik erneuern Kosten",
+  "hauptbegriff": "elektrik erneuern kosten",
+  "volumen": 480,
+  "neben": [
+   "elektroinstallation kosten",
+   "zählerschrank erneuern kosten"
+  ]
+ },
+ {
+  "rang": 3,
+  "slug": "energetische-sanierung",
+  "leistung": "renovierung-sanierung",
+  "anker": "Energetische Sanierung",
+  "hauptbegriff": "energetische sanierung",
+  "volumen": 6600,
+  "neben": [
+   "energetische sanierung kosten",
+   "haus sanieren kosten"
+  ]
+ },
+ {
+  "rang": 6,
+  "slug": "kernsanierung-kosten",
+  "leistung": "renovierung-sanierung",
+  "anker": "Kernsanierung Kosten",
+  "hauptbegriff": "kernsanierung kosten",
+  "volumen": 2720,
+  "neben": [
+   "kosten einer kernsanierung",
+   "kernsanierung haus kosten"
+  ]
+ },
+ {
+  "rang": 28,
+  "slug": "hausanschluss-kosten",
+  "leistung": "tiefbau",
+  "anker": "Hausanschluss Kosten",
+  "hauptbegriff": "hausanschluss kosten",
+  "volumen": 320,
+  "neben": [
+   "erdarbeiten kosten",
+   "kanalanschluss kosten"
+  ]
+ }
+]

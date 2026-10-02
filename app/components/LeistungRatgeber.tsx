@@ -1,10 +1,12 @@
 import { RATGEBER, VERWANDT } from '../inhalte/ratgeber'
 import { LEISTUNGEN, type LeistungSlug } from '../inhalte/leistungen'
+import { RATGEBERLINKS } from '../inhalte/ratgeber-seiten/links'
 
 // Ratgeber-Abschnitt einer Leistungsseite (Kosten, Planung, Förderung) — siehe app/inhalte/ratgeber.ts.
-// Darunter Querverweise auf verwandte Leistungen (interne Verlinkung).
+// Darunter die ausführlichen Ratgeberseiten dieser Leistung und Querverweise auf verwandte Leistungen (interne Verlinkung).
 export default function LeistungRatgeber({ leistung }: { leistung: LeistungSlug }) {
   const r = RATGEBER[leistung]
+  const seiten = RATGEBERLINKS.filter((x) => x.leistung === leistung)
   return (
     <section className="ratgeber-section">
       <div className="wrap ratgeber-inner">
@@ -19,6 +21,17 @@ export default function LeistungRatgeber({ leistung }: { leistung: LeistungSlug 
             </article>
           ))}
         </div>
+        {seiten.length > 0 && (
+          <p className="ratgeber-verwandt">
+            Ausführliche Ratgeber:{' '}
+            {seiten.map((x, i) => (
+              <span key={x.slug}>
+                {i > 0 && ' · '}
+                <a href={`/ratgeber/${x.slug}/`}>{x.anker}</a>
+              </span>
+            ))}
+          </p>
+        )}
         <p className="ratgeber-verwandt">
           Passend dazu:{' '}
           {VERWANDT[leistung].map((v, i) => (

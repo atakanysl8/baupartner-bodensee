@@ -2,6 +2,9 @@ import Nav from './Nav'
 import Footer from './Footer'
 import { LEISTUNGEN } from '../inhalte/leistungen'
 import { nachbarn, andereLeistungen, pfad, type Ortsseite } from '../inhalte/orte'
+import { VERWANDT } from '../inhalte/ratgeber'
+import { RATGEBERLINKS } from '../inhalte/ratgeber-seiten/links'
+import { anker } from '../inhalte/anker'
 
 const BASIS = 'https://www.bodensee-baupartner.de'
 
@@ -34,7 +37,15 @@ export default function OrtSeite({ s }: { s: Ortsseite }) {
       mainEntity: s.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
     },
   ]
-  const weitere = [...nachbarn(s), ...andereLeistungen(s)]
+  // Linkblock nach Vault-Standard: 3 Nachbarorte derselben Leistung, Leistungsseite, 1–2 Ratgeber der Leistung,
+  // höchstens 2 fachlich verwandte Leistungen im selben Ort (statt aller übrigen), Hub.
+  const verwandt = VERWANDT[s.leistung]
+  const imOrt = andereLeistungen(s)
+    .filter((x) => verwandt.includes(x.leistung))
+    .sort((a, b) => verwandt.indexOf(a.leistung) - verwandt.indexOf(b.leistung))
+    .slice(0, 2)
+  const ratgeber = RATGEBERLINKS.filter((r) => r.leistung === s.leistung).slice(0, 2)
+  const leistungPfad = `/leistungen/${s.leistung}/`
 
   return (
     <>
@@ -88,11 +99,17 @@ export default function OrtSeite({ s }: { s: Ortsseite }) {
           <section className="ort-block ort-links">
             <h2>Weitere Orte und Leistungen</h2>
             <ul>
-              {weitere.map((n) => (
+              {nachbarn(s).map((n) => (
                 <li key={pfad(n)}><a href={pfad(n)}>{n.h1}</a></li>
               ))}
-              <li><a href={`/leistungen/${s.leistung}/`}>{l.name} – Überblick</a></li>
-              <li><a href="/regionen/">Alle Orte</a></li>
+              <li><a href={leistungPfad}>{anker(leistungPfad)}</a> – Überblick</li>
+              {ratgeber.map((r) => (
+                <li key={r.slug}><a href={`/ratgeber/${r.slug}/`}>{r.anker}</a> – Preisspannen und Kostenfaktoren</li>
+              ))}
+              {imOrt.map((n) => (
+                <li key={pfad(n)}><a href={pfad(n)}>{n.h1}</a></li>
+              ))}
+              <li><a href="/regionen/">{anker('/regionen/')}</a></li>
             </ul>
           </section>
 

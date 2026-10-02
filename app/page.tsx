@@ -5,6 +5,7 @@ import { useState, useRef, useEffect } from 'react'
 import Footer from './components/Footer'
 import { LEISTUNGEN, LEISTUNG_SLUGS, GRUPPEN, leistungenDerGruppe, type LeistungSlug } from './inhalte/leistungen'
 import HeroBild from './components/HeroBild'
+import { RATGEBERLINKS } from './inhalte/ratgeber-seiten/links'
 
 /* ── Animation variants ──────────────────────────────────────────────────── */
 const fadeUp = {
@@ -47,6 +48,7 @@ function Nav() {
   }, [menuOpen])
 
   const otherLinks = [
+    { href: '/ratgeber/', label: 'Ratgeber' },
     { href: '/ueber-uns/', label: 'Über uns' },
     { href: '/fuer-fachbetriebe/', label: 'Für Fachbetriebe' },
     { href: '#kontakt', label: 'Kontakt' },
@@ -1142,6 +1144,28 @@ function FAQ() {
 }
 
 /* ── SEO Text ────────────────────────────────────────────────────────────── */
+/* ── Ratgeber ────────────────────────────────────────────────────────────── */
+// Die sechs meistgesuchten Kostenratgeber (Rang aus docs/ratgeber/seitenplan.json) + Hub — interne Verlinkung.
+function RatgeberTeaser() {
+  const top = RATGEBERLINKS.slice(0, 6)
+  if (!top.length) return null
+  return (
+    <section className="ratgeber-section start-ratgeber">
+      <div className="wrap ratgeber-inner">
+        <div className="eyebrow"><span className="bullet" /> Ratgeber</div>
+        <h2>Was kostet Ihr Vorhaben?</h2>
+        <p className="ratgeber-intro">Preisspannen aus zitierfähigen Quellen und die Faktoren, die den Preis bestimmen – als erste Orientierung vor dem Angebot.</p>
+        <ul className="start-ratgeber-liste">
+          {top.map((r) => (
+            <li key={r.slug}><a href={`/ratgeber/${r.slug}/`}>{r.anker}</a></li>
+          ))}
+        </ul>
+        <p className="ratgeber-verwandt">Alle Themen im <a href="/ratgeber/">Ratgeber Baukosten</a>.</p>
+      </div>
+    </section>
+  )
+}
+
 function SeoText() {
   return (
     <section className="seo-section">
@@ -1157,21 +1181,21 @@ function SeoText() {
           <div className="seo-block">
             <h2 className="seo-heading">Warum Bodensee BauPartner wählen?</h2>
             <p className="seo-body">
-              Als lokaler Vermittler kennen wir die Bodenseeregion und ihre Handwerksbetriebe wie unsere Westentasche. Unser Service ist für Sie vollständig kostenlos und unverbindlich. Sie sparen Zeit, vermeiden lange Recherche und erhalten innerhalb von 24 Stunden eine persönliche Rückmeldung zu Ihrem Bauprojekt.
+              Als Vermittler mit Sitz in Überlingen kennen wir die Bodenseeregion. Unser Service ist für Sie vollständig kostenlos und unverbindlich. Sie sparen Zeit, vermeiden lange Recherche und erhalten innerhalb von 24 Stunden eine persönliche Rückmeldung zu Ihrem Bauprojekt.
             </p>
           </div>
 
           <div className="seo-block">
             <h2 className="seo-heading">Unsere Leistungen im Überblick</h2>
             <p className="seo-body">
-              Ob Neubau, Rohbau oder Dachausbau im Hochbaubereich, Erdarbeiten und Kanalbau im Tiefbau, moderne Badezimmer durch Bad & Sanitär-Fachbetriebe, oder hochwertige Innenausbauten und Renovierungen – Bodensee BauPartner vermittelt Ihnen den passenden Spezialisten für jedes Vorhaben. Alle Betriebe sind in der Bodenseeregion ansässig – das bedeutet kurze Wege und schnelle Einsatzbereitschaft.
+              Ob Neubau, Rohbau oder Dachausbau im Hochbaubereich, Erdarbeiten und Kanalbau im Tiefbau, moderne Badezimmer durch Bad & Sanitär-Fachbetriebe, oder hochwertige Innenausbauten und Renovierungen – Bodensee BauPartner vermittelt Ihnen den passenden Spezialisten für jedes Vorhaben. Was Vorhaben ungefähr kosten, zeigt unser <a href="/ratgeber/">Ratgeber Baukosten</a>.
             </p>
           </div>
 
           <div className="seo-block">
             <h2 className="seo-heading">Regional verwurzelt, persönlich vor Ort</h2>
             <p className="seo-body">
-              Mit unserem Sitz in Überlingen sind wir mitten in der Bodenseeregion beheimatet – von Konstanz über Friedrichshafen bis Lindau. Diese regionale Verwurzelung ermöglicht es uns, Ihnen schnell den richtigen Handwerker zu vermitteln, der Ihr Projekt versteht und Ihre Erwartungen erfüllt. Bodensee BauPartner ist Ihr direkter Draht zu Fachbetrieben der Region.
+              Mit unserem Sitz in Überlingen sind wir mitten in der Bodenseeregion beheimatet – von Konstanz über Friedrichshafen bis Lindau. Diese regionale Verwurzelung ermöglicht es uns, Ihnen schnell den richtigen Handwerker zu vermitteln, der zu Ihrem Projekt passt. Bodensee BauPartner ist Ihr direkter Draht zu Fachbetrieben der Region. Wer hinter dem Unternehmen steht, lesen Sie unter <a href="/ueber-uns/">Über uns</a>.
             </p>
           </div>
         </div>
@@ -1221,6 +1245,7 @@ export default function Page() {
       <CTABand />
       <Kontakt />
       <FAQ />
+      <RatgeberTeaser />
       <SeoText />
       <Footer />
     </>
