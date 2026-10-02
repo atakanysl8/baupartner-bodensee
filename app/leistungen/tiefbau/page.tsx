@@ -2,10 +2,10 @@
 
 import { motion } from 'motion/react'
 import { useState, useRef } from 'react'
-import Image from 'next/image'
 import Footer from '../../components/Footer'
 import Nav from '../../components/Nav'
 import LeistungRatgeber from '../../components/LeistungRatgeber'
+import HeroBild from '../../components/HeroBild'
 
 const fadeUp = {
   hidden: { opacity: 0, y: 28 },
@@ -26,7 +26,7 @@ function Hero() {
   return (
     <header className="hb-hero" ref={ref}>
       <div className="hb-hero-image">
-        <Image src="/hero.webp" alt="Tiefbau am Bodensee" fill style={{ objectFit: 'cover', objectPosition: 'center right' }} priority />
+        <HeroBild alt="Tiefbau am Bodensee" />
         <div className="hb-hero-overlay" />
       </div>
 

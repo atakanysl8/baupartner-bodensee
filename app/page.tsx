@@ -2,9 +2,9 @@
 
 import { motion, useScroll, useTransform, AnimatePresence } from 'motion/react'
 import { useState, useRef, useEffect } from 'react'
-import Image from 'next/image'
 import Footer from './components/Footer'
 import { LEISTUNGEN, LEISTUNG_SLUGS, GRUPPEN, leistungenDerGruppe, type LeistungSlug } from './inhalte/leistungen'
+import HeroBild from './components/HeroBild'
 
 /* ── Animation variants ──────────────────────────────────────────────────── */
 const fadeUp = {
@@ -65,7 +65,7 @@ function Nav() {
           transition={{ duration: 0.35 }}
         >
           <a href="#" className="nav-logo" aria-label="Bodensee BauPartner">
-            <img src="/logo.webp" width={182} height={156} alt="Bodensee BauPartner" style={{ height: 52, width: 'auto' }} />
+            <img src="/logo.svg" width={177} height={150} alt="Bodensee BauPartner" style={{ height: 52, width: 'auto' }} />
           </a>
 
           <div className="nav-links">
@@ -203,13 +203,7 @@ function Hero() {
   return (
     <header className="hero" ref={ref}>
       <motion.div className="hero-image" style={{ y: imageY }}>
-        <Image
-          src="/hero.webp"
-          alt="Bauprojekt am Bodensee"
-          fill
-          style={{ objectFit: 'cover', objectPosition: 'center right' }}
-          priority
-        />
+        <HeroBild alt="Bauprojekt am Bodensee" />
       </motion.div>
 
       <div className="wrap">
@@ -264,7 +258,7 @@ function Hero() {
 /* ── Stats Bar ───────────────────────────────────────────────────────────── */
 const stats = [
   { value: 'Regional', label: 'Verwurzelt am Bodensee' },
-  { value: '5', label: 'Leistungsbereiche' },
+  { value: String(LEISTUNG_SLUGS.length), label: 'Leistungsbereiche' },
   // Vorübergehend ausgeblendet – zum Wiedereinblenden Kommentar entfernen und
   // .stats-grid in globals.css wieder auf repeat(4, 1fr) stellen.
   // { value: '0 €', label: 'Vermittlungskosten' },

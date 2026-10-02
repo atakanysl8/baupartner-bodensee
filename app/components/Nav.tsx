@@ -46,7 +46,7 @@ export default function Nav({ aktiv, aktuelleLeistung }: { aktiv?: string; aktue
           transition={{ duration: 0.35 }}
         >
           <a href="/" className="nav-logo" aria-label="Bodensee BauPartner">
-            <img src="/logo.webp" width={182} height={156} alt="Bodensee BauPartner" style={{ height: 52, width: 'auto' }} />
+            <img src="/logo.svg" width={177} height={150} alt="Bodensee BauPartner" style={{ height: 52, width: 'auto' }} />
           </a>
 
           <div className="nav-links">

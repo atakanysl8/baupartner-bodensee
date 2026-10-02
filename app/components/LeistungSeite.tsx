@@ -4,12 +4,12 @@
 // Leistungsseiten (z. B. app/leistungen/hochbau/page.tsx), Inhalte aus app/inhalte/leistungsseiten/.
 import { motion } from 'motion/react'
 import { useState } from 'react'
-import Image from 'next/image'
 import Nav from './Nav'
 import Footer from './Footer'
 import LeistungRatgeber from './LeistungRatgeber'
 import OrteDerLeistung from './OrteDerLeistung'
 import { LEISTUNGEN, type LeistungSlug } from '../inhalte/leistungen'
+import HeroBild from './HeroBild'
 
 export type LeistungsInhalt = {
   hero: { eyebrow: string; h1: string; h1Betont: string; unterzeile: string; lead: string; bildAlt: string }
@@ -61,7 +61,7 @@ export default function LeistungSeite({ slug, inhalt }: { slug: LeistungSlug; in
 
       <header className="hb-hero">
         <div className="hb-hero-image">
-          <Image src="/hero.webp" alt={inhalt.hero.bildAlt} fill style={{ objectFit: 'cover', objectPosition: 'center right' }} priority />
+          <HeroBild alt={inhalt.hero.bildAlt} />
           <div className="hb-hero-overlay" />
         </div>
         <div className="wrap">

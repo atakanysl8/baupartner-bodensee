@@ -50,7 +50,7 @@ Themen, die mehrere Seiten betreffen:
 
 - Vor einer Veröffentlichung: Ortsseiten sind auf Bodensee-Marke, die Startseite sagt „Bodenseeregion“ — Leads aus ganz BW müssen an Betriebe vor Ort verkauft werden können (Betreiber-Entscheidung 02.10.2026: ganz BW).
 - Befristete Inhalte nach Ablauf prüfen: KlimaBonus Bietigheim-Bissingen (Neuauflage 2027), KlimaBonus Karlsruhe (Überarbeitung 2027), Stuttgarter Programme (jährlich), Analysewerte Wasserhärte (jährlich).
-- Bestehende Aussagen „Innerhalb 24h“/„innerhalb von 24 Stunden“ (Startseite, Leistungsseiten) stehen weiter — Reaktionszeit-Zusage laut Guardrails nur, wenn belegt; Betreiber entscheidet.
+- „Innerhalb 24h“ (Startseite, Leistungsseiten): vom Betreiber am 02.10.2026 bestätigt, bleibt.
 - Nächster SEO-Hebel: eigene Ratgeberseiten zu „badsanierung kosten“ (4.400), „kernsanierung“ (2.400), „barrierefreies bad“ (2.400), „bodenplatte kosten“ (1.000) u. a.
 - Nachmessung kleinere Orte (Rang 151–262, ~165 Credits) nur bei Bedarf.
 - OpenSEO: 2.532 → 2.277 Credits (255 verbraucht, inkl. Audit).
