@@ -1,0 +1,230 @@
+{
+ "out/404/index.html": {
+  "nav": [],
+  "footer": []
+ },
+ "out/datenschutz/index.html": {
+  "nav": [
+   "/",
+   "/#leistungen",
+   "/ueber-uns",
+   "/fuer-fachbetriebe",
+   "/#kontakt",
+   "/#kontakt"
+  ],
+  "footer": [
+   "/leistungen/hochbau",
+   "/leistungen/tiefbau",
+   "/leistungen/bad-sanitaer",
+   "/leistungen/innenausbau",
+   "/leistungen/renovierung-sanierung",
+   "/ueber-uns",
+   "/#kontakt",
+   "/fuer-fachbetriebe",
+   "/impressum",
+   "/datenschutz"
+  ]
+ },
+ "out/fuer-fachbetriebe/index.html": {
+  "nav": [
+   "/",
+   "/#leistungen",
+   "/ueber-uns",
+   "/fuer-fachbetriebe",
+   "/#kontakt",
+   "/#kontakt"
+  ],
+  "footer": [
+   "/leistungen/hochbau",
+   "/leistungen/tiefbau",
+   "/leistungen/bad-sanitaer",
+   "/leistungen/innenausbau",
+   "/leistungen/renovierung-sanierung",
+   "/ueber-uns",
+   "/#kontakt",
+   "/fuer-fachbetriebe",
+   "/impressum",
+   "/datenschutz"
+  ]
+ },
+ "out/impressum/index.html": {
+  "nav": [
+   "/",
+   "/#leistungen",
+   "/ueber-uns",
+   "/fuer-fachbetriebe",
+   "/#kontakt",
+   "/#kontakt"
+  ],
+  "footer": [
+   "/leistungen/hochbau",
+   "/leistungen/tiefbau",
+   "/leistungen/bad-sanitaer",
+   "/leistungen/innenausbau",
+   "/leistungen/renovierung-sanierung",
+   "/ueber-uns",
+   "/#kontakt",
+   "/fuer-fachbetriebe",
+   "/impressum",
+   "/datenschutz"
+  ]
+ },
+ "out/index.html": {
+  "nav": [
+   "#",
+   "#leistungen",
+   "/ueber-uns",
+   "/fuer-fachbetriebe",
+   "#kontakt",
+   "#kontakt"
+  ],
+  "footer": [
+   "/leistungen/hochbau",
+   "/leistungen/tiefbau",
+   "/leistungen/bad-sanitaer",
+   "/leistungen/innenausbau",
+   "/leistungen/renovierung-sanierung",
+   "/ueber-uns",
+   "#kontakt",
+   "/fuer-fachbetriebe",
+   "/impressum",
+   "/datenschutz"
+  ]
+ },
+ "out/leistungen/bad-sanitaer/index.html": {
+  "nav": [
+   "/",
+   "/#leistungen",
+   "/ueber-uns",
+   "/fuer-fachbetriebe",
+   "/#kontakt",
+   "/#kontakt"
+  ],
+  "footer": [
+   "/leistungen/hochbau",
+   "/leistungen/tiefbau",
+   "/leistungen/bad-sanitaer",
+   "/leistungen/innenausbau",
+   "/leistungen/renovierung-sanierung",
+   "/ueber-uns",
+   "/#kontakt",
+   "/fuer-fachbetriebe",
+   "/impressum",
+   "/datenschutz"
+  ]
+ },
+ "out/leistungen/hochbau/index.html": {
+  "nav": [
+   "/",
+   "/#leistungen",
+   "/ueber-uns",
+   "/fuer-fachbetriebe",
+   "/#kontakt",
+   "/#kontakt"
+  ],
+  "footer": [
+   "/leistungen/hochbau",
+   "/leistungen/tiefbau",
+   "/leistungen/bad-sanitaer",
+   "/leistungen/innenausbau",
+   "/leistungen/renovierung-sanierung",
+   "/ueber-uns",
+   "/#kontakt",
+   "/fuer-fachbetriebe",
+   "/impressum",
+   "/datenschutz"
+  ]
+ },
+ "out/leistungen/innenausbau/index.html": {
+  "nav": [
+   "/",
+   "/#leistungen",
+   "/ueber-uns",
+   "/fuer-fachbetriebe",
+   "/#kontakt",
+   "/#kontakt"
+  ],
+  "footer": [
+   "/leistungen/hochbau",
+   "/leistungen/tiefbau",
+   "/leistungen/bad-sanitaer",
+   "/leistungen/innenausbau",
+   "/leistungen/renovierung-sanierung",
+   "/ueber-uns",
+   "/#kontakt",
+   "/fuer-fachbetriebe",
+   "/impressum",
+   "/datenschutz"
+  ]
+ },
+ "out/leistungen/renovierung-sanierung/index.html": {
+  "nav": [
+   "/",
+   "/#leistungen",
+   "/ueber-uns",
+   "/fuer-fachbetriebe",
+   "/#kontakt",
+   "/#kontakt"
+  ],
+  "footer": [
+   "/leistungen/hochbau",
+   "/leistungen/tiefbau",
+   "/leistungen/bad-sanitaer",
+   "/leistungen/innenausbau",
+   "/leistungen/renovierung-sanierung",
+   "/ueber-uns",
+   "/#kontakt",
+   "/fuer-fachbetriebe",
+   "/impressum",
+   "/datenschutz"
+  ]
+ },
+ "out/leistungen/tiefbau/index.html": {
+  "nav": [
+   "/",
+   "/#leistungen",
+   "/ueber-uns",
+   "/fuer-fachbetriebe",
+   "/#kontakt",
+   "/#kontakt"
+  ],
+  "footer": [
+   "/leistungen/hochbau",
+   "/leistungen/tiefbau",
+   "/leistungen/bad-sanitaer",
+   "/leistungen/innenausbau",
+   "/leistungen/renovierung-sanierung",
+   "/ueber-uns",
+   "/#kontakt",
+   "/fuer-fachbetriebe",
+   "/impressum",
+   "/datenschutz"
+  ]
+ },
+ "out/ueber-uns/index.html": {
+  "nav": [
+   "/",
+   "/#leistungen",
+   "/ueber-uns",
+   "/fuer-fachbetriebe",
+   "/#kontakt",
+   "/#kontakt"
+  ],
+  "footer": [
+   "/leistungen/hochbau",
+   "/leistungen/tiefbau",
+   "/leistungen/bad-sanitaer",
+   "/leistungen/innenausbau",
+   "/leistungen/renovierung-sanierung",
+   "/ueber-uns",
+   "/#kontakt",
+   "/fuer-fachbetriebe",
+   "/impressum",
+   "/datenschutz"
+  ]
+ },
+ "out/_not-found/index.html": {
+  "nav": [],
+  "footer": []
+ }
+}
