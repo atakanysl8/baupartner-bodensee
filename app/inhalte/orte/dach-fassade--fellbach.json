@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Altbaudächer in Fellbach: großes Sanierungspotenzial",
-      "text": "Der kommunale Wärmeplan der Stadt zeigt, wie alt der Bestand ist: Rund 80 Prozent der Fellbacher Gebäude wurden vor der ersten Wärmeschutzverordnung vom November 1977 errichtet. Durch umfassende Sanierungen ließe sich der Wärmeverbrauch in Fellbach laut Plan bis 2040 um bis zu 43 Prozent senken. Das Dach ist dabei eine der Flächen, an denen sich viel ändern lässt. Bei einer grundlegenden Dachsanierung schreibt das Klimaschutzgesetz Baden-Württemberg nach § 23 außerdem die Installation einer Photovoltaikanlage vor, worauf die Stadt auf ihrer Seite zur Gebäudesanierung hinweist. Das Solarpotenzial des eigenen Daches zeigt der PV-Rechner der Stadt."
+      "text": "Der kommunale Wärmeplan der Stadt zeigt, wie alt der Bestand ist: Rund 80 Prozent der Fellbacher Gebäude wurden vor der ersten Wärmeschutzverordnung vom November 1977 errichtet. Durch umfassende Sanierungen ließe sich der Wärmeverbrauch in Fellbach laut Plan bis 2040 um bis zu 43 Prozent senken. Das Dach ist dabei eine der Flächen, an denen sich viel ändern lässt. Auf ihrer Seite zur Gebäudesanierung weist die Stadt außerdem darauf hin, dass die Landesgesetzgebung (§ 23 Klimaschutzgesetz Baden-Württemberg) bei einer grundlegenden Dachsanierung die Installation einer Photovoltaikanlage vorsieht. Das Solarpotenzial des eigenen Daches zeigt der PV-Rechner der Stadt."
     },
     {
       "h2": "Dacherneuerung im Ortskern: Sanierungsgebiet Vordere Straße",
-      "text": "Wer im Sanierungsgebiet „Vordere Straße“ wohnt, sollte zwei Seiten kennen. Die Erneuerung der Dacheindeckung zählt die Stadt zu den wertsteigernden Veränderungen, die nach § 144 Baugesetzbuch sanierungsrechtlich genehmigt werden müssen. Zugleich nennt die Förderinformation der Stadt Dacherneuerung und Wärmedämmung des Daches als förderfähige Modernisierungen. Voraussetzung ist eine Modernisierungsvereinbarung mit der Stadt, die vor Baubeginn geschlossen wird; begonnene Maßnahmen werden nicht gefördert. Neben dem Zuschuss erwähnt die Stadt steuerliche Abschreibungsmöglichkeiten nach § 7h und § 10f Einkommensteuergesetz."
+      "text": "Wer im Sanierungsgebiet „Vordere Straße“ wohnt, sollte zwei Seiten kennen. Die Erneuerung der Dacheindeckung zählt die Stadt zu den wertsteigernden Veränderungen, die nach § 144 Baugesetzbuch einer sanierungsrechtlichen Genehmigung bedürfen. Zugleich nennt die Förderinformation der Stadt Dacherneuerung und Wärmedämmung des Daches als förderfähige Modernisierungen. Ob und in welcher Höhe eine Förderung möglich ist, beantwortet laut Stadt die Sanierungsstelle."
     },
     {
       "h2": "Gründach, Beratung und Fachbetrieb",
@@ -29,7 +29,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Die Stadt Fellbach weist darauf hin, dass die Landesgesetzgebung (§ 23 KlimaG BW) bei einer grundlegenden Dachsanierung die Installation einer Photovoltaikanlage vorschreibt.",
+      "text": "Die Stadt Fellbach weist darauf hin, dass die Landesgesetzgebung (§ 23 KlimaG BW) bei einer grundlegenden Dachsanierung die Installation einer Photovoltaikanlage vorschreibt; für die Bürgerschaft bietet die Stadt zusammen mit den Stadtwerken eine kostenlose Energieberatung an.",
       "quelle": "Stadt Fellbach – Gebäudesanierung",
       "url": "https://www.fellbach.de/Gebaeudesanierung",
       "abruf": "2026-10-02"
@@ -41,13 +41,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Im Sanierungsgebiet „Vordere Straße“ nennt die Stadt Dacherneuerung und Wärmedämmung des Daches als förderfähige Maßnahmen; mit der Umsetzung darf erst nach Abschluss der Modernisierungsvereinbarung begonnen werden.",
-      "quelle": "Stadt Fellbach – Förderinformation Sanierungsgebiet Vordere Straße",
-      "url": "https://www.fellbach.de/ceasy/resource/?id=4306&download=1",
-      "abruf": "2026-10-02"
-    },
-    {
-      "text": "Mit einer Modernisierungsvereinbarung im Gebiet „Vordere Straße“ besteht laut Stadt die Möglichkeit der steuerlichen Abschreibung von Baukosten nach § 7h und § 10f EStG.",
+      "text": "Im Sanierungsgebiet „Vordere Straße“ nennt die Stadt Dacherneuerung und Wärmedämmung des Daches als förderfähige Maßnahmen.",
       "quelle": "Stadt Fellbach – Förderinformation Sanierungsgebiet Vordere Straße",
       "url": "https://www.fellbach.de/ceasy/resource/?id=4306&download=1",
       "abruf": "2026-10-02"
@@ -57,31 +51,26 @@
       "quelle": "Stadt Fellbach – Grünstrategie",
       "url": "https://www.fellbach.de/Gruenstrategie",
       "abruf": "2026-10-02"
-    },
-    {
-      "text": "Die Stadtwerke Fellbach setzen bei der Solarenergie vor allem auf die Fellbacher Dachlandschaft, da die Gemarkung klein ist und Platz für großflächige Solarfelder fehlt.",
-      "quelle": "Stadt Fellbach – Solarisierung",
-      "url": "https://www.fellbach.de/de/Leben-in-Fellbach/Solarisierung",
-      "abruf": "2026-10-02"
     }
   ],
   "faq": [
     {
       "q": "Gilt in Fellbach bei einer Dachsanierung eine Pflicht zur Photovoltaik?",
-      "a": "Die Stadt Fellbach verweist auf § 23 Klimaschutzgesetz Baden-Württemberg, der bei einer grundlegenden Dachsanierung eine PV-Anlage vorschreibt. Was im Einzelfall als grundlegende Sanierung gilt, erläutern Energieagentur Rems-Murr und Umweltministerium."
+      "a": "Die Stadt Fellbach verweist auf § 23 Klimaschutzgesetz Baden-Württemberg, der bei einer grundlegenden Dachsanierung die Installation einer PV-Anlage vorsieht. Auskunft zum Einzelfall gibt die kostenlose Energieberatung von Stadt und Stadtwerken."
     },
     {
       "q": "Gibt es in Fellbach Zuschüsse für ein neues Dach?",
-      "a": "Im Sanierungsgebiet „Vordere Straße“ nennt die Stadt Dacherneuerung und Dachdämmung als förderfähig, wenn vorher eine Modernisierungsvereinbarung geschlossen wird. Für Gebäude außerhalb verweist die Stadt auf Förderprogramme von Bund und Land."
+      "a": "Im Sanierungsgebiet „Vordere Straße“ nennt die Stadt Dacherneuerung und Dachdämmung als förderfähige Modernisierungen. Ob und in welcher Höhe eine Förderung möglich ist, beantwortet die Sanierungsstelle der Stadt."
     },
     {
       "q": "Wer berät in Fellbach neutral zur Dachsanierung?",
-      "a": "Die Fellbacher Energieberatung von Stadt und Stadtwerken, dienstags bei den Stadtwerken und donnerstags im Rathaus, sowie die Energieagentur Rems-Murr in Waiblingen."
+      "a": "Die Stadt bietet zusammen mit den Stadtwerken Fellbach eine kostenlose Energieberatung zu Gebäudesanierung, Heizungstausch und Förderprogrammen an."
     }
   ],
   "offen": [
     "Keine Gestaltungs- oder Altstadtsatzung mit Dachvorgaben für Fellbach gefunden.",
     "Grünstrategie nennt Dachbegrünung als Festsetzung in Bebauungsplänen allgemein; keine konkreten Pläne geprüft.",
-    "Steuerliche Abschreibung (§ 7h/§ 10f EStG) nur als Wiedergabe der Stadt; ggf. Anwalt/Steuerberater prüfen lassen, ob die Erwähnung gewünscht ist."
+    "Steuerliche Abschreibung (§ 7h/§ 10f EStG) nur als Wiedergabe der Stadt; ggf. Anwalt/Steuerberater prüfen lassen, ob die Erwähnung gewünscht ist.",
+    "QA 02.10.: Steuerhinweis § 7h/§ 10f EStG aus Text und Fakten gestrichen (Bekannte Stelle, Punkt 12); Förderbedingung Modernisierungsvereinbarung durch Verweis auf Sanierungsstelle ersetzt; „müssen genehmigt werden“/„schreibt vor“ als Wiedergabe gefasst. FAQ 3: Beratungszeiten (dienstags/donnerstags) gestrichen (Punkt 1), unbelegte Energieagentur-/Ministeriumsverweise in FAQ 1/3 entfernt. Energieberatung von Stadt und Stadtwerken auf Seite Gebäudesanierung per curl belegt → in Fakt aufgenommen. Fakt Solarisierung/Dachlandschaft entfernt (nicht im Text, steht auf der Elektro-Seite)."
   ]
 }

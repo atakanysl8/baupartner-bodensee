@@ -10,15 +10,15 @@
   "abschnitte": [
     {
       "h2": "Bebauungsplan und Baugrenze: wo eine Überdachung stehen darf",
-      "text": "Ob ein Vorhaben verfahrensfrei ist oder einen Antrag braucht, ergibt sich aus der Landesbauordnung; die Stadt weist aber darauf hin, dass viele Karlsruher Bebauungspläne zusätzliche Vorgaben enthalten. Außerhalb der Baugrenze sind bauliche Anlagen danach häufig nur eingeschränkt zulässig, und für Vorgärten können Begrünungspflichten gelten. Gerade eine Terrassenüberdachung oder ein Carport am Rand des Grundstücks kann an solche Grenzen stoßen. Die Bebauungspläne sind im Geoportal der Stadt einsehbar; Auskunft gibt das Bauordnungsamt."
+      "text": "Die Stadt weist darauf hin, dass Karlsruher Bebauungspläne eigene Vorgaben enthalten können. Außerhalb der Baugrenze sind bauliche Anlagen danach häufig nur eingeschränkt zulässig, und für Vorgärten können Begrünungspflichten gelten. Gerade eine Terrassenüberdachung oder ein Carport am Rand des Grundstücks kann an solche Grenzen stoßen. Die Bebauungspläne sind im Geoportal der Stadt einsehbar; Auskunft gibt das Bauordnungsamt."
     },
     {
-      "h2": "Regenwasser und Gebühr: jede neue Fläche zählt",
-      "text": "Karlsruhe erhebt die Abwassergebühr gesplittet. Für die Niederschlagswassergebühr zählen nur befestigte Flächen, von denen Regenwasser direkt oder indirekt in die öffentliche Kanalisation läuft, abgerechnet pro zehn Quadratmeter und Jahr. Ein neues Terrassendach, ein Carport oder eine größere Pflasterfläche kann diese Fläche vergrößern, ein Kies- oder Rasenstreifen zum Versickern sie verkleinern. Fragen beantwortet das Tiefbauamt. Wer den Garten häufig mit Leitungswasser gießt, kann über einen geeichten Gießwasserzähler eine Minderung der Schmutzwassergebühr beantragen; die Stadt rät, Kosten und erwartete Erstattung vorher zu vergleichen."
+      "h2": "Regenwasser und Gebühr: was als Fläche zählt",
+      "text": "Karlsruhe erhebt die Abwassergebühr gesplittet. Für die Niederschlagswassergebühr zählen nur befestigte Flächen, von denen Regenwasser direkt oder indirekt in die öffentliche Kanalisation läuft, abgerechnet pro zehn Quadratmeter und Jahr. Ein neues Terrassendach, ein Carport oder eine größere Pflasterfläche kann diese Fläche vergrößern; Fragen beantwortet das Tiefbauamt. Gießwasser, das nachweislich nicht in den Kanal gelangt, kann laut Stadt auf Antrag von der Schmutzwassergebühr abgesetzt werden, in der Regel über einen geeichten Gießwasserzähler."
     },
     {
       "h2": "Bäume und Entsiegelung im Garten",
-      "text": "Steht ein großer Baum im Weg, gilt die Karlsruher Baumschutzsatzung. Geschützt sind in der Regel Bäume ab 80 Zentimeter Stammumfang, Obstbäume erst ab 150 Zentimetern, Eiben, Buchs und Stechpalmen dagegen schon ab 40 Zentimetern. Fällungen erlaubt die Stadt nur mit Bescheid und nur zwischen Oktober und Ende Februar. Wer versiegelte Flächen zurückbaut und begrünt, kann das städtische Begrünungsprogramm nutzen; neue Wege- und Bodenbeläge fördert es allerdings nicht, auch keine wasserdurchlässigen. Ist der Plan klar, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Steht ein großer Baum im Weg, gilt die Karlsruher Baumschutzsatzung. Geschützt sind in der Regel Bäume ab 80 Zentimeter Stammumfang, Obstbäume erst ab 150 Zentimetern, Eiben, Buchs und Stechpalmen dagegen schon ab 40 Zentimetern. Gefällt werden darf laut Stadt nur mit Bescheid und nur zwischen Oktober und Ende Februar. Für den Rückbau versiegelter Flächen mit anschließender Begrünung hat die Stadt ein Begrünungsprogramm; über die aktuellen Bedingungen informiert die Stadt. Ist der Plan klar, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -35,7 +35,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Wassermengen, die nachweislich nicht in die Kanalisation gelangen, etwa Gießwasser, können auf Antrag von der Schmutzwassergebühr abgesetzt werden; der Nachweis erfolgt in der Regel über einen geeichten Gießwasserzähler, der unmittelbar nach dem Einbau zu melden ist.",
+      "text": "Wassermengen, die nachweislich nicht in die Kanalisation gelangen, etwa Gießwasser, können auf Antrag von der Schmutzwassergebühr abgesetzt werden; der Nachweis erfolgt in der Regel über einen geeichten Gießwasserzähler, den die Stadt unmittelbar nach dem Einbau gemeldet haben möchte.",
       "quelle": "Stadt Karlsruhe – Entwässerungsgebühren",
       "url": "https://www.karlsruhe.de/umwelt-klima/gewaesser-stadtentwaesserung/entwaesserungsgebuehren",
       "abruf": "2026-10-02"
@@ -53,7 +53,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Das städtische Begrünungsprogramm fördert Entsiegelung nur in Verbindung mit anschließender Begrünung, auch den Rückbau von Schottergärten; Boden- und Wegebefestigungen einschließlich wasserdurchlässiger Beläge werden seit Juni 2022 nicht mehr gefördert.",
+      "text": "Das städtische Begrünungsprogramm in Karlsruhe umfasst die Entsiegelung von Flächen in Verbindung mit anschließender Begrünung, auch den Rückbau von Schottergärten.",
       "quelle": "Stadt Karlsruhe – Förderprogramm zur Begrünung von Dächern, Fassaden und versiegelten Freiflächen",
       "url": "https://www.karlsruhe.de/umwelt-klima/stadtgruen-wald/gebaeudebezogenes-gruen/foerderprogramm-zur-begruenung-von-hoefen-daechern-und-fassaden",
       "abruf": "2026-10-02"
@@ -66,7 +66,7 @@
     },
     {
       "q": "Darf ich für einen Carport in Karlsruhe einen Baum fällen?",
-      "a": "Fällt der Baum unter die Baumschutzsatzung, braucht es einen Bescheid des Gartenbauamts, und gefällt werden darf nur von Oktober bis Ende Februar. Für den Antrag bittet die Stadt um Fotos und den gemessenen Stammumfang."
+      "a": "Fällt der Baum unter die Baumschutzsatzung, sieht die Stadt einen Bescheid des Gartenbauamts vor; gefällt werden darf laut Stadt nur von Oktober bis Ende Februar. Für den Antrag bittet die Stadt um Fotos und den gemessenen Stammumfang."
     },
     {
       "q": "Wo sehe ich, ob mein Bebauungsplan Vorgaben für Vorgarten oder Nebenanlagen enthält?",
@@ -77,6 +77,8 @@
     "Verfahrensfreiheit von Terrassenüberdachungen und Carports nach Anhang zu § 50 LBO bewusst nicht dargestellt; keine Karlsruher Quelle mit eigener Darstellung gefunden.",
     "Stadtteilnennungen im Einstieg (Waldstadt, Stupferich, Oststadt) sind Beispiele ohne eigene Fakt-Quelle.",
     "Gebührensätze 2026 (u. a. Niederschlagswasser je 10 m²) bewusst nicht genannt.",
-    "Hinweis der Stadt zu Ordnungswidrigkeiten bei unerlaubten Fällungen bewusst weggelassen."
+    "Hinweis der Stadt zu Ordnungswidrigkeiten bei unerlaubten Fällungen bewusst weggelassen.",
+    "QA 02.10.: Eigene LBO-Einordnung (verfahrensfrei) ohne städtische Darstellung entfernt (Vorlage 2 C); abgeleitete Ersparnisaussage Kies-/Rasenstreifen und Rat zum Kostenvergleich Gießwasserzähler gestrichen (Vorlage 2 D).",
+    "QA 02.10.: Begrünungsprogramm nur Existenz + Verweis, Förderausschluss „seit Juni 2022“ entfernt (Punkt 2/16); Fällregeln als Wiedergabe gefasst."
   ]
 }

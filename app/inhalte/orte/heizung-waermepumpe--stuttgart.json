@@ -4,9 +4,9 @@
   "ortName": "Stuttgart",
   "kreis": "Stuttgart",
   "title": "Wärmepumpe Stuttgart – Heizungsbauer kostenlos vermittelt",
-  "description": "Wärmepumpe und Heizung in Stuttgart: digitaler Wärmeplan, Erdwärme und Grundwasserschutz, städtisches Heizungsprogramm. Heizungsbauer kostenlos vermittelt.",
+  "description": "Wärmepumpe und Heizung in Stuttgart: digitaler Wärmeplan, Wärmenetz oder Einzelversorgung, Erdwärme und Grundwasserschutz. Heizungsbauer kostenlos vermittelt.",
   "h1": "Wärmepumpe und Heizung in Stuttgart",
-  "einstieg": "Die alte Gasheizung im Mehrfamilienhaus macht es nicht mehr lange, oder die Ölheizung im Einfamilienhaus auf den Fildern soll durch eine Wärmepumpe ersetzt werden: In Stuttgart stellt sich beim Heizungstausch zuerst die Frage, ob ein Wärmenetz in Reichweite ist. Danach geht es um Lärm, Untergrund und Förderung.",
+  "einstieg": "Die alte Gasheizung im Mehrfamilienhaus macht es nicht mehr lange, oder die Ölheizung im Einfamilienhaus auf den Fildern soll durch eine Wärmepumpe ersetzt werden: In Stuttgart stellt sich beim Heizungstausch zuerst die Frage, ob ein Wärmenetz in Reichweite ist. Danach geht es um Lärmschutz und den Untergrund.",
   "abschnitte": [
     {
       "h2": "Digitaler Wärmeplan: Wärmenetz oder eigene Heizung?",
@@ -14,11 +14,7 @@
     },
     {
       "h2": "Wärmepumpe in Stuttgart: Luft, Erdwärme und Grundwasserschutz",
-      "text": "Für die meisten Häuser nennt die Stadt die Luft-Wasser-Wärmepumpe als Lösung, wenn keine andere Wärmequelle verfügbar ist. Baurechtlich ist eine Wärmepumpe laut Baurechtsamt verfahrensfrei; zum Schutz der Nachbarn sind aber Mindestabstände einzuhalten, und gerade in dicht bebauten Halbhöhenlagen ist die Wahl eines leisen Geräts wichtig. Erdwärme ist in Stuttgart ein besonderes Thema: Neben Wasserschutzgebieten gibt es ein Heilquellenschutzgebiet für das Mineralwasser, und das Amt für Umweltschutz macht in wasserrechtlichen Verfahren fachliche Vorgaben zum Grundwasserschutz."
-    },
-    {
-      "h2": "Heizungstausch im Bestand: das städtische Heizungsprogramm",
-      "text": "Für Bestandsgebäude unterstützt die Stadt den Umstieg mit dem Heizungsprogramm: gefördert werden Wärmepumpen, Übergabestationen für den Anschluss an ein Wärmenetz und Solarthermie, außerdem größere Heizkörper, eine neue Fußbodenheizung oder die Umstellung von Einzelöfen auf eine Zentralheizung. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb für Heizung und Wärmepumpe aus."
+      "text": "Für die meisten Häuser nennt die Stadt die Luft-Wasser-Wärmepumpe als Lösung, wenn keine andere Wärmequelle verfügbar ist. Baurechtlich ist eine Wärmepumpe laut Baurechtsamt verfahrensfrei; zum Schutz der Nachbarn nennt es aber Mindestabstände. Erdwärme ist in Stuttgart ein besonderes Thema: Neben Wasserschutzgebieten gibt es ein Heilquellenschutzgebiet für das Mineralwasser, und das Amt für Umweltschutz macht in wasserrechtlichen Verfahren fachliche Vorgaben zum Grundwasserschutz. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb für Heizung und Wärmepumpe aus."
     }
   ],
   "fakten": [
@@ -53,12 +49,6 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Das Stuttgarter Heizungsprogramm gilt ausschließlich für Bestandsgebäude und fördert Wärmepumpen, Übergabestationen beim Anschluss an ein Wärmenetz, Solarthermie sowie unterstützende Maßnahmen wie größere Heizkörper und die Zentralisierung der Heizung.",
-      "quelle": "Landeshauptstadt Stuttgart – Heizungsprogramm",
-      "url": "https://www.stuttgart.de/leben/umwelt/energie/foerderprogramme/heizungsprogramm",
-      "abruf": "2026-10-02"
-    },
-    {
       "text": "Der Konzessionsvertrag für das bestehende Stuttgarter Fernwärmenetz ist am 31.12.2013 ausgelaufen; der Gemeinderat hat für bestehende Netze ein formales Ausschreibungsverfahren und für neue Fernwärmenetze ein gesondertes Verfahren beschlossen.",
       "quelle": "Landeshauptstadt Stuttgart – Vergabe für Fernwärmenetz",
       "url": "https://www.stuttgart.de/leben/bauen/vergabe-fuer-fernwaermenetz/",
@@ -83,6 +73,7 @@
     "Zuständigkeit als „untere Wasserbehörde“ nicht wörtlich gefunden; belegt ist nur, dass das Amt für Umweltschutz (Technischer Grundwasserschutz) Vorgaben in wasserrechtlichen Erlaubnisverfahren macht. Im Text so formuliert.",
     "Keine Stuttgarter Seite gefunden, die konkrete Bohrverbote im Heilquellenschutzgebiet nennt; daher nur allgemein „nicht ohne Weiteres“.",
     "Heizungsprogramm: Fördermittel 2026 laut Stadt ausgeschöpft (Auszahlung ab 2027) – nicht im Text; Fördersätze und JAZ-Anforderungen weggelassen.",
-    "Betreiber des bestehenden Fernwärmenetzes (EnBW) bewusst nicht genannt."
+    "Betreiber des bestehenden Fernwärmenetzes (EnBW) bewusst nicht genannt.",
+    "QA 02.10.: Abschnitt, Fakt und Description-/Einstiegsbezug zum städtischen Heizungsprogramm entfernt – Fördermittel 2026 laut Stadt ausgeschöpft (Punkt 2). Unbelegten Satz zur Wahl eines leisen Geräts in Halbhöhenlagen entfernt (Punkt 13). Kürzung von 610 auf unter 600 Wörter."
   ]
 }

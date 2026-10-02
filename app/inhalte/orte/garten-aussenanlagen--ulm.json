@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Terrassenüberdachung in Ulm: Baurecht und Leitungen im Boden",
-      "text": "Die Stadt Ulm stellt es so dar: Für ein Bauvorhaben ist eine Baugenehmigung nötig, es sei denn, es ist verfahrensfrei oder fällt unter das Kenntnisgabeverfahren; maßgeblich ist die Landesbauordnung Baden-Württemberg. Ob Ihre Überdachung oder Ihr Carport darunter fällt, beantwortet der BürgerService Bauen in der Münchner Straße. Auch ein verfahrensfreies Vorhaben muss in der Regel zum Bebauungsplan und zum Nachbarrecht passen, das im Nachbarrechtsgesetz Baden-Württemberg geregelt ist. Ein zweiter Punkt liegt unter der Erde: Der Ulmer Netzbetreiber weist darauf hin, dass Netzanschlüsse nicht überbaut werden dürfen, und rät, spätere Vorhaben wie Terrasse oder Garage schon bei der Lage der Hausanschlüsse mitzudenken. Über seine Leitungsauskunft lässt sich klären, wo Leitungen verlaufen, bevor Fundamente für Pfosten gegossen werden."
+      "text": "Die Stadt Ulm stellt es so dar: Für ein Bauvorhaben ist eine Baugenehmigung nötig, es sei denn, es ist verfahrensfrei oder fällt unter das Kenntnisgabeverfahren; maßgeblich ist die Landesbauordnung Baden-Württemberg. Ob Ihre Überdachung oder Ihr Carport darunter fällt, beantwortet der BürgerService Bauen in der Münchner Straße. Ein zweiter Punkt liegt unter der Erde: Der Ulmer Netzbetreiber weist darauf hin, dass Netzanschlüsse nicht überbaut werden dürfen, und rät, spätere Vorhaben wie Terrasse oder Garage schon bei der Lage der Hausanschlüsse mitzudenken. Über seine Leitungsauskunft lässt sich klären, wo Leitungen verlaufen, bevor Fundamente für Pfosten gegossen werden."
     },
     {
       "h2": "Pflaster, Zisterne und Hecken: was in Ulm die Gebühr und den Zeitplan beeinflusst",
-      "text": "Die Entsorgungs-Betriebe der Stadt Ulm berechnen die Niederschlagswassergebühr nach der bebauten und befestigten Fläche, die an den Kanal angeschlossen ist. Grundlage ist ein Gebietsabflussbeiwert aus 130 Gebieten mit sieben Gebietstypen. Wer per Einzelveranlagung abgerechnet wird, meldet neue Dach- und Pflasterflächen nach einem Umbau zur Neuberechnung. Flächen, deren Wasser dauerhaft auf dem Grundstück versickert, kosten keine Niederschlagsgebühr; teildurchlässige Beläge werden ermäßigt berücksichtigt, eine Zisterne mit Notüberlauf mindert die Fläche anteilig. Für den Zeitplan wichtig: Hecken und Sträucher dürfen nach Bundesnaturschutzgesetz zwischen 1. März und 30. September grundsätzlich nicht entfernt werden, geringfügiger Gehölzbewuchs bei zulässigen Baumaßnahmen ist ausgenommen. Wenn Sie Ihr Projekt beschrieben haben, wählen wir für Ihre Anfrage einen passenden Fachbetrieb für Überdachung oder Außenanlage aus."
+      "text": "Die Entsorgungs-Betriebe der Stadt Ulm berechnen die Niederschlagswassergebühr nach der bebauten und befestigten Fläche, die an den Kanal angeschlossen ist. Bei Einzelveranlagung sind laut Entsorgungs-Betrieben hinzugekommene Gebäude- und befestigte Flächen nach baulichen Veränderungen zur Neuberechnung mitzuteilen. Für dauerhaft abgekoppelte Flächen mit Versickerung auf dem Grundstück wird keine Niederschlagsgebühr berechnet; teildurchlässige Beläge werden bei Einzelveranlagung ermäßigt berücksichtigt, eine Zisterne mit Notüberlauf mindert die Fläche anteilig. Für den Zeitplan weist die Stadt darauf hin, dass Hecken und Sträucher nach Bundesnaturschutzgesetz zwischen 1. März und 30. September grundsätzlich nicht entfernt werden dürfen; geringfügiger Gehölzbewuchs bei zulässigen Baumaßnahmen ist ausgenommen. Wenn Sie Ihr Projekt beschrieben haben, wählen wir für Ihre Anfrage einen passenden Fachbetrieb für Überdachung oder Außenanlage aus."
     }
   ],
   "fakten": [
@@ -62,16 +62,17 @@
     },
     {
       "q": "Steigt in Ulm die Abwassergebühr, wenn ich Terrasse oder Einfahrt pflastere?",
-      "a": "Die Niederschlagswassergebühr richtet sich nach der an den Kanal angeschlossenen befestigten Fläche. Wer per Einzelveranlagung abgerechnet wird, meldet neue Flächen; versickert das Wasser dauerhaft auf dem Grundstück, fällt für diese Fläche keine Gebühr an."
+      "a": "Die Niederschlagswassergebühr richtet sich nach der an den Kanal angeschlossenen befestigten Fläche. Bei Einzelveranlagung sind neue Flächen laut Entsorgungs-Betrieben mitzuteilen; für dauerhaft abgekoppelte Flächen mit Versickerung wird keine Gebühr berechnet."
     },
     {
       "q": "Darf ich für die Terrasse in Ulm im Sommer eine Hecke entfernen?",
-      "a": "Zwischen 1. März und 30. September ist das Entfernen von Hecken grundsätzlich verboten; für geringfügigen Bewuchs bei zulässigen Baumaßnahmen gibt es eine Ausnahme. Bei Nestern oder Baumhöhlen prüft die Abteilung Umweltrecht und Gewerbeaufsicht, ob eine Befreiung nötig ist."
+      "a": "Laut Stadt ist das Entfernen von Hecken zwischen 1. März und 30. September nach Bundesnaturschutzgesetz grundsätzlich verboten; für geringfügigen Bewuchs bei zulässigen Baumaßnahmen gibt es eine Ausnahme. Zuständig ist die Abteilung Umweltrecht und Gewerbeaufsicht."
     }
   ],
   "offen": [
     "Keine Ulmer Baumschutzsatzung online gefunden; nur Hinweise zum Gehölzrückschnitt nach BNatSchG.",
     "Verfahrensfreie Vorhaben nur so wiedergegeben, wie die Stadt Ulm es allgemein darstellt; keine Maße genannt.",
-    "Satz zum Nachbarrechtsgesetz und Bebauungsplan ist allgemeine Einordnung („in der Regel“), nicht durch eine Ulmer Quelle belegt – ggf. anwaltlich prüfen."
+    "Satz zum Nachbarrechtsgesetz und Bebauungsplan ist allgemeine Einordnung („in der Regel“), nicht durch eine Ulmer Quelle belegt – ggf. anwaltlich prüfen.",
+    "QA 02.10.: Unbelegte allgemeine Einordnung „verfahrensfreies Vorhaben muss zum Bebauungsplan und Nachbarrecht passen“ entfernt (bekannte Stelle, Punkt 13). Gebühren- und Heckensätze als Wiedergabe von EBU/Stadt gefasst (teildurchlässige Beläge laut EBU nur bei Einzelveranlagung). Kürzung von 621 auf unter 600 Wörter (Punkt 11). EBU-Werte am 02.10. bestätigt; ulm.de-Seiten blockten (403)."
   ]
 }

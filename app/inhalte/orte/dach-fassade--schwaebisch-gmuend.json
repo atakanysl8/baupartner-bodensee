@@ -4,17 +4,17 @@
   "ortName": "Schwäbisch Gmünd",
   "kreis": "Ostalbkreis",
   "title": "Dachdecker Schwäbisch Gmünd – kostenlos vermittelt",
-  "description": "Dachdecker in Schwäbisch Gmünd: Solarkataster für die Altstadt, Dachdämmung im Sanierungsgebiet, Dachgeschoss am Denkmal. Fachbetrieb kostenlos vermittelt.",
+  "description": "Dachdecker in Schwäbisch Gmünd: Solarkataster für die Altstadt, Dachdämmung im Sanierungsgebiet, Solaranlage am Denkmal. Fachbetrieb kostenlos vermittelt.",
   "h1": "Dachdecker in Schwäbisch Gmünd",
   "einstieg": "Wer einen Dachdecker in Schwäbisch Gmünd sucht, steht oft vor mehr als einer Neueindeckung: Das Dach soll gedämmt werden, vielleicht kommt eine Solaranlage dazu, und beim Altbau in der Innenstadt stellt sich die Frage nach Denkmalschutz und Sanierungsgebiet. Die Stadt hält dafür eigene Karten und klare Verfahrensregeln bereit.",
   "abschnitte": [
     {
       "h2": "Dachdecker in Schwäbisch Gmünd: Solardach in der Altstadt planen",
-      "text": "Die historische Altstadt ist als Gesamtanlage denkmalgeschützt. Für Photovoltaik- oder Solarthermieanlagen gelten dort besondere Anforderungen. Die Stadt hat dafür ein eigenes Solarkataster für die denkmalgeschützte Altstadt aufgebaut, das zeigt, welche Möglichkeiten bei welchem Gebäude bestehen, und als Grundlage für die denkmalrechtliche Beurteilung dient. Außerhalb der Altstadt gibt das Solarkataster des Landes eine erste Orientierung zur Eignung einzelner Dächer. Für den Dachdecker ist das wichtig, weil Eindeckung, Unterkonstruktion und spätere Modulbefestigung zusammenpassen müssen. Bei Gebäuden, von denen nur Teile unter Schutz stehen, etwa die Fassade oder ein Dachreiter, beschränkt sich die steuerliche Denkmalbescheinigung auf die Arbeiten, die zur Erhaltung genau dieser Bauteile nötig sind."
+      "text": "Die historische Altstadt ist als Gesamtanlage denkmalgeschützt. Für Photovoltaik- oder Solarthermieanlagen gelten dort besondere Anforderungen. Die Stadt hat dafür ein eigenes Solarkataster für die denkmalgeschützte Altstadt aufgebaut, das zeigt, welche Möglichkeiten bei welchem Gebäude bestehen, und als Grundlage für die denkmalrechtliche Beurteilung dient. Für Solaranlagen auf Denkmalen ist laut Stadt eine denkmalschutzrechtliche Genehmigung erforderlich; ob ein Gebäude unter Denkmalschutz steht, lässt sich im Geodatenportal der Stadt abrufen. Außerhalb der Altstadt gibt das Solarkataster des Landes eine erste Orientierung zur Eignung einzelner Dächer. Für den Dachdecker ist das wichtig, weil Eindeckung, Unterkonstruktion und spätere Modulbefestigung zusammenpassen müssen."
     },
     {
-      "h2": "Dachdämmung, Dachgeschoss und Klimaanpassung",
-      "text": "In einem förmlich festgelegten Sanierungsgebiet zählt die Stadt die Wärmedämmung des Daches zu den Maßnahmen, für die in der Regel eine sanierungsrechtliche Genehmigung erforderlich ist. Wer dort eine Steuerbescheinigung erhalten möchte, schließt vor Beginn eine Vereinbarung mit der Stadt; als begünstigte Baukosten nennt sie unter anderem Dachsanierung und Wärmedämmung, sofern sie den Sanierungszielen entsprechen. Beim Kulturdenkmal ist Vorsicht beim Ausbau geboten: Ein Dachgeschossausbau zusätzlich zur vorhandenen Nutzung gilt laut Stadt in der Regel als Optimierung der wirtschaftlichen Nutzung und ist dann nicht bescheinigungsfähig. Für Dachentwässerung und Gründach lohnt außerdem der Blick auf das Klimaanpassungskonzept, das der Gemeinderat im Dezember 2024 beschlossen hat. Wenn Sie den Umfang Ihres Dachprojekts kennen, beschreiben Sie es kurz über unser Formular; wir suchen für Ihre Anfrage einen passenden Dachdeckerbetrieb aus."
+      "h2": "Dachdämmung im Sanierungsgebiet und Klimaanpassung",
+      "text": "In einem förmlich festgelegten Sanierungsgebiet zählt die Stadt die Wärmedämmung der Fassaden und des Daches zu den Veränderungen, für die eine sanierungsrechtliche Genehmigung erforderlich ist. Diese Genehmigung ersetzt laut Stadt die Baugenehmigung nicht, sondern kommt hinzu. Ob ein Grundstück in einem Sanierungsgebiet liegt, kann bei der Stadt erfragt oder im Geodatenportal abgerufen werden. Für Dachentwässerung und Gründach lohnt außerdem der Blick auf das Klimaanpassungskonzept, das der Gemeinderat im Dezember 2024 beschlossen hat. Wenn Sie den Umfang Ihres Dachprojekts kennen, beschreiben Sie es kurz über unser Formular; wir suchen für Ihre Anfrage einen passenden Dachdeckerbetrieb aus."
     }
   ],
   "fakten": [
@@ -31,19 +31,19 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Stehen nur Teile eines Gebäudes unter Denkmalschutz, etwa Fassade oder Dachreiter, sind steuerlich nur die Aufwendungen bescheinigungsfähig, die zur Erhaltung dieses Bauteils erforderlich sind.",
+      "text": "Für Solaranlagen auf Denkmalen ist laut Stadt Schwäbisch Gmünd eine denkmalschutzrechtliche Genehmigung erforderlich; ob ein Gebäude unter Denkmalschutz steht, kann im Geodatenportal der Stadt abgerufen werden.",
       "quelle": "Stadt Schwäbisch Gmünd – Denkmalschutz",
       "url": "https://www.schwaebisch-gmuend.de/wohnen-bauen-stadtentwicklung/denkmalschutz.html",
       "abruf": "2026-10-02"
     },
     {
-      "text": "Der Ausbau des Dachgeschosses zusätzlich zur vorhandenen Nutzung gilt laut Stadt Schwäbisch Gmünd in der Regel als Optimierung der wirtschaftlichen Nutzung eines Baudenkmals und ist dann nicht steuerlich bescheinigungsfähig.",
-      "quelle": "Stadt Schwäbisch Gmünd – Denkmalschutz",
-      "url": "https://www.schwaebisch-gmuend.de/wohnen-bauen-stadtentwicklung/denkmalschutz.html",
+      "text": "In Sanierungsgebieten nennt die Stadt Schwäbisch Gmünd die Wärmedämmung der Fassaden und des Daches als Beispiel für Veränderungen, die eine sanierungsrechtliche Genehmigung erfordern; diese ersetzt die Baugenehmigung nicht.",
+      "quelle": "Stadt Schwäbisch Gmünd – Stadtsanierung",
+      "url": "https://www.schwaebisch-gmuend.de/wohnen-bauen-stadtentwicklung/stadtsanierung.html",
       "abruf": "2026-10-02"
     },
     {
-      "text": "Als begünstigte Baukosten für die steuerliche Bescheinigung im Sanierungsgebiet nennt die Stadt Schwäbisch Gmünd unter anderem Fassaden- und Dachsanierung sowie Wärmedämmung, sofern sie den Sanierungszielen entsprechen; vor Beginn ist eine vertragliche Vereinbarung mit der Stadt nötig.",
+      "text": "Ob ein Grundstück in einem Sanierungsgebiet liegt, kann bei der Stadt Schwäbisch Gmünd erfragt werden; die rechtskräftigen Sanierungsgebiete sind auch im Geodatenportal abrufbar.",
       "quelle": "Stadt Schwäbisch Gmünd – Stadtsanierung",
       "url": "https://www.schwaebisch-gmuend.de/wohnen-bauen-stadtentwicklung/stadtsanierung.html",
       "abruf": "2026-10-02"
@@ -62,16 +62,17 @@
     },
     {
       "q": "Brauche ich für eine Dachdämmung im Gmünder Sanierungsgebiet eine Genehmigung?",
-      "a": "Die Stadt nennt die Wärmedämmung des Daches als Beispiel für Veränderungen, die in der Regel eine sanierungsrechtliche Genehmigung erfordern. Sie kommt zur Baugenehmigung hinzu, falls diese nötig ist."
+      "a": "Die Stadt nennt die Wärmedämmung des Daches als Beispiel für Veränderungen, die eine sanierungsrechtliche Genehmigung erfordern. Sie kommt zur Baugenehmigung hinzu, falls diese nötig ist."
     },
     {
-      "q": "Wird ein Dachausbau am Gmünder Denkmal steuerlich begünstigt?",
-      "a": "Ein Dachgeschossausbau zusätzlich zur vorhandenen Nutzung gilt laut Stadt in der Regel als Optimierung und ist dann nicht bescheinigungsfähig. Den Einzelfall stimmt man vorab mit der unteren Denkmalschutzbehörde ab."
+      "q": "Wo erfahre ich, ob mein Gmünder Haus unter Denkmalschutz steht?",
+      "a": "Laut Stadt lässt sich das im Geodatenportal der Stadt Schwäbisch Gmünd abrufen. Ausführlichere Auskunft gibt die Denkmalschutzbehörde der Stadt auf Anfrage von Eigentümern oder Bevollmächtigten."
     }
   ],
   "offen": [
     "gmuendfuermorgen.de ist das Portal der Stadt (Impressum: Stadt Schwäbisch Gmünd); in der Quelle so gekennzeichnet.",
     "Kein städtisches Gründach-Förderprogramm gefunden; Dachbegrünung nur im Kontext Klimaanpassungskonzept angedeutet.",
-    "Starkregengefahrenkarten bereits auf Hochbau- und Bad-Seite Gmünd; hier nicht erneut als Fakt."
+    "Starkregengefahrenkarten bereits auf Hochbau- und Bad-Seite Gmünd; hier nicht erneut als Fakt.",
+    "QA 02.10.: Steuerhinweise (Denkmal-Steuerbescheinigung Teilbauteile, Dachgeschossausbau nicht bescheinigungsfähig, Steuerbescheinigung im Sanierungsgebiet) aus Text, Fakten und FAQ entfernt (Punkt 12). Ersetzt durch Denkmal-Genehmigung für Solaranlagen und Geodatenportal (Denkmalschutz-Seite) sowie Sanierungsgebiet-Abfrage (Stadtsanierung-Seite), beide am 02.10. gelesen; Genehmigungsfakt auf Wortlaut der Stadt („Wärmedämmung der Fassaden und des Daches“) angepasst, „in der Regel“ bezog sich in der Quelle auf allgemeine Veränderungen."
   ]
 }

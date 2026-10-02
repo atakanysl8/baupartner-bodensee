@@ -6,19 +6,19 @@
   "title": "Elektriker Mannheim – Fachbetrieb kostenlos vermittelt",
   "description": "Elektriker in Mannheim: Zählerschrank, Wallbox und Photovoltaik mit Anmeldung bei MVV Netze und Solar-Check der Klimaschutzagentur. Kostenlos vermittelt.",
   "h1": "Elektriker in Mannheim",
-  "einstieg": "Ein neuer Zählerschrank im Altbau der Neckarstadt, eine Wallbox in der Garage in Feudenheim oder Solarmodule auf dem Reihenhaus in Seckenheim: Wer einen Elektriker in Mannheim sucht, hat es fast immer auch mit dem örtlichen Netzbetreiber zu tun. Denn neue Verbraucher und Erzeugungsanlagen werden dort angemeldet, bevor sie Strom beziehen oder einspeisen. Wer die Abläufe kennt, kann Termine und Zählerfragen von Anfang an mitplanen.",
+  "einstieg": "Ein neuer Zählerschrank im Altbau der Neckarstadt, eine Wallbox in der Garage in Feudenheim oder Solarmodule auf dem Reihenhaus in Seckenheim: Wer einen Elektriker in Mannheim sucht, hat es fast immer auch mit dem örtlichen Netzbetreiber zu tun. Denn neue Verbraucher und Erzeugungsanlagen werden dort angemeldet, bevor sie Strom beziehen oder einspeisen.",
   "abschnitte": [
     {
       "h2": "Elektriker in Mannheim: was MVV Netze bei Wallbox und Wärmepumpe wissen will",
-      "text": "Netzbetreiber im Stadtgebiet ist MVV Netze. Nach dessen Angaben müssen alle Ladeeinrichtungen für Elektroautos unabhängig von der Ladeleistung gemeldet werden; eine Genehmigung ist erforderlich, sobald die Summen-Bemessungsleistung je elektrischer Anlage 12 kVA überschreitet. Die Meldung übernimmt in der Regel der ausführende Elektrobetrieb nach der Installation. Hinzu kommt seit 2024 die Regelung des § 14a Energiewirtschaftsgesetz: Wärmepumpen, Ladeeinrichtungen und Batteriespeicher ab 4,2 kW gelten als steuerbare Verbrauchseinrichtungen. Für ältere Häuser bedeutet das oft, dass der Zählerschrank Platz für zusätzliche Zähler- und Steuertechnik bieten muss. Ob der vorhandene Hausanschluss genügt, beurteilt der Netzbetreiber im Einzelfall."
+      "text": "Netzbetreiber im Stadtgebiet ist MVV Netze. Nach dessen Angaben müssen alle Ladeeinrichtungen für Elektroautos unabhängig von der Ladeleistung gemeldet werden; eine Genehmigung ist erforderlich, sobald die Summen-Bemessungsleistung je elektrischer Anlage 12 kVA überschreitet. Die Meldung übernimmt in der Regel der ausführende Elektrobetrieb nach der Installation. Hinzu kommt seit 2024 die Regelung des § 14a Energiewirtschaftsgesetz: Wärmepumpen, Ladeeinrichtungen und Batteriespeicher ab 4,2 kW gelten als steuerbare Verbrauchseinrichtungen. Ob der vorhandene Hausanschluss genügt, beurteilt der Netzbetreiber im Einzelfall."
     },
     {
       "h2": "Photovoltaik auf Mannheimer Dächern: vom Solar-Check bis zur Verplombung",
-      "text": "Vor der Planung bietet die Klimaschutzagentur Mannheim einen Solar-Check an: Unabhängige Energieberater prüfen kostenlos, ob ein Gebäude für eine Photovoltaikanlage geeignet ist, und berücksichtigen dabei auch Verschattung und Stromverbrauch. Das Angebot gilt nur für Gebäude in Mannheim. Für den Netzanschluss beantragt ein zugelassener, konzessionierter Elektroinstallateur die Anlage bei MVV Netze; der Netzbetreiber prüft, ob Hausanschluss und vorgelagertes Netz zur geplanten Anlagengröße passen. Die eigentliche Inbetriebnahme mit Verplombung erfolgt durch einen Beauftragten von MVV Netze, Erzeugungs- und Einspeisezähler stellt ein Messstellenbetreiber. Kundeneigene Zähler sind dabei nicht mehr zulässig."
+      "text": "Vor der Planung bietet die Klimaschutzagentur Mannheim einen Solar-Check an: Unabhängige Energieberater prüfen kostenlos, ob ein Gebäude für eine Photovoltaikanlage geeignet ist, und berücksichtigen dabei auch Verschattung und Stromverbrauch. Für den Netzanschluss beantragt ein zugelassener, konzessionierter Elektroinstallateur die Anlage bei MVV Netze; der Netzbetreiber prüft, ob Hausanschluss und vorgelagertes Netz zur geplanten Anlagengröße passen. Die eigentliche Inbetriebnahme mit Verplombung erfolgt durch einen Beauftragten von MVV Netze, Erzeugungs- und Einspeisezähler stellt ein Messstellenbetreiber."
     },
     {
-      "h2": "Balkonmodul, Mehrfamilienhaus, Gründach: Besonderheiten in Mannheim",
-      "text": "Für steckerfertige Solarmodule nennt MVV Netze eine Grenze von 800 Watt Einspeiseleistung je Haushalt beziehungsweise Zähler; vor der Inbetriebnahme ist die Registrierung im Marktstammdatenregister vorgesehen. Beim städtischen Förderprogramm hat Mannheim den Schwerpunkt laut Pressemitteilung vom März 2026 auf Mehrfamilienhäuser gelegt, bei denen der Solarstrom zumindest teilweise im Gebäude genutzt wird. Auf Ein- und Zweifamilienhäusern kommen danach nur noch Anlagen auf begrünten Dächern oder auf Baudenkmalen in Betracht. Beschreiben Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "h2": "Balkonmodul und städtische Förderung in Mannheim",
+      "text": "Für steckerfertige Solarmodule nennt MVV Netze eine Grenze von 800 Watt Einspeiseleistung je Haushalt beziehungsweise Zähler; vor der Inbetriebnahme ist die Registrierung im Marktstammdatenregister vorgesehen. Daneben führt die Stadt ein eigenes Förderprogramm für Photovoltaik; über die jeweils geltenden Bedingungen informiert die Klimaschutzagentur Mannheim, die die städtischen Programme verwaltet. Beschreiben Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -59,8 +59,8 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Nach dem Gemeinderatsbeschluss vom 10.03.2026 fördert die Stadt Photovoltaik auf Ein- und Zweifamilienhäusern nur noch, wenn das Dach begrünt ist oder das Gebäude unter Denkmalschutz steht; bei Mehrfamilienhäusern wird vorausgesetzt, dass der Solarstrom zumindest teilweise im Gebäude verbraucht wird.",
-      "quelle": "Stadt Mannheim – Pressemitteilung Neustart der Förderprogramme",
+      "text": "Die Stadt Mannheim führt unter anderem ein Förderprogramm für Photovoltaik (Solarbonus); verwaltet werden die städtischen Programme von der Klimaschutzagentur Mannheim, die auch berät.",
+      "quelle": "Stadt Mannheim – Pressemitteilung Förderprogramme 2026",
       "url": "https://www.mannheim.de/de/presse/neustart-der-foerderprogramme-fuer-gebaeudesanierung-heizungserneuerung-photovoltaik-und",
       "abruf": "2026-10-02"
     }
@@ -72,7 +72,7 @@
     },
     {
       "q": "Braucht eine Wallbox in Mannheim eine Genehmigung des Netzbetreibers?",
-      "a": "Gemeldet wird jede Ladeeinrichtung. Eine Genehmigung ist laut MVV Netze erforderlich, wenn die Summen-Bemessungsleistung je elektrischer Anlage 12 kVA überschreitet, etwa bei einer zweiten Wallbox ohne Lademanagement."
+      "a": "Gemeldet wird jede Ladeeinrichtung. Eine Genehmigung ist laut MVV Netze erforderlich, wenn die Summen-Bemessungsleistung je elektrischer Anlage 12 kVA überschreitet."
     },
     {
       "q": "Wo bekomme ich in Mannheim eine unabhängige Einschätzung zur Solaranlage?",
@@ -83,6 +83,10 @@
     "Bearbeitungszeit von MVV Netze („derzeit ca. 6 Wochen“) bewusst nicht übernommen (datierte Momentangabe).",
     "Förderbedingungen der Stadt (PV nur bei Gründach/Denkmal auf EFH/ZFH) Stand Pressemitteilung 10.03.2026; können sich jährlich ändern, keine Beträge genannt.",
     "Stadtteilnamen im Einstieg (Neckarstadt, Feudenheim, Seckenheim) nur als Beispiele, nicht durch Fakten belegt.",
-    "Hinweis zum Zählerschrank im Altbau ist allgemeine Folgerung aus § 14a/Zählertechnik, keine Aussage von MVV Netze."
+    "Hinweis zum Zählerschrank im Altbau ist allgemeine Folgerung aus § 14a/Zählertechnik, keine Aussage von MVV Netze.",
+    "QA 02.10.: Wörter auf ≤ 600 gekürzt (Meta-Satz Einstieg, Doppelungen zu Fakten entfernt).",
+    "QA 02.10.: Förderbedingungen aus PM 10.03.2026 (EFH nur Gründach/Denkmal, MFH Eigenverbrauch) aus Text und Fakt entfernt → nur Existenz Solarbonus + Verweis Klimaschutzagentur.",
+    "QA 02.10.: Folgerung Zählerschrank im Altbau (ohne Quelle) und FAQ-Beispiel „zweite Wallbox ohne Lademanagement“ (abgeleitet) entfernt.",
+    "QA 02.10.: 12 kVA, 4,2 kW, 800 W, Solar-Check/Verbraucherzentrale auf den Quellseiten wörtlich nachgeprüft."
   ]
 }

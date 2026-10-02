@@ -14,7 +14,7 @@
     },
     {
       "h2": "Altes Bürgerhaus, Denkmal und Starkregen",
-      "text": "Solaranlagen sind nach Angaben der Stadt unter bestimmten Voraussetzungen baugenehmigungsfrei, können aber Auflagen des Denkmalschutzes unterliegen; Auskunft gibt der BürgerService Bauen. Bei älteren Häusern lohnt der genaue Blick: Laut Stadt kann auch ein Gebäude, das nicht in der Denkmalliste steht, ein Kulturdenkmal sein, wenn es bisher nicht als solches erkannt wurde; in Zweifelsfällen prüft das Landesamt für Denkmalpflege. Für Dachentwässerung, Lichtschächte und Kellerabgänge spielt der Starkregen eine Rolle. Die Stadt erklärt, dass Starkregengefahrenkarten die Fließwege des Oberflächenabflusses darstellen und dass Starkregen in steileren Lagen Sturzfluten auslösen kann. Haben Sie Ihr Dachvorhaben grob umrissen, beschreiben Sie es über unser Formular; wir suchen einen passenden Dachdeckerbetrieb für Sie aus."
+      "text": "Solaranlagen sind nach Angaben der Stadt unter bestimmten Voraussetzungen baugenehmigungsfrei, können aber Auflagen des Denkmalschutzes unterliegen; Auskunft gibt der BürgerService Bauen. Bei älteren Häusern lohnt der genaue Blick: Laut Stadt kann auch ein Gebäude, das nicht in der Denkmalliste steht, ein Kulturdenkmal sein, wenn es bisher nicht als solches erkannt wurde; in Zweifelsfällen prüft das Landesamt für Denkmalpflege. Zum Thema Starkregen erläutert die Stadt allgemein, dass Starkregengefahrenkarten die Fließwege des Oberflächenabflusses darstellen und dass Starkregen in steileren Lagen Sturzfluten auslösen kann. Haben Sie Ihr Dachvorhaben grob umrissen, beschreiben Sie es über unser Formular; wir suchen einen passenden Dachdeckerbetrieb für Sie aus."
     }
   ],
   "fakten": [
@@ -78,6 +78,7 @@
   "offen": [
     "Keine städtische Gestaltungssatzung zu Dachformen oder Dacheindeckung in Ulm online gefunden.",
     "Kein eigenes Gründach-Förderprogramm der Stadt Ulm gefunden; Ulmer Energieförderprogramm seit 01.09.2026 gestoppt.",
-    "Ob für Ulm bereits Starkregengefahrenkarten veröffentlicht sind, geht aus der Stadtseite nicht eindeutig hervor; nur allgemeine Erläuterung übernommen."
+    "Ob für Ulm bereits Starkregengefahrenkarten veröffentlicht sind, geht aus der Stadtseite nicht eindeutig hervor; nur allgemeine Erläuterung übernommen.",
+    "QA 02.10.: Unbelegten Satz zu Dachentwässerung/Lichtschächten/Kellerabgängen bei Starkregen entfernt; Starkregen nur als allgemeine Erläuterung der Stadt (ob Ulmer Karten vorliegen, unklar; ulm.de blockte am 02.10. curl/WebFetch mit 403, daher nicht erneut prüfbar)."
   ]
 }

@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Elektriker in Tübingen: Anmeldung im swt-Netzportal",
-      "text": "Netzbetreiber im Stadtgebiet sind die Stadtwerke Tübingen. Für Erzeugungsanlagen unterscheiden sie drei Wege: steckerfertige Anlagen bis 800 W, Anlagen bis 270 kW und größere Anlagen. Bei Ladeeinrichtungen beginnt die Anmeldepflicht ab 3,6 kVA. Eine Wallbox bis 11 kW können Privatpersonen selbst im swt-Netzportal anmelden; darüber dürfen nur eingetragene Elektroinstallateure den Antrag stellen. Übersteigt die Summe je Kundenanlage 12 kVA, muss der Netzbetreiber der Installation zustimmen. Die genehmigte Leistung bleibt zwölf Monate reserviert. Nach der Montage wird das Formular zur Inbetriebsetzung hochgeladen."
+      "text": "Netzbetreiber im Stadtgebiet sind die Stadtwerke Tübingen. Für Erzeugungsanlagen unterscheiden sie drei Wege: steckerfertige Anlagen bis 800 W, Anlagen bis 270 kW und größere Anlagen. Bei Ladeeinrichtungen beginnt die Anmeldepflicht ab 3,6 kVA. Eine Wallbox bis 11 kW können Privatpersonen selbst im swt-Netzportal anmelden; darüber dürfen nur eingetragene Elektroinstallateure den Antrag stellen. Übersteigt die Summe je Kundenanlage 12 kVA, sehen die Stadtwerke ihre Zustimmung zur Installation vor. Die genehmigte Leistung bleibt zwölf Monate reserviert."
     },
     {
       "h2": "Wärmepumpe, Speicher und Balkonkraftwerk",
-      "text": "Wärmepumpen, Wallboxen, Stromspeicher und fest installierte Klimaanlagen mit mehr als 4,2 kW gelten nach § 14a EnWG als steuerbar; mehrere kleinere Geräte können zusammen darunter fallen. Die Stadtwerke dürfen ihre Leistung begrenzen, aber nicht abschalten. Für das verbrauchsabhängige Modul 2 braucht es einen separaten Zähler, für das zeitvariable Modul 3 ein intelligentes Messsystem. Angemeldet wird standardmäßig durch einen Elektroinstallateur, der im Installateurverzeichnis eingetragen ist. Für Balkonkraftwerke gilt im Tübinger Netz eine Obergrenze von 2.000 Wp Modulleistung je Zähler, bei Anschluss über einen Schuko-Stecker 960 Wp. Für eine Vergütung ist neben dem Marktstammdatenregister die Anmeldung im Netzportal nötig."
+      "text": "Wärmepumpen, Wallboxen, Stromspeicher und fest installierte Klimaanlagen mit mehr als 4,2 kW gelten nach § 14a EnWG als steuerbar. Angemeldet wird standardmäßig durch einen Elektroinstallateur, der im Installateurverzeichnis eingetragen ist. Für Balkonkraftwerke gilt im Tübinger Netz eine Obergrenze von 2.000 Wp Modulleistung je Zähler, bei Anschluss über einen Schuko-Stecker 960 Wp. Für eine Vergütung nennen die Stadtwerke neben dem Marktstammdatenregister die Anmeldung im Netzportal."
     },
     {
       "h2": "Tübingen klimaneutral 2030: Solarstrom in der Stadt",
@@ -53,7 +53,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "In Tübingen werden jährlich etwa 400 Millionen kWh Strom benötigt; nur etwa 14 Prozent davon wurden vor Ort erzeugt (Stand Anfang 2024).",
+      "text": "In Tübingen wurden nur etwa 14 Prozent des benötigten Stroms vor Ort erzeugt (Stand Anfang 2024).",
       "quelle": "Universitätsstadt Tübingen – Stromwende",
       "url": "https://www.tuebingen.de/43045.html",
       "abruf": "2026-10-02"
@@ -82,12 +82,13 @@
     },
     {
       "q": "Gibt es in Tübingen eine städtische Förderung für Photovoltaik?",
-      "a": "Ja, die Stadt hat ein Förderprogramm für Photovoltaik und Batteriespeicher. Voraussetzungen und Antragsweg veröffentlicht sie auf der Seite der Kampagne „Tübingen macht blau“."
+      "a": "Ja, die Stadt hat ein Förderprogramm für Photovoltaik und Batteriespeicher. Über die aktuellen Bedingungen informiert die Stadt selbst."
     }
   ],
   "offen": [
     "Ob alle Tübinger Teilorte im Netzgebiet der Stadtwerke Tübingen liegen, nicht geprüft.",
     "Fördersätze und Module des städtischen PV-Förderprogramms bewusst nicht genannt.",
-    "swt-Seiten per WebFetch-Zusammenfassung gelesen (Inhalt in Akkordeons); Werte 3,6 kVA, 12 kVA, 2.000 Wp, 960 Wp stammen daraus."
+    "swt-Seiten per WebFetch-Zusammenfassung gelesen (Inhalt in Akkordeons); Werte 3,6 kVA, 12 kVA, 2.000 Wp, 960 Wp stammen daraus.",
+    "QA 02.10.: Werte 3,6 kVA, 11 kW/12 kVA, 12 Monate, 4,2 kW, 2.000 W/960 W/800 W, 270 kW am 02.10. per curl auf den swt-Seiten wörtlich bestätigt – bleiben. Gekürzt von 651 auf unter 600 Wörter (Punkt 11): Modul-2/3-Satz, „begrenzen, aber nicht abschalten“ (nicht wörtlich gefunden), Inbetriebsetzungs-Satz, Strombedarf 400 Mio. kWh entfernt. Zustimmung/Vergütung als Wiedergabe der Stadtwerke. Städtisches Förderprogramm laut Stadtseite (Stand 14.07.2026) aktiv, ohne Beträge belassen."
   ]
 }

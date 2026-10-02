@@ -10,15 +10,15 @@
   "abschnitte": [
     {
       "h2": "Sanierungsgebiet Südstadt: Was für Maler und Eigentümer gilt",
-      "text": "Mit der Veröffentlichung im Offenblatt am 24. März 2024 ist die Satzung über das Sanierungsgebiet „Südstadt“ rechtskräftig geworden; seitdem steht im Grundbuch der betroffenen Grundstücke ein Sanierungsvermerk. Nach dem Informationsblatt der Stadt brauchen unter anderem Veränderungen, die sich erheblich wertsteigernd auswirken, eine schriftliche Genehmigung der Sanierungsstelle. Umfassende Modernisierungen können dort aus dem Bund-Länder-Programm „Sozialer Zusammenhalt“ bezuschusst werden. Einzelne Renovierungsarbeiten gelten laut Faltblatt nicht als wohnwertverbessernd, können aber zusammen mit Modernisierungen mitgefördert werden; dabei sind auch die Belange des Denkmalschutzes zu beachten. Ansprechpartner ist die Städtebauförderung im Bauservice in der Wilhelmstraße."
+      "text": "Mit der Veröffentlichung im Offenblatt am 24. März 2024 ist die Satzung über das Sanierungsgebiet „Südstadt“ rechtskräftig geworden; seitdem steht im Grundbuch der betroffenen Grundstücke ein Sanierungsvermerk. Nach dem Informationsblatt der Stadt brauchen unter anderem Veränderungen, die sich erheblich wertsteigernd auswirken, eine schriftliche Genehmigung der Sanierungsstelle. Umfassende Modernisierungen können dort aus dem Bund-Länder-Programm „Sozialer Zusammenhalt“ bezuschusst werden. Einzelne Renovierungsarbeiten gelten laut Faltblatt nicht als wohnwertverbessernd, können aber zusammen mit Modernisierungen mitgefördert werden; auf die Belange des Denkmalschutzes weist das Faltblatt eigens hin. Ansprechpartner ist die Städtebauförderung im Bauservice in der Wilhelmstraße."
     },
     {
       "h2": "Fassadenfarben: Empfehlungen aus dem Gestaltungsleitfaden",
       "text": "Für das Neubaugebiet Seitenpfaden mit rund 450 Wohneinheiten hat die Stadt einen Gestaltungsleitfaden herausgegeben. Er empfiehlt, sich bei Fassade und Außenraum auf zwei, höchstens drei Materialien oder Farben zu beschränken, und schlägt für Putzfassaden eine Palette von Weiß und gebrochenen Weißtönen mit erdig abgetönten Akzenten vor. Verbindlich ist dort eine örtliche Bauvorschrift: Glänzende und lichtreflektierende Außenwandmaterialien sind außer Glas nur zulässig, wenn sie der Nutzung der Sonnenenergie dienen. Auch in anderen Quartieren lohnt vor einem auffälligen Farbton der Blick in den Bebauungsplan."
     },
     {
-      "h2": "Vor dem Gerüst: Gebäudehülle prüfen lassen",
-      "text": "Steht ein neuer Fassadenanstrich an, ist das ein guter Zeitpunkt, die Gebäudehülle insgesamt anzusehen. Die Ortenauer Energieagentur bietet als Partner der Verbraucherzentrale eine rund zweistündige Gebäudeberatung bei Ihnen zu Hause an, die unter anderem Heizung, Gebäudehülle und Einsparpotenziale beurteilt. Innenarbeiten wie Fliesen und Böden lassen sich dann sinnvoll in die Reihenfolge einplanen. Sobald Sie wissen, was gemacht werden soll, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "h2": "Vor dem Gerüst: Beratung zur Gebäudehülle",
+      "text": "Die Ortenauer Energieagentur bietet als Partner der Verbraucherzentrale eine rund zweistündige Gebäudeberatung bei Ihnen zu Hause an, die unter anderem Heizung, Gebäudehülle und Einsparpotenziale beurteilt. Sobald Sie wissen, was gemacht werden soll, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -70,13 +70,14 @@
     },
     {
       "q": "Gibt es in Offenburg Vorgaben zur Fassadenfarbe?",
-      "a": "Eine stadtweite Farbvorgabe ist nicht bekannt. Für Neubaugebiete wie den Seitenpfaden gibt es örtliche Bauvorschriften und Empfehlungen; maßgeblich ist der jeweilige Bebauungsplan."
+      "a": "Für Neubaugebiete wie den Seitenpfaden gibt es örtliche Bauvorschriften und Empfehlungen; maßgeblich ist der jeweilige Bebauungsplan."
     }
   ],
   "offen": [
     "Keine stadtweite Gestaltungs- oder Altstadtsatzung im Offenburger Ortsrecht gefunden (Liste Ortsrecht geprüft); FAQ 3 entsprechend vorsichtig formuliert.",
     "Albersbösch im Einstieg nur als Beispiel genannt.",
     "Förderhöhen im Südstadt-Faltblatt bewusst nicht übernommen.",
-    "Der Satz „Die Belange des Denkmalschutzes sind zu beachten“ ist wörtliche Wiedergabe aus dem Faltblatt."
+    "Der Satz „Die Belange des Denkmalschutzes sind zu beachten“ ist wörtliche Wiedergabe aus dem Faltblatt.",
+    "QA 02.10.: Denkmalschutz-Hinweis als Wiedergabe des Faltblatts statt Anweisung; Füllsätze in Abschnitt 3 und unbelegte Negativaussage „keine stadtweite Farbvorgabe bekannt“ (FAQ 3) entfernt."
   ]
 }

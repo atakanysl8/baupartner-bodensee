@@ -4,21 +4,17 @@
   "ortName": "Weinheim",
   "kreis": "Rhein-Neckar-Kreis",
   "title": "Dachdecker Weinheim – Fachbetrieb kostenlos vermittelt",
-  "description": "Dachdecker in Weinheim: Ziegel, Gauben und Solarmodule nach der Gestaltungssatzung der Innenstadt, städtischer Zuschuss zur Dachdämmung. Kostenlos vermittelt.",
+  "description": "Dachdecker in Weinheim: Ziegel, Gauben, Dachfenster und Solarmodule nach der Gestaltungssatzung der Innenstadt. Fachbetrieb kostenlos vermittelt.",
   "h1": "Dachdecker in Weinheim",
-  "einstieg": "Von der Wachenburg und der Windeck aus sieht man die Dächer der Weinheimer Altstadt wie auf einem Teller. Wer einen Dachdecker in Weinheim sucht, um ein Haus im historischen Kern neu einzudecken, eine Gaube zu bauen oder Solarmodule zu montieren, plant deshalb nach klaren Gestaltungsregeln. Außerhalb der Innenstadt stehen eher Dämmung und Zuschüsse der Stadt im Vordergrund.",
+  "einstieg": "Von der Wachenburg und der Windeck aus sieht man die Dächer der Weinheimer Altstadt wie auf einem Teller. Wer einen Dachdecker in Weinheim sucht, um ein Haus im historischen Kern neu einzudecken, eine Gaube zu bauen oder Solarmodule zu montieren, plant deshalb nach klaren Gestaltungsregeln.",
   "abschnitte": [
     {
       "h2": "Dachdecker in Weinheim: was die Gestaltungssatzung der Innenstadt vorgibt",
-      "text": "Für den historisch gewachsenen Kern gilt die Gestaltungssatzung für die Weinheimer Innenstadt, unterteilt in acht Bereiche von A bis H. Zugelassen sind geneigte, symmetrische Dächer mit mindestens 35 Grad, in mehreren Bereichen mit mindestens 45 Grad. Eingedeckt wird ausschließlich mit Dachsteinen, Ziegeln oder Naturschiefer in Naturrot bis Rotbraun oder Anthrazit; glasierte und edelengobierte Ziegel sind ausgeschlossen, im Bereich B ist nur die Biberschwanzform zulässig. Gauben und Dachflächenfenster dürfen zusammen höchstens die Hälfte der Dachbreite einnehmen, und Dachflächenfenster müssen hochrechteckig sein. Wichtig für den Zeitplan: Laut § 3 der Satzung sind Bedachungen einschließlich Dämmung, Öffnungen im Dach und Solaranlagen, die sonst verfahrensfrei wären, im Satzungsgebiet im Kenntnisgabeverfahren anzuzeigen."
+      "text": "Für den historisch gewachsenen Kern gilt die Gestaltungssatzung für die Weinheimer Innenstadt, unterteilt in acht Bereiche von A bis H. Zugelassen sind geneigte, symmetrische Dächer mit mindestens 35 Grad, in mehreren Bereichen mit mindestens 45 Grad. Eingedeckt wird ausschließlich mit Dachsteinen, Ziegeln oder Naturschiefer in Naturrot bis Rotbraun oder Anthrazit; glasierte und edelengobierte Ziegel sind ausgeschlossen, im Bereich B ist nur die Biberschwanzform zulässig. Gauben und Dachflächenfenster dürfen zusammen höchstens die Hälfte der Dachbreite einnehmen, und Dachflächenfenster müssen hochrechteckig sein. Laut § 3 der Satzung sind Bedachungen einschließlich Dämmung, Öffnungen im Dach und Solaranlagen, die sonst verfahrensfrei wären, im Satzungsgebiet im Kenntnisgabeverfahren anzuzeigen."
     },
     {
       "h2": "Solarmodule, Fachwerk und Putz: Dach und Fassade im Zusammenhang",
-      "text": "Photovoltaik und Solarthermie sind auf den Innenstadtdächern möglich, wenn die Module dachparallel in der Neigung des Dachs liegen, nicht über First, Traufe oder Ortgang hinausragen und die Zuleitungen nicht sichtbar sind. An Fassaden zur Straße sind sie ausgeschlossen. Auch für die Fassade setzt die Satzung Grenzen: Sichtbares historisches Zierfachwerk darf nicht überdeckt werden, und Verkleidungen aus Metall, Faserzement oder Kunststoff sind unzulässig. Weitergehende Anforderungen des Denkmalschutzes, insbesondere aus der Satzung zur Gesamtanlage Weinheim, bleiben unberührt. Auskunft zu beidem gibt das Amt für Baurecht und Denkmalschutz."
-    },
-    {
-      "h2": "Dämmung mit städtischem Zuschuss",
-      "text": "Für Bestandsgebäude stockt die Stadt Weinheim die Bundesförderung für effiziente Gebäude bei bestimmten Einzelmaßnahmen auf, darunter die Dämmung von Dachflächen und Außenwänden. Für Dämmstoffe aus nachwachsenden Rohstoffen gibt es einen zusätzlichen Bonus; Fragen beantwortet die Förderstelle der Stadt. Wenn Sie Ihr Dachvorhaben über unser Formular schildern, wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Photovoltaik und Solarthermie sind auf den Innenstadtdächern möglich, wenn die Module dachparallel in der Neigung des Dachs liegen, nicht über First, Traufe oder Ortgang hinausragen und die Zuleitungen nicht sichtbar sind. An Fassaden zur Straße sind sie ausgeschlossen. Auch für die Fassade setzt die Satzung Grenzen: Sichtbares historisches Zierfachwerk darf nicht überdeckt werden, und Verkleidungen aus Metall, Faserzement oder Kunststoff sind unzulässig. Weitergehende Anforderungen des Denkmalschutzes, insbesondere aus der Satzung zur Gesamtanlage Weinheim, bleiben unberührt. Auskunft zu beidem gibt das Amt für Baurecht und Denkmalschutz. Wenn Sie Ihr Dachvorhaben über unser Formular schildern, wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -57,12 +53,6 @@
       "quelle": "Stadt Weinheim – Gestaltungssatzung für die Weinheimer Innenstadt, Vorschriften (Stand 21.02.2022)",
       "url": "https://www.weinheim.de/site/WeinheimRoot/get/documents_E225669200/weinheim/Dateien/Amt_61/Erhaltung%26Gestaltung/61_G-Sat_tfaus.pdf",
       "abruf": "2026-10-02"
-    },
-    {
-      "text": "Die Stadt Weinheim stockt die Bundesförderung für effiziente Gebäude bei Einzelmaßnahmen auf, darunter Dämmung von Dachflächen und der Außenwand; für Dämmstoffe aus nachwachsenden Rohstoffen gibt es einen zusätzlichen Bonus, antragsberechtigt sind alle Gebäudeeigentümer in Weinheim.",
-      "quelle": "Stadt Weinheim – Klimaschutz-Förderprogramme",
-      "url": "https://www.weinheim.de/startseite/stadtthemen/foerderung.html",
-      "abruf": "2026-10-02"
     }
   ],
   "faq": [
@@ -75,13 +65,14 @@
       "a": "Die Satzung lässt sie zu, wenn sie dachparallel in Dachneigung liegen, nicht über First, Traufe oder Ortgang ragen und die Leitungen verdeckt sind. Im Satzungsgebiet ist dafür ein Kenntnisgabeverfahren vorgesehen."
     },
     {
-      "q": "Gibt es in Weinheim einen Zuschuss für die Dachdämmung?",
-      "a": "Die Stadt stockt die Bundesförderung für bestimmte Einzelmaßnahmen auf, darunter die Dachdämmung. Auskunft gibt die Förderstelle der Stadt Weinheim."
+      "q": "Welche Bauteile betrifft das Kenntnisgabeverfahren in der Weinheimer Innenstadt?",
+      "a": "Laut § 3 der Gestaltungssatzung unter anderem Bedachungen einschließlich Wärmedämmung, Öffnungen in Dächern von Wohngebäuden sowie Solaranlagen, die sonst verfahrensfrei wären. Auskunft gibt das Amt für Baurecht und Denkmalschutz."
     }
   ],
   "offen": [
     "Satzungsstand 21.02.2022 (in Kraft 09.04.2022 laut hochbau--weinheim); Lageplan der Bereiche A–H nicht ausgewertet – welche Straßen in welchem Bereich liegen, ist nicht angegeben.",
     "Städtisches Förderprogramm gilt laut Seite für 2026 unter Haushaltsvorbehalt; Beträge und Frist bewusst weggelassen.",
-    "Blick von Wachenburg/Windeck: Satzung nennt beide Burgen als Sichtbezug (§ 5, § 6); Einstiegssatz ist sinngemäß."
+    "Blick von Wachenburg/Windeck: Satzung nennt beide Burgen als Sichtbezug (§ 5, § 6); Einstiegssatz ist sinngemäß.",
+    "QA 02.10.: Abschnitt, Fakt, FAQ und Description-/Einstiegsbezug zum städtischen Zuschuss für Dachdämmung entfernt – Programm laut Stadtseite (02.10.) nur für 2026, Umsetzung bis 31.12.2026, Haushaltsvorbehalt (Punkt 2). Damit auch Kürzung von 637 auf unter 600 Wörter (Punkt 11). Ersatz-FAQ zum Kenntnisgabeverfahren aus § 3 der Satzung."
   ]
 }

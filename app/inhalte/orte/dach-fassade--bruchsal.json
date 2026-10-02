@@ -4,21 +4,21 @@
   "ortName": "Bruchsal",
   "kreis": "Karlsruhe",
   "title": "Dachdecker Bruchsal – Fachbetrieb kostenlos vermittelt",
-  "description": "Dachdecker in Bruchsal: Dachsanierung im Sanierungsgebiet Heidelsheim, Steuerbescheinigung, Gründach und Solar im Bebauungsplan. Kostenlos vermittelt.",
+  "description": "Dachdecker in Bruchsal: Dachsanierung im Sanierungsgebiet Heidelsheim, Gründach, Fassade und Solar in der Klimaschutz-Checkliste. Kostenlos vermittelt.",
   "h1": "Dachdecker in Bruchsal",
-  "einstieg": "Wer in Bruchsal einen Dachdecker sucht, steht oft vor einer Entscheidung, die über das Ziegeldach hinausgeht: nur flicken, neu eindecken und dämmen oder gleich Platz für Solarmodule schaffen. Für Häuser im Heidelsheimer Ortskern kommen eigene Förder- und Steuerregeln hinzu, für Neubaugebiete die Klimaschutzvorgaben der Stadt.",
+  "einstieg": "Wer in Bruchsal einen Dachdecker sucht, steht oft vor einer Entscheidung, die über das Ziegeldach hinausgeht: nur flicken, neu eindecken und dämmen oder gleich Platz für Solarmodule schaffen. Für Häuser im Heidelsheimer Ortskern kommen eigene Förderregeln hinzu, für Neubaugebiete die Klimaschutzvorgaben der Stadt.",
   "abschnitte": [
     {
       "h2": "Dach erneuern im Sanierungsgebiet Heidelsheim Ortskern Nord",
       "text": "Der nördliche Ortskern von Heidelsheim ist förmlich festgelegtes Sanierungsgebiet im Landessanierungsprogramm. Die städtischen Richtlinien für private Maßnahmen zählen dort ausdrücklich die Ausbesserung oder den Ersatz schadhafter Dachbeläge, die Erneuerung von Dachrinnen und die Verbesserung der Dachkonstruktion zu den Instandsetzungen, die mit Städtebaufördermitteln unterstützt werden können. Wärmedämmung von Dachflächen nennen die Richtlinien als typische energetische Einzelmaßnahme. Reine Instandhaltung, etwa ein neuer Fassadenanstrich oder das Nachstreichen von Dachrinnen, ist dagegen nicht förderfähig. Einen Rechtsanspruch auf Förderung gibt es nicht. Auch für Untergrombach Oberdorf hat die Stadt die Aufnahme in ein Erneuerungsprogramm beantragt."
     },
     {
-      "h2": "Steuerbescheinigung für Dacharbeiten im Sanierungsgebiet",
-      "text": "In förmlich festgelegten Bruchsaler Sanierungsgebieten gelten die erhöhten Absetzungen des Einkommensteuergesetzes für Modernisierung und Instandsetzung. Voraussetzung ist nach § 7h eine Bescheinigung der zuständigen Gemeindebehörde, die das Gebäude und die Maßnahmen bestätigt; die Stadt hat dazu eine eigene Informationsseite. Die Bescheinigung bezieht sich auf die konkrete Maßnahme; Auskunft zu Voraussetzungen und Ablauf gibt die Stadt. Ob und in welchem Umfang sich das steuerlich auswirkt, klärt in der Regel die steuerliche Beratung."
+      "h2": "Fassade und Ausrichtung: Empfehlungen für neue Bebauungspläne",
+      "text": "Die Checkliste zum planmäßigen Klimaschutz, die Bruchsal für künftige Bebauungspläne beschlossen hat, betrifft auch die Fassade. Sie nennt eine Ausrichtung der Hauptfassade nach Süden als bevorzugt, etwa für Fassaden-Photovoltaik, und sieht vor, fensterlose Außenwandflächen über 30 Quadratmeter zu begrünen. Für bewitterte Teile der Gebäudehülle führt sie Materialverbote auf, um den Schadstoffeintrag zu verringern. Ob solche Vorgaben für ein bestimmtes Grundstück gelten, steht im jeweiligen Bebauungsplan."
     },
     {
       "h2": "Flachdach, Gründach und Solarpotenzial",
-      "text": "Für künftige Bebauungspläne hat Bruchsal eine Checkliste zum planmäßigen Klimaschutz beschlossen. Sie empfiehlt unter anderem, Flachdächer grundsätzlich zu begrünen, mit Ausnahmen für Photovoltaikflächen, wobei auch die Kombination möglich ist, und bei der Planung Dachform und Dachneigung für die Solarnutzung zu berücksichtigen. Wie viel Sonne auf ein bestehendes Dach fällt, zeigt das Solardachkataster im Energieatlas Baden-Württemberg per Ortssuche. Kommt ein Neubau hinzu, stellen die Stadtwerke den Netzanschluss erst nach Eindeckung des Daches und Einbau der Fenster her. Schildern Sie Ihr Dachvorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Dachdeckerbetrieb aus."
+      "text": "Für Dächer empfiehlt dieselbe Checkliste unter anderem, Flachdächer grundsätzlich zu begrünen, mit Ausnahmen für Photovoltaikflächen, wobei auch die Kombination möglich ist, und bei der Planung Dachform und Dachneigung für die Solarnutzung zu berücksichtigen. Wie viel Sonne auf ein bestehendes Dach fällt, zeigt das Solardachkataster im Energieatlas Baden-Württemberg per Ortssuche. Kommt ein Neubau hinzu, stellen die Stadtwerke den Netzanschluss erst nach Eindeckung des Daches und Einbau der Fenster her. Schildern Sie Ihr Dachvorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Dachdeckerbetrieb aus."
     }
   ],
   "fakten": [
@@ -41,13 +41,13 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "In förmlich festgelegten Bruchsaler Sanierungsgebieten gelten die Sonderabsetzungen nach §§ 7h, 10f EStG; nachgewiesen werden die Voraussetzungen durch eine Bescheinigung der zuständigen Gemeindebehörde.",
-      "quelle": "Stadt Bruchsal – Steuerbescheinigungen in den Bruchsaler Sanierungsgebieten",
-      "url": "https://www.bruchsal.de/gestalten/bruchsalmorgen/Stadterneuerung/steuerbescheinigungen+in+den+bruchsaler+sanierungsgebieten",
+      "text": "Die Bruchsaler Checkliste „planmäßiger Klimaschutz“ sieht vor, Flachdächer grundsätzlich zu begrünen, mit Ausnahmen für PV-Flächen und der Möglichkeit, beides zu kombinieren; für die Solarnutzung sind Dachform und Dachneigung zu berücksichtigen.",
+      "quelle": "Stadt Bruchsal – Checkliste planmäßiger Klimaschutz",
+      "url": "https://www.bruchsal.de/site/Bruchsal-Internet-2023/get/params_E-321468006_Dattachment/4688370/2%29%20Checkliste%20planm%C3%A4%C3%9Figer%20Klimaschutz.pdf",
       "abruf": "2026-10-02"
     },
     {
-      "text": "Die Bruchsaler Checkliste „planmäßiger Klimaschutz“ sieht vor, Flachdächer grundsätzlich zu begrünen, mit Ausnahmen für PV-Flächen und der Möglichkeit, beides zu kombinieren; für die Solarnutzung sind Dachform und Dachneigung zu berücksichtigen.",
+      "text": "Die Bruchsaler Checkliste „planmäßiger Klimaschutz“ bevorzugt eine Ausrichtung der Hauptfassade nach Süden (z. B. Fassaden-PV), sieht die Begrünung fensterloser Außenwandflächen über 30 m² vor und nennt Materialverbote für bewitterte Teile der Gebäudehülle zur Reduzierung des Schadstoffeintrags.",
       "quelle": "Stadt Bruchsal – Checkliste planmäßiger Klimaschutz",
       "url": "https://www.bruchsal.de/site/Bruchsal-Internet-2023/get/params_E-321468006_Dattachment/4688370/2%29%20Checkliste%20planm%C3%A4%C3%9Figer%20Klimaschutz.pdf",
       "abruf": "2026-10-02"
@@ -71,8 +71,8 @@
       "a": "Liegt das Haus im Sanierungsgebiet Heidelsheim Ortskern Nord, zählen etwa der Ersatz schadhafter Dachbeläge und Verbesserungen der Dachkonstruktion zu den förderfähigen Instandsetzungen. Einen Anspruch gibt es nicht; Auskunft gibt die Stadt."
     },
     {
-      "q": "Bekomme ich für ein neues Dach in Bruchsal eine Steuerbescheinigung?",
-      "a": "Nur in förmlich festgelegten Sanierungsgebieten und für Maßnahmen, die die Gemeinde bescheinigt. Die Stadt informiert auf ihrer Seite zu Steuerbescheinigungen über die Voraussetzungen."
+      "q": "Was sieht die Bruchsaler Klimaschutz-Checkliste für Fassaden vor?",
+      "a": "Für künftige Bebauungspläne nennt sie unter anderem die Begrünung fensterloser Außenwandflächen über 30 m² und eine Südausrichtung der Hauptfassade, etwa für Fassaden-PV. Maßgeblich sind die Festsetzungen im jeweiligen Bebauungsplan."
     },
     {
       "q": "Muss das Flachdach meines Neubaus in Bruchsal begrünt werden?",
@@ -83,6 +83,7 @@
     "Durchführungszeitraum Heidelsheim (laut Stadtseite „01.01.2016 - 31.04.2027“, offensichtlich Tippfehler) und Fördersatz/Höchstbetrag bewusst nicht genannt.",
     "Ob die Steuerbescheinigung eine Abstimmung vor Baubeginn voraussetzt, steht nicht auf der Stadtseite; im Text bewusst offen gelassen.",
     "Denkmalschutz in der Barockstadt Bruchsal (z. B. Schlossbereich) nicht recherchiert.",
-    "Starkregenkarten bewusst nicht verwendet, da bereits auf der Hochbau-Seite."
+    "Starkregenkarten bewusst nicht verwendet, da bereits auf der Hochbau-Seite.",
+    "QA 02.10.: Abschnitt „Steuerbescheinigung“ (§§ 7h, 10f EStG), zugehörige FAQ, Fakt und Erwähnung in Einstieg/Description gestrichen (Punkt 12). Ersetzt durch Fassaden-Empfehlungen der Klimaschutz-Checkliste (PDF per pdftotext gelesen: Südausrichtung/Fassaden-PV, Fassadenbegrünung > 30 m², Materialverbote); neuer Fakt."
   ]
 }

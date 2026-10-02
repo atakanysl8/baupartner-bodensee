@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Fassadenanstrich in der Innenstadt: was die Gestaltungssatzung vorgibt",
-      "text": "Seit 2011 gilt für die Innenstadt eine Gestaltungssatzung, deren Geltungsbereich vom Franziskusplatz bis zum Graf-Zeppelin-Haus und zur Uferstraße reicht. Anders als in Fachwerkstädten ist kräftige Farbe hier ausdrücklich erwünscht: Die Stadt nennt eine farbige Gestaltung, akzentuiert auch mit kräftigen Farbtönen der Fünfzigerjahre, als Ziel. Putzfassaden sind in Feinputz mit höchstens 3 mm Körnung auszuführen, glänzende oder spiegelnde Materialien sind ausgeschlossen. Gebäude, die eine architektonische Einheit bilden, werden farblich aufeinander abgestimmt, Fassadenmalereien sind grundsätzlich unzulässig. Für die Farbwahl bietet das Stadtplanungsamt eine kostenlose Beratung an. Charakteristische Details wie Putzfaschen um die Fenster bleiben nach der Satzung möglichst erhalten."
+      "text": "Seit 2011 gilt für die Innenstadt eine Gestaltungssatzung, deren Geltungsbereich vom Franziskusplatz bis zum Graf-Zeppelin-Haus und zur Uferstraße reicht. Anders als in Fachwerkstädten ist kräftige Farbe hier ausdrücklich erwünscht: Die Stadt nennt eine farbige Gestaltung, akzentuiert auch mit kräftigen Farbtönen der Fünfzigerjahre, als Ziel. Putzfassaden sieht die Satzung in Feinputz mit höchstens 3 mm Körnung vor, glänzende oder spiegelnde Materialien sind ausgeschlossen. Gebäude, die eine architektonische Einheit bilden, werden farblich aufeinander abgestimmt, Fassadenmalereien sind grundsätzlich unzulässig. Für die Farbwahl bietet das Stadtplanungsamt eine kostenlose Beratung an. Charakteristische Details wie Putzfaschen um die Fenster bleiben nach der Satzung möglichst erhalten."
     },
     {
       "h2": "Kenntnisgabe, Gestaltungsbeirat und Denkmalförderung",
@@ -18,7 +18,7 @@
     },
     {
       "h2": "Fliesen und Böden in Wohnungen der Nachkriegszeit",
-      "text": "Für Arbeiten im Inneren greift die Gestaltungssatzung nicht. In Häusern aus der Wiederaufbauzeit liegen unter Teppich oder PVC häufig Estriche, deren Ebenheit und Feuchte der Bodenleger vor dem Verlegen prüft; bei alten Fliesen klärt der Fliesenleger, ob ein Rückbau oder eine Verlegung auf dem Bestand sinnvoll ist. Bei Kulturdenkmalen kann auch die Ausstattung im Inneren geschützt sein. Für die Förderung denkmalbedingter Mehrkosten verlangt die Stadt unter anderem positionstreue Handwerkerangebote für die denkmalgerechte und für die Standardausführung."
+      "text": "Die Gestaltungssatzung regelt die äußere Gestaltung der Gebäude in der Innenstadt; zu Fliesen und Bodenbelägen im Inneren enthält sie keine Vorgaben. Für die Förderung denkmalbedingter Mehrkosten an Kulturdenkmalen nennt die Stadt als Antragsunterlagen unter anderem positionstreue Handwerkerangebote für die denkmalgerechte und für die Standardausführung; Auskunft zu den aktuellen Bedingungen gibt die Stadt."
     }
   ],
   "fakten": [
@@ -62,7 +62,7 @@
   "faq": [
     {
       "q": "Darf ich meine Fassade in der Friedrichshafener Innenstadt kräftig streichen?",
-      "a": "Die Gestaltungssatzung wünscht ausdrücklich eine farbige Gestaltung, auch mit kräftigen Tönen der Fünfzigerjahre. Zusammengehörige Gebäude sind farblich abzustimmen; das Stadtplanungsamt berät kostenlos zur Farbwahl."
+      "a": "Die Gestaltungssatzung wünscht ausdrücklich eine farbige Gestaltung, auch mit kräftigen Tönen der Fünfzigerjahre. Zusammengehörige Gebäude werden laut Satzung farblich abgestimmt; das Stadtplanungsamt berät kostenlos zur Farbwahl."
     },
     {
       "q": "Muss ein neuer Fassadenanstrich in Friedrichshafen gemeldet werden?",
@@ -70,13 +70,14 @@
     },
     {
       "q": "Welcher Putz ist in der Friedrichshafener Innenstadt vorgesehen?",
-      "a": "Putzfassaden sind laut Satzung in Feinputz mit höchstens 3 mm Körnung auszuführen. Glänzende oder spiegelnde Materialien sind ausgeschlossen."
+      "a": "Putzfassaden sieht die Satzung in Feinputz mit höchstens 3 mm Körnung vor. Glänzende oder spiegelnde Materialien sind ausgeschlossen."
     }
   ],
   "offen": [
     "Satzungstext über die HTML-Seite der Stadt gelesen (PDF-Version vorhanden, nicht separat geöffnet).",
     "Fachaussagen zu Estrich und Fliesen auf Bestand ohne Friedrichshafener Quelle.",
     "Geschützte Innenausstattung bei Kulturdenkmalen allgemein formuliert.",
-    "Wasserhärte nicht verwendet, da bereits auf der Bad-Seite Friedrichshafen."
+    "Wasserhärte nicht verwendet, da bereits auf der Bad-Seite Friedrichshafen.",
+    "QA 02.10.: Abschnitt 3: Fachaussagen ohne Quelle (Estrich prüfen, Fliesen auf Bestand) und unbelegte Aussage zur geschützten Innenausstattung gestrichen (Punkt 13); stattdessen Wiedergabe, dass die Satzung die äußere Gestaltung regelt. „sind … auszuführen/abzustimmen“ in Text und FAQ als Satzungswiedergabe gefasst."
   ]
 }

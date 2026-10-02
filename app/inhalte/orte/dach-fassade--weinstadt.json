@@ -4,7 +4,7 @@
   "ortName": "Weinstadt",
   "kreis": "Rems-Murr-Kreis",
   "title": "Dachdecker Weinstadt – Fachbetrieb kostenlos vermittelt",
-  "description": "Dachdecker in Weinstadt: Solarkataster im BürgerGIS, Dachformen im Bebauungsplan, Sanierungsgebiet Ortskern Beutelsbach. Fachbetrieb kostenlos vermittelt.",
+  "description": "Dachdecker in Weinstadt: Solarkataster im BürgerGIS, Dachformen im Bebauungsplan, Ortskern Beutelsbach und Energieberatung. Fachbetrieb kostenlos vermittelt.",
   "h1": "Dachdecker in Weinstadt",
   "einstieg": "Ob in Beutelsbach, Endersbach, Großheppach, Schnait oder Strümpfelbach: Wer in Weinstadt einen Dachdecker sucht, will häufig mehr als nur Ziegel tauschen. Neueindeckung, Dämmung und eine Photovoltaikanlage lassen sich bei einer Dachsanierung in einem Zug planen, und die Stadt stellt dafür einige Werkzeuge bereit.",
   "abschnitte": [
@@ -14,11 +14,11 @@
     },
     {
       "h2": "Dachform, Bebauungsplan und Ortskern Beutelsbach",
-      "text": "Welche Dachform auf einem Grundstück zulässig ist, regelt in Weinstadt in der Regel der Bebauungsplan; Dachformen gehören laut Stadt zu den typischen Festsetzungen. Alle rechtskräftigen Pläne können im Stadtplanungsamt eingesehen werden, neuere auch im BürgerGIS. Für den Ortskern Beutelsbach läuft seit der Aufnahme in das Programm „Lebendige Zentren“ im Jahr 2023 die Vorbereitung eines Sanierungsgebiets von rund 8,3 Hektar. Zu den Sanierungszielen gehört die energetische Sanierung des Gebäudebestands. Private Eigentümer können nach Angaben der Stadt Fördermittel beantragen, sobald das Gebiet vom Gemeinderat förmlich festgelegt ist."
+      "text": "Welche Dachform auf einem Grundstück zulässig ist, regelt in Weinstadt in der Regel der Bebauungsplan; Dachformen gehören laut Stadt zu den typischen Festsetzungen. Alle rechtskräftigen Pläne können im Stadtplanungsamt eingesehen werden, neuere auch im BürgerGIS. Der Ortskern Beutelsbach wurde 2023 in das Städtebauförderprogramm „Lebendige Zentren“ aufgenommen; untersucht wird ein Gebiet von rund 8,3 Hektar. Zu den allgemeinen Sanierungszielen gehört laut Stadt die energetische Sanierung des Gebäudebestands. Über den Stand des Verfahrens informiert das Stadtplanungsamt."
     },
     {
       "h2": "Neutrale Beratung und der Weg zum Fachbetrieb",
-      "text": "Die Energieagentur Rems-Murr bietet Weinstädter Eigentümern eine kostenlose Erstberatung an, auch im Technischen Rathaus in Beutelsbach, und auf Wunsch eine ganzheitliche Energieberatung vor Ort. Wenn Ihr Vorhaben feststeht, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+      "text": "Die Energieagentur Rems-Murr bietet Weinstädter Eigentümern eine kostenlose Erstberatung an, auch im Technischen Rathaus in Beutelsbach, und auf Wunsch eine ganzheitliche Energieberatung am Gebäude. Wenn Ihr Vorhaben feststeht, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
     }
   ],
   "fakten": [
@@ -53,13 +53,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Privatpersonen können im Sanierungsgebiet Beutelsbach laut Stadt Fördermittel beantragen, sobald das Gebiet durch Beschluss des Gemeinderats förmlich festgelegt ist.",
-      "quelle": "Stadt Weinstadt – Sanierungsgebiet Beutelsbach",
-      "url": "https://www.weinstadt.de/de/Aktuelles/temp.Projekte/Sanierungsgebiet-Beutelsbach",
-      "abruf": "2026-10-02"
-    },
-    {
-      "text": "Die Energieagentur Rems-Murr bietet Weinstädter Eigentümern eine kostenlose Erstberatung in ihren Räumen oder im Technischen Rathaus in Beutelsbach sowie eine ganzheitliche Energieberatung vor Ort an.",
+      "text": "Die Energieagentur Rems-Murr bietet Weinstädter Eigentümern eine kostenlose Erstberatung in ihren Räumen oder im Technischen Rathaus in Beutelsbach sowie eine ganzheitliche Energieberatung am Gebäude an.",
       "quelle": "Stadt Weinstadt – Energieberatung",
       "url": "https://www.weinstadt.de/de/Klimaschutz/Energieberatung",
       "abruf": "2026-10-02"
@@ -75,14 +69,15 @@
       "a": "Das regelt in der Regel der Bebauungsplan für das Grundstück. Rechtskräftige Pläne sind im Stadtplanungsamt einsehbar, neuere auch im BürgerGIS; Auskunft gibt das Baurechtsamt der Stadt."
     },
     {
-      "q": "Gibt es für Dachsanierungen im Ortskern Beutelsbach Fördermittel?",
-      "a": "Für das geplante Sanierungsgebiet Beutelsbach können Privatpersonen laut Stadt Fördermittel beantragen, sobald der Gemeinderat das Gebiet förmlich festgelegt hat. Ansprechpartnerin ist die Stadtplanung im Technischen Rathaus."
+      "q": "Wo bekomme ich in Weinstadt eine neutrale Energieberatung zum Dach?",
+      "a": "Die Energieagentur Rems-Murr bietet Weinstädter Eigentümern laut Stadt eine kostenlose Erstberatung an, auch im Technischen Rathaus in Beutelsbach. Auf Wunsch ist eine ganzheitliche Energieberatung am Gebäude möglich."
     }
   ],
   "offen": [
     "Stand des Sanierungsgebiets Beutelsbach (förmliche Festlegung erfolgt?) auf der Seite nicht aktuell erkennbar; Formulierung bedingt („sobald …“).",
     "Keine Gestaltungs- oder Ortskernsatzung mit Dachvorgaben für Weinstadt gefunden.",
     "Starkregen- und Dachbegrünungsvorgaben für Weinstadt nicht recherchiert.",
-    "Beispiele „Gauben, Kamine oder Dachfenster“ als Erläuterung ergänzt, auf der Stadtseite als „kleinteilige Elemente“ bezeichnet."
+    "Beispiele „Gauben, Kamine oder Dachfenster“ als Erläuterung ergänzt, auf der Stadtseite als „kleinteilige Elemente“ bezeichnet.",
+    "QA 02.10.: Sanierungsgebiet Beutelsbach geprüft – Stadtseite (Stand nach Bürgerinfo 17.05.2024) nennt vorbereitende Untersuchungen „derzeit“, förmliche Festlegung und private Förderung erst künftig („sobald …“). Künftige Förderaussage aus Text, Fakt und FAQ entfernt (Punkte 1/2), nur Aufnahme 2023, Gebietsgröße und Sanierungsziel belassen; FAQ durch Energieberatung (Energieagentur) ersetzt; Description angepasst. „Energieberatung vor Ort“ (Energieagentur) zur Sicherheit in „am Gebäude“ geändert (Punkt 14)."
   ]
 }

@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Photovoltaik in Waiblingen: Fertigmeldung und Unterlagen für die Stadtwerke",
-      "text": "Für eine neue PV-Anlage mit Eigenverbrauch erwarten die Stadtwerke Waiblingen eine Fertigmeldung, dazu Konformitätserklärung sowie Datenblätter von Modulen, Wechselrichter und gegebenenfalls Speicher. Die Unterlagen sollen mindestens zwei Werktage vor dem Termin vorliegen. Für steckerfertige Balkonanlagen bis 2.000 Watt Modulleistung und 800 Watt Wechselrichterleistung genügt nach Angabe der Stadtwerke die Registrierung im Marktstammdatenregister. Ob sich das eigene Dach lohnt, lässt sich vorab im kostenlosen energetischen Gebäudesteckbrief der Stadt nachsehen, der auch das PV-Potenzial einer Adresse zeigt."
+      "text": "Für eine neue PV-Anlage mit Eigenverbrauch erwarten die Stadtwerke Waiblingen eine Fertigmeldung, dazu Konformitätserklärung sowie Datenblätter von Modulen, Wechselrichter und gegebenenfalls Speicher. Die Unterlagen sollen mindestens zwei Werktage vor dem Termin vorliegen. Für steckerfertige Balkonanlagen bis 2.000 Watt Modulleistung und 800 Watt Wechselrichterleistung genügt nach Angabe der Stadtwerke die Registrierung im Marktstammdatenregister. Das PV-Potenzial einer Adresse zeigt der kostenlose energetische Gebäudesteckbrief der Stadt."
     },
     {
       "h2": "Wallbox, Zählerschrank und Smart Meter: was der Netzbetreiber verlangt",
@@ -18,7 +18,7 @@
     },
     {
       "h2": "Vom Vorhaben zum passenden Elektriker",
-      "text": "Für Fragen zu Eignung und Wirtschaftlichkeit einer Solaranlage bietet die Energieagentur Rems-Murr in Waiblingen eine Erst-Energieberatung an und kommt auf Wunsch zu einem PV-Eignungscheck ins Haus. Steht fest, was gebaut werden soll, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+      "text": "Eine Erst-Energieberatung bietet die Energieagentur Rems-Murr in Waiblingen an, auf Wunsch auch einen PV-Eignungscheck am Gebäude. Steht fest, was gebaut werden soll, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
     }
   ],
   "fakten": [
@@ -78,7 +78,7 @@
     },
     {
       "q": "Wie erfahre ich, ob mein Dach in Waiblingen für Photovoltaik geeignet ist?",
-      "a": "Einen ersten Überblick gibt der kostenlose Gebäudesteckbrief der Stadt Waiblingen mit PV-Potenzial. Eine genauere Einschätzung vor Ort bietet die Energieagentur Rems-Murr mit ihrem PV-Eignungscheck."
+      "a": "Einen ersten Überblick gibt der kostenlose Gebäudesteckbrief der Stadt Waiblingen mit PV-Potenzial. Eine genauere Einschätzung am Gebäude bietet die Energieagentur Rems-Murr mit ihrem PV-Eignungscheck."
     },
     {
       "q": "Darf ich im Ortskern Neustadt eine Wallbox an der Straßenseite anbringen?",
@@ -88,6 +88,7 @@
   "offen": [
     "Die Stadtwerke-Seite nennt für nicht registrierte Installateure eine Kopie der Konzession; nicht in den Text übernommen.",
     "Der Eigenanteil für die Vor-Ort-Checks der Energieagentur wurde bewusst nicht genannt (Förderbetrag/Preis).",
-    "Ob das gesamte Waiblinger Stadtgebiet (inkl. aller Ortschaften) im Stromnetz der Stadtwerke Waiblingen liegt, ist auf den gelesenen Seiten nicht ausdrücklich gesagt; deshalb konditional formuliert („Liegt das Haus im Stromnetz …“)."
+    "Ob das gesamte Waiblinger Stadtgebiet (inkl. aller Ortschaften) im Stromnetz der Stadtwerke Waiblingen liegt, ist auf den gelesenen Seiten nicht ausdrücklich gesagt; deshalb konditional formuliert („Liegt das Haus im Stromnetz …“).",
+    "QA 02.10.: Kürzung von 606 auf unter 600 Wörter (Punkt 11): Satz „Ob sich das eigene Dach lohnt …“ (Ertragsanklang) und Energieagentur-Satz gestrafft; „vor Ort“ in FAQ durch „am Gebäude“ ersetzt. Werte 2.000 W/800 W, 2 und 8 Werktage, 6.000 kWh, 7 kW am 02.10. auf Stadtwerke-Seiten bestätigt."
   ]
 }

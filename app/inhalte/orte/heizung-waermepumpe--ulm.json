@@ -6,15 +6,15 @@
   "title": "Wärmepumpe Ulm – Heizungsbauer kostenlos vermittelt",
   "description": "Wärmepumpe und Heizung in Ulm: Eignungsgebiete im Wärmeplan, Nahwärme in Stadtteilen, Erdwärme und untere Wasserbehörde. Heizungsbauer kostenlos vermittelt.",
   "h1": "Wärmepumpe und Heizung in Ulm",
-  "einstieg": "Die alte Gas- oder Ölheizung soll raus, und die Frage lautet: Wärmepumpe, Fernwärme oder Nahwärme? In Ulm hängt die Antwort stark von der Adresse ab, denn zwei Wärmenetzbetreiber und mehrere kleinere Quartiersnetze prägen das Stadtgebiet. Wer seine Heizung erneuern will, prüft deshalb zuerst den kommunalen Wärmeplan und die Ausbaukarten, bevor Heizungsbauer und Wärmepumpe ins Spiel kommen.",
+  "einstieg": "Die alte Gas- oder Ölheizung soll raus, und die Frage lautet: Wärmepumpe, Fernwärme oder Nahwärme? In Ulm hängt die Antwort stark von der Adresse ab, denn zwei Wärmenetzbetreiber und mehrere kleinere Quartiersnetze prägen das Stadtgebiet. Einen ersten Anhaltspunkt geben der kommunale Wärmeplan und die Ausbaukarten der Stadtwerke.",
   "abschnitte": [
     {
       "h2": "Ulmer Wärmeplan: Fokusgebiet, Eignungsgebiet oder Einzelversorgung?",
-      "text": "Der Wärmeplan der Stadt Ulm enthält Karten der Eignungs- und Fokusgebiete für Fernwärme mit den Zeithorizonten 2030 und 2040; über die Suchfunktion lässt sich das eigene Gebäude nach Straße und Hausnummer finden. Fokusgebiete sind Eignungsgebiete mit höherer Priorität. Die Stadt betont zugleich, dass der Plan informell und ohne rechtliche Außenwirkung ist: Ob ein Anschluss tatsächlich möglich ist, prüfen im Einzelfall die Fernwärme Ulm oder die Stadtwerke, und einen gesetzlichen Anspruch auf Anschluss gibt es nicht. Liegt das Haus außerhalb dieser Gebiete, ist eine Wärmepumpe für viele Eigentümer die naheliegende Option. Die Stadtwerke bieten mit dem Wärmekompass eine weitere Karte zu ihrem geplanten Netzausbau und nehmen dort auch Interessenbekundungen aus Straßen ohne Ausbauplanung entgegen."
+      "text": "Der Wärmeplan der Stadt Ulm enthält Karten der Eignungs- und Fokusgebiete für Fernwärme mit den Zeithorizonten 2030 und 2040; über die Suchfunktion lässt sich das eigene Gebäude nach Straße und Hausnummer finden. Fokusgebiete sind Eignungsgebiete mit höherer Priorität. Die Stadt betont zugleich, dass der Plan informell und ohne rechtliche Außenwirkung ist: Ob ein Anschluss tatsächlich möglich ist, prüfen im Einzelfall die Fernwärme Ulm oder die Stadtwerke, und einen gesetzlichen Anspruch auf Anschluss gibt es nicht. Die Stadtwerke bieten mit dem Wärmekompass eine weitere Karte zu ihrem geplanten Netzausbau und nehmen dort auch Interessenbekundungen aus Straßen ohne Ausbauplanung entgegen."
     },
     {
       "h2": "Erdwärme, Strom für die Wärmepumpe und der alte Öltank",
-      "text": "Für Erdwärmesonden liefert das Informationssystem Oberflächennahe Geothermie des Landesamts für Geologie eine erste Standortbeurteilung mit prognostiziertem Bohrprofil und Hinweisen auf Bohrrisiken. Zuständig für Schutz und Nutzung des Grundwassers ist in Ulm die Abteilung Umweltrecht und Gewerbeaufsicht als untere Wasserbehörde; dieselbe Abteilung nimmt auch Anzeigen zu Heizöltanks nach der AwSV entgegen, etwa wenn eine Tankanlage wesentlich geändert wird. Bei einer Luft-Wärmepumpe rückt dagegen der Stromanschluss in den Vordergrund: Geräte über 4,2 kW gelten als steuerbare Verbrauchseinrichtungen, mehrere Geräte derselben Kategorie samt Heizstab werden addiert. Ein Heizungsbauer klärt das in der Regel mit dem Elektriker und dem Netzbetreiber. Wenn Sie wissen, welche Lösung zu Ihrem Haus passen könnte, schildern Sie Ihr Vorhaben über unser Formular; wir suchen dafür einen passenden Fachbetrieb aus."
+      "text": "Für Erdwärmesonden liefert das Informationssystem Oberflächennahe Geothermie des Landesamts für Geologie eine erste Standortbeurteilung mit prognostiziertem Bohrprofil und Hinweisen auf Bohrrisiken. Zuständig für Schutz und Nutzung des Grundwassers ist in Ulm die Abteilung Umweltrecht und Gewerbeaufsicht als untere Wasserbehörde; dieselbe Abteilung nimmt auch Anzeigen zu Heizöltanks nach der AwSV entgegen, etwa wenn eine Tankanlage wesentlich geändert wird. Bei einer Luft-Wärmepumpe rückt dagegen der Stromanschluss in den Vordergrund: Geräte über 4,2 kW gelten als steuerbare Verbrauchseinrichtungen, mehrere Geräte derselben Kategorie samt Heizstab werden addiert. Wenn Sie wissen, welche Lösung zu Ihrem Haus passen könnte, schildern Sie Ihr Vorhaben über unser Formular; wir suchen dafür einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -84,6 +84,7 @@
   "offen": [
     "Lettenwald, Lindenhöhe, Ochsensteige (SWU-Netze) nicht genannt, da Zuordnung zu Ulm oder Neu-Ulm nicht sicher.",
     "Wärmeplan nennt Übergang EWärmeG/GEG mit Datumsangaben – bewusst nicht übernommen (datierte Rechtslage).",
-    "Ulmer Energieförderprogramm seit 01.09.2026 gestoppt – nicht erwähnt."
+    "Ulmer Energieförderprogramm seit 01.09.2026 gestoppt – nicht erwähnt.",
+    "QA 02.10.: Unbelegte Einordnungen entfernt („Wärmepumpe für viele Eigentümer die naheliegende Option“, „Heizungsbauer klärt das mit Elektriker und Netzbetreiber“) und Einstiegssatz „prüft deshalb zuerst …“ neutral gefasst (Punkte 6/13); Kürzung von 626 auf unter 600 Wörter (Punkt 11). ulm.de blockte am 02.10. Abrufe (403); Angabe „untere Wasserbehörde“ daher nicht erneut geprüft, laut Schreibbericht wörtlich belegt."
   ]
 }

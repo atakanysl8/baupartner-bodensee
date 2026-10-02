@@ -14,7 +14,7 @@
     },
     {
       "h2": "Solarstrom in der Gesamtanlage Altstadt",
-      "text": "Innerhalb des Rings rund um die historische Altstadt gilt die Satzung zum Schutz der Gesamtanlage „Historische Altstadt und Innenstadtbereich“. Sie nennt Photovoltaik-Anlagen und andere Anlagen zur Nutzung der Sonnenenergie ausdrücklich als genehmigungspflichtige Veränderung, auch wenn keine Baugenehmigung nötig ist. Zuständig ist die untere Denkmalschutzbehörde im Baurechtsamt. Für Häuser außerhalb der in der Satzung abgegrenzten Innenstadt, etwa in den Ortschaften wie Hochdorf oder Munzingen, gilt diese Satzung nicht, Einzeldenkmale ausgenommen; dort ist eher die Frage, ob Dach und Hausanschluss für die geplante Leistung ausreichen. Größere Anlagen über 30 kWp tragen nach Angaben der Stadt die Netzanschlusskosten bis zum Verknüpfungspunkt selbst, die Stadt hat dafür ein eigenes Förderprogramm aufgelegt."
+      "text": "Innerhalb des Rings rund um die historische Altstadt gilt die Satzung zum Schutz der Gesamtanlage „Historische Altstadt und Innenstadtbereich“. Sie nennt Photovoltaik-Anlagen und andere Anlagen zur Nutzung der Sonnenenergie ausdrücklich als genehmigungspflichtige Veränderung, auch wenn keine Baugenehmigung nötig ist. Zuständig ist die untere Denkmalschutzbehörde im Baurechtsamt. Für Häuser außerhalb der in der Satzung abgegrenzten Innenstadt, etwa in den Ortschaften wie Hochdorf oder Munzingen, gilt diese Satzung nicht, Einzeldenkmale ausgenommen; dort ist eher die Frage, ob Dach und Hausanschluss für die geplante Leistung ausreichen. Bei Anlagen über 30 kWp tragen die Betreibenden nach Angaben der Stadt die Kosten bis zum Netzverknüpfungspunkt; hier setzt das städtische Förderprogramm Netzanschlusserweiterung an, über dessen Bedingungen die Stadt informiert."
     },
     {
       "h2": "Städtische Beratung vor dem Angebot",
@@ -70,13 +70,14 @@
     },
     {
       "q": "Gibt es in Freiburg eine neutrale Beratung zu Photovoltaik?",
-      "a": "Ja, die Stadt bietet im Rahmen von „Dein Dach kann mehr!“ kostenlose Beratungen am Telefon oder im Beratungsbüro an. Die Zahl der Termine ist begrenzt."
+      "a": "Ja, die Stadt bietet im Rahmen von „Dein Dach kann mehr!“ kostenlose und unabhängige Beratungen am Telefon oder im Beratungsbüro an; Fragen zu Balkon-PV beantwortet die Energieberatungshotline."
     }
   ],
   "offen": [
     "badenovaNETZE als Netzbetreiber nur über das städtische Faktenblatt (Stand Juli 2025) belegt, nicht über eine Seite des Netzbetreibers selbst.",
     "Stadtteilnamen im Einstieg (Herdern, St. Georgen, Zähringen) nicht durch Fakten belegt; dass die Ortschaften (Hochdorf, Munzingen) außerhalb der Gesamtanlage liegen, aus der Abgrenzung in § 2 der Satzung (Ringstraßen der Innenstadt) abgeleitet. Andere Denkmal- oder Bebauungsplanvorgaben dort nicht geprüft.",
     "Faktenblatt E-Mobilität nennt Anmeldepflicht/Zustimmung – als Wiedergabe formuliert; siehe Anwaltsfrage.",
-    "Ziel „Solarenergie bis 2030 verfünffachen“ ist ein städtisches Ziel, keine Zusage."
+    "Ziel „Solarenergie bis 2030 verfünffachen“ ist ein städtisches Ziel, keine Zusage.",
+    "QA 02.10.: FAQ-Satz „Die Zahl der Termine ist begrenzt“ gestrichen (Momentangabe). Förderprogramm Netzanschlusserweiterung (Programmseite 2088466 per curl geprüft, aktiv, keine Befristung erkennbar) nur mit Verweis auf die Stadt. Faktenblatt E-Mobilität (3,6/11 kW) per pdftotext wörtlich geprüft."
   ]
 }

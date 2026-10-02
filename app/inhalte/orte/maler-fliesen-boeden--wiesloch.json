@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Fliesen in Bad und Küche: Wieslocher Wasser ist hart",
-      "text": "Die Stadtwerke Wiesloch fördern das Trinkwasser aus Tiefbrunnen in Wasserschutzzonen und entziehen ihm im Wasserwerk Eisen und Mangan; Calcium und Magnesium bleiben enthalten. Nach Angabe der Stadtwerke liegt die Härte in Wiesloch und Baiertal bei 23 °dH, in Schatthausen bei 21,7 °dH, beides im Härtebereich hart. Für Fliesenleger ist das ein Planungsdetail: Großformatige Fliesen mit wenigen Fugen, glatte Oberflächen in der Dusche und gut zu reinigende Fugenmaterialien erleichtern den Alltag mit Kalk. Ein Fliesenleger kann vor Ort einschätzen, welches Material für die Nutzung passt."
+      "text": "Die Stadtwerke Wiesloch fördern das Trinkwasser aus Tiefbrunnen in Wasserschutzzonen und entziehen ihm im Wasserwerk Eisen und Mangan; Calcium und Magnesium bleiben enthalten. Nach Angabe der Stadtwerke liegt die Härte in Wiesloch und Baiertal bei 23 °dH, in Schatthausen bei 21,7 °dH, beides im Härtebereich hart. Für Bad und Küche ist die Wasserhärte damit ein örtlicher Rahmenwert, den Fliesenleger bei der Materialwahl kennen."
     },
     {
       "h2": "Maler in Wiesloch: Altstadt, Denkmal und Energieberatung",
-      "text": "Als Große Kreisstadt ist Wiesloch selbst für das Baurecht zuständig, nicht das Landratsamt. Für die Altstadt hat die Stadt eigene Teilbebauungspläne von Block 1 bis Block 7 und eine Altstadtsatzung veröffentlicht. Wer ein Kulturdenkmal streichen oder verputzen lassen möchte, sollte wissen, dass Maßnahmen, die das Erscheinungsbild beeinträchtigen können, nach Darstellung der Stadt von der Denkmalschutzbehörde zu genehmigen sind, auch ohne Baugenehmigung. Soll unter dem neuen Anstrich gedämmt werden, berät die KLiBA im Auftrag der Stadt kostenfrei zur energetischen Altbaumodernisierung, mit regelmäßigen Sprechstunden im Rathaus."
+      "text": "Als Große Kreisstadt hat Wiesloch laut Landratsamt eine eigene Baurechtszuständigkeit. Für die Altstadt hat die Stadt eigene Teilbebauungspläne von Block 1 bis Block 7 und eine Altstadtsatzung veröffentlicht. Wer ein Kulturdenkmal streichen oder verputzen lassen möchte, sollte wissen, dass Maßnahmen, die das Erscheinungsbild beeinträchtigen können, nach Darstellung der Stadt von der Denkmalschutzbehörde zu genehmigen sind, auch ohne Baugenehmigung. Soll unter dem neuen Anstrich gedämmt werden, berät die KLiBA im Auftrag der Stadt kostenfrei zur energetischen Altbaumodernisierung, mit Sprechstunden im Rathaus."
     },
     {
       "h2": "Farbreste und Schadstoffe: was der Kreis annimmt",
@@ -53,7 +53,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Die KLiBA berät im Auftrag der Stadt Wiesloch Bürgerinnen und Bürger kostenfrei, unter anderem zur energetischen Altbaumodernisierung; ein Energieberater ist alle zwei Wochen mittwochs im Rathaus.",
+      "text": "Die KLiBA berät im Auftrag der Stadt Wiesloch Bürgerinnen und Bürger kostenfrei, unter anderem zur energetischen Altbaumodernisierung, mit Sprechstunden im Rathaus.",
       "quelle": "Stadt Wiesloch – Beratungen zu Energie und Photovoltaik",
       "url": "https://www.wiesloch.de/umwelt--mobilitaet/klimaschutz/energieberatung",
       "abruf": "2026-10-02"
@@ -77,10 +77,6 @@
       "a": "Die Stadtwerke Wiesloch geben für Wiesloch und Baiertal 23 °dH und für Schatthausen 21,7 °dH an. Beides liegt im Härtebereich hart."
     },
     {
-      "q": "Ist in Wiesloch die Stadt oder das Landratsamt für Baurecht zuständig?",
-      "a": "Wiesloch hat als Große Kreisstadt eine eigene Baurechtszuständigkeit. Auskunft zu Vorhaben in der Altstadt gibt deshalb die Stadtverwaltung."
-    },
-    {
       "q": "Wohin mit Lackresten nach dem Streichen in Wiesloch?",
       "a": "Lacke, Lasuren und Spachtelmassen nimmt das Schadstoffmobil der AVR Kommunal an festen Terminen kostenlos an. Dispersionsfarbe lässt man nach Angabe der AVR austrocknen und gibt sie in den Restmüll."
     },
@@ -94,6 +90,7 @@
     "Denkmal-Fakt stammt aus der Service-BW-Dienstleistungsbeschreibung auf wiesloch.de (landesweit gleichlautend), nicht aus eigenem städtischen Text.",
     "Keine eigene Gestaltungssatzung oder Fassadenprogramm der Stadt Wiesloch gefunden.",
     "Tipps zu großformatigen Fliesen/Fugen sind fachliche Allgemeinaussagen, nicht belegt.",
-    "Stadtteile im Einstieg (Frauenweiler, Baiertal) als Beispiele, nicht belegt."
+    "Stadtteile im Einstieg (Frauenweiler, Baiertal) als Beispiele, nicht belegt.",
+    "QA 02.10.: Unbelegte Fliesentipps (Großformat, Fugen) und „Fliesenleger kann vor Ort einschätzen“ entfernt (Punkte 13/14). Sprechstundenrhythmus „alle zwei Wochen mittwochs“ entfernt (Punkt 1). Baurechtszuständigkeit als Wiedergabe des Landratsamts. Kürzung von 658 auf unter 600 Wörter (Punkt 11). Dafür FAQ zur Baurechtszuständigkeit (doppelt zum Abschnitt) gestrichen."
   ]
 }

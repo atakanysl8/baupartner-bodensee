@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Elektriker in Aalen: was die Stadtwerke für PV und Speicher verlangen",
-      "text": "Netzbetreiber in Aalen sind die Stadtwerke Aalen. Für die Anmeldung und spätere Inbetriebsetzung einer PV-Anlage oder eines Stromspeichers verlangen sie neben dem Anmeldeformular einen unterschriebenen Übersichtsschaltplan nach VDE-AR-N 4105, in dem auch bereits vorhandene Anlagen am selben Anschlusspunkt und das vorgesehene Messkonzept eingezeichnet sind. Ohne gültigen Schaltplan wird das Anschlussbegehren nach Angaben der Stadtwerke nicht weiterbearbeitet. Hinzu kommen Einheitenzertifikate und technische Unterlagen zu Wechselrichter und Speicher; nicht bei den Stadtwerken eingetragene Installateure legen eine Kopie ihres Installateurausweises bei. Diese Unterlagen erstellt in der Regel der Elektrobetrieb. Anders bei Balkonkraftwerken: Hier genügt inzwischen die Registrierung im Marktstammdatenregister, eine Anmeldung beim Netzbetreiber entfällt."
+      "text": "Netzbetreiber in Aalen sind die Stadtwerke Aalen. Für die Anmeldung und spätere Inbetriebsetzung einer PV-Anlage oder eines Stromspeichers verlangen sie neben dem Anmeldeformular einen unterschriebenen Übersichtsschaltplan nach VDE-AR-N 4105, in dem auch bereits vorhandene Anlagen am selben Anschlusspunkt und das vorgesehene Messkonzept eingezeichnet sind. Ohne gültigen Schaltplan wird das Anschlussbegehren nach Angaben der Stadtwerke nicht weiterbearbeitet. Hinzu kommen Einheitenzertifikate und technische Unterlagen zu Wechselrichter und Speicher; nicht bei den Stadtwerken eingetragene Installateure legen eine Kopie ihres Installateurausweises bei. Diese Unterlagen erstellt in der Regel der Elektrobetrieb. Anders bei Balkonkraftwerken: Hier genügt laut Stadtwerken die Registrierung im Marktstammdatenregister, eine Anmeldung beim Netzbetreiber entfällt."
     },
     {
       "h2": "Ladestation, Energieleitplan und neutrale Beratung in Aalen",
@@ -67,8 +67,8 @@
       "a": "Unter anderem das Anmelde- und Inbetriebsetzungsformular, einen unterschriebenen Übersichtsschaltplan nach VDE-AR-N 4105 mit Messkonzept sowie Zertifikate und Datenblätter zu Wechselrichter und Speicher. In der Regel stellt sie der ausführende Elektrobetrieb zusammen."
     },
     {
-      "q": "Muss ich meine Wallbox in Aalen anmelden?",
-      "a": "Ja. Ladestationen über 4,2 kW laufen über das Netzanschlussportal der Stadtwerke Aalen, kleinere werden über ein Online-Formular gemeldet."
+      "q": "Wie wird eine Wallbox in Aalen angemeldet?",
+      "a": "Laut Stadtwerken Aalen laufen Ladestationen über 4,2 kW über das Netzanschlussportal, kleinere werden über ein Online-Formular gemeldet."
     },
     {
       "q": "Was ist der Aalener Energieleitplan?",
@@ -77,6 +77,7 @@
   ],
   "offen": [
     "Stadtteile im Einstieg beispielhaft.",
-    "PV-Pflicht nach KlimaG BW bewusst nicht ausgeführt (bereits allgemein bekannt, keine Anweisungen)."
+    "PV-Pflicht nach KlimaG BW bewusst nicht ausgeführt (bereits allgemein bekannt, keine Anweisungen).",
+    "QA 02.10.: „inzwischen“ (Momentangabe) durch Quellenbezug ersetzt; FAQ Wallbox von „Muss ich …? Ja.“ zu Wiedergabe der Stadtwerke umformuliert (Punkt 6)."
   ]
 }

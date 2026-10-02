@@ -6,7 +6,7 @@
   "title": "Elektriker Heilbronn – Fachbetrieb kostenlos vermittelt",
   "description": "Elektriker in Heilbronn gesucht? Netzanschlussportal der NHF, Wallbox nach § 14a EnWG, PV und Speicher. Passender Fachbetrieb kostenlos vermittelt.",
   "h1": "Elektriker in Heilbronn",
-  "einstieg": "Ein neuer Zählerschrank im Altbau, eine Wallbox in der Garage oder eine Solaranlage mit Speicher auf dem Reihenhaus: Wer einen Elektriker in Heilbronn sucht, hat es neben der Technik auch mit dem örtlichen Verteilnetzbetreiber zu tun. Dessen Anmeldewege haben sich zuletzt deutlich verändert, und für Wärmepumpen und Ladepunkte gelten neue Regeln zur Steuerbarkeit.",
+  "einstieg": "Ein neuer Zählerschrank im Altbau, eine Wallbox in der Garage oder eine Solaranlage mit Speicher auf dem Reihenhaus: Wer einen Elektriker in Heilbronn sucht, hat es neben der Technik auch mit dem örtlichen Verteilnetzbetreiber zu tun.",
   "abschnitte": [
     {
       "h2": "Elektriker Heilbronn: Anmeldung beim Netzbetreiber läuft digital",
@@ -14,20 +14,14 @@
     },
     {
       "h2": "Wallbox und Wärmepumpe: steuerbar nach § 14a EnWG",
-      "text": "Wer in Heilbronn eine Ladestation für das Elektroauto, eine Wärmepumpe oder einen Batteriespeicher mit mehr als 4,2 kW installieren lässt, fällt unter die Neuregelung der Bundesnetzagentur zu steuerbaren Verbrauchseinrichtungen. Nach den Informationen der NHF darf der Netzbetreiber die Leistung solcher Geräte bei hoher Netzauslastung vorübergehend begrenzen; im Gegenzug sind reduzierte Netzentgelte vorgesehen, wahlweise als Pauschale oder als prozentualer Abschlag. Die Inbetriebsetzung übernimmt eine eingetragene Elektrofachkraft, die das Gerät bei der NHF meldet. Bei Altbauten mit kleinem Zählerschrank ist deshalb oft zuerst zu klären, ob Platz für Steuertechnik und zusätzliche Zählerplätze vorhanden ist."
+      "text": "Wer in Heilbronn eine Ladestation für das Elektroauto, eine Wärmepumpe oder einen Batteriespeicher mit mehr als 4,2 kW installieren lässt, fällt unter die Neuregelung der Bundesnetzagentur zu steuerbaren Verbrauchseinrichtungen. Nach den Informationen der NHF darf der Netzbetreiber die Leistung solcher Geräte bei hoher Netzauslastung vorübergehend begrenzen. Die Inbetriebsetzung übernimmt eine eingetragene Elektrofachkraft, die das Gerät bei der NHF meldet."
     },
     {
       "h2": "Solarstrom vom eigenen Dach: Beratung in der Stadt",
-      "text": "Heilbronn will bis 2035 treibhausgasneutral werden, und nach Angaben der Stadt gehört die Hälfte der Solaranlagen im Stadtgebiet Privatleuten. Vor der Planung lohnt ein Blick in das Solardachkataster im Energieatlas Baden-Württemberg. Anbieterneutrale Beratung gibt es an zwei Stellen: bei der Energieagentur Heilbronn in der Lohtorstraße und bei der ehrenamtlichen Bürgersolarberatung, die vor allem Ein- und Zweifamilienhäuser berät, aber keine Handwerker vermittelt. Haben Sie Ihr Vorhaben geklärt, beschreiben Sie es in unserem Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Vor der Planung lohnt ein Blick in das Solardachkataster im Energieatlas Baden-Württemberg. Anbieterneutrale Beratung gibt es an zwei Stellen: bei der Energieagentur Heilbronn in der Lohtorstraße und bei der ehrenamtlichen Bürgersolarberatung, die vor allem Ein- und Zweifamilienhäuser berät, aber keine Handwerker vermittelt. Haben Sie Ihr Vorhaben geklärt, beschreiben Sie es in unserem Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
-    {
-      "text": "Nach Angaben der Stadt Heilbronn befindet sich die Hälfte der Photovoltaikanlagen im Stadtgebiet im direkten Eigentum von Privatpersonen, inzwischen über 3.000 Anlagen.",
-      "quelle": "Stadt Heilbronn – Solarstrom für die Bürgerschaft",
-      "url": "https://www.heilbronn.de/umwelt-mobilitaet/energie/solarenergie-photovoltaik/solarstrom-fuer-die-buergerschaft.html",
-      "abruf": "2026-10-02"
-    },
     {
       "text": "Die NHF Netzgesellschaft Heilbronn-Franken nimmt Anträge zum Netzanschluss seit 3. November 2025 ausschließlich über ihr Netzanschlussportal an, auch für Änderungen wie eine Leistungserhöhung.",
       "quelle": "NHF Netzgesellschaft Heilbronn-Franken – Netzanschlussportal",
@@ -59,12 +53,6 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Rund 40 Prozent der Treibhausgasemissionen im Heilbronner Stadtgebiet entfallen laut städtischem Klimaschutz-Monitoring auf den Strom.",
-      "quelle": "Stadt Heilbronn – Klimaschutz-Monitoring Photovoltaik",
-      "url": "https://klimaschutz.heilbronn.de/monitoring/massnahmen/photovoltaik",
-      "abruf": "2026-10-02"
-    },
-    {
       "text": "Im Solardachkataster des Energieatlas Baden-Württemberg lässt sich über die Ortssuche die mögliche PV-Leistung einzelner Dachflächen anzeigen.",
       "quelle": "Energieatlas Baden-Württemberg – Solarpotenzial auf Dachflächen",
       "url": "https://www.energieatlas-bw.de/sonne/dachflachen/solarpotenzial-auf-dachflachen",
@@ -82,12 +70,14 @@
     },
     {
       "q": "Wo bekomme ich in Heilbronn eine neutrale Beratung zur Solaranlage?",
-      "a": "Bei der Energieagentur Heilbronn in der Lohtorstraße 24 sowie bei der ehrenamtlichen Bürgersolarberatung, die über die Stadt erreichbar ist. Beide verkaufen keine Anlagen."
+      "a": "Bei der Energieagentur Heilbronn in der Lohtorstraße 24 sowie bei der ehrenamtlichen Bürgersolarberatung, die über die Stadt erreichbar ist."
     }
   ],
   "offen": [
     "Dass die NHF in allen Heilbronner Stadtteilen Verteilnetzbetreiberin ist, steht nicht wörtlich auf einer Quelle; belegt ist nur, dass die Stadt für PV-Netzanfragen auf die NHF verweist. Formulierung entsprechend vorsichtig.",
     "Die Angabe der NHF zur Bearbeitungsdauer der Netzverträglichkeitsprüfung (bis zu acht Wochen) wurde bewusst weggelassen (Momentangabe).",
-    "Datum 3. November 2025 aus der NHF-Seite übernommen; da es in der Vergangenheit liegt, keine Fristaussage."
+    "Datum 3. November 2025 aus der NHF-Seite übernommen; da es in der Vergangenheit liegt, keine Fristaussage.",
+    "QA 02.10.: Zahlen ohne Stand entfernt (Punkt 3): „Hälfte der PV-Anlagen / über 3.000 Anlagen“ und „rund 40 Prozent der Emissionen auf Strom“ (Seite ohne Stand, © 2024); Ziel 2035 ohne Beleg auf den Quellseiten gestrichen.",
+    "QA 02.10.: Momentangabe im Einstieg („zuletzt deutlich verändert“), Netzentgelt-Vorteil (Vorlage 2 D), allgemeiner Zählerschrank-Satz und unbelegtes „Beide verkaufen keine Anlagen“ gestrichen."
   ]
 }

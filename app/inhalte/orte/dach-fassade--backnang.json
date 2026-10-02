@@ -14,7 +14,7 @@
     },
     {
       "h2": "Erneuerungsgebiet Innenstadt III: Fassaden mit Charakter erhalten",
-      "text": "Backnang hat drei städtebauliche Erneuerungsgebiete. In ihnen können private bauliche und energetische Modernisierungen nach Angaben der Stadt eventuell gefördert werden, zusätzlich kommen erhöhte steuerliche Abschreibungen in Betracht. Die Stadt betont, dass Maßnahmen vorher mit ihr abgestimmt werden müssen, weil bereits durchgeführte nicht nachträglich gefördert werden. Im Gebiet „Innenstadt III“, das von 2018 bis 2032 im Landessanierungsprogramm läuft, gehört die Sicherung stadtbildprägender Fassaden mit Materialität, Fassadenteilung, Fensterformaten und Verzierungen ausdrücklich zu den Zielen, gerade auch bei energetischer Sanierung. Für Dachdecker und Fassadenbauer heißt das, Dämmung und Gestaltung gemeinsam zu planen."
+      "text": "Backnang hat drei städtebauliche Erneuerungsgebiete. In ihnen können private bauliche und energetische Modernisierungen nach Angaben der Stadt eventuell gefördert werden. Laut Stadt werden Maßnahmen dafür vorher mit ihr abgestimmt; bereits durchgeführte werden nicht nachträglich gefördert. Im Gebiet „Innenstadt III“, das von 2018 bis 2032 im Landessanierungsprogramm läuft, gehört die Sicherung stadtbildprägender Fassaden mit Materialität, Fassadenteilung, Fensterformaten und Verzierungen ausdrücklich zu den Zielen, gerade auch bei energetischer Sanierung. Für Dachdecker und Fassadenbauer heißt das, Dämmung und Gestaltung gemeinsam zu planen."
     },
     {
       "h2": "Starkregen bedenken, Fachbetrieb finden",
@@ -41,7 +41,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "In den drei Backnanger Erneuerungsgebieten können private bauliche und energetische Modernisierungen eventuell gefördert werden; die Maßnahme ist vorher mit der Stadt abzustimmen, für bereits durchgeführte Maßnahmen gibt es keine nachträgliche Förderung.",
+      "text": "In den drei Backnanger Erneuerungsgebieten können private bauliche und energetische Modernisierungen eventuell gefördert werden; laut Stadt werden Maßnahmen vorher mit ihr abgestimmt, für bereits durchgeführte Maßnahmen gibt es keine nachträgliche Förderung.",
       "quelle": "Stadt Backnang – Stadterneuerung",
       "url": "https://www.backnang.de/stadt-gestalten/stadterneuerung-stadtsanierung",
       "abruf": "2026-10-02"
@@ -76,6 +76,7 @@
   "offen": [
     "Für Backnang wurde keine Gestaltungs- oder Altstadtsatzung mit Dachvorgaben gefunden; nur Werbeanlagensatzung.",
     "Die Namen der beiden anderen Erneuerungsgebiete (Obere Walke 2, Wilhelmstraße/Mühlstraße) wurden nicht inhaltlich geprüft.",
-    "Bezug Starkregen–Dach ist allgemein; Karten nicht im Detail geprüft."
+    "Bezug Starkregen–Dach ist allgemein; Karten nicht im Detail geprüft.",
+    "QA 02.10.: Hinweis auf erhöhte steuerliche Abschreibungen gestrichen (Punkt 12); „müssen vorher abgestimmt werden“ als Wiedergabe der Stadt gefasst (Punkt 6)."
   ]
 }

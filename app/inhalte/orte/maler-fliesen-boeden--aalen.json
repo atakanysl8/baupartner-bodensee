@@ -9,12 +9,12 @@
   "einstieg": "Der Putz am Haus in der Aalener Altstadt blättert, im Ortskern von Wasseralfingen soll die Fassade wieder freundlicher wirken, oder im Eigenheim stehen neue Fliesen und Böden an. Für Maler und Fliesenleger in Aalen gibt es dabei eine örtliche Besonderheit: Die Stadt unterstützt die Gestaltung von Fassaden mit einem eigenen Programm und möchte bei der Farbe mitreden.",
   "abschnitte": [
     {
-      "h2": "Fassadenprogramm Aalen: Farbgebung vorher mit der Stadt abstimmen",
-      "text": "Mit dem Fassadenprogramm „sanieren für Aalen“ fördert die Stadt Fassadensanierungen in der Altstadt, in den Kernbereichen der Ortsteile, an Stadt- und Ortseingängen sowie in Bereichen, die für die öffentliche Wahrnehmung besonders wichtig sind. Förderfähig sind unter anderem der Erhalt oder die Wiederherstellung von Gestaltungselementen, Haustüren und Fensterdetails wie Sprossenfenstern, künstlerische Wandgestaltung und die fachlich erforderliche Planung; in der Innenstadt kann zusätzlich das Überstreichen von Schmierereien gefördert werden. Wichtig für den Ablauf: Laut Stadt ist die Farbgebung der Fassade vor Maßnahmenbeginn mit ihr abzustimmen, und der Antrag ist vor Beginn zu stellen; Ansprechpartner ist das Stadtplanungsamt. Ein Malerbetrieb kann dafür Farbmuster und eine Maßnahmenbeschreibung liefern. Die Förderhöhe nennt die Stadt in ihrer Richtlinie."
+      "h2": "Fassadenprogramm Aalen: Farbgebung und Ablauf",
+      "text": "Mit dem Fassadenprogramm „sanieren für Aalen“ fördert die Stadt Fassadensanierungen in der Altstadt, in den Kernbereichen der Ortsteile, an Stadt- und Ortseingängen sowie in Bereichen, die für die öffentliche Wahrnehmung besonders wichtig sind. Förderfähig sind unter anderem der Erhalt oder die Wiederherstellung von Gestaltungselementen, Haustüren und Fensterdetails wie Sprossenfenstern, künstlerische Wandgestaltung und die fachlich erforderliche Planung; in der Innenstadt kann zusätzlich das Überstreichen von Schmierereien gefördert werden. Zum Ablauf nennt die Stadt zwei Punkte: Die Farbgebung der Fassade wird vor Maßnahmenbeginn mit ihr abgestimmt, und der Antrag geht vor Beginn der Arbeiten ein; Ansprechpartner ist das Stadtplanungsamt. Ein Malerbetrieb kann dafür Farbmuster und eine Maßnahmenbeschreibung liefern. Über die aktuellen Bedingungen informiert die Stadt."
     },
     {
       "h2": "Sanierungsgebiet und Wärmedämmung: was Maler in Aalen wissen sollten",
-      "text": "In förmlich festgelegten Sanierungsgebieten wie „Stadtmitte/Wilhelm-Merz-Straße“ zwischen Stuttgarter Straße, Walkstraße und Kocher können laut Stadt steuerliche Vorteile und gegebenenfalls Zuschüsse für umfassende Modernisierung und Instandsetzung bestehen, ausdrücklich aber nicht für Schönheitsreparaturen. Voraussetzung ist in der Regel, dass die Maßnahme vor Beginn mit der Stadt abgestimmt und vertraglich vereinbart wird. Soll die Fassade gedämmt werden, gibt die Stadt einen praktischen Hinweis zur Reihenfolge: Es sei unsinnig, zuerst die Fassade zu dämmen und erst später die Fenster zu tauschen. Für Fliesen und Böden im Inneren gelten diese Regeln meist nicht. Wenn Sie Umfang und Ziel kennen, schildern Sie Ihr Projekt über unser Formular; wir wählen daraufhin einen passenden Maler- oder Fliesenlegerbetrieb aus."
+      "text": "In förmlich festgelegten Sanierungsgebieten wie „Stadtmitte/Wilhelm-Merz-Straße“ zwischen Stuttgarter Straße, Walkstraße und Kocher können laut Stadt Zuschüsse für umfassende Modernisierung und Instandsetzung möglich sein, ausdrücklich aber nicht für Schönheitsreparaturen. Voraussetzung ist in der Regel, dass die Maßnahme vor Beginn mit der Stadt abgestimmt und vertraglich vereinbart wird. Soll die Fassade gedämmt werden, gibt die Stadt einen praktischen Hinweis zur Reihenfolge: Es sei unsinnig, zuerst die Fassade zu dämmen und erst später die Fenster zu tauschen. Für Fliesen und Böden im Inneren gelten diese Regeln meist nicht. Wenn Sie Umfang und Ziel kennen, schildern Sie Ihr Projekt über unser Formular; wir wählen daraufhin einen passenden Maler- oder Fliesenlegerbetrieb aus."
     }
   ],
   "fakten": [
@@ -31,7 +31,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Laut Stadt Aalen ist die Farbgebung der Fassade vor Maßnahmenbeginn mit der Stadt abzustimmen; der Förderantrag ist vor Maßnahmenbeginn zu stellen, Ansprechpartner ist das Stadtplanungsamt.",
+      "text": "Laut Stadt Aalen wird die Farbgebung der Fassade im Fassadenprogramm vor Maßnahmenbeginn mit der Stadt abgestimmt; der Förderantrag wird vor Maßnahmenbeginn gestellt, Ansprechpartner ist das Stadtplanungsamt.",
       "quelle": "Stadt Aalen – Fassadenprogramm",
       "url": "https://www.aalen.de/fassaden-programm.130411.25.htm",
       "abruf": "2026-10-02"
@@ -68,7 +68,7 @@
     },
     {
       "q": "Muss ich in Aalen die Fassadenfarbe mit der Stadt abstimmen?",
-      "a": "Wer das Fassadenprogramm nutzt, stimmt laut Stadt die Farbgebung vor Maßnahmenbeginn mit ihr ab. Im Sanierungsgebiet ist eine Abstimmung vor Beginn ebenfalls in der Regel Voraussetzung für Förderung oder Steuerbescheinigung."
+      "a": "Wer das Fassadenprogramm nutzt, stimmt laut Stadt die Farbgebung vor Maßnahmenbeginn mit ihr ab. Im Sanierungsgebiet ist eine Abstimmung mit der Stadt vor Beginn in der Regel Voraussetzung für eine Förderung."
     },
     {
       "q": "Wird ein neuer Anstrich im Aalener Sanierungsgebiet gefördert?",
@@ -78,6 +78,7 @@
   "offen": [
     "Förderhöhen und Jahresbudget des Fassadenprogramms bewusst nicht genannt.",
     "Fassadenprogramm-Seite gibt keinen Stand an; ob 2027 fortgeführt wird, unklar (Seite nennt Programmjahr 2026).",
-    "Keine Gestaltungssatzung oder Farbleitplan für die Aalener Altstadt online gefunden."
+    "Keine Gestaltungssatzung oder Farbleitplan für die Aalener Altstadt online gefunden.",
+    "QA 02.10.: Steuerhinweise (steuerliche Vorteile, Steuerbescheinigung) in Abschnitt 2 und FAQ gestrichen (Punkt 12). „ist … abzustimmen/ist … zu stellen“ als Wiedergabe umformuliert, Überschrift ohne Imperativ (Punkt 6). „Förderhöhe nennt die Richtlinie“ → Verweis auf die Stadt. Fassadenprogramm-Seite per curl geprüft: läuft als Programmjahr 2026 (jährlich), keine Beträge im Text."
   ]
 }

@@ -10,15 +10,15 @@
   "abschnitte": [
     {
       "h2": "Die Rastatter Farbpalette: was die Gestaltungssatzung erlaubt",
-      "text": "Die Gestaltungssatzung Innenstadt will das farbige Erscheinungsbild der Innenstadt in seiner Vielfalt erhalten und die barocke Atmosphäre wahren. Für die Fassadenflächen lässt sie historische Farbtöne zu: lichte Ockergelbtöne, lichte Chromoxydtöne, Eierschalenweiß und rötliche Ockertöne. Für Gliederungen wie Gesimse oder Fenstereinfassungen kommen Englischrot, Sandsteingrau und Weiß hinzu. Nicht zulässig sind reines Weiß, sehr helle oder leuchtende Töne sowie reines Schwarz und sehr dunkle Farben. Der Maler bekommt damit eine klare Vorgabe, die vor dem ersten Probeanstrich bekannt sein sollte."
+      "text": "Die Gestaltungssatzung Innenstadt will das farbige Erscheinungsbild der Innenstadt in seiner Vielfalt erhalten und die barocke Atmosphäre wahren. Für die Fassadenflächen lässt sie historische Farbtöne zu: lichte Ockergelbtöne, lichte Chromoxydtöne, Eierschalenweiß und rötliche Ockertöne. Für Gliederungen wie Gesimse oder Fenstereinfassungen kommen Englischrot, Sandsteingrau und Weiß hinzu. Nicht zulässig sind reines Weiß, sehr helle oder leuchtende Töne sowie reines Schwarz und sehr dunkle Farben."
     },
     {
       "h2": "Putzfassade, Fenster und Klappläden",
-      "text": "Neben der Farbe regelt die Satzung das Material. Fassaden sind als Putzfassaden zu gestalten; glatte und glänzende Oberflächen, Schindeln und Platten sind zur Fassadengestaltung nicht zugelassen. Fensterrahmen sind aus Holz und weiß bis gebrochen weiß zu streichen, Schaufenster ausgenommen. Vorhandene Klappläden bleiben bei einer Instandsetzung der Fassade erhalten, weil sie die oft schlichten Fassaden gliedern. Für Maler heißt das: Putzausbesserung, Anstrich von Fassade, Fenstern und Läden gehören in Rastatt oft zu einem gemeinsamen, abgestimmten Auftrag."
+      "text": "Neben der Farbe regelt die Satzung das Material. Sie sieht Putzfassaden vor; glatte und glänzende Oberflächen, Schindeln und Platten lässt sie zur Fassadengestaltung nicht zu. Für Fensterrahmen nennt sie Holz und einen Anstrich in Weiß bis gebrochen Weiß, Schaufenster ausgenommen. Vorhandene Klappläden sind nach der Satzung bei einer Instandsetzung der Fassade zu erhalten, sofern die Fassade nicht vollständig neu gestaltet wird; die Begründung verweist darauf, dass Läden die oft schlichten Fassaden gliedern."
     },
     {
-      "h2": "Förderung in der Barocken Planstadt und Arbeiten im Inneren",
-      "text": "Für das Erneuerungsgebiet „Barocke Planstadt“ hat die Stadt eine eigene Förderrichtlinie; eine weitere gibt es für die „Südliche Innenstadt“. Schwerpunkt ist unter anderem die Erneuerung der äußeren Gebäudehülle entsprechend der Gestaltungssatzung. Putz-, Tapezier-, Bodenbelags- und Fliesenarbeiten, die als Folge von Leitungs- und Heizungsarbeiten anfallen, zählt die Richtlinie zur Instandsetzung, Schönheitsreparaturen dagegen nicht. Vor Abschluss der Vereinbarung mit der Stadt vergebene Arbeiten werden nach der Richtlinie nicht berücksichtigt. Schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "h2": "Förderung in der Barocken Planstadt",
+      "text": "Für das Erneuerungsgebiet „Barocke Planstadt“ hat die Stadt eine eigene Förderrichtlinie; eine weitere gibt es für die „Südliche Innenstadt“. Schwerpunkt ist unter anderem die Erneuerung der äußeren Gebäudehülle entsprechend der Gestaltungssatzung. Über die jeweils geltenden Förderbedingungen informiert die Stadt. Schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -47,12 +47,6 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Putz-, Tapezier-, Bodenbelags- oder Fliesenarbeiten als Folge von Elektro-, Heizungs- und Wasserinstallationen zählen nach der Richtlinie zur Instandsetzung; Schönheitsreparaturen und vor Abschluss der Modernisierungsvereinbarung durchgeführte Arbeiten sind nicht förderfähig.",
-      "quelle": "Stadt Rastatt – Förderrichtlinie Erneuerungsgebiet „Barocke Planstadt“",
-      "url": "https://www.rastatt.de/site/Rastatt-Stadt/get/documents_E1241256237/rastatt/Dateien/PDFs/2.%20Rathaus%20und%20Politik/Verwaltung/Ver%C3%B6ffentlichungen/Ortsrecht/Bauen%20und%20Wohnen/Richtlinie%20der%20Stadt%20Rastatt%20zur%20F%C3%B6rderung%20von%20privaten%20Modernisierungs-%20und%20Instandsetzungssowie%20privaten%20Ordnungsma%C3%9Fnahmen%20im%20st%C3%A4dtebaulichen%20Erneuerungsgebiet%20%E2%80%9EBarocke%20Planstadt%E2%80%9C%20in%20Rastatt.pdf",
-      "abruf": "2026-10-02"
-    },
-    {
       "text": "Neben der „Barocken Planstadt“ hat die Stadt Rastatt eine eigene Förderrichtlinie für private Modernisierungs- und Instandsetzungsmaßnahmen im Erneuerungsgebiet „Südliche Innenstadt“ veröffentlicht.",
       "quelle": "Stadt Rastatt – Satzungen und Weisungen",
       "url": "https://www.rastatt.de/rathaus-und-politik/stadtverwaltung/amtliche-veroeffentlichungen/satzungen-und-weisungen",
@@ -65,18 +59,20 @@
       "a": "Die Gestaltungssatzung Innenstadt nennt zulässige historische Töne wie lichte Ocker- und Chromoxydtöne oder Eierschalenweiß. Reines Weiß, leuchtende und sehr dunkle Farben sind ausgeschlossen."
     },
     {
-      "q": "Darf ich an der Fassade Platten oder eine glänzende Verkleidung anbringen lassen?",
-      "a": "Im Geltungsbereich der Satzung grundsätzlich nicht: Sie schreibt Putzfassaden vor und schließt glatte, glänzende Oberflächen, Schindeln und Platten aus."
+      "q": "Sind Platten oder eine glänzende Verkleidung an der Fassade in der Rastatter Innenstadt zulässig?",
+      "a": "Im Geltungsbereich der Satzung grundsätzlich nicht: Sie sieht Putzfassaden vor und schließt glatte, glänzende Oberflächen, Schindeln und Platten aus."
     },
     {
       "q": "Gibt es in Rastatt Zuschüsse für eine neue Fassade?",
-      "a": "In den Erneuerungsgebieten „Barocke Planstadt“ und „Südliche Innenstadt“ kann die Stadt Modernisierung und Instandsetzung fördern, wenn vor Beginn eine Vereinbarung geschlossen wird. Ein Rechtsanspruch besteht nicht; Auskunft gibt die Stadt."
+      "a": "Für die Erneuerungsgebiete „Barocke Planstadt“ und „Südliche Innenstadt“ hat die Stadt Förderrichtlinien für private Modernisierung und Instandsetzung. Über die Bedingungen informiert die Stadt."
     }
   ],
   "offen": [
     "Die Gestaltungssatzung liegt nur als Scan vor; Paragrafen 11 und 12 wurden aus den Bildseiten abgelesen. Geltungsbereich (laut Inhaltsverzeichnis Kaiserstraße zwischen Kapellen- und Engelstraße, Schlossstraße, Herrenstraße) nicht am Satzungstext geprüft; Datum der Satzung unbekannt.",
     "Ob für Anstriche im Geltungsbereich ein eigenes Genehmigungsverfahren nötig ist, nennt die Satzung auf den gelesenen Seiten nicht; im Text nicht behauptet.",
     "Mindestkosten (15.000 €) und Abzug für unterlassene Instandsetzung der Förderrichtlinie bewusst nicht genannt.",
-    "„Barocke Planstadt“ als Bezeichnung durch die Förderrichtlinie belegt; Kaiserstraße und Herrenstraße im Einstieg aus dem Inhaltsverzeichnis der Satzung."
+    "„Barocke Planstadt“ als Bezeichnung durch die Förderrichtlinie belegt; Kaiserstraße und Herrenstraße im Einstieg aus dem Inhaltsverzeichnis der Satzung.",
+    "QA 02.10.: Satzungsscan (62 S., Datum nicht angegeben) selbst gerendert; § 11 Abs. 2–5 und § 12 wörtlich geprüft. Klappläden-Regel um Einschränkung „falls nicht vollkommene Neugestaltung“ ergänzt; Formulierungen als Wiedergabe der Satzung.",
+    "QA 02.10.: Förderbedingungen der Richtlinie Barocke Planstadt (Folgearbeiten, Schönheitsreparaturen, Vereinbarung vor Beginn) aus Text, Fakt 5 und FAQ 3 entfernt → nur Existenz + Verweis Stadt; Füllsätze („klare Vorgabe“, „gemeinsamer Auftrag“) entfernt. Seite hat jetzt 5 Fakten."
   ]
 }

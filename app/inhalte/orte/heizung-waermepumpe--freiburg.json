@@ -14,7 +14,7 @@
     },
     {
       "h2": "Wärmepumpe in Freiburg: Luft, Erdreich oder Grundwasser",
-      "text": "Die Stadt beschreibt die Voraussetzungen für Wärmepumpen als gut: An vielen Orten steht das Grundwasser hoch an, und die Lage im Oberrheingraben bietet Erdwärmepotenzial. Bei Luft-Wasser-Wärmepumpen geht es vor allem um den Aufstellort und den Schallschutz gegenüber der Nachbarschaft. Für Erdwärmesonden oder Brunnen ist die untere Wasserbehörde im Umweltschutzamt zuständig: Erdarbeiten tiefer als zehn Meter werden dort angezeigt, häufig ist eine wasserrechtliche Erlaubnis nötig. Eine Karte im Geoportal gibt einen ersten Überblick, und beim Umweltschutzamt ist eine kostenfreie Voranfrage möglich."
+      "text": "Die Stadt beschreibt die Voraussetzungen für Wärmepumpen als gut: An vielen Orten steht das Grundwasser hoch an, und die Lage im Oberrheingraben bietet Erdwärmepotenzial. Bei Luft-Wasser-Wärmepumpen geht es vor allem um den Aufstellort und den Schallschutz gegenüber der Nachbarschaft. Für Erdwärmesonden oder Brunnen nennt die Stadt die untere Wasserbehörde im Umweltschutzamt: Laut Stadt werden Erdarbeiten tiefer als zehn Meter dort angezeigt, in vielen Fällen ist eine wasserrechtliche Erlaubnis nötig. Eine Karte im Geoportal gibt einen ersten Überblick, und beim Umweltschutzamt ist eine kostenfreie Voranfrage möglich."
     },
     {
       "h2": "Eignung klären, Angebote vergleichen",
@@ -65,17 +65,18 @@
       "a": "Nach Angaben der Stadt gibt es für bestehende Gebäude in Freiburg keine Anschlusspflicht. Ob in Ihrer Straße ein Netz geplant ist, zeigt die Karte zum Wärmenetzausbau im Geoportal."
     },
     {
-      "q": "Wer ist in Freiburg für Erdwärmesonden zuständig?",
-      "a": "Die untere Wasserbehörde im Umweltschutzamt der Stadt. Dort kann vorab kostenfrei angefragt werden, ob Sonden, Kollektoren oder Grundwassernutzung am Standort in Frage kommen."
+      "q": "Bei welcher Stelle werden in Freiburg Erdwärmesonden angezeigt?",
+      "a": "Laut Stadt bei der unteren Wasserbehörde im Umweltschutzamt, wenn die Erdarbeiten tiefer als zehn Meter reichen. Dort kann vorab kostenfrei angefragt werden, ob Sonden, Kollektoren oder Grundwassernutzung am Standort in Frage kommen."
     },
     {
       "q": "Brauche ich für eine Luft-Wärmepumpe in Freiburg eine Genehmigung?",
-      "a": "Die Stadt beschreibt die Installation einer Wärmepumpe als generell genehmigungsfrei. Bei der Aufstellung sind aber Richtwerte zum Schallschutz gegenüber der Nachbarschaft zu beachten."
+      "a": "Die Stadt beschreibt die Installation einer Wärmepumpe als generell genehmigungsfrei. Für die Aufstellung von Luft-Wasser-Wärmepumpen verweist sie auf Richtwerte zum Schallschutz gegenüber der Nachbarschaft."
     }
   ],
   "offen": [
     "Prozentanteile (50/27/13/9) aus der Zusammenfassung der Stadtseite, nicht im Masterplan-PDF nachgeschlagen.",
     "ISONG (LGRB) geöffnet, aber nur Kartenoberfläche ohne zitierbaren Text – nicht als Fakt verwendet.",
-    "Ausbaugeschwindigkeit (ca. 8 km pro Jahr) und Zeitplan der Ausbaugebiete bewusst nicht übernommen (Momentangabe)."
+    "Ausbaugeschwindigkeit (ca. 8 km pro Jahr) und Zeitplan der Ausbaugebiete bewusst nicht übernommen (Momentangabe).",
+    "QA 02.10.: Zuständigkeitssatz „ist die untere Wasserbehörde … zuständig“ (abgeleitet) als Wiedergabe der Stadtseite gefasst (Anzeige > 10 m bei der UWB im Umweltschutzamt; Seite per curl geprüft), FAQ 2 entsprechend (Punkt 4). FAQ 3: „sind … zu beachten“ als Wiedergabe (Punkt 6)."
   ]
 }

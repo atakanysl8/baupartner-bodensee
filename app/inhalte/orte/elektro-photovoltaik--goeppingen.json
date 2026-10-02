@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Elektriker Göppingen: PV und Speicher beim Netzbetreiber anmelden",
-      "text": "Das Stromnetz in Göppingen samt aller eingemeindeten Stadtbezirke betreibt seit 2014 die Energieversorgung Filstal; nach eigenen Angaben versorgt sie rund 35.000 Kunden. Eine neue PV-Anlage wird dort zunächst angefragt, anschließend geht es um die Netzverträglichkeit. Erst nach der Einspeisezusage folgt die Inbetriebsetzung mit den Unterlagen, die der Netzbetreiber je nach Spannungsebene und Anlage nennt. Nach seinen Angaben werden auch spätere Änderungen gemeldet, etwa die Erweiterung der Anlage, die Nachrüstung eines Speichers oder der Tausch von Modulen. Der Netzbetreiber weist außerdem darauf hin, dass die Registrierung im Marktstammdatenregister der Bundesnetzagentur Voraussetzung für die Vergütung ist und Speicher dort ebenfalls angemeldet werden."
+      "text": "Das Stromnetz in Göppingen samt aller eingemeindeten Stadtbezirke betreibt seit 2014 die Energieversorgung Filstal. Eine neue PV-Anlage wird dort zunächst angefragt, anschließend geht es um die Netzverträglichkeit. Erst nach der Einspeisezusage folgt die Inbetriebsetzung mit den Unterlagen, die der Netzbetreiber je nach Spannungsebene und Anlage nennt. Nach seinen Angaben werden auch spätere Änderungen gemeldet, etwa die Erweiterung der Anlage, die Nachrüstung eines Speichers oder der Tausch von Modulen. Der Netzbetreiber weist außerdem darauf hin, dass die Registrierung im Marktstammdatenregister der Bundesnetzagentur Voraussetzung für die Vergütung ist und Speicher dort ebenfalls angemeldet werden."
     },
     {
       "h2": "Wallbox und Wärmepumpe: steuerbare Verbrauchseinrichtungen",
@@ -18,12 +18,12 @@
     },
     {
       "h2": "Solar im historischen Stadtkern und neutrale Beratung",
-      "text": "Für den historischen Stadtkern gilt seit 2016 eine Gestaltungssatzung. Danach sind Anlagen zur Solargewinnung so anzubringen, dass sie von öffentlichen Straßen und Plätzen nicht sichtbar sind, und Photovoltaikelemente bündig in die Dachgestaltung einzufügen. Eine erste neutrale Einschätzung bietet die Energieagentur des Landkreises, deren Alleingesellschafter der Landkreis ist. Wenn Sie wissen, was Sie vorhaben, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Für den historischen Stadtkern gilt seit 2016 eine Gestaltungssatzung. Sie sieht vor, dass Anlagen zur Solargewinnung von öffentlichen Straßen und Plätzen nicht sichtbar sind und Photovoltaikelemente bündig in die Dachgestaltung eingefügt werden. Eine erste neutrale Einschätzung bietet die Energieagentur des Landkreises, deren Alleingesellschafter der Landkreis ist. Wenn Sie wissen, was Sie vorhaben, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
     {
-      "text": "Die Energieversorgung Filstal ist seit dem 1. Januar 2014 örtlicher Verteilnetzbetreiber in der Stadt Göppingen mit allen Eingemeindungen und versorgt rund 35.000 Kunden.",
+      "text": "Die Energieversorgung Filstal ist seit dem 1. Januar 2014 örtlicher Verteilnetzbetreiber in der Stadt Göppingen mit allen Eingemeindungen.",
       "quelle": "Energieversorgung Filstal – Stromnetz",
       "url": "https://evf.de/netze/stromnetz",
       "abruf": "2026-10-02"
@@ -35,7 +35,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Änderungen an bestehenden Erzeugungsanlagen, zum Beispiel Erweiterung, Nachrüstung eines Speichers oder Austausch von PV-Modulen, sind dem Netzbetreiber rechtzeitig zu melden.",
+      "text": "Änderungen an bestehenden Erzeugungsanlagen, zum Beispiel Erweiterung, Nachrüstung eines Speichers oder Austausch von PV-Modulen, sind laut Netzbetreiber rechtzeitig zu melden.",
       "quelle": "Energieversorgung Filstal – Einspeiseanlagen",
       "url": "https://evf.de/netze/strom/einspeiseanlagen",
       "abruf": "2026-10-02"
@@ -76,12 +76,13 @@
     },
     {
       "q": "Darf ich in der Göppinger Innenstadt Solarmodule aufs Dach setzen?",
-      "a": "Die Gestaltungssatzung für den historischen Stadtkern verlangt, dass Solaranlagen von öffentlichen Straßen und Plätzen nicht sichtbar und bündig ins Dach eingefügt sind. Auskunft gibt der Fachbereich Stadtentwicklung."
+      "a": "Die Gestaltungssatzung für den historischen Stadtkern sieht vor, dass Solaranlagen von öffentlichen Straßen und Plätzen nicht sichtbar und bündig ins Dach eingefügt sind. Auskunft gibt der Fachbereich Stadtentwicklung."
     }
   ],
   "offen": [
     "„Faurndau“ im Einstieg ist ein Stadtbezirk Göppingens (auf goeppingen.de im Zusammenhang mit dem Bahnhof Faurndau genannt); die Beispielnutzung ist frei gewählt.",
     "§ 13 der Gestaltungssatzung verlangt abweichend von § 50 LBO ein Kenntnisgabeverfahren u. a. für Solaranlagen; Bezug ist die LBO-Fassung von 2014. Nicht in den Text übernommen, da die LBO seither geändert wurde und die heutige Rechtslage offen ist – Anwaltsfrage.",
-    "Ob der Name „Energieversorgung Filstal“ als Netzbetreiber-Institution genannt werden darf (Tochter der Stadtwerke Göppingen laut Stadtseite Klimaschutz für Göppingen), bitte prüfen."
+    "Ob der Name „Energieversorgung Filstal“ als Netzbetreiber-Institution genannt werden darf (Tochter der Stadtwerke Göppingen laut Stadtseite Klimaschutz für Göppingen), bitte prüfen.",
+    "QA 02.10.: Kundenzahl „rund 35.000“ (ohne Stand) entfernt (Punkt 3); Satzung/Meldepflicht als Wiedergabe statt Anweisung gefasst."
   ]
 }

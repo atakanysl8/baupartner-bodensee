@@ -14,11 +14,11 @@
     },
     {
       "h2": "Farbkonzept, Leitfarben und Fliesen an der Fassade",
-      "text": "Bei einer farblichen Neugestaltung ist laut Satzung vorab ein Farbkonzept bei der Stadt vorzulegen und abzustimmen. Oberhalb des Erdgeschosses orientieren sich die Farben an den im Anhang definierten Leitfarben; Fensterfaschen oder Gesimse dürfen harmonisch abgestimmt abweichen, im Erdgeschoss sind auch dunklere Abmischungen möglich. Für Fliesenleger interessant: Außenwände dürfen neben Putz, Naturstein, Backstein und Klinker ausdrücklich auch mit matten keramischen Fliesen im Farbspektrum der Leitfarben verkleidet werden. An Ladenfassaden sind zusätzlich hochglänzende schwarze Fliesen zulässig. Damit unterscheidet sich Pforzheim deutlich von Altstädten, in denen Fassadenfliesen oft ganz ausgeschlossen sind."
+      "text": "Bei einer farblichen Neugestaltung ist laut Satzung vorab ein Farbkonzept bei der Stadt vorzulegen und abzustimmen. Oberhalb des Erdgeschosses orientieren sich die Farben an den im Anhang definierten Leitfarben; Für Fliesenleger interessant: Außenwände dürfen neben Putz, Naturstein, Backstein und Klinker ausdrücklich auch mit matten keramischen Fliesen im Farbspektrum der Leitfarben verkleidet werden. An Ladenfassaden sind zusätzlich hochglänzende schwarze Fliesen zulässig."
     },
     {
-      "h2": "Dämmung und Putz an erhaltenswerten Fassaden und Denkmalen",
-      "text": "Wo Fassaden in der Innenstadt als besonders erhaltenswerte Bausubstanz ausgewiesen sind, ist eine Außendämmung laut Satzung unzulässig, wenn sie Substanz oder Erscheinungsbild beeinträchtigt. Bei gedämmten Fassaden sind Blenden von Raffstoren in die Dämmebene zu integrieren. Für Kulturdenkmale im ganzen Stadtgebiet ist die untere Denkmalschutzbehörde beim Kulturamt zuständig. Sie rät zu denkmalgerechten Dämmstoffen und dazu, Innendämmung statt Außendämmung zu erwägen, damit die Fassade erhalten bleibt. Für Bäder, Küchen und Bodenbeläge im Inneren gelten diese Regeln nicht, sofern kein Denkmal betroffen ist. Schildern Sie Ihr Vorhaben über unser Formular, dann wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "h2": "Dämmung und Putz am Kulturdenkmal",
+      "text": "Für Kulturdenkmale im ganzen Stadtgebiet ist die untere Denkmalschutzbehörde beim Kulturamt zuständig. Sie rät zu denkmalgerechten Dämmstoffen und dazu, Innendämmung statt Außendämmung zu erwägen, damit die Fassade erhalten bleibt. Schildern Sie Ihr Vorhaben über unser Formular, dann wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -61,7 +61,7 @@
   ],
   "faq": [
     {
-      "q": "Muss ich einen Fassadenanstrich in der Pforzheimer Innenstadt melden?",
+      "q": "Was sieht die Pforzheimer Gestaltungssatzung für Fassadenanstriche vor?",
       "a": "Laut Gestaltungssatzung unterliegen vom öffentlichen Verkehrsraum aus sichtbare Fassadenanstriche der Kenntnisgabe. Vorher ist eine Beratung durch die Stadt vorgesehen."
     },
     {
@@ -77,6 +77,8 @@
     "Satzungstext (PDF mit nicht extrahierbarer Schrift) über gerenderte Seitenbilder gelesen; Leitfarben-Anhang nicht eingesehen, Herstellerbezug der Leitfarben bewusst weggelassen.",
     "Satzungsseite nennt „rechtskräftig seit 22.12.2015“, PDF-Titel „Stand 29.09.2015“, Beschluss 15.12.2015.",
     "Fördermöglichkeit für Fassadenaufwertung im Fassadenkonzept nur als „eventuell“ erwähnt – nicht übernommen.",
-    "Darstellung zu Kenntnisgabe/Beratungspflicht ist Wiedergabe der Satzung; ggf. anwaltlich prüfen, ob Formulierung „melden“ in FAQ-Frage unkritisch ist."
+    "Darstellung zu Kenntnisgabe/Beratungspflicht ist Wiedergabe der Satzung; ggf. anwaltlich prüfen, ob Formulierung „melden“ in FAQ-Frage unkritisch ist.",
+    "QA 02.10.: Satzung nur über Seitenbilder gelesen, Leitfarben-Anhang nicht gesehen → nur Inhalte behalten, die in den Fakten belegt sind; entfernt: Abweichungen Faschen/Gesimse und EG-Abmischungen, Außendämmung an erhaltenswerter Bausubstanz, Raffstore-Blenden.",
+    "QA 02.10.: Unbelegte Vergleichsaussage zu Fassadenfliesen in Altstädten und Folgerung „Innenräume nicht betroffen“ entfernt; FAQ 1 ohne „Muss ich … melden“. Wörter ≤ 600."
   ]
 }

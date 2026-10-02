@@ -17,8 +17,8 @@
       "text": "Für die Villengebiete Beutig-Quettig, Annaberg, Schützenstraße und die Protestantische Neustadt gibt die vom Gemeinderat beschlossene Baufibel konkrete Empfehlungen, die Maler kennen sollten. Die historischen Villen tragen fast durchweg feinen Putz in zurückhaltenden, stets abgetönten hellen Farben. Die Fibel empfiehlt deshalb gebrochenes Weiß, Beige oder Rosa und rät von reinem Weiß ab, weil es in der Fernsicht stark auffällt. Der Sockel soll sich in Material und Farbe absetzen, Nebengebäude sollen farblich zum Haupthaus passen, spiegelnde und glänzende Materialien sind nicht vorgesehen."
     },
     {
-      "h2": "Kulturdenkmal renovieren, innen modernisieren",
-      "text": "Für Arbeiten an einem Kulturdenkmal können Eigentümer bei der Stadt eine Bescheinigung nach den §§ 7i, 10f und 11b Einkommensteuergesetz beantragen, auch online. Ob und wie sich das auswirkt, klärt in der Regel die steuerliche Beratung. Innen kommen Fliesenleger und Bodenleger nach Leitungen und Estrich, der Maler zum Schluss. Schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "h2": "Was die Satzung noch regelt – und was innen ansteht",
+      "text": "Die geltende Gesamtanlagenschutzsatzung hat der Gemeinderat am 22.10.2018 beschlossen, in Kraft ist sie seit dem 01.11.2018. Neben Putz und Farbe nennt sie auch Jalousien, Markisen und Außenbeleuchtungen als genehmigungspflichtig, wenn sie von außen sichtbar sind. Nach § 4 wird die Genehmigung erteilt, wenn eine Veränderung das Bild der Gesamtanlage nur unerheblich oder nur vorübergehend beeinträchtigen würde; sie kann mit Bedingungen und Auflagen verbunden werden. Innen kommen Fliesenleger und Bodenleger nach Leitungen und Estrich, der Maler zum Schluss. Schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -53,9 +53,9 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Eine Bescheinigung bzw. vorläufige Bescheinigung nach §§ 7i, 10f und 11b EStG für Kulturdenkmale kann bei der Stadt Baden-Baden online beantragt werden.",
-      "quelle": "Stadt Baden-Baden – Denkmalschutz & Denkmalpflege",
-      "url": "https://www.baden-baden.de/buerger-und-service/bauen-und-wohnen/denkmalschutz--denkmalpflege",
+      "text": "Die Satzung zum Schutz der Gesamtanlage Baden-Baden wurde vom Gemeinderat am 22.10.2018 beschlossen und ist am 01.11.2018 in Kraft getreten; nach § 4 Abs. 2 ist die Genehmigung zu erteilen, wenn die Veränderung das Bild der Gesamtanlage nur unerheblich oder nur vorübergehend beeinträchtigen würde, sie kann mit Bedingungen und Auflagen verbunden werden. Genehmigungspflichtig ist nach § 4 Abs. 1 d auch das Anbringen von Jalousien, Markisen und Außenbeleuchtungen, wenn sie von außen sichtbar sind.",
+      "quelle": "Stadt Baden-Baden – Satzung zum Schutz der Gesamtanlage Baden-Baden",
+      "url": "https://www.baden-baden.de/site/Baden-Baden/get/documents_E1495009292/baden-baden/Dateien/B%C3%BCrger%20%26%20Service/Bauen%20%26%20Wohnen/Planung%20%26%20Entwicklung/Gestaltungsrichtlinie/05%20Gesamtanlagenschutzsatzung.pdf",
       "abruf": "2026-10-02"
     }
   ],
@@ -69,14 +69,15 @@
       "a": "Die Baufibel der Stadt empfiehlt gebrochene helle Töne wie gebrochenes Weiß, Beige oder Rosa und rät von reinem Weiß ab. Verbindlich wird die Farbe im Genehmigungsverfahren abgestimmt."
     },
     {
-      "q": "Kann ich in Baden-Baden eine Fassade am Baudenkmal steuerlich geltend machen?",
-      "a": "Für Kulturdenkmale stellt die Stadt auf Antrag Bescheinigungen nach §§ 7i, 10f und 11b EStG aus. Die steuerliche Wirkung klärt in der Regel die Steuerberatung."
+      "q": "Seit wann gilt die Gesamtanlagenschutzsatzung in Baden-Baden?",
+      "a": "Die geltende Satzung hat der Gemeinderat am 22.10.2018 beschlossen, sie ist am 01.11.2018 in Kraft getreten. Den Geltungsbereich zeigt der Lageplan vom 15.06.2018, der Bestandteil der Satzung ist."
     }
   ],
   "offen": [
     "Datum der Gesamtanlage: Die Denkmalseite der Stadt nennt Februar 2008, die verlinkte Satzung trägt den Beschluss vom 22.10.2018 (in Kraft 01.11.2018); im Text deshalb ohne Jahr. Die Hochbau-Seite nennt 2008.",
     "Stadtteilnennungen im Einstieg (Annaberg, Lichtentaler Vorstadt, Weststadt) sind Beispiele; Weststadt nicht belegt.",
     "Ob ein Neuanstrich im bisherigen Farbton als genehmigungspflichtige „Veränderung“ gilt, ist nicht geprüft.",
-    "Die Baufibel ist ein Leitbild mit Empfehlungen, keine Satzung; im Text als Empfehlung formuliert."
+    "Die Baufibel ist ein Leitbild mit Empfehlungen, keine Satzung; im Text als Empfehlung formuliert.",
+    "QA 02.10.: Steuerhinweis (Bescheinigung §§ 7i, 10f, 11b EStG) aus Abschnitt 3, FAQ und Fakten gestrichen (Punkt 12). Ersetzt durch Inhalte der Satzung (PDF per pdftotext gelesen): Beschluss 22.10.2018, in Kraft 01.11.2018, Lageplan 15.06.2018, § 4 Abs. 1 d und Abs. 2; neuer Fakt."
   ]
 }

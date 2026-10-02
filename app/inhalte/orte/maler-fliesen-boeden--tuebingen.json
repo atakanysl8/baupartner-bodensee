@@ -10,15 +10,15 @@
   "abschnitte": [
     {
       "h2": "Fassade streichen in der Altstadt: warme Töne, unebener Putz",
-      "text": "Die Stadtbildsatzung für den Tübinger Stadtkern wird seit 1979 angewandt und wurde zuletzt 2008 überarbeitet. An den historischen Straßen und Plätzen und an der Neckarfront enthält sie genaue Regeln für Putz und Farbe. Außenputz ist uneben aufzutragen und freihändig zu verreiben oder zu bürsten; wo historischer Putz festgestellt wird, ist die entsprechende Putzart zu verwenden. Putzfassaden sind nur in warmen Tönen zu streichen, grelle und sehr dunkle Töne sind ausgeschlossen, und die Farbe ist mit den Nachbarhäusern abzustimmen. Fachwerkholz wird rotbraun bis schwarzbraun gestrichen, historische Farbbefunde am Gebäude gehen jeweils vor. Werkstein darf nicht deckend gestrichen werden. Für Maler bedeutet das: Ein Farbmuster wird hier nicht nur nach Geschmack, sondern nach Satzung und Befund ausgewählt."
+      "text": "Die Stadtbildsatzung für den Tübinger Stadtkern wird seit 1979 angewandt und wurde zuletzt 2008 überarbeitet. Ihre Regeln für Putz und Farbe in § 17 gelten für Vorhaben an den historischen Straßen und Plätzen und an der Neckarfront, die im Lageplan der Satzung festgelegt sind. Dort sieht die Satzung vor, dass Außenputz uneben aufgetragen und freihändig verrieben oder gebürstet wird; wo historischer Putz festgestellt wird, ist die entsprechende Putzart vorgesehen. Putzfassaden werden danach nur in warmen Tönen gestrichen, grelle und sehr dunkle Töne sind ausgeschlossen, und die Farbe wird mit den Nachbarhäusern abgestimmt. Für Fachwerkholz nennt die Satzung rotbraune bis schwarzbraune Töne, historische Farbbefunde gehen jeweils vor. Werkstein darf danach nicht deckend gestrichen werden."
     },
     {
       "h2": "Gesamtanlage, Sichtfachwerk und Gestaltungsbeirat",
-      "text": "Die Altstadt ist ebenso wie Bebenhausen eine denkmalgeschützte Gesamtanlage. Die Stadt weist darauf hin, dass Gestaltungssatzungen und Leitfäden Proportionen, Materialien, Farben und Dachformen regeln, in der Altstadt ebenso wie in den Teilorten. Historisch als Sichtfachwerk errichtetes Fachwerk darf nach der Stadtbildsatzung weder verputzt noch verkleidet werden, was bei einer gewünschten Außendämmung früh bedacht werden muss. Im Geltungsbereich bedürfen nach § 172 BauGB auch Änderungen baulicher Anlagen einer Genehmigung. Ausnahmen von gestalterischen Regeln sind möglich; dazu wird in der Regel der unabhängige Gestaltungsbeirat gehört, den es seit 2006 gibt. Ansprechpartner in der Bauverwaltung sind die fachliche Denkmalpflege und das Baurecht."
+      "text": "Die Altstadt ist ebenso wie Bebenhausen eine denkmalgeschützte Gesamtanlage. Die Stadt weist darauf hin, dass Gestaltungssatzungen und Leitfäden Proportionen, Materialien, Farben und Dachformen regeln, in der Altstadt ebenso wie in den Teilorten. Historisch als Sichtfachwerk errichtetes Fachwerk darf nach der Stadtbildsatzung weder verputzt noch verkleidet werden. Ausnahmen von gestalterischen Regeln sind möglich; dazu wird in der Regel der unabhängige Gestaltungsbeirat gehört, den es seit 2006 gibt. Ansprechpartner in der Bauverwaltung sind die fachliche Denkmalpflege und das Baurecht."
     },
     {
       "h2": "Innen: Fliesen und Böden im Tübinger Altbau",
-      "text": "Für Fliesen und Bodenbeläge im Inneren gilt die Stadtbildsatzung nicht. Anders kann es bei Kulturdenkmalen sein, bei denen Veränderungen im Inneren eine denkmalrechtliche Genehmigung brauchen können. In Häusern mit Holzbalkendecken prüft der Fliesenleger in der Regel, ob der Untergrund den neuen Belag trägt, bevor Bodenleger und Maler folgen. Wenn Sie Ihr Vorhaben über unser Formular schildern, wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Die Stadtbildsatzung betrifft das historische Stadt- und Straßenbild, also die Außenseite der Gebäude. Ob bei einem Kulturdenkmal auch Arbeiten an Fliesen und Böden im Inneren eine denkmalrechtliche Genehmigung brauchen, beantwortet die fachliche Denkmalpflege der Stadt. Wenn Sie Ihr Vorhaben über unser Formular schildern, wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -29,7 +29,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Nach § 17 der Stadtbildsatzung sind Putzfassaden nur in warmen Tönen zu streichen; grelle und sehr dunkle Töne sind nicht zulässig, vorhandene historische Farbbefunde sind aufzugreifen und die Farbgebung ist mit den umgebenden Gebäuden harmonisch abzustimmen.",
+      "text": "Nach § 17 der Stadtbildsatzung, der für Vorhaben an den historischen Straßen und Plätzen und an der Neckarfront gilt, sind Putzfassaden nur in warmen Tönen zu streichen; grelle und sehr dunkle Töne sind nicht zulässig, vorhandene historische Farbbefunde sind aufzugreifen.",
       "quelle": "Universitätsstadt Tübingen – Stadtbildsatzung vom 27.08.2008",
       "url": "https://www.tuebingen.de/verwaltung/formular/442.pdf",
       "abruf": "2026-10-02"
@@ -66,7 +66,7 @@
     },
     {
       "q": "Darf ich Fachwerk in Tübingen überputzen, um die Fassade zu dämmen?",
-      "a": "Historisch als Sichtfachwerk errichtetes Fachwerk darf nach der Stadtbildsatzung nicht verputzt oder verkleidet werden. Ausnahmen sind nur nach den Regeln der Satzung möglich; Auskunft geben Denkmalpflege und Baurecht der Stadt."
+      "a": "Historisch als Sichtfachwerk errichtetes Fachwerk darf nach der Stadtbildsatzung nicht verputzt oder verkleidet werden. Auskunft zu Ausnahmen geben Denkmalpflege und Baurecht der Stadt."
     },
     {
       "q": "Wer entscheidet über Abweichungen von der Tübinger Stadtbildsatzung?",
@@ -76,6 +76,7 @@
   "offen": [
     "§ 17 gilt laut § 9 Abs. 2 SBS für Vorhaben an den historischen Straßen und Plätzen und an der Neckarfront; welche Straßen das sind, steht im Lageplan der Satzung (nicht geprüft).",
     "Satzungstext aus PDF (pdftotext) mit Kodierungsfehlern gelesen; Wortlaut der zitierten Absätze geprüft.",
-    "Ortsangaben im Einstieg (Unterstadt, Südstadt, Österberg) nur als Beispiele."
+    "Ortsangaben im Einstieg (Unterstadt, Südstadt, Österberg) nur als Beispiele.",
+    "QA 02.10.: Geltungsbereich von § 17 (historische Straßen und Plätze, Neckarfront laut Lageplan) im Text und Fakt genannt (bekannte Stelle); Satzungsregeln als Wiedergabe statt Anweisung; „Für Maler bedeutet das …“, „früh bedacht werden muss“, § 172 BauGB-Satz (nicht in Fakten belegt) und Fliesenleger-Untergrund-Satz (Fachaussage ohne Quelle) gestrichen; Kürzung von 624 auf unter 600 Wörter (Punkt 11)."
   ]
 }

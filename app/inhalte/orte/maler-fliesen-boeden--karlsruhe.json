@@ -6,11 +6,11 @@
   "title": "Maler & Fliesenleger Karlsruhe – kostenlos vermittelt",
   "description": "Maler und Fliesenleger in Karlsruhe: Fassadenfarbe in Gesamtanlagen und Erhaltungsgebieten, Farbberatung bei Sanierungen. Fachbetrieb kostenlos vermittelt.",
   "h1": "Maler und Fliesenleger in Karlsruhe",
-  "einstieg": "Ein neuer Anstrich für das Gründerzeithaus in der Weststadt, frische Farbe für das Fachwerk in Grötzingen oder neue Fliesen und Böden nach dem Umbau einer Wohnung in Mühlburg: In Karlsruhe sind Maler und Fliesenleger oft bei denselben Projekten gefragt. Innen gilt meist freie Wahl, an der Fassade dagegen kann es in einigen Stadtteilen Vorgaben geben, die vor dem Farbmuster geklärt sein sollten.",
+  "einstieg": "Ein neuer Anstrich für das Gründerzeithaus in der Weststadt, frische Farbe für das Fachwerk in Grötzingen oder neue Fliesen und Böden nach dem Umbau einer Wohnung in Mühlburg: In Karlsruhe sind Maler und Fliesenleger oft bei denselben Projekten gefragt. An der Fassade kann es in einigen Stadtteilen Vorgaben geben, die die Stadt in Satzungen festgelegt hat.",
   "abschnitte": [
     {
       "h2": "Fassadenfarbe in Durlach und am Gutenbergplatz",
-      "text": "Die Altstadt Durlach und das Quartier um den Gutenbergplatz sind als Gesamtanlagen nach dem Denkmalschutzgesetz geschützt. Die Durlacher Satzung nennt ausdrücklich die Veränderung von Verputz und Farbe, von historischem Fassadendekor und von Fensterläden als genehmigungspflichtig, und zwar auch dann, wenn das Vorhaben baurechtlich verfahrensfrei wäre. Am Gutenbergplatz gehören Farb- und Materialwahl der Fassaden ebenfalls zum Schutzgegenstand, das Verkleiden von Außenwänden bedarf dort einer Genehmigung. Anträge gehen an die Stadt, entscheiden muss die untere Denkmalschutzbehörde. Für den Maler bedeutet das: Farbton, Putzstruktur und Material sollten feststehen, bevor das Gerüst kommt."
+      "text": "Die Altstadt Durlach und das Quartier um den Gutenbergplatz sind als Gesamtanlagen nach dem Denkmalschutzgesetz geschützt. Die Durlacher Satzung nennt ausdrücklich die Veränderung von Verputz und Farbe, von historischem Fassadendekor und von Fensterläden als genehmigungspflichtig, und zwar auch dann, wenn das Vorhaben baurechtlich verfahrensfrei wäre. Am Gutenbergplatz gehören Farb- und Materialwahl der Fassaden ebenfalls zum Schutzgegenstand, das Verkleiden von Außenwänden bedarf dort einer Genehmigung. Zuständig ist die untere Denkmalschutzbehörde der Stadt."
     },
     {
       "h2": "Erhaltungssatzungen in den alten Ortskernen",
@@ -18,7 +18,7 @@
     },
     {
       "h2": "Innen: Böden, Fliesen und Wände nach dem Umbau",
-      "text": "Im Inneren spielen Gestaltungsvorgaben selten eine Rolle, dafür die Reihenfolge der Gewerke: Erst wenn Leitungen, Estrich und gegebenenfalls Trockenbau fertig sind, lohnt der Einsatz von Fliesenleger und Bodenleger. Wer zusätzlich die Fassade begrünen statt neu streichen möchte, sollte wissen, dass das städtische Begrünungsprogramm Fassadengrün fördert, eine reine Renovierung der Hausfassade aber ausschließt. Haben Sie Umfang und Räume beisammen, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Im Inneren spielen Gestaltungsvorgaben selten eine Rolle, dafür die Reihenfolge der Gewerke: Erst wenn Leitungen, Estrich und gegebenenfalls Trockenbau fertig sind, lohnt der Einsatz von Fliesenleger und Bodenleger. Das städtische Begrünungsprogramm umfasst Fassadengrün, eine reine Renovierung der Hausfassade schließt es laut Stadt aus. Haben Sie Umfang und Räume beisammen, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -77,6 +77,7 @@
     "Stadtteilnennungen im Einstieg (Weststadt, Grötzingen, Mühlburg) sind Beispiele ohne eigene Fakt-Quelle; Fachwerk in Grötzingen nicht belegt.",
     "Ob ein reiner Neuanstrich im gleichen Farbton unter die Genehmigungspflicht der Erhaltungssatzung Grötzingen fällt, ist nicht geprüft; im Text als Einzelfall formuliert.",
     "Zur Fliesen- und Bodenseite gibt es keinen ortsspezifischen Beleg (Wasserhärte steht bereits auf der Bad-Seite und wurde nicht doppelt verwendet).",
-    "Die Gestaltungssatzung für die Altstadt Durlach ist laut Stadt in Aufstellung (Stand 2025); nicht verwendet."
+    "Die Gestaltungssatzung für die Altstadt Durlach ist laut Stadt in Aufstellung (Stand 2025); nicht verwendet.",
+    "QA 02.10.: Unbelegte Einordnung „innen meist freie Wahl“ und Ratschlag „bevor das Gerüst kommt“ gestrichen; „entscheiden muss“ neutral als Zuständigkeit; Begrünungsprogramm ohne Anrede als Wiedergabe."
   ]
 }

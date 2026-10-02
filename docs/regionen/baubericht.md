@@ -54,3 +54,26 @@ Themen, die mehrere Seiten betreffen:
 - Nächster SEO-Hebel: eigene Ratgeberseiten zu „badsanierung kosten“ (4.400), „kernsanierung“ (2.400), „barrierefreies bad“ (2.400), „bodenplatte kosten“ (1.000) u. a.
 - Nachmessung kleinere Orte (Rang 151–262, ~165 Credits) nur bei Bedarf.
 - OpenSEO: 2.532 → 2.277 Credits (255 verbraucht, inkl. Audit).
+
+## Nachtrag 2: Leistungen 5 → 11 und 100 weitere Ortsseiten (02.10.2026)
+
+Spec: `docs/superpowers/specs/2026-10-02-leistungen-erweitern-design.md` · Plan: `docs/superpowers/plans/2026-10-02-leistungen-erweitern.md` · Messung/Auswahl: `regionalplan.md` (Nachtrag 2), `auswahl-2.json`
+
+- **11 Leistungen** in drei Gruppen (Bauen · Sanieren & Modernisieren · Ausbau & Außen), zentrale Liste `app/inhalte/leistungen.ts`, Vorlage `LeistungSeite.tsx`, 6 neue Leistungsseiten (Dach & Fassade, Heizung & Wärmepumpe, Elektro & Photovoltaik, Fenster & Türen, Maler/Fliesen/Böden, Garten & Außenanlagen); Nav mit Gruppen-Dropdown, Footer, Startseiten-Kacheln und Formular-Chips aus der Liste.
+- **100 neue Ortsseiten** in 27 Kreisen: Elektriker 31, Maler & Fliesenleger 31, Dachdecker 24, Wärmepumpe & Heizung 7, Terrassenüberdachung 7 (Fenster & Türen ohne Ortsseiten). Insgesamt jetzt **190 Ortsseiten**.
+- Je neue Seite 5–8 belegte Fakten (zusammen 642), 3–4 FAQ, rund 450–700 Wörter; Fakten anderer Leistungen desselben Ortes wurden nicht wiederholt.
+- Ablauf: 11 Schreib-Agenten (`wellen-2/`, Vorlage `agentenvorlage-2.md`), danach 4 QA-Agenten (`qa-liste-2.md`). QA entfernte u. a. Steuerhinweise (§ 7h/10f EStG), ausgeschöpfte/gestoppte Programme (Solaroffensive und Heizungsprogramm Stuttgart, Balkonkraftwerke Böblingen/Lörrach, Dachbegrünung Ettlingen, Dämmzuschuss Weinheim), Förderbedingungen aus Pressemitteilungen, Ersparnisaussagen, „vor Ort“-Formulierungen, Werte ohne Stand; Satzungspflichten durchgehend als Wiedergabe. Korrigiert: hochbau--baden-baden (Gesamtanlagensatzung 2018 statt 2008), maler--kornwestheim (FAQ zu Neuanstrich).
+- Anwaltsfragen: 19 neue (Dateien 12–21 in `anwaltsfragen/`), v. a. Wiedergabe alter Satzungen (Konstanz 1982, Ravensburg 1976, Schorndorf 1978), PV-Pflicht bei Dachsanierung, Fernwärme-Anschlusspflicht, Asbestdach/PV, Gründach-Gebührenfaktor.
+
+| Prüfung (Endstand) | Ergebnis |
+|---|---|
+| `node --test scripts/*.test.mjs` | 18/18 |
+| `node scripts/check-orte.mjs` | 190 Seiten, 0 Fehler, 0 Warnungen, höchste Textgleichheit 7,5 % |
+| `npx tsc --noEmit`, `sh scripts/build.sh` | ok |
+| `node scripts/pruefe-seo.mjs` | 207 Seiten, 0 Fehler |
+| `node scripts/pruefe-bundle.mjs` | 68 Chunks, 0 mit Ortsseiten-Texten |
+| `node scripts/pruefe-orte-aehnlichkeit.mjs` | höchste Gleichheit Hauptinhalt 9,4 %, niedrigster Eigenanteil 67,5 %, 0 Fehler |
+| `node scripts/quellen-check.mjs` | 896 URLs; dieselben 2 Soft-404 wie Runde 1, 3 Netz-/Zertifikatsfehler (ISONG per curl 200) |
+| Browser 390/1366 px | Stichproben ohne horizontales Scrollen, Hub `/regionen/` mit 190 Links |
+
+Offen: Für die neuen Gewerke müssen Betriebe vorhanden sein, an die Anfragen gehen können. OpenSEO: ~2.190 → ~1.860 Credits (Messung 1.050 Keywords + 6 SERP).

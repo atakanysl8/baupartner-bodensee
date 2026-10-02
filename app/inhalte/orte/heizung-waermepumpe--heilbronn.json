@@ -18,7 +18,7 @@
     },
     {
       "h2": "Heizungstausch im Bestand: Beratung vorab",
-      "text": "Der Bestand ist alt: Nach dem Wärmeplan laufen in Heilbronn mehr als 3.500 Heizungsanlagen seit über 30 Jahren, und die Wärmeversorgung beruht noch zu über 95 Prozent auf fossilen Energieträgern. Welche Lösung zu Ihrem Gebäude passt und welche Förderprogramme von Bund und Land in Frage kommen, klärt die Energieagentur Heilbronn in einer kostenlosen Erstberatung. Ist die Richtung klar, schildern Sie Ihr Vorhaben über das Formular; wir wählen dafür einen passenden Heizungsbauer aus."
+      "text": "Nach dem Wärmeplan laufen in Heilbronn mehr als 3.500 Heizungsanlagen seit über 30 Jahren. Welche Lösung zu Ihrem Gebäude passt und welche Förderprogramme von Bund und Land in Frage kommen, klärt die Energieagentur Heilbronn in einer kostenlosen Erstberatung. Ist die Richtung klar, schildern Sie Ihr Vorhaben über das Formular; wir wählen dafür einen passenden Heizungsbauer aus."
     }
   ],
   "fakten": [
@@ -47,7 +47,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Das innerstädtische Wärmenetz der HNVG ist rund neun Kilometer lang (Stand Februar 2023); die EnBW versorgt in Heilbronn rund 200 überwiegend gewerbliche Kunden über 17,5 Kilometer Netz, die ZEAG betreibt kleinere Quartiersnetze.",
+      "text": "Das innerstädtische Wärmenetz der HNVG ist rund neun Kilometer lang (Stand Februar 2023); die EnBW versorgt in Heilbronn überwiegend gewerbliche Kunden über 17,5 Kilometer Netz, die ZEAG betreibt kleinere Quartiersnetze.",
       "quelle": "Stadt Heilbronn – Fernwärme",
       "url": "https://www.heilbronn.de/umwelt-mobilitaet/energie/waerme/fernwaerme.html",
       "abruf": "2026-10-02"
@@ -56,12 +56,6 @@
       "text": "Die Wärmegesellschaft Heilbronn mbH ist ein gemeinsames Unternehmen von HNVG und ZEAG Energie AG und erschließt neue Quartiere ebenso wie Bestandsgebäude mit Wärme.",
       "quelle": "Stadt Heilbronn – Wärme",
       "url": "https://www.heilbronn.de/umwelt-mobilitaet/energie/waerme.html",
-      "abruf": "2026-10-02"
-    },
-    {
-      "text": "Mit dem Neubau der Neckartalschule in Böckingen plant die Stadt ihr erstes eigenes Nahwärmenetz: Eine 190-Kilowatt-Wärmepumpe auf dem Schuldach soll auch die Grünewaldschule, zwei Turnhallen und eine Kita zu rund 65 Prozent mitversorgen.",
-      "quelle": "Stadt Heilbronn – Heilbronn plant erstes Nahwärmenetz",
-      "url": "https://www.heilbronn.de/rathaus/aktuelles/heilbronn-plant-erstes-nahwaermenetz.html",
       "abruf": "2026-10-02"
     }
   ],
@@ -75,7 +69,7 @@
       "a": "Nein. Nach Angaben der Stadt ist er ein strategisches Planungsinstrument ohne direkte Verpflichtungen; die ausgewiesenen Gebiete dienen als Orientierung."
     },
     {
-      "q": "Lohnt sich in Heilbronn eher eine Luft- oder eine Erdwärmepumpe?",
+      "q": "Passt in Heilbronn eher eine Luft- oder eine Erdwärmepumpe?",
       "a": "Das hängt vom Grundstück und vom Gebäude ab. Der Wärmeplan sieht Luft-Wärmepumpen als häufigste Lösung; eine erste neutrale Einschätzung gibt die Energieagentur Heilbronn."
     }
   ],
@@ -83,6 +77,7 @@
     "Die Zuständigkeit der unteren Wasserbehörde für Erdwärmesonden im Stadtkreis Heilbronn wurde auf heilbronn.de nicht wörtlich gefunden; daher nicht erwähnt.",
     "Der Ausbau Wollhausstraße/Uhlandstraße/Herbststraße (2026–2027) wurde als datierte Momentangabe weggelassen.",
     "Der Bericht des Wärmeplans ist als Datei 2025_Bericht… verlinkt, der Text spricht vom Abschluss im Dezember 2023; ob es eine Fortschreibung gibt, wurde nicht geprüft.",
-    "Eine Satzung mit Anschluss- und Benutzungszwang für Fernwärme wurde für Heilbronn nicht gefunden."
+    "Eine Satzung mit Anschluss- und Benutzungszwang für Fernwärme wurde für Heilbronn nicht gefunden.",
+    "QA 02.10.: Fakt Nahwärmenetz Neckartalschule (Planung aus Pressemeldung, künftiges Vorhaben) entfernt (Punkt 1/16); Kundenzahl EnBW ohne Stand gestrichen (Punkt 3); Doppelung 95 % fossil im Abschnitt gestrichen; FAQ „Lohnt sich“ neutral formuliert (Vorlage 2 D)."
   ]
 }

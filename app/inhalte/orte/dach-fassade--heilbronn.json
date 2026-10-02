@@ -6,11 +6,11 @@
   "title": "Dachdecker Heilbronn – Fachbetrieb kostenlos vermittelt",
   "description": "Dachdecker in Heilbronn: Dachsanierung mit PV-Pflicht, Gründach und Abwassergebühr, Tonziegel in Alt-Böckingen. Fachbetrieb kostenlos vermittelt.",
   "h1": "Dachdecker in Heilbronn",
-  "einstieg": "Ein Dach aus den Sechzigerjahren, das neu eingedeckt und gedämmt werden soll, ein Flachdach über der Garage, das begrünt werden könnte, oder ein Ziegeldach in Alt-Böckingen: Wer einen Dachdecker in Heilbronn sucht, plant selten nur neue Ziegel. Dämmung, Solarnutzung, Regenwasser und die Vorgaben der Stadt gehören bei einer Dachsanierung von Anfang an dazu.",
+  "einstieg": "Ein Dach aus den Sechzigerjahren, das neu eingedeckt und gedämmt werden soll, ein Flachdach über der Garage, das begrünt werden könnte, oder ein Ziegeldach in Alt-Böckingen: Wer einen Dachdecker in Heilbronn sucht, plant selten nur neue Ziegel.",
   "abschnitte": [
     {
       "h2": "Dachsanierung in Heilbronn: viel Altbestand, Solar inklusive",
-      "text": "Nach der Bestandsanalyse des kommunalen Wärmeplans wurden rund 80 Prozent der Heilbronner Gebäude vor 1979 errichtet, also vor der ersten Wärmeschutzverordnung. Entsprechend häufig stehen Dachdämmung und Neueindeckung gemeinsam an. Hinzu kommt eine Landesregel: Das Klimaschutzgesetz Baden-Württemberg sieht eine Photovoltaikpflicht auch für Bestandsgebäude vor, wenn ein Dach grundlegend saniert wird. Als grundlegend gilt nach den Erläuterungen des Umweltministeriums, wenn Abdichtung oder Eindeckung vollständig erneuert werden; die Reparatur kurzfristiger Schäden wie nach einem Sturm ist ausgenommen. Ob und wie die Pflicht im Einzelfall greift, beantworten das Umweltministerium in seinen FAQ und die Energieagentur Heilbronn."
+      "text": "Nach der Bestandsanalyse des kommunalen Wärmeplans wurden rund 80 Prozent der Heilbronner Gebäude vor 1979 errichtet, also vor der ersten Wärmeschutzverordnung. Hinzu kommt eine Landesregel: Das Klimaschutzgesetz Baden-Württemberg sieht eine Photovoltaikpflicht auch für Bestandsgebäude vor, wenn ein Dach grundlegend saniert wird. Als grundlegend gilt nach den Erläuterungen des Umweltministeriums, wenn Abdichtung oder Eindeckung vollständig erneuert werden; die Reparatur kurzfristiger Schäden wie nach einem Sturm ist ausgenommen. Ob und wie die Pflicht im Einzelfall greift, beantworten das Umweltministerium in seinen FAQ und die Energieagentur Heilbronn."
     },
     {
       "h2": "Gründach und Regenwasser: was die Abwassersatzung vorsieht",
@@ -59,7 +59,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Für Alt-Böckingen nennt die Stadt naturrote Tonziegel als typische Dacheindeckung; im Antrag nach der Erhaltungssatzung sind geplante Maßnahmen wie eine Neueindeckung des Dachs zu beschreiben.",
+      "text": "Für Alt-Böckingen nennt die Stadt naturrote Tonziegel als typische Dacheindeckung; das Antragsformular nach der Erhaltungssatzung führt geplante Maßnahmen wie eine Neueindeckung des Dachs auf.",
       "quelle": "Stadt Heilbronn – Erhaltungssatzung Alt-Böckingen",
       "url": "https://www.heilbronn.de/bauen-wohnen/stadtplanung/erhaltungssatzung-alt-boeckingen.html",
       "abruf": "2026-10-02"
@@ -82,6 +82,7 @@
   "offen": [
     "Ob die gewichteten Faktoren nach § 39a in der aktuell gültigen Fassung der Abwassersatzung unverändert gelten, wurde anhand der auf heilbronn.de verlinkten Satzungsfassung geprüft, nicht anhand eines Änderungsverzeichnisses.",
     "Ein städtisches Gründach-Förderprogramm wurde für Heilbronn nicht gefunden.",
-    "Eine eigene Starkregengefahrenkarte der Stadt wurde nicht gesucht; nur das Faltblatt der Entsorgungsbetriebe verwendet."
+    "Eine eigene Starkregengefahrenkarte der Stadt wurde nicht gesucht; nur das Faltblatt der Entsorgungsbetriebe verwendet.",
+    "QA 02.10.: Auf ≤ 600 Wörter gekürzt: allgemeiner Einstiegssatz und Fachaussage ohne Quelle („häufig stehen Dämmung und Neueindeckung gemeinsam an“) entfernt; Fakt Alt-Böckingen ohne Anweisung („sind … zu beschreiben“) gefasst."
   ]
 }

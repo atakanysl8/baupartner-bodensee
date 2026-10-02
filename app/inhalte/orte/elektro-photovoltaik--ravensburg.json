@@ -14,11 +14,11 @@
     },
     {
       "h2": "Photovoltaik, Speicher und Balkonkraftwerk anmelden",
-      "text": "Für Anlagen mit mehr als 800 Watt Wechselrichterleistung sieht der Ravensburger Netzbetreiber zuerst eine Netzverträglichkeitsprüfung über seine Online-Klickstrecke vor, die Fertigmeldung folgt über den Link in der Netzzusage. Dazu gehören Datenblätter, das geplante Messkonzept mit Speicherschema und ein Inbetriebsetzungsprotokoll. Die Eintragung ins Marktstammdatenregister bleibt Sache des Anlagenbetreibers, je Anlage und je Speicher. Für Balkonkraftwerke gilt ein vereinfachtes Verfahren. Wird auf eine Vergütung verzichtet, reicht nach Angabe des Netzbetreibers die Registrierung im Marktstammdatenregister. Schildern Sie Ihr Vorhaben über unser Formular, dann wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Für Anlagen mit mehr als 801 Watt Wechselrichterleistung sieht der Ravensburger Netzbetreiber zuerst eine Netzverträglichkeitsprüfung über seine Online-Klickstrecke vor, die Fertigmeldung folgt über den Link in der Netzzusage. Dazu gehören Datenblätter, das geplante Messkonzept mit Speicherschema und ein Inbetriebsetzungsprotokoll. Die Eintragung ins Marktstammdatenregister bleibt Sache des Anlagenbetreibers, je Anlage und je Speicher. Für Balkonkraftwerke gilt ein vereinfachtes Verfahren. Wird auf eine Vergütung verzichtet, reicht nach Angabe des Netzbetreibers die Registrierung im Marktstammdatenregister. Schildern Sie Ihr Vorhaben über unser Formular, dann wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
     },
     {
       "h2": "Wallbox und Wärmepumpe als steuerbare Verbraucher",
-      "text": "Wallboxen, Wärmepumpen und Stromspeicher mit mehr als 4,2 kW fallen unter § 14a Energiewirtschaftsgesetz. Der Netzbetreiber darf sie in engen Grenzen dimmen, im Gegenzug sinken die Netzentgelte. Welche Voraussetzungen der Zählerplatz und die Steuerleitung erfüllen müssen, hat die Ravensburger Netzgesellschaft in eigenen technischen Mindestanforderungen festgelegt. Bei älteren Häusern in der Weststadt oder in Weißenau entscheidet sich daran oft, ob der vorhandene Zählerschrank weiter genutzt werden kann. Den Rahmen setzt der Ravensburger Klimakonsens: Der Gemeinderat hat 2020 das Ziel einer klimaneutralen Stadt bis spätestens 2040 beschlossen."
+      "text": "Wallboxen, Wärmepumpen und Stromspeicher mit mehr als 4,2 kW fallen unter § 14a Energiewirtschaftsgesetz. Der Netzbetreiber kann sie in einem bestimmten Rahmen steuern, im Gegenzug gelten laut Netzbetreiber reduzierte Netzentgelte. Welche Voraussetzungen der Zählerplatz und die Steuerleitung erfüllen müssen, hat die Ravensburger Netzgesellschaft in eigenen technischen Mindestanforderungen festgelegt. Den Rahmen setzt der Ravensburger Klimakonsens: Der Gemeinderat hat 2020 das Ziel einer klimaneutralen Stadt bis spätestens 2040 beschlossen."
     }
   ],
   "fakten": [
@@ -72,7 +72,7 @@
     },
     {
       "q": "Muss ein Balkonkraftwerk in Ravensburg beim Netzbetreiber angemeldet werden?",
-      "a": "Bei Verzicht auf Einspeisevergütung genügt nach Angabe der TWS Netz die Registrierung im Marktstammdatenregister. Wer eine Vergütung möchte oder einen Kleinstspeicher betreibt, meldet sich direkt beim Netzbetreiber."
+      "a": "Bei Verzicht auf Einspeisevergütung genügt nach Angabe der TWS Netz die Registrierung im Marktstammdatenregister. Bei Einspeisevergütung oder mit Kleinstspeicher erfolgt die Anmeldung laut TWS Netz direkt beim Netzbetreiber."
     },
     {
       "q": "Gilt § 14a EnWG auch für meine neue Wallbox in Ravensburg?",
@@ -82,6 +82,8 @@
   "offen": [
     "Wallbox-Anmeldeseite der TWS Netz nicht separat geöffnet; Wallbox nur über § 14a-Seite belegt.",
     "Ortsteile im Text (Weststadt, Weißenau) nur als Beispiele, nicht durch Fakten belegt.",
-    "Förderprogramme der TWS für Stromkunden (Speicher, Ladeboxen) bewusst nicht genannt, da Unternehmensangebot und Stand 2023."
+    "Förderprogramme der TWS für Stromkunden (Speicher, Ladeboxen) bewusst nicht genannt, da Unternehmensangebot und Stand 2023.",
+    "QA 02.10.: Werte 801 W, 800 VA, 2.000 Wp, 4,2 kW auf den TWS-Netz-Seiten wörtlich nachgeprüft; Text an „größer 801 W“ angeglichen; „Netzentgelte sinken“/„dimmen“ als Wiedergabe der Netzbetreiberseite gefasst.",
+    "QA 02.10.: Unbelegter Satz zu Zählerschränken in Weststadt/Weißenau entfernt; FAQ 2 ohne Handlungsanweisung."
   ]
 }

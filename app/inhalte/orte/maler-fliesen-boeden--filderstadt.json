@@ -10,15 +10,15 @@
   "abschnitte": [
     {
       "h2": "Bodensee- oder Filderwasser: Kalk auf Fliesen und Fugen",
-      "text": "Die Stadtwerke Filderstadt verteilen zwei Wassersorten. Bernhausen, Bonlanden, Plattenhardt und der Süden von Harthausen erhalten Bodenseewasser mit 9,1 °dH, Sielmingen und der nördliche Teil von Harthausen Filderwasser aus der zentralen Enthärtungsanlage im Wasserwerk Neckartailfingen mit 10,1 °dH (jeweils Mittelwert 2025). Beides liegt im Härtebereich mittel. Für den Fliesenleger ist das eine nützliche Angabe: Bei großformatigen Fliesen, bodengleichen Duschen und dunklen Fugen fallen Kalkränder je nach Wasser und Pflege unterschiedlich stark auf, was bei der Wahl von Oberfläche und Fugenmaterial eine Rolle spielen kann."
+      "text": "Die Stadtwerke Filderstadt verteilen zwei Wassersorten. Bernhausen, Bonlanden, Plattenhardt und der Süden von Harthausen erhalten Bodenseewasser mit 9,1 °dH, Sielmingen und der nördliche Teil von Harthausen Filderwasser aus der zentralen Enthärtungsanlage im Wasserwerk Neckartailfingen mit 10,1 °dH (jeweils Mittelwert 2025). Beides liegt im Härtebereich mittel. Für den Fliesenleger ist das eine nützliche Angabe, etwa wenn es in Bad und Küche um die Wahl von Fliesenoberfläche und Fugenmaterial geht."
     },
     {
       "h2": "Außenputz und Anstrich in den Sanierungsgebieten Bernhausen und Plattenhardt",
-      "text": "Die Stadt führt förmlich festgelegte Sanierungsgebiete in der Innenstadt Bernhausen, die im November 2015 in die Förderkulisse von Bund und Land aufgenommen wurde, und im Ortskern Plattenhardt. Nach den städtischen Förderrichtlinien zählen zu den Instandsetzungen unter anderem die Erneuerung von Außenputz, Türen und Fenstern; eine ortsbildgerechte Gestaltung wird vorausgesetzt, und die äußere Gestaltung ist rechtzeitig vor der Ausführung mit der Stadt abzustimmen. Für Eigentümer im Sanierungsgebiet bietet die Stadt eine kostenlose Sanierungsberatung vor Ort an, die auch die gestalterische Planung begleitet. Wie das Verfahren aufgebaut ist und welche Genehmigungen gelten, erläutert das Amt für Stadtplanung und Stadtentwicklung."
+      "text": "Die Stadt führt förmlich festgelegte Sanierungsgebiete in der Innenstadt Bernhausen, die im November 2015 in die Förderkulisse von Bund und Land aufgenommen wurde, und im Ortskern Plattenhardt. Für private Sanierungsvorhaben in diesen Gebieten bietet die Stadt einen Beratungstermin vor Ort an: Sie berät zu den Fördermöglichkeiten von Modernisierung und Instandsetzung und begleitet die gestalterische Planung. Ob für Außenputz oder Anstrich eine Förderung in Frage kommt und welche Gestaltungsanforderungen gelten, beantwortet das Amt für Stadtplanung und Stadtentwicklung."
     },
     {
       "h2": "Dämmung, Gestaltungsbeirat und Beratung in Bernhausen",
-      "text": "Geht es um mehr als Farbe, etwa einen Wärmedämmputz, berät die Klimaschutzagentur des Landkreises Esslingen kostenfrei zur Gebäudemodernisierung, unter anderem in der Dienststelle Bernhausen in der Aicher Straße. Größere Vorhaben legt die Stadt ihrem Gestaltungsbeirat vor. Wenn Sie wissen, was gemacht werden soll, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Geht es um mehr als Farbe, etwa einen Wärmedämmputz, berät die Klimaschutzagentur des Landkreises Esslingen kostenfrei zur Gebäudemodernisierung, unter anderem in der Dienststelle Bernhausen in der Aicher Straße. Vorhaben, die ihm vorgelegt werden, prüft der Gestaltungsbeirat der Stadt auf städtebauliche und gestalterische Qualität und gibt Empfehlungen. Wenn Sie wissen, was gemacht werden soll, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -41,19 +41,13 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Nach den Filderstädter Förderrichtlinien für Privatmaßnahmen zählen zu den Instandsetzungen unter anderem die Erneuerung von Dachdeckung, Außenputz, Türen und Fenstern; die äußere Gestaltung ist rechtzeitig vor der Ausführung mit der Stadt abzustimmen.",
-      "quelle": "Stadt Filderstadt – Förderrichtlinien für Privatmaßnahmen",
-      "url": "https://www.filderstadt.de/site/Filderstadt-Internet-2019/get/params_E1048026385/18361763/F%C3%B6rderrichtlinien%20f%C3%BCr%20die%20F%C3%B6rderung%20von%20Privatma%C3%9Fnahmen%20ab%2016-04-2021.pdf",
-      "abruf": "2026-10-02"
-    },
-    {
-      "text": "Für private Sanierungsvorhaben in förmlich festgelegten Sanierungsgebieten bietet die Stadt Filderstadt eine Beratung vor Ort zu Fördermöglichkeiten an und begleitet die gestalterische Planung.",
+      "text": "Bei privaten Sanierungsvorhaben in förmlich festgelegten Sanierungsgebieten berät die Stadt Filderstadt bei einem Termin vor Ort zu den Fördermöglichkeiten von Modernisierung und Instandsetzung und begleitet die gestalterische Planung.",
       "quelle": "Stadt Filderstadt – Sanierungsberatung/Sanierungsflyer",
       "url": "https://www.filderstadt.de/start/service/Sanierungsberatung_Sanierungsflyer.html",
       "abruf": "2026-10-02"
     },
     {
-      "text": "Der Gestaltungsbeirat Filderstadt besteht aus vier Mitgliedern und tagt in der Regel einmal im Quartal; er gibt Empfehlungen zu städtebaulich bedeutsamen Vorhaben.",
+      "text": "Der Gestaltungsbeirat Filderstadt besteht aus vier Mitgliedern und tagt in der Regel einmal im Quartal; er prüft die ihm vorgelegten Vorhaben auf städtebauliche, architektonische und gestalterische Qualität und spricht Empfehlungen aus.",
       "quelle": "Stadt Filderstadt – Gestaltungsbeirat",
       "url": "https://www.filderstadt.de/start/service/Gestaltungsbeirat.html",
       "abruf": "2026-10-02"
@@ -72,7 +66,7 @@
     },
     {
       "q": "Was gilt für einen neuen Außenputz im Ortskern von Bernhausen oder Plattenhardt?",
-      "a": "Dort liegen Sanierungsgebiete. Nach den Förderrichtlinien wird eine ortsbildgerechte Gestaltung vorausgesetzt und die äußere Gestaltung mit der Stadt abgestimmt; Auskunft gibt das Amt für Stadtplanung und Stadtentwicklung."
+      "a": "Dort liegen förmlich festgelegte Sanierungsgebiete. Zu Fördermöglichkeiten und Gestaltung berät die Stadt bei einem Termin vor Ort; Auskunft gibt das Amt für Stadtplanung und Stadtentwicklung."
     },
     {
       "q": "Wo gibt es in Filderstadt eine neutrale Beratung zur Fassadendämmung?",
@@ -82,6 +76,7 @@
   "offen": [
     "Antragsfrist für Zuschüsse im Sanierungsgebiet Bernhausen laut Flyer „bis Dezember 2025“ – möglicherweise abgelaufen; daher nur Beratungsangebot genannt, keine Förderzusage.",
     "Die Seiten zu den Sanierungsgebieten Bernhausen und Plattenhardt auf filderstadt.de zeigen ohne JavaScript keinen Inhalt; Plattenhardt ist nur über den Seitentitel „Sanierungsgebiet Plattenhardt ‚Ortskern Plattenhardt‘“ belegt.",
-    "Förderrichtlinien vom 10.02.2021: Als Baubeginn gilt bereits die Beauftragung eines Handwerkers (Folge: kein Zuschuss) – nicht in den Text übernommen, siehe Anwaltsfrage."
+    "Förderrichtlinien vom 10.02.2021: Als Baubeginn gilt bereits die Beauftragung eines Handwerkers (Folge: kein Zuschuss) – nicht in den Text übernommen, siehe Anwaltsfrage.",
+    "QA 02.10.: Förderbedingungen aus den Förderrichtlinien 2021 (Außenputz als Instandsetzung, ortsbildgerechte Gestaltung, Abstimmungspflicht) aus Text, FAQ und Fakten gestrichen – Antragsfrist Bernhausen laut Flyer bis 12/2025, Programmstand unklar (Punkt 2/16). „kostenlose“ Sanierungsberatung nicht belegt → Wortlaut der Stadtseite (Termin vor Ort). Unbelegte Fachaussage zu Kalkrändern gekürzt (Punkt 13); Gestaltungsbeirat nach Wortlaut der Stadt."
   ]
 }

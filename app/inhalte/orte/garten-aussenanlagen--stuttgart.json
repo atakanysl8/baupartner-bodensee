@@ -6,24 +6,24 @@
   "title": "Terrassenüberdachung Stuttgart – kostenlos vermittelt",
   "description": "Terrassenüberdachung in Stuttgart: Bebauungsplan, Außenbereich, Baumschutzsatzung und Regenwassergebühr beim Pflastern. Fachbetrieb kostenlos vermittelt.",
   "h1": "Terrassenüberdachung in Stuttgart",
-  "einstieg": "Eine Terrassenüberdachung in Stuttgart, ein Carport an der Hangzufahrt, ein neuer Zaun oder ein frisch gepflasterter Hof: Im Garten verändert sich viel, ohne dass ein Bauantrag nötig wäre. Trotzdem setzen Bebauungsplan, Baumschutzsatzung und die Gebühr für Regenwasser in der Landeshauptstadt klare Rahmenbedingungen, und im Außenbereich gelten strengere Regeln als im Wohngebiet.",
+  "einstieg": "Eine Terrassenüberdachung in Stuttgart, ein Carport an der Hangzufahrt, ein neuer Zaun oder ein frisch gepflasterter Hof: Manches davon ist baurechtlich verfahrensfrei. Trotzdem setzen Bebauungsplan, Baumschutzsatzung und die Gebühr für Regenwasser in der Landeshauptstadt klare Rahmenbedingungen, und im Außenbereich gelten strengere Regeln als im Wohngebiet.",
   "abschnitte": [
     {
       "h2": "Terrassenüberdachung und Carport: verfahrensfrei heißt nicht regelfrei",
-      "text": "Welche Vorhaben ohne Genehmigung auskommen, steht in § 50 der Landesbauordnung und dem Anhang dazu. Das Stuttgarter Baurechtsamt weist aber darauf hin, dass auch verfahrensfreie Vorhaben dem Bebauungsplan und den übrigen baurechtlichen Vorschriften entsprechen müssen. Bei Unsicherheit berät der Bürgerservice Bauen; die ersten 15 Minuten sind kostenfrei. Strenger ist es außerhalb der Baugebiete: Für Freizeitgrundstücke im Außenbereich nennt die Stadt Überdachungen, befestigte Terrassen und Stellplätze ausdrücklich als unzulässig, ebenso Zäune, Hecken und Mauern als Einfriedung."
+      "text": "Welche Vorhaben ohne Genehmigung auskommen, steht in § 50 der Landesbauordnung und dem Anhang dazu. Das Stuttgarter Baurechtsamt weist aber darauf hin, dass auch verfahrensfreie Vorhaben dem Bebauungsplan und den übrigen baurechtlichen Vorschriften entsprechen müssen. Auskunft gibt der Bürgerservice Bauen. Strenger ist es außerhalb der Baugebiete: Für Freizeitgrundstücke im Außenbereich nennt die Stadt Überdachungen, befestigte Terrassen und Stellplätze ausdrücklich als unzulässig, ebenso Zäune, Hecken und Mauern als Einfriedung."
     },
     {
       "h2": "Pflaster, Zisterne, Entsiegelung: was die Regenwassergebühr beeinflusst",
-      "text": "In Stuttgart wird die Niederschlagswassergebühr nach der bebauten und befestigten Fläche berechnet, die an den Kanal angeschlossen ist. Wer seine Terrasse, Zufahrt oder seinen Hof neu anlegt, kann das berücksichtigen: Durchlässige Beläge mit höchstens 50 Prozent Versiegelung zählen nur zur Hälfte, und eine Zisterne nach DIN 1989 mit Notüberlauf mindert die angerechnete Dachfläche. Eine Regentonne zählt dabei nicht. Wer stark versiegelte Flächen zurückbaut und begrünt, kann über das Stuttgarter Grünprogramm gefördert werden."
+      "text": "In Stuttgart wird die Niederschlagswassergebühr nach der bebauten und befestigten Fläche berechnet, die an den Kanal angeschlossen ist. Laut Stadt gilt dabei: Durchlässige Beläge mit höchstens 50 Prozent Versiegelung zählen nur zur Hälfte, und eine Zisterne nach DIN 1989 mit Notüberlauf mindert die angerechnete Dachfläche. Eine Regentonne zählt dabei nicht. Für Entsiegelung mit Begrünung gibt es außerdem das Stuttgarter Grünprogramm; über die Bedingungen informiert die Stadt."
     },
     {
       "h2": "Geschützte Bäume und Schottergarten: Grenzen bei der Gestaltung",
-      "text": "Im Geltungsbereich der Stuttgarter Baumschutzsatzung sind größere Bäume geschützt, und zwar einschließlich des Wurzelbereichs. Pflaster, Beton oder bauliche Anlagen unter der Krone sind dort grundsätzlich verboten. Beim Thema Schottergarten verweist das Baurechtsamt auf das Verbot in Baden-Württemberg und informiert über den fachgerechten Rückbau. Schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Im Geltungsbereich der Stuttgarter Baumschutzsatzung sind größere Bäume geschützt, und zwar einschließlich des Wurzelbereichs. Pflaster, Beton oder bauliche Anlagen im Wurzelbereich nennt die Satzung als verbotene Beeinträchtigungen. Beim Thema Schottergarten verweist das Baurechtsamt auf das Verbot in Baden-Württemberg und informiert über den fachgerechten Rückbau. Schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
     {
-      "text": "Baurechtlich verfahrensfreie Vorhaben sind in § 50 LBO und im Anhang aufgeführt; laut Baurechtsamt Stuttgart müssen sie dennoch den baurechtlichen Vorschriften wie dem Bebauungsplan entsprechen. Die Beratung beim Bürgerservice Bauen ist bis 15 Minuten kostenfrei.",
+      "text": "Baurechtlich verfahrensfreie Vorhaben sind in § 50 LBO und im Anhang aufgeführt; laut Baurechtsamt Stuttgart müssen sie dennoch den baurechtlichen Vorschriften wie dem Bebauungsplan entsprechen.",
       "quelle": "Landeshauptstadt Stuttgart – Fragen rund ums Bauen (Baurechtsamt)",
       "url": "https://www.stuttgart.de/leben/bauen/baurecht/faqs-baurechtsamt",
       "abruf": "2026-10-02"
@@ -53,7 +53,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Das Stuttgarter Grünprogramm fördert Entsiegelung mit Begrünung von Freiflächen, etwa Zufahrten und Innenhöfe, ab einem Versiegelungsgrad des Grundstücks von 31 Prozent; den Versiegelungsgrad kann man bei der Stadt gebührenfrei erfragen.",
+      "text": "Das Stuttgarter Grünprogramm (Richtlinie vom 4. Februar 2021, zuletzt geändert am 14. Dezember 2023) nennt als förderfähige Maßnahme die Entsiegelung mit Begrünung von Freiflächen, insbesondere von Zufahrten, Innenhöfen und Abstandsflächen.",
       "quelle": "Stadtrecht Stuttgart 3/9 – Richtlinie Stuttgarter Grünprogramm",
       "url": "https://www.stuttgart.de/medien/ibs/3-9.pdf",
       "abruf": "2026-10-02"
@@ -68,20 +68,21 @@
   "faq": [
     {
       "q": "Brauche ich für eine Terrassenüberdachung in Stuttgart eine Genehmigung?",
-      "a": "Ob ein Vorhaben verfahrensfrei ist, regelt § 50 LBO. Auch dann muss es dem Bebauungsplan entsprechen; im Zweifel berät der Bürgerservice Bauen, die ersten 15 Minuten kostenfrei."
+      "a": "Ob ein Vorhaben verfahrensfrei ist, regelt § 50 LBO. Auch dann muss es laut Baurechtsamt dem Bebauungsplan entsprechen; Auskunft gibt der Bürgerservice Bauen."
     },
     {
       "q": "Darf ich auf meinem Gartengrundstück am Stadtrand eine überdachte Terrasse bauen?",
       "a": "Liegt das Grundstück im Außenbereich, nennt das Baurechtsamt Überdachungen und befestigte Terrassen ausdrücklich als unzulässig. Maßgeblich ist, ob das Grundstück in einem Baugebiet liegt."
     },
     {
-      "q": "Wirkt sich neues Pflaster auf die Abwassergebühr in Stuttgart aus?",
-      "a": "Ja, über die Niederschlagswassergebühr. Durchlässige Beläge mit höchstens 50 Prozent Versiegelung zählen nur zur Hälfte, nicht an den Kanal angeschlossene Flächen gar nicht."
+      "q": "Wie behandelt die Stuttgarter Niederschlagswassergebühr gepflasterte Flächen?",
+      "a": "Laut Stadt gehen durchlässige Beläge mit höchstens 50 Prozent Versiegelung nur zur Hälfte in die Berechnungsfläche ein; Flächen, die nicht an den Kanal angeschlossen sind, zählen nicht."
     }
   ],
   "offen": [
     "Keine eigene Stuttgarter Seite mit einer Liste verfahrensfreier Gartenvorhaben (Maße) gefunden; deshalb keine Maße zu Terrassenüberdachung oder Carport genannt.",
     "Geltungsbereich der Baumschutzsatzung (Zonen 1 und 2, Lageplan) nicht im Detail wiedergegeben; ob ein Grundstück betroffen ist, nur über den Lageplan klärbar.",
-    "Nachbarrecht bewusst nicht behandelt."
+    "Nachbarrecht bewusst nicht behandelt.",
+    "QA 02.10.: „ohne dass ein Bauantrag nötig wäre“ (eigene Auslegung) neutral gefasst; kostenfreie 15 Minuten Bürgerservice (Preis-/Momentangabe) entfernt; Gebührentext und -FAQ als Wiedergabe ohne Ersparnisanklang („kann das berücksichtigen“, „Ja“) (Punkt D); Grünprogramm-Förderbedingung (ab 31 % Versiegelung) entfernt, nur förderfähige Maßnahme laut Richtlinie mit Stand (Punkt 2/16); Baumschutz nach Satzungswortlaut („Wurzelbereich“)."
   ]
 }

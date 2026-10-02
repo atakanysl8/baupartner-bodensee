@@ -10,15 +10,15 @@
   "abschnitte": [
     {
       "h2": "Fassadenfarbe und Putz in der Weststadt",
-      "text": "Die Weststadt steht seit 2012 als Gesamtanlage unter Denkmalschutz. Geschützt ist das einheitliche Bild der Gründerzeit, wie es sich vom Gaisberghang und in den Straßen zeigt, etwa an Wilhelmsplatz und Christuskirche. Sichtbare Veränderungen an Fassaden brauchen deshalb eine Genehmigung der unteren Denkmalschutzbehörde; die Satzung nennt dabei Verputz und Farbe, Fenstergewände, Türeinfassungen und Verkleidungen an Außenwänden. Bei der Abwägung werden laut Satzung auch Umwelt- und Klimaschutz umfassend gewürdigt, was etwa bei Dämmputzen eine Rolle spielen kann. Ein Gestaltungsbeirat unterstützt die Stadt bei der Anwendung der Satzung, er berät ausschließlich. Für Maler bedeutet das: Farbton und Putzstruktur werden in der Regel vor Arbeitsbeginn mit der Behörde abgestimmt."
+      "text": "Die Weststadt steht seit 2012 als Gesamtanlage unter Denkmalschutz. Geschützt ist das einheitliche Bild der Gründerzeit, wie es sich vom Gaisberghang und in den Straßen zeigt, etwa an Wilhelmsplatz und Christuskirche. Sichtbare Veränderungen an Fassaden sind laut Satzung genehmigungspflichtig, zuständig ist die untere Denkmalschutzbehörde; die Satzung nennt dabei Verputz und Farbe, Fenstergewände, Türeinfassungen und Verkleidungen an Außenwänden. Bei der Abwägung werden laut Satzung auch Umwelt- und Klimaschutz umfassend gewürdigt. Ein Gestaltungsbeirat unterstützt die Stadt bei der Anwendung der Satzung, er berät ausschließlich."
     },
     {
       "h2": "Handschuhsheim: Putz mit Farbanstrich, keine grellen Töne",
-      "text": "Im historischen Ortskern von Handschuhsheim gilt seit 2003 eine Gestaltungssatzung, die Fassaden sehr konkret regelt. Außenwände, die nicht aus Natur- oder Bruchstein bestehen, sind als Putzflächen mit Farbanstrich auszuführen, stark strukturierte Putze sind unzulässig. Die Fassadenfarben müssen auf die Umgebung abgestimmt sein, grelle und schrille Farben schließt die Satzung aus. Sichtbares Fachwerk ist zu erhalten, verborgenes soll nur freigelegt werden, wenn es als Sichtfachwerk angelegt war. Bei Umbau und Sanierung historischer Gebäude sind die ursprünglichen Materialien zu verwenden. Wer dort einen Anstrich plant, wendet sich sinnvollerweise vorab an das Kompetenzzentrum Bauen-Wohnen-Förderung."
+      "text": "Im historischen Ortskern von Handschuhsheim gilt seit 2003 eine Gestaltungssatzung, die Fassaden sehr konkret regelt. Außenwände, die nicht aus Natur- oder Bruchstein bestehen, sieht sie als Putzflächen mit Farbanstrich vor, stark strukturierte Putze schließt sie aus. Die Fassadenfarben sollen auf die Umgebung abgestimmt sein, grelle und schrille Farben sind ausgeschlossen. Sichtbares Fachwerk bleibt nach der Satzung erhalten, verborgenes soll nur freigelegt werden, wenn es als Sichtfachwerk angelegt war. Bei Umbau und Sanierung historischer Gebäude sieht sie die ursprünglichen Materialien vor."
     },
     {
       "h2": "Fliesen und Bodenbeläge: was außen und innen zählt",
-      "text": "Für Fliesenleger ist in Handschuhsheim eine Regel wichtig: Keramikfliesen, polierte Steinplatten und Kunststeinverkleidungen sind nach der Gestaltungssatzung für das äußere Erscheinungsbild unzulässig, ebenso Kunststoffverkleidungen. Sockel sind aus Naturstein oder Putz herzustellen. Für sichtbare Hauseingänge und Außentreppen kommt dort deshalb eher Naturstein als Feinsteinzeug in Frage. Innen gelten diese Gestaltungsregeln nicht; bei Kulturdenkmalen kann allerdings auch die Ausstattung geschützt sein. Für Bäder, Küchen und Böden in Wohnungen ohne Denkmalbezug sind Maler und Fliesenleger dagegen frei in der Wahl. Schildern Sie Ihr Vorhaben über unser Formular, dann wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Für Fliesenleger ist in Handschuhsheim eine Regel wichtig: Keramikfliesen, polierte Steinplatten und Kunststeinverkleidungen sind nach der Gestaltungssatzung für das äußere Erscheinungsbild unzulässig, ebenso Kunststoffverkleidungen. Sockel sieht die Satzung aus Naturstein oder Putz vor. Die Regeln betreffen das äußere Erscheinungsbild. Schildern Sie Ihr Vorhaben über unser Formular, dann wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -66,7 +66,7 @@
     },
     {
       "q": "Welche Fassadenfarben sind in Handschuhsheim erlaubt?",
-      "a": "Die Gestaltungssatzung nennt keine Farbpalette, verlangt aber eine Abstimmung auf Umgebung und Straßenbild. Grelle und schrille Farben sind ausgeschlossen."
+      "a": "Die Gestaltungssatzung nennt keine Farbpalette, sieht aber eine Abstimmung auf Umgebung und Straßenbild vor. Grelle und schrille Farben sind ausgeschlossen."
     },
     {
       "q": "Darf ich in Handschuhsheim den Hauseingang außen fliesen lassen?",
@@ -77,6 +77,7 @@
     "Gestaltungssatzung Handschuhsheim in der Fassung Stand 31.03.2006 gelesen; spätere Änderungen nicht geprüft.",
     "Keine Farbleitplanung und kein Fassadenprogramm der Stadt Heidelberg gefunden.",
     "Fakten stammen überwiegend aus drei Satzungen; keine weitere unabhängige Quelle speziell für Fliesen/Böden innen gefunden (Denkmalschutz innen bereits auf Innenausbau-Seite).",
-    "Neuenheim im Einstieg nur als Beispiel."
+    "Neuenheim im Einstieg nur als Beispiel.",
+    "QA 02.10.: Satzungspflichten als Wiedergabe gefasst; abgeleitete Sätze (Dämmputze, Abstimmung vor Arbeitsbeginn, Naturstein statt Feinsteinzeug, Innenausstattung/Wahlfreiheit innen, Ratschlag Kompetenzzentrum) ohne Quelle gestrichen; Kürzung auf ≤ 600 Wörter."
   ]
 }

@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Maler in der Leonberger Altstadt: Farbe am Kulturdenkmal",
-      "text": "Die historische Altstadt prägt Fachwerk aus mehreren Jahrhunderten: Das Alte Rathaus wurde 1468 vollendet, das Haus Beutelspacher zeigt spätmittelalterliches Fachwerk mit einem Renaissancegiebel. Bei Kulturdenkmalen zählt die Stadt ausdrücklich die Änderung der Farbigkeit zu den genehmigungspflichtigen Vorhaben, ebenso Eingriffe in Gefache und Verzierungen sowie den Einbau neuer Türen und Fenster. Zuständig ist die Bauverwaltung als untere Denkmalschutzbehörde. Für Eigentümer, die steuerliche Vergünstigungen nutzen möchten, setzt die Stadt eine Bescheinigung der unteren Denkmalschutzbehörde voraus."
+      "text": "Die historische Altstadt prägt Fachwerk aus mehreren Jahrhunderten: Das Alte Rathaus wurde 1468 vollendet, das Haus Beutelspacher zeigt spätmittelalterliches Fachwerk mit einem Renaissancegiebel. Bei Kulturdenkmalen zählt die Stadt ausdrücklich die Änderung der Farbigkeit zu den genehmigungspflichtigen Vorhaben, ebenso Eingriffe in Gefache und Verzierungen sowie den Einbau neuer Türen und Fenster. Zuständig ist die Bauverwaltung als untere Denkmalschutzbehörde."
     },
     {
       "h2": "Fassade erneuern: was das ServiceBüroBauen verfahrensfrei nennt",
@@ -18,7 +18,7 @@
     },
     {
       "h2": "Fliesenleger und Dämmung: alte Mineralwolle beachten",
-      "text": "Wer beim Umbau alte Dämmung freilegt, etwa unter Fliesen an Außenwänden oder hinter Verkleidungen, hat mit Entsorgungsregeln zu tun: Mineralfasern, die vor dem Jahr 2000 eingebaut wurden, können laut Abfallwirtschaft des Landkreises gesundheitsschädlich sein und werden nur staubdicht verpackt angenommen. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb für Malerarbeiten, Fliesen oder Bodenbelag aus."
+      "text": "Wer beim Umbau alte Dämmung freilegt, hat mit Entsorgungsregeln zu tun: Mineralfasern, die vor dem Jahr 2000 eingebaut wurden, können laut Abfallwirtschaft des Landkreises gesundheitsschädlich sein und werden nur staubdicht verpackt angenommen. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb für Malerarbeiten, Fliesen oder Bodenbelag aus."
     }
   ],
   "fakten": [
@@ -30,12 +30,6 @@
     },
     {
       "text": "Als genehmigungspflichtige Vorhaben an Kulturdenkmalen nennt die Stadt Leonberg unter anderem die Änderung der Farbigkeit, Eingriffe in die historische Bausubstanz wie Gefache, Treppen, Lamperien und Verzierungen sowie den Einbau von Türen und Fenstern.",
-      "quelle": "Stadt Leonberg – Denkmalschutz / Denkmalpflege",
-      "url": "https://www.leonberg.de/Wirtschaft-Bauen/Rund-ums-Bauen/ServiceB%C3%BCroBauen/Denkmalschutz/",
-      "abruf": "2026-10-02"
-    },
-    {
-      "text": "Für die Inanspruchnahme der Steuervergünstigung bei Baudenkmalen setzt die Stadt Leonberg eine Bescheinigung der zuständigen unteren Denkmalschutzbehörde voraus, dass die Maßnahmen nach Art und Umfang erforderlich und abgestimmt waren.",
       "quelle": "Stadt Leonberg – Denkmalschutz / Denkmalpflege",
       "url": "https://www.leonberg.de/Wirtschaft-Bauen/Rund-ums-Bauen/ServiceB%C3%BCroBauen/Denkmalschutz/",
       "abruf": "2026-10-02"
@@ -70,12 +64,14 @@
     },
     {
       "q": "Kostet ein Gerüst auf dem Gehweg in Leonberg etwas?",
-      "a": "Gerüste auf städtischen Straßen sind eine Sondernutzung; die Satzung der Stadt sieht dafür eine Gebühr je Quadratmeter vor. Die Höhe hängt von Fläche und Dauer ab."
+      "a": "Gerüste auf städtischen Straßen sind eine Sondernutzung; die Satzung der Stadt sieht dafür eine Gebühr je Quadratmeter vor."
     }
   ],
   "offen": [
     "Keine Gestaltungssatzung für die Leonberger Altstadt im Ortsrecht gefunden; ob die Altstadt eine Gesamtanlage nach § 19 DSchG ist, nicht belegt.",
     "Erlaubnispflicht für Gerüste auf öffentlichen Straßen nur über das Gebührenverzeichnis der Sondernutzungssatzung belegt; keine eigene Service-Seite dazu gefunden.",
-    "Fliesen/Mineralwolle-Bezug („unter Fliesen an Außenwänden“) ist ein Beispiel, nicht durch Quelle belegt."
+    "Fliesen/Mineralwolle-Bezug („unter Fliesen an Außenwänden“) ist ein Beispiel, nicht durch Quelle belegt.",
+    "QA 02.10.: Steuerhinweis (Bescheinigung für Steuervergünstigung bei Baudenkmalen) aus Text und Fakten entfernt (Punkt 12); Seite hat jetzt 5 Fakten.",
+    "QA 02.10.: Unbelegtes Beispiel „unter Fliesen an Außenwänden“ und FAQ-Zusatz „Höhe hängt von Fläche und Dauer ab“ entfernt."
   ]
 }

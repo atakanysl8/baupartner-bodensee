@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Elektriker in Ulm: so läuft die PV-Anmeldung beim Netzbetreiber",
-      "text": "Netzbetreiber im Ulmer Stadtgebiet ist die Netzgesellschaft der Stadtwerke Ulm/Neu-Ulm. Für eine Photovoltaikanlage beschreibt sie ein festes Verfahren: Zuerst wird im Netzportal eine Voranfrage gestellt, entweder vom Eigentümer selbst oder vom beauftragten Installateur. Nach der Prüfung folgt eine Einspeisezusage mit Voranfragenummer, mit der der Installateur die Anlage anmeldet. Die Genehmigung zur Errichtung geht anschließend per E-Mail an den Installateur, ebenso die Bestätigung für die Inbetriebsetzung. Zum Schluss setzt der Messstellenbetreiber vor Ort den Einspeisezähler. Für Sie heißt das in der Regel: Der Elektrobetrieb sollte beim Netzbetreiber als Installateur eingetragen sein, sonst wird die Anmeldung aufwendiger. Wer eine EEG-Vergütung erhalten möchte, meldet die Anlage zusätzlich kaufmännisch über das Kundendatenblatt im Netzportal an."
+      "text": "Für eine Photovoltaikanlage beschreibt die Netzgesellschaft der Stadtwerke Ulm/Neu-Ulm ein festes Verfahren: Zuerst wird im Netzportal eine Voranfrage gestellt, entweder vom Eigentümer selbst oder vom beauftragten Installateur. Nach der Prüfung folgt eine Einspeisezusage mit Voranfragenummer, mit der der Installateur die Anlage anmeldet. Die Genehmigung zur Errichtung geht anschließend per E-Mail an den Installateur, ebenso die Bestätigung für die Inbetriebsetzung. Zum Schluss vereinbart der Installateur mit dem Messstellenbetreiber einen Termin zur Zählersetzung. Anmeldung und Inbetriebnahme soll laut Netzgesellschaft ein bei ihr eingetragener Installateur durchführen. Für eine EEG-Vergütung sieht die Netzgesellschaft zusätzlich eine kaufmännische Anmeldung über das Kundendatenblatt im Netzportal vor."
     },
     {
       "h2": "Wallbox, Speicher und Balkonkraftwerk im Ulmer Netz",
@@ -72,6 +72,7 @@
   "offen": [
     "Ortsteilnennungen im Einstieg (Eselsberg, Söflingen, Wiblingen) sind beispielhaft, nicht durch Fakten belegt.",
     "Name der Netzgesellschaft (Stadtwerke Ulm/Neu-Ulm Netze GmbH) im Fließtext nur umschrieben; Netzportal-Details Stand 10/2026.",
-    "SWU-FAQ zu privaten Ladestationen lädt Antworten per JavaScript, Inhalte nicht lesbar und daher nicht verwendet."
+    "SWU-FAQ zu privaten Ladestationen lädt Antworten per JavaScript, Inhalte nicht lesbar und daher nicht verwendet.",
+    "QA 02.10.: „Netzbetreiber im Ulmer Stadtgebiet ist …“ (Zuständigkeit nicht wörtlich belegt) neutral gefasst (Punkt 4). Ableitung „sonst wird die Anmeldung aufwendiger“ durch Wortlaut der Netzgesellschaft ersetzt; „vor Ort“ beim Zählersetzen umformuliert (Punkt 14); EEG-Anmeldung als Wiedergabe. Verfahren am 02.10. auf ulm-netze.de bestätigt."
   ]
 }

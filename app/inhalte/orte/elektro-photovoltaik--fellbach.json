@@ -4,7 +4,7 @@
   "ortName": "Fellbach",
   "kreis": "Rems-Murr-Kreis",
   "title": "Elektriker Fellbach – Fachbetrieb kostenlos vermittelt",
-  "description": "Elektriker in Fellbach: Wallbox-Anmeldung bei den Stadtwerken, Solardachkataster, Elektroarbeiten im Sanierungsgebiet. Fachbetrieb kostenlos vermittelt.",
+  "description": "Elektriker in Fellbach: Wallbox-Anmeldung bei den Stadtwerken, PV-Rechner der Stadt, Elektroarbeiten im Sanierungsgebiet. Fachbetrieb kostenlos vermittelt.",
   "h1": "Elektriker in Fellbach",
   "einstieg": "Rund 80 Prozent der Gebäude in Fellbach sind laut kommunalem Wärmeplan älter als die erste Wärmeschutzverordnung von 1977. Wer hier einen Elektriker sucht, hat deshalb häufig eine Installation im Haus, die nie für Wallbox, Wärmepumpe und Photovoltaik gedacht war. Im Netz der Stadtwerke Fellbach werden Ladepunkte und Erzeugungsanlagen bei den Stadtwerken als Netzbetreiber angemeldet.",
   "abschnitte": [
@@ -14,11 +14,11 @@
     },
     {
       "h2": "Photovoltaik auf Fellbacher Dächern",
-      "text": "Die Gemarkung von Fellbach ist klein, große Solarfelder haben laut Stadt kaum Platz. Umso wichtiger sind die Dächer: Nach Angaben der Stadt sind in Fellbach mehr als 1.000 Photovoltaikanlagen installiert, und allein im Jahr 2024 kamen über 220 neue hinzu, überwiegend kleinere Anlagen unter 30 kW. Wie gut sich das eigene Dach eignet, zeigt der PV-Rechner der Stadt auf Basis des Solardachkatasters der LUBW, der auch Wärmepumpe und E-Auto in eine erste Wirtschaftlichkeitsrechnung einbezieht."
+      "text": "Die Gemarkung von Fellbach ist klein, für großflächige Solarfelder fehlt laut Stadt der Platz. Umso wichtiger ist die Fellbacher Dachlandschaft, auf die nach Angaben der Stadt auch die Stadtwerke setzen. Wie gut sich das eigene Dach eignet, zeigt der PV-Rechner der Stadt auf Basis des Solardachkatasters der LUBW, der auch Wärmepumpe und E-Auto in eine erste Wirtschaftlichkeitsrechnung einbezieht. Gerade in älteren Häusern gehört zur Planung auch die Frage, ob Zählerschrank und Hausanschluss für Photovoltaik, Speicher und Wallbox zusammen ausgelegt sind."
     },
     {
       "h2": "Elektroarbeiten im Sanierungsgebiet Vordere Straße",
-      "text": "Im Sanierungsgebiet „Vordere Straße“ zählt die Stadt den Einbau einer neuen Elektroanlage zu den sanierungsrechtlich genehmigungspflichtigen Vorhaben, zugleich ist die Erneuerung der Gebäudeinstallation dort förderfähig, wenn vorher eine Modernisierungsvereinbarung geschlossen wurde. Steht Ihr Vorhaben fest, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+      "text": "Im Sanierungsgebiet „Vordere Straße“ zählt die Stadt den Einbau einer neuen Elektroanlage zu den sanierungsrechtlich genehmigungspflichtigen Vorhaben, zugleich nennt sie die Erneuerung der Gebäudeinstallation dort als förderfähige Modernisierung. Über die Bedingungen informiert die Sanierungsstelle der Stadt. Steht Ihr Vorhaben fest, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
     }
   ],
   "fakten": [
@@ -41,31 +41,25 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Nach Angaben der Stadt Fellbach sind mehr als 1.000 Photovoltaikanlagen in Fellbach installiert; 2024 kamen über 220 neue hinzu, überwiegend Anlagen unter 30 kW.",
-      "quelle": "Stadt Fellbach – Solarisierung",
-      "url": "https://www.fellbach.de/de/Leben-in-Fellbach/Solarisierung",
-      "abruf": "2026-10-02"
-    },
-    {
       "text": "Der PV-Rechner der Stadt Fellbach nutzt das Solardachkataster der LUBW und ermöglicht eine erste Wirtschaftlichkeitsberechnung, in die auch Wärmepumpe und E-Auto als Verbraucher einfließen können.",
       "quelle": "Stadt Fellbach – PV-Rechner",
       "url": "https://www.fellbach.de/Photovoltaik",
       "abruf": "2026-10-02"
     },
     {
-      "text": "Im Versorgungsszenario 2040 des kommunalen Wärmeplans Fellbach nimmt die Wärmepumpe in Einzelversorgungsgebieten eine zentrale Rolle ein; zusätzlich wurden 13 Wärmenetzprüfgebiete festgelegt.",
+      "text": "Laut kommunalem Wärmeplan Fellbach wurden rund 80 % der Gebäude vor Inkrafttreten der ersten Wärmeschutzverordnung (1. November 1977) errichtet; im Versorgungsszenario 2040 nimmt die Wärmepumpe in Einzelversorgungsgebieten eine zentrale Rolle ein, zusätzlich wurden 13 Wärmenetzprüfgebiete festgelegt.",
       "quelle": "Stadt Fellbach – Kommunale Wärmeplanung",
       "url": "https://www.fellbach.de/Kommunale-Waermeplanung",
       "abruf": "2026-10-02"
     },
     {
-      "text": "In Fellbacher Sanierungsgebieten ist laut Stadt unter anderem der Einbau einer neuen Elektroanlage sanierungsrechtlich genehmigungspflichtig; die Genehmigung ist vor Beginn der Arbeiten bei der Sanierungsstelle zu beantragen.",
+      "text": "In Fellbacher Sanierungsgebieten ist laut Stadt unter anderem der Einbau einer neuen Elektroanlage sanierungsrechtlich genehmigungspflichtig; Ansprechpartner ist die Sanierungsstelle.",
       "quelle": "Stadt Fellbach – Sanierung",
       "url": "https://www.fellbach.de/de/Leben-in-Fellbach/Bauen-und-Wohnen/Sanierung",
       "abruf": "2026-10-02"
     },
     {
-      "text": "Im Sanierungsgebiet „Vordere Straße“ nennt die Stadt die Erneuerung der Gebäudeinstallation (Elektro, Gas, Wasser, Abwasser) als förderfähige Modernisierung; Maßnahmen, die vor Abschluss einer Vereinbarung begonnen wurden, werden nicht gefördert.",
+      "text": "Im Sanierungsgebiet „Vordere Straße“ nennt die Stadt die Erneuerung der Gebäudeinstallation (Elektro, Gas, Wasser, Abwasser) als förderfähige Modernisierung.",
       "quelle": "Stadt Fellbach – Förderinformation Sanierungsgebiet Vordere Straße",
       "url": "https://www.fellbach.de/ceasy/resource/?id=4306&download=1",
       "abruf": "2026-10-02"
@@ -88,6 +82,8 @@
   "offen": [
     "Datum/Bezugsjahr der Solar-Statistik: Die Stadtseite nennt 2024 und „im vergangenen Jahr“; Stand der Seite unklar.",
     "Ob das gesamte Stadtgebiet inkl. Schmiden und Oeffingen im Stromnetz der Stadtwerke Fellbach liegt, ist auf den gelesenen Seiten nicht ausdrücklich gesagt (Einstieg nennt die Stadtwerke als Netzbetreiber).",
-    "Die Stadtwerke bieten selbst Wallbox-Installationen an; das wurde bewusst nicht erwähnt."
+    "Die Stadtwerke bieten selbst Wallbox-Installationen an; das wurde bewusst nicht erwähnt.",
+    "QA 02.10.: Solarstatistik (über 1.000 Anlagen, 2024 über 220 neue) gestrichen – Stadtseite nennt „im vergangenen Jahr“ ohne klares Bezugsjahr (Bekannte Stelle); Fakt entfernt, Abschnitt 2 mit belegter Aussage zur kleinen Gemarkung/Dachlandschaft ergänzt; Description angepasst.",
+    "QA 02.10.: 80-%-Angabe im Einstieg war ohne Fakt → in den Wärmeplan-Fakt aufgenommen (Stadtseite per curl geprüft). Förderbedingung Modernisierungsvereinbarung und Antragsanweisung aus Text/Fakten genommen, nur Verweis auf Sanierungsstelle (Punkt 2/6)."
   ]
 }

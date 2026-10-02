@@ -14,7 +14,7 @@
     },
     {
       "h2": "Altstadt und Kulturdenkmal: Gestaltung abstimmen",
-      "text": "Die Böblinger Innenstadt gliedert sich in Unterstadt, Altstadt und Stadtgarten. Die Altstadt ist der historische Ursprung der Stadt, mit kleinteiliger Struktur und einigen erhaltenen historischen Gebäuden. Für Altstadt, Schlossbergring und Teile der Unterstadt gelten örtliche Bauvorschriften zur Gestaltung von Werbeanlagen: In der Altstadt sind sie nur parallel zur Fassade im Erdgeschoss bis zur Brüstung des ersten Obergeschosses zulässig, oberhalb der Traufe gar nicht. Wer die Fassade eines Geschäftshauses neu gestalten lässt, plant das Schild daher in der Regel gleich mit. Für Arbeiten an Kulturdenkmalen stellt das Baurechtsamt zudem einen Antrag auf denkmalschutzrechtliche Genehmigung bereit."
+      "text": "Die Böblinger Innenstadt gliedert sich in Unterstadt, Altstadt und Stadtgarten. Die Altstadt ist der historische Ursprung der Stadt, mit kleinteiliger Struktur und einigen erhaltenen historischen Gebäuden. Für Altstadt, Schlossbergring und Teile der Unterstadt gelten örtliche Bauvorschriften zur Gestaltung von Werbeanlagen: In der Altstadt sind sie nur parallel zur Fassade im Erdgeschoss bis zur Brüstung des ersten Obergeschosses zulässig, oberhalb der Traufe gar nicht. Wer die Fassade eines Geschäftshauses neu gestalten lässt, plant das Schild daher in der Regel gleich mit. Bei Kulturdenkmalen prüft das Baurechtsamt nach eigener Angabe als untere Denkmalschutzbehörde, inwiefern Umbauten möglich sind; einen Antrag auf denkmalschutzrechtliche Genehmigung stellt es auf seiner Seite bereit."
     },
     {
       "h2": "Fliesenleger und Bodenleger: Reste und Altmaterial entsorgen",
@@ -59,7 +59,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Unter den Bauantragsunterlagen stellt das Baurechtsamt Böblingen einen Antrag auf Erteilung einer denkmalschutzrechtlichen Genehmigung bzw. Erlaubnis bereit.",
+      "text": "Das Baurechtsamt Böblingen prüft nach eigener Angabe als untere Denkmalschutzbehörde bei Kulturdenkmalen, inwiefern Umbauten möglich sind, in Kooperation mit dem Landesamt für Denkmalpflege; den Antrag auf denkmalschutzrechtliche Genehmigung stellt es online bereit.",
       "quelle": "Stadt Böblingen – Baurechtsamt",
       "url": "https://www.boeblingen.de/25317467",
       "abruf": "2026-10-02"
@@ -68,7 +68,7 @@
   "faq": [
     {
       "q": "Was ist zu tun, wenn das Gerüst in Böblingen auf dem Gehweg steht?",
-      "a": "Für Sperrungen von Geh-, Rad- oder Fahrbahn ist eine verkehrsrechtliche Anordnung der Straßenverkehrsbehörde nötig. Die Stadt nennt einen Vorlauf von zehn Arbeitstagen; häufig stellt der Gerüstbauer den Antrag."
+      "a": "Für Sperrungen von Geh-, Rad- oder Fahrbahn ist laut Stadt eine verkehrsrechtliche Anordnung der Straßenverkehrsbehörde im Bürger- und Ordnungsamt nötig. Die Stadt nennt einen Vorlauf von mindestens zehn Arbeitstagen."
     },
     {
       "q": "Wohin mit alten Fliesen nach der Badsanierung in Böblingen?",
@@ -76,13 +76,14 @@
     },
     {
       "q": "Meine Fassade hat alte Faserzementplatten – kann der Maler einfach drüberstreichen?",
-      "a": "Laut Abfallwirtschaftsbetrieb enthalten ältere Fassadenplatten häufig Asbest, und ihr Abbau gehört zu einer Fachfirma. Welche Arbeiten an solchen Platten zulässig sind, klärt der Fachbetrieb vor Ort."
+      "a": "Laut Abfallwirtschaftsbetrieb enthalten ältere Fassadenplatten häufig Asbest, und ihr Abbau muss durch eine Fachfirma erfolgen. Für Asbest gelten beim Landkreis gesonderte Entsorgungsregeln."
     }
   ],
   "offen": [
     "Keine Gestaltungssatzung oder Farbvorgaben für Wohngebäude in der Böblinger Altstadt gefunden; nur die Werbeanlagen-Satzung, daher Bezug auf Geschäftshäuser.",
     "Belegt ist nur das Denkmal-Antragsformular beim Baurechtsamt; Zuständigkeit als untere Denkmalschutzbehörde nicht wörtlich gefunden.",
     "FAQ zu Faserzementplatten berührt Gefahrstoffrecht; bewusst ohne Aussage zur Zulässigkeit von Überstreichen formuliert.",
-    "Stadtteilbeispiele im Einstieg (Schlossberg, Dagersheim) nicht durch Fakten belegt."
+    "Stadtteilbeispiele im Einstieg (Schlossberg, Dagersheim) nicht durch Fakten belegt.",
+    "QA 02.10.: FAQ Faserzementplatten: „Fachbetrieb vor Ort“ gestrichen (Punkt 14), durch belegte Aussage zu gesonderten Asbest-Regeln ersetzt (awb-bb.de per curl geprüft). Denkmalbehörde: Baurechtsamt-Seite nennt wörtlich „Als untere Denkmalschutzbehörde prüfen wir …“ → Text/Fakt entsprechend. FAQ Gerüst: unbelegter Satz „häufig stellt der Gerüstbauer den Antrag“ gestrichen."
   ]
 }

@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Dachsanierung und Solarpflicht: was die Stadt dazu sagt",
-      "text": "In Baden-Württemberg sieht das Klimaschutzgesetz eine Photovoltaikpflicht nicht nur für Neubauten vor. Nach Darstellung der Stadt Karlsruhe gilt sie auch bei einer grundlegenden Dachsanierung. Ausnahmen nennt die Stadt unter anderem für nutzbare Dachflächen unter 20 Quadratmetern und für Gebäude mit weniger als 50 Quadratmetern Nutzfläche. Eine Befreiung ist nach den Angaben nur bei wirtschaftlicher Unzumutbarkeit möglich, die Einhaltung überwacht das Bauordnungsamt. Wird zugleich eine Freileitung mit Dachständer auf Erdkabel umgestellt, entfallen nach Angaben des Netzbetreibers bei künftigen Dacharbeiten kostenpflichtige Isolierarbeiten."
+      "text": "In Baden-Württemberg sieht das Klimaschutzgesetz eine Photovoltaikpflicht nicht nur für Neubauten vor. Nach Darstellung der Stadt Karlsruhe gilt sie auch bei einer grundlegenden Dachsanierung. Ausnahmen nennt die Stadt unter anderem für nutzbare Dachflächen unter 20 Quadratmetern und für Gebäude mit weniger als 50 Quadratmetern Nutzfläche. Auskunft zu Ausnahmen und Befreiungen gibt das Bauordnungsamt. Hängt das Haus noch an einer Freileitung mit Dachständer, bietet der Netzbetreiber die Umstellung auf Erdkabel an; Dachständer und Ausstiegsluke entfallen dann."
     },
     {
       "h2": "Gründach und Module: die Karlsruher Kombination",
-      "text": "Die Stadt wirbt ausdrücklich für Dächer, die begrünt sind und zugleich Strom erzeugen. Beide Pflichten können an einem Gebäude nebeneinander bestehen, und ein Gründach hält Regenwasser zurück und dämpft die Temperatur unter dem Dach. Für die Ansaat empfiehlt die Stadt eine eigene „Karlsruher Mischung“. Die Begrünung von Dächern und Fassaden fördert die Stadt mit einem eigenen Programm, das eine kostenlose Beratung einschließt. Voraussetzung ist unter anderem, dass der Antrag vor Beginn der Arbeiten gestellt und die Maßnahme mit dem Gartenbauamt abgestimmt wird; gepflegt werden muss die Begrünung mindestens fünf Jahre."
+      "text": "Die Stadt wirbt ausdrücklich für Dächer, die begrünt sind und zugleich Strom erzeugen. Beide Pflichten können an einem Gebäude nebeneinander bestehen, und ein Gründach hält Regenwasser zurück und dämpft die Temperatur unter dem Dach. Für die Ansaat empfiehlt die Stadt eine eigene „Karlsruher Mischung“. Die Begrünung von Dächern und Fassaden fördert die Stadt mit einem eigenen Programm und berät dazu; über die aktuellen Bedingungen informiert die Stadt."
     },
     {
       "h2": "Dächer in den Gesamtanlagen Durlach und Gutenbergplatz",
@@ -35,7 +35,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Das städtische Förderprogramm zur Begrünung von Dächern, Fassaden und Freiflächen setzt einen Antrag vor Maßnahmenbeginn, die Abstimmung mit dem Gartenbauamt und eine Pflege von mindestens fünf Jahren voraus; ein Rechtsanspruch besteht nicht.",
+      "text": "Die Stadt Karlsruhe unterhält ein Förderprogramm zur Begrünung von Dächern, Fassaden und versiegelten Freiflächen und berät Bürgerinnen und Bürger bei der Begrünung.",
       "quelle": "Stadt Karlsruhe – Förderprogramm zur Begrünung von Dächern, Fassaden und versiegelten Freiflächen",
       "url": "https://www.karlsruhe.de/umwelt-klima/stadtgruen-wald/gebaeudebezogenes-gruen/foerderprogramm-zur-begruenung-von-hoefen-daechern-und-fassaden",
       "abruf": "2026-10-02"
@@ -53,7 +53,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Bei der Umstellung von Freileitungen auf Erdkabel entfallen Dachständer und Ausstiegsluken; bei künftigen Arbeiten am Dach sind laut Netzbetreiber keine kostenpflichtigen Isolierarbeiten mehr nötig.",
+      "text": "Bei der Umstellung von Freileitungen auf Erdkabel entfallen laut Netzbetreiber Dachständer und Ausstiegsluken.",
       "quelle": "Stadtwerke Karlsruhe Netzservice – Freileitungsumstellung",
       "url": "https://www.netzservice-swka.de/netze/fuer-verbraucher/freileitungsumstellung.php",
       "abruf": "2026-10-02"
@@ -66,7 +66,7 @@
     },
     {
       "q": "Lassen sich Dachbegrünung und Photovoltaik in Karlsruhe kombinieren?",
-      "a": "Ja, die Stadt empfiehlt die Kombination ausdrücklich und hat dazu ein Faltblatt herausgegeben. Für die Begrünung gibt es ein städtisches Förderprogramm mit kostenloser Beratung."
+      "a": "Ja, die Stadt empfiehlt die Kombination ausdrücklich und hat dazu ein Faltblatt herausgegeben. Für die Begrünung gibt es ein städtisches Förderprogramm; über die Bedingungen informiert die Stadt."
     },
     {
       "q": "Was gilt für ein neues Dach in der Durlacher Altstadt?",
@@ -77,6 +77,9 @@
     "Stadtteilnennungen im Einstieg (Grünwinkel, Nordweststadt, Durlach) sind Beispiele ohne eigene Fakt-Quelle.",
     "Lage des Gutenbergplatzes in der Weststadt ist nicht durch die Satzung belegt (allgemeine Ortskenntnis).",
     "Definition „grundlegende Dachsanierung“ nach PVPf-VO nicht wiedergegeben; Stichtag (Januar 2023) bewusst weggelassen.",
-    "Fördersätze und Obergrenze des Begrünungsprogramms bewusst nicht genannt."
+    "Fördersätze und Obergrenze des Begrünungsprogramms bewusst nicht genannt.",
+    "QA 02.10.: Förderbedingungen Begrünungsprogramm (Antrag vor Beginn, 5 Jahre Pflege) entfernt, nur Existenz + Verweis (Punkt 2/16).",
+    "QA 02.10.: Befreiung/Überwachung durch Bauordnungsamt neutral als Auskunftsstelle gefasst (Rechtsfolge).",
+    "QA 02.10.: Ersparnisaussage „keine kostenpflichtigen Isolierarbeiten“ (Netzbetreiber) entfernt (Vorlage 2 D)."
   ]
 }

@@ -10,15 +10,15 @@
   "abschnitte": [
     {
       "h2": "Putz und Farbe in der Esslinger Gesamtanlage",
-      "text": "Die Satzung über die Gesamtanlage „Esslingen am Neckar“ von 2015 stellt nicht nur die ehemalige Reichsstadt unter Schutz, sondern auch Pliensau- und Obertorvorstadt sowie Gebiete westlich und östlich der früheren Stadtmauer mit Bauten aus der Industrialisierung. Dort sind laut Satzung auch Veränderungen genehmigungspflichtig, die keine Baugenehmigung brauchen: ausdrücklich genannt werden Außenwandbekleidungen, Wärmedämmung, Verputz und Farbe sowie Fassadenelemente wie Türen, Fenster und Fensterläden. Zuständig ist die Stadt als untere Denkmalschutzbehörde. Nach der Satzung ist die Genehmigung zu erteilen, wenn das Bild der Gesamtanlage nur unerheblich oder vorübergehend beeinträchtigt würde. Welche Farbtöne und Putzstrukturen dort in Frage kommen, beantwortet die Denkmalschutzbehörde."
+      "text": "Die Satzung über die Gesamtanlage „Esslingen am Neckar“ von 2015 stellt nicht nur die ehemalige Reichsstadt unter Schutz, sondern auch Pliensau- und Obertorvorstadt sowie Gebiete westlich und östlich der früheren Stadtmauer mit Bauten aus der Industrialisierung. Dort sind laut Satzung auch Veränderungen genehmigungspflichtig, die keine Baugenehmigung brauchen: ausdrücklich genannt werden Außenwandbekleidungen, Wärmedämmung, Verputz und Farbe sowie Fassadenelemente wie Türen, Fenster und Fensterläden. Genehmigungen erteilt laut Stadt die städtische Denkmalschutzbehörde. Nach der Satzung ist die Genehmigung zu erteilen, wenn das Bild der Gesamtanlage nur unerheblich oder vorübergehend beeinträchtigt würde. Welche Farbtöne und Putzstrukturen dort in Frage kommen, beantwortet die Denkmalschutzbehörde."
     },
     {
       "h2": "Sanierungsgebiete: wenn ein Vermerk im Grundbuch steht",
-      "text": "Neben dem Denkmalschutz kennt Esslingen förmlich festgelegte Sanierungsgebiete. Nach Angaben der Stadt wird dort in der Regel ein Sanierungsvermerk ins Grundbuch eingetragen, und bauliche Veränderungen unterliegen nach § 144 Baugesetzbuch einer besonderen Genehmigung der Stadt. Ein Beispiel ist das rund 43 Hektar große Gebiet Mettingen-West, Brühl, Weil, das 2016 in das Programm „Soziale Stadt“ aufgenommen wurde. Im früheren Sanierungsgebiet Mettingen wurden auch private Modernisierungen gefördert. Ob ein Gebäude betroffen ist, beantwortet die Stadt."
+      "text": "Neben dem Denkmalschutz kennt Esslingen förmlich festgelegte Sanierungsgebiete. Nach Angaben der Stadt wird dort in der Regel ein Sanierungsvermerk ins Grundbuch eingetragen, und bauliche Veränderungen unterliegen nach § 144 Baugesetzbuch einer besonderen Genehmigung der Stadt. Ein Beispiel ist das rund 43 Hektar große Gebiet Mettingen-West, Brühl, Weil, das 2016 in das Programm „Soziale Stadt“ aufgenommen wurde. Ob ein Gebäude betroffen ist, beantwortet die Stadt."
     },
     {
       "h2": "Innen: Fliesen und Böden ohne Satzungsfragen",
-      "text": "Für Fliesen, Parkett oder Vinyl in der Wohnung greifen Gesamtanlage und Sanierungsrecht in der Regel nicht, solange nichts am äußeren Bild verändert wird; bei eingetragenen Kulturdenkmalen kann auch das Innere geschützt sein, Auskunft gibt die Denkmalschutzbehörde. Wenn Sie wissen, was gemacht werden soll, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Die Gesamtanlagensatzung schützt das Bild der Gesamtanlage, also vor allem das Äußere. Bei eingetragenen Kulturdenkmalen nennt die Stadt dagegen auch Veränderungen der Substanz als genehmigungspflichtig; ob das für Fliesen, Parkett oder Vinyl in einem bestimmten Haus gilt, beantwortet die Denkmalschutzbehörde. Wenn Sie wissen, was gemacht werden soll, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -53,16 +53,16 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Im abgeschlossenen Sanierungsgebiet Mettingen wurden im Landessanierungsprogramm auch private Modernisierungsmaßnahmen gefördert.",
-      "quelle": "Stadt Esslingen am Neckar – Sanierungsgebiete",
-      "url": "https://www.esslingen.de/wohnen-und-bauen/stadtentwicklung/sanierungsgebiete",
+      "text": "Ein eingetragenes Kulturdenkmal darf laut Stadt Esslingen nur mit Genehmigung der Denkmalschutzbehörde in seinem Erscheinungsbild oder seiner Substanz verändert werden; ob ein Gebäude ein Kulturdenkmal ist, erfährt man bei der Denkmalschutzbehörde der Stadt.",
+      "quelle": "Stadt Esslingen am Neckar – Denkmalschutz",
+      "url": "https://www.esslingen.de/wohnen-und-bauen/denkmalschutz",
       "abruf": "2026-10-02"
     }
   ],
   "faq": [
     {
       "q": "Brauche ich in der Esslinger Altstadt eine Genehmigung für einen neuen Fassadenanstrich?",
-      "a": "Im Bereich der Gesamtanlage nennt die Satzung Verputz und Farbe ausdrücklich als genehmigungspflichtig. Zuständig ist die Stadt Esslingen als untere Denkmalschutzbehörde."
+      "a": "Im Bereich der Gesamtanlage nennt die Satzung Verputz und Farbe ausdrücklich als genehmigungspflichtig. Genehmigungen erteilt die Denkmalschutzbehörde der Stadt Esslingen."
     },
     {
       "q": "Gilt der Schutz der Gesamtanlage auch in der Pliensauvorstadt?",
@@ -76,6 +76,7 @@
   "offen": [
     "Ortsnennungen „Pliensauvorstadt“ und „Burgberg“ im Einstieg: Pliensauvorstadt ist in der Satzung genannt, Burgberg auf der städtischen Denkmalschutzseite (Hänge); die Zuordnung eines konkreten Hauses ist frei gewählt.",
     "Satz zu Fliesen/Böden („greifen in der Regel nicht“) ist eine allgemeine Einordnung; die Stadt nennt bei Kulturdenkmalen den Schutz von Erscheinungsbild und Substanz.",
-    "Steuerliche Abschreibung in Sanierungsgebieten (Sanierungsvertrag vor Baubeginn) steht auf der Stadtseite, wurde als Steuer-/Rechtsthema bewusst nicht übernommen."
+    "Steuerliche Abschreibung in Sanierungsgebieten (Sanierungsvertrag vor Baubeginn) steht auf der Stadtseite, wurde als Steuer-/Rechtsthema bewusst nicht übernommen.",
+    "QA 02.10.: „Zuständig ist die Stadt als untere Denkmalschutzbehörde“ (abgeleitet) → Wortlaut Stadtseite „Denkmalschutzbehörde der Stadt“ (Punkt 4); beendetes Förderprogramm Mettingen aus Text und Fakten gestrichen (Punkt 2); eigene Rechtseinordnung „greifen in der Regel nicht“ ersetzt durch Wiedergabe der Stadtseite Denkmalschutz (Substanz), Fakt ergänzt."
   ]
 }

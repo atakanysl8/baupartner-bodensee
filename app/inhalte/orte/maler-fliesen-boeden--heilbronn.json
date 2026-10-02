@@ -9,8 +9,8 @@
   "einstieg": "Ein frischer Fassadenanstrich am Gründerzeithaus, neue Fliesen in Küche und Flur oder ein Parkett, das nach Jahrzehnten aufgearbeitet werden soll: In Heilbronn suchen viele Eigentümer einen Maler oder Fliesenleger für Arbeiten an Häusern, die älter sind als ihre Bewohner. Gerade dann lohnt ein Blick darauf, was die Stadt an Fassade, Farbe und Innenausstattung schützt.",
   "abschnitte": [
     {
-      "h2": "Fassadenanstrich in Alt-Böckingen: erst abstimmen, dann streichen",
-      "text": "Alt-Böckingen ist geprägt von zwei- bis dreigeschossigen Häusern des 19. und frühen 20. Jahrhunderts mit farbig gestalteten Ziegelfassaden, Putz und Gesimsen aus Heilbronner Sandstein. Im Geltungsbereich der Erhaltungssatzung stimmt die Stadt Änderungen am äußeren Erscheinungsbild ab; ausdrücklich nennt sie das Anstreichen und Verputzen prägender Ziegelfassaden als das, was verhindert werden soll. Wer dort einen neuen Fassadenanstrich plant, beschreibt ihn im Antrag beim Planungs- und Baurechtsamt, gegebenenfalls mit Ansichten oder Fotomontagen. Im Verfahren bietet die Stadt zusammen mit einem externen Fachmann für historische Gebäude eine kostenlose Beratung vor Ort an."
+      "h2": "Fassadenanstrich in Alt-Böckingen und die Erhaltungssatzung",
+      "text": "Alt-Böckingen ist geprägt von zwei- bis dreigeschossigen Häusern des 19. und frühen 20. Jahrhunderts mit farbig gestalteten Ziegelfassaden, Putz und Gesimsen aus Heilbronner Sandstein. Im Geltungsbereich der Erhaltungssatzung stimmt die Stadt Änderungen am äußeren Erscheinungsbild ab; ausdrücklich nennt sie das Anstreichen und Verputzen prägender Ziegelfassaden als das, was verhindert werden soll. Der Antrag beim Planungs- und Baurechtsamt führt laut Stadt Maßnahmen wie einen neuen Fassadenanstrich auf, je nach Vorhaben ergänzt um Ansichten oder Fotomontagen. Im Verfahren bietet die Stadt zusammen mit einem externen Spezialisten für historische Gebäude eine kostenlose Beratung am Gebäude an."
     },
     {
       "h2": "Böden, Stuck und Treppenhäuser im Kulturdenkmal",
@@ -29,7 +29,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Im Antrag nach der Erhaltungssatzung Alt-Böckingen sind geplante Maßnahmen wie ein neuer Fassadenanstrich zu beschreiben; im Verfahren bietet die Stadt mit einem externen Spezialisten eine kostenlose Beratung vor Ort an.",
+      "text": "Laut Stadt werden im Antrag nach der Erhaltungssatzung Alt-Böckingen geplante Maßnahmen wie ein neuer Fassadenanstrich beschrieben; im Verfahren bietet die Stadt mit einem externen Spezialisten eine kostenlose Beratung am Gebäude an.",
       "quelle": "Stadt Heilbronn – Erhaltungssatzung Alt-Böckingen",
       "url": "https://www.heilbronn.de/bauen-wohnen/stadtplanung/erhaltungssatzung-alt-boeckingen.html",
       "abruf": "2026-10-02"
@@ -82,6 +82,7 @@
   "offen": [
     "Ein Farbleitplan, eine Gestaltungssatzung für die Innenstadt oder ein städtisches Fassadenprogramm wurden für Heilbronn nicht gefunden.",
     "Wasserhärte (relevant für Fliesen in Bad und Küche) bewusst weggelassen, weil sie auf der Seite bad-sanitaer--heilbronn bereits belegt ist.",
-    "Die Nennung „Landesdenkmalamt“ folgt der städtischen Seite; heute heißt die Behörde Landesamt für Denkmalpflege im Regierungspräsidium Stuttgart. Im Fließtext wurde der heutige Name verwendet."
+    "Die Nennung „Landesdenkmalamt“ folgt der städtischen Seite; heute heißt die Behörde Landesamt für Denkmalpflege im Regierungspräsidium Stuttgart. Im Fließtext wurde der heutige Name verwendet.",
+    "QA 02.10.: „Beratung vor Ort“ (Stadt + externer Spezialist) als „am Gebäude“ gefasst (Punkt 14); Antragsinhalt als Wiedergabe der Stadt statt Anweisung."
   ]
 }

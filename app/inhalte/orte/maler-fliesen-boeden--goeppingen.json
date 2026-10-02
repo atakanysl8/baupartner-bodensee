@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Fassadenfarbe im Göppinger Stadtkern",
-      "text": "Göppingens Innenstadt wurde im Zweiten Weltkrieg kaum zerstört, ihr klassizistischer Grundriss prägt das Bild bis heute. Die Gestaltungssatzung von 2016 verlangt deshalb für Fassaden im Stadtkern einen einheitlichen, gedeckten Grundton; satte und grelle Farben sollen vermieden werden, glänzende Anstriche sind unzulässig. Gliedernde Elemente wie Gesimse und Faschen werden auf die Fassadenfarbe abgestimmt: bei hellem Putz dunkler, bei dunklem Putz heller, ohne zu starken Kontrast. Bei mittelalterlichem Sichtfachwerk ist das Holz deutlich von den verputzten Gefachen abzusetzen. Fensterrahmen und Sprossen sind laut Satzung einheitlich weiß zu halten. Gestalterische Beratung zu Farbe und Material bietet der Fachbereich Stadtentwicklung an."
+      "text": "Göppingens Innenstadt wurde im Zweiten Weltkrieg kaum zerstört, ihr klassizistischer Grundriss prägt das Bild bis heute. Die Gestaltungssatzung von 2016 sieht deshalb für Fassaden im Stadtkern einen einheitlichen, gedeckten Grundton vor; satte und grelle Farben sollen vermieden werden, glänzende Anstriche sind unzulässig. Gliedernde Elemente wie Gesimse und Faschen werden auf die Fassadenfarbe abgestimmt: bei hellem Putz dunkler, bei dunklem Putz heller, ohne zu starken Kontrast. Bei mittelalterlichem Sichtfachwerk ist das Holz deutlich von den verputzten Gefachen abzusetzen. Fensterrahmen und Sprossen sind laut Satzung einheitlich weiß zu halten. Gestalterische Beratung zu Farbe und Material bietet der Fachbereich Stadtentwicklung an."
     },
     {
       "h2": "Gesimse, Pilaster und Dämmung an historischen Fassaden",
-      "text": "Historisch wertvolle Fassadenelemente wie Fenster-, Gurt- und Giebelgesimse oder Pilaster sind bei Modernisierung und Instandsetzung zu bewahren oder gleichartig zu ersetzen. Ein konventioneller Vollwärmeschutz würde gerade diese Merkmale überdecken. Die Satzung beschreibt deshalb Kombinationen aus Innendämmung der Sichtfassade, Außendämmung der Hoffassaden sowie Keller- und Dachdämmung; eine Außendämmung der Straßenfassade, etwa mit Wärmedämmputz, kommt nur in Ausnahmefällen in Betracht. Bei einer Innendämmung ändern sich auch Putz, Anstrich, Fliesen und Bodenaufbau der betroffenen Räume."
+      "text": "Historisch wertvolle Fassadenelemente wie Fenster-, Gurt- und Giebelgesimse oder Pilaster sollen nach der Satzung bei Modernisierung und Instandsetzung bewahrt oder gleichartig ersetzt werden. Ein konventioneller Vollwärmeschutz würde gerade diese Merkmale überdecken. Die Satzung beschreibt deshalb Kombinationen aus Innendämmung der Sichtfassade, Außendämmung der Hoffassaden sowie Keller- und Dachdämmung; eine Außendämmung der Straßenfassade, etwa mit Wärmedämmputz, kommt nur in Ausnahmefällen in Betracht."
     },
     {
       "h2": "Orientierung: Stadtbildanalyse und Gestaltungsbeirat",
@@ -68,7 +68,7 @@
   "faq": [
     {
       "q": "Darf ich meine Fassade in der Göppinger Innenstadt in jeder Farbe streichen?",
-      "a": "Im Geltungsbereich der Gestaltungssatzung nicht: Verlangt wird ein gedeckter, einheitlicher Grundton, glänzende Anstriche sind unzulässig. Auskunft gibt der Fachbereich Stadtentwicklung."
+      "a": "Im Geltungsbereich der Gestaltungssatzung nicht: Sie sieht einen gedeckten, einheitlichen Grundton vor, glänzende Anstriche schließt sie aus. Auskunft gibt der Fachbereich Stadtentwicklung."
     },
     {
       "q": "Welche Farbe sollen Fenster im historischen Stadtkern von Göppingen haben?",
@@ -82,6 +82,7 @@
   "offen": [
     "„Pfarrstraße“ im Einstieg: liegt laut § 1 der Satzung an der Nordgrenze des Geltungsbereichs (südliche Straßenseite einbezogen).",
     "Für Fliesen und Böden wurde keine eigene ortsbezogene amtliche Quelle verwendet (Wasserhärte steht bereits auf der Badsanierungsseite Göppingen).",
-    "Satzungsstand 2016; ob es spätere Änderungen gibt, wurde nicht geprüft."
+    "Satzungsstand 2016; ob es spätere Änderungen gibt, wurde nicht geprüft.",
+    "QA 02.10.: Satzungspflichten als Wiedergabe gefasst („verlangt“, „sind zu bewahren“); Fachaussage ohne Quelle zur Innendämmung (Putz/Fliesen/Bodenaufbau) gestrichen (Punkt 13)."
   ]
 }

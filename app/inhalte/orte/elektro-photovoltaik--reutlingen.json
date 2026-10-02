@@ -6,19 +6,19 @@
   "title": "Elektriker Reutlingen – Fachbetrieb kostenlos vermittelt",
   "description": "Elektriker in Reutlingen: PV-Anlage, Wallbox und Speicher beim Netzbetreiber anmelden, § 14a EnWG, Balkonkraftwerk, Beratung im Kreis. Kostenlos vermittelt.",
   "h1": "Elektriker in Reutlingen",
-  "einstieg": "Wer in Reutlingen einen Elektriker sucht, hat oft ein Vorhaben, das weit über eine neue Steckdose hinausgeht: Photovoltaik auf dem Dach in Betzingen oder Sondelfingen, eine Wallbox in der Garage, ein Batteriespeicher oder ein Zählerschrank, der für die geplante Wärmepumpe nicht mehr reicht. Fast all das wird beim örtlichen Stromnetzbetreiber angemeldet.",
+  "einstieg": "Wer in Reutlingen einen Elektriker sucht, plant oft mehr als eine neue Steckdose: Photovoltaik auf dem Dach in Betzingen oder Sondelfingen, eine Wallbox in der Garage, ein Batteriespeicher oder ein Zählerschrank, der für die geplante Wärmepumpe nicht mehr reicht. Fast all das wird beim örtlichen Stromnetzbetreiber angemeldet.",
   "abschnitte": [
     {
       "h2": "Elektriker in Reutlingen: vom PV-Antrag bis zum neuen Zähler",
-      "text": "Das Stromnetz in Reutlingen betreibt die FairNetz. Eine Erzeugungsanlage wird dort über das Installateurs- oder Netzanschlussportal angemeldet. Danach prüft der Netzbetreiber, ob der Hausanschluss die gewünschte Einspeiseleistung aufnehmen kann; erst dann folgt die Einspeisezusage, die in der Regel sechs Monate gilt. Sind Module und Wechselrichter montiert und ist der Zählerplatz vorbereitet, meldet das Vertragsinstallationsunternehmen die Fertigstellung. Die Registrierung im Marktstammdatenregister bleibt Aufgabe des Anlagenbetreibers und ist laut FairNetz Voraussetzung für die Auszahlung der Einspeisevergütung. Baurechtlich sieht das Land für Solaranlagen an und auf Gebäuden nach Darstellung der Stadt grundsätzlich keine Genehmigungspflicht vor; bei Kulturdenkmalen ist die Denkmalschutzbehörde einzubeziehen."
+      "text": "Das Stromnetz in Reutlingen betreibt die FairNetz. Eine Erzeugungsanlage wird dort über das Installateurs- oder Netzanschlussportal angemeldet. Danach prüft der Netzbetreiber, ob der Hausanschluss die gewünschte Einspeiseleistung aufnehmen kann; erst dann folgt die Einspeisezusage, die in der Regel sechs Monate gilt. Die Fertigstellung meldet das Vertragsinstallationsunternehmen. Die Registrierung im Marktstammdatenregister bleibt Aufgabe des Anlagenbetreibers und ist laut FairNetz Voraussetzung für die Auszahlung der Einspeisevergütung. Baurechtlich sieht das Land für Solaranlagen an und auf Gebäuden nach Darstellung der Stadt grundsätzlich keine Genehmigungspflicht vor; ausgenommen sind denkmalgeschützte Gebäude."
     },
     {
       "h2": "Wallbox, Wärmepumpe und Speicher im Reutlinger Netz",
-      "text": "Eine Ladeeinrichtung ist bei der FairNetz grundsätzlich anmeldepflichtig. Liegt die Summenbemessungsleistung über 12 kVA, etwa bei zwei Wallboxen mit je 11 kW, braucht sie zusätzlich eine Genehmigung. Wallboxen, Wärmepumpen und Batteriespeicher mit mehr als 4,2 kW gelten als steuerbare Verbrauchseinrichtungen nach § 14a EnWG. Bei hoher Netzauslastung darf ihre Leistung vorübergehend begrenzt werden, eine Mindestleistung bleibt jedoch erhalten. Im Gegenzug sinken die Netzentgelte, wahlweise pauschal oder als prozentualer Abschlag auf den Arbeitspreis. Bei Balkonkraftwerken verweist der Netzbetreiber auf die VDE-Empfehlung, oberhalb von 960 Wp Modulleistung eine Elektrofachkraft hinzuzuziehen und eine Energiesteckdose zu installieren."
+      "text": "Eine Ladeeinrichtung ist bei der FairNetz grundsätzlich anmeldepflichtig. Liegt die Summenbemessungsleistung über 12 kVA, etwa bei zwei Wallboxen mit je 11 kW, braucht sie zusätzlich eine Genehmigung. Wallboxen, Wärmepumpen und Batteriespeicher mit mehr als 4,2 kW gelten als steuerbare Verbrauchseinrichtungen nach § 14a EnWG. Bei hoher Netzauslastung darf der Netzbetreiber ihre Leistung vorübergehend begrenzen, im Gegenzug gelten laut FairNetz reduzierte Netzentgelte. Bei Balkonkraftwerken verweist der Netzbetreiber auf die VDE-Empfehlung, oberhalb von 960 Wp Modulleistung eine Elektrofachkraft hinzuzuziehen und eine Energiesteckdose zu installieren."
     },
     {
       "h2": "Klimaziel 2040 und neutrale Beratung im Landkreis",
-      "text": "Die Stadt Reutlingen strebt Klimaneutralität bis spätestens 2040 an. Mit ihrem Energienutzungsplan hat sie die Vorgaben des Landes zur kommunalen Wärmeplanung umgesetzt und ihn um den Energiesektor ergänzt. Für Fragen vor der Auftragsvergabe bietet die KlimaschutzAgentur des Landkreises wöchentliche telefonische Energieberatungen an, die kostenfrei sind und etwa 45 Minuten dauern; Photovoltaik gehört zu ihren Themen. Wenn Sie Ihr Vorhaben über unser Formular schildern, wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Die Stadt Reutlingen strebt Klimaneutralität bis spätestens 2040 an. Mit ihrem Energienutzungsplan hat sie die Vorgaben des Landes zur kommunalen Wärmeplanung umgesetzt. Für Fragen vor der Auftragsvergabe bietet die KlimaschutzAgentur des Landkreises kostenfreie telefonische Energieberatungen an, unter anderem zur Photovoltaik. Wenn Sie Ihr Vorhaben über unser Formular schildern, wählen wir für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -41,7 +41,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Steuerbare Verbrauchseinrichtungen über 4,2 kW wie private Wallboxen, Wärmepumpen und Batteriespeicher darf der Netzbetreiber bei hoher Netzauslastung vorübergehend begrenzen; die Betreiber erhalten reduzierte Netzentgelte nach Modul 1, 2 oder 3.",
+      "text": "Steuerbare Verbrauchseinrichtungen über 4,2 kW wie private Wallboxen, Wärmepumpen und Batteriespeicher darf der Netzbetreiber bei hoher Netzauslastung vorübergehend auf bis zu 4,2 kW begrenzen; eine Mindestleistung bleibt erhalten, die Betreiber erhalten reduzierte Netzentgelte.",
       "quelle": "FairNetz Reutlingen – Neuregelung nach § 14a EnWG",
       "url": "https://www.fairnetzgmbh.de/de/privatkunden/netzanschluss/neuregelung-nach-14a-enwg",
       "abruf": "2026-10-02"
@@ -65,7 +65,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Die KlimaschutzAgentur Landkreis Reutlingen bietet wöchentliche, kostenfreie telefonische Beratungsgespräche von 45 Minuten an, unter anderem zu Photovoltaik.",
+      "text": "Die KlimaschutzAgentur Landkreis Reutlingen bietet regelmäßig kostenfreie telefonische Beratungsgespräche von 45 Minuten an, unter anderem zu Photovoltaik.",
       "quelle": "KlimaschutzAgentur Landkreis Reutlingen – Kostenlose Energieberatung",
       "url": "https://www.klimaschutzagentur-reutlingen.de/kostenloseenergieberatung",
       "abruf": "2026-10-02"
@@ -82,13 +82,15 @@
     },
     {
       "q": "Wo bekomme ich im Landkreis Reutlingen eine neutrale Beratung zu Photovoltaik?",
-      "a": "Die KlimaschutzAgentur Landkreis Reutlingen bietet wöchentlich kostenfreie telefonische Beratungsgespräche an; ein Termin wird vorab vereinbart."
+      "a": "Die KlimaschutzAgentur Landkreis Reutlingen bietet kostenfreie telefonische Beratungsgespräche nach Terminvereinbarung an."
     }
   ],
   "offen": [
     "FairNetz GmbH ist Tochter der FairEnergie (Stadtwerke Reutlingen); im Text als Netzbetreiber genannt wie im Ravensburger Muster.",
     "Netzgebiet der FairNetz für alle Reutlinger Bezirksgemeinden nicht separat geprüft; die Stadt nennt für Reutlingen die FairEnergie als Netzbetreiber.",
     "Stadtteile im Einstieg (Betzingen, Sondelfingen) nur als Beispiele, nicht durch Fakten belegt.",
-    "Batteriespeicher-Landesförderung (laut Stadtseite erschöpft) bewusst nicht erwähnt."
+    "Batteriespeicher-Landesförderung (laut Stadtseite erschöpft) bewusst nicht erwähnt.",
+    "QA 02.10.: 12 kVA, 4,2 kW, 960 Wp, 2.000 Wp, 6 Monate auf den FairNetz-Seiten wörtlich nachgeprüft; „Modul 1, 2 oder 3“ nicht vollständig prüfbar → aus Fakt entfernt.",
+    "QA 02.10.: Anweisung „Denkmalschutzbehörde einzubeziehen“ → Wiedergabe „ausgenommen denkmalgeschützte Gebäude“; Rhythmus „wöchentlich“ (Sprechzeit-Angabe) entfernt; Wörter auf ≤ 600 gekürzt (Doppelungen zu Fakten)."
   ]
 }

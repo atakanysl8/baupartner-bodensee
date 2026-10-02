@@ -4,17 +4,17 @@
   "ortName": "Stuttgart",
   "kreis": "Stuttgart",
   "title": "Elektriker Stuttgart – Fachbetrieb kostenlos vermittelt",
-  "description": "Elektriker in Stuttgart: Zählerschrank, Wallbox an der Garagenzeile, Photovoltaik mit Solaroffensive und SolarScouts. Fachbetrieb kostenlos vermittelt.",
+  "description": "Elektriker in Stuttgart: Zählerschrank, Wallbox an der Garagenzeile, Photovoltaik-Pflicht und neutrale Beratung durch SolarScouts. Kostenlos vermittelt.",
   "h1": "Elektriker in Stuttgart",
-  "einstieg": "Wer in Stuttgart einen Elektriker sucht, hat oft mehr vor als eine neue Steckdose: Im Altbau am Hang ist der Zählerschrank zu klein für Wärmepumpe und Wallbox, auf dem Dach soll eine Photovoltaikanlage entstehen, und die Garage steht in einer Zeile an der Grundstücksgrenze. Für all das spielen der Stromnetzbetreiber, die städtische Solaroffensive und die Beratungsangebote der Landeshauptstadt eine Rolle.",
+  "einstieg": "Wer in Stuttgart einen Elektriker sucht, hat oft mehr vor als eine neue Steckdose: Im Altbau am Hang ist der Zählerschrank zu klein für Wärmepumpe und Wallbox, auf dem Dach soll eine Photovoltaikanlage entstehen, und die Garage steht in einer Zeile an der Grundstücksgrenze. Für all das spielen der Stromnetzbetreiber, Regeln der Stadt und die Beratungsangebote der Landeshauptstadt eine Rolle.",
   "abschnitte": [
     {
       "h2": "Elektriker in Stuttgart: Zählerplatz, Hausanschluss und Stromnetz",
-      "text": "Für das Stromnetz in Stuttgart verweist das Baurechtsamt für Anschlussfragen auf die Stuttgart Netze Betrieb GmbH; Gas-, Wasser- und Fernwärmenetz liegen dagegen bei einer anderen Netzgesellschaft. Für Ihr Vorhaben heißt das in der Regel: Wer eine größere Anlage plant, etwa Wallbox, Speicher oder Photovoltaik, braucht neben dem Elektriker frühzeitig die Abstimmung mit dem Netzbetreiber, häufig über den ausführenden Betrieb. Ein Sonderfall sind die vielen freistehenden Garagenzeilen: Laut Stadt darf ein Netzanschluss meist nicht innerhalb der Garage liegen, und an der Grundstücksgrenze fehlt oft Platz. Deshalb lässt die Stadt für neue Hausanschlüsse von Ladeinfrastruktur angrenzende städtische Flächen nutzen, wenn es auf privatem Grund nicht geht."
+      "text": "Für das Stromnetz in Stuttgart verweist das Baurechtsamt für Anschlussfragen auf die Stuttgart Netze Betrieb GmbH; Gas-, Wasser- und Fernwärmenetz liegen dagegen bei einer anderen Netzgesellschaft. Anmeldungen beim Netzbetreiber, etwa für Photovoltaik, übernimmt laut Energieberatungszentrum häufig der Installateur. Ein Sonderfall sind die vielen freistehenden Garagenzeilen: Laut Stadt darf ein Netzanschluss meist nicht innerhalb der Garage liegen, und an der Grundstücksgrenze fehlt oft Platz. Deshalb lässt die Stadt für neue Hausanschlüsse von Ladeinfrastruktur als letzte Option angrenzende städtische Flächen nutzen, wenn es auf privatem Grund nicht geht."
     },
     {
-      "h2": "Photovoltaik auf Stuttgarter Dächern: Pflicht, Förderung, Beratung",
-      "text": "Die Photovoltaikpflicht ist in § 23 des Klimaschutz- und Klimawandelanpassungsgesetzes Baden-Württemberg geregelt; das Baurechtsamt nennt dafür den Neubau von Wohn- und Nichtwohngebäuden und die grundlegende Dachsanierung. Für den freiwilligen Teil einer Anlage gibt es die städtische Solaroffensive, die ausdrücklich auch Elektroarbeiten berücksichtigt, etwa die Ertüchtigung der Installation und den Zählerplatz für das nötige Messkonzept. Vor dem Auftrag lohnt sich eine neutrale Einschätzung: Die ehrenamtlichen SolarScouts beraten anbieterneutral in allen Stadtbezirken, und das Energieberatungszentrum prüft auf Wunsch die Wirtschaftlichkeit eines vorliegenden Angebots. Wenn Ihr Vorhaben feststeht, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "h2": "Photovoltaik auf Stuttgarter Dächern: Pflicht und Beratung",
+      "text": "Die Photovoltaikpflicht ist in § 23 des Klimaschutz- und Klimawandelanpassungsgesetzes Baden-Württemberg geregelt; das Baurechtsamt nennt dafür den Neubau von Wohn- und Nichtwohngebäuden und die grundlegende Dachsanierung. Die mögliche Photovoltaikleistung einzelner Dachflächen zeigt das Solardachkataster im Energieatlas Baden-Württemberg. Die ehrenamtlichen SolarScouts informieren anbieterneutral in allen Stadtbezirken, und das Energieberatungszentrum prüft auf Wunsch die Wirtschaftlichkeit eines vorliegenden Angebots. Wenn Ihr Vorhaben feststeht, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -28,12 +28,6 @@
       "text": "Ist ein neuer Hausanschluss für Ladepunkte an privaten Stellplätzen nicht auf privater Fläche möglich, ermöglicht die Stadt Stuttgart die Nutzung angrenzender städtischer Flächen; Voraussetzung ist unter anderem eine Anschlussanfrage beim Netzbetreiber Stuttgart Netze.",
       "quelle": "Landeshauptstadt Stuttgart – Privates Laden",
       "url": "https://www.stuttgart.de/leben/umwelt/energie/foerderprogramme/privates-laden",
-      "abruf": "2026-10-02"
-    },
-    {
-      "text": "Zu den Positionen der Stuttgarter Solaroffensive gehören unter anderem die Ertüchtigung der elektrischen Installation, die Einrichtung des Zählerplatzes für das Messkonzept, Blitzschutz und Funkrundsteuerempfänger; der Antrag ist vor der Beauftragung zu stellen.",
-      "quelle": "Landeshauptstadt Stuttgart – Solaroffensive",
-      "url": "https://www.stuttgart.de/leben/umwelt/energie/foerderprogramme/solaroffensive",
       "abruf": "2026-10-02"
     },
     {
@@ -78,6 +72,7 @@
   "offen": [
     "Stuttgart Netze Betrieb GmbH und Netze BW GmbH nur im Fakt als Netzbetreiber genannt (Wiedergabe der städtischen FAQ); Website von Stuttgart Netze blockt Abrufe (403), daher keine eigene Seite des Netzbetreibers verlinkt.",
     "Fördermittel der Solaroffensive laut Stadt für 2026 ausgeschöpft (Anträge weiter möglich, Auszahlung ab 2027) – bewusst nicht im Text, da datierte Momentangabe.",
-    "Förderrichtlinie „Privates Laden“ ist zum 31.12.2025 ausgelaufen; nur die weiterhin bestehende Flächennutzung für Hausanschlüsse wiedergegeben."
+    "Förderrichtlinie „Privates Laden“ ist zum 31.12.2025 ausgelaufen; nur die weiterhin bestehende Flächennutzung für Hausanschlüsse wiedergegeben.",
+    "QA 02.10.: Solaroffensive aus Einstieg, Abschnitt, Fakt und Description entfernt – Mittel laut Stadtseite (02.10.) für 2026 ausgeschöpft (Punkt 2). Ersetzt durch Verweis auf Solardachkataster (vorhandener Fakt). Satz „braucht … frühzeitig die Abstimmung mit dem Netzbetreiber“ (eigene Ableitung) durch Wiedergabe des Energieberatungszentrums ersetzt; Garagenzeilen-Fläche „als letzte Option“ nach Wortlaut Stadt."
   ]
 }

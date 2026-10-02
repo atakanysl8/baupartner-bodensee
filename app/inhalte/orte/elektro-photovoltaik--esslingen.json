@@ -18,7 +18,7 @@
     },
     {
       "h2": "Module auf Kulturdenkmalen",
-      "text": "Für Dächer in der historischen Innenstadt ist der Denkmalschutz der Stadt zuständig. Ein eingetragenes Kulturdenkmal darf nach Angaben der städtischen Denkmalschutzbehörde nur mit Genehmigung mit An- oder Aufbauten versehen oder in seinem Erscheinungsbild verändert werden; ob ein Haus betroffen ist, beantwortet die Behörde auf Anfrage. Ist der Rahmen geklärt, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Veränderungen am geschützten Bild der Gesamtanlage „Esslingen am Neckar“ bedürfen laut Stadt der Genehmigung durch die städtische Denkmalschutzbehörde; den Rahmen bildet die Satzung über die Gesamtanlage. Ein eingetragenes Kulturdenkmal darf nach Angaben der städtischen Denkmalschutzbehörde nur mit Genehmigung mit An- oder Aufbauten versehen oder in seinem Erscheinungsbild verändert werden; ob ein Haus betroffen ist, beantwortet die Behörde auf Anfrage. Ist der Rahmen geklärt, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -53,7 +53,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Ein eingetragenes Kulturdenkmal darf nur mit Genehmigung der Denkmalschutzbehörde der Stadt Esslingen in seinem Erscheinungsbild verändert oder mit An- oder Aufbauten versehen werden.",
+      "text": "Ein eingetragenes Kulturdenkmal darf nur mit Genehmigung der Denkmalschutzbehörde der Stadt Esslingen in seinem Erscheinungsbild verändert oder mit An- oder Aufbauten versehen werden; Veränderungen am geschützten Bild der Gesamtanlage „Esslingen am Neckar“ bedürfen ebenfalls ihrer Genehmigung.",
       "quelle": "Stadt Esslingen am Neckar – Denkmalschutz",
       "url": "https://www.esslingen.de/wohnen-und-bauen/denkmalschutz",
       "abruf": "2026-10-02"
@@ -72,7 +72,7 @@
     },
     {
       "q": "Brauche ich für eine PV-Anlage auf einem Esslinger Kulturdenkmal eine Genehmigung?",
-      "a": "Nach Angaben der Stadt dürfen eingetragene Kulturdenkmale nur mit Genehmigung der Denkmalschutzbehörde mit Aufbauten versehen werden. Ob Ihr Haus betroffen ist, sagt Ihnen die städtische Denkmalschutzbehörde."
+      "a": "Nach Angaben der Stadt dürfen eingetragene Kulturdenkmale nur mit Genehmigung der Denkmalschutzbehörde mit Aufbauten versehen werden. Ob ein Haus betroffen ist, beantwortet die städtische Denkmalschutzbehörde."
     },
     {
       "q": "Verpflichtet mich die Esslinger Wärmeplanung zu einer Wärmepumpe?",
@@ -82,6 +82,7 @@
   "offen": [
     "Der örtliche Stromverteilnetzbetreiber für Esslingen konnte nicht amtlich belegt werden: Die Netze-Seite der Stadtwerke Esslingen nennt nur Erdgas, Wasser und Wärme; netze-bw.de war nicht abrufbar. Deshalb keine Aussage zur PV-/Wallbox-Anmeldung beim Netzbetreiber.",
     "Satz „stammen Verteilung und Leitungen häufig aus einer Zeit ohne Durchlauferhitzer …“ ist eine allgemeine fachliche Einordnung, kein Quellenbeleg.",
-    "Beratung zu Hause kostet laut KSA maximal 40 Euro – Betrag bewusst nicht übernommen."
+    "Beratung zu Hause kostet laut KSA maximal 40 Euro – Betrag bewusst nicht übernommen.",
+    "QA 02.10.: Zuständigkeitssatz „Für Dächer in der historischen Innenstadt ist der Denkmalschutz der Stadt zuständig“ (abgeleitet) durch Wortlaut der Stadtseite zur Gesamtanlage ersetzt, Fakt ergänzt (Punkt 4)."
   ]
 }

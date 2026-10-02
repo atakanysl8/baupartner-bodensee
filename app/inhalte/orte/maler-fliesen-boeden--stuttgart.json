@@ -4,17 +4,17 @@
   "ortName": "Stuttgart",
   "kreis": "Stuttgart",
   "title": "Maler & Fliesenleger Stuttgart – kostenlos vermittelt",
-  "description": "Maler und Fliesenleger in Stuttgart: Gerüst auf dem Gehweg, Fassaden an Kulturdenkmalen, alte Bodenbeläge entsorgen. Fachbetrieb kostenlos vermittelt.",
+  "description": "Maler und Fliesenleger in Stuttgart: Gerüst auf dem Gehweg, Farbe und Putz am Kulturdenkmal, alte Bodenbeläge entsorgen. Fachbetrieb kostenlos vermittelt.",
   "h1": "Maler und Fliesenleger in Stuttgart",
   "einstieg": "Ein neuer Anstrich für die Gründerzeitfassade im Westen, frische Fliesen im Bad einer Halbhöhenwohnung oder ein neuer Boden im Reihenhaus in Feuerbach: Maler und Fliesenleger in Stuttgart arbeiten oft in dichter Bebauung, an Häusern mit Geschichte und mit wenig Platz vor der Tür. Was davon genehmigt, abgestimmt oder entsorgt werden muss, regeln mehrere städtische Stellen.",
   "abschnitte": [
     {
       "h2": "Fassade streichen in Stuttgart: Wenn das Gerüst auf dem Gehweg steht",
-      "text": "In vielen Stuttgarter Straßen stehen die Häuser direkt am Gehweg. Steht das Gerüst für den Fassadenanstrich auf einer öffentlichen Verkehrsfläche, braucht es nach Angaben der Stadt eine Sondergenehmigung; je nach Lage ist das eine verkehrsrechtliche Anordnung, eine Ausnahmegenehmigung oder eine Sondernutzungserlaubnis. Erteilt wird sie vom Amt für öffentliche Ordnung, beteiligt sind Polizei und Tiefbauamt. Dasselbe gilt für Schuttmulden, Container und Hebebühnen im Straßenraum. Weil die Stadt dafür einen Vorlauf von mindestens zwei Wochen nennt, gehört die Gerüstfrage in der Regel an den Anfang der Planung, nicht ans Ende. Oft kümmert sich der beauftragte Maler- oder Gerüstbetrieb um den Antrag."
+      "text": "In vielen Stuttgarter Straßen stehen die Häuser direkt am Gehweg. Steht das Gerüst für den Fassadenanstrich auf einer öffentlichen Verkehrsfläche, braucht es nach Angaben der Stadt eine Sondergenehmigung; je nach Lage ist das eine verkehrsrechtliche Anordnung, eine Ausnahmegenehmigung oder eine Sondernutzungserlaubnis. Erteilt wird sie vom Amt für öffentliche Ordnung, beteiligt sind Polizei und Tiefbauamt. Dasselbe gilt für Schuttmulden, Container und Hebebühnen im Straßenraum. Weil die Stadt dafür einen Vorlauf von mindestens zwei Wochen nennt, gehört die Gerüstfrage in der Regel an den Anfang der Planung, nicht ans Ende."
     },
     {
-      "h2": "Fachwerk und Gesamtanlagen: Farbe am Kulturdenkmal abstimmen",
-      "text": "Wer ein Kulturdenkmal besitzt, kann Farbe und Putz nicht frei wählen. Maßnahmen, die die Substanz oder das Erscheinungsbild beeinträchtigen können, brauchen nach Angaben der Stadt eine denkmalrechtliche Genehmigung, auch wenn keine Baugenehmigung nötig ist; begonnen werden darf erst danach. Für Gebäude in städtebaulichen Gesamtanlagen und für Kulturdenkmale gibt es zudem eine städtische Richtlinie über Zuschüsse zu denkmal- oder stadtbildpflegebedingten Mehraufwendungen. Genannt werden dort etwa das Freilegen von Fachwerk, die Restaurierung von Zierrat und die restauratorische Untersuchung."
+      "h2": "Fachwerk und Kulturdenkmal: Farbe und Putz abstimmen",
+      "text": "Wer ein Kulturdenkmal besitzt, kann Farbe und Putz nicht frei wählen. Maßnahmen, die die Substanz oder das Erscheinungsbild beeinträchtigen können, brauchen nach Angaben der Stadt eine denkmalrechtliche Genehmigung, auch wenn keine Baugenehmigung nötig ist; laut Stadt beginnt die Maßnahme erst, wenn die Genehmigung vorliegt. Ist ohnehin ein Bauantrag nötig, beteiligt das Baurechtsamt die Denkmalschutzbehörde im Genehmigungsverfahren; in allen übrigen Fällen nimmt das Amt für Stadtplanung und Wohnen, Sachgebiet untere Denkmalschutzbehörde, den Antrag entgegen. Der Schutz gilt laut Stadt auch bei baulichen Maßnahmen in der Umgebung eines Denkmals."
     },
     {
       "h2": "Fliesenleger und Bodenleger: alte Beläge richtig entsorgen",
@@ -35,21 +35,21 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Maßnahmen an einem Kulturdenkmal, die in die Substanz eingreifen oder das Erscheinungsbild beeinträchtigen können, muss die Denkmalschutzbehörde genehmigen, unabhängig von einer Baugenehmigung; ohne Bauantrag ist der Antrag beim Amt für Stadtplanung und Wohnen zu stellen.",
+      "text": "Maßnahmen an einem Kulturdenkmal, die in die Substanz eingreifen oder das Erscheinungsbild beeinträchtigen können, muss laut Stadt Stuttgart die Denkmalschutzbehörde genehmigen, unabhängig von einer Baugenehmigung; ohne Bauantrag ist das Amt für Stadtplanung und Wohnen, Sachgebiet untere Denkmalschutzbehörde, zuständig.",
       "quelle": "Landeshauptstadt Stuttgart – Denkmalrechtliche Genehmigung beantragen",
       "url": "https://www.stuttgart.de/organigramm/leistungen/denkmalschutz-denkmalrechtliche-genehmigung-beantragen",
       "abruf": "2026-10-02"
     },
     {
-      "text": "Die städtische Richtlinie über Zuschüsse zu denkmal- oder stadtbildpflegebedingten Mehraufwendungen nennt als zuschussfähig unter anderem das Freilegen von Fachwerk, die Restaurierung von Architekturteilen und Zierrat sowie die Kosten einer restauratorischen Untersuchung.",
-      "quelle": "Stadtrecht Stuttgart 6/13 – Richtlinien über Zuschüsse zu denkmal- oder stadtbildpflegebedingten Mehraufwendungen",
-      "url": "https://www.stuttgart.de/medien/ibs/6-13.pdf",
+      "text": "Bei bauordnungsrechtlich genehmigungsbedürftigen Maßnahmen wird in Stuttgart nur der Bauantrag beim Baurechtsamt gestellt; die Baurechtsbehörde beteiligt die Denkmalschutzbehörde im Genehmigungsverfahren.",
+      "quelle": "Landeshauptstadt Stuttgart – Denkmalrechtliche Genehmigung beantragen",
+      "url": "https://www.stuttgart.de/organigramm/leistungen/denkmalschutz-denkmalrechtliche-genehmigung-beantragen",
       "abruf": "2026-10-02"
     },
     {
-      "text": "Nach derselben Richtlinie muss das Stadtplanungsamt (Abteilung Stadtgestaltung und untere Denkmalschutzbehörde) dem Vorhaben vor Beginn der Ausführung zugestimmt haben.",
-      "quelle": "Stadtrecht Stuttgart 6/13 – Richtlinien über Zuschüsse zu denkmal- oder stadtbildpflegebedingten Mehraufwendungen",
-      "url": "https://www.stuttgart.de/medien/ibs/6-13.pdf",
+      "text": "Der besondere Schutz der Stuttgarter Kulturdenkmale gilt laut Stadt auch bei baulichen Maßnahmen in der Umgebung eines Denkmals.",
+      "quelle": "Landeshauptstadt Stuttgart – Denkmalrechtliche Genehmigung beantragen",
+      "url": "https://www.stuttgart.de/organigramm/leistungen/denkmalschutz-denkmalrechtliche-genehmigung-beantragen",
       "abruf": "2026-10-02"
     },
     {
@@ -76,6 +76,7 @@
   "offen": [
     "Richtlinie 6/13 stammt von 1990 (Stand Stadtrecht Erg.-Lfg. 2000); Zuschusshöhen bewusst weggelassen. Ob die Richtlinie aktuell noch angewendet wird, nicht separat bestätigt.",
     "Einstieg nennt Stuttgart-West, Halbhöhe und Feuerbach nur als Beispiele, nicht durch Fakten belegt.",
-    "Asbest in alten Bodenbelägen nur als Möglichkeit formuliert („falls … anfällt“), keine Aussage zur Häufigkeit."
+    "Asbest in alten Bodenbelägen nur als Möglichkeit formuliert („falls … anfällt“), keine Aussage zur Häufigkeit.",
+    "QA 02.10.: Zuschussrichtlinie 6/13 (1990, Anwendung unbestätigt) aus Text und Fakten gestrichen (bekannte Stelle, Punkte 2/5). Ersetzt durch Verfahren (Bauantrag/Beteiligung Denkmalschutzbehörde) und Umgebungsschutz von der Stadtseite „Denkmalrechtliche Genehmigung beantragen“ (02.10. gelesen). „begonnen werden darf erst danach“ als Wiedergabe; unbelegter Satz „Oft kümmert sich der Maler- oder Gerüstbetrieb um den Antrag“ entfernt. Asbest nur als Entsorgungsweg laut Abfall-ABC."
   ]
 }

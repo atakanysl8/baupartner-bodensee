@@ -18,7 +18,7 @@
     },
     {
       "h2": "Mehr Strom für Wärmepumpe und E-Auto: Bruchsals Energiepläne",
-      "text": "Laut Masterplan Erneuerbare Energien braucht Bruchsal heute rund 1.200 Gigawattstunden Energie im Jahr für Strom, Wärme und Verkehr. Bis 2040 soll der Gesamtbedarf sinken, doch der Stromanteil steigt deutlich, weil Elektroautos und Wärmepumpen hinzukommen. Solaranlagen sieht die Stadt dabei auf Dächern und im Offenland. Seit 2023 gilt außerdem ein Konzept Klimaschutz in der Bauleitplanung mit über 30 Empfehlungen für künftige Bebauungspläne. Wenn Sie Ihr Vorhaben über unser Formular schildern, wählen wir für Ihre Anfrage einen passenden Elektrofachbetrieb aus."
+      "text": "Für ihren Masterplan Erneuerbare Energien beziffert die Stadt den jährlichen Energiebedarf Bruchsals für Strom, Wärme und Verkehr auf rund 1.200 Gigawattstunden. Bis 2040 soll der Gesamtbedarf sinken, doch der Stromanteil steigt deutlich, weil Elektroautos und Wärmepumpen hinzukommen. Solaranlagen sieht die Stadt dabei auf Dächern und im Offenland. Seit 2023 gilt außerdem ein Konzept Klimaschutz in der Bauleitplanung mit über 30 Empfehlungen für künftige Bebauungspläne. Wenn Sie Ihr Vorhaben über unser Formular schildern, wählen wir für Ihre Anfrage einen passenden Elektrofachbetrieb aus."
     }
   ],
   "fakten": [
@@ -77,6 +77,7 @@
     "Stadtteilnennungen im Einstieg (Südstadt, Heidelsheim, Untergrombach) sind Beispiele ohne eigene Fakt-Quelle.",
     "Ob in Büchenau ein anderer Netzbetreiber zuständig ist (beim Wasser ist es die Wasserversorgung Mittelhardt), wurde für Strom nicht geprüft.",
     "Stadtwerke Bruchsal bieten selbst Wallbox-Pakete und Balkonsolar-Gutscheine an; bewusst nicht erwähnt.",
-    "Vorlaufzeiten (ca. 3 Monate, Angebot binnen 6 Wochen) der Netzanschlussseite bewusst nicht übernommen."
+    "Vorlaufzeiten (ca. 3 Monate, Angebot binnen 6 Wochen) der Netzanschlussseite bewusst nicht übernommen.",
+    "QA 02.10.: „heute“ beim Energiebedarf gestrichen; Stadtseite nennt kein Bezugsjahr und bezeichnet den Masterplan als in Erarbeitung → als Angabe der Stadt formuliert."
   ]
 }

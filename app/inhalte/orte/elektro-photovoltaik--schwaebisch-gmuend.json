@@ -68,7 +68,7 @@
     },
     {
       "q": "Brauche ich für eine Wallbox in Schwäbisch Gmünd eine Zustimmung?",
-      "a": "Ja, der Netzbetreiber der Stadtwerke Gmünd erteilt eine schriftliche Zustimmung. Sie gilt drei Monate; geht die Ladeeinheit in dieser Zeit nicht in Betrieb, ist eine neue Anmeldung nötig."
+      "a": "Laut Netzbetreiber der Stadtwerke Gmünd ist für Ladeeinrichtungen eine schriftliche Zustimmung vorgesehen. Sie gilt drei Monate; geht die Ladeeinheit in dieser Zeit nicht in Betrieb, sehen die Stadtwerke eine erneute Anmeldung vor."
     },
     {
       "q": "Darf ich in der Gmünder Altstadt eine Solaranlage aufs Dach setzen?",
@@ -78,6 +78,7 @@
   "offen": [
     "Bearbeitungsdauer für Wallbox-Zustimmung (bis zu 6 Wochen laut Netzbetreiber) bewusst nicht übernommen (Momentangabe).",
     "Seite zu Plug-In-Anlagen trägt noch „bis 600W“ im Titel; Leistungsgrenze daher nicht genannt.",
-    "Stadtteilnennungen im Einstieg beispielhaft."
+    "Stadtteilnennungen im Einstieg beispielhaft.",
+    "QA 02.10.: Werte 4,6 kVA, 3-Monats-Gültigkeit, Messfeld, Planungsphase und Einspeisezusage auf den Stadtwerke-Seiten am 02.10. wörtlich bestätigt. Wallbox-FAQ als Wiedergabe der Stadtwerke statt „Ja, … nötig“ gefasst (Punkt 6)."
   ]
 }

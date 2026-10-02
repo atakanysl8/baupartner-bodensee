@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Elektriker Nürtingen: Netzanschluss bei den Stadtwerken",
-      "text": "Für Hausanschluss, Zählerplatz und Einspeisung ist in Nürtingen der städtische Netzbetreiber zuständig: Die Stadtwerke Nürtingen versorgen nach eigenen Angaben nahezu 24.000 Entnahmestellen und berücksichtigen E-Mobilität und Stromspeicher bereits in der Netzplanung. Auf ihrer Seite zum Netzanschluss stellen sie die Technischen Anschlussbedingungen für das Niederspannungsnetz (TAB 2023) und ergänzende Bedingungen für Erzeugungsanlagen bereit. Elektrofachbetriebe registrieren sich im Netzportal der Stadtwerke. Für Fragen zu Stromhausanschlüssen gibt es beim Technischen Büro Stromversorgung eigene Ansprechpartner. Wer einen Zählerschrank erneuert oder eine PV-Anlage plant, sollte diese Unterlagen früh mit dem ausführenden Betrieb abgleichen."
+      "text": "Für Hausanschluss, Zählerplatz und Einspeisung ist in Nürtingen der städtische Netzbetreiber zuständig: Die Stadtwerke Nürtingen versorgen nach eigenen Angaben nahezu 24.000 Entnahmestellen und berücksichtigen E-Mobilität und Stromspeicher bereits in der Netzplanung. Auf ihrer Seite zum Netzanschluss stellen sie die Technischen Anschlussbedingungen für das Niederspannungsnetz (TAB 2023) und ergänzende Bedingungen für Erzeugungsanlagen bereit. Elektrofachbetriebe registrieren sich im Netzportal der Stadtwerke. Für Fragen zu Stromhausanschlüssen gibt es beim Technischen Büro Stromversorgung eigene Ansprechpartner."
     },
     {
       "h2": "Solarkarte und BürgerSolarBerater: erst das Dach prüfen",
@@ -69,12 +69,13 @@
       "a": "Die städtische Solarkarte zeigt Einstrahlung, Eignung und mögliche PV-Leistung je Dachfläche. Eine persönliche Einschätzung geben die ehrenamtlichen BürgerSolarBerater."
     },
     {
-      "q": "Gibt es in Nürtingen eine neutrale Beratung vor Ort?",
+      "q": "Gibt es in Nürtingen eine neutrale Energieberatung?",
       "a": "Ja, die Klimaschutzagentur des Landkreises Esslingen berät nach Terminabsprache kostenfrei im Technischen Rathaus in der Marktstraße 1."
     }
   ],
   "offen": [
     "Städtisches Förderprogramm für Stecker-Solargeräte bewusst ohne Betrag nicht aufgenommen (Förderbetrag).",
-    "Hinweis der Stadt, die Anmeldung von Balkonkraftwerken beim Netzbetreiber entfalle ohne EEG-Vergütung, nicht übernommen (Rechtsfrage, Marktstammdatenregister nicht erwähnt)."
+    "Hinweis der Stadt, die Anmeldung von Balkonkraftwerken beim Netzbetreiber entfalle ohne EEG-Vergütung, nicht übernommen (Rechtsfrage, Marktstammdatenregister nicht erwähnt).",
+    "QA 02.10.: Handlungsempfehlung „sollte diese Unterlagen früh abgleichen“ entfernt; FAQ 3 ohne „vor Ort“. BürgerSolarBerater-Meldung (26.05.2025, geändert 08/2026) geprüft."
   ]
 }

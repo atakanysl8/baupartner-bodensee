@@ -4,17 +4,17 @@
   "ortName": "Mannheim",
   "kreis": "Mannheim",
   "title": "Maler & Fliesenleger Mannheim – kostenlos vermittelt",
-  "description": "Maler und Fliesenleger in Mannheim: Fassade am Denkmal, Altbeläge mit Asbestverdacht, Bauschutt zum Recyclinghof. Passenden Fachbetrieb kostenlos vermittelt.",
+  "description": "Maler und Fliesenleger in Mannheim: Fassade am Denkmal, Asbest-Regeln bei Altbelägen, Bauschutt zum Recyclinghof. Passenden Fachbetrieb kostenlos vermittelt.",
   "h1": "Maler und Fliesenleger in Mannheim",
   "einstieg": "Neuer Anstrich für die Gründerzeitfassade in der Neckarstadt, frische Fliesen im Bad der Nachkriegswohnung auf dem Lindenhof oder ein neuer Boden im Reihenhaus in Vogelstang: In Mannheim treffen Maler und Fliesenleger auf sehr unterschiedliche Baujahre. Was unter dem alten Belag steckt und ob die Fassade unter Schutz steht, sollte vor dem Angebot geklärt sein.",
   "abschnitte": [
     {
-      "h2": "Fassade streichen in Mannheim: Denkmal, Sanierungsgebiet, Gestaltungsbeirat",
-      "text": "Bei einem Kulturdenkmal sind in Mannheim nicht nur Eingriffe in die Substanz, sondern auch Veränderungen am Erscheinungsbild genehmigungspflichtig. Ob ein neuer Farbton, ein anderer Putz oder veränderte Fensterfaschen darunter fallen, beurteilt die untere Denkmalschutzbehörde im Fachbereich Baurecht, Bauverwaltung und Denkmalschutz. Im Sanierungsgebiet Neckarstadt-West II weist die Stadt darauf hin, dass Eigentümer Kosten für Modernisierung und Instandsetzung unter bestimmten Voraussetzungen steuerlich geltend machen können; Einzelheiten klären Stadt und Steuerberatung. Bei Bauvorhaben, die das Stadtbild prägen, berät seit 2010 zudem ein unabhängiger Gestaltungsbeirat aus fünf Architekten. Für die Fassadendämmung unter dem neuen Anstrich gibt es ein städtisches Programm zur energetischen Sanierung."
+      "h2": "Fassade streichen in Mannheim: Denkmal und Gestaltungsbeirat",
+      "text": "Bei einem Kulturdenkmal sind in Mannheim nicht nur Eingriffe in die Substanz, sondern auch Veränderungen am Erscheinungsbild genehmigungspflichtig. Ob ein neuer Farbton, ein anderer Putz oder veränderte Fensterfaschen darunter fallen, beurteilt die untere Denkmalschutzbehörde im Fachbereich Baurecht, Bauverwaltung und Denkmalschutz. Bei Bauvorhaben, die das Stadtbild prägen, berät seit 2010 zudem ein unabhängiger Gestaltungsbeirat aus fünf Architekten. Für die Fassadendämmung unter dem neuen Anstrich gibt es ein städtisches Programm zur energetischen Sanierung; über die jeweils geltenden Bedingungen informiert die Klimaschutzagentur Mannheim."
     },
     {
-      "h2": "Alte Fliesen und Böden: Asbest und Bauschutt richtig einordnen",
-      "text": "In Mannheimer Gebäuden aus der Zeit vor den 1990er-Jahren können Fliesenkleber, Spachtelmassen oder Bodenplatten asbesthaltig sein. Die Gewerbeaufsicht der Stadt weist darauf hin, dass Asbest heute nicht mehr als Baustoff verwendet werden darf und der Umgang nur noch bei Abbruch-, Sanierungs- und Instandhaltungsarbeiten zulässig ist, ausgeführt von Firmen mit Sachkundenachweis. Ob Altbeläge vor dem Abbruch untersucht werden sollten, ist deshalb eine sinnvolle Frage an den Fliesenleger. Für unbelasteten Fliesenschutt nimmt der Recyclinghof auf der Friesenheimer Insel mineralische Baureststoffe gegen Gebühr nach Verwiegung an. Schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "h2": "Alte Fliesen und Böden: Asbest und Bauschutt",
+      "text": "Bei älteren Belägen kann Asbest ein Thema sein. Die Gewerbeaufsicht der Stadt weist darauf hin, dass Asbest heute nicht mehr als Baustoff verwendet werden darf und der Umgang nur noch bei Abbruch-, Sanierungs- und Instandhaltungsarbeiten zulässig ist, ausgeführt von Firmen mit Sachkundenachweis. Für unbelasteten Fliesenschutt nimmt der Recyclinghof auf der Friesenheimer Insel mineralische Baureststoffe gegen Gebühr nach Verwiegung an. Schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -22,12 +22,6 @@
       "text": "Nach Angabe der Stadt Mannheim sind bei Kulturdenkmalen Eingriffe in die Bausubstanz ebenso wie Veränderungen am Erscheinungsbild baurechtlich bzw. denkmalrechtlich genehmigungspflichtig (§ 8 Abs. 1 Denkmalschutzgesetz).",
       "quelle": "Stadt Mannheim – Denkmalrechtliche Genehmigung",
       "url": "https://www.mannheim.de/de/service-bieten/bauen-und-wohnen/denkmalschutz/denkmalrechtliche-genehmigung",
-      "abruf": "2026-10-02"
-    },
-    {
-      "text": "Im Sanierungsgebiet Neckarstadt-West II besteht laut Stadt für Hauseigentümer die Möglichkeit, Kosten für Modernisierungs- und Instandsetzungsmaßnahmen nach §§ 7h, 10f, 11a EStG steuerlich geltend zu machen.",
-      "quelle": "Stadt Mannheim – Sanierungsgebiet Neckarstadt-West II",
-      "url": "https://www.mannheim.de/de/stadt-gestalten/staedtebauliche-sanierung-und-staedtebaufoerderung/aktuelle-sanierungsgebiete-und-einzelprojekte/sanierungsgebiet-neckarstadt-west-ii",
       "abruf": "2026-10-02"
     },
     {
@@ -49,8 +43,8 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Mit dem städtischen Programm zur energetischen Sanierung werden laut Pressemitteilung vom 10.03.2026 Einzelmaßnahmen an der Gebäudehülle gefördert, darunter die Dämmung der Fassade; Haushalte mit geringem oder mittlerem Einkommen erhalten eine erhöhte Förderung.",
-      "quelle": "Stadt Mannheim – Pressemitteilung Neustart der Förderprogramme",
+      "text": "Die Stadt Mannheim führt unter anderem ein Förderprogramm zur energetischen Sanierung, das Einzelmaßnahmen an der Gebäudehülle wie die Dämmung der Fassade umfasst; verwaltet werden die städtischen Programme von der Klimaschutzagentur Mannheim.",
+      "quelle": "Stadt Mannheim – Pressemitteilung Förderprogramme 2026",
       "url": "https://www.mannheim.de/de/presse/neustart-der-foerderprogramme-fuer-gebaeudesanierung-heizungserneuerung-photovoltaik-und",
       "abruf": "2026-10-02"
     }
@@ -74,6 +68,9 @@
     "Recyclinghof: Annahmebedingungen für Fliesenschutt (Mengen, Asbestausschluss) nicht im Detail geprüft; Gebührentabelle nicht übernommen.",
     "Sonderabschreibung im Sanierungsgebiet: Steuersätze bewusst nicht genannt; Voraussetzungen (z. B. Vereinbarung vor Beginn) nicht auf der Seite beschrieben.",
     "Stadtteilbeispiele im Einstieg nicht belegt.",
-    "Kein Wasserhärte-Fakt, da bereits auf bad-sanitaer--mannheim."
+    "Kein Wasserhärte-Fakt, da bereits auf bad-sanitaer--mannheim.",
+    "QA 02.10.: Steuerhinweis Sanierungsgebiet Neckarstadt-West II (§§ 7h, 10f, 11a EStG) aus Text und Fakten entfernt.",
+    "QA 02.10.: Asbest-Satz „Gebäude vor den 1990er-Jahren, Kleber/Spachtel/Bodenplatten“ ohne Quelle entfernt → allgemein; Satz „sinnvolle Frage an den Fliesenleger“ entfernt.",
+    "QA 02.10.: Förderbedingung (erhöhte Förderung nach Einkommen, PM 10.03.2026) entfernt → nur Existenz + Verweis Klimaschutzagentur. Seite hat jetzt genau 5 Fakten."
   ]
 }

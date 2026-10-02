@@ -14,7 +14,7 @@
     },
     {
       "h2": "Fassaden nach historischem Vorbild",
-      "text": "Für die „Barocke Innenstadt“, also den Geltungsbereich der Erhaltungssatzung, unterhält die Stadt ein Förderprogramm für Fassadensanierungen. Nach den Richtlinien sollen die Fassaden nach historischem Vorbild gestaltet und in Abstimmung mit der Stadt ausgeführt werden; die Bewilligung stützt sich auf die Kostenberechnung eines Architekten oder auf Handwerkerangebote. Ältere Richtlinien der Stadt zur Denkmalpflege und Stadtgestaltung zählen Fassadenanstriche und Farbgestaltung ausdrücklich zu den Arbeiten, bei denen gestalterische Mehrkosten anfallen können. Auskunft gibt das Bürgerbüro Bauen."
+      "text": "Für die „Barocke Innenstadt“, also den Geltungsbereich der Erhaltungssatzung, unterhält die Stadt ein Förderprogramm für Fassadensanierungen. Nach den Richtlinien von 2016 sollen die Fassaden nach historischem Vorbild gestaltet und in Abstimmung mit der Stadt ausgeführt werden. Anträge nimmt das Bürgerbüro Bauen entgegen, das auch über die jeweils geltenden Bedingungen informiert."
     },
     {
       "h2": "Südstadt und alte Ortskerne: Putz, Gesimse, Fensterläden",
@@ -41,15 +41,9 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Nach den Richtlinien von 2016 erfolgt eine Bewilligung auf Basis der Kostenberechnung eines Architekten oder von Handwerkerangeboten; Anträge nimmt der Fachbereich Bürgerbüro Bauen entgegen.",
+      "text": "Anträge zum Förderprogramm für Kulturdenkmale und Fassadensanierungen nimmt nach den Richtlinien von 2016 der Fachbereich Bürgerbüro Bauen entgegen.",
       "quelle": "Stadt Ludwigsburg – Richtlinien zum Förderprogramm für Kulturdenkmale und Fassadensanierungen (2016)",
       "url": "https://www.ludwigsburg.de/site/Ludwigsburg-Internet-2020/get/params_E258571126/18111122/Richtlinie_Foerderprogramm_Kulturdenkmale_Fassadensanierung_FB60_01_04_2016.pdf",
-      "abruf": "2026-10-02"
-    },
-    {
-      "text": "Die Richtlinien der Stadt zur Förderung von Denkmalpflege, Stadtgestaltung und Fassadensanierungen nennen Fassadenanstriche und Farbgestaltung sowie die Freilegung von Fachwerk als Beispiele zuschussfähiger Mehraufwendungen.",
-      "quelle": "Stadt Ludwigsburg – Richtlinien zur Förderung der Denkmalpflege, Stadtgestaltung und von Fassadensanierungen",
-      "url": "https://www.ludwigsburg.de/site/Ludwigsburg-Internet-2020/get/params_E696936278/18111136/Richtlinien_Denkmalpflege_Stadtgestaltung_FB60_2007.pdf",
       "abruf": "2026-10-02"
     },
     {
@@ -76,6 +70,7 @@
   "offen": [
     "Ob die Richtlinien von 2007 neben denen von 2016 noch gelten, ist unklar; beide stehen unter Stadtrecht. Fakt zu 2007 deshalb ohne Aussage zur Gültigkeit formuliert.",
     "Ob das Fassadenförderprogramm derzeit Mittel hat, wurde nicht geprüft; keine Beträge genannt.",
-    "Wasserhärte für Fliesen nicht genannt, weil auf bad-sanitaer--ludwigsburg bereits belegt."
+    "Wasserhärte für Fliesen nicht genannt, weil auf bad-sanitaer--ludwigsburg bereits belegt.",
+    "QA 02.10.: Richtlinien Denkmalpflege/Stadtgestaltung 2007 (Gültigkeit unbelegt) aus Text und Fakten entfernt; Bewilligungsgrundlage (Kostenberechnung/Handwerkerangebote) als Förderbedingung entfernt. Seite hat jetzt 5 Fakten."
   ]
 }

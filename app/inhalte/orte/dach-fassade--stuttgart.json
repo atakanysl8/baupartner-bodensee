@@ -4,21 +4,17 @@
   "ortName": "Stuttgart",
   "kreis": "Stuttgart",
   "title": "Dachdecker Stuttgart – Fachbetrieb kostenlos vermittelt",
-  "description": "Dachdecker in Stuttgart: Gauben nach den Planungsgrundsätzen Dachgestaltung, Gründach mit Grünprogramm, Solar und Dachhaut. Fachbetrieb kostenlos vermittelt.",
+  "description": "Dachdecker in Stuttgart: Gauben nach den Planungsgrundsätzen Dachgestaltung, Gründach und Niederschlagswassergebühr. Fachbetrieb kostenlos vermittelt.",
   "h1": "Dachdecker in Stuttgart",
-  "einstieg": "Ein Dachdecker in Stuttgart hat es selten nur mit Ziegeln zu tun. Beim Satteldach in Degerloch geht es um eine neue Gaube, beim Walmdach am Killesberg um Dämmung und Photovoltaik, beim Flachdach im Stuttgarter Osten um eine Begrünung. Für jede dieser Varianten hat die Landeshauptstadt eigene Gestaltungsregeln, Förderprogramme oder Gebührenregeln.",
+  "einstieg": "Ein Dachdecker in Stuttgart hat es selten nur mit Ziegeln zu tun. Beim Satteldach in Degerloch geht es um eine neue Gaube, beim Walmdach am Killesberg um Dämmung, beim Flachdach im Stuttgarter Osten um eine Begrünung. Für mehrere dieser Varianten hat die Landeshauptstadt eigene Gestaltungsgrundsätze, Förderprogramme oder Gebührenregeln.",
   "abschnitte": [
     {
       "h2": "Dachdecker in Stuttgart: Gauben nach den Planungsgrundsätzen Dachgestaltung",
-      "text": "Wo kein Bebauungsplan und keine Gestaltungssatzung etwas Verbindliches festlegt, orientiert sich die Stadt bei geneigten Dächern an ihren Planungsgrundsätzen zur Dachgestaltung. Sie sollen den Dachausbau erleichtern und geben klare Maße vor: Gauben, Dacheinschnitte, Dachaustritte und Quergiebel kommen erst ab einer Dachneigung von 25 Grad infrage und nur im ersten Dachgeschoss. Gauben dürfen höchstens 1,70 Meter Ansichtshöhe haben, beim Walmdach, ausdrücklich auch beim „Stuttgarter Dach“, ist ihre Gesamtlänge auf ein Drittel der Gebäudelänge begrenzt. Für Ihre Dachsanierung bedeutet das in der Regel: Wer beim Neueindecken gleich eine Gaube plant, klärt diese Vorgaben vorab mit dem Bürgerservice Bauen."
+      "text": "Wo kein Bebauungsplan und keine Gestaltungssatzung etwas Verbindliches festlegt, orientiert sich die Stadt bei geneigten Dächern an ihren Planungsgrundsätzen zur Dachgestaltung. Sie sollen den Dachausbau erleichtern und geben klare Maße vor: Gauben, Dacheinschnitte, Dachaustritte und Quergiebel kommen erst ab einer Dachneigung von 25 Grad infrage und nur im ersten Dachgeschoss. Gauben dürfen höchstens 1,70 Meter Ansichtshöhe haben, beim Walmdach, ausdrücklich auch beim „Stuttgarter Dach“, ist ihre Gesamtlänge auf ein Drittel der Gebäudelänge begrenzt. Ob die Grundsätze für ein bestimmtes Dach gelten oder ein Bebauungsplan Vorrang hat, beantwortet der Bürgerservice Bauen der Stadt."
     },
     {
-      "h2": "Gründach in Stuttgart: Förderung und niedrigere Gebühr",
-      "text": "Flachdächer und flach geneigte Garagendächer lassen sich begrünen, und Stuttgart honoriert das doppelt. Das Stuttgarter Grünprogramm fördert Dachbegrünungen unabhängig davon, wie stark das Grundstück versiegelt ist; die Fördervereinbarung muss vor Beginn der Arbeiten geschlossen sein, und die Begrünung ist mindestens zehn Jahre zu erhalten. Bei der Niederschlagswassergebühr zählt eine Dachbegrünung mit mindestens sechs Zentimetern Substrat nur zur Hälfte. Die Stadt weist außerdem darauf hin, dass Gebäudebegrünungen die Dachabdichtung vor Witterung schützen."
-    },
-    {
-      "h2": "Neues Dach mit Solaranlage: Dachhaut, Statik und Gerüst",
-      "text": "Wird das Dach ohnehin geöffnet, liegt der Gedanke an Photovoltaik nahe. Die städtische Solaroffensive berücksichtigt dabei ausdrücklich Arbeiten, die den Dachdecker betreffen: notwendige Eingriffe an der Dachhaut, Gerüst, Statikprüfung und das Versetzen von Bauteilen wie Schneefanggittern. Schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "h2": "Gründach in Stuttgart: Grünprogramm und Niederschlagswassergebühr",
+      "text": "Flachdächer und flach geneigte Garagendächer lassen sich begrünen. Das Stuttgarter Grünprogramm fördert laut Richtlinie Dachbegrünungen unabhängig davon, wie stark das Grundstück versiegelt ist; über die aktuellen Bedingungen informiert die Stadt. Die Satzungsregeln zur Niederschlagswassergebühr berücksichtigen eine Dachbegrünung mit mindestens sechs Zentimetern Substrat nur zur Hälfte. Die Richtlinie weist außerdem darauf hin, dass Gebäudebegrünungen die Dachabdichtung vor Witterung schützen. Schildern Sie Ihr Dachvorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -41,7 +37,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Das Stuttgarter Grünprogramm fördert die Begrünung von Dächern unabhängig vom Versiegelungsgrad des Grundstücks; geförderte Maßnahmen sind mindestens zehn Jahre zu erhalten, und vor Beginn muss eine Fördervereinbarung abgeschlossen sein.",
+      "text": "Das Stuttgarter Grünprogramm (Richtlinie vom 4. Februar 2021, zuletzt geändert am 14. Dezember 2023) fördert die Begrünung von Dächern unabhängig vom Versiegelungsgrad des Grundstücks.",
       "quelle": "Stadtrecht Stuttgart 3/9 – Richtlinie Stuttgarter Grünprogramm",
       "url": "https://www.stuttgart.de/medien/ibs/3-9.pdf",
       "abruf": "2026-10-02"
@@ -51,12 +47,6 @@
       "quelle": "Stadtrecht Stuttgart 3/9 – Richtlinie Stuttgarter Grünprogramm",
       "url": "https://www.stuttgart.de/medien/ibs/3-9.pdf",
       "abruf": "2026-10-02"
-    },
-    {
-      "text": "Zu den Förderpositionen der Stuttgarter Solaroffensive gehören Gerüstarbeiten, Prüfung und Ertüchtigung der Statik, das Versetzen von Bauteilen wie Schneefanggittern und notwendige Arbeiten an der Dachhaut; die Solaroffensive unterscheidet zwischen Dach-PV und PV über Dachbegrünung oder an der Fassade.",
-      "quelle": "Landeshauptstadt Stuttgart – Solaroffensive",
-      "url": "https://www.stuttgart.de/leben/umwelt/energie/foerderprogramme/solaroffensive",
-      "abruf": "2026-10-02"
     }
   ],
   "faq": [
@@ -65,17 +55,18 @@
       "a": "Nach den Planungsgrundsätzen Dachgestaltung ab 25 Grad, sofern kein Bebauungsplan oder Denkmalschutz etwas anderes regelt. Verbindliche Auskunft gibt der Bürgerservice Bauen."
     },
     {
-      "q": "Senkt ein Gründach in Stuttgart die Abwassergebühr?",
-      "a": "Ja, die Niederschlagswassergebühr: Ab 6 cm Substrat zählt die begrünte Fläche nur zur Hälfte, ab mehr als 50 cm entfällt die Gebühr für diese Fläche."
+      "q": "Wie behandelt die Stuttgarter Niederschlagswassergebühr ein Gründach?",
+      "a": "Laut Stadt wird eine Dachbegrünung mit mindestens 6 cm Substrat nur zu 50 Prozent berücksichtigt; ab mehr als 50 cm Substrat entfällt die Gebühr für diese Fläche."
     },
     {
-      "q": "Kann ich in Stuttgart eine Dachbegrünung fördern lassen?",
-      "a": "Das Stuttgarter Grünprogramm fördert Dach- und Fassadenbegrünungen. Die Fördervereinbarung muss vor Auftragsvergabe geschlossen sein; schon ein Liefer- oder Leistungsvertrag gilt als Beginn."
+      "q": "Gibt es in Stuttgart eine Förderung für Dachbegrünung?",
+      "a": "Das Stuttgarter Grünprogramm fördert Dach- und Fassadenbegrünungen. Über Voraussetzungen und Ablauf der Förderung informiert die Stadt Stuttgart."
     }
   ],
   "offen": [
     "Planungsgrundsätze Dachgestaltung Stand 2019; ob inzwischen überarbeitet, nicht geprüft.",
     "Stadtteilbeispiele im Einstieg (Degerloch, Killesberg, Osten) nicht durch Fakten belegt.",
-    "Fördersätze von Grünprogramm und Solaroffensive bewusst nicht genannt."
+    "Fördersätze von Grünprogramm und Solaroffensive bewusst nicht genannt.",
+    "QA 02.10.: Solaroffensive-Abschnitt, Fakt und Einstiegsbezug zu Photovoltaik entfernt – laut Stadtseite am 02.10. „Fördermittel für das Jahr 2026 ausgeschöpft“ (Punkt 2). Grünprogramm auf Existenz reduziert (10-Jahres-Bindung, Vereinbarung vor Beginn = Förderbedingungen/Anweisung entfernt), Gebühren-FAQ als Wiedergabe ohne Ersparnisaussage („honoriert das doppelt“, „Ja, … senkt“ entfernt), Gauben-Satz „klärt … vorab“ neutral gefasst. Stand der Grünprogramm-Richtlinie aus PDF (4.2.2021, geändert 14.12.2023); eine aktuelle Programmseite der Stadt wurde unter den geprüften URLs nicht gefunden."
   ]
 }

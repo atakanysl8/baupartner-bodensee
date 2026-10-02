@@ -10,15 +10,15 @@
   "abschnitte": [
     {
       "h2": "Elektriker in Karlsruhe: was beim Netzbetreiber angemeldet wird",
-      "text": "Zuständiger Verteilnetzbetreiber im Karlsruher Netzgebiet ist die Netzservice-Gesellschaft der Stadtwerke. Sie unterscheidet zwischen Geräten, die nur angemeldet werden, und solchen, die vorab genehmigt werden müssen: Wallboxen, Klimaanlagen und Wärmepumpen fallen in die erste Gruppe, Durchlauferhitzer und andere stromintensive Verbraucher ab 12 kW in die zweite. Ab 4,2 kW Leistung gelten Ladepunkte, Wärmepumpen samt Heizstab und Batteriespeicher als steuerbare Verbrauchseinrichtungen nach § 14a Energiewirtschaftsgesetz. Formular und Einbaumeldung übernimmt in der Regel der Elektrofachbetrieb, der im Installateurverzeichnis des Netzbetreibers eingetragen sein muss."
+      "text": "Zuständiger Verteilnetzbetreiber im Karlsruher Netzgebiet ist die Netzservice-Gesellschaft der Stadtwerke. Sie unterscheidet zwischen Geräten, die nur angemeldet werden, und solchen, die vorab genehmigt werden müssen: Wallboxen, Klimaanlagen und Wärmepumpen fallen in die erste Gruppe, Durchlauferhitzer und andere stromintensive Verbraucher ab 12 kW in die zweite. Ab 4,2 kW Leistung gelten Ladepunkte, Wärmepumpen samt Heizstab und Batteriespeicher als steuerbare Verbrauchseinrichtungen nach § 14a Energiewirtschaftsgesetz. Formular und Einbaumeldung übernimmt in der Regel der Elektrofachbetrieb, der laut Netzbetreiber im Installateurverzeichnis eingetragen ist."
     },
     {
       "h2": "Dachständer, Erdkabel und neuer Hausanschlusskasten",
-      "text": "In Teilen der Stadt hängen ältere Häuser noch an einer Freileitung mit Dachständer. Der Netzbetreiber stellt solche Anschlüsse schrittweise auf Erdkabel um, abgestimmt mit dem Tiefbauamt, und nennt dafür unter anderem mehr Netzkapazität für Elektromobilität, Wärmepumpen und Photovoltaik. Bei einem Vor-Ort-Termin wird festgelegt, wo das Hausanschlusskabel ins Gebäude kommt; den Elektriker können Eigentümer dazu mitbringen. Nach der schriftlichen Freigabe verbindet ein Elektrofachbetrieb den Zählerplatz mit dem neuen Hausanschlusskasten."
+      "text": "In Teilen der Stadt hängen ältere Häuser noch an einer Freileitung mit Dachständer. Der Netzbetreiber stellt solche Anschlüsse schrittweise auf Erdkabel um, abgestimmt mit dem Tiefbauamt, und nennt dafür unter anderem mehr Netzkapazität für Elektromobilität, Wärmepumpen und Photovoltaik. Bei einem Ortstermin des Netzbetreibers wird festgelegt, wo das Hausanschlusskabel ins Gebäude kommt; den Elektriker können Eigentümer dazu mitbringen. Nach der schriftlichen Freigabe verbindet ein Elektrofachbetrieb den Zählerplatz mit dem neuen Hausanschlusskasten."
     },
     {
       "h2": "Photovoltaik in der Fächerstadt: Dach einschätzen, Denkmal klären",
-      "text": "Für den ersten Blick auf das eigene Dach verweist die städtische Solar-Offensive auf das Solarkataster der LUBW. Eine kostenfreie Erstberatung zu Photovoltaik und Balkonmodulen gibt es im Beratungszentrum der Karlsruher Energie- und Klimaschutzagentur, eine unabhängige Begleitung bis zur Inbetriebnahme bietet die BürgerSolarBeratung Karlsruhe. Bei Kulturdenkmalen haben sich die Genehmigungsbedingungen für Solaranlagen nach Angaben der Stadt deutlich verbessert, ein Abgleich mit dem Denkmalschutz bleibt aber Teil der Planung. Steht das Vorhaben fest, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+      "text": "Für den ersten Blick auf das eigene Dach verweist die städtische Solar-Offensive auf das Solarkataster der LUBW. Eine kostenfreie Erstberatung zu Photovoltaik und Balkonmodulen gibt es im Beratungszentrum der Karlsruher Energie- und Klimaschutzagentur, eine unabhängige Begleitung bis zur Inbetriebnahme bietet die BürgerSolarBeratung Karlsruhe. Bei Kulturdenkmalen haben sich die Genehmigungsbedingungen für Solaranlagen nach Angaben der Stadt deutlich verbessert. Steht das Vorhaben fest, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -29,13 +29,13 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Wallboxen, Klimaanlagen und Wärmepumpen benötigen beim Karlsruher Netzbetreiber eine Anmeldung; Durchlauferhitzer, Motoren und stromintensive Verbraucher ab 12 kW müssen vorab genehmigt werden.",
+      "text": "Wallboxen, Klimaanlagen und Wärmepumpen benötigen beim Karlsruher Netzbetreiber eine Anmeldung; Durchlauferhitzer, Motoren und stromintensive Verbraucher ab 12 kW genehmigt er vorab.",
       "quelle": "Stadtwerke Karlsruhe Netzservice – E-Geräte und steuerbare Verbrauchseinrichtungen",
       "url": "https://www.netzservice-swka.de/netze/fuer-verbraucher/e-geraete-steuerbare-verbrauchseinrichtungen.php",
       "abruf": "2026-10-02"
     },
     {
-      "text": "Private Ladeeinrichtungen, Wärmepumpen inklusive Heizstab, Klimaanlagen und Batteriespeicher ab 4,2 kW fallen unter § 14a EnWG; im Gegenzug für die netzorientierte Steuerung gibt es ein reduziertes Netzentgelt.",
+      "text": "Private Ladeeinrichtungen, Wärmepumpen inklusive Heizstab, Klimaanlagen und Batteriespeicher ab 4,2 kW fallen unter § 14a EnWG, die der Netzbetreiber netzorientiert steuern kann.",
       "quelle": "Stadtwerke Karlsruhe Netzservice – E-Geräte und steuerbare Verbrauchseinrichtungen",
       "url": "https://www.netzservice-swka.de/netze/fuer-verbraucher/e-geraete-steuerbare-verbrauchseinrichtungen.php",
       "abruf": "2026-10-02"
@@ -83,6 +83,7 @@
     "Die Stadtteilnennungen im Einstieg (Neureut, Rintheim, Durlach) sind Beispiele ohne eigene Fakt-Quelle.",
     "In welchen Stadtteilen noch Freileitungen bestehen, nennt der Netzbetreiber nicht; im Text daher nur „in Teilen der Stadt“.",
     "BürgerSolarBeratung Karlsruhe ist eine von der Stadt verlinkte Beratungsinitiative; Trägerschaft nicht geprüft. KlimaBonus-Beträge der Seite bewusst nicht übernommen (Programm laut Stadt 2026 ausgeschöpft).",
-    "Netzbetreiber im Text ohne vollen Firmennamen als „Netzservice-Gesellschaft der Stadtwerke“ bezeichnet; in den Fakten mit vollem Namen."
+    "Netzbetreiber im Text ohne vollen Firmennamen als „Netzservice-Gesellschaft der Stadtwerke“ bezeichnet; in den Fakten mit vollem Namen.",
+    "QA 02.10.: Netzentgelt-Vorteil im Fakt entfernt (Vorlage 2 D); „Vor-Ort-Termin“ als Ortstermin des Netzbetreibers präzisiert (Punkt 14); Installateurverzeichnis als Wiedergabe; Kürzung auf ≤ 600 Wörter. 12 kW per curl auf netzservice-swka.de bestätigt."
   ]
 }

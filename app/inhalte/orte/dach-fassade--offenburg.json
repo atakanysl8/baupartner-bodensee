@@ -4,21 +4,21 @@
   "ortName": "Offenburg",
   "kreis": "Ortenaukreis",
   "title": "Dachdecker Offenburg – Fachbetrieb kostenlos vermittelt",
-  "description": "Dachdecker in Offenburg: Gründach senkt den Faktor der Regenwassergebühr, Dachregeln im Seitenpfaden, Dämmung in der Südstadt. Fachbetrieb kostenlos vermittelt.",
+  "description": "Dachdecker in Offenburg: Gründach in der Abwassersatzung, Dachregeln im Seitenpfaden, Dämmung im Sanierungsgebiet Südstadt. Fachbetrieb kostenlos vermittelt.",
   "h1": "Dachdecker in Offenburg",
-  "einstieg": "Ein Dachdecker in Offenburg hat es mit ganz verschiedenen Dächern zu tun: steile Ziegeldächer in der Südstadt und in den Rebdörfern, flache Dächer in den Neubaugebieten. Ob Neueindeckung, Dachdämmung, ein zusätzliches Dachfenster oder eine Begrünung ansteht, hängt am Haus. Für die Entscheidung hilft es, die Offenburger Regeln zu Regenwasser, Bebauungsplan und Sanierungsgebiet zu kennen.",
+  "einstieg": "Ein Dachdecker in Offenburg hat es mit ganz verschiedenen Dächern zu tun: steile Ziegeldächer in der Südstadt und in den Rebdörfern, flache Dächer in den Neubaugebieten. Ob Neueindeckung, Dachdämmung, ein zusätzliches Dachfenster oder eine Begrünung ansteht, hängt am Haus. Dazu kommen Offenburger Regeln zu Regenwasser, Bebauungsplan und Sanierungsgebiet.",
   "abschnitte": [
     {
       "h2": "Gründach und Regenwassergebühr in Offenburg",
-      "text": "Offenburg rechnet das Niederschlagswasser getrennt ab. Grundlage ist die Abwassersatzung, zuletzt geändert im Dezember 2024: Die Gebühr bemisst sich nach der versiegelten Fläche, die mit einem Faktor gewichtet wird. Dachflächen ohne Begrünung zählen mit dem Faktor 1,0, Gründächer nur mit 0,4. Wer ein Flachdach ohnehin neu abdichten lässt, kann eine extensive Begrünung deshalb auch unter diesem Gesichtspunkt durchrechnen. Hinzu kommt der Klimaaspekt: Das 2024 vom Gemeinderat beschlossene Klimaanpassungskonzept beschreibt Trockenperioden und Starkregen als in Offenburg inzwischen keine Seltenheit mehr."
+      "text": "Offenburg rechnet das Niederschlagswasser getrennt ab. Grundlage ist die Abwassersatzung, zuletzt geändert im Dezember 2024: Die Gebühr bemisst sich nach der versiegelten Fläche, die mit einem Faktor gewichtet wird. Dachflächen ohne Begrünung zählen mit dem Faktor 1,0, Gründächer nur mit 0,4. Hinzu kommt der Klimaaspekt: Das 2024 vom Gemeinderat beschlossene Klimaanpassungskonzept beschreibt Trockenperioden und Starkregen als in Offenburg inzwischen keine Seltenheit mehr."
     },
     {
       "h2": "Seitenpfaden: begrünte Flachdächer und flache Aufbauten",
-      "text": "Wer im Neubaugebiet Seitenpfaden baut oder ein Dach erneuert, findet die Regeln im Gestaltungsleitfaden der Stadt. Zulässig sind Flach-, Pult-, Sattel- und Zeltdächer bis zehn Grad Neigung, und die Dächer über dem obersten Geschoss sind laut Bebauungsplan zu begrünen. Dachaufbauten sind nur als Anlagen zur Sonnen- oder Windenergienutzung, Kamine und haustechnische Aufbauten erlaubt und dürfen höchstens 1,2 Meter über die Dachhaut ragen. Für Dachdecker und Solarteure heißt das: Abdichtung, Begrünung und Modulreihen müssen von Anfang an zusammen geplant werden."
+      "text": "Wer im Neubaugebiet Seitenpfaden baut oder ein Dach erneuert, findet die Regeln im Gestaltungsleitfaden der Stadt. Zulässig sind Flach-, Pult-, Sattel- und Zeltdächer bis zehn Grad Neigung, und die Dächer über dem obersten Geschoss sind laut Bebauungsplan zu begrünen. Dachaufbauten sind nur als Anlagen zur Sonnen- oder Windenergienutzung, Kamine und haustechnische Aufbauten erlaubt und dürfen höchstens 1,2 Meter über die Dachhaut ragen."
     },
     {
       "h2": "Dach dämmen im Sanierungsgebiet Südstadt",
-      "text": "Für Altbauten in der Südstadt nennt die Stadt Maßnahmen zur Verbesserung des Wärme- und Schallschutzes als grundsätzlich förderfähig, wenn sie Teil einer umfassenden Modernisierung sind. Mit den Arbeiten darf nach dem Faltblatt erst begonnen werden, wenn eine Modernisierungsvereinbarung mit der Stadt geschlossen ist. Unternehmen bietet die Stadt außerdem eine kostenfreie Beratung zu Dach- und Fassadenbegrünung durch den Bundesverband GebäudeGrün an. Wenn Sie wissen, was am Dach passieren soll, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Für Altbauten in der Südstadt nennt die Stadt Maßnahmen zur Verbesserung des Wärme- und Schallschutzes als grundsätzlich förderfähig, wenn sie Teil einer umfassenden Modernisierung sind. Laut Faltblatt setzt die Förderung voraus, dass vor Beginn der Arbeiten eine Modernisierungsvereinbarung mit der Stadt geschlossen ist. Unternehmen bietet die Stadt außerdem eine kostenfreie Beratung zu Dach- und Fassadenbegrünung durch den Bundesverband GebäudeGrün an. Schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -61,8 +61,8 @@
   ],
   "faq": [
     {
-      "q": "Spart ein Gründach in Offenburg Abwassergebühren?",
-      "a": "Nach der Abwassersatzung wird ein Gründach bei der Niederschlagswassergebühr mit dem Faktor 0,4 statt 1,0 angesetzt. Wie sich das konkret auswirkt, hängt von der Dachfläche ab."
+      "q": "Wie wird ein Gründach bei der Offenburger Abwassergebühr angesetzt?",
+      "a": "Die Abwassersatzung gewichtet Gründächer bei der Niederschlagswassergebühr mit dem Faktor 0,4, Dachflächen ohne Begrünung mit 1,0."
     },
     {
       "q": "Welche Dachformen sind im Offenburger Seitenpfaden erlaubt?",
@@ -71,16 +71,14 @@
     {
       "q": "Wird eine Dachdämmung in der Offenburger Südstadt gefördert?",
       "a": "Verbesserungen des Wärmeschutzes sind laut Faltblatt grundsätzlich förderfähig, wenn sie Teil einer umfassenden Modernisierung sind. Auskunft gibt die Städtebauförderung im Bauservice."
-    },
-    {
-      "q": "Gibt es in Offenburg eine Beratung zur Dachbegrünung?",
-      "a": "Für Unternehmen bietet die Stadt eine kostenfreie Vor-Ort-Beratung durch den Bundesverband GebäudeGrün an. Private Eigentümer können sich zur Gebäudehülle an die Ortenauer Energieagentur wenden."
     }
   ],
   "offen": [
     "Rebdörfer (z. B. Zell-Weierbach, Fessenbach) im Einstieg nur pauschal erwähnt, Dachformen dort nicht belegt.",
     "Begrünungsberatung gilt laut Quelle nur für Unternehmen; für Private kein städtisches Begrünungsprogramm gefunden.",
     "FAQ 4: Hinweis auf Ortenauer Energieagentur für Private ohne eigenen Fakt auf dieser Seite (Beleg auf maler-fliesen-boeden--offenburg).",
-    "Gebührensatz je m² aus § 41 der Abwassersatzung bewusst nicht übernommen."
+    "Gebührensatz je m² aus § 41 der Abwassersatzung bewusst nicht übernommen.",
+    "QA 02.10.: Gründach-Faktor 0,4 nur noch als Satzungswiedergabe – Ersparnisaussagen in Description, Abschnitt („durchrechnen“) und FAQ 1 („Spart ein Gründach …“) entfernt.",
+    "QA 02.10.: FAQ 4 (Begrünungsberatung nur für Unternehmen; Energieagentur ohne Fakt) entfernt; allgemeiner Planungssatz Seitenpfaden entfernt; Faltblatt-Satz Südstadt als Wiedergabe der Fördervoraussetzung statt Anweisung. Wörter ≤ 600."
   ]
 }

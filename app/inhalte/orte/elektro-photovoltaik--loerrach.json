@@ -6,7 +6,7 @@
   "title": "Elektriker Lörrach – Fachbetrieb kostenlos vermittelt",
   "description": "Elektriker in Lörrach für Photovoltaik, Balkonkraftwerk, Wallbox und Zählerschrank: SOLAR365-Beratung, Solarpotenzial und Wärmeplan. Kostenlos vermittelt.",
   "h1": "Elektriker in Lörrach",
-  "einstieg": "Wer in Lörrach einen Elektriker sucht, hat oft ein Paket im Kopf: Solarmodule auf dem Dach in Tumringen oder Brombach, ein Speicher, vielleicht eine Wallbox und ein Zählerschrank, der das alles aufnehmen kann. Stadt und Landkreis unterstützen den Ausbau der Photovoltaik mit eigenen Angeboten, und der Wärmeplan gibt Hinweise darauf, ob später eine Wärmepumpe dazukommt.",
+  "einstieg": "Wer in Lörrach einen Elektriker sucht, hat oft ein Paket im Kopf: Solarmodule auf dem Dach in Tumringen oder Brombach, ein Speicher, vielleicht eine Wallbox und ein Zählerschrank, der das alles aufnehmen kann. Stadt und Landkreis begleiten den Ausbau der Photovoltaik mit eigenen Angeboten, und der Wärmeplan gibt Hinweise darauf, ob später eine Wärmepumpe dazukommt.",
   "abschnitte": [
     {
       "h2": "Elektriker Lörrach: Solarpotenzial und SOLAR365",
@@ -14,7 +14,7 @@
     },
     {
       "h2": "Balkonkraftwerk, Wallbox und Anmeldung",
-      "text": "Auch steckerfertige Balkonsolaranlagen sind in Lörrach ein Thema: Der Gemeinderat hat 2021 beschlossen, sie grundsätzlich zu fördern. Die Stadt weist darauf hin, dass die ordnungsgemäße Anmeldung beim Netzbetreiber und im Marktstammdatenregister beim Betreiber liegt, bei Mietern zudem die Zustimmung des Eigentümers. Für Ladetechnik hat Lörrach ein E-Mobilitätskonzept und baut öffentliche Ladepunkte aus; die heimische Wallbox plant und meldet in der Regel der Elektrofachbetrieb beim Netzbetreiber an. Wer PV, Speicher und Wallbox kombiniert, lässt Hausanschluss und Messkonzept sinnvollerweise gemeinsam betrachten."
+      "text": "Auch steckerfertige Balkonsolaranlagen sind in Lörrach ein Thema. Die Stadt weist darauf hin, dass die ordnungsgemäße Anmeldung beim Netzbetreiber und im Marktstammdatenregister beim Betreiber liegt. Für Ladetechnik hat Lörrach ein E-Mobilitätskonzept und baut öffentliche Ladepunkte aus; die heimische Wallbox wird beim Netzbetreiber angemeldet. Wer PV, Speicher und Wallbox kombiniert, lässt Hausanschluss und Messkonzept sinnvollerweise gemeinsam betrachten."
     },
     {
       "h2": "Wärmeplan: Strom für die Heizung von morgen",
@@ -35,7 +35,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Der Gemeinderat hat 2021 entschieden, Balkonsolaranlagen grundsätzlich zu fördern; für die Anmeldung beim Netzbetreiber und im Marktstammdatenregister ist laut Stadt der Antragsteller verantwortlich.",
+      "text": "Für die ordnungsgemäße Anmeldung von Balkonsolaranlagen beim Netzbetreiber und im Marktstammdatenregister ist laut Stadt Lörrach der Betreiber verantwortlich.",
       "quelle": "Stadt Lörrach – Balkonsolaranlagen",
       "url": "https://www.loerrach.de/Balkonsolaranlagen",
       "abruf": "2026-10-02"
@@ -69,14 +69,16 @@
       "a": "Die Stadt weist darauf hin, dass für die Anmeldung beim Netzbetreiber und im Marktstammdatenregister der Betreiber verantwortlich ist."
     },
     {
-      "q": "Gibt es in Lörrach einen Zuschuss für Balkonsolaranlagen?",
-      "a": "Der Gemeinderat hat die Förderung 2021 grundsätzlich beschlossen. Ob aktuell Mittel bereitstehen, veröffentlicht die Stadt auf ihrer Seite zu Balkonsolaranlagen."
+      "q": "Gibt es für Lörrach einen kommunalen Wärmeplan?",
+      "a": "Ja, im Landkreisprojekt UIWP wurden Wärmepläne für alle 35 Kommunen des Landkreises erstellt, auch für Lörrach. Wo vorerst kein Wärmenetz möglich ist, nennt die Stadt dezentrale Lösungen wie Wärmepumpen."
     }
   ],
   "offen": [
     "Laut Stadtseite (Abruf 02.10.2026) ist die Balkonsolar-Förderung wegen der Haushaltslage ab 2026 vorerst eingestellt – im Text nicht als Momentangabe übernommen, nur Verweis auf die Seite.",
     "Stromnetzbetreiber für Lörrach nicht recherchiert/belegt; im Text nur „Netzbetreiber“.",
     "Ortsteile Tumringen und Brombach im Einstieg nur als Beispiele.",
-    "Anmeldung der Wallbox durch den Elektrofachbetrieb nur allgemein („in der Regel“), keine Lörracher Quelle."
+    "Anmeldung der Wallbox durch den Elektrofachbetrieb nur allgemein („in der Regel“), keine Lörracher Quelle.",
+    "QA 02.10.: Balkonsolar-Förderung ist laut Stadtseite ab 2026 vorerst eingestellt → Förderbeschluss 2021 aus Text, Fakt 3 und FAQ 3 entfernt (Punkt 2/16); FAQ 3 durch Wärmeplan-Frage ersetzt; Mieter-Zustimmung (Antragsvoraussetzung der Förderung) entfernt.",
+    "QA 02.10.: Unbelegtes „Wallbox plant und meldet in der Regel der Elektrofachbetrieb an“ neutral gefasst. SOLAR365-Seite am 02.10. geprüft (Beratungsangebot weiter genannt)."
   ]
 }

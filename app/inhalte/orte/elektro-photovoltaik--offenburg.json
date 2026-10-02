@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Elektriker Offenburg: erst das Dach, dann die Technik",
-      "text": "Die Stadt Offenburg stellt ein Solardachkataster bereit, das auf Daten der Landesanstalt für Umwelt Baden-Württemberg beruht. Nach Eingabe der Adresse zeigt es, wie viele Module auf das Dach passen, mit welchem Stromertrag zu rechnen ist und ob die Anlage genehmigt werden muss. Die kommunale Wärmeplanung hat die Dachflächen der Stadt ausgewertet: 92 Prozent der potenziellen Modulflächen gelten als gut oder sehr gut geeignet. Der Bericht weist aber auch darauf hin, dass Statik und Zustand des einzelnen Dachs nur vor Ort beurteilt werden können. Danach geht es um Zählerschrank, Leitungswege und Speicherplatz."
+      "text": "Die Stadt Offenburg stellt ein Solardachkataster bereit, das auf Daten der Landesanstalt für Umwelt Baden-Württemberg beruht. Nach Eingabe der Adresse zeigt es, wie viele Module auf das Dach passen, mit welchem Stromertrag zu rechnen ist und ob die Anlage genehmigt werden muss. Die kommunale Wärmeplanung hat die Dachflächen der Stadt ausgewertet: 92 Prozent der potenziellen Modulflächen gelten als gut oder sehr gut geeignet. Der Bericht weist aber auch darauf hin, dass Statik und Zustand des einzelnen Dachs nur durch eine Prüfung am Gebäude beurteilt werden können. Danach geht es um Zählerschrank, Leitungswege und Speicherplatz."
     },
     {
       "h2": "Strom für Wärmepumpe und Ladepunkt mitdenken",
-      "text": "Im Januar 2024 hat Offenburg seine kommunale Wärmeplanung veröffentlicht. Die Wärmewendestrategie setzt neben Fern- und Nahwärme auf eine dezentrale Strategie mit energetischer Sanierung und Heizungsmodernisierung einzelner Häuser. Wo kein Wärmenetz in Reichweite ist, kommt häufig eine Wärmepumpe in Frage, und die braucht einen passenden Stromanschluss. Wer heute eine PV-Anlage und eine Wallbox plant, kann den Zählerplatz deshalb gleich so auslegen lassen, dass eine spätere Wärmepumpe angeschlossen werden kann. Die Anmeldung beim örtlichen Netzbetreiber übernimmt in der Regel der Elektrofachbetrieb."
+      "text": "Im Januar 2024 hat Offenburg seine kommunale Wärmeplanung veröffentlicht. Die Wärmewendestrategie setzt neben Fern- und Nahwärme auf eine dezentrale Strategie mit energetischer Sanierung und Heizungsmodernisierung einzelner Häuser. Für Elektroinstallationen ist das von Bedeutung, weil Wärmepumpe, Photovoltaik und Wallbox am selben Hausanschluss hängen; Anlagen werden beim örtlichen Netzbetreiber angemeldet."
     },
     {
       "h2": "Solarberatung der Ortenauer Energieagentur",
@@ -30,12 +30,6 @@
     },
     {
       "text": "Nach der kommunalen Wärmeplanung (Stand Dezember 2023, Daten LUBW-Energieatlas) gelten 92 Prozent der potenziellen Modulflächen auf Offenburger Dächern als gut oder sehr gut geeignet; eine belastbare Aussage zu Statik und Beschaffenheit ist nur durch Prüfung vor Ort möglich.",
-      "quelle": "Stadt Offenburg – Bericht Kommunale Wärmeplanung",
-      "url": "https://www.offenburg-klimaschutz.de/fileadmin/redakteur/Waermeplanung/Bericht_kommunale_Waermeplanung.pdf",
-      "abruf": "2026-10-02"
-    },
-    {
-      "text": "Laut Wärmeplanungsbericht gab es nach dem LUBW-Energieatlas 2017 in Offenburg 1.071 Photovoltaikanlagen, die rund fünf Prozent zur Stromerzeugung in der Stadt beitrugen.",
       "quelle": "Stadt Offenburg – Bericht Kommunale Wärmeplanung",
       "url": "https://www.offenburg-klimaschutz.de/fileadmin/redakteur/Waermeplanung/Bericht_kommunale_Waermeplanung.pdf",
       "abruf": "2026-10-02"
@@ -62,21 +56,23 @@
   "faq": [
     {
       "q": "Wie finde ich heraus, ob mein Dach in Offenburg für Photovoltaik taugt?",
-      "a": "Einen ersten Anhaltspunkt gibt das Solardach-Kataster der Stadt mit Adresssuche. Statik und Zustand des Dachs müssen aber vor Ort beurteilt werden."
+      "a": "Einen ersten Anhaltspunkt gibt das Solardach-Kataster der Stadt mit Adresssuche. Statik und Zustand des Dachs lassen sich laut Wärmeplanungsbericht nur durch eine Prüfung am Gebäude beurteilen."
     },
     {
       "q": "Wo gibt es in Offenburg eine unabhängige Beratung zu Solarstrom?",
       "a": "Die Ortenauer Energieagentur bietet eine kostenfreie Solarberatung in ihren Räumen in Offenburg, am Telefon oder per Video an; für eine Detailberatung zu Hause fällt ein Eigenanteil an."
     },
     {
-      "q": "Sollte ich bei einer neuen PV-Anlage schon an eine Wärmepumpe denken?",
-      "a": "Oft ja. Die Offenburger Wärmeplanung setzt außerhalb von Wärmenetzen auf die Modernisierung der Heizung in einzelnen Häusern, und der Zählerplatz lässt sich dann gleich passend planen."
+      "q": "Hat Offenburg eine kommunale Wärmeplanung?",
+      "a": "Ja, die Stadt hat sie im Januar 2024 veröffentlicht. Die Wärmewendestrategie verbindet Fern- und Nahwärme mit Sanierung und Heizungsmodernisierung einzelner Häuser."
     }
   ],
   "offen": [
     "Stromnetzbetreiber für Offenburg nicht sicher belegt: Wärmeplanungsbericht nennt „Syna GmbH/Netze Mittelbaden GmbH“, die Grundversorgerliste der E-Werk Netze enthält Offenburg nicht. Deshalb im Text nur „örtlicher Netzbetreiber“.",
     "Kein städtischer Beleg zu Wallbox-Anmeldung in Offenburg; Satz zur Anmeldung durch den Elektrofachbetrieb nur allgemein („in der Regel“).",
     "Ortsteile Zell-Weierbach und Bohlsbach im Einstieg nur als Beispiele genannt.",
-    "Zahl 1.071 PV-Anlagen ist Stand 2017 (alt), mit Jahr angegeben."
+    "Zahl 1.071 PV-Anlagen ist Stand 2017 (alt), mit Jahr angegeben.",
+    "QA 02.10.: Fakt „1.071 PV-Anlagen (LUBW 2017)“ entfernt (Zahl vor 2023, Punkt 3).",
+    "QA 02.10.: Unbelegte Empfehlung „Zählerplatz gleich für spätere Wärmepumpe auslegen“, Satz „Anmeldung übernimmt in der Regel der Elektrofachbetrieb“ und FAQ 3 „Oft ja …“ (eigene Folgerung) entfernt; FAQ 3 durch Wärmeplanungs-Frage ersetzt."
   ]
 }

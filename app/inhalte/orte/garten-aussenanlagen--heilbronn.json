@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Überdachen und pflastern: was die Abwassersatzung zählt",
-      "text": "Heilbronn erhebt eine Niederschlagswassergebühr für überbaute und befestigte Flächen, von denen Regenwasser in den Kanal fließt. Die Abwassersatzung gewichtet dabei nach Material: Dach, Asphalt und Beton zählen voll, Pflaster, Platten und Rasenfugenpflaster mit dem Faktor 0,6, Kies, Schotterrasen und Rasengittersteine mit 0,3. Wird das Regenwasser einer Versickerungsanlage ohne Kanalanschluss oder einer Zisterne ohne Überlauf zugeführt, bleibt die Fläche unberücksichtigt. Eine neue Terrassenüberdachung oder Pflasterfläche kann also die Veranlagung verändern; Auskunft geben die Entsorgungsbetriebe der Stadt."
+      "text": "Heilbronn erhebt eine Niederschlagswassergebühr für überbaute und befestigte Flächen, von denen Regenwasser in den Kanal fließt. Die Abwassersatzung gewichtet dabei nach Material: Dach, Asphalt und Beton zählen voll, Pflaster, Platten und Rasenfugenpflaster mit dem Faktor 0,6, Kies, Schotterrasen und Rasengittersteine mit 0,3. Wird das Regenwasser einer Versickerungsanlage ohne Kanalanschluss oder einer Zisterne ohne Überlauf zugeführt, bleibt die Fläche unberücksichtigt. Eine neue Terrassenüberdachung oder Pflasterfläche kann die Veranlagung verändern; Auskunft geben die Entsorgungsbetriebe der Stadt."
     },
     {
       "h2": "Terrassenüberdachung Heilbronn: Bebauungsplan und Vorgarten",
-      "text": "Ob und wo eine Überdachung, ein Carport oder ein Gartenhaus stehen darf, richtet sich in vielen Heilbronner Wohngebieten nach dem Bebauungsplan; er kann Baufenster, Garagenstandorte und sogar Baumpflanzungen festlegen. Einsicht und Auskunft gibt das Service-Center des Planungs- und Baurechtsamts, nach Angaben der Stadt am verlässlichsten anhand eines Katasterausschnitts. Für den Vorgarten verweist die Stadt auf die Landesbauordnung: Nicht überbaute Flächen sollen Grünflächen sein, und Schotterungen gelten nach dem Naturschutzgesetz grundsätzlich nicht als zulässige andere Verwendung. Nachbarrechtliche Fragen regelt das Nachbarrechtsgesetz Baden-Württemberg."
+      "text": "Ob und wo eine Überdachung, ein Carport oder ein Gartenhaus stehen darf, richtet sich in vielen Heilbronner Wohngebieten nach dem Bebauungsplan; er kann Baufenster, Garagenstandorte und sogar Baumpflanzungen festlegen. Einsicht und Auskunft gibt das Service-Center des Planungs- und Baurechtsamts, nach Angaben der Stadt am verlässlichsten anhand eines Katasterausschnitts. Für den Vorgarten verweist die Stadt auf die Landesbauordnung: Nicht überbaute Flächen sollen Grünflächen sein, und Schotterungen gelten nach dem Naturschutzgesetz grundsätzlich nicht als zulässige andere Verwendung."
     },
     {
       "h2": "Starkregen: Zufahrt und Gefälle mitplanen",
@@ -83,6 +83,7 @@
     "Eine Darstellung der Stadt Heilbronn zu verfahrensfreien Vorhaben (Terrassenüberdachung, Carport, Zaun) wurde nicht gefunden; daher keine Aussage, ob ein Verfahren nötig ist.",
     "Eine Baumschutzsatzung der Stadt Heilbronn wurde nicht gefunden; auf heilbronn.de nur Stadtbäume und Baumkataster. Nicht erwähnt.",
     "Das Maß von etwa 8 cm stammt aus dem städtischen Faltblatt und ist als Beispiel der Stadt wiedergegeben, nicht als Vorgabe.",
-    "Mitteilungspflichten bei Änderung versiegelter Flächen nach der Abwassersatzung wurden nicht ausgewertet; als Rechtsfrage nicht im Text."
+    "Mitteilungspflichten bei Änderung versiegelter Flächen nach der Abwassersatzung wurden nicht ausgewertet; als Rechtsfrage nicht im Text.",
+    "QA 02.10.: Allgemeiner Satz zum Nachbarrechtsgesetz gestrichen (Kürzung auf ≤ 600 Wörter)."
   ]
 }

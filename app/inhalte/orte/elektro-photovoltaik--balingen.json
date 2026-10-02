@@ -14,11 +14,11 @@
     },
     {
       "h2": "Wallbox und Wärmepumpe: Steuerbox im Zählerschrank",
-      "text": "Wärmepumpen, private Ladeeinrichtungen, Batteriespeicher beim Strombezug und Klimageräte mit mehr als 4,2 kW gelten nach § 14a EnWG als steuerbar. In Balingen erfolgt die Steuerung über eine Steuerbox im Zählerschrank, die mit den Geräten kommuniziert; bei einer Netzanschlussleistung unter 11 kW bleibt netzseitig eine Mindestbezugsleistung von 4,2 kW. Die Aufgaben sind geteilt: Bis zur Zählerverteilung ist der Messstellenbetreiber zuständig, dahinter beauftragt der Kunde einen Elektrofachbetrieb. Angemeldet wird der Netzanschluss durch Installateure über das digitale Netzanschlussportal. Wer das verbrauchsabhängige Modul 2 wählt, braucht einen separaten Zähler."
+      "text": "Wärmepumpen, private Ladepunkte, Batteriespeicher beim Strombezug und Kälteerzeuger mit mehr als 4,2 kW gelten laut Stadtwerken Balingen nach § 14a EnWG als steuerbar. Künftig wird dafür nach Angabe der Stadtwerke eine Steuerbox im Zählerschrank verbaut, die über ein Smart Meter Gateway Signale erhält und mit den Geräten kommuniziert. Die Aufgaben sind geteilt: Bis zur Zählerverteilung ist der Messstellenbetreiber zuständig, dahinter beauftragt der Kunde einen Elektrofachbetrieb. Angemeldet wird der Netzanschluss durch Installateure über das digitale Netzanschlussportal."
     },
     {
       "h2": "Kulturdenkmal, Wärmeplan und Energieberatung",
-      "text": "Das Balinger Denkmalverzeichnis umfasst über 200 Gebäude und Objekte. Maßnahmen an einem Kulturdenkmal, die Erscheinung oder Substanz verändern, sind nach Angabe der Stadt vorab der Unteren Denkmalschutzbehörde zur Genehmigung vorzulegen; Genehmigung und Beratung sind dort gebührenfrei. Den kommunalen Wärmeplan hat der Gemeinderat im November 2024 beschlossen. Er teilt die Stadt in Gebiete mit Einzelheizungen und mögliche Nahwärmequartiere. Unabhängige Impulsberatungen, auch zu Photovoltaik, bietet die Energieagentur Zollernalb kostenlos an. Über unser Formular schildern Sie Ihr Vorhaben; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Das Balinger Denkmalverzeichnis umfasst über 200 Gebäude und Objekte. Laut Stadt sind alle Maßnahmen an einem Kulturdenkmal, bei denen die Nutzung, die Erscheinung oder die Bausubstanz verändert werden, vor der Ausführung der Denkmalbehörde zur Genehmigung vorzulegen. Den kommunalen Wärmeplan hat der Gemeinderat im November 2024 beschlossen. Er teilt die Stadt in Gebiete mit Einzelheizungen und mögliche Nahwärmequartiere. Unabhängige Impulsberatungen, auch zu Photovoltaik, bietet die Energieagentur Zollernalb kostenlos an. Über unser Formular schildern Sie Ihr Vorhaben; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -41,13 +41,13 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Steuerbare Verbrauchseinrichtungen über 4,2 kW werden in Balingen über eine Steuerbox im Zählerschrank gesteuert; der Netzanschluss wird durch Installateure über das digitale Netzanschlussportal angemeldet, hinter der Zählerverteilung beauftragt der Kunde einen Elektrofachbetrieb.",
+      "text": "Steuerbare Verbrauchseinrichtungen über 4,2 kW fallen in Balingen unter § 14a EnWG; künftig wird eine Steuerbox im Zählerschrank verbaut. Der Netzanschluss wird durch Installateure über das digitale Netzanschlussportal angemeldet, hinter der Zählerverteilung beauftragt der Kunde einen Elektrofachbetrieb.",
       "quelle": "Stadtwerke Balingen – Steuerbare Verbrauchseinrichtungen nach § 14a EnWG",
       "url": "https://www.stadtwerke.balingen.de/de/Kundenportal-Service/Steuerbare-Verbrauchseinrichtungen-14a-EnWG/",
       "abruf": "2026-10-02"
     },
     {
-      "text": "Das Verzeichnis der Bau- und Kunstdenkmale der Stadt Balingen umfasst über 200 Gebäude und Objekte; denkmalschutzrechtliche Genehmigungen erteilt die Untere Denkmalschutzbehörde bei der Stadtverwaltung gebührenfrei.",
+      "text": "Das Verzeichnis der Bau- und Kunstdenkmale der Stadt Balingen umfasst über 200 Gebäude und Objekte; Maßnahmen, die Nutzung, Erscheinung oder Bausubstanz eines Kulturdenkmals verändern, sind vor der Ausführung der Denkmalbehörde zur Genehmigung vorzulegen.",
       "quelle": "Stadt Balingen – Denkmalschutz",
       "url": "https://www.balingen.de/23847455",
       "abruf": "2026-10-02"
@@ -76,12 +76,14 @@
     },
     {
       "q": "Was gilt für eine Solaranlage auf einem denkmalgeschützten Haus in Balingen?",
-      "a": "Nach Angabe der Stadt sind Maßnahmen, die die Erscheinung oder die Substanz eines Kulturdenkmals verändern, vorab der Unteren Denkmalschutzbehörde bei der Stadt vorzulegen. Die Stadt empfiehlt, solche Vorhaben früh abzustimmen."
+      "a": "Die Stadt nennt keine eigene Regel für Solaranlagen. Allgemein gilt laut Stadt: Alle Maßnahmen an einem Kulturdenkmal, bei denen die Nutzung, die Erscheinung oder die Bausubstanz verändert werden, sind vor der Ausführung der Denkmalbehörde zur Genehmigung vorzulegen. Auskunft gibt die Untere Denkmalschutzbehörde bei der Stadt."
     }
   ],
   "offen": [
     "Nicht geprüft, ob alle Balinger Stadtteile im Stromnetz der Stadtwerke Balingen liegen.",
     "Steuerbox-Angaben aus WebFetch-Zusammenfassung (Akkordeon-Inhalte der Stadtwerke-Seite).",
-    "Denkmalschutz: Seite nennt keine PV-spezifischen Vorgaben; Bezug auf Solaranlagen ist unsere Übertragung der allgemeinen Genehmigungsregel."
+    "Denkmalschutz: Seite nennt keine PV-spezifischen Vorgaben; Bezug auf Solaranlagen ist unsere Übertragung der allgemeinen Genehmigungsregel.",
+    "QA 02.10.: § 14a-Seite der Stadtwerke per curl gelesen: Steuerbox wird laut Seite „zukünftig“ verbaut (bisher Rundsteuerempfänger) → so gefasst; „Klimageräte“ → „Kälteerzeuger“ (Wortlaut); Mindestbezugsleistung 11 kW/4,2 kW-Satz gestrichen (Einzelwert, nicht nötig); „Modul 2 braucht separaten Zähler“ gestrichen (Seite: separate oder gemeinsame Messung möglich).",
+    "QA 02.10.: Denkmalschutz: „gebührenfrei“ auf der Stadtseite nicht gefunden → gestrichen; Genehmigungsregel im Wortlaut der Stadt wiedergegeben, FAQ ohne Übertragung auf Solar (Punkt 15); Satz „Die Stadt empfiehlt, früh abzustimmen“ gestrichen (nicht belegt)."
   ]
 }

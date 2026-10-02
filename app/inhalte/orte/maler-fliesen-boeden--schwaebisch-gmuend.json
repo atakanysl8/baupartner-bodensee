@@ -3,18 +3,18 @@
   "ort": "schwaebisch-gmuend",
   "ortName": "Schwäbisch Gmünd",
   "kreis": "Ostalbkreis",
-  "title": "Maler & Fliesenleger Schwäbisch Gmünd – vermittelt",
+  "title": "Maler & Fliesenleger Schwäbisch Gmünd – kostenlos vermittelt",
   "description": "Maler und Fliesenleger in Schwäbisch Gmünd: Fassade am Denkmal, Materialangaben im Antrag, Dämmung im Sanierungsgebiet. Fachbetrieb kostenlos vermittelt.",
   "h1": "Maler und Fliesenleger in Schwäbisch Gmünd",
   "einstieg": "In Schwäbisch Gmünd prägen Fachwerk, barocke Bürgerhäuser und verputzte Fassaden der Gründerzeit das Bild rund um Marktplatz und Münster. Wer hier einen Maler für die Fassade oder einen Fliesenleger für Bad und Küche sucht, sollte wissen, welche Arbeiten das Amt für Stadtentwicklung mit seiner Abteilung für Stadtsanierung und Denkmalschutz betreffen und welche nicht.",
   "abschnitte": [
     {
-      "h2": "Fassade am Gmünder Denkmal: Genehmigung, Material und Steuerbescheinigung",
-      "text": "Für Maßnahmen an einem Kulturdenkmal, die in die Substanz eingreifen oder das Erscheinungsbild beeinträchtigen, verlangt die Stadt eine denkmalschutzrechtliche Genehmigung. Zum Antrag gehören neben Plänen und Fotos eine detaillierte Maßnahmenbeschreibung mit Materialangaben; je nach Objekt kommen Gutachten etwa von Restauratoren hinzu. Für einen Fassadenanstrich am Denkmal heißt das in der Regel: Farbsystem und Putz werden vorab festgelegt, nicht erst beim Malerbetrieb vor Ort. Steuerlich gilt eine Besonderheit für Häuser in der geschützten Gesamtanlage: Bescheinigt werden nur Aufwendungen, die das schützenswerte äußere Erscheinungsbild erhalten. Außerdem müssen die Arbeiten vor Beginn mit der unteren Denkmalschutzbehörde abgestimmt sein. Fliesen und Böden im Inneren eines nicht denkmalgeschützten Hauses sind von diesen Regeln meist nicht betroffen."
+      "h2": "Fassade am Gmünder Denkmal: Genehmigung und Materialangaben",
+      "text": "Für Maßnahmen an einem Kulturdenkmal, die in die Substanz eingreifen oder das Erscheinungsbild beeinträchtigen, ist laut Stadt eine denkmalschutzrechtliche Genehmigung erforderlich. Zum Antrag gehören neben Plänen und Fotos eine detaillierte Maßnahmenbeschreibung mit Materialangaben; je nach Objekt kommen Gutachten etwa von Restauratoren hinzu. Für einen Fassadenanstrich am Denkmal stehen Farbsystem und Putz damit schon im Antrag. Ist für ein Vorhaben ohnehin eine Baugenehmigung nötig, beteiligt die Baurechtsbehörde nach Angaben der Stadt die Denkmalschutzbehörde, und die Baugenehmigung umfasst dann die denkmalschutzrechtliche Genehmigung."
     },
     {
       "h2": "Sanierungsgebiet: Dämmen, Streichen, Instandhalten",
-      "text": "Liegt ein Haus in einem der Gmünder Sanierungsgebiete, zählt die Stadt die Wärmedämmung der Fassade zu den Veränderungen, für die in der Regel eine sanierungsrechtliche Genehmigung nötig ist. Diese ersetzt nicht die Baugenehmigung, sondern kommt hinzu. Gefördert werden können Modernisierung und Instandsetzung, reine Instandhaltungsmaßnahmen dagegen nicht; Voraussetzung ist eine schriftliche Vereinbarung mit der Stadt vor Baubeginn. Welche Sanierungsgebiete rechtskräftig sind, zeigt das Geodatenportal. Bereits 2019 hatte die Stadt ein Fassadensanierungsprogramm vorgestellt, das neben der Altstadt auch erhaltenswerte Stadtquartiere und ortsbildprägende Plätze einbezog; zum aktuellen Stand gibt das Amt für Stadtentwicklung Auskunft. Ist Ihr Vorhaben klar umrissen, schildern Sie es kurz über unser Formular; wir wählen für Sie einen passenden Maler- oder Fliesenlegerbetrieb aus."
+      "text": "Liegt ein Haus in einem der Gmünder Sanierungsgebiete, zählt die Stadt die Wärmedämmung der Fassade zu den Veränderungen, für die eine sanierungsrechtliche Genehmigung nötig ist. Diese ersetzt nicht die Baugenehmigung, sondern kommt hinzu. Gefördert werden können laut Stadt Modernisierung und Instandsetzung, reine Instandhaltungsmaßnahmen dagegen nicht; die Stadt nennt dafür eine schriftliche Vereinbarung vor Baubeginn als Voraussetzung. Welche Sanierungsgebiete rechtskräftig sind, zeigt das Geodatenportal. Ist Ihr Vorhaben klar umrissen, schildern Sie es kurz über unser Formular; wir wählen für Sie einen passenden Maler- oder Fliesenlegerbetrieb aus."
     }
   ],
   "fakten": [
@@ -31,27 +31,21 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Bei Gebäuden in einer geschützten Gesamtanlage sind steuerlich nur Aufwendungen bescheinigungsfähig, die zur Erhaltung des schützenswerten äußeren Erscheinungsbildes erforderlich sind; die Maßnahmen müssen vor Beginn mit der unteren Denkmalschutzbehörde abgestimmt sein.",
+      "text": "Bei Baumaßnahmen, für die eine Baugenehmigung nötig ist, beteiligt die Baurechtsbehörde in Schwäbisch Gmünd die Denkmalschutzbehörde; die Baugenehmigung beinhaltet in diesem Fall die denkmalschutzrechtliche Genehmigung.",
       "quelle": "Stadt Schwäbisch Gmünd – Denkmalschutz",
       "url": "https://www.schwaebisch-gmuend.de/wohnen-bauen-stadtentwicklung/denkmalschutz.html",
       "abruf": "2026-10-02"
     },
     {
-      "text": "Die Wärmedämmung der Fassaden nennt die Stadt Schwäbisch Gmünd als Beispiel für wertsteigernde Veränderungen, die in einem Sanierungsgebiet in der Regel eine sanierungsrechtliche Genehmigung erfordern.",
+      "text": "Die Wärmedämmung der Fassaden nennt die Stadt Schwäbisch Gmünd als Beispiel für wertsteigernde Veränderungen, die in einem Sanierungsgebiet eine sanierungsrechtliche Genehmigung erfordern.",
       "quelle": "Stadt Schwäbisch Gmünd – Stadtsanierung",
       "url": "https://www.schwaebisch-gmuend.de/wohnen-bauen-stadtentwicklung/stadtsanierung.html",
       "abruf": "2026-10-02"
     },
     {
-      "text": "In Gmünder Sanierungsgebieten können Modernisierungs- und Instandsetzungsmaßnahmen gefördert werden, reine Instandhaltungsmaßnahmen nicht; vor Baubeginn ist eine schriftliche Vereinbarung mit der Stadt zu schließen.",
+      "text": "In Gmünder Sanierungsgebieten können laut Stadt Modernisierungs- und Instandsetzungsmaßnahmen gefördert werden, reine Instandhaltungsmaßnahmen nicht; Voraussetzung ist eine schriftliche Vereinbarung mit der Stadt vor Beginn der Baumaßnahmen.",
       "quelle": "Stadt Schwäbisch Gmünd – Stadtsanierung",
       "url": "https://www.schwaebisch-gmuend.de/wohnen-bauen-stadtentwicklung/stadtsanierung.html",
-      "abruf": "2026-10-02"
-    },
-    {
-      "text": "Im März 2019 stellte die Stadt Schwäbisch Gmünd ein Fassadensanierungsprogramm auf Grundlage von Förderrichtlinien zur Stadtbildgestaltung vor; einbezogen wurden die historische Altstadt, Kulturdenkmale, erhaltenswerte Stadtquartiere und Gebäude an ortsbildprägenden Plätzen.",
-      "quelle": "Stadt Schwäbisch Gmünd – Pressemitteilung Fassadensanierungsprogramm 2019",
-      "url": "https://www.schwaebisch-gmuend.de/pressedetails/fassadensanierungsprogramm-2019.html",
       "abruf": "2026-10-02"
     }
   ],
@@ -62,7 +56,7 @@
     },
     {
       "q": "Wird ein neuer Fassadenanstrich im Gmünder Sanierungsgebiet gefördert?",
-      "a": "Reine Instandhaltungsmaßnahmen fördert die Stadt nicht. Förderfähig sein können Modernisierung und Instandsetzung, wenn vor Baubeginn eine schriftliche Vereinbarung mit der Stadt geschlossen wurde."
+      "a": "Reine Instandhaltungsmaßnahmen fördert die Stadt laut eigener Darstellung nicht. Förderfähig sein können Modernisierung und Instandsetzung; als Voraussetzung nennt die Stadt eine schriftliche Vereinbarung vor Baubeginn."
     },
     {
       "q": "Wie erfahre ich, ob mein Haus in Schwäbisch Gmünd im Sanierungsgebiet liegt?",
@@ -72,6 +66,7 @@
   "offen": [
     "Fassadensanierungsprogramm nur aus Pressemitteilung 2019 belegt; ob es weiterläuft, ist offen (daher Vergangenheitsform und Verweis aufs Amt).",
     "Keine Gestaltungssatzung für die Gmünder Altstadt online gefunden (Stadtrecht-Seite enthält keine).",
-    "Einstieg (Fachwerk, barocke Bürgerhäuser) ist allgemeine Beschreibung, nicht durch Fakt belegt."
+    "Einstieg (Fachwerk, barocke Bürgerhäuser) ist allgemeine Beschreibung, nicht durch Fakt belegt.",
+    "QA 02.10.: Steuerhinweis (Bescheinigung Gesamtanlage, Abstimmung mit unterer Denkmalschutzbehörde) aus Text und Fakten entfernt (Punkt 12); Fassadensanierungsprogramm (nur PM 2019) aus Text und Fakten entfernt (bekannte Stelle, Punkte 2/3/16); „nicht erst beim Malerbetrieb vor Ort“ umformuliert (Punkt 14); unbelegter Satz zu Fliesen/Böden im Inneren gestrichen; Förderbedingung im Sanierungsgebiet als Wiedergabe. Neuer Fakt zur Beteiligung der Denkmalschutzbehörde im Baugenehmigungsverfahren (Denkmalschutz-Seite, am 02.10. gelesen)."
   ]
 }

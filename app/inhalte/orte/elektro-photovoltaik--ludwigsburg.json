@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Elektriker Ludwigsburg: Netzanschluss bei den Stadtwerken",
-      "text": "Netzbetreiber für Strom ist in Ludwigsburg und Kornwestheim die SWLB, die Stadtwerke Ludwigsburg-Kornwestheim, mit Netzen in Mittel- und Niederspannung. Über sie laufen Hausanschluss, Leistungserhöhung und der Anschluss einer Photovoltaikanlage. Für Installateure stellt die SWLB auf ihrer Seite zur Einspeisung die technischen Formulare bereit, darunter die Vereinbarung über steuerbare Verbrauchseinrichtungen nach § 14a EnWG, die Wärmepumpen und Wallboxen betrifft. Jede Erzeugungsanlage wird zudem im Marktstammdatenregister der Bundesnetzagentur registriert. Ein neuer Zählerschrank ist im Altbau häufig die Voraussetzung dafür, dass Speicher, Wallbox und Steuertechnik überhaupt Platz finden."
+      "text": "Netzbetreiber für Strom ist in Ludwigsburg und Kornwestheim die SWLB, die Stadtwerke Ludwigsburg-Kornwestheim, mit Netzen in Mittel- und Niederspannung. Über sie laufen Hausanschluss, Leistungserhöhung und der Anschluss einer Photovoltaikanlage. Für Installateure stellt die SWLB auf ihrer Seite zur Einspeisung die technischen Formulare bereit, darunter die Vereinbarung über steuerbare Verbrauchseinrichtungen nach § 14a EnWG, die Wärmepumpen und Wallboxen betrifft. Jede Erzeugungsanlage wird zudem im Marktstammdatenregister der Bundesnetzagentur registriert."
     },
     {
       "h2": "Erst prüfen, dann bauen: Solar-Check und Dachzustand",
@@ -18,7 +18,7 @@
     },
     {
       "h2": "Neutrale Beratung in Ludwigsburg",
-      "text": "Unabhängige Beratung zur Solaranlage bietet die Energieagentur Kreis Ludwigsburg (LEA), auch als kostenlose Online-Erstberatung. Für Mieterinnen und Mieter berät die ehrenamtliche Solarinitiative Ludwigsburg einmal im Monat im Kulturzentrum zu Balkonkraftwerken, ohne Anmeldung. Wenn Ihr Vorhaben klar ist, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Unabhängige Beratung zur Solaranlage bietet die Energieagentur Kreis Ludwigsburg (LEA), auch als kostenlose Online-Erstberatung. Für Mieterinnen und Mieter berät die ehrenamtliche Solarinitiative Ludwigsburg regelmäßig im Kulturzentrum zu Balkonkraftwerken, ohne Anmeldung. Wenn Ihr Vorhaben klar ist, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -53,7 +53,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Die ehrenamtliche Solarinitiative Ludwigsburg berät seit Oktober 2024 einmal im Monat kostenfrei zu Balkonkraftwerken in der Stadtbibliothek im Kulturzentrum, ohne Anmeldung.",
+      "text": "Die ehrenamtliche Solarinitiative Ludwigsburg berät seit Oktober 2024 regelmäßig kostenfrei zu Balkonkraftwerken in der Stadtbibliothek im Kulturzentrum, ohne Anmeldung.",
       "quelle": "Stadt Ludwigsburg – Beratung Balkonkraftwerk",
       "url": "https://www.ludwigsburg.de/start/leben+in+ludwigsburg/beratungbalkonkraftwerk.html",
       "abruf": "2026-10-02"
@@ -74,7 +74,7 @@
   "faq": [
     {
       "q": "Wer ist in Ludwigsburg der Netzbetreiber für meine PV-Anlage oder Wallbox?",
-      "a": "Nach der Netzübersicht der Stadtwerke Ludwigsburg-Kornwestheim (SWLB) gehört Ludwigsburg zu deren Stromnetzgebiet. Die Anmeldung übernimmt in der Regel der ausführende Elektrofachbetrieb."
+      "a": "Nach der Netzübersicht der Stadtwerke Ludwigsburg-Kornwestheim (SWLB) gehört Ludwigsburg zu deren Stromnetzgebiet. Die technischen Formulare für den Netzanschluss stellen die SWLB Installateuren auf ihrer Seite zur Einspeisung bereit."
     },
     {
       "q": "Wie finde ich heraus, ob mein Ludwigsburger Dach für Photovoltaik taugt?",
@@ -82,13 +82,15 @@
     },
     {
       "q": "Gibt es in Ludwigsburg Beratung zum Balkonkraftwerk?",
-      "a": "Ja, die ehrenamtliche Solarinitiative Ludwigsburg berät einmal im Monat kostenfrei in der Stadtbibliothek im Kulturzentrum."
+      "a": "Ja, die ehrenamtliche Solarinitiative Ludwigsburg berät regelmäßig kostenfrei in der Stadtbibliothek im Kulturzentrum."
     }
   ],
   "offen": [
     "Die Zuordnung der Kreuze in der SWLB-Tabelle (Strom: Ludwigsburg, Kornwestheim) ist aus dem Seitentext abgeleitet; ob einzelne Ludwigsburger Stadtteile von einem anderen Netzbetreiber versorgt werden, wurde nicht geprüft.",
     "Die SWLB-Seiten zu § 14a und Balkon-PV ließen sich nicht als Text auslesen; daher nur die Formularliste der Einspeiseseite verwendet.",
     "Das städtische Förderprogramm KlimaBonus ist laut Stadt ausgeschöpft und wurde nicht erwähnt.",
-    "Die städtische Wärmepumpen-Bündelung nennt namentlich Installationsbetriebe; bewusst nicht erwähnt."
+    "Die städtische Wärmepumpen-Bündelung nennt namentlich Installationsbetriebe; bewusst nicht erwähnt.",
+    "QA 02.10.: Unbelegte Fachaussage „Zählerschrank im Altbau häufig Voraussetzung“ und unbelegtes „Anmeldung übernimmt in der Regel der Elektrofachbetrieb“ (FAQ 1) entfernt.",
+    "QA 02.10.: Termin-Rhythmus „einmal im Monat“ (Sprechzeit-Angabe) → „regelmäßig“ in Text, Fakt und FAQ."
   ]
 }

@@ -14,11 +14,11 @@
     },
     {
       "h2": "Gründach mit Solar: Hinweise der Stadt",
-      "text": "Für Flachdächer wirbt die Stadt Ludwigsburg für die Kombination aus Dachbegrünung und Photovoltaik. Damit ein hochwertiges Gründach entsteht, nennt sie eine Aufbauhöhe von mindestens zwölf Zentimetern; zwischen Substrat und Modulunterkante sollen 20 bis 30 Zentimeter Abstand bleiben, damit die Pflanzen die Module nicht verschatten. Auch bei den Gebühren wirkt sich das Gründach aus: Die Abwassersatzung setzt Gründächer bei der Niederschlagswassergebühr mit dem Faktor 0,6 an, Ziegel-, Blech- und Glasdächer dagegen voll."
+      "text": "Für Flachdächer wirbt die Stadt Ludwigsburg für die Kombination aus Dachbegrünung und Photovoltaik. Damit ein hochwertiges Gründach entsteht, nennt sie eine Aufbauhöhe von mindestens zwölf Zentimetern; zwischen Substrat und Modulunterkante sollen 20 bis 30 Zentimeter Abstand bleiben, damit die Pflanzen die Module nicht verschatten. Die Abwassersatzung setzt Gründächer bei der Niederschlagswassergebühr mit dem Faktor 0,6 an, Ziegel-, Blech- und Glasdächer dagegen voll."
     },
     {
       "h2": "Sturm, Hagel, Starkregen: das Dach als Schutz",
-      "text": "Ludwigsburg ist nach Angaben der Stadt schon heute spürbar von Stürmen, Hagel und Hitze betroffen. Für Starkregen hat die Stadt Gefahrenkarten erstellen lassen, die in der Stadtinfokarte Überflutungsausdehnung, Wassertiefen und Fließwege für drei Szenarien zeigen. Wer Dach, Rinnen und Fallrohre erneuert, kann diese Karten in die Planung einbeziehen. Steht Ihr Vorhaben fest, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Ludwigsburg ist nach Angaben der Stadt schon heute spürbar von Stürmen, Hagel und Hitze betroffen. Für Starkregen hat die Stadt Gefahrenkarten erstellen lassen, die in der Stadtinfokarte Überflutungsausdehnung, Wassertiefen und Fließwege für drei Szenarien zeigen. Steht Ihr Vorhaben fest, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -82,6 +82,7 @@
   "offen": [
     "Die Genehmigungstatbestände sind aus den Begründungen der Satzungen wiedergegeben, nicht aus dem Satzungstext selbst; Formulierungen deshalb als Wiedergabe gehalten.",
     "Ob das Abstandsmaß für PV auf Gründächern eine Empfehlung der Stadt oder des zitierten Bundesverbands GebäudeGrün ist, geht aus der Seite nicht eindeutig hervor; als Angabe der städtischen Seite wiedergegeben.",
-    "Das städtische Natur- und Umweltschutzprogramm (Förderung von Begrünung) wurde nicht geöffnet und daher nicht erwähnt."
+    "Das städtische Natur- und Umweltschutzprogramm (Förderung von Begrünung) wurde nicht geöffnet und daher nicht erwähnt.",
+    "QA 02.10.: Wörter auf ≤ 600 gekürzt (allgemeiner Planungssatz zu Rinnen/Fallrohren, Überleitung zur Gebühr ohne Ersparnisaussage entfernt)."
   ]
 }

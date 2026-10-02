@@ -6,19 +6,19 @@
   "title": "Terrassenüberdachung Mannheim – kostenlos vermittelt",
   "description": "Terrassenüberdachung in Mannheim: Baurecht, Niederschlagswassergebühr, Pflaster und Baumschutz im Blick. Passenden Fachbetrieb kostenlos vermittelt bekommen.",
   "h1": "Terrassenüberdachung in Mannheim",
-  "einstieg": "Terrassenüberdachung Mannheim: Das bedeutet oft einen kleinen Garten hinter dem Reihenhaus, alten Baumbestand beim Nachbarn und eine Abwassergebühr, die nach der befestigten Fläche berechnet wird. Ob Glasdach, Carport, neuer Zaun oder frisch gepflasterte Einfahrt, im Stadtgebiet lohnt ein Blick auf Baurecht, Abwassersatzung und Baumschutzsatzung, bevor das Material bestellt wird.",
+  "einstieg": "Terrassenüberdachung Mannheim: Das bedeutet oft einen kleinen Garten hinter dem Reihenhaus, alten Baumbestand beim Nachbarn und eine Abwassergebühr, die sich nach der an den Kanal angeschlossenen Fläche richtet. Ob Glasdach, Carport, neuer Zaun oder frisch gepflasterte Einfahrt, im Stadtgebiet lohnt ein Blick auf Baurecht, Abwassersatzung und Baumschutzsatzung, bevor das Material bestellt wird.",
   "abschnitte": [
     {
       "h2": "Überdachung und Carport: was das Mannheimer Baurecht dazu sagt",
-      "text": "Der Fachbereich Baurecht, Bauverwaltung und Denkmalschutz verweist bei der Frage nach einer Genehmigung auf § 50 der Landesbauordnung und dessen Anhang, in dem die verfahrensfreien Vorhaben aufgelistet sind. Er betont zugleich, dass die Einhaltung der öffentlich-rechtlichen Vorschriften auch dann in der Verantwortung der Bauherren liegt. Passt ein grundsätzlich verfahrensfreies Vorhaben nicht zu den Festsetzungen, etwa des Bebauungsplans, ist nach Angabe der Stadt ein formloser Antrag auf Abweichung, Ausnahme oder Befreiung möglich. Für Grenzabstände von Hecken und Pflanzen verweist die Stadt auf das Nachbarrechtsgesetz Baden-Württemberg und eine Broschüre des Justizministeriums; zivilrechtliche Nachbarfragen beantwortet sie nicht selbst. Eine Bauberatung im Technischen Rathaus hilft bei der Einordnung."
+      "text": "Der Fachbereich Baurecht, Bauverwaltung und Denkmalschutz verweist bei der Frage nach einer Genehmigung auf § 50 der Landesbauordnung und dessen Anhang, in dem die verfahrensfreien Vorhaben aufgelistet sind. Passt ein grundsätzlich verfahrensfreies Vorhaben nicht zu den Festsetzungen, etwa des Bebauungsplans, ist nach Angabe der Stadt ein formloser Antrag auf Abweichung, Ausnahme oder Befreiung möglich. Für Pflanzabstände an der Grundstücksgrenze verweist die Stadt auf das Nachbarrechtsgesetz Baden-Württemberg. Eine Bauberatung im Technischen Rathaus hilft bei der Einordnung."
     },
     {
       "h2": "Pflaster, Rasengitter und Zisterne: die Niederschlagswassergebühr in Mannheim",
-      "text": "Mannheim berechnet die Niederschlagswassergebühr nach der an das Kanalnetz angeschlossenen Grundstücksfläche. Eine neue Terrassenüberdachung oder eine gepflasterte Zufahrt kann diese Fläche vergrößern. Die Abwassersatzung unterscheidet dabei: Flächen mit Rasengittersteinen oder Schotter zählen gar nicht, wasserdurchlässiges Pflaster zur Hälfte, ebenso Flächen, deren Regen in eine Zisterne ab einem Kubikmeter mit Überlauf läuft. Wer Regenwasser stattdessen auf dem Grundstück versickern lassen möchte, wendet sich an die untere Wasserbehörde; die Stadt nennt als Maßstab eine Versickerung über mindestens 30 cm bewachsenen Boden. Für die Entsiegelung mit anschließender Begrünung führt die Stadt ein eigenes Förderprogramm, das die Klimaschutzagentur verwaltet."
+      "text": "Mannheim berechnet die Niederschlagswassergebühr nach der an das Kanalnetz angeschlossenen Grundstücksfläche. Eine neue Terrassenüberdachung oder eine gepflasterte Zufahrt kann diese Fläche vergrößern. Die Abwassersatzung unterscheidet dabei: Flächen mit Rasengittersteinen oder Schotter zählen gar nicht, wasserdurchlässiges Pflaster zur Hälfte, ebenso Flächen, deren Regen in eine Zisterne ab einem Kubikmeter mit Überlauf läuft. Für eine Versickerung auf dem Grundstück nennt die Stadt als Maßstab mindestens 30 cm bewachsenen Boden."
     },
     {
       "h2": "Bäume, Starkregen und Fundamente im Garten",
-      "text": "Für Punktfundamente einer Überdachung oder Carports wird im Wurzelbereich gegraben. Nach der Mannheimer Baumschutzsatzung sind Bäume ab 60 cm Stammumfang in einem Meter Höhe geschützt, und als Wurzelbereich gilt der Kronenbereich zuzüglich 1,50 m, auch wenn der Baum auf dem Nachbargrundstück steht. Für Lage und Gefälle der Terrasse hilft die Starkregengefahrenkarte im Geoportal der Stadt, die für berechnete Stadtteile zeigt, wo sich bei Starkregen Wasser sammelt. Beschreiben Sie Ihr Projekt über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Für Punktfundamente einer Überdachung oder Carports wird im Wurzelbereich gegraben. Die Baumschutzsatzung schützt auch den Wurzelbereich geschützter Bäume, also den Kronenbereich zuzüglich 1,50 m, und das auch bei Bäumen auf dem Nachbargrundstück. Für Lage und Gefälle der Terrasse hilft die Starkregengefahrenkarte im Geoportal der Stadt, die für berechnete Stadtteile zeigt, wo sich bei Starkregen Wasser sammelt. Beschreiben Sie Ihr Projekt über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -70,12 +70,15 @@
     },
     {
       "q": "Steht der Baum neben meiner geplanten Terrasse unter Schutz?",
-      "a": "In Mannheim sind Bäume ab 60 cm Stammumfang in einem Meter Höhe durch die Baumschutzsatzung geschützt. Rückfragen beantwortet das Team Baumschutzsatzung im Fachbereich Klima, Natur, Umwelt."
+      "a": "In Mannheim sind Bäume mit über 60 cm Stammumfang in einem Meter Höhe durch die Baumschutzsatzung geschützt. Rückfragen beantwortet das Team Baumschutzsatzung im Fachbereich Klima, Natur, Umwelt."
     }
   ],
   "offen": [
     "Keine Maße zu verfahrensfreien Überdachungen/Carports genannt (Vorgabe: keine eigene LBO-Auslegung); die Stadt gibt selbst keine Maße an.",
     "Starkregengefahrenkarte liegt laut Stadt bisher nur für einzelne Stadtteile vor (Neckarau, Casterfeld, Feudenheim); im Text nur „für berechnete Stadtteile“.",
-    "Hinweis „Bauberatung im Technischen Rathaus“ stammt aus der Bauberatungsseite (bereits Fakt auf hochbau--mannheim), hier nicht erneut als Fakt geführt."
+    "Hinweis „Bauberatung im Technischen Rathaus“ stammt aus der Bauberatungsseite (bereits Fakt auf hochbau--mannheim), hier nicht erneut als Fakt geführt.",
+    "QA 02.10.: Wörter auf ≤ 600 gekürzt (Doppelungen zu Fakten 1, 3, 4 aus Abschnitten entfernt).",
+    "QA 02.10.: Satz zum städtischen Entsiegelungs-Förderprogramm ohne Fakt entfernt; Hinweis „wendet sich an die untere Wasserbehörde“ (Anweisung, Zuständigkeit nicht als Fakt belegt) entfernt.",
+    "QA 02.10.: Stammumfang an Quelle angeglichen („über 60 cm“ statt „ab 60 cm“); Einstieg: Gebühr nach angeschlossener (nicht befestigter) Fläche."
   ]
 }

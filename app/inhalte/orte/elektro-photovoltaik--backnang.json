@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Photovoltaik und Speicher in Backnang anmelden",
-      "text": "Für die Erstprüfung und die Einspeisezusage einer PV-Anlage verlangen die Stadtwerke Backnang zunächst die Formulare E.1, E.2 und E.10, ein Datenblatt zum Messkonzept und einen Lageplan mit eingezeichneter Modulfläche. Dazu kommen ein Schaltplan der gesamten elektrischen Anlage und Einheitenzertifikate nach VDE-AR-N 4105. Wer einen Batteriespeicher einplant, reicht zusätzlich das Datenblatt E.3 und ein Speicherschema ein. Für Anlagen über 25 kWp bestellen die Stadtwerke einen Funkrundsteuerempfänger für das Einspeisemanagement. Das Solarpotenzial des Daches lässt sich vorab im Solarkataster des Energieatlas Baden-Württemberg ablesen, auf das die Stadt verweist."
+      "text": "Für die Erstprüfung und die Einspeisezusage einer PV-Anlage verlangen die Stadtwerke Backnang zunächst die Formulare E.1, E.2 und E.10, ein Datenblatt zum Messkonzept und einen Lageplan mit eingezeichneter Modulfläche. Dazu kommen ein Schaltplan der gesamten elektrischen Anlage und Einheitenzertifikate nach VDE-AR-N 4105. Wer einen Batteriespeicher einplant, reicht zusätzlich das Datenblatt E.3 und ein Speicherschema ein. Für Anlagen über 25 kWp stellen die Stadtwerke ein Bestellformular für einen Funkrundsteuerempfänger zum Einspeisemanagement bereit. Das Solarpotenzial des Daches lässt sich vorab im Solarkataster des Energieatlas Baden-Württemberg ablesen, auf das die Stadt verweist."
     },
     {
       "h2": "Wärmepumpe und Wallbox: § 14a und Leistungserhöhung",
@@ -82,6 +82,7 @@
   "offen": [
     "Die Stadtwerke Backnang nennen als versorgte Fläche 10,76 km²; ob alle Stadtteile (z. B. Heiningen, Strümpfelbach, Waldrems) im Netz der Stadtwerke liegen, ist nicht belegt. Einstieg daher mit Hinweis auf mögliche andere Netzbetreiber.",
     "Auf der Wärmepumpen-Seite der Stadt werden Firmen namentlich als Experten genannt; bewusst nicht übernommen.",
-    "Die Stadt bietet laut eigener Seite „derzeit keine Förderprogramme für Solaranlagen“; als datierte Momentangabe nicht verwendet."
+    "Die Stadt bietet laut eigener Seite „derzeit keine Förderprogramme für Solaranlagen“; als datierte Momentangabe nicht verwendet.",
+    "QA 02.10.: Satz zum Funkrundsteuerempfänger an den Wortlaut der Stadtwerke-Seite angepasst (dort nur Bestellformular > 25 kWp, nicht Bestellung durch die Stadtwerke)."
   ]
 }

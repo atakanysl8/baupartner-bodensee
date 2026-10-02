@@ -4,21 +4,21 @@
   "ortName": "Fellbach",
   "kreis": "Rems-Murr-Kreis",
   "title": "Maler & Fliesenleger Fellbach – kostenlos vermittelt",
-  "description": "Maler und Fliesenleger in Fellbach: Genehmigung für Fassadenanstrich im Sanierungsgebiet, Förderregeln Vordere Straße, Dämmung. Kostenlos vermittelt.",
+  "description": "Maler und Fliesenleger in Fellbach: Genehmigung für den Fassadenanstrich im Sanierungsgebiet, Förderregeln Vordere Straße, Dämmung. Kostenlos vermittelt.",
   "h1": "Maler und Fliesenleger in Fellbach",
   "einstieg": "Ob die Fassade im alten Ortskern einen neuen Anstrich braucht, die Wohnung nach Jahren renoviert wird oder im Bad und in der Küche neue Fliesen und Böden kommen: Maler und Fliesenleger in Fellbach arbeiten oft an Gebäuden, die vor 1977 gebaut wurden. Wer im Ortskern oder in einem anderen Sanierungsgebiet wohnt, muss mit zusätzlichen Regeln der Stadt rechnen, die selbst einen Fassadenanstrich betreffen können.",
   "abschnitte": [
     {
-      "h2": "Fassadenanstrich im Fellbacher Sanierungsgebiet: vorher genehmigen lassen",
+      "h2": "Fassadenanstrich im Fellbacher Sanierungsgebiet: sanierungsrechtliche Genehmigung",
       "text": "Die Stadt Fellbach zählt in ihren Sanierungsgebieten ausdrücklich auch den neuen Anstrich oder Verputz einer Fassade zu den erheblich wertsteigernden Veränderungen, die nach § 144 Baugesetzbuch einer sanierungsrechtlichen Genehmigung bedürfen. Laut Stadt wird diese Genehmigung vor Beginn der Arbeiten bei der Sanierungsstelle beantragt und innerhalb eines Monats beschieden; die Frist kann höchstens um drei Monate verlängert werden. Ist für das Vorhaben ohnehin eine Baugenehmigung nötig, wird die sanierungsrechtliche Genehmigung mit ihr erteilt. Laufende Sanierungsgebiete sind unter anderem die „Vordere Straße“ im Ortskern; in den Gebieten „Ortszentrum Schmiden“ und „Eisenbahnstraße“ ist die Förderung nach Angaben der Stadt ausgelaufen."
     },
     {
       "h2": "Vordere Straße: Was gefördert wird und was nicht",
-      "text": "Für Eigentümer im Sanierungsgebiet „Vordere Straße“, das seit 2018 aus dem Programm „Lebendige Zentren“ gefördert wird, beschreibt die Stadt den Weg zum Zuschuss: erst ein kostenloses Beratungsgespräch, dann eine Modernisierungsvereinbarung auf Grundlage einer Kostenschätzung, oft aus Handwerkerangeboten je Gewerk, und erst danach der Baubeginn. Förderfähig sind etwa Wärmedämmung der Außenwände und die Modernisierung von Bad und WC. Reine Instandhaltung und Schönheitsreparaturen fördert die Stadt dagegen nicht. Ein Anstrich allein dürfte daher kaum förderfähig sein; ob Malerarbeiten im Rahmen einer umfassenden Modernisierung berücksichtigt werden, klärt das Beratungsgespräch mit der Stadt."
+      "text": "Für Eigentümer im Sanierungsgebiet „Vordere Straße“, das seit 2018 aus dem Programm „Lebendige Zentren“ gefördert wird, beschreibt die Stadt den Weg zum Zuschuss: erst ein kostenloses Beratungsgespräch, dann eine Modernisierungsvereinbarung auf Grundlage einer Kostenschätzung, oft aus Handwerkerangeboten je Gewerk, und erst danach der Baubeginn. Förderfähig sind etwa Wärmedämmung der Außenwände und die Modernisierung von Bad und WC. Reine Instandhaltung und Schönheitsreparaturen fördert die Stadt dagegen nicht. Ob Malerarbeiten im Rahmen einer umfassenden Modernisierung berücksichtigt werden, klärt das Beratungsgespräch mit der Stadt."
     },
     {
       "h2": "Innenräume, Fliesen und der Weg zum Betrieb",
-      "text": "Geht es zusätzlich um Dämmung, bieten Stadt und Stadtwerke Fellbach eine kostenlose Energieberatung an. Wenn Sie wissen, was gemacht werden soll, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+      "text": "Geht es zusätzlich um Dämmung, bieten die Stadtwerke Fellbach eine Energieberatung mit festen Beratungsterminen an. Wenn Sie wissen, was gemacht werden soll, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
     }
   ],
   "fakten": [
@@ -57,6 +57,12 @@
       "quelle": "Stadt Fellbach – Kommunale Wärmeplanung",
       "url": "https://www.fellbach.de/Kommunale-Waermeplanung",
       "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Fellbach bieten eine Energieberatung mit Beratungsterminen an; zudem verleihen sie kostenlos Strommessgeräte.",
+      "quelle": "Stadtwerke Fellbach – Energieberatung",
+      "url": "https://www.stadtwerke-fellbach.de/energieberatung",
+      "abruf": "2026-10-02"
     }
   ],
   "faq": [
@@ -76,6 +82,7 @@
   "offen": [
     "Für Fellbach wurde keine Gestaltungssatzung oder Farbleitplan für Fassaden gefunden.",
     "Ob „Vordere Straße“ das einzige derzeit geförderte Wohn-Sanierungsgebiet ist (Fellbach West ist Gewerbegebiet), nicht abschließend geprüft.",
-    "Fliesen-/Bodenbezug nur über förderfähige Bad-Modernisierung; keine Wasserhärte-Angabe recherchiert."
+    "Fliesen-/Bodenbezug nur über förderfähige Bad-Modernisierung; keine Wasserhärte-Angabe recherchiert.",
+    "QA 02.10.: Überschrift „vorher genehmigen lassen“ (Anweisung) neutral gefasst (Punkt 6); eigene Schlussfolgerung „Anstrich allein dürfte kaum förderfähig sein“ gestrichen (Punkt 13). Energieberatung auf die Stadtwerke-Seite gestützt (per curl gelesen), Fakt ergänzt; die gemeinsame Beratung von Stadt und Stadtwerken steht als Fakt auf der Dach-Seite. Steuerhinweis § 7h/§ 10f steht nur auf der Stadtseite, nicht im Text (geprüft)."
   ]
 }

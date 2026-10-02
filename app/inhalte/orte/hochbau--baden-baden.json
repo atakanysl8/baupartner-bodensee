@@ -14,7 +14,7 @@
     },
     {
       "h2": "Denkmalstadt und Welterbe: Gesamtanlage, Villengebiete, Baufibel",
-      "text": "In Baden-Baden stehen über 1.500 Gebäude unter Denkmalschutz, und Teile der Innenstadt hat der Gemeinderat 2008 als Gesamtanlage geschützt. Seit 2021 gehört die historische Innenstadt in den Grenzen von etwa 1920 als Teil der „Great Spa Towns of Europe“ zum UNESCO-Welterbe; neues Recht entsteht dadurch nach Angaben der Stadt nicht, es gelten weiter Denkmal-, Bau- und Planungsrecht. Für die historischen Villengebiete Beutig-Quettig, Annaberg, Schützenstraße und Protestantische Neustadt hat die Stadt eine Baufibel als Leitbild beschlossen, die Gestaltungsempfehlungen gibt. Wer dort ein Haus ersetzen oder erweitern will, findet in der Fibel die Maßstäbe, an denen sich die Stadt orientiert."
+      "text": "In Baden-Baden stehen über 1.500 Gebäude unter Denkmalschutz, und weite Teile der Stadt sind als Gesamtanlage geschützt (Satzung vom 22.10.2018, in Kraft seit 01.11.2018). Seit 2021 gehört die historische Innenstadt in den Grenzen von etwa 1920 als Teil der „Great Spa Towns of Europe“ zum UNESCO-Welterbe; neues Recht entsteht dadurch nach Angaben der Stadt nicht, es gelten weiter Denkmal-, Bau- und Planungsrecht. Für die historischen Villengebiete Beutig-Quettig, Annaberg, Schützenstraße und Protestantische Neustadt hat die Stadt eine Baufibel als Leitbild beschlossen, die Gestaltungsempfehlungen gibt. Wer dort ein Haus ersetzen oder erweitern will, findet in der Fibel die Maßstäbe, an denen sich die Stadt orientiert."
     },
     {
       "h2": "Starkregen und Hanglage",
@@ -41,9 +41,15 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "In Baden-Baden stehen über 1.500 Gebäude unter Denkmalschutz; Teile der Innenstadt wurden im Februar 2008 als Gesamtanlage unter Schutz gestellt, seit 2021 ist die historische Innenstadt Teil des UNESCO-Welterbes „Great Spa Towns of Europe“.",
+      "text": "In Baden-Baden stehen über 1.500 Gebäude unter Denkmalschutz; seit 2021 ist die historische Innenstadt Teil des UNESCO-Welterbes „Great Spa Towns of Europe“.",
       "quelle": "Stadt Baden-Baden – Denkmalschutz & Denkmalpflege",
       "url": "https://www.baden-baden.de/buerger-und-service/bauen-und-wohnen/denkmalschutz--denkmalpflege",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Satzung zum Schutz der Gesamtanlage Baden-Baden hat der Gemeinderat in der Sitzung vom 22.10.2018 beschlossen; sie ist am 01.11.2018 in Kraft getreten.",
+      "quelle": "Stadt Baden-Baden – Satzung zum Schutz der Gesamtanlage Baden-Baden",
+      "url": "https://www.baden-baden.de/site/Baden-Baden/get/documents_E1495009292/baden-baden/Dateien/B%C3%BCrger%20%26%20Service/Bauen%20%26%20Wohnen/Planung%20%26%20Entwicklung/Gestaltungsrichtlinie/05%20Gesamtanlagenschutzsatzung.pdf",
       "abruf": "2026-10-02"
     },
     {
@@ -83,6 +89,7 @@
     "Die Starkregen-Quelle ist eine Seite der Stadt Rastatt (gemeinsames Projekt); eine eigene Starkregenseite der Stadt Baden-Baden wurde nicht geöffnet.",
     "„Stadtkreis und damit selbst Baurechtsbehörde“ ergibt sich aus der Abteilung Baurecht/Fachgebiet Bauordnung der Stadt; nicht wörtlich so formuliert.",
     "Inhalte der Baufibel (Kubatur, Garagen, Einfriedungen) aus der Begründung auf der Stadtseite abgeleitet, Fibel-PDF selbst nicht gelesen.",
-    "QA 02.10.: Abgeleitete Aussage „Stadtkreis und damit selbst Baurechtsbehörde“ und unbelegte Denkmalschutzbehörden-Beteiligung (FAQ 2) neutral gefasst bzw. entfernt; Befreiungsantrag „ist … zu stellen“ als Angabe der Stadt; Baufibel-Inhalte (Kubatur, Garagen, Einfriedungen) entfernt, da Fibel nicht gelesen."
+    "QA 02.10.: Abgeleitete Aussage „Stadtkreis und damit selbst Baurechtsbehörde“ und unbelegte Denkmalschutzbehörden-Beteiligung (FAQ 2) neutral gefasst bzw. entfernt; Befreiungsantrag „ist … zu stellen“ als Angabe der Stadt; Baufibel-Inhalte (Kubatur, Garagen, Einfriedungen) entfernt, da Fibel nicht gelesen.",
+    "QA 02.10.: Jahresangabe Gesamtanlage korrigiert: Die Denkmalseite der Stadt nennt „Februar 2008“, die verlinkte geltende Satzung (PDF per pdftotext gelesen) trägt Beschluss 22.10.2018 und Inkrafttreten 01.11.2018 → Text und Fakt auf die Satzung umgestellt, 2008 entfernt; neuer Fakt mit Satzungs-URL."
   ]
 }

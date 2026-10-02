@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Dach, Pflaster oder Schotterrasen: was die Göppinger Gebühr zählt",
-      "text": "Nach § 39 a der Göppinger Abwassersatzung sind die bebauten und befestigten Flächen eines Grundstücks Bemessungsgrundlage, soweit von ihnen Regenwasser in die öffentliche Kanalisation gelangt. Die Satzung gewichtet die Flächen nach ihrer Durchlässigkeit: Ziegel- und Kiesschüttdächer zählen voll, Gründächer zur Hälfte. Bei befestigten Flächen gilt Asphalt, Beton und Bitumen der Faktor 1,0, Pflaster, Platten, Ökopflaster und Rasenfugenpflaster 0,5; Schotterrasen, Kiesflächen und Rasengittersteine gehen mit 0,0 ein. Wer eine Terrassenüberdachung, einen Carport oder eine neue Hoffläche plant, kann den Belag also auch mit Blick auf die gebührenrelevante Fläche wählen; maßgeblich ist der Zustand zu Beginn des Veranlagungszeitraums."
+      "text": "Nach § 39 a der Göppinger Abwassersatzung sind die bebauten und befestigten Flächen eines Grundstücks Bemessungsgrundlage, soweit von ihnen Regenwasser in die öffentliche Kanalisation gelangt. Die Satzung gewichtet die Flächen nach ihrer Durchlässigkeit: Ziegel- und Kiesschüttdächer zählen voll, Gründächer zur Hälfte. Bei befestigten Flächen gilt Asphalt, Beton und Bitumen der Faktor 1,0, Pflaster, Platten, Ökopflaster und Rasenfugenpflaster 0,5; Schotterrasen, Kiesflächen und Rasengittersteine gehen mit 0,0 ein. Maßgeblich ist laut Satzung der Zustand zu Beginn des Veranlagungszeitraums."
     },
     {
       "h2": "Regenwasser sammeln: Zisterne und Mulde",
@@ -47,7 +47,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Nach § 11 der Gestaltungssatzung für den historischen Stadtkern ist der Versiegelungsgrad von Innenhöfen auf das unbedingt notwendige Maß zu beschränken; großflächige Versiegelung aus Beton und Asphalt ist nicht zulässig.",
+      "text": "§ 11 der Gestaltungssatzung für den historischen Stadtkern sieht vor, den Versiegelungsgrad von Innenhöfen auf das unbedingt notwendige Maß zu beschränken; großflächige Versiegelung aus Beton und Asphalt ist nicht zulässig.",
       "quelle": "Stadt Göppingen – Gestaltungssatzung Historischer Stadtkern",
       "url": "https://www.goeppingen.de/site/Goeppingen-Internet-2021/get/params_E725958227_Dattachment/19926253/Gestaltungssatzung.pdf",
       "abruf": "2026-10-02"
@@ -77,6 +77,7 @@
     "Verfahrensfreiheit von Terrassenüberdachungen/Carports: keine eigene Darstellung der Stadt Göppingen gefunden; daher bewusst keine Aussage.",
     "Baumschutzsatzung: in der Stadtrecht-Liste von Göppingen nicht gefunden.",
     "Ob eine Terrassenüberdachung als „bebaute Fläche“ im Sinne von § 39 a gilt, ist nicht ausdrücklich geregelt; im Text nur als Frage an die Stadt formuliert.",
-    "Satz „kann den Belag also auch mit Blick auf die gebührenrelevante Fläche wählen“ ist eine Ableitung aus den Faktoren, keine Ersparniszusage; Gebührensätze bewusst nicht genannt."
+    "Satz „kann den Belag also auch mit Blick auf die gebührenrelevante Fläche wählen“ ist eine Ableitung aus den Faktoren, keine Ersparniszusage; Gebührensätze bewusst nicht genannt.",
+    "QA 02.10.: Satz „Belag mit Blick auf die gebührenrelevante Fläche wählen“ entfernt (Bekannte Stelle, kein Ersparnisversprechen); Gestaltungssatzung als Wiedergabe gefasst."
   ]
 }

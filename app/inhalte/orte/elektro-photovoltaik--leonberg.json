@@ -10,11 +10,11 @@
   "abschnitte": [
     {
       "h2": "Elektriker in Leonberg: wem das Stromnetz gehört",
-      "text": "Das Stromnetz auf Leonberger Gemarkung gehört der Leo Energie GmbH & Co. KG, die der Gemeinderat 2011 gegründet hat. Mehrheitseigner sind mit 51 Prozent die Stadtwerke Leonberg, die übrigen Anteile hält eine landesweite Netzgesellschaft, an die das Netz verpachtet ist und die es betreibt. Für Ihr Vorhaben bedeutet das in der Regel: Anmeldungen von Photovoltaik, Speicher, Wallbox oder Wärmepumpe gehen an den Netzbetreiber. Die Anmeldung erledigt meist der ausführende Elektrobetrieb."
+      "text": "Das Stromnetz auf Leonberger Gemarkung gehört der Leo Energie GmbH & Co. KG, die der Gemeinderat 2011 gegründet hat. Mehrheitseigner sind mit 51 Prozent die Stadtwerke Leonberg, die übrigen Anteile hält eine landesweite Netzgesellschaft, an die das Netz verpachtet ist und die es betreibt. Für Ihr Vorhaben bedeutet das in der Regel: Anmeldungen von Photovoltaik, Speicher, Wallbox oder Wärmepumpe gehen an den Netzbetreiber."
     },
     {
       "h2": "Photovoltaik in Leonberg: verfahrensfrei, aber nicht überall frei",
-      "text": "Laut Stadt hat die Solarenergie in Leonberg das größte Potenzial unter den erneuerbaren Energien, weil die meisten Dachflächen noch nicht genutzt werden. Für eine erste Einschätzung verweist sie auf den Energieatlas des Landes und stellt Infoblätter zu Photovoltaik und Balkonkraftwerken bereit. Baurechtlich zählt das ServiceBüroBauen Anlagen zur Solarnutzung zu den verfahrensfreien Vorhaben, weist aber darauf hin, dass Bebauungsplan und Nachbarrecht trotzdem gelten. Anders ist es am Kulturdenkmal: Dort sind sämtliche Aufbauten genehmigungspflichtig, also in der Regel auch Solarmodule. Für die Altstadt mit ihren Fachwerkhäusern ist das ein wichtiger Punkt."
+      "text": "Laut Stadt hat die Solarenergie in Leonberg das größte Potenzial unter den erneuerbaren Energien, weil die meisten Dachflächen noch nicht genutzt werden. Für eine erste Einschätzung verweist sie auf den Energieatlas des Landes und stellt Infoblätter zu Photovoltaik und Balkonkraftwerken bereit. Baurechtlich zählt das ServiceBüroBauen Anlagen zur Solarnutzung zu den verfahrensfreien Vorhaben, weist aber darauf hin, dass Bebauungsplan und Nachbarrecht trotzdem gelten. Anders ist es am Kulturdenkmal: Dort nennt die Stadt „sämtliche Aufbauten“ als genehmigungspflichtig."
     },
     {
       "h2": "Beratung vor dem Auftrag",
@@ -66,7 +66,7 @@
     },
     {
       "q": "Brauche ich in Leonberg eine Baugenehmigung für Photovoltaik?",
-      "a": "Das ServiceBüroBauen führt Solaranlagen als verfahrensfreie Vorhaben, der Bebauungsplan gilt trotzdem. Bei einem Kulturdenkmal ist eine denkmalschutzrechtliche Genehmigung nötig."
+      "a": "Das ServiceBüroBauen führt Solaranlagen als verfahrensfreie Vorhaben, der Bebauungsplan gilt trotzdem. Bei Kulturdenkmalen nennt die Stadt sämtliche Aufbauten als genehmigungspflichtig."
     },
     {
       "q": "Wo kann ich in Leonberg das Solarpotenzial meines Dachs prüfen?",
@@ -76,6 +76,8 @@
   "offen": [
     "Netze BW als Netzbetreiber nur aus Leo-Energie-Seite (Verpachtung) und Kooperationsseite der Stadtwerke („Netze BW als erfahrener Netzbetreiber“) abgeleitet; netze-bw.de war nicht abrufbar (Timeout).",
     "Stadtteilbeispiele im Einstieg (Eltingen, Höfingen) nicht durch Fakten belegt.",
-    "„Solarmodule in der Regel genehmigungspflichtig am Kulturdenkmal“ ist Ableitung aus „sämtliche Aufbauten“; bitte prüfen."
+    "„Solarmodule in der Regel genehmigungspflichtig am Kulturdenkmal“ ist Ableitung aus „sämtliche Aufbauten“; bitte prüfen.",
+    "QA 02.10.: Ableitung „also in der Regel auch Solarmodule“ und Altstadt-Satz entfernt → nur Wortlaut der Stadt („sämtliche Aufbauten“), auch in FAQ 2. Wortlaut am 02.10. auf der Denkmalschutzseite nachgeprüft (auch „Baurechtsbehörde (Bauverwaltung) als untere Denkmalschutzbehörde“).",
+    "QA 02.10.: Unbelegter Satz „Anmeldung erledigt meist der ausführende Elektrobetrieb“ entfernt."
   ]
 }

@@ -4,17 +4,17 @@
   "ortName": "Freiburg",
   "kreis": "Freiburg im Breisgau",
   "title": "Dachdecker Freiburg – Fachbetrieb kostenlos vermittelt",
-  "description": "Dachdecker in Freiburg: Biberschwanz in der Altstadt, Gründach mit Photovoltaik, Programm GebäudeGrün hoch³ und Denkmalschutz. Fachbetrieb kostenlos vermittelt.",
+  "description": "Dachdecker in Freiburg: Biberschwanz in der Altstadt, Gründach mit Photovoltaik, Programm GebäudeGrün hoch³, Denkmalschutz. Kostenlos vermittelt.",
   "h1": "Dachdecker in Freiburg",
   "einstieg": "Wer in Freiburg einen Dachdecker sucht, steht oft vor mehr als einer Frage: Neu eindecken, dämmen, ein Dachfenster einbauen oder gleich begrünen und mit Solarmodulen belegen? Zwischen den steilen Ziegeldächern der Altstadt und den Flachdächern in Rieselfeld oder Vauban gelten sehr unterschiedliche Vorgaben, und die Stadt fördert Begrünung ausdrücklich.",
   "abschnitte": [
     {
       "h2": "Steildach in der Altstadt: Biberschwanz und Genehmigung",
-      "text": "Für die Innenstadt innerhalb der Ringe gilt die Satzung zum Schutz der Gesamtanlage „Historische Altstadt und Innenstadtbereich“. Sie beschreibt steile Dächer mit Biberschwanzdeckung und kräftige Traufgesimse als typisch für das Stadtbild, das nach dem Zweiten Weltkrieg bewusst so wieder aufgebaut wurde. Die Veränderung der Dachdeckung und der Gesimse ist dort genehmigungspflichtig, wenn sie vom öffentlichen Raum aus sichtbar ist. Wer eine Neueindeckung oder Gauben plant, klärt Material und Form deshalb in der Regel früh mit der unteren Denkmalschutzbehörde. Für zusätzliche Aufwendungen an Kulturdenkmalen nennt die Stadt Zuschüsse des Landesamts für Denkmalpflege als Möglichkeit."
+      "text": "Für die Innenstadt innerhalb der Ringe gilt die Satzung zum Schutz der Gesamtanlage „Historische Altstadt und Innenstadtbereich“. Sie beschreibt steile Dächer mit Biberschwanzdeckung und kräftige Traufgesimse als typisch für das Stadtbild, das nach dem Zweiten Weltkrieg bewusst so wieder aufgebaut wurde. Die Veränderung der Dachdeckung und der Gesimse ist dort genehmigungspflichtig, wenn sie vom öffentlichen Raum aus sichtbar ist. Eine frühe Abstimmung mit der unteren Denkmalschutzbehörde empfiehlt die Stadt ausdrücklich. Für zusätzliche Aufwendungen an Kulturdenkmalen nennt die Stadt Zuschüsse des Landesamts für Denkmalpflege als Möglichkeit."
     },
     {
       "h2": "Gründach und Photovoltaik kombinieren",
-      "text": "Der städtische Leitfaden zum Photovoltaik-Gründach erklärt, warum Freiburg auf begrünte Dächer setzt: Bei dichter Bauweise und Nachverdichtung sind Gründächer oft planerische Voraussetzung, weil sie Regenwasser zurückhalten. Je nach Aufbau können sie bis zu 90 Prozent des Jahresniederschlags speichern und verdunsten. Bei Nachrüstungen auf bestehenden Flachdächern betont der Leitfaden die Prüfung von Statik und bauphysikalischen Voraussetzungen, denn Substrat und Ballast für die Module bringen Gewicht. Für Dachdecker heißt das: Abdichtung, Wurzelschutz und Modulunterkonstruktion müssen aufeinander abgestimmt sein."
+      "text": "Der städtische Leitfaden zum Photovoltaik-Gründach erklärt, warum Freiburg auf begrünte Dächer setzt: Bei dichter Bauweise und Nachverdichtung sind Gründächer oft planerische Voraussetzung, weil sie Regenwasser zurückhalten. Je nach Aufbau können sie bis zu 90 Prozent des Jahresniederschlags speichern und verdunsten. Bei Nachrüstungen auf bestehenden Flachdächern betont der Leitfaden die Prüfung von Statik und bauphysikalischen Voraussetzungen, bei Nachrüstungen werden laut Leitfaden oft flache Ost-West-Systeme gewählt, um zusätzlichen Ballast gering zu halten."
     },
     {
       "h2": "GebäudeGrün hoch³: Beratung für Dach und Fassade",
@@ -76,6 +76,7 @@
   "offen": [
     "Stadtteile Rieselfeld und Vauban im Einstieg nur als Beispiele für Flachdachbebauung genannt, nicht belegt.",
     "Förderhöhen von GebäudeGrün hoch³ stehen auf der Stadtseite, wurden bewusst nicht übernommen.",
-    "Der PV-Gründach-Leitfaden nennt kein Erscheinungsdatum im Text; Programmangaben darin (z. B. Fördertelefonnummern) möglicherweise veraltet, im Seitentext nicht verwendet."
+    "Der PV-Gründach-Leitfaden nennt kein Erscheinungsdatum im Text; Programmangaben darin (z. B. Fördertelefonnummern) möglicherweise veraltet, im Seitentext nicht verwendet.",
+    "QA 02.10.: Description auf 155 Zeichen gekürzt (Bekannte Stelle). Abgeleitete Aussage „klärt Material und Form in der Regel früh …“ durch Empfehlung der Stadt ersetzt; unbelegter Fachsatz zu Abdichtung/Wurzelschutz gestrichen und durch Leitfaden-Aussage (Ost-West-Systeme) ersetzt (Punkt 13). GebäudeGrün hoch³ per curl geprüft: aktiv (Richtlinie seit 11/2025), keine Beträge im Text."
   ]
 }

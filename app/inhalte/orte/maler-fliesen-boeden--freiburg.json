@@ -10,15 +10,15 @@
   "abschnitte": [
     {
       "h2": "Putz, Farbe und Fensterläden in der Freiburger Altstadt",
-      "text": "Das Erscheinungsbild der Altstadt innerhalb des ehemaligen Mauerrings ist durch eine Satzung als Gesamtanlage geschützt. Die Satzung beschreibt, was dieses Bild prägt: vorherrschend glatt verputzte Fassaden, hochrechteckige Fenster mit Steingewänden, zweiflügelige Sprossenfenster und Fensterläden. Entsprechend nennt sie die Veränderung von Verputz, Farbe, Fenstern und Läden als genehmigungspflichtig, sobald sie vom öffentlichen Raum aus sichtbar ist; das gilt auch für Verkleidungen an Außenwänden. Für einen Maler bedeutet das: Farbton und Putzart werden in der Regel vorher mit der unteren Denkmalschutzbehörde im Baurechtsamt abgestimmt, bevor das Gerüst steht."
+      "text": "Das Erscheinungsbild der Altstadt innerhalb des ehemaligen Mauerrings ist durch eine Satzung als Gesamtanlage geschützt. Die Satzung beschreibt, was dieses Bild prägt: vorherrschend glatt verputzte Fassaden, hochrechteckige Fenster mit Steingewänden, zweiflügelige Sprossenfenster und Fensterläden. Entsprechend nennt sie die Veränderung von Verputz, Farbe, Fenstern und Läden als genehmigungspflichtig, sobald sie vom öffentlichen Raum aus sichtbar ist; das gilt auch für Verkleidungen an Außenwänden. Die untere Denkmalschutzbehörde ist in Freiburg im städtischen Baurechtsamt angesiedelt; eine frühzeitige Abstimmung im Vorfeld der Planung bezeichnet die Stadt als wichtig."
     },
     {
       "h2": "Kulturdenkmal oder Erhaltungsgebiet: Unterlagen für die Behörde",
-      "text": "Auch außerhalb der Altstadt kann ein Gebäude ein Kulturdenkmal sein. Die Stadt weist darauf hin, dass dann etwa die Erneuerung von Fenstern oder eine veränderte Fassadengestaltung eine denkmalrechtliche Genehmigung erfordern kann, auch wenn keine Baugenehmigung nötig ist. Eingereicht werden in der Regel eine Beschreibung der Maßnahme mit Materialien, Fotos des Ist-Zustands und gern auch das Angebot des Handwerksbetriebs. Für die südöstliche Altstadt gilt zusätzlich eine städtebauliche Erhaltungssatzung, nach der Änderungen baulicher Anlagen genehmigungsbedürftig sind. Innenarbeiten wie Fliesen im Bad oder ein neuer Bodenbelag berühren diese Fragen meist nur bei Denkmalen mit erhaltenswerter Ausstattung."
+      "text": "Auch außerhalb der Altstadt kann ein Gebäude ein Kulturdenkmal sein. Die Stadt weist darauf hin, dass dann etwa die Erneuerung von Fenstern oder eine veränderte Fassadengestaltung eine denkmalrechtliche Genehmigung erfordern kann, auch wenn keine Baugenehmigung nötig ist. Zu den Unterlagen gehören laut Stadt in der Regel eine Beschreibung der Maßnahme mit Materialien, maßstäbliche Pläne und Fotos des Ist-Zustands; Angebote von Handwerksbetrieben können beigefügt werden. Für die südöstliche Altstadt gilt zusätzlich eine städtebauliche Erhaltungssatzung, nach der Änderungen baulicher Anlagen genehmigungsbedürftig sind. Ob bei einem Kulturdenkmal auch Innenarbeiten wie neue Fliesen oder ein neuer Bodenbelag eine Genehmigung brauchen, beantwortet die untere Denkmalschutzbehörde."
     },
     {
       "h2": "Fassade dämmen statt nur streichen?",
-      "text": "Steht ohnehin ein Gerüst, liegt die Frage nach einer Dämmung der Außenwand nahe. Die Stadt fördert im Programm „Klimafreundlich Wohnen“ mit dem Baustein „Gebäudehülle optimal gedämmt“ solche Maßnahmen; als Fördervoraussetzung für Einzelmaßnahmen wird der Gebäude-Check der Freiburger Energiesparberatung anerkannt. Ob gerade Mittel verfügbar sind, veröffentlicht die Stadt auf der Programmseite. Wenn Sie wissen, welche Arbeiten anstehen, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Steht ohnehin ein Gerüst, liegt die Frage nach einer Dämmung der Außenwand nahe. Die Stadt hat dafür im Förderprogramm „Klimafreundlich Wohnen“ den Baustein „Gebäudehülle optimal gedämmt“; über die aktuellen Bedingungen informiert die Stadt auf der Programmseite. Wenn Sie wissen, welche Arbeiten anstehen, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -53,7 +53,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Das städtische Förderprogramm „Klimafreundlich Wohnen“ enthält den Baustein „Gebäudehülle optimal gedämmt“; der Gebäude-Check der Freiburger Energiesparberatung wird als Fördervoraussetzung für Einzelmaßnahmen dieses Bausteins anerkannt.",
+      "text": "Das städtische Förderprogramm „Klimafreundlich Wohnen“ enthält den Baustein „Gebäudehülle optimal gedämmt“.",
       "quelle": "Stadt Freiburg – Förderprogramm Klimafreundlich Wohnen",
       "url": "https://www.freiburg.de/pb/232441.html",
       "abruf": "2026-10-02"
@@ -66,16 +66,17 @@
     },
     {
       "q": "Betreffen die Altstadtregeln auch Fliesen und Böden innen?",
-      "a": "Die Gesamtanlagensatzung schützt das von außen sichtbare Erscheinungsbild. Bei einem eingetragenen Kulturdenkmal kann auch die Innenausstattung geschützt sein; das klärt die Denkmalbehörde im Einzelfall."
+      "a": "Die Gesamtanlagensatzung bezieht sich auf das vom öffentlichen Verkehrsraum aus sichtbare Erscheinungsbild. Ob bei einem Kulturdenkmal auch Arbeiten im Inneren genehmigungspflichtig sind, beantwortet die untere Denkmalschutzbehörde im Baurechtsamt."
     },
     {
       "q": "Gibt es in Freiburg Unterstützung für die Dämmung der Fassade?",
-      "a": "Die Stadt hat dafür im Programm „Klimafreundlich Wohnen“ den Baustein Gebäudehülle. Ob Mittel verfügbar sind, steht auf der Programmseite der Stadt."
+      "a": "Die Stadt hat dafür im Programm „Klimafreundlich Wohnen“ den Baustein „Gebäudehülle optimal gedämmt“. Über die aktuellen Bedingungen informiert die Stadt auf der Programmseite."
     }
   ],
   "offen": [
     "Laut Programmseite (Abruf 02.10.2026) sind die Mittel von „Klimafreundlich Wohnen“ für 2026 ausgeschöpft, Anträge wieder ab 1. Januar 2027 – im Text bewusst nicht als Momentangabe übernommen, nur Verweis auf die Programmseite.",
     "Aussage zur Innenausstattung von Kulturdenkmalen (FAQ 3) allgemein formuliert, nicht durch eine Freiburger Quelle belegt.",
-    "Abgrenzung der Erhaltungssatzung nur auszugsweise wiedergegeben (Münsterplatz, Schlossbergring, Kaiser-Joseph-Straße)."
+    "Abgrenzung der Erhaltungssatzung nur auszugsweise wiedergegeben (Münsterplatz, Schlossbergring, Kaiser-Joseph-Straße).",
+    "QA 02.10.: „Klimafreundlich Wohnen“: Fördervoraussetzung (Gebäude-Check) und „ob gerade Mittel verfügbar sind“ gestrichen (Punkt 2/16, Mittel 2026 ausgeschöpft) – nur Existenz + Verweis. Abgeleitete Aussage „Farbton … wird in der Regel vorher abgestimmt“ durch Wortlaut der Denkmalseite (frühzeitige Abstimmung, UDB im Baurechtsamt) ersetzt; unbelegte Aussagen zur Innenausstattung (Abschnitt 2, FAQ 2) neutral als Auskunftsverweis gefasst."
   ]
 }

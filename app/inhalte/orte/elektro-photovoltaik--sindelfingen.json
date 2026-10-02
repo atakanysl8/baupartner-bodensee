@@ -6,7 +6,7 @@
   "title": "Elektriker Sindelfingen – Fachbetrieb kostenlos vermittelt",
   "description": "Elektriker in Sindelfingen: PV-Anfrage und Messkonzept bei den Stadtwerken, Wallbox und Wärmepumpe anmelden, Solar im Schnödeneck. Kostenlos vermittelt.",
   "h1": "Elektriker in Sindelfingen",
-  "einstieg": "Ob Photovoltaik auf dem Reihenhaus im Goldberg, eine Wallbox in der Tiefgarage am Eichholz oder ein neuer Zählerschrank für die Wärmepumpe in Maichingen: Wer in Sindelfingen einen Elektriker sucht, hat es beim Netzanschluss mit den Stadtwerken Sindelfingen zu tun. Sie betreiben das Stromnetz in der Stadt und haben für Erzeugungsanlagen und größere Verbraucher eigene Abläufe.",
+  "einstieg": "Ob Photovoltaik auf dem Reihenhaus im Goldberg, eine Wallbox in der Tiefgarage am Eichholz oder ein neuer Zählerschrank für die Wärmepumpe in Maichingen: Wer in Sindelfingen einen Elektriker sucht, hat es beim Netzanschluss mit den Stadtwerken Sindelfingen zu tun. Sie treten dabei als Netzbetreiber auf und haben für Erzeugungsanlagen und größere Verbraucher eigene Abläufe.",
   "abschnitte": [
     {
       "h2": "Elektriker in Sindelfingen: Anmeldung bei den Stadtwerken",
@@ -18,7 +18,7 @@
     },
     {
       "h2": "Solar im Bestand: Schnödeneck und städtische Ziele",
-      "text": "Die Stadt hat sich Klimaneutralität bis 2040 zum Ziel gesetzt und setzt mit ihrer Solaroffensive auf Photovoltaik, bis hin zu einer geplanten Freiflächenanlage auf der Überdeckelung der A81. Wer in der denkmalgeschützten Gartenstadtsiedlung Schnödeneck wohnt, plant Solaranlagen zusätzlich mit der Denkmalpflege der Stadt. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+      "text": "Die Stadt hat sich Klimaneutralität bis 2040 zum Ziel gesetzt und setzt mit ihrer Solaroffensive auf Photovoltaik, bis hin zu einer geplanten Freiflächenanlage auf der Überdeckelung der A81. Die Gartenstadtsiedlung Schnödeneck steht seit 1984 unter Denkmalschutz; für sie gibt es eine eigene Gestaltungs- und Erhaltungssatzung, und die Stadt stellt einen Antrag auf denkmalschutzrechtliche Genehmigung bereit. Auskunft gibt die Denkmalpflege der Stadt. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
     }
   ],
   "fakten": [
@@ -76,12 +76,13 @@
     },
     {
       "q": "Gilt im Schnödeneck etwas Besonderes für Solaranlagen?",
-      "a": "Die Siedlung steht seit 1984 unter Denkmalschutz. Ob und wie eine Anlage möglich ist, klärt die Denkmalpflege der Stadt Sindelfingen im Genehmigungsverfahren."
+      "a": "Die Siedlung steht seit 1984 unter Denkmalschutz, und es gibt eine Gestaltungs- und Erhaltungssatzung für das Schnödeneck. Was das für eine Solaranlage bedeutet, beantwortet die Denkmalpflege der Stadt Sindelfingen."
     }
   ],
   "offen": [
     "Stadtteilbeispiele im Einstieg (Goldberg, Eichholz, Maichingen) nicht durch Fakten belegt.",
     "Dass die Stadtwerke Sindelfingen das Stromnetz im gesamten Stadtgebiet betreiben, ist aus „Netzbetreiber“ (Eigenerzeuger-Seite) und Grundversorger-Angabe abgeleitet; eine Netzgebietskarte wurde nicht gefunden.",
-    "Keine Aussage gefunden, ob PV im Schnödeneck konkret zulässig ist; FAQ verweist nur auf das Verfahren."
+    "Keine Aussage gefunden, ob PV im Schnödeneck konkret zulässig ist; FAQ verweist nur auf das Verfahren.",
+    "QA 02.10.: Einstieg „betreiben das Stromnetz in der Stadt“ (nur abgeleitet) neutral als „treten als Netzbetreiber auf“ gefasst (Punkt 4). Schnödeneck: abgeleitete Aussage „plant Solaranlagen mit der Denkmalpflege“ durch Wortlaut der Stadtseite ersetzt (Denkmalschutz seit 1984, Gestaltungs- und Erhaltungssatzung nur als Existenz, Antrag auf denkmalschutzrechtliche Genehmigung) (Punkt 15). 4,2 kW und Portal-/Papierhinweis am 02.10. auf Stadtwerke-Seiten bestätigt."
   ]
 }

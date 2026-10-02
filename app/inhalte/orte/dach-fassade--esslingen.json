@@ -10,7 +10,7 @@
   "abschnitte": [
     {
       "h2": "Neue Eindeckung in der Gesamtanlage: auch ohne Bauantrag genehmigungspflichtig",
-      "text": "Die Satzung über die Gesamtanlage „Esslingen am Neckar“ schützt ausdrücklich auch das Bild, das sich von den umgebenden Hängen bietet. Genehmigungspflichtig bei der Stadt als unterer Denkmalschutzbehörde sind laut § 4 auch Vorhaben, die keine Baugenehmigung brauchen, darunter Bedachungen einschließlich Maßnahmen der Wärmedämmung sowie Anlagen zur photovoltaischen und thermischen Solarnutzung. Bei eingetragenen Kulturdenkmalen bedarf schon die Instandsetzung der Genehmigung. Welche Ziegel, Farben und Dämmaufbauten dort in Frage kommen, klärt die Denkmalschutzbehörde."
+      "text": "Die Satzung über die Gesamtanlage „Esslingen am Neckar“ schützt ausdrücklich auch das Bild, das sich von den umgebenden Hängen bietet. Genehmigungspflichtig sind laut § 4 auch Vorhaben, die keine Baugenehmigung brauchen, darunter Bedachungen einschließlich Maßnahmen der Wärmedämmung sowie Anlagen zur photovoltaischen und thermischen Solarnutzung. Bei eingetragenen Kulturdenkmalen bedarf schon die Instandsetzung der Genehmigung. Welche Ziegel, Farben und Dämmaufbauten dort in Frage kommen, klärt die Denkmalschutzbehörde der Stadt, die laut Stadt Veränderungen am Bild der Gesamtanlage genehmigt."
     },
     {
       "h2": "Hitze unterm Dach: Hotspots in Innenstadt, Mettingen und Zell",
@@ -68,7 +68,7 @@
   "faq": [
     {
       "q": "Braucht eine neue Dacheindeckung in der Esslinger Altstadt eine Genehmigung?",
-      "a": "Im Bereich der Gesamtanlage nennt die Satzung Bedachungen einschließlich Wärmedämmung als genehmigungspflichtig, auch ohne Bauantrag. Zuständig ist die Stadt als untere Denkmalschutzbehörde."
+      "a": "Im Bereich der Gesamtanlage nennt die Satzung Bedachungen einschließlich Wärmedämmung als genehmigungspflichtig, auch ohne Bauantrag. Genehmigungen erteilt die Denkmalschutzbehörde der Stadt Esslingen."
     },
     {
       "q": "Gilt das auch für die Dachdämmung eines Hauses in der Esslinger Gesamtanlage?",
@@ -81,6 +81,7 @@
   ],
   "offen": [
     "Weinberghänge im Einstieg: gestützt auf die Satzung (Schutz des Bilds von den umgebenden Hängen) und die städtische Klimaseite (Weinbau); Formulierung frei.",
-    "Dachbegrünung: keine städtische Vorgabe oder Förderung für private Gründächer in Esslingen gefunden."
+    "Dachbegrünung: keine städtische Vorgabe oder Förderung für private Gründächer in Esslingen gefunden.",
+    "QA 02.10.: „bei der Stadt als unterer Denkmalschutzbehörde“/„Zuständig ist die Stadt als untere Denkmalschutzbehörde“ (abgeleitet) durch Wortlaut der Stadtseite „Denkmalschutzbehörde der Stadt“ ersetzt (Punkt 4)."
   ]
 }

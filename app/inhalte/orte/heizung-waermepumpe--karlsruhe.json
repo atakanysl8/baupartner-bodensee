@@ -10,15 +10,15 @@
   "abschnitte": [
     {
       "h2": "Fernwärme, Nahwärme oder eigene Wärmepumpe?",
-      "text": "Der Energieleitplan teilt das Stadtgebiet in Eignungsgebiete für Einzelheizungen, Fernwärme und Nahwärme ein, gibt aber ausdrücklich keine verbindliche Aussage für einzelne Häuser. Ob Fernwärme an der eigenen Adresse schon verfügbar ist, lässt sich über einen Online-Check der Stadtwerke prüfen. Für mehrere Quartiere hat die Stadt Nahwärme untersuchen lassen: In Weiherfeld und im Grötzinger Wohnpark an der Pfinz wäre ein Netz grundsätzlich machbar, sofern genug Haushalte mitmachen. In Daxlanden, Oberreut, Hagsfeld und Rüppurr ist Nahwärme nach den Studien vorerst keine Option. Wer dort zeitnah tauschen muss, landet laut Stadt in aller Regel bei einer Einzelheizung, nach Möglichkeit mit Wärmepumpe."
+      "text": "Der Energieleitplan teilt das Stadtgebiet in Eignungsgebiete für Einzelheizungen, Fernwärme und Nahwärme ein, gibt aber ausdrücklich keine verbindliche Aussage für einzelne Häuser. Ob Fernwärme an der eigenen Adresse schon verfügbar ist, lässt sich über einen Online-Check der Stadtwerke prüfen. Für mehrere Quartiere hat die Stadt Nahwärme untersuchen lassen: In Weiherfeld und im Grötzinger Wohnpark an der Pfinz wäre ein Netz grundsätzlich machbar, sofern genug Haushalte mitmachen. In Daxlanden, Oberreut, Hagsfeld und Rüppurr ist Nahwärme nach den Studien keine Option. Wer dort zeitnah tauschen muss, landet laut Stadt in aller Regel bei einer Einzelheizung, nach Möglichkeit mit Wärmepumpe."
     },
     {
       "h2": "Erdwärme in der Rheinebene: Bohrtiefe und Wasserschutzgebiete",
-      "text": "Im Informationssystem Oberflächennahe Geothermie (ISONG) des Landesamts für Geologie lässt sich für jedes Grundstück abfragen, welche Bohrtiefe zulässig ist und ob es in einem Wasserschutzgebiet liegt. Stadtweit gibt es zum Schutz des unteren Grundwasserleiters bereichsweise Tiefenbegrenzungen. In der Schutzzone IIIA sind Geothermieanlagen nach Angaben der Stadt in der Regel nicht erlaubt, in der Zone IIIB nur mit Wasser als Wärmeträger. Für jede Anlage braucht es eine wasserrechtliche Erlaubnis, beantragt bei der unteren Wasserbehörde."
+      "text": "Im Informationssystem Oberflächennahe Geothermie (ISONG) des Landesamts für Geologie lässt sich für jedes Grundstück abfragen, welche Bohrtiefe zulässig ist und ob es in einem Wasserschutzgebiet liegt. Stadtweit gibt es zum Schutz des unteren Grundwasserleiters bereichsweise Tiefenbegrenzungen. In der Schutzzone IIIA sind Geothermieanlagen nach Angaben der Stadt in der Regel nicht erlaubt, in der Zone IIIB nur mit Wasser als Wärmeträger. Für jede Anlage ist laut Stadt eine wasserrechtliche Erlaubnis nötig; zuständig ist die untere Wasserbehörde."
     },
     {
       "h2": "Beratung vor dem Heizungstausch",
-      "text": "Ob in einer Straße künftig ein Anschluss- und Benutzungszwang für ein Wärmenetz kommt, behandelt der Energieleitplan nicht; bei einem Fernwärmeangebot können Eigentümer laut Stadt weiterhin frei entscheiden. Fragen zum Gebäudeenergiegesetz und zu dezentralen Lösungen beantwortet die Karlsruher Energie- und Klimaschutzagentur, die auch in die Stadtteile kommt. Ist die Richtung klar, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Heizungsbauer aus."
+      "text": "Ob in einer Straße künftig ein Anschluss- und Benutzungszwang für ein Wärmenetz kommt, behandelt der Energieleitplan nicht; bei einem Fernwärmeangebot können Eigentümer laut Stadt weiterhin frei entscheiden. Fragen zum Gebäudeenergiegesetz und zu dezentralen Lösungen beantwortet die Karlsruher Energie- und Klimaschutzagentur. Ist die Richtung klar, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Heizungsbauer aus."
     }
   ],
   "fakten": [
@@ -29,7 +29,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Nach den Machbarkeitsstudien der Stadt ist Nahwärme in Weiherfeld, im Grötzinger Wohnpark an der Pfinz und im Gewerbegebiet An der Rossweid grundsätzlich möglich, in Daxlanden, Oberreut, Hagsfeld und Rüppurr derzeit keine Option.",
+      "text": "Nach den Machbarkeitsstudien der Stadt ist Nahwärme in Weiherfeld, im Grötzinger Wohnpark an der Pfinz und im Gewerbegebiet An der Rossweid grundsätzlich möglich, in Daxlanden, Oberreut, Hagsfeld und Rüppurr keine Option.",
       "quelle": "Stadt Karlsruhe – Energieleitplan, Ergebnisse Machbarkeitsstudien Nahwärme",
       "url": "https://www.karlsruhe.de/umwelt-klima/klimaschutz-klimaanpassung/klimaschutzaktivitaeten/energieleitplan",
       "abruf": "2026-10-02"
@@ -41,7 +41,7 @@
       "abruf": "2026-10-02"
     },
     {
-      "text": "Größter Lieferant der Karlsruher Fernwärme ist Abwärme der Mineralölraffinerie MiRO; über 55.000 Wohn- und Gewerbeeinheiten sind angeschlossen, die Verfügbarkeit lässt sich je Adresse online prüfen.",
+      "text": "Größter Lieferant der Karlsruher Fernwärme ist laut Stadtwerken industrielle Abwärme einer Mineralölraffinerie; die Verfügbarkeit lässt sich je Adresse online prüfen.",
       "quelle": "Stadtwerke Karlsruhe – Fernwärme-Anschluss",
       "url": "https://www.stadtwerke-karlsruhe.de/de/pk/fernwaerme/anschluss.php",
       "abruf": "2026-10-02"
@@ -71,8 +71,8 @@
       "a": "Das zeigt der Verfügbarkeits-Check der Stadtwerke für die einzelne Adresse."
     },
     {
-      "q": "Lohnt es sich in Rüppurr oder Oberreut, auf ein Nahwärmenetz zu warten?",
-      "a": "Nach den Machbarkeitsstudien der Stadt ist Nahwärme in diesen Stadtteilen vorerst keine Option. Steht ein Heizungstausch an, bleibt dort in der Regel eine Einzelheizung."
+      "q": "Kommt in Rüppurr oder Oberreut ein Nahwärmenetz?",
+      "a": "Nach den Machbarkeitsstudien der Stadt ist Nahwärme in diesen Stadtteilen keine Option. Steht ein Heizungstausch an, bleibt dort in der Regel eine Einzelheizung."
     },
     {
       "q": "Darf ich in Karlsruhe für eine Wärmepumpe eine Erdwärmesonde bohren lassen?",
@@ -82,6 +82,7 @@
   "offen": [
     "Stadtteilnennungen im Einstieg (Daxlanden, Weststadt) sind Beispiele; Daxlanden ist zugleich als Nahwärme-Gebiet ohne Option belegt.",
     "Die Stadtseite nennt einen Stichtag für GEG-Vorgaben (1. Juli 2026) und verweist auf § 71 GEG; bewusst nicht übernommen (Pflichtaussage, Rechtslage im Wandel; die Stadtwerke nennen bereits das „Gebäudemodernisierungsgesetz“).",
-    "Abstandsempfehlungen für Erdwärmesonden (10 m untereinander, 5 m zum Nachbargrundstück) stehen auf der Stadtseite, wurden aber nicht übernommen."
+    "Abstandsempfehlungen für Erdwärmesonden (10 m untereinander, 5 m zum Nachbargrundstück) stehen auf der Stadtseite, wurden aber nicht übernommen.",
+    "QA 02.10.: „derzeit/vorerst keine Option“ ohne Zeitbezug gefasst (Punkt 1); Firmenname der Raffinerie und Anschlusszahl ohne Stand entfernt (Punkt 3/8); Erlaubnis als Wiedergabe; unbelegtes „kommt in die Stadtteile“ (KEK) gestrichen; FAQ „Lohnt es sich zu warten“ neutral (Vorlage 2 D)."
   ]
 }
