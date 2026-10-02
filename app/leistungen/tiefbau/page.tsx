@@ -1,6 +1,6 @@
 'use client'
 
-import { motion, AnimatePresence } from 'motion/react'
+import { motion } from 'motion/react'
 import { useState, useRef } from 'react'
 import Image from 'next/image'
 import Footer from '../../components/Footer'
@@ -46,7 +46,7 @@ function Hero() {
           </motion.p>
 
           <motion.p className="hb-hero-lead" variants={fadeUp}>
-            Jedes solide Haus braucht einen starken Grund. Wir bringen Sie mit leistungsstarken Tiefbau-Spezialisten zusammen, die Ihr Grundstück mit modernstem Gerät optimal für den Baustart vorbereiten.
+            Jedes solide Haus braucht einen starken Grund. Wir bringen Sie mit einem passenden Tiefbau-Fachbetrieb zusammen, der Ihr Grundstück für den Baustart vorbereitet.
           </motion.p>
 
           <motion.div className="hero-ctas" variants={fadeUp}>
@@ -76,7 +76,7 @@ const serviceItems = [
       </svg>
     ),
     title: 'Erdarbeiten',
-    desc: 'Leistungsstarke Tiefbauer für schnelle Erdarbeiten',
+    desc: 'Tiefbaubetriebe für Erdarbeiten und Aushub',
     detail: 'Wir vermitteln Spezialisten mit modernem Maschinenpark für Aushub, Planierarbeiten und Geländemodellierung.',
   },
   {
@@ -379,7 +379,7 @@ const faqs = [
   },
   {
     q: 'Brauche ich für Tiefbauarbeiten eine Genehmigung?',
-    a: 'Das hängt von Art und Umfang der Arbeiten ab. Für Kanalbauarbeiten, Leitungsverlegungen und größere Erdarbeiten sind in der Regel Genehmigungen und Leitungsauskünfte erforderlich. Die vermittelten Fachbetriebe kennen die regionalen Vorschriften und begleiten Sie durch den Prozess.',
+    a: 'Das hängt von Art und Umfang der Arbeiten ab. Für Kanalbauarbeiten, Leitungsverlegungen und größere Erdarbeiten sind in der Regel Genehmigungen und Leitungsauskünfte erforderlich. Auskunft geben die zuständigen Stellen der Gemeinde.',
   },
   {
     q: 'Kann ich auch eine Reparatur – z. B. am Hausanschluss oder an der Entwässerung – anfragen?',
@@ -438,19 +438,10 @@ function FAQ() {
                   <path d="M5 7.5l5 5 5-5" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
                 </svg>
               </button>
-              <AnimatePresence initial={false}>
-                {open === i && (
-                  <motion.div
-                    className="faq-a"
-                    initial={{ height: 0, opacity: 0 }}
-                    animate={{ height: 'auto', opacity: 1 }}
-                    exit={{ height: 0, opacity: 0 }}
-                    transition={{ duration: 0.28, ease: [0.25, 0.1, 0.25, 1] as const }}
-                  >
-                    <p>{faq.a}</p>
-                  </motion.div>
-                )}
-              </AnimatePresence>
+              {/* Antwort immer im HTML (für Suchmaschinen), nur ausgeblendet, solange zugeklappt */}
+              <div className="faq-a" hidden={open !== i}>
+                <p>{faq.a}</p>
+              </div>
             </motion.div>
           ))}
         </motion.div>
@@ -509,7 +500,7 @@ const faqSchema = {
 const serviceSchema = {
   '@context': 'https://schema.org',
   '@type': 'Service',
-  serviceType: 'Tiefbau',
+  serviceType: 'Tiefbau & Erdarbeiten',
   provider: { '@type': 'Organization', name: 'Bodensee BauPartner GbR', url: 'https://www.bodensee-baupartner.de/' },
   areaServed: { '@type': 'State', name: 'Baden-Württemberg' },
   description: 'Tiefbau-Fachbetriebe in der Bodenseeregion: Erdarbeiten, Fundamentierung, Kanal- & Leitungsbau, Straßenbau. Kostenlose Vermittlung durch Bodensee BauPartner GbR.',
@@ -520,7 +511,7 @@ const breadcrumbSchema = {
   '@type': 'BreadcrumbList',
   itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'Start', item: 'https://www.bodensee-baupartner.de/' },
-    { '@type': 'ListItem', position: 2, name: 'Tiefbau', item: 'https://www.bodensee-baupartner.de/leistungen/tiefbau/' },
+    { '@type': 'ListItem', position: 2, name: 'Tiefbau & Erdarbeiten', item: 'https://www.bodensee-baupartner.de/leistungen/tiefbau/' },
   ],
 }
 

@@ -4,7 +4,7 @@ import { motion, useScroll, useTransform, AnimatePresence } from 'motion/react'
 import { useState, useRef, useEffect } from 'react'
 import Image from 'next/image'
 import Footer from './components/Footer'
-import { LEISTUNGEN, type LeistungSlug } from './inhalte/leistungen'
+import { LEISTUNGEN, LEISTUNG_SLUGS, GRUPPEN, leistungenDerGruppe, type LeistungSlug } from './inhalte/leistungen'
 
 /* ── Animation variants ──────────────────────────────────────────────────── */
 const fadeUp = {
@@ -23,13 +23,12 @@ const staggerSlow = {
 }
 
 /* ── Nav ─────────────────────────────────────────────────────────────────── */
-const leistungenItems = [
-  { label: 'Hochbau', href: '/leistungen/hochbau' },
-  { label: 'Tiefbau', href: '/leistungen/tiefbau' },
-  { label: 'Bad & Sanitär', href: '/leistungen/bad-sanitaer' },
-  { label: 'Innenausbau', href: '/leistungen/innenausbau' },
-  { label: 'Renovierung & Sanierung', href: '/leistungen/renovierung-sanierung' },
-]
+// aus der zentralen Leistungsliste (app/inhalte/leistungen.ts), gruppiert für das Dropdown
+const LEISTUNGS_GRUPPEN = GRUPPEN.map((g) => ({
+  titel: g.titel,
+  items: leistungenDerGruppe(g.gruppe).map((l) => ({ label: l.name, href: `/leistungen/${l.slug}` })),
+}))
+const leistungenItems = LEISTUNGS_GRUPPEN.flatMap((g) => g.items)
 
 function Nav() {
   const [scrolled, setScrolled] = useState(false)
@@ -85,24 +84,29 @@ function Nav() {
               <AnimatePresence>
                 {dropdownOpen && (
                   <motion.div
-                    className="nav-dropdown-menu"
+                    className="nav-dropdown-menu nav-dropdown-menu--gruppen"
                     initial={{ opacity: 0, y: -6, scale: 0.97 }}
                     animate={{ opacity: 1, y: 0, scale: 1 }}
                     exit={{ opacity: 0, y: -6, scale: 0.97 }}
                     transition={{ duration: 0.18, ease: [0.25, 0.1, 0.25, 1] as const }}
                   >
-                    {leistungenItems.map((item, i) => (
+                    {LEISTUNGS_GRUPPEN.map((g, gi) => (
+                      <div key={g.titel} className="nav-dropdown-gruppe">
+                        <div className="nav-dropdown-gruppe-titel">{g.titel}</div>
+                        {g.items.map((item, i) => (
                       <motion.a
                         key={item.label}
                         href={item.href}
                         className="nav-dropdown-item"
                         initial={{ opacity: 0, x: -6 }}
                         animate={{ opacity: 1, x: 0 }}
-                        transition={{ delay: i * 0.04, duration: 0.15 }}
+                        transition={{ delay: (gi * 4 + i) * 0.03, duration: 0.15 }}
                       >
                         <span className="nav-dropdown-dot" />
                         {item.label}
                       </motion.a>
+                    ))}
+                      </div>
                     ))}
                   </motion.div>
                 )}
@@ -226,7 +230,7 @@ function Hero() {
             </motion.h1>
 
             <motion.p className="hero-sub" variants={fadeUp}>
-              Bodensee BauPartner vermittelt Privatkunden und Bauherren am Bodensee kostenlos passende Fachbetriebe aus der Region – für Hochbau, Tiefbau, Sanitär, Innenausbau und Renovierung. Schnell, transparent und persönlich: Wir finden den richtigen Handwerker für Ihr Vorhaben.
+              Bodensee BauPartner vermittelt Privatkunden und Bauherren am Bodensee kostenlos passende Fachbetriebe aus der Region – vom Neubau über Dach, Bad, Heizung und Elektro bis zu Maler- und Gartenarbeiten. Schnell, transparent und persönlich: Wir finden den richtigen Handwerker für Ihr Vorhaben.
             </motion.p>
 
             <motion.div className="hero-ctas" variants={fadeUp}>
@@ -389,7 +393,7 @@ const leistungen = [
         <path d="M3 19h16"/><path d="M5 19V9l6-5 6 5v10"/><rect x="8" y="12" width="6" height="7"/>
       </svg>
     ),
-    title: 'Hochbau',
+    title: 'Neubau & Rohbau',
     desc: 'Vom Rohbau bis zur Fassade — Ihr Bauprojekt in erfahrenen Händen.',
     items: ['Rohbau & Stahlbetonbau', 'Mauerwerk & Tragwände', 'Deckenkonstruktionen', 'Fassaden & Außenwände', 'Treppen & Balkone'],
   },
@@ -401,7 +405,7 @@ const leistungen = [
         <rect x="3" y="3" width="16" height="16" rx="1"/><path d="M3 11h16M11 3v16"/>
       </svg>
     ),
-    title: 'Tiefbau',
+    title: 'Tiefbau & Erdarbeiten',
     desc: 'Fundament für jedes Bauwerk — solide Basis für Ihr Projekt.',
     items: ['Erdarbeiten & Aushub', 'Fundamentierung & Bodenplatte', 'Kanal- & Leitungsbau', 'Straßen- & Wegebau', 'Hangsicherung & Spundwände'],
   },
@@ -413,9 +417,9 @@ const leistungen = [
         <path d="M12 2.69l5.66 5.66a8 8 0 11-11.31 0z"/>
       </svg>
     ),
-    title: 'Bad & Sanitär',
+    title: 'Badsanierung & Sanitär',
     desc: 'Moderne Badezimmer und Sanitäranlagen — funktional und stilvoll.',
-    items: ['Badplanung & Gestaltung', 'Sanitärinstallation', 'Fliesen & Abdichtung', 'Wanne, Dusche & WC', 'Heizung & Warmwasser'],
+    items: ['Badplanung & Gestaltung', 'Sanitärinstallation', 'Fliesen & Abdichtung', 'Wanne, Dusche & WC', 'Barrierefreies Bad'],
   },
   {
     featured: false,
@@ -425,9 +429,9 @@ const leistungen = [
         <rect x="2" y="7" width="20" height="10" rx="2"/><path d="M6 17v2M16 17v2M2 12h20"/>
       </svg>
     ),
-    title: 'Innenausbau',
+    title: 'Innenausbau & Trockenbau',
     desc: 'Vom Rohbau zum fertigen Innenraum — passende Fachbetriebe für jedes Gewerk.',
-    items: ['Trockenbau & Wände', 'Bodenbeläge & Parkett', 'Deckengestaltung', 'Türen & Fenster', 'Malerarbeiten'],
+    items: ['Trockenbau & Wände', 'Dachgeschossausbau', 'Deckengestaltung', 'Innentüren', 'Treppen'],
   },
   {
     featured: false,
@@ -437,9 +441,81 @@ const leistungen = [
         <path d="M14.7 6.3a1 1 0 000 1.4l1.6 1.6a1 1 0 001.4 0l3.77-3.77a6 6 0 01-7.94 7.94l-6.91 6.91a2.12 2.12 0 01-3-3l6.91-6.91a6 6 0 017.94-7.94l-3.76 3.76z"/>
       </svg>
     ),
-    title: 'Renovierung & Sanierung',
+    title: 'Sanierung & Renovierung',
     desc: 'Bestand modernisieren, Wert steigern — mit Fingerspitzengefühl.',
-    items: ['Gebäudesanierungen', 'Energetische Modernisierung', 'Erweiterungsbauten', 'Dach- & Fassadensanierung', 'Umbau & Rückbau'],
+    items: ['Kernsanierung', 'Energetische Modernisierung', 'Altbausanierung', 'Schimmel & Feuchte', 'Umbau & Rückbau'],
+  },
+  {
+    featured: false,
+    href: '/leistungen/dach-fassade',
+    icon: (
+      <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" strokeWidth="1.5">
+        <path d="M2 11l9-7 9 7"/><path d="M5 9v10h12V9"/><path d="M9 19v-5h4v5"/>
+      </svg>
+    ),
+    title: 'Dach & Fassade',
+    desc: 'Dach decken, sanieren, dämmen — und die Fassade gleich mit.',
+    items: ['Dachdecker & Dacheindeckung', 'Dachsanierung & Dämmung', 'Fassadensanierung', 'Zimmerei & Dachstuhl', 'Dachfenster & Gauben'],
+  },
+  {
+    featured: false,
+    href: '/leistungen/heizung-waermepumpe',
+    icon: (
+      <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" strokeWidth="1.5">
+        <path d="M11 3c2 3-2 4 0 7s-2 4 0 7"/><rect x="3" y="17" width="16" height="3" rx="1"/>
+      </svg>
+    ),
+    title: 'Heizung & Wärmepumpe',
+    desc: 'Heizung tauschen, Wärmepumpe planen — effizient heizen.',
+    items: ['Wärmepumpe', 'Heizungstausch', 'Heizungswartung & -reparatur', 'Fußbodenheizung', 'Warmwasser'],
+  },
+  {
+    featured: false,
+    href: '/leistungen/elektro-photovoltaik',
+    icon: (
+      <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" strokeWidth="1.5">
+        <path d="M12 2L4 13h6l-1 7 8-11h-6z"/>
+      </svg>
+    ),
+    title: 'Elektro & Photovoltaik',
+    desc: 'Elektroinstallation, Photovoltaik und Wallbox aus einer Anfrage.',
+    items: ['Elektroinstallation', 'Photovoltaikanlage', 'Wallbox', 'Zählerschrank & Unterverteilung', 'Smart Home'],
+  },
+  {
+    featured: false,
+    href: '/leistungen/fenster-tueren',
+    icon: (
+      <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" strokeWidth="1.5">
+        <rect x="4" y="3" width="14" height="16" rx="1"/><path d="M11 3v16M4 11h14"/>
+      </svg>
+    ),
+    title: 'Fenster & Türen',
+    desc: 'Neue Fenster, Haustüren und Sonnenschutz — dicht und sicher.',
+    items: ['Fenster austauschen', 'Haustüren', 'Rollläden', 'Markisen & Sonnenschutz', 'Einbruchschutz'],
+  },
+  {
+    featured: false,
+    href: '/leistungen/maler-fliesen-boeden',
+    icon: (
+      <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" strokeWidth="1.5">
+        <path d="M4 4h12v5H4z"/><path d="M10 9v4"/><rect x="8" y="13" width="4" height="6" rx="1"/>
+      </svg>
+    ),
+    title: 'Maler, Fliesen & Böden',
+    desc: 'Wände streichen, Fliesen legen, Böden erneuern.',
+    items: ['Malerarbeiten', 'Fliesenleger', 'Parkett & Laminat', 'Vinyl- & Designböden', 'Tapezierarbeiten'],
+  },
+  {
+    featured: false,
+    href: '/leistungen/garten-aussenanlagen',
+    icon: (
+      <svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" strokeWidth="1.5">
+        <path d="M3 19h16"/><path d="M5 19v-6h12v6"/><path d="M3 13l8-6 8 6"/>
+      </svg>
+    ),
+    title: 'Garten & Außenanlagen',
+    desc: 'Terrasse, Zaun, Pflaster und Carport rund ums Haus.',
+    items: ['Terrassenüberdachung', 'Pflasterarbeiten', 'Zaunbau', 'Carport', 'Wintergarten'],
   },
 ]
 
@@ -613,7 +689,7 @@ function CTABand() {
 /* ── Kontakt / Formular ──────────────────────────────────────────────────── */
 // Pflicht ist nur, was eine Anfrage für einen Fachbetrieb verwertbar macht:
 // was, an welchem Objekt, wo, wann, wer entscheidet und wie man den Kunden erreicht.
-const projektTypen = ['Hochbau / Rohbau', 'Tiefbau', 'Bad & Sanitär', 'Innenausbau', 'Renovierung & Sanierung', 'Dach & Fassade', 'Sonstiges']
+const projektTypen = [...LEISTUNG_SLUGS.map((s) => LEISTUNGEN[s].chip), 'Sonstiges']
 const objektarten = ['Einfamilien- / Doppelhaus', 'Wohnung', 'Mehrfamilienhaus', 'Gewerbeobjekt', 'Grundstück / Neubau']
 const zeitrahmen = ['Schnellstmöglich', 'In 1–3 Monaten', 'In 3–6 Monaten', 'Später / noch offen']
 const rollen = ['Eigentümer/in', 'Mieter/in', 'Hausverwaltung', 'Kauf geplant']
@@ -1080,7 +1156,7 @@ function SeoText() {
           <div className="seo-block">
             <h2 className="seo-heading">Handwerker am Bodensee – Ihr regionaler Vermittler</h2>
             <p className="seo-body">
-              Die Suche nach einem passenden Handwerker am Bodensee ist oft zeitaufwendig und nervenraubend. Bodensee BauPartner übernimmt diese Arbeit für Sie: Wir vermitteln Fachbetriebe aus der Region – für Hochbau, Tiefbau, Innenausbau, Bad & Sanitär sowie Renovierung und Sanierung. Wir vermitteln Unternehmen aus der gesamten Bodenseeregion.
+              Die Suche nach einem passenden Handwerker am Bodensee ist oft zeitaufwendig und nervenraubend. Bodensee BauPartner übernimmt diese Arbeit für Sie: Wir vermitteln Fachbetriebe aus der Region – für Neubau und Rohbau, Dach und Fassade, Sanierung, Bad, Heizung, Elektro, Fenster, Innenausbau, Maler- und Bodenarbeiten sowie Garten und Außenanlagen. Wir vermitteln Unternehmen aus der gesamten Bodenseeregion.
             </p>
           </div>
 
@@ -1116,7 +1192,7 @@ const localBusinessSchema = {
   '@context': 'https://schema.org',
   '@type': 'LocalBusiness',
   name: 'Bodensee BauPartner GbR',
-  description: 'Bauvermittlung in der Bodenseeregion – Handwerker & Baubetriebe für Hochbau, Tiefbau, Renovierung, Innenausbau & Bad.',
+  description: 'Bauvermittlung in der Bodenseeregion – Handwerker & Baubetriebe für Neubau, Dach, Sanierung, Bad, Heizung, Elektro, Innenausbau, Maler & Garten.',
   url: 'https://www.bodensee-baupartner.de',
   telephone: '+4915752600306',
   email: 'info@bodensee-baupartner.de',
@@ -1134,7 +1210,7 @@ const localBusinessSchema = {
     { '@type': 'City', name: 'Ravensburg' },
     { '@type': 'City', name: 'Lindau' },
   ],
-  serviceType: ['Hochbau', 'Tiefbau', 'Bad & Sanitär', 'Innenausbau', 'Renovierung & Sanierung'],
+  serviceType: LEISTUNG_SLUGS.map((l) => LEISTUNGEN[l].name),
   priceRange: 'Kostenlose Vermittlung',
 }
 

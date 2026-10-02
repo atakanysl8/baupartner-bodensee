@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://www.bodensee-baupartner.de'),
   title: 'Handwerker & Bauunternehmen am Bodensee – BauPartner',
   description:
-    'Bodensee BauPartner vermittelt Handwerker & Baubetriebe in der Bodenseeregion – für Hochbau, Tiefbau, Renovierung, Innenausbau & Bad. Kostenlos & unverbindlich.',
+    'Bodensee BauPartner vermittelt Handwerker in der Bodenseeregion: Neubau, Dach, Sanierung, Bad, Heizung, Elektro, Maler & Garten. Kostenlos & unverbindlich.',
   keywords: [
     'Bauunternehmen Bodensee',
     'Handwerker Bodensee',

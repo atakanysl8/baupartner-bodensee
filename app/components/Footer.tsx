@@ -1,6 +1,7 @@
 'use client'
 
 import { motion } from 'motion/react'
+import { LEISTUNGEN, LEISTUNG_SLUGS } from '../inhalte/leistungen'
 
 export default function Footer() {
   return (
@@ -22,11 +23,9 @@ export default function Footer() {
           </div>
           <div className="footer-col">
             <p className="footer-col-titel">Leistungen</p>
-            <a href="/leistungen/hochbau">Hochbau</a>
-            <a href="/leistungen/tiefbau">Tiefbau</a>
-            <a href="/leistungen/bad-sanitaer">Bad &amp; Sanitär</a>
-            <a href="/leistungen/innenausbau">Innenausbau</a>
-            <a href="/leistungen/renovierung-sanierung">Renovierung &amp; Sanierung</a>
+            {LEISTUNG_SLUGS.map((slug) => (
+              <a key={slug} href={`/leistungen/${slug}/`}>{LEISTUNGEN[slug].name}</a>
+            ))}
           </div>
           <div className="footer-col">
             <p className="footer-col-titel">Unternehmen</p>

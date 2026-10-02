@@ -60,7 +60,7 @@ fs.writeFileSync(
   `// generiert von scripts/orte-index.mjs — nicht von Hand ändern\nexport const ORTSLINKS: Record<string, { pfad: string; h1: string }[]> = ${JSON.stringify(links, null, 2)}\n`,
 )
 
-const LEISTUNGEN = ['hochbau', 'tiefbau', 'bad-sanitaer', 'innenausbau', 'renovierung-sanierung']
+const LEISTUNGEN = ['hochbau', 'dach-fassade', 'tiefbau', 'renovierung-sanierung', 'bad-sanitaer', 'heizung-waermepumpe', 'elektro-photovoltaik', 'fenster-tueren', 'innenausbau', 'maler-fliesen-boeden', 'garten-aussenanlagen']
 const mitSeiten = new Set(dateien.map((d) => d.split('--')[0]))
 for (const l of LEISTUNGEN) {
   const dir = path.join(app, 'leistungen', l, '[ort]')

@@ -1,6 +1,6 @@
 'use client'
 
-import { motion, AnimatePresence } from 'motion/react'
+import { motion } from 'motion/react'
 import { useState, useRef } from 'react'
 import Image from 'next/image'
 import type { Metadata } from 'next'
@@ -45,7 +45,7 @@ function Hero() {
           </motion.div>
 
           <motion.h1 variants={fadeUp}>
-            Hochbau am <em>Bodensee</em>
+            Neubau & Rohbau am <em>Bodensee</em>
           </motion.h1>
 
           <motion.p className="hb-hero-sub" variants={fadeUp}>
@@ -83,7 +83,7 @@ const serviceItems = [
       </svg>
     ),
     title: 'Neubauprojekte',
-    desc: 'Renommierte Bauunternehmen für Ihr Neubauprojekt',
+    desc: 'Bauunternehmen für Ihr Neubauprojekt',
     detail: 'Wir vermitteln erfahrene Generalunternehmer und Rohbaufirmen, die Ihr Neubauvorhaben vom ersten Spatenstich bis zur schlüsselfertigen Übergabe begleiten.',
   },
   {
@@ -121,7 +121,7 @@ const serviceItems = [
     ),
     title: 'Mehrfamilienhäuser',
     desc: 'Zuverlässige Fachbetriebe für Mehrfamilienhäuser',
-    detail: 'Für größere Wohnbauprojekte vermitteln wir leistungsstarke Unternehmen mit Erfahrung in der Planung und Ausführung von Mehrfamilien- und Wohnkomplexen.',
+    detail: 'Für größere Wohnbauprojekte vermitteln wir Unternehmen mit Erfahrung in der Planung und Ausführung von Mehrfamilien- und Wohnkomplexen.',
   },
 ]
 
@@ -254,7 +254,7 @@ const usps = [
       </svg>
     ),
     title: 'Regionale Fachbetriebe am Bodensee',
-    desc: 'Wir vermitteln lokale Unternehmen der Region — kurze Wege, schnelle Reaktionszeiten, ortskundige Expertise.',
+    desc: 'Wir berücksichtigen bei der Auswahl, wo Ihr Projekt liegt.',
   },
   {
     icon: (
@@ -392,7 +392,7 @@ const faqs = [
   },
   {
     q: 'Brauche ich für einen Neubau eine Baugenehmigung?',
-    a: 'In der Regel ja. Für Neubauten, Anbauten und Aufstockungen ist in Baden-Württemberg eine Baugenehmigung erforderlich. Die vermittelten Fachbetriebe kennen die regionalen Vorschriften und unterstützen Sie bei der Vorbereitung der erforderlichen Unterlagen.',
+    a: 'In der Regel ja. Für Neubauten, Anbauten und Aufstockungen ist in Baden-Württemberg eine Baugenehmigung erforderlich. Verbindliche Auskunft gibt die zuständige Baurechtsbehörde.',
   },
   {
     q: 'Wer erstellt die Unterlagen für den Bauantrag?',
@@ -443,19 +443,10 @@ function FAQ() {
                   <path d="M5 7.5l5 5 5-5" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
                 </svg>
               </button>
-              <AnimatePresence initial={false}>
-                {open === i && (
-                  <motion.div
-                    className="faq-a"
-                    initial={{ height: 0, opacity: 0 }}
-                    animate={{ height: 'auto', opacity: 1 }}
-                    exit={{ height: 0, opacity: 0 }}
-                    transition={{ duration: 0.28, ease: [0.25, 0.1, 0.25, 1] as const }}
-                  >
-                    <p>{faq.a}</p>
-                  </motion.div>
-                )}
-              </AnimatePresence>
+              {/* Antwort immer im HTML (für Suchmaschinen), nur ausgeblendet, solange zugeklappt */}
+              <div className="faq-a" hidden={open !== i}>
+                <p>{faq.a}</p>
+              </div>
             </motion.div>
           ))}
         </motion.div>
@@ -480,7 +471,7 @@ function SeoText() {
           <div className="seo-block">
             <h2 className="seo-heading">Rohbaufirmen in der Bodenseeregion</h2>
             <p className="seo-body">
-              Der Rohbau bildet das Fundament jedes Hochbauprojekts – hier darf keine Kompromisse eingegangen werden. Die von uns vermittelten Rohbau-Fachbetriebe am Bodensee verfügen über langjährige Erfahrung in Mauerwerk, Stahlbetonbau und Deckenkonstruktionen. Alle Unternehmen sind regional ansässig und kennen die lokalen Bauvorschriften – das bedeutet kurze Reaktionszeiten.
+              Der Rohbau bildet das Fundament jedes Hochbauprojekts – hier darf keine Kompromisse eingegangen werden. Die von uns vermittelten Rohbau-Fachbetriebe am Bodensee verfügen über langjährige Erfahrung in Mauerwerk, Stahlbetonbau und Deckenkonstruktionen.
             </p>
           </div>
 
@@ -514,7 +505,7 @@ const faqSchema = {
 const serviceSchema = {
   '@context': 'https://schema.org',
   '@type': 'Service',
-  serviceType: 'Hochbau',
+  serviceType: 'Neubau & Rohbau',
   provider: { '@type': 'Organization', name: 'Bodensee BauPartner GbR', url: 'https://www.bodensee-baupartner.de/' },
   areaServed: { '@type': 'State', name: 'Baden-Württemberg' },
   description: 'Hochbau-Fachbetriebe in der Bodenseeregion: Rohbau, Stahlbetonbau, Mauerwerk, Fassaden & Treppen. Kostenlose Vermittlung durch Bodensee BauPartner GbR.',
@@ -525,7 +516,7 @@ const breadcrumbSchema = {
   '@type': 'BreadcrumbList',
   itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'Start', item: 'https://www.bodensee-baupartner.de/' },
-    { '@type': 'ListItem', position: 2, name: 'Hochbau', item: 'https://www.bodensee-baupartner.de/leistungen/hochbau/' },
+    { '@type': 'ListItem', position: 2, name: 'Neubau & Rohbau', item: 'https://www.bodensee-baupartner.de/leistungen/hochbau/' },
   ],
 }
 

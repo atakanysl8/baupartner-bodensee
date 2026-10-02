@@ -2,14 +2,14 @@
 
 import { motion, AnimatePresence } from 'motion/react'
 import { useState, useEffect } from 'react'
+import { GRUPPEN, leistungenDerGruppe } from '../inhalte/leistungen'
 
-const leistungenItems = [
-  { label: 'Hochbau', href: '/leistungen/hochbau' },
-  { label: 'Tiefbau', href: '/leistungen/tiefbau' },
-  { label: 'Bad & Sanitär', href: '/leistungen/bad-sanitaer' },
-  { label: 'Innenausbau', href: '/leistungen/innenausbau' },
-  { label: 'Renovierung & Sanierung', href: '/leistungen/renovierung-sanierung' },
-]
+// aus der zentralen Leistungsliste (app/inhalte/leistungen.ts), gruppiert für das Dropdown
+const LEISTUNGS_GRUPPEN = GRUPPEN.map((g) => ({
+  titel: g.titel,
+  items: leistungenDerGruppe(g.gruppe).map((l) => ({ label: l.name, href: `/leistungen/${l.slug}` })),
+}))
+const leistungenItems = LEISTUNGS_GRUPPEN.flatMap((g) => g.items)
 
 export default function Nav({ aktiv, aktuelleLeistung }: { aktiv?: string; aktuelleLeistung?: string } = {}) {
   const [scrolled, setScrolled] = useState(false)
@@ -64,24 +64,29 @@ export default function Nav({ aktiv, aktuelleLeistung }: { aktiv?: string; aktue
               <AnimatePresence>
                 {dropdownOpen && (
                   <motion.div
-                    className="nav-dropdown-menu"
+                    className="nav-dropdown-menu nav-dropdown-menu--gruppen"
                     initial={{ opacity: 0, y: -6, scale: 0.97 }}
                     animate={{ opacity: 1, y: 0, scale: 1 }}
                     exit={{ opacity: 0, y: -6, scale: 0.97 }}
                     transition={{ duration: 0.18, ease: [0.25, 0.1, 0.25, 1] as const }}
                   >
-                    {leistungenItems.map((item, i) => (
+                    {LEISTUNGS_GRUPPEN.map((g, gi) => (
+                      <div key={g.titel} className="nav-dropdown-gruppe">
+                        <div className="nav-dropdown-gruppe-titel">{g.titel}</div>
+                        {g.items.map((item, i) => (
                       <motion.a
                         key={item.label}
                         href={item.href}
                         className={`nav-dropdown-item${item.href === aktuelleLeistung ? ' nav-dropdown-item--current' : ''}`}
                         initial={{ opacity: 0, x: -6 }}
                         animate={{ opacity: 1, x: 0 }}
-                        transition={{ delay: i * 0.04, duration: 0.15 }}
+                        transition={{ delay: (gi * 4 + i) * 0.03, duration: 0.15 }}
                       >
                         <span className="nav-dropdown-dot" />
                         {item.label}
                       </motion.a>
+                    ))}
+                      </div>
                     ))}
                   </motion.div>
                 )}

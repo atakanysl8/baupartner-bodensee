@@ -1879,3 +1879,14 @@ details.faq-item summary::-webkit-details-marker { display: none; }
 .ratgeber-block h3 { font-size: 18px; margin-bottom: 10px; }
 .ratgeber-block p { font-size: 15px; color: var(--ink-2); line-height: 1.7; }
 @media (max-width: 900px) { .ratgeber-grid { grid-template-columns: 1fr; } .ratgeber-section { padding: 64px 0; } }
+
+/* ─── Leistungen-Dropdown in Gruppen (11 Bereiche) ──────────────────────── */
+.nav-dropdown-menu.nav-dropdown-menu--gruppen { flex-direction: row; gap: 4px; padding: 12px; }
+.nav-dropdown-gruppe { display: flex; flex-direction: column; min-width: 220px; }
+.nav-dropdown-gruppe-titel { font-size: 11px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-3); padding: 6px 14px 8px; }
+
+/* Mobilmenü mit 11 Leistungen: oben ausrichten und scrollbar statt vertikal zentriert */
+.mobile-menu-overlay { overflow-y: auto; justify-content: flex-start; padding: 104px 32px 48px; gap: 22px; }
+.mobile-menu-overlay .mobile-leistungen-item { font-size: 18px; }
+.ratgeber-verwandt { margin-top: 28px; font-size: 15px; color: var(--ink-2); }
+.ratgeber-verwandt a { color: var(--primary); text-decoration: underline; }

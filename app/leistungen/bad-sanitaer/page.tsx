@@ -1,6 +1,6 @@
 'use client'
 
-import { motion, AnimatePresence } from 'motion/react'
+import { motion } from 'motion/react'
 import { useState, useRef } from 'react'
 import Image from 'next/image'
 import Footer from '../../components/Footer'
@@ -39,7 +39,7 @@ function Hero() {
           </motion.div>
 
           <motion.h1 variants={fadeUp}>
-            Bad & <em>Sanitär</em>
+            Badsanierung & <em>Sanitär</em>
           </motion.h1>
 
           <motion.p className="hb-hero-sub" variants={fadeUp}>
@@ -437,19 +437,10 @@ function FAQ() {
                   <path d="M5 7.5l5 5 5-5" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
                 </svg>
               </button>
-              <AnimatePresence initial={false}>
-                {open === i && (
-                  <motion.div
-                    className="faq-a"
-                    initial={{ height: 0, opacity: 0 }}
-                    animate={{ height: 'auto', opacity: 1 }}
-                    exit={{ height: 0, opacity: 0 }}
-                    transition={{ duration: 0.28, ease: [0.25, 0.1, 0.25, 1] as const }}
-                  >
-                    <p>{faq.a}</p>
-                  </motion.div>
-                )}
-              </AnimatePresence>
+              {/* Antwort immer im HTML (für Suchmaschinen), nur ausgeblendet, solange zugeklappt */}
+              <div className="faq-a" hidden={open !== i}>
+                <p>{faq.a}</p>
+              </div>
             </motion.div>
           ))}
         </motion.div>
@@ -508,7 +499,7 @@ const faqSchema = {
 const serviceSchema = {
   '@context': 'https://schema.org',
   '@type': 'Service',
-  serviceType: 'Bad & Sanitär',
+  serviceType: 'Badsanierung & Sanitär',
   provider: { '@type': 'Organization', name: 'Bodensee BauPartner GbR', url: 'https://www.bodensee-baupartner.de/' },
   areaServed: { '@type': 'State', name: 'Baden-Württemberg' },
   description: 'Sanitärbetriebe für Badsanierung, barrierefreies Bad & Badezimmer-Renovierung am Bodensee. Kostenlose Vermittlung durch Bodensee BauPartner GbR.',
@@ -519,7 +510,7 @@ const breadcrumbSchema = {
   '@type': 'BreadcrumbList',
   itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'Start', item: 'https://www.bodensee-baupartner.de/' },
-    { '@type': 'ListItem', position: 2, name: 'Bad & Sanitär', item: 'https://www.bodensee-baupartner.de/leistungen/bad-sanitaer/' },
+    { '@type': 'ListItem', position: 2, name: 'Badsanierung & Sanitär', item: 'https://www.bodensee-baupartner.de/leistungen/bad-sanitaer/' },
   ],
 }
 

@@ -1,7 +1,8 @@
-import { RATGEBER } from '../inhalte/ratgeber'
-import type { LeistungSlug } from '../inhalte/leistungen'
+import { RATGEBER, VERWANDT } from '../inhalte/ratgeber'
+import { LEISTUNGEN, type LeistungSlug } from '../inhalte/leistungen'
 
 // Ratgeber-Abschnitt einer Leistungsseite (Kosten, Planung, Förderung) — siehe app/inhalte/ratgeber.ts.
+// Darunter Querverweise auf verwandte Leistungen (interne Verlinkung).
 export default function LeistungRatgeber({ leistung }: { leistung: LeistungSlug }) {
   const r = RATGEBER[leistung]
   return (
@@ -18,6 +19,15 @@ export default function LeistungRatgeber({ leistung }: { leistung: LeistungSlug 
             </article>
           ))}
         </div>
+        <p className="ratgeber-verwandt">
+          Passend dazu:{' '}
+          {VERWANDT[leistung].map((v, i) => (
+            <span key={v}>
+              {i > 0 && ' · '}
+              <a href={`/leistungen/${v}/`}>{LEISTUNGEN[v].name}</a>
+            </span>
+          ))}
+        </p>
       </div>
     </section>
   )
