@@ -1913,3 +1913,4 @@ details.faq-item summary::-webkit-details-marker { display: none; }
 .seo-body a { color: var(--primary); text-decoration: underline; }
 @media (max-width: 860px) { .start-ratgeber-liste { grid-template-columns: 1fr; } }
 .au-versprechen-text a { color: #fff; text-decoration: underline; }
+.leistung-kosten-titel { font-size: 20px; margin-top: 36px; }

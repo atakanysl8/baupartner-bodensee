@@ -37,14 +37,14 @@ export default function OrtSeite({ s }: { s: Ortsseite }) {
       mainEntity: s.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
     },
   ]
-  // Linkblock nach Vault-Standard: 3 Nachbarorte derselben Leistung, Leistungsseite, 1–2 Ratgeber der Leistung,
+  // Linkblock: 3 Nachbarorte derselben Leistung, Leistungsseite, alle Kostenseiten der Leistung,
   // höchstens 2 fachlich verwandte Leistungen im selben Ort (statt aller übrigen), Hub.
   const verwandt = VERWANDT[s.leistung]
   const imOrt = andereLeistungen(s)
     .filter((x) => verwandt.includes(x.leistung))
     .sort((a, b) => verwandt.indexOf(a.leistung) - verwandt.indexOf(b.leistung))
     .slice(0, 2)
-  const ratgeber = RATGEBERLINKS.filter((r) => r.leistung === s.leistung).slice(0, 2)
+  const ratgeber = RATGEBERLINKS.filter((r) => r.leistung === s.leistung)
   const leistungPfad = `/leistungen/${s.leistung}/`
 
   return (
@@ -104,7 +104,7 @@ export default function OrtSeite({ s }: { s: Ortsseite }) {
               ))}
               <li><a href={leistungPfad}>{anker(leistungPfad)}</a> – Überblick</li>
               {ratgeber.map((r) => (
-                <li key={r.slug}><a href={`/ratgeber/${r.slug}/`}>{r.anker}</a> – Preisspannen und Kostenfaktoren</li>
+                <li key={r.slug}><a href={r.pfad}>{r.anker}</a> – Preisspannen und Kostenfaktoren</li>
               ))}
               {imOrt.map((n) => (
                 <li key={pfad(n)}><a href={pfad(n)}>{n.h1}</a></li>

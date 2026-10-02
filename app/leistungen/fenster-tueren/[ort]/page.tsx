@@ -6,7 +6,7 @@ import RatgeberSeite from '../../../components/RatgeberSeite'
 import { seite, seitenFuer, pfad } from '../../../inhalte/orte'
 import { kostenseite, kostenseitenFuer, kostenPfad } from '../../../inhalte/ratgeber-seiten'
 
-const L = 'maler-fliesen-boeden' as const
+const L = 'fenster-tueren' as const
 export const dynamicParams = false
 
 export function generateStaticParams() {

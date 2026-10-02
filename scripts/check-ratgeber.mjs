@@ -39,14 +39,16 @@ export function pruefeRatgeber(seiten, plan) {
     const ziele = [...fliesstext(s).matchAll(VERWEIS)].map((m) => m[1])
     const geld = ziele.filter((z) => z === `/leistungen/${s.leistung}/`).length
     if (geld !== 1) fehler.push(`${id}: ${geld} Geldlinks auf /leistungen/${s.leistung}/ (genau 1)`)
+    // Kostenseiten liegen unter ihrer Leistung: /leistungen/<leistung>/<slug>/
+    const kostenPfade = new Set(plan.map((p) => `/leistungen/${p.leistung}/${p.slug}/`))
     for (const z of ziele) {
-      if (/^\/leistungen\//.test(z) && z !== `/leistungen/${s.leistung}/`) fehler.push(`${id}: Link auf fremde Leistungsseite ${z}`)
-      const r = z.match(/^\/ratgeber\/([^/]+)\/$/)
-      if (r && !plan.includes(r[1])) fehler.push(`${id}: Verweis auf unbekannten Ratgeber ${r[1]}`)
-      if (!/^\/(leistungen|ratgeber|regionen)\b/.test(z) || !z.endsWith('/')) fehler.push(`${id}: ungültiges Linkziel ${z}`)
+      if (/^\/leistungen\/[^/]+\/$/.test(z) && z !== `/leistungen/${s.leistung}/`) fehler.push(`${id}: Link auf fremde Leistungsseite ${z}`)
+      else if (/^\/leistungen\/[^/]+\/[^/]+\/$/.test(z) && !kostenPfade.has(z)) fehler.push(`${id}: Verweis auf unbekannte Kostenseite ${z}`)
+      else if (!/^\/(leistungen|regionen)\//.test(z) || !z.endsWith('/')) fehler.push(`${id}: ungültiges Linkziel ${z}`)
     }
+    const slugs = plan.map((p) => p.slug)
     if (s.verwandt.length < 1 || s.verwandt.length > 2) fehler.push(`${id}: verwandt 1–2 Einträge`)
-    for (const v of s.verwandt) if (!plan.includes(v) || v === s.slug) fehler.push(`${id}: verwandt ${v} nicht im Seitenplan`)
+    for (const v of s.verwandt) if (!slugs.includes(v) || v === s.slug) fehler.push(`${id}: verwandt ${v} nicht im Seitenplan`)
     const alles = sichtbar(s) + ' ' + s.title + ' ' + s.description
     for (const r of VERBOTEN) if (r.test(alles)) fehler.push(`${id}: verbotenes Muster ${r}`)
     if (FOERDERBETRAG.some((r) => r.test(alles))) fehler.push(`${id}: Förderbetrag/Fördersatz im Text`)
@@ -63,7 +65,7 @@ export function pruefeRatgeber(seiten, plan) {
 if (import.meta.url === pathToFileURL(process.argv[1]).href) {
   const root = path.join(import.meta.dirname, '..')
   const ordner = path.join(root, 'app', 'inhalte', 'ratgeber-seiten')
-  const plan = JSON.parse(fs.readFileSync(path.join(root, 'docs', 'ratgeber', 'seitenplan.json'), 'utf8')).map((p) => p.slug)
+  const plan = JSON.parse(fs.readFileSync(path.join(root, 'docs', 'ratgeber', 'seitenplan.json'), 'utf8')).map(({ slug, leistung }) => ({ slug, leistung }))
   const filter = process.argv[2] ?? ''
   const seiten = fs.readdirSync(ordner).filter((d) => d.endsWith('.json')).map((d) => JSON.parse(fs.readFileSync(path.join(ordner, d), 'utf8')))
   const { fehler, warnungen } = pruefeRatgeber(seiten, plan)

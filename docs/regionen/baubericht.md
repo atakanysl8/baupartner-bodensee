@@ -101,3 +101,11 @@ Spec: `docs/superpowers/specs/2026-10-02-ratgeber-verlinkung-design.md` · Plan:
 | Quellen Ratgeber | 99 URLs, 0 Probleme |
 
 Anwaltsfragen Ratgeber: `anwaltsfragen/ratgeber-r1…r6*.md` (PV-Pflicht-Wiedergabe, Wallbox/§ 14a EnWG, LBO-Anhang-Zitate, NRG-Zaunhöhe, Treppen, Fenster/RC 2). Offen: Haustür, Treppe und Teile Bad stützen sich mangels neutraler Quelle auf Wohnglück.de/Interhyp (als Darlehens-/Finanzierungsvermittler gekennzeichnet).
+
+## Nachtrag 4: Ratgeber-Bereich aufgelöst, Kostenseiten unter den Leistungen (03.10.2026)
+
+Betreiber-Entscheidung: Übersicht `/ratgeber/` und Menüpunkt „Ratgeber“ entfallen; Inhalte bleiben als Kostenseiten unter ihrer Leistung.
+- URLs: `/leistungen/<leistung>/<slug>/` (z. B. `/leistungen/heizung-waermepumpe/waermepumpe-kosten/`), gleiche Route wie die Ortsseiten (`orte-index.mjs`, Slug-Konflikt-Prüfung). Brotkrume Start › Leistung › Kostenseite. Kein sichtbares „Ratgeber“ mehr (Fließtext: „die Übersicht …“).
+- Verlinkung verstärkt: Leistungsseite → alle eigenen Kostenseiten (Karten „Kosten im Detail“); Ortsseite → alle Kostenseiten der Leistung; Kostenseite → verwandte + alle weiteren Kostenseiten der Leistung + Leistungsseite + 8 größte Ortsseiten der Leistung + `/regionen/`; Startseite → 12 Kostenseiten; `/regionen/` (Fußzeile, seitenweit) → alle 28 Kostenseiten.
+- Ergebnis `pruefe-links`: 235 Seiten, 0 Fehler; Kostenseiten Eingänge min. 3 / Median 31 (vorher 2 / 11), Ortsseiten Median 6; Klicktiefe ≤ 2. Tests 50/50, `pruefe-seo` 235/0, Bundle 0.
+- Da die Website noch nicht live ist, sind keine Weiterleitungen von `/ratgeber/…` nötig.

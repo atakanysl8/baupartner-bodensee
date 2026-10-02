@@ -9,13 +9,13 @@ const gut = () => ({
   title: 'Badsanierung Kosten: Preise und Kostenfaktoren', description: 'x'.repeat(150), h1: 'Was kostet eine Badsanierung?',
   einstieg: 'Wer ein Bad erneuert, fragt zuerst nach dem Budget. Ein Fachbetrieb für [[/leistungen/bad-sanitaer/]] klärt das am Objekt.',
   kosten: { h2: 'Kosten im Überblick', intro: lang(3), zeilen: [{ posten: 'A', spanne: '1–2 €', q: 1 }, { posten: 'B', spanne: '3–4 €', q: 2 }, { posten: 'C', spanne: '5–6 €', q: 3 }], hinweis: lang(1) },
-  abschnitte: [{ h2: 'Kostenfaktoren', text: lang(20) }, { h2: 'Ablauf', text: lang(20) + 'Mehr dazu unter [[/ratgeber/barrierefreies-bad/]].' }],
+  abschnitte: [{ h2: 'Kostenfaktoren', text: lang(20) }, { h2: 'Ablauf', text: lang(20) + 'Mehr dazu unter [[/leistungen/bad-sanitaer/barrierefreies-bad/]].' }],
   faq: [1, 2, 3, 4].map((i) => ({ q: `Frage ${i}?`, a: 'Antwort ohne Verweis.' })),
   verwandt: ['barrierefreies-bad'],
   quellen: [1, 2, 3, 4].map((i) => ({ titel: `Q${i}`, herausgeber: 'Verbraucherzentrale', url: `https://example.org/${i}`, abruf: '2026-10-02' })),
   offen: [],
 })
-const PLAN = ['badsanierung-kosten', 'barrierefreies-bad']
+const PLAN = [{ slug: 'badsanierung-kosten', leistung: 'bad-sanitaer' }, { slug: 'barrierefreies-bad', leistung: 'bad-sanitaer' }, { slug: 'dachgaube-kosten', leistung: 'dach-fassade' }]
 const fehler = (s, andere = []) => pruefeRatgeber([s, ...andere], PLAN).fehler
 
 test('gute Ratgeberseite ohne Fehler', () => {
@@ -33,9 +33,21 @@ test('Link auf fremde Leistungsseite (Money zu Money)', () => {
   const s = gut(); s.abschnitte[0].text += ' [[/leistungen/hochbau/]]'
   assert.ok(fehler(s).some((f) => f.includes('/leistungen/hochbau/')))
 })
-test('Verweis auf unbekannten Ratgeber', () => {
-  const s = gut(); s.abschnitte[1].text += ' [[/ratgeber/gibt-es-nicht/]]'
+test('Verweis auf unbekannte Kostenseite', () => {
+  const s = gut(); s.abschnitte[1].text += ' [[/leistungen/bad-sanitaer/gibt-es-nicht/]]'
   assert.ok(fehler(s).some((f) => f.includes('gibt-es-nicht')))
+})
+test('Kostenseite unter falscher Leistung verlinkt', () => {
+  const s = gut(); s.abschnitte[1].text += ' [[/leistungen/bad-sanitaer/dachgaube-kosten/]]'
+  assert.ok(fehler(s).some((f) => f.includes('dachgaube-kosten')))
+})
+test('Kostenseite einer anderen Leistung ist erlaubt', () => {
+  const s = gut(); s.abschnitte[1].text += ' [[/leistungen/dach-fassade/dachgaube-kosten/]]'
+  assert.deepEqual(fehler(s), [])
+})
+test('alte /ratgeber/-Pfade sind ungültig', () => {
+  const s = gut(); s.abschnitte[1].text += ' [[/ratgeber/barrierefreies-bad/]]'
+  assert.ok(fehler(s).some((f) => f.includes('/ratgeber/')))
 })
 test('Kostenzeile ohne gültige Quelle', () => {
   const s = gut(); s.kosten.zeilen[0].q = 9

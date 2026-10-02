@@ -1,8 +1,8 @@
 // Prüft die interne Verlinkung des statischen Exports (Regeln aus der Vault: Seitenpläne §5, pruefe.py D1/D2, pruefstand.ts).
 // Aufruf: node scripts/pruefe-links.mjs [ordner=out] → Exit 1 bei Fehlern.
 // Fehler: verwaiste Seite (0 redaktionelle Eingänge; Navigation, Fußzeile und Brotkrume zählen nicht), toter interner Link,
-// Ratgeberseite nicht mit genau einem Geldlink (/leistungen/<x>/), nichtssagender Ankertext, mehrere Ankertexte für
-// dasselbe Ratgeber-Ziel, Klicktiefe ab Startseite > 3. Warnung: mehrere Anker für eine Leistungsseite, < 2 Textlinks.
+// Kostenseite (erkannt am Article-Schema) nicht mit genau einem Geldlink (/leistungen/<x>/), nichtssagender Ankertext,
+// mehrere Ankertexte für dieselbe Kostenseite, Klicktiefe ab Startseite > 3. Warnung: mehrere Anker für eine Leistungsseite, < 2 Textlinks.
 import fs from 'node:fs'
 import path from 'node:path'
 import { pathToFileURL } from 'node:url'
@@ -21,6 +21,7 @@ function links(html) {
 export function analysiere(seiten) {
   const fehler = [], warnungen = []
   const pfade = Object.keys(seiten)
+  const istKosten = (p) => p in seiten && /"@type":"Article"/.test(seiten[p])
   const eingang = Object.fromEntries(pfade.map((p) => [p, new Set()]))
   const anker = {}
   const alle = {}
@@ -34,17 +35,17 @@ export function analysiere(seiten) {
       if (l.text && l.ziel !== '/' && !l.roh.includes('#') && !l.roh.includes('?')) (anker[l.ziel] ??= new Set()).add(l.text)
     }
     const textziele = new Set(eigene.map((l) => l.ziel).filter((z) => z !== '/'))
-    if (/^\/ratgeber\/[^/]+\/$/.test(p)) {
+    if (istKosten(p)) {
       const geld = [...textziele].filter((z) => /^\/leistungen\/[^/]+\/$/.test(z))
       if (geld.length !== 1) fehler.push(`${p}: ${geld.length} Geldlinks (genau 1 Leistungsseite) ${geld.join(' ')}`)
     }
-    if (/^\/(leistungen|ratgeber)\//.test(p) && textziele.size < 2) warnungen.push(`${p}: nur ${textziele.size} Textlinks`)
+    if (/^\/leistungen\//.test(p) && textziele.size < 2) warnungen.push(`${p}: nur ${textziele.size} Textlinks`)
   }
   for (const p of pfade) if (p !== '/' && eingang[p].size === 0) fehler.push(`${p}: verwaist (kein redaktioneller Eingang)`)
   for (const [z, a] of Object.entries(anker)) {
     if (a.size < 2) continue
     const meldung = `${z}: ${a.size} Ankertexte (${[...a].slice(0, 4).join(' | ')})`
-    if (/^\/ratgeber\/[^/]+\/$/.test(z)) fehler.push(meldung)
+    if (istKosten(z)) fehler.push(meldung)
     else if (/^\/leistungen\/[^/]+\/$/.test(z)) warnungen.push(meldung)
   }
   // Klicktiefe: Breitensuche ab Startseite über alle Links (auch Navigation)
@@ -58,11 +59,14 @@ export function analysiere(seiten) {
     if (!(p in tiefe)) fehler.push(`${p}: von der Startseite nicht erreichbar (Klicktiefe ∞)`)
     else if (tiefe[p] > 3) fehler.push(`${p}: Klicktiefe ${tiefe[p]} (> 3)`)
   }
-  const n = (re) => pfade.filter((p) => re.test(p)).map((p) => eingang[p].size).sort((a, b) => a - b)
+  const n = (ist) => pfade.filter(ist).map((p) => eingang[p].size).sort((a, b) => a - b)
   const median = (a) => (a.length ? a[Math.floor(a.length / 2)] : 0)
   const statistik = Object.fromEntries(
-    [['Leistungsseiten', /^\/leistungen\/[^/]+\/$/], ['Ortsseiten', /^\/leistungen\/[^/]+\/[^/]+\/$/], ['Ratgeber', /^\/ratgeber\/[^/]+\/$/]]
-      .map(([k, re]) => { const a = n(re); return [k, { anzahl: a.length, minEingang: a[0] ?? 0, medianEingang: median(a), maxTiefe: Math.max(0, ...pfade.filter((p) => re.test(p)).map((p) => tiefe[p] ?? 99)) }] }),
+    [
+      ['Leistungsseiten', (p) => /^\/leistungen\/[^/]+\/$/.test(p)],
+      ['Ortsseiten', (p) => /^\/leistungen\/[^/]+\/[^/]+\/$/.test(p) && !istKosten(p)],
+      ['Kostenseiten', istKosten],
+    ].map(([k, ist]) => { const a = n(ist); return [k, { anzahl: a.length, minEingang: a[0] ?? 0, medianEingang: median(a), maxTiefe: Math.max(0, ...pfade.filter(ist).map((p) => tiefe[p] ?? 99)) }] }),
   )
   return { fehler, warnungen, statistik }
 }

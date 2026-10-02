@@ -3,18 +3,23 @@ import Footer from './Footer'
 import TextMitLinks from './TextMitLinks'
 import { LEISTUNGEN } from '../inhalte/leistungen'
 import { anker } from '../inhalte/anker'
-import { ratgeberPfad, type Ratgeberseite } from '../inhalte/ratgeber-seiten'
+import { kostenPfad, kostenseitenFuer, type Ratgeberseite } from '../inhalte/ratgeber-seiten'
+import { RATGEBERLINKS } from '../inhalte/ratgeber-seiten/links'
+import { ORTSLINKS } from '../inhalte/orte/links'
 
 const BASIS = 'https://www.bodensee-baupartner.de'
 const datum = (d: string) => d.split('-').reverse().join('.')
 
-// Darstellung einer Ratgeberseite (Kosten je Leistung). Server-Komponente: der Text steht vollständig im HTML
-// und gelangt nicht ins Client-Bundle. Verlinkung: genau ein Textlink auf die eigene Leistungsseite (im Inhalt),
-// Anfrage-Knopf, 1–2 verwandte Ratgeber, Hub.
+// Darstellung einer Kostenseite unter /leistungen/<leistung>/<slug>/. Server-Komponente: der Text steht vollständig im HTML
+// und gelangt nicht ins Client-Bundle. Verlinkung: genau ein Textlink auf die eigene Leistungsseite (im Inhalt), Anfrage-Knopf,
+// verwandte Kostenseiten, alle weiteren Kostenseiten der Leistung, Ortsseiten der Leistung, Hub /regionen/.
 export default function RatgeberSeite({ s }: { s: Ratgeberseite }) {
   const l = LEISTUNGEN[s.leistung]
   const anfrage = `/?leistung=${encodeURIComponent(s.leistung)}#kontakt`
   const stand = s.quellen.map((q) => q.abruf).sort().at(-1)!
+  const verwandt = s.verwandt.map((v) => RATGEBERLINKS.find((r) => r.slug === v)).filter((r) => r !== undefined)
+  const weitereKosten = kostenseitenFuer(s.leistung).filter((k) => k.slug !== s.slug && !s.verwandt.includes(k.slug))
+  const orte = (ORTSLINKS[s.leistung] ?? []).slice(0, 8)
   const jsonLd = [
     {
       '@context': 'https://schema.org',
@@ -24,15 +29,15 @@ export default function RatgeberSeite({ s }: { s: Ratgeberseite }) {
       dateModified: stand,
       author: { '@type': 'Organization', name: 'Bodensee BauPartner GbR', url: `${BASIS}/` },
       publisher: { '@type': 'Organization', name: 'Bodensee BauPartner GbR', url: `${BASIS}/` },
-      mainEntityOfPage: `${BASIS}${ratgeberPfad(s.slug)}`,
+      mainEntityOfPage: `${BASIS}${kostenPfad(s)}`,
     },
     {
       '@context': 'https://schema.org',
       '@type': 'BreadcrumbList',
       itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'Start', item: `${BASIS}/` },
-        { '@type': 'ListItem', position: 2, name: 'Ratgeber', item: `${BASIS}/ratgeber/` },
-        { '@type': 'ListItem', position: 3, name: s.anker, item: `${BASIS}${ratgeberPfad(s.slug)}` },
+        { '@type': 'ListItem', position: 2, name: l.name, item: `${BASIS}/leistungen/${s.leistung}/` },
+        { '@type': 'ListItem', position: 3, name: s.anker, item: `${BASIS}${kostenPfad(s)}` },
       ],
     },
     {
@@ -49,9 +54,9 @@ export default function RatgeberSeite({ s }: { s: Ratgeberseite }) {
       <main className="ort-section">
         <article className="wrap ort-inner">
           <nav className="ort-crumbs" aria-label="Brotkrume">
-            <a href="/">Start</a> › <a href="/ratgeber/">Ratgeber</a> › <span>{s.anker}</span>
+            <a href="/">Start</a> › <a href={`/leistungen/${s.leistung}/`}>{l.name}</a> › <span>{s.anker}</span>
           </nav>
-          <div className="eyebrow"><span className="bullet" /> Ratgeber · {l.name}</div>
+          <div className="eyebrow"><span className="bullet" /> {l.name} · Kosten</div>
           <h1 className="ort-h1">{s.h1}</h1>
           <p className="ort-lead"><TextMitLinks text={s.einstieg} /></p>
           <a className="btn btn-primary" href={anfrage}>Anfrage kostenlos stellen</a>
@@ -100,14 +105,29 @@ export default function RatgeberSeite({ s }: { s: Ratgeberseite }) {
           </section>
 
           <section className="ort-block ort-links">
-            <h2>Weiterlesen</h2>
+            <h2>Passend zu Ihrem Vorhaben</h2>
             <ul>
-              {s.verwandt.map((v) => (
-                <li key={v}><a href={ratgeberPfad(v)}>{anker(ratgeberPfad(v))}</a></li>
+              {verwandt.map((r) => (
+                <li key={r.pfad}><a href={r.pfad}>{r.anker}</a></li>
               ))}
-              <li><a href="/ratgeber/">{anker('/ratgeber/')}</a></li>
+              {weitereKosten.map((k) => (
+                <li key={k.slug}><a href={kostenPfad(k)}>{k.anker}</a></li>
+              ))}
+              <li><a href={`/leistungen/${s.leistung}/`}>{anker(`/leistungen/${s.leistung}/`)}</a> – Überblick</li>
             </ul>
           </section>
+
+          {orte.length > 0 && (
+            <section className="ort-block ort-links">
+              <h2>{l.name} in Ihrer Stadt</h2>
+              <ul>
+                {orte.map((o) => (
+                  <li key={o.pfad}><a href={o.pfad}>{o.h1}</a></li>
+                ))}
+                <li><a href="/regionen/">{anker('/regionen/')}</a></li>
+              </ul>
+            </section>
+          )}
 
           <section className="ort-block ort-quellen">
             <h2>Quellen</h2>

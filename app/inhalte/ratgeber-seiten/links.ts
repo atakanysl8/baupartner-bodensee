@@ -1,7 +1,8 @@
 // generiert von scripts/ratgeber-index.mjs — nicht von Hand ändern
-export type RatgeberLink = { slug: string; leistung: string; anker: string; h1: string; rang: number }
+export type RatgeberLink = { pfad: string; slug: string; leistung: string; anker: string; h1: string; rang: number }
 export const RATGEBERLINKS: RatgeberLink[] = [
   {
+    "pfad": "/leistungen/heizung-waermepumpe/waermepumpe-kosten/",
     "slug": "waermepumpe-kosten",
     "leistung": "heizung-waermepumpe",
     "anker": "Wärmepumpe Kosten",
@@ -9,6 +10,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 1
   },
   {
+    "pfad": "/leistungen/elektro-photovoltaik/wallbox-kosten/",
     "slug": "wallbox-kosten",
     "leistung": "elektro-photovoltaik",
     "anker": "Wallbox Kosten",
@@ -16,6 +18,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 2
   },
   {
+    "pfad": "/leistungen/renovierung-sanierung/energetische-sanierung/",
     "slug": "energetische-sanierung",
     "leistung": "renovierung-sanierung",
     "anker": "Energetische Sanierung",
@@ -23,6 +26,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 3
   },
   {
+    "pfad": "/leistungen/bad-sanitaer/badsanierung-kosten/",
     "slug": "badsanierung-kosten",
     "leistung": "bad-sanitaer",
     "anker": "Badsanierung Kosten",
@@ -30,6 +34,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 4
   },
   {
+    "pfad": "/leistungen/garten-aussenanlagen/wintergarten-kosten/",
     "slug": "wintergarten-kosten",
     "leistung": "garten-aussenanlagen",
     "anker": "Wintergarten Kosten",
@@ -37,6 +42,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 5
   },
   {
+    "pfad": "/leistungen/renovierung-sanierung/kernsanierung-kosten/",
     "slug": "kernsanierung-kosten",
     "leistung": "renovierung-sanierung",
     "anker": "Kernsanierung Kosten",
@@ -44,6 +50,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 6
   },
   {
+    "pfad": "/leistungen/dach-fassade/dachsanierung-kosten/",
     "slug": "dachsanierung-kosten",
     "leistung": "dach-fassade",
     "anker": "Dachsanierung Kosten",
@@ -51,6 +58,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 7
   },
   {
+    "pfad": "/leistungen/bad-sanitaer/barrierefreies-bad/",
     "slug": "barrierefreies-bad",
     "leistung": "bad-sanitaer",
     "anker": "Barrierefreies Bad",
@@ -58,6 +66,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 8
   },
   {
+    "pfad": "/leistungen/dach-fassade/dachfenster-einbauen-kosten/",
     "slug": "dachfenster-einbauen-kosten",
     "leistung": "dach-fassade",
     "anker": "Dachfenster Einbau Kosten",
@@ -65,6 +74,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 9
   },
   {
+    "pfad": "/leistungen/hochbau/haus-bauen-kosten/",
     "slug": "haus-bauen-kosten",
     "leistung": "hochbau",
     "anker": "Hausbau Kosten",
@@ -72,6 +82,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 10
   },
   {
+    "pfad": "/leistungen/elektro-photovoltaik/photovoltaik-kosten/",
     "slug": "photovoltaik-kosten",
     "leistung": "elektro-photovoltaik",
     "anker": "Photovoltaik Kosten",
@@ -79,6 +90,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 11
   },
   {
+    "pfad": "/leistungen/dach-fassade/dachgaube-kosten/",
     "slug": "dachgaube-kosten",
     "leistung": "dach-fassade",
     "anker": "Dachgaube Kosten",
@@ -86,6 +98,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 12
   },
   {
+    "pfad": "/leistungen/fenster-tueren/fenster-austauschen-kosten/",
     "slug": "fenster-austauschen-kosten",
     "leistung": "fenster-tueren",
     "anker": "Fenstertausch Kosten",
@@ -93,6 +106,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 13
   },
   {
+    "pfad": "/leistungen/dach-fassade/fassadendaemmung-kosten/",
     "slug": "fassadendaemmung-kosten",
     "leistung": "dach-fassade",
     "anker": "Fassadendämmung Kosten",
@@ -100,6 +114,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 14
   },
   {
+    "pfad": "/leistungen/maler-fliesen-boeden/fassade-streichen-kosten/",
     "slug": "fassade-streichen-kosten",
     "leistung": "maler-fliesen-boeden",
     "anker": "Fassadenanstrich Kosten",
@@ -107,6 +122,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 15
   },
   {
+    "pfad": "/leistungen/maler-fliesen-boeden/boden-verlegen-kosten/",
     "slug": "boden-verlegen-kosten",
     "leistung": "maler-fliesen-boeden",
     "anker": "Bodenverlegung Kosten",
@@ -114,6 +130,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 16
   },
   {
+    "pfad": "/leistungen/dach-fassade/dachdaemmung-kosten/",
     "slug": "dachdaemmung-kosten",
     "leistung": "dach-fassade",
     "anker": "Dachdämmung Kosten",
@@ -121,6 +138,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 17
   },
   {
+    "pfad": "/leistungen/garten-aussenanlagen/carport-kosten/",
     "slug": "carport-kosten",
     "leistung": "garten-aussenanlagen",
     "anker": "Carport Kosten",
@@ -128,6 +146,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 18
   },
   {
+    "pfad": "/leistungen/fenster-tueren/haustuer-kosten/",
     "slug": "haustuer-kosten",
     "leistung": "fenster-tueren",
     "anker": "Haustür Kosten",
@@ -135,6 +154,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 19
   },
   {
+    "pfad": "/leistungen/hochbau/bodenplatte-kosten/",
     "slug": "bodenplatte-kosten",
     "leistung": "hochbau",
     "anker": "Bodenplatte Kosten",
@@ -142,6 +162,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 20
   },
   {
+    "pfad": "/leistungen/hochbau/anbau-kosten/",
     "slug": "anbau-kosten",
     "leistung": "hochbau",
     "anker": "Anbau Kosten",
@@ -149,6 +170,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 21
   },
   {
+    "pfad": "/leistungen/maler-fliesen-boeden/fliesenleger-kosten/",
     "slug": "fliesenleger-kosten",
     "leistung": "maler-fliesen-boeden",
     "anker": "Fliesenleger Kosten",
@@ -156,6 +178,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 22
   },
   {
+    "pfad": "/leistungen/garten-aussenanlagen/terrassenueberdachung-kosten/",
     "slug": "terrassenueberdachung-kosten",
     "leistung": "garten-aussenanlagen",
     "anker": "Terrassenüberdachung Kosten",
@@ -163,6 +186,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 23
   },
   {
+    "pfad": "/leistungen/heizung-waermepumpe/fussbodenheizung-nachruesten-kosten/",
     "slug": "fussbodenheizung-nachruesten-kosten",
     "leistung": "heizung-waermepumpe",
     "anker": "Fußbodenheizung nachrüsten Kosten",
@@ -170,6 +194,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 24
   },
   {
+    "pfad": "/leistungen/garten-aussenanlagen/zaun-kosten/",
     "slug": "zaun-kosten",
     "leistung": "garten-aussenanlagen",
     "anker": "Zaun Kosten",
@@ -177,6 +202,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 25
   },
   {
+    "pfad": "/leistungen/innenausbau/treppe-kosten/",
     "slug": "treppe-kosten",
     "leistung": "innenausbau",
     "anker": "Treppe Kosten",
@@ -184,6 +210,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 26
   },
   {
+    "pfad": "/leistungen/elektro-photovoltaik/elektrik-erneuern-kosten/",
     "slug": "elektrik-erneuern-kosten",
     "leistung": "elektro-photovoltaik",
     "anker": "Elektrik erneuern Kosten",
@@ -191,6 +218,7 @@ export const RATGEBERLINKS: RatgeberLink[] = [
     "rang": 27
   },
   {
+    "pfad": "/leistungen/tiefbau/hausanschluss-kosten/",
     "slug": "hausanschluss-kosten",
     "leistung": "tiefbau",
     "anker": "Hausanschluss Kosten",

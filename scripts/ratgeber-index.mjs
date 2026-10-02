@@ -1,7 +1,7 @@
-// Erzeugt app/inhalte/ratgeber-seiten/index.ts (alle Seiten, nur für Server-Komponenten) und links.ts
-// (Slug, Leistung, Anker, H1 — klein, für Client-Komponenten). Legt die Route app/ratgeber/[slug]/page.tsx
-// nur an, wenn es Seiten gibt (der statische Export bricht bei einer dynamischen Route ohne Parameter ab).
-// Nach jeder neuen oder gelöschten Ratgeberseite ausführen.
+// Erzeugt app/inhalte/ratgeber-seiten/index.ts (alle Kostenseiten, nur für Server-Komponenten) und links.ts
+// (Pfad, Slug, Leistung, Anker, H1 — klein, für Client-Komponenten). Die Kostenseiten liegen unter ihrer Leistung
+// (/leistungen/<leistung>/<slug>/); die Route dafür legt scripts/orte-index.mjs an (gemeinsam mit den Ortsseiten).
+// Nach jeder neuen oder gelöschten Kostenseite ausführen, danach orte-index.
 import fs from 'node:fs'
 import path from 'node:path'
 
@@ -16,46 +16,11 @@ fs.writeFileSync(
   path.join(ordner, 'index.ts'),
   `${kopf}import type { Ratgeberseite } from '../ratgeber-seiten'\n${dateien.map((d, i) => `import s${i} from './${d}'`).join('\n')}\n\nexport const RATGEBERSEITEN = ([${dateien.map((_, i) => `s${i}`).join(', ')}] as Ratgeberseite[]).sort((a, b) => a.rang - b.rang)\n`,
 )
-const links = seiten.map(({ slug, leistung, anker, h1, rang }) => ({ slug, leistung, anker, h1, rang }))
+const links = seiten.map(({ slug, leistung, anker, h1, rang }) => ({ pfad: `/leistungen/${leistung}/${slug}/`, slug, leistung, anker, h1, rang }))
 fs.writeFileSync(
   path.join(ordner, 'links.ts'),
-  `${kopf}export type RatgeberLink = { slug: string; leistung: string; anker: string; h1: string; rang: number }\nexport const RATGEBERLINKS: RatgeberLink[] = ${JSON.stringify(links, null, 2)}\n`,
+  `${kopf}export type RatgeberLink = { pfad: string; slug: string; leistung: string; anker: string; h1: string; rang: number }\nexport const RATGEBERLINKS: RatgeberLink[] = ${JSON.stringify(links, null, 2)}\n`,
 )
-
-const dir = path.join(app, 'ratgeber', '[slug]')
-if (seiten.length) {
-  fs.mkdirSync(dir, { recursive: true })
-  fs.writeFileSync(path.join(dir, 'page.tsx'), `${kopf}import type { Metadata } from 'next'
-import { notFound } from 'next/navigation'
-import RatgeberSeite from '../../components/RatgeberSeite'
-import { RATGEBERSEITEN, ratgeberseite, ratgeberPfad } from '../../inhalte/ratgeber-seiten'
-
-export const dynamicParams = false
-
-export function generateStaticParams() {
-  return RATGEBERSEITEN.map((s) => ({ slug: s.slug }))
-}
-
-export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
-  const { slug } = await params
-  const s = ratgeberseite(slug)
-  if (!s) return {}
-  return {
-    title: s.title,
-    description: s.description,
-    alternates: { canonical: ratgeberPfad(s.slug) },
-    openGraph: { title: s.title, description: s.description, locale: 'de_DE', type: 'article' },
-  }
-}
-
-export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = await params
-  const s = ratgeberseite(slug)
-  if (!s) notFound()
-  return <RatgeberSeite s={s} />
-}
-`)
-} else {
-  fs.rmSync(dir, { recursive: true, force: true })
-}
-console.log(`${seiten.length} Ratgeberseiten im Index`)
+// frühere eigene Route /ratgeber/<slug>/ entfernen
+fs.rmSync(path.join(app, 'ratgeber', '[slug]'), { recursive: true, force: true })
+console.log(`${seiten.length} Kostenseiten im Index`)

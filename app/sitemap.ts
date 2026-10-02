@@ -18,8 +18,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/ueber-uns/`, lastModified: stand, changeFrequency: 'yearly', priority: 0.7 },
     { url: `${base}/fuer-fachbetriebe/`, lastModified: stand, changeFrequency: 'yearly', priority: 0.5 },
     { url: `${base}/regionen/`, lastModified: stand, changeFrequency: 'monthly', priority: 0.6 },
-    { url: `${base}/ratgeber/`, lastModified: stand, changeFrequency: 'monthly', priority: 0.7 },
-    ...RATGEBERLINKS.map((r) => ({ url: `${base}/ratgeber/${r.slug}/`, lastModified: stand, changeFrequency: 'yearly' as const, priority: 0.7 })),
+    ...RATGEBERLINKS.map((r) => ({ url: `${base}${r.pfad}`, lastModified: stand, changeFrequency: 'yearly' as const, priority: 0.7 })),
     ...ORTSSEITEN.map((s) => ({ url: `${base}${pfad(s)}`, lastModified: stand, changeFrequency: 'yearly' as const, priority: 0.6 })),
   ]
 }

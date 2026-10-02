@@ -1,6 +1,7 @@
 import Nav from '../components/Nav'
 import Footer from '../components/Footer'
-import { LEISTUNGEN } from '../inhalte/leistungen'
+import { LEISTUNGEN, LEISTUNG_SLUGS } from '../inhalte/leistungen'
+import { RATGEBERLINKS } from '../inhalte/ratgeber-seiten/links'
 import { ORTSSEITEN, pfad, einwohner, type Ortsseite } from '../inhalte/orte'
 
 // Übersicht aller Ortsseiten, gruppiert nach Stadt-/Landkreis — normale, crawlbare Links.
@@ -24,7 +25,7 @@ export default function RegionenPage() {
           <div className="eyebrow"><span className="bullet" /> Baden-Württemberg</div>
           <h1 className="ort-h1">Leistungen nach Ort in Baden-Württemberg</h1>
           <p className="ort-lead">
-            Hier finden Sie unsere Seiten für Badsanierung, Bauunternehmen, Sanierung, Innenausbau, Elektriker, Maler und Fliesenleger, Dachdecker, Wärmepumpe und Heizung sowie Terrassenüberdachung in einzelnen Städten Baden-Württembergs – mit örtlichen Hinweisen zu Zuständigkeiten, Satzungen und Beratungsstellen. Was Vorhaben ungefähr kosten, zeigt unser <a href="/ratgeber/">Ratgeber Baukosten</a>. Ihre Anfrage ist kostenlos und unverbindlich.
+            Hier finden Sie unsere Seiten für Badsanierung, Bauunternehmen, Sanierung, Innenausbau, Elektriker, Maler und Fliesenleger, Dachdecker, Wärmepumpe und Heizung sowie Terrassenüberdachung in einzelnen Städten Baden-Württembergs – mit örtlichen Hinweisen zu Zuständigkeiten, Satzungen und Beratungsstellen. Was Vorhaben ungefähr kosten, zeigen die Kostenübersichten weiter unten. Ihre Anfrage ist kostenlos und unverbindlich.
           </p>
           {sortiert.map(([kreis, orte]) => (
             <section key={kreis} className="regionen-kreis">
@@ -46,6 +47,22 @@ export default function RegionenPage() {
               </ul>
             </section>
           ))}
+          <section className="regionen-kreis">
+            <h2>Kosten nach Leistung</h2>
+            <ul className="regionen-liste">
+              {LEISTUNG_SLUGS.filter((l) => RATGEBERLINKS.some((r) => r.leistung === l)).map((l) => (
+                <li key={l}>
+                  <strong>{LEISTUNGEN[l].name}:</strong>{' '}
+                  {RATGEBERLINKS.filter((r) => r.leistung === l).map((r, i) => (
+                    <span key={r.slug}>
+                      {i > 0 && ' · '}
+                      <a href={r.pfad}>{r.anker}</a>
+                    </span>
+                  ))}
+                </li>
+              ))}
+            </ul>
+          </section>
         </div>
       </main>
       <Footer />

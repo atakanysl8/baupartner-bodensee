@@ -48,7 +48,6 @@ function Nav() {
   }, [menuOpen])
 
   const otherLinks = [
-    { href: '/ratgeber/', label: 'Ratgeber' },
     { href: '/ueber-uns/', label: 'Über uns' },
     { href: '/fuer-fachbetriebe/', label: 'Für Fachbetriebe' },
     { href: '#kontakt', label: 'Kontakt' },
@@ -1144,23 +1143,23 @@ function FAQ() {
 }
 
 /* ── SEO Text ────────────────────────────────────────────────────────────── */
-/* ── Ratgeber ────────────────────────────────────────────────────────────── */
-// Die sechs meistgesuchten Kostenratgeber (Rang aus docs/ratgeber/seitenplan.json) + Hub — interne Verlinkung.
+/* ── Kostenseiten ───────────────────────────────────────────────────────── */
 function RatgeberTeaser() {
-  const top = RATGEBERLINKS.slice(0, 6)
+  // Die zwölf meistgesuchten Kostenseiten (Rang aus docs/ratgeber/seitenplan.json); alle übrigen sind über
+  // die Leistungsseiten und die Übersicht „Leistungen nach Ort“ verlinkt.
+  const top = RATGEBERLINKS.slice(0, 12)
   if (!top.length) return null
   return (
     <section className="ratgeber-section start-ratgeber">
       <div className="wrap ratgeber-inner">
-        <div className="eyebrow"><span className="bullet" /> Ratgeber</div>
+        <div className="eyebrow"><span className="bullet" /> Kosten</div>
         <h2>Was kostet Ihr Vorhaben?</h2>
         <p className="ratgeber-intro">Preisspannen aus zitierfähigen Quellen und die Faktoren, die den Preis bestimmen – als erste Orientierung vor dem Angebot.</p>
         <ul className="start-ratgeber-liste">
           {top.map((r) => (
-            <li key={r.slug}><a href={`/ratgeber/${r.slug}/`}>{r.anker}</a></li>
+            <li key={r.slug}><a href={r.pfad}>{r.anker}</a></li>
           ))}
         </ul>
-        <p className="ratgeber-verwandt">Alle Themen im <a href="/ratgeber/">Ratgeber Baukosten</a>.</p>
       </div>
     </section>
   )
@@ -1188,7 +1187,7 @@ function SeoText() {
           <div className="seo-block">
             <h2 className="seo-heading">Unsere Leistungen im Überblick</h2>
             <p className="seo-body">
-              Ob Neubau, Rohbau oder Dachausbau im Hochbaubereich, Erdarbeiten und Kanalbau im Tiefbau, moderne Badezimmer durch Bad & Sanitär-Fachbetriebe, oder hochwertige Innenausbauten und Renovierungen – Bodensee BauPartner vermittelt Ihnen den passenden Spezialisten für jedes Vorhaben. Was Vorhaben ungefähr kosten, zeigt unser <a href="/ratgeber/">Ratgeber Baukosten</a>.
+              Ob Neubau, Rohbau oder Dachausbau im Hochbaubereich, Erdarbeiten und Kanalbau im Tiefbau, moderne Badezimmer durch Bad & Sanitär-Fachbetriebe, oder hochwertige Innenausbauten und Renovierungen – Bodensee BauPartner vermittelt Ihnen den passenden Spezialisten für jedes Vorhaben. Was Vorhaben ungefähr kosten, zeigen unsere Kostenübersichten, etwa <a href="/leistungen/heizung-waermepumpe/waermepumpe-kosten/">Wärmepumpe Kosten</a> oder <a href="/leistungen/bad-sanitaer/badsanierung-kosten/">Badsanierung Kosten</a>.
             </p>
           </div>
 

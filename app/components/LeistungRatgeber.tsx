@@ -3,14 +3,14 @@ import { LEISTUNGEN, type LeistungSlug } from '../inhalte/leistungen'
 import { RATGEBERLINKS } from '../inhalte/ratgeber-seiten/links'
 
 // Ratgeber-Abschnitt einer Leistungsseite (Kosten, Planung, Förderung) — siehe app/inhalte/ratgeber.ts.
-// Darunter die ausführlichen Ratgeberseiten dieser Leistung und Querverweise auf verwandte Leistungen (interne Verlinkung).
+// Darunter die Kostenseiten dieser Leistung (/leistungen/<leistung>/<slug>/) und Querverweise auf verwandte Leistungen (interne Verlinkung).
 export default function LeistungRatgeber({ leistung }: { leistung: LeistungSlug }) {
   const r = RATGEBER[leistung]
   const seiten = RATGEBERLINKS.filter((x) => x.leistung === leistung)
   return (
     <section className="ratgeber-section">
       <div className="wrap ratgeber-inner">
-        <div className="eyebrow"><span className="bullet" /> Ratgeber</div>
+        <div className="eyebrow"><span className="bullet" /> Kosten &amp; Planung</div>
         <h2>{r.h2}</h2>
         <p className="ratgeber-intro">{r.intro}</p>
         <div className="ratgeber-grid">
@@ -22,15 +22,14 @@ export default function LeistungRatgeber({ leistung }: { leistung: LeistungSlug 
           ))}
         </div>
         {seiten.length > 0 && (
-          <p className="ratgeber-verwandt">
-            Ausführliche Ratgeber:{' '}
-            {seiten.map((x, i) => (
-              <span key={x.slug}>
-                {i > 0 && ' · '}
-                <a href={`/ratgeber/${x.slug}/`}>{x.anker}</a>
-              </span>
-            ))}
-          </p>
+          <>
+            <h3 className="leistung-kosten-titel">Kosten im Detail</h3>
+            <ul className="start-ratgeber-liste">
+              {seiten.map((x) => (
+                <li key={x.slug}><a href={x.pfad}>{x.anker}</a></li>
+              ))}
+            </ul>
+          </>
         )}
         <p className="ratgeber-verwandt">
           Passend dazu:{' '}

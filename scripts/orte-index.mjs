@@ -15,21 +15,33 @@ fs.writeFileSync(
   `// generiert von scripts/orte-index.mjs — nicht von Hand ändern\nimport type { Ortsseite } from '../orte'\n${zeilen.join('\n')}\n\nexport const ORTSSEITEN = [${dateien.map((_, i) => `s${i}`).join(', ')}] as Ortsseite[]\n`,
 )
 
+// Unter /leistungen/<leistung>/<teil>/ liegen Ortsseiten (teil = Ort) und Kostenseiten (teil = Slug, z. B. waermepumpe-kosten).
 const route = (l) => `// generiert von scripts/orte-index.mjs — nicht von Hand ändern
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import OrtSeite from '../../../components/OrtSeite'
+import RatgeberSeite from '../../../components/RatgeberSeite'
 import { seite, seitenFuer, pfad } from '../../../inhalte/orte'
+import { kostenseite, kostenseitenFuer, kostenPfad } from '../../../inhalte/ratgeber-seiten'
 
 const L = '${l}' as const
 export const dynamicParams = false
 
 export function generateStaticParams() {
-  return seitenFuer(L).map((s) => ({ ort: s.ort }))
+  return [...seitenFuer(L).map((s) => ({ ort: s.ort })), ...kostenseitenFuer(L).map((s) => ({ ort: s.slug }))]
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ ort: string }> }): Promise<Metadata> {
   const { ort } = await params
+  const k = kostenseite(L, ort)
+  if (k) {
+    return {
+      title: k.title,
+      description: k.description,
+      alternates: { canonical: kostenPfad(k) },
+      openGraph: { title: k.title, description: k.description, locale: 'de_DE', type: 'article' },
+    }
+  }
   const s = seite(L, ort)
   if (!s) return {}
   return {
@@ -42,6 +54,8 @@ export async function generateMetadata({ params }: { params: Promise<{ ort: stri
 
 export default async function Page({ params }: { params: Promise<{ ort: string }> }) {
   const { ort } = await params
+  const k = kostenseite(L, ort)
+  if (k) return <RatgeberSeite s={k} />
   const s = seite(L, ort)
   if (!s) notFound()
   return <OrtSeite s={s} />
@@ -61,7 +75,14 @@ fs.writeFileSync(
 )
 
 const LEISTUNGEN = ['hochbau', 'dach-fassade', 'tiefbau', 'renovierung-sanierung', 'bad-sanitaer', 'heizung-waermepumpe', 'elektro-photovoltaik', 'fenster-tueren', 'innenausbau', 'maler-fliesen-boeden', 'garten-aussenanlagen']
-const mitSeiten = new Set(dateien.map((d) => d.split('--')[0]))
+// Kostenseiten (app/inhalte/ratgeber-seiten) teilen sich die Route; ein Slug darf nie zugleich ein Ort sein.
+const kostenOrdner = path.join(app, 'inhalte', 'ratgeber-seiten')
+const kosten = fs.existsSync(kostenOrdner)
+  ? fs.readdirSync(kostenOrdner).filter((d) => d.endsWith('.json')).map((d) => JSON.parse(fs.readFileSync(path.join(kostenOrdner, d), 'utf8')))
+  : []
+const orte = new Set(dateien.map((d) => d.replace(/\.json$/, '')))
+for (const k of kosten) if (orte.has(`${k.leistung}--${k.slug}`)) throw new Error(`Slug-Konflikt: ${k.leistung}/${k.slug} ist Ort und Kostenseite`)
+const mitSeiten = new Set([...dateien.map((d) => d.split('--')[0]), ...kosten.map((k) => k.leistung)])
 for (const l of LEISTUNGEN) {
   const dir = path.join(app, 'leistungen', l, '[ort]')
   if (mitSeiten.has(l)) {
@@ -71,4 +92,4 @@ for (const l of LEISTUNGEN) {
     fs.rmSync(dir, { recursive: true, force: true })
   }
 }
-console.log(`${dateien.length} Ortsseiten im Index; Routen für: ${[...mitSeiten].join(', ') || '—'}`)
+console.log(`${dateien.length} Ortsseiten, ${kosten.length} Kostenseiten; Routen für: ${[...mitSeiten].join(', ') || '—'}`)
