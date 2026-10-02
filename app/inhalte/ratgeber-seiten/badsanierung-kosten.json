@@ -10,7 +10,7 @@
   "einstieg": "Ein neues Bad gehört zu den teuersten Modernisierungen im Haus, weil auf wenigen Quadratmetern viele Gewerke zusammenkommen: Rückbau, Sanitärinstallation, Abdichtung, Fliesen, Elektro und oft Trockenbau. Wie hoch die Rechnung ausfällt, hängt weniger von der Größe als von Ausstattung, Leitungszustand und Grundriss ab. Hier finden Sie Preisspannen aus zitierfähigen Quellen und die Faktoren, die den Preis bestimmen. Für ein konkretes Angebot wählen wir einen Fachbetrieb für [[/leistungen/bad-sanitaer/]] aus, der Ihr Bad vorher ansieht.",
   "kosten": {
     "h2": "Kosten einer Badsanierung im Überblick",
-    "intro": "Für eine Komplettsanierung nennen Bausparkasse und Bank übereinstimmend eine Spanne von 900 bis 3.500 Euro pro Quadratmeter Badfläche. Das untere Ende steht für einfache Ausstattung ohne Grundrissänderung, das obere für hochwertige Objekte, bodengleiche Duschen und neue Leitungen. Die Einzelposten unten stammen aus dem Baukosteninformationszentrum Deutscher Architektenkammern (BKI) und sind Richtwerte inklusive Montage.",
+    "intro": "Für eine Komplettsanierung nennen die Bausparkasse Schwäbisch Hall (nach Angaben von Wohnglück.de) und die Commerzbank übereinstimmend eine Spanne von 900 bis 3.500 Euro pro Quadratmeter Badfläche. Wo ein Vorhaben in dieser Spanne liegt, bestimmen laut Schwäbisch Hall vor allem die Größe des Bads und der Umfang der Sanierung. Die Einzelposten zu Abbruch, Sanitärobjekten und Fliesen sind Richtwerte des Baukosteninformationszentrums Deutscher Architektenkammern (BKI); laut Quelle statistische Mittelwerte aus abgerechneten Projekten und Nettowerte.",
     "zeilen": [
       { "posten": "Komplettsanierung je m² Badfläche", "spanne": "900 – 3.500 €", "q": 1 },
       { "posten": "Bad mit 6 m² (Komplettsanierung)", "spanne": "5.400 – 21.000 €", "q": 1 },
@@ -20,16 +20,16 @@
       { "posten": "Waschtisch mit Armatur", "spanne": "ca. 1.015 € je Stück", "q": 1 },
       { "posten": "Duschwanne 80 × 80 cm", "spanne": "ca. 1.370 € je Stück", "q": 1 },
       { "posten": "Badewanne 170 × 80 cm", "spanne": "ca. 1.920 € je Stück", "q": 1 },
-      { "posten": "Fliesen je m² (einfache bis hohe Qualität, verlegt)", "spanne": "115 – 195 €", "q": 1 },
+      { "posten": "Fliesen je m², niedrige bis hohe Qualität (BKI)", "spanne": "115 – 195 €", "q": 1 },
       { "posten": "Mittelklasse-Bad mit 7–8 m² (Erhebung Oktober 2023)", "spanne": "ca. 34.350 €", "q": 2 },
       { "posten": "Handwerkerstunde", "spanne": "40 – 70 €", "q": 3 }
     ],
-    "hinweis": "Baupreise steigen weiter: Die Preise für Instandhaltungsarbeiten an Wohngebäuden lagen laut Statistischem Bundesamt im Mai 2026 um 5,6 % über dem Vorjahresmonat. Ältere Durchschnittswerte sind deshalb eher als Untergrenze zu lesen."
+    "hinweis": "Die Preise für Instandhaltungsarbeiten an Wohngebäuden lagen laut Statistischem Bundesamt im Mai 2026 um 5,6 % über dem Vorjahresmonat. Ältere Durchschnittswerte sind deshalb eher als Untergrenze zu lesen."
   },
   "abschnitte": [
     {
       "h2": "Wovon der Preis abhängt",
-      "text": "Den größten Unterschied macht der Umfang. Eine Teilrenovierung, bei der nur Waschtisch, WC und Armaturen getauscht werden, bleibt im unteren Bereich, solange Anschlüsse an der alten Stelle bleiben. Sobald Wände geöffnet, Leitungen erneuert oder Objekte versetzt werden, kommen Installations-, Putz- und Fliesenarbeiten hinzu. Im Altbau sind verzinkte Wasserleitungen, alte Abflussrohre und fehlende Abdichtungen häufige Gründe, warum aus einem Austausch eine Komplettsanierung wird. Der zweite große Faktor ist die Ausstattung: Ein Waschtisch kostet als Standardmodell einen Bruchteil eines Designerstücks, und großformatige Fliesen verlangen einen ebeneren Untergrund und mehr Verlegezeit. Drittens zählen die Arbeitsstunden. Nach Angaben der Bausparkasse Schwäbisch Hall entfallen rund 60 Prozent der Kosten einer Badrenovierung auf Arbeit und etwa 40 Prozent auf Material. Wer viele Gewerke koordinieren muss, zahlt also vor allem für Zeit – ein gut geplanter Ablauf ohne Leerlauf zwischen Sanitär, Elektro und Fliesen spart deshalb am meisten."
+      "text": "Den größten Unterschied macht der Umfang. Eine Teilrenovierung, bei der nur Waschtisch, WC und Armaturen getauscht werden, bleibt im unteren Bereich, solange Anschlüsse an der alten Stelle bleiben. Sobald Wände geöffnet, Leitungen erneuert oder Objekte versetzt werden, kommen Installations-, Putz- und Fliesenarbeiten hinzu. Im Altbau sind verzinkte Wasserleitungen, alte Abflussrohre und fehlende Abdichtungen häufige Gründe, warum aus einem Austausch eine Komplettsanierung wird. Der zweite große Faktor ist die Ausstattung: Ein Waschtisch kostet als Standardmodell einen Bruchteil eines Designerstücks, und großformatige Fliesen verlangen einen ebeneren Untergrund und mehr Verlegezeit. Drittens zählen die Arbeitsstunden. Nach Angaben der Bausparkasse Schwäbisch Hall entfallen rund 60 Prozent der Kosten einer Badrenovierung auf Arbeit und etwa 40 Prozent auf Material. Wer viele Gewerke koordinieren muss, zahlt also vor allem für Zeit; ein gut abgestimmter Ablauf zwischen Sanitär, Elektro und Fliesen ist deshalb ein wichtiger Kostenfaktor."
     },
     {
       "h2": "Bodengleiche Dusche, Badewanne oder beides?",
@@ -45,18 +45,24 @@
     }
   ],
   "faq": [
-    { "q": "Wie lange dauert eine Badsanierung?", "a": "Für eine Komplettsanierung eines Mittelklasse-Bads nennt die Handwerkerkooperation bad&heizung im Schnitt rund 15 Arbeitstage. Teilrenovierungen gehen deutlich schneller, umfangreiche Umbauten mit neuen Leitungen dauern länger." },
+    { "q": "Wie lange dauert eine Badsanierung?", "a": "Laut einer von haustec veröffentlichten Erhebung unter Sanitärbetrieben (Oktober 2023) dauert eine Komplettsanierung im Schnitt rund 15 Arbeitstage. Teilrenovierungen gehen deutlich schneller, umfangreiche Umbauten mit neuen Leitungen dauern länger." },
     { "q": "Was kostet ein kleines Bad mit 4 bis 5 Quadratmetern?", "a": "Bei 900 bis 3.500 Euro je Quadratmeter ergibt sich für 4 Quadratmeter eine Spanne von etwa 3.600 bis 14.000 Euro und für 5 Quadratmeter von etwa 4.500 bis 17.500 Euro. Kleine Bäder sind je Quadratmeter oft teurer, weil WC, Waschtisch und Dusche trotzdem vollständig anfallen." },
     { "q": "Ist eine Teilrenovierung günstiger als eine Komplettsanierung?", "a": "Ja, solange die Anschlüsse an derselben Stelle bleiben und Leitungen und Abdichtung in Ordnung sind. Zeigen sich beim Öffnen Schäden, kann sich der Umfang erweitern, deshalb ist eine Prüfung vor dem Angebot sinnvoll." },
     { "q": "Warum unterscheiden sich Angebote so stark?", "a": "Angebote enthalten oft unterschiedliche Leistungen: Rückbau und Entsorgung, Abdichtung, Elektro, Trockenbau und Ausstattung werden nicht immer gleich berücksichtigt. Vergleichen Sie Positionen und Mengen, nicht nur die Endsumme." },
-    { "q": "Sind die Preise in Baden-Württemberg anders?", "a": "Die genannten Spannen sind bundesweite Richtwerte. Regionale Lohn- und Materialkosten sowie die Auslastung der Betriebe können den Preis vor Ort verschieben, deshalb ist ein Angebot nach Besichtigung maßgeblich." }
+    { "q": "Sind die Preise in Baden-Württemberg anders?", "a": "Die genannten Spannen sind bundesweite Richtwerte. Regionale Lohn- und Materialkosten sowie die Auslastung der Betriebe können den Preis regional verschieben, deshalb ist ein Angebot nach Besichtigung maßgeblich." }
   ],
   "verwandt": ["barrierefreies-bad", "fliesenleger-kosten"],
   "quellen": [
-    { "titel": "Badsanierung: Kosten", "herausgeber": "Bausparkasse Schwäbisch Hall (Richtwerte BKI, 4. Quartal 2025)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-sanieren-renovieren/badsanierung-kosten.html", "abruf": "2026-10-02" },
-    { "titel": "Badsanierung: Was kostet ein neues Bad?", "herausgeber": "haustec.de (Erhebung bad&heizung AG, Oktober 2023)", "url": "https://www.haustec.de/sanitaer/bad-design/badsanierung-was-kostet-ein-neues-bad", "abruf": "2026-10-02" },
-    { "titel": "Badsanierung – Kosten, Tipps und Dauer", "herausgeber": "Commerzbank", "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/was-kostet-eine-badsanierung/", "abruf": "2026-10-02" },
+    { "titel": "Badsanierung: Kosten", "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 04.09.2025; Einzelposten BKI, 4. Quartal 2025; m²-Spanne und Größentabelle nach Wohnglück.de (Impleco GmbH, Darlehensvermittler))", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-sanieren-renovieren/badsanierung-kosten.html", "abruf": "2026-10-02" },
+    { "titel": "Badsanierung: Was kostet ein neues Bad?", "herausgeber": "haustec.de (Fachpresse, 12.02.2024; Erhebung der Handwerkerkooperation bad&heizung AG, Oktober 2023)", "url": "https://www.haustec.de/sanitaer/bad-design/badsanierung-was-kostet-ein-neues-bad", "abruf": "2026-10-02" },
+    { "titel": "Badsanierung – Kosten, Tipps und Dauer", "herausgeber": "Commerzbank (Bankratgeber, ohne sichtbares Datum; laut Seitenmetadaten geändert 12.08.2025)", "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/was-kostet-eine-badsanierung/", "abruf": "2026-10-02" },
     { "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
   ],
-  "offen": ["Musterseite (von Claude geschrieben). FAQ-Spannen 4/5 m² aus Quelle 1 (Tabelle nach Badgröße)."]
+  "offen": [
+    "Musterseite (von Claude geschrieben). FAQ-Spannen 4/5 m² aus Quelle 1 (Tabelle nach Badgröße).",
+    "QA 02.10.: m²-Spanne 900–3.500 € und Größentabelle stammen bei SH laut Fußnote von wohnglueck.de → Herausgeber gekennzeichnet; Commerzbank bestätigt 900–3.500 und 6 m² = 5.400–21.000 unabhängig.",
+    "QA 02.10.: Intro – eigene Deutung der Spannenenden (bodengleiche Duschen, neue Leitungen) durch Quellenaussage (Größe und Umfang) ersetzt; „inklusive Montage“ gestrichen (steht so nicht in der Quelle), stattdessen „statistische Mittelwerte, netto“; Fliesenzeile ohne „verlegt“.",
+    "QA 02.10.: FAQ Dauer – Firmenname bad&heizung aus sichtbarem Text entfernt, als haustec-Erhebung Oktober 2023 zitiert. FAQ BW – „vor Ort“ neben Betrieben ersetzt. „spart am meisten“ (Ersparnisaussage) und „Baupreise steigen weiter“ (Momentangabe) entfernt.",
+    "QA 02.10.: Bestätigt: BKI 65 / 1.045 / 1.015 / 1.370 / 1.920 / 115–195; SH 4–10 m²-Tabelle, 60/40 % Arbeit/Material; haustec 34.350 € (7–8 m², Okt. 2023), 15 Arbeitstage; Commerzbank 40–70 €/h; Destatis Instandhaltung +5,6 %. Hinweis: SH nennt selbst 45–70 €/h."
+  ]
 }

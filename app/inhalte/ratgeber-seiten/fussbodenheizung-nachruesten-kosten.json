@@ -12,19 +12,63 @@
     "h2": "Fußbodenheizung nachrüsten: Kosten im Überblick",
     "intro": "Das Beratungsportal co2online nennt für das Nachrüsten eine Spanne von 20 bis 135 Euro je Quadratmeter – je nach Verfahren und je nachdem, ob nur Material oder der Komplettpreis gemeint ist. Für ein Einfamilienhaus mit 130 Quadratmetern Wohnfläche ergeben sich daraus rund 2.500 bis 17.500 Euro. Der neue Bodenbelag ist in diesen Werten nicht enthalten.",
     "zeilen": [
-      { "posten": "Fräsen in den vorhandenen Estrich, je m²", "spanne": "30 – 120 €", "q": 1 },
-      { "posten": "Dünnschicht-System, je m²", "spanne": "30 – 100 €", "q": 1 },
-      { "posten": "Trockensystem, je m²", "spanne": "65 – 135 €", "q": 1 },
-      { "posten": "Nasssystem (Heizestrich), je m²", "spanne": "45 – 130 €", "q": 1 },
-      { "posten": "Elektrische Fußbodenheizung, je m²", "spanne": "20 – 90 €", "q": 1 },
-      { "posten": "Einfamilienhaus mit 130 m² Wohnfläche, alle Verfahren", "spanne": "rund 2.500 – 17.500 €", "q": 1 },
-      { "posten": "Alten Estrich entfernen (bei Nasssystem im Altbau), je m²", "spanne": "ca. 20 – 30 €", "q": 2 },
-      { "posten": "Anschluss gefräster Heizkreise an die Heizung", "spanne": "ca. 300 – 1.500 €", "q": 3 },
-      { "posten": "Kellerdeckendämmung, je m²", "spanne": "ca. 15 – 40 €", "q": 3 },
-      { "posten": "Verlegung und Material bei neuer Wand- oder Fußbodenheizung, je m²", "spanne": "ca. 30 – 60 €", "q": 4 },
-      { "posten": "Fußbodenheizung beim Heizungstausch, je m²", "spanne": "gut 50 – 100 €", "q": 5 }
+      {
+        "posten": "Fräsen in den vorhandenen Estrich, je m²",
+        "spanne": "30 – 120 €",
+        "q": 1
+      },
+      {
+        "posten": "Dünnschicht-System, je m²",
+        "spanne": "30 – 100 €",
+        "q": 1
+      },
+      {
+        "posten": "Trockensystem, je m²",
+        "spanne": "65 – 135 €",
+        "q": 1
+      },
+      {
+        "posten": "Nasssystem (Heizestrich), je m²",
+        "spanne": "45 – 130 €",
+        "q": 1
+      },
+      {
+        "posten": "Elektrische Fußbodenheizung, je m²",
+        "spanne": "20 – 90 €",
+        "q": 1
+      },
+      {
+        "posten": "Einfamilienhaus mit 130 m² Wohnfläche, alle Verfahren",
+        "spanne": "rund 2.500 – 17.500 €",
+        "q": 1
+      },
+      {
+        "posten": "Alten Estrich entfernen (bei Nasssystem im Altbau), je m²",
+        "spanne": "ca. 20 – 30 €",
+        "q": 2
+      },
+      {
+        "posten": "Anschluss gefräster Heizkreise an die Heizung",
+        "spanne": "ca. 300 – 1.500 €",
+        "q": 3
+      },
+      {
+        "posten": "Kellerdeckendämmung, je m²",
+        "spanne": "ca. 15 – 40 €",
+        "q": 3
+      },
+      {
+        "posten": "Verlegung und Material bei neuer Wand- oder Fußbodenheizung, je m²",
+        "spanne": "ca. 30 – 60 €",
+        "q": 4
+      },
+      {
+        "posten": "Fußbodenheizung beim Heizungstausch, je m²",
+        "spanne": "gut 50 – 100 €",
+        "q": 5
+      }
     ],
-    "hinweis": "Die Preise steigen weiter: Für Heizanlagen und zentrale Wassererwärmungsanlagen lagen die Baupreise laut Statistischem Bundesamt im Mai 2026 um 5,0 % über dem Vorjahresmonat. Ältere Durchschnittswerte sind deshalb eher als Untergrenze zu lesen."
+    "hinweis": "Die Preise steigen weiter: Für Heizanlagen und zentrale Wassererwärmungsanlagen lagen die Baupreise laut Statistischem Bundesamt im Mai 2026 um 5,0 % über dem Vorjahresmonat. Werte aus älteren Erhebungen bilden das heutige Preisniveau deshalb nicht vollständig ab."
   },
   "abschnitte": [
     {
@@ -37,32 +81,85 @@
     },
     {
       "h2": "Dämmung, Bodenbelag und Heizungsanschluss",
-      "text": "In vielen Altbauten liegt unter dem Estrich kaum Dämmung. Im Erdgeschoss über einem unbeheizten Keller geht dann ein Teil der Wärme nach unten verloren. Eine Kellerdeckendämmung kostet laut co2online etwa 15 bis 40 Euro je Quadratmeter und verbessert die Effizienz der neuen Flächenheizung. In den oberen Geschossen ist das weniger kritisch, weil darunter beheizte Räume liegen. Nicht in den Quadratmeterpreisen enthalten ist der neue Bodenbelag; was dafür anfällt, hängt stark vom Material ab und steht im Ratgeber [[/ratgeber/boden-verlegen-kosten/]]. Auch Heizkörper ausbauen, Wand- und Deckendurchbrüche und die Entsorgung kommen hinzu. Nach dem Einbau gehören eine Heizlastberechnung und ein hydraulischer Abgleich dazu, damit jeder Heizkreis die richtige Wassermenge bekommt."
+      "text": "In vielen Altbauten liegt unter dem Estrich kaum Dämmung. Im Erdgeschoss über einem unbeheizten Keller geht dann ein Teil der Wärme nach unten verloren. Eine Kellerdeckendämmung kostet laut co2online etwa 15 bis 40 Euro je Quadratmeter und verbessert die Effizienz der neuen Flächenheizung. In den oberen Geschossen ist das weniger kritisch, weil darunter beheizte Räume liegen. Nicht in den Quadratmeterpreisen enthalten ist der neue Bodenbelag; was dafür anfällt, hängt stark vom Material ab und steht im Ratgeber [[/ratgeber/boden-verlegen-kosten/]]. Auch Heizkörper ausbauen, Wand- und Deckendurchbrüche und die Entsorgung kommen hinzu. Die Heizlastberechnung bestimmt vorab den Abstand der Rohre, nach dem Einbau sorgt ein hydraulischer Abgleich dafür, dass jeder Heizkreis die richtige Wassermenge bekommt."
     },
     {
       "h2": "Fußbodenheizung und Wärmepumpe",
-      "text": "Eine Flächenheizung kommt mit niedrigen Vorlauftemperaturen aus. Bei gefrästen Systemen liegen die Rohre dicht unter der Oberfläche; co2online nennt Vorlauftemperaturen von 25 bis 35 Grad Celsius. Genau das kommt einer Wärmepumpe entgegen, die umso effizienter arbeitet, je niedriger die Vorlauftemperatur ist. Wer ohnehin einen Heizungstausch plant, kann beides zusammen planen lassen – was die Wärmepumpe selbst kostet, zeigt der Ratgeber [[/ratgeber/waermepumpe-kosten/]]. Für die Kombination mit anderen Maßnahmen gibt es Förderprogramme des Bundes (BEG über KfW bzw. BAFA); als Einzelmaßnahme ist das Fräsen laut co2online nicht förderfähig. Bedingungen ändern sich, Auskunft geben KfW, BAFA und Energieberatung. Wenn Sie uns Ihr Vorhaben schildern, wählen wir einen passenden Fachbetrieb aus, der sich bei Ihnen meldet und Estrich, Aufbauhöhe und Heizung vor dem Angebot prüft."
+      "text": "Eine Flächenheizung kommt mit niedrigen Vorlauftemperaturen aus. Bei gefrästen Systemen liegen die Rohre dicht unter der Oberfläche; co2online nennt Vorlauftemperaturen von 25 bis 35 Grad Celsius. Genau das kommt einer Wärmepumpe entgegen, die umso effizienter arbeitet, je niedriger die Vorlauftemperatur ist. Wer ohnehin einen Heizungstausch plant, kann beides zusammen planen lassen – was die Wärmepumpe selbst kostet, zeigt der Ratgeber [[/ratgeber/waermepumpe-kosten/]]. Für Flächenheizungen im Zuge einer Heizungsmodernisierung gibt es Förderprogramme des Bundes (BEG über KfW bzw. BAFA); Bedingungen ändern sich, Auskunft geben KfW, BAFA und Energieberatung. Wenn Sie uns Ihr Vorhaben schildern, wählen wir einen passenden Fachbetrieb aus, der sich bei Ihnen meldet und Estrich, Aufbauhöhe und Heizung vor dem Angebot prüft."
     }
   ],
   "faq": [
-    { "q": "Kann man eine Fußbodenheizung nur in einem Raum nachrüsten?", "a": "Ja. co2online rechnet für ein 10 Quadratmeter großes Bad mit elektrischer Fußbodenheizung inklusive Belag entfernen, Material und Verlegen mit 575 Euro, ohne neuen Bodenbelag." },
-    { "q": "Ist jeder Estrich zum Fräsen geeignet?", "a": "Nein. Der Estrich muss intakt und ausreichend dick sein, sonst kommen Trocken- oder Dünnschicht-Systeme infrage. Das lässt sich nur am Objekt beurteilen." },
-    { "q": "Wie lange dauert das Nachrüsten?", "a": "Für das Fräsen in einem Einfamilienhaus mit 130 Quadratmetern nennt co2online etwa 3 bis 6 Arbeitstage. Ein Nasssystem braucht zusätzlich 3 bis 4 Wochen Trocknungszeit." },
-    { "q": "Warum ist eine elektrische Fußbodenheizung im Altbau selten die Lösung für das ganze Haus?", "a": "Sie ist in der Anschaffung günstig, verursacht im Betrieb aber oft ein Vielfaches an Kosten. Deshalb eignet sie sich vor allem für kleine Flächen wie das Bad." },
-    { "q": "Muss der alte Bodenbelag raus?", "a": "Bei allen Verfahren wird der alte Belag in der Regel entfernt. Die Kosten für den neuen Bodenbelag sind in den üblichen Quadratmeterpreisen nicht enthalten." }
+    {
+      "q": "Kann man eine Fußbodenheizung nur in einem Raum nachrüsten?",
+      "a": "Ja. co2online rechnet für ein 10 Quadratmeter großes Bad mit elektrischer Fußbodenheizung inklusive Belag entfernen, Material und Verlegen mit 575 Euro, ohne neuen Bodenbelag."
+    },
+    {
+      "q": "Ist jeder Estrich zum Fräsen geeignet?",
+      "a": "Nein. Der Estrich muss intakt und ausreichend dick sein, sonst kommen Trocken- oder Dünnschicht-Systeme infrage. Das lässt sich nur am Objekt beurteilen."
+    },
+    {
+      "q": "Wie lange dauert das Nachrüsten?",
+      "a": "Für das Fräsen in einem Einfamilienhaus mit 130 Quadratmetern nennt co2online etwa 3 bis 6 Arbeitstage. Bei einem Nasssystem kommen mehrere Wochen Trocknungszeit für den Estrich hinzu."
+    },
+    {
+      "q": "Warum ist eine elektrische Fußbodenheizung im Altbau selten die Lösung für das ganze Haus?",
+      "a": "Sie ist in der Anschaffung günstig, verursacht im Betrieb aber oft ein Vielfaches an Kosten. Deshalb eignet sie sich vor allem für kleine Flächen wie das Bad."
+    },
+    {
+      "q": "Muss der alte Bodenbelag raus?",
+      "a": "Bei allen Verfahren wird der alte Belag in der Regel entfernt. Die Kosten für den neuen Bodenbelag sind in den üblichen Quadratmeterpreisen nicht enthalten."
+    }
   ],
-  "verwandt": ["waermepumpe-kosten", "boden-verlegen-kosten"],
+  "verwandt": [
+    "waermepumpe-kosten",
+    "boden-verlegen-kosten"
+  ],
   "quellen": [
-    { "titel": "Fußbodenheizung nachrüsten: Kosten & Methoden", "herausgeber": "co2online", "url": "https://www.co2online.de/modernisieren-und-bauen/heizung/fussbodenheizung/fussbodenheizung-nachruesten/", "abruf": "2026-10-02" },
-    { "titel": "Kosten einer Fußbodenheizung", "herausgeber": "co2online", "url": "https://www.co2online.de/modernisieren-und-bauen/heizung/fussbodenheizung/fussbodenheizung-kosten/", "abruf": "2026-10-02" },
-    { "titel": "Fußbodenheizung fräsen: Kosten, Vor- & Nachteile", "herausgeber": "co2online", "url": "https://www.co2online.de/modernisieren-und-bauen/heizung/fussbodenheizung/fussbodenheizung-fraesen/", "abruf": "2026-10-02" },
-    { "titel": "Heizungsrohre erneuern: Kosten", "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 08.08.2025)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-haustechnik/hausinstallationen.html", "abruf": "2026-10-02" },
-    { "titel": "Neue Heizung: Kosten und Preisvergleich", "herausgeber": "Bausparkasse Wüstenrot (Stand Juli 2026)", "url": "https://www.wuestenrot.de/modernisieren/heizung-kosten", "abruf": "2026-10-02" },
-    { "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
+    {
+      "titel": "Fußbodenheizung nachrüsten: Kosten & Methoden",
+      "herausgeber": "co2online",
+      "url": "https://www.co2online.de/modernisieren-und-bauen/heizung/fussbodenheizung/fussbodenheizung-nachruesten/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Kosten einer Fußbodenheizung",
+      "herausgeber": "co2online",
+      "url": "https://www.co2online.de/modernisieren-und-bauen/heizung/fussbodenheizung/fussbodenheizung-kosten/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Fußbodenheizung fräsen: Kosten, Vor- & Nachteile",
+      "herausgeber": "co2online",
+      "url": "https://www.co2online.de/modernisieren-und-bauen/heizung/fussbodenheizung/fussbodenheizung-fraesen/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Heizungsrohre erneuern: Kosten",
+      "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 08.08.2025)",
+      "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-haustechnik/hausinstallationen.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Neue Heizung: Kosten und Preisvergleich",
+      "herausgeber": "Bausparkasse Wüstenrot (Stand Juli 2026)",
+      "url": "https://www.wuestenrot.de/modernisieren/heizung-kosten",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025",
+      "herausgeber": "Statistisches Bundesamt",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html",
+      "abruf": "2026-10-02"
+    }
   ],
   "offen": [
     "co2online widerspricht sich bei Fräsen je m²: Nachrüsten-/Kostenseite 30–120 €, Fräsen-Seite 30–100 € bzw. Summe 30–90 € + Anschluss. Tabelle nutzt 30–120 € (Quelle 1), Abschnitt die Aufschlüsselung und 3.900–13.000 € (Quelle 3).",
     "Wüstenrot-Wert (gut 50–100 €/m²) ohne Angabe, ob Neubau oder Bestand.",
-    "Hinweis zur Holzbalkendecke/Statik sinngemäß aus Quelle 1, keine Zahl."
+    "Hinweis zur Holzbalkendecke/Statik sinngemäß aus Quelle 1, keine Zahl.",
+    "QA 02.10.: Förderbedingung „Fräsen als Einzelmaßnahme nicht förderfähig“ gestrichen (Förderregeln ändern sich), nur Standardsatz.",
+    "QA 02.10.: FAQ Trocknungszeit Nasssystem: co2online nennt auf Kostenseite 3–4 Wochen, auf Fräsen-Seite 4–6 Wochen → neutral „mehrere Wochen“.",
+    "QA 02.10.: Heizlastberechnung steht nicht „nach dem Einbau“, sondern bestimmt vorab den Rohrabstand (Quelle 3) → korrigiert.",
+    "QA 02.10.: Aufbauhöhen widersprechen sich bei co2online: Kostenseite Trocken 15–50 mm, Dünnschicht 15–20 mm; Nachrüsten-Seite Trocken 4–5 cm, Dünnschicht rund 2 cm. Text nutzt Kostenseite (Quelle 2).",
+    "QA 02.10.: Übrige Zahlen (20–135 €, 2.500–17.500 €, Tabellenwerte, 575 €, 11.500 €, 3.900–13.000 €, 3–6 Arbeitstage, 25–35 °C, SH 30–60 €, Wüstenrot gut 50–100 €) in den Quellen bestätigt; Hinweis „Untergrenze“ entschärft."
   ]
 }

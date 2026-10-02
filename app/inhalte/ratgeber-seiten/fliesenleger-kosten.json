@@ -50,20 +50,22 @@
     { "q": "Was kostet es, 10 m² Boden fliesen zu lassen?", "a": "Mit dem BKI-Richtwert für Fliesen mittlerer Qualität von rund 155 Euro je Quadratmeter einschließlich Verlegung ergeben sich etwa 1.550 Euro. Abbruch, Ausgleich des Untergrunds und Anfahrt kommen gegebenenfalls hinzu." },
     { "q": "Warum kosten große Fliesen mehr Arbeit?", "a": "Formate mit mehr als 30 Zentimetern Kantenlänge brauchen einen sehr ebenen Untergrund und sind schwerer zu handhaben. Das erhöht den Aufwand beim Vorbereiten und Ansetzen." },
     { "q": "Werden Silikonfugen extra berechnet?", "a": "Ja, meist nach Laufmeter. Die Commerzbank nennt dafür 5 bis 17 Euro je Laufmeter." },
-    { "q": "Sind Fliesen im Wohnzimmer teurer als Laminat?", "a": "In der Regel ja. In einem Rechenbeispiel der Commerzbank kosten Standardfliesen mit Verlegematerial rund 25 Euro und das Verlegen rund 45 Euro je Quadratmeter, also etwa 70 Euro zusammen; für Laminat nennt die Sparkasse einen Einstieg ab etwa 35 Euro." }
+    { "q": "Sind Fliesen im Wohnzimmer teurer als Laminat?", "a": "In der Regel ja. In einem Rechenbeispiel der Commerzbank kosten Standardfliesen mit Verlegematerial rund 25 Euro und das Verlegen rund 45 Euro je Quadratmeter. Für Laminat, verlegt durch einen Fachbetrieb, nennt die Sparkasse einen Einstieg ab etwa 35 Euro je Quadratmeter." }
   ],
   "verwandt": ["badsanierung-kosten", "boden-verlegen-kosten"],
   "quellen": [
-    { "titel": "Fliesenleger: Welche Kosten ergeben sich?", "herausgeber": "Commerzbank (07.01.2025)", "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/fliesenleger-welche-kosten-entstehen/", "abruf": "2026-10-02" },
+    { "titel": "Fliesenleger: Welche Kosten ergeben sich?", "herausgeber": "Commerzbank (Bankratgeber, 07.01.2025)", "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/fliesenleger-welche-kosten-entstehen/", "abruf": "2026-10-02" },
     { "titel": "Sanierungskosten-Rechner für verschiedene Gewerke", "herausgeber": "Bausparkasse Schwäbisch Hall (Richtwerte BKI, 4. Quartal 2025)", "url": "https://www.schwaebisch-hall.de/rechner/renovierungskosten-berechnen.html", "abruf": "2026-10-02" },
-    { "titel": "Modernisierungskosten: Ausgaben bei Modernisierung, Sanierung und Renovierung einplanen", "herausgeber": "Sparkasse (sparkasse.de)", "url": "https://www.sparkasse.de/pk/ratgeber/wohnen/immobilie-modernisieren/modernisierungskosten.html", "abruf": "2026-10-02" },
-    { "titel": "Renovierungskosten für Haus und Wohnung", "herausgeber": "Commerzbank (19.11.2024)", "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/renovierungskosten-fuer-haus-und-wohnung/", "abruf": "2026-10-02" },
+    { "titel": "Modernisierungskosten: Ausgaben bei Modernisierung, Sanierung und Renovierung einplanen", "herausgeber": "Sparkasse (sparkasse.de, ohne Datum)", "url": "https://www.sparkasse.de/pk/ratgeber/wohnen/immobilie-modernisieren/modernisierungskosten.html", "abruf": "2026-10-02" },
+    { "titel": "Renovierungskosten für Haus und Wohnung", "herausgeber": "Commerzbank (Bankratgeber, 19.11.2024)", "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/renovierungskosten-fuer-haus-und-wohnung/", "abruf": "2026-10-02" },
     { "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
   ],
   "offen": [
     "Kein neutraler Primärwert (Verbraucherzentrale, Destatis-Einzelpreise) für Fliesenlegerarbeiten; Werte aus Bank-/Sparkassen-Ratgebern und BKI über Schwäbisch Hall.",
     "Sparkasse-Seite ohne Datum (LBS zitiert sie mit Zugriff 29.09.2026).",
-    "FAQ 10 m²: einfache Multiplikation 10 × 155 € (BKI). FAQ Wohnzimmer: 25 € + 45 € = 70 € aus Quelle 4.",
-    "Aussage zu Dünnbett/Mörtelbett, Format > 30 cm, Großstadt/Land und Meisterbetrieb aus Quelle 1; Fischgrät/Diagonal und ‚zwei Personen beim Ansetzen‘ allgemeines Fachwissen ohne Zahl."
+    "FAQ 10 m²: einfache Multiplikation 10 × 155 € (BKI). FAQ Wohnzimmer: beide Einzelwerte aus Quelle 4 genannt, keine eigene Summe.",
+    "Aussage zu Dünnbett/Mörtelbett, Format > 30 cm, Großstadt/Land und Meisterbetrieb aus Quelle 1; Fischgrät/Diagonal und ‚zwei Personen beim Ansetzen‘ allgemeines Fachwissen ohne Zahl.",
+    "QA 02.10.: FAQ Wohnzimmer – selbst gebildete Summe „etwa 70 Euro zusammen“ gestrichen, nur Quellenwerte 25 € und 45 € je m².",
+    "QA 02.10.: Bestätigt: Commerzbank 50–80 (Arbeit), 10–60 (Material), mind. 40 €/h, ab 20 (Fliesen entfernen), 5–10 (Spachteln/Grundieren), 5–17 €/lfm, 2–6 €/lfm, Anfahrt ab 40 €, Bad-Beispiel 40 m² = 4.030 €, Format > 30 cm, Dünnbett/Mörtelbett, Großstadt/Land, Meisterbetrieb, „nur dort fliesen, wo nötig“; Commerzbank Renovierung 25 + 45 €/m²; BKI über SH 115/155/195, 65, 85, 15; Sparkasse ab 80 und Laminat ab 35; Destatis Ausbau +5,1 %."
   ]
 }

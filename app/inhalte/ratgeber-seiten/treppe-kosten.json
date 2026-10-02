@@ -10,28 +10,64 @@
   "einstieg": "Eine Treppe ist im Haus ein Bauteil für Jahrzehnte: Sie muss sicher begehbar sein, in den Grundriss passen und zur Statik von Decke und Wänden. Die Treppe Kosten reichen deshalb von einem einfachen Bausatz für den Dachboden bis zu freitragenden Konstruktionen aus Naturstein oder Hartholz. Den Preis bestimmen Treppenart, Material, Geländer und der Aufwand beim Einbau, im Bestand oft auch der Rückbau der alten Treppe. Hier finden Sie Preisspannen aus zitierfähigen Quellen, die wichtigsten Maße und Hinweise, was ein Angebot enthalten sollte.",
   "kosten": {
     "h2": "Treppe Kosten im Überblick",
-    "intro": "Für Innentreppen gibt es kaum neutrale Baukostenstatistiken. Die folgenden Spannen stammen überwiegend aus Ratgeberartikeln von Wohnglück.de und gelten je nach Zeile für Bausatz, Treppe oder laufenden Meter; Montage, Fundament und Geländer sind, wo nicht anders genannt, nicht enthalten. Für Treppenlifte nennt die Commerzbank eigene Spannen. Die Werte dienen der Orientierung, ein Angebot nach Aufmaß ersetzen sie nicht.",
+    "intro": "Für Innentreppen gibt es kaum neutrale Baukostenstatistiken. Die folgenden Spannen stammen überwiegend aus undatierten Ratgeberartikeln von Wohnglück.de, betrieben von der Impleco GmbH, einem Darlehensvermittler, und gelten je nach Zeile für Bausatz, Treppe oder laufenden Meter; Montage, Fundament und Geländer sind, wo nicht anders genannt, nicht enthalten. Für Treppenlifte nennt die Commerzbank eigene Spannen. Die Werte dienen der Orientierung, ein Angebot nach Aufmaß ersetzen sie nicht.",
     "zeilen": [
-      { "posten": "Raumspartreppe, einfacher Holzbausatz (Baumarkt)", "spanne": "unter 150 €", "q": 1 },
-      { "posten": "Raumspartreppe aus Massivholz", "spanne": "bis ca. 2.000 €", "q": 1 },
-      { "posten": "Raumspartreppe aus Metall", "spanne": "400 – 2.500 €", "q": 1 },
-      { "posten": "Freitragende Treppe, einfache Ausführung", "spanne": "2.500 – 3.000 €", "q": 2 },
-      { "posten": "Freitragende Treppe aus Naturstein oder edlem Holz", "spanne": "ab 5.000 – 8.000 €", "q": 2 },
-      { "posten": "Treppengeländer Aluminium je laufendem Meter", "spanne": "80 – 200 €", "q": 3 },
-      { "posten": "Treppengeländer Edelstahl oder Holz je laufendem Meter", "spanne": "200 – 500 €", "q": 3 },
-      { "posten": "Eingangstreppe aus Metall oder Beton (Standardmodell)", "spanne": "500 – 2.000 €", "q": 4 },
-      { "posten": "Treppenlift (Sitzlift)", "spanne": "2.500 – 15.000 €", "q": 6 }
+      {
+        "posten": "Raumspartreppe, einfacher Holzbausatz (Baumarkt)",
+        "spanne": "unter 150 €",
+        "q": 1
+      },
+      {
+        "posten": "Raumspartreppe aus Massivholz",
+        "spanne": "bis ca. 2.000 €",
+        "q": 1
+      },
+      {
+        "posten": "Raumspartreppe aus Metall",
+        "spanne": "400 – 2.500 €",
+        "q": 1
+      },
+      {
+        "posten": "Freitragende Treppe, einfache Ausführung",
+        "spanne": "2.500 – 3.000 €",
+        "q": 2
+      },
+      {
+        "posten": "Freitragende Treppe aus Naturstein oder edlem Holz",
+        "spanne": "5.000 – 8.000 € und mehr",
+        "q": 2
+      },
+      {
+        "posten": "Treppengeländer Aluminium je laufendem Meter",
+        "spanne": "80 – 200 €",
+        "q": 3
+      },
+      {
+        "posten": "Treppengeländer Edelstahl oder Holz je laufendem Meter",
+        "spanne": "200 – 500 €",
+        "q": 3
+      },
+      {
+        "posten": "Eingangstreppe aus Metall oder Beton (Standardmodell)",
+        "spanne": "500 – 2.000 €",
+        "q": 4
+      },
+      {
+        "posten": "Treppenlift (Sitzlift)",
+        "spanne": "2.500 – 15.000 €",
+        "q": 6
+      }
     ],
-    "hinweis": "Die Preise für Zimmer- und Holzbauarbeiten an Wohngebäuden lagen laut Statistischem Bundesamt im Mai 2026 um 7,3 % über dem Vorjahresmonat, für Metallbauarbeiten um 4,4 %. Spannen aus Ratgebern ohne Datum sind deshalb eher als Untergrenze zu lesen."
+    "hinweis": "Die Preise für Zimmer- und Holzbauarbeiten an Wohngebäuden lagen laut Statistischem Bundesamt im Mai 2026 um 7,3 % über dem Vorjahresmonat, für Metallbauarbeiten um 4,4 %. Spannen aus Ratgebern ohne Datum bilden das heutige Preisniveau deshalb nicht sicher ab."
   },
   "abschnitte": [
     {
       "h2": "Treppenarten und was sie kosten",
-      "text": "Die Treppenart prägt den Preis stärker als fast alles andere. Raumspartreppen mit versetzten Stufen eignen sich für Dachböden und Galerien; laut Wohnglück.de gibt es einfache Bausätze aus unbehandeltem Nadelholz schon unter 150 Euro, Massivholzmodelle kosten bis etwa 2.000 Euro, Metallausführungen 400 bis 2.500 Euro. Steile Leitertreppen mit 45 bis 75 Grad Neigung sind nach Baurecht nur als Ersatz für Bodentreppen zu Dachräumen ohne Aufenthaltsräume zulässig. Freitragende Treppen wie Bolzen-, Spindel- oder Kragarmtreppen wirken leicht und lassen Licht durch, sind aber konstruktiv aufwendig: Einfache Ausführungen liegen laut Wohnglück.de bei 2.500 bis 3.000 Euro, mit Naturstein oder edlem Holz bei 5.000 bis 8.000 Euro und mehr. Kragarmtreppen setzen sehr stabile Wände voraus, idealerweise aus Beton. Massive Betontreppen entstehen meist schon im Rohbau; ihr Preis hängt stark vom Belag ab."
+      "text": "Die Treppenart prägt den Preis stärker als fast alles andere. Raumspartreppen mit versetzten Stufen eignen sich für Dachböden und Galerien; laut Wohnglück.de gibt es einfache Bausätze aus unbehandeltem Nadelholz schon unter 150 Euro, Massivholzmodelle kosten bis etwa 2.000 Euro, Metallausführungen 400 bis 2.500 Euro. Steile Leitertreppen mit 45 bis 75 Grad Neigung sind laut Wohnglück.de nach dem Baurecht nur als Ersatz für bewegliche Bodentreppen zu Dachgeschossen oder Speichern ohne Aufenthaltsräume erlaubt; verbindlich beurteilt das die untere Baurechtsbehörde. Freitragende Treppen wie Bolzen-, Spindel- oder Kragarmtreppen wirken leicht und lassen Licht durch, sind aber konstruktiv aufwendig: Einfache Ausführungen liegen laut Wohnglück.de bei 2.500 bis 3.000 Euro, mit Naturstein oder edlem Holz bei 5.000 bis 8.000 Euro und mehr. Im selben Artikel heißt es allerdings auch, ein freitragender Treppenlauf liege in der Regel im fünfstelligen Bereich – die Spanne ist also unsicher. Kragarmtreppen setzen sehr stabile Wände voraus, idealerweise aus Beton. Massive Betontreppen entstehen meist schon im Rohbau."
     },
     {
       "h2": "Geländer, Belag und Einbau",
-      "text": "Zur Treppe gehört fast immer ein Geländer. Nach Wohnglück.de ist es dort vorgeschrieben, wo die Absturzhöhe mindestens 15 Zentimeter beträgt und die Treppe mehr als drei Stufen hat. Die Kosten rechnen sich je laufendem Meter: Aluminium beginnt bei 80 bis 200 Euro, Edelstahl oder Holz liegen bei 200 bis 500 Euro, Glasfüllungen bei mindestens 500 Euro je Meter. Bei einem Treppenlauf von vier Metern ergeben 200 bis 500 Euro je Meter also 800 bis 2.000 Euro für ein Holz- oder Edelstahlgeländer. Im Bestand kommen der Ausbau der alten Treppe, Anpassungen an der Deckenöffnung, Putz- und Malerarbeiten sowie gegebenenfalls Beleuchtung hinzu. Statt einer neuen Treppe kann auch eine Renovierung der vorhandenen sinnvoll sein, etwa neue Stufenbeläge auf einer tragfähigen Betontreppe; ob das geht, lässt sich am Objekt prüfen. Für ein konkretes Angebot wählen wir einen Fachbetrieb für [[/leistungen/innenausbau/]] aus, der Treppe und Öffnung vorher aufmisst."
+      "text": "Zur Treppe gehört fast immer ein Geländer. Laut Wohnglück.de sieht die DIN 18065 ein Geländer überall dort vor, wo die Absturzhöhe mindestens 15 Zentimeter beträgt und die Treppe mehr als drei Stufen hat. Die Kosten rechnen sich je laufendem Meter: Aluminium beginnt bei 80 bis 200 Euro, Edelstahl oder Holz liegen bei 200 bis 500 Euro, Glasfüllungen bei mindestens 500 Euro je Meter. Bei einem Treppenlauf von vier Metern ergeben 200 bis 500 Euro je Meter also 800 bis 2.000 Euro für ein Holz- oder Edelstahlgeländer. Im Bestand kommen der Ausbau der alten Treppe, Anpassungen an der Deckenöffnung, Putz- und Malerarbeiten sowie gegebenenfalls Beleuchtung hinzu. Statt einer neuen Treppe kann auch eine Renovierung der vorhandenen sinnvoll sein, etwa neue Stufenbeläge auf einer tragfähigen Betontreppe; ob das geht, lässt sich am Objekt prüfen. Für ein konkretes Angebot wählen wir einen Fachbetrieb für [[/leistungen/innenausbau/]] aus, der Treppe und Öffnung vorher aufmisst."
     },
     {
       "h2": "Die wichtigsten Maße nach DIN 18065",
@@ -39,32 +75,93 @@
     },
     {
       "h2": "Treppe im Alter: Treppenlift als Alternative",
-      "text": "Wird die Treppe im Alter zum Hindernis, ist ein Umbau nicht immer nötig. Die Commerzbank nennt für Sitzlifte 2.500 bis 15.000 Euro; am unteren Ende liegen Lifte für eine gerade, kurze Innentreppe, für gewendelte Treppen 6.000 bis 15.000 Euro. Plattformlifte für Rollstühle kosten laut Commerzbank 8.000 bis 25.000 Euro. Für Energie und Wartung kommen rund 100 bis 300 Euro im Jahr hinzu. Für barrierereduzierende Umbauten gibt es Förderprogramme, unter anderem der KfW, und bei einem Pflegegrad kann die Pflegekasse Auskunft geben. Wer das Haus insgesamt altersgerecht umbaut, denkt meist auch an das Bad; worauf es dort ankommt, erklärt der Ratgeber [[/ratgeber/barrierefreies-bad/]]."
+      "text": "Wird die Treppe im Alter zum Hindernis, ist ein Umbau nicht immer nötig. Die Commerzbank nennt für Sitzlifte 2.500 bis 15.000 Euro; am unteren Ende liegen Lifte für eine gerade, kurze Innentreppe, für gewendelte Treppen 6.000 bis 15.000 Euro. Plattformlifte für Rollstühle kosten laut Commerzbank 8.000 bis 25.000 Euro. Für Energie und Wartung kommen rund 100 bis 300 Euro im Jahr hinzu. Für barrierereduzierende Umbauten gibt es Förderprogramme, unter anderem der KfW, außerdem können Zuschüsse der Pflegekasse infrage kommen; Bedingungen ändern sich, Auskunft geben KfW, Pflegekasse und Beratungsstellen. Wer das Haus insgesamt altersgerecht umbaut, denkt meist auch an das Bad; worauf es dort ankommt, erklärt der Ratgeber [[/ratgeber/barrierefreies-bad/]]."
     }
   ],
   "faq": [
-    { "q": "Was kostet eine Außentreppe zum Hauseingang?", "a": "Standardmodelle aus Metall oder Beton kosten laut Wohnglück.de im Schnitt 500 bis 2.000 Euro. Für eine fünfstufige, einen Meter breite Betontreppe ohne Verkleidung nennt die Quelle ab etwa 400 Euro, mit Naturstein ab etwa 2.000 Euro, jeweils ohne Fundament, Handlauf und Montage." },
-    { "q": "Ist eine Raumspartreppe überall erlaubt?", "a": "Raumspartreppen und steile Leitertreppen sind nach Baurecht nur eingeschränkt zulässig, etwa als Zugang zu Dachräumen ohne Aufenthaltsräume. Ob eine Treppe als notwendige Treppe gilt, regelt die Landesbauordnung; Auskunft gibt das Baurechtsamt." },
-    { "q": "Wie viele Stufen braucht meine Treppe?", "a": "Die Stufenzahl ergibt sich aus Geschosshöhe geteilt durch Steigungshöhe. Bei 2,72 Metern Geschosshöhe und 17 Zentimetern Steigung sind das 16 Stufen." },
-    { "q": "Reicht eine Renovierung statt einer neuen Treppe?", "a": "Ist die Konstruktion tragfähig und passt das Steigungsverhältnis, kann ein neuer Belag oder ein neues Geländer genügen. Stimmen Maße oder Statik nicht, führt meist kein Weg an einer neuen Treppe vorbei." },
-    { "q": "Braucht jede Treppe ein Geländer?", "a": "Laut Wohnglück.de ist ein Geländer dort Pflicht, wo die Absturzhöhe mindestens 15 Zentimeter beträgt und die Treppe mehr als drei Stufen hat. Die genauen Anforderungen ergeben sich aus DIN 18065 und Landesbauordnung." }
+    {
+      "q": "Was kostet eine Außentreppe zum Hauseingang?",
+      "a": "Standardmodelle aus Metall oder Beton kosten laut Wohnglück.de im Schnitt 500 bis 2.000 Euro. Für eine fünfstufige, einen Meter breite Betontreppe ohne Verkleidung nennt die Quelle ab etwa 400 Euro, mit Naturstein ab etwa 2.000 Euro, jeweils ohne Fundament, Handlauf und Montage."
+    },
+    {
+      "q": "Ist eine Raumspartreppe oder Leitertreppe überall erlaubt?",
+      "a": "Laut Wohnglück.de sind Leitertreppen mit 45 bis 75 Grad Neigung nach dem Baurecht nur als Ersatz für bewegliche Bodentreppen zu Dachgeschossen oder Speichern ohne Aufenthaltsräume erlaubt. Verbindlich beurteilt das die untere Baurechtsbehörde."
+    },
+    {
+      "q": "Wie viele Stufen braucht meine Treppe?",
+      "a": "Laut Wohnglück.de ergibt sich die Stufenzahl aus der Geschosshöhe geteilt durch die Steigungshöhe, die im Regelfall 16 bis 18 Zentimeter beträgt. Das genaue Maß legt die Treppenplanung fest."
+    },
+    {
+      "q": "Reicht eine Renovierung statt einer neuen Treppe?",
+      "a": "Ist die Konstruktion tragfähig und passt das Steigungsverhältnis, kann ein neuer Belag oder ein neues Geländer genügen. Stimmen Maße oder Statik nicht, führt meist kein Weg an einer neuen Treppe vorbei."
+    },
+    {
+      "q": "Braucht jede Treppe ein Geländer?",
+      "a": "Laut Wohnglück.de sieht die DIN 18065 ein Geländer dort vor, wo die Absturzhöhe mindestens 15 Zentimeter beträgt und die Treppe mehr als drei Stufen hat. Verbindlich beurteilt das im Zweifel die untere Baurechtsbehörde."
+    }
   ],
-  "verwandt": ["barrierefreies-bad", "boden-verlegen-kosten"],
+  "verwandt": [
+    "barrierefreies-bad",
+    "boden-verlegen-kosten"
+  ],
   "quellen": [
-    { "titel": "Raumspartreppe: Die platzsparende Treppen-Lösung", "herausgeber": "Wohnglück.de (Impleco GmbH)", "url": "https://wohnglueck.de/artikel/raumspartreppe-55399", "abruf": "2026-10-02" },
-    { "titel": "Freitragende Treppe: Arten, Ideen & Kosten", "herausgeber": "Wohnglück.de (Impleco GmbH)", "url": "https://wohnglueck.de/artikel/freitragende-treppe-55550", "abruf": "2026-10-02" },
-    { "titel": "Treppengeländer: Vorschriften, Arten und Kosten", "herausgeber": "Wohnglück.de (Impleco GmbH)", "url": "https://wohnglueck.de/artikel/treppengelaender-alles-ueber-vorschriften-arten-und-kosten-61300", "abruf": "2026-10-02" },
-    { "titel": "Eingangstreppe: Planung, Treppen-Typen & Kosten", "herausgeber": "Wohnglück.de (Impleco GmbH)", "url": "https://wohnglueck.de/artikel/eingangstreppe-55530", "abruf": "2026-10-02" },
-    { "titel": "Steigungsverhältnis", "herausgeber": "BauNetz Wissen (Fachportal)", "url": "https://www.baunetzwissen.de/treppen/fachwissen/planungsgrundlagen/steigungsverhaeltnis-167510", "abruf": "2026-10-02" },
-    { "titel": "Was kostet ein Treppenlift?", "herausgeber": "Commerzbank (Stand 12.08.2025)", "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/treppenlift-kosten-im-ueberblick/", "abruf": "2026-10-02" },
-    { "titel": "Treppe berechnen: Von Auftrittsbreite bis Treppenstufen-Höhe", "herausgeber": "Wohnglück.de (Impleco GmbH)", "url": "https://wohnglueck.de/artikel/treppe-berechnen-55546", "abruf": "2026-10-02" },
-    { "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
+    {
+      "titel": "Raumspartreppe: Die platzsparende Treppen-Lösung",
+      "herausgeber": "Wohnglück.de (Impleco GmbH, Darlehensvermittler; Artikel undatiert)",
+      "url": "https://wohnglueck.de/artikel/raumspartreppe-55399",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Freitragende Treppe: Arten, Ideen & Kosten",
+      "herausgeber": "Wohnglück.de (Impleco GmbH, Darlehensvermittler; Artikel undatiert)",
+      "url": "https://wohnglueck.de/artikel/freitragende-treppe-55550",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Treppengeländer: Vorschriften, Arten und Kosten",
+      "herausgeber": "Wohnglück.de (Impleco GmbH, Darlehensvermittler; Artikel undatiert)",
+      "url": "https://wohnglueck.de/artikel/treppengelaender-alles-ueber-vorschriften-arten-und-kosten-61300",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Eingangstreppe: Planung, Treppen-Typen & Kosten",
+      "herausgeber": "Wohnglück.de (Impleco GmbH, Darlehensvermittler; Artikel undatiert)",
+      "url": "https://wohnglueck.de/artikel/eingangstreppe-55530",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Steigungsverhältnis",
+      "herausgeber": "BauNetz Wissen (Fachportal)",
+      "url": "https://www.baunetzwissen.de/treppen/fachwissen/planungsgrundlagen/steigungsverhaeltnis-167510",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Was kostet ein Treppenlift?",
+      "herausgeber": "Commerzbank (Stand 12.08.2025)",
+      "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/treppenlift-kosten-im-ueberblick/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Treppe berechnen: Von Auftrittsbreite bis Treppenstufen-Höhe",
+      "herausgeber": "Wohnglück.de (Impleco GmbH, Darlehensvermittler; Artikel undatiert)",
+      "url": "https://wohnglueck.de/artikel/treppe-berechnen-55546",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025",
+      "herausgeber": "Statistisches Bundesamt",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html",
+      "abruf": "2026-10-02"
+    }
   ],
   "offen": [
     "Keine neutrale Quelle (BKI über Bausparkasse, Verbraucherzentrale) für Preise gerader Holz-, Wangen- oder Betontreppen im Innenbereich gefunden; Treffer nur von Treppenbaufirmen und Portalen (verboten). Deshalb fehlt die häufigste Innentreppe in der Tabelle.",
     "Wohnglück.de: Betreiber Impleco GmbH (Darlehensvermittler laut Impressum), Artikel ohne sichtbares Datum. Im Artikel 'Freitragende Treppe' widersprüchlich: 'in der Regel fünfstelliger Bereich' vs. 'einfache 2.500–3.000 €'; verwendet wurden die konkreten Zahlen.",
-    "FAQ 2 (Zulässigkeit Raumspar-/Leitertreppe, notwendige Treppe nach LBO) – rechtliche Einordnung, ggf. anwaltlich prüfen; Aussage zu Leitertreppen aus Wohnglück 'Raumspartreppe'.",
-    "FAQ 3 Rechenbeispiel (272 cm / 17 cm = 16) eigene einfache Division nach der Formel aus Quelle 7.",
-    "Geländer-Rechenbeispiel 4 m × 200–500 €/m = 800–2.000 € eigene Multiplikation (im Text erklärt)."
+    "Geländer-Rechenbeispiel 4 m × 200–500 €/m = 800–2.000 € eigene Multiplikation (im Text erklärt).",
+    "QA 02.10.: Wohnglück.de im Herausgeber und Kosten-Intro als Darlehensvermittler, undatiert gekennzeichnet. Neutrale Zusatzquelle (BKI via Schwäbisch Hall/LBS) gesucht, keine Treppen-Kostenseite gefunden.",
+    "QA 02.10.: FAQ 3 eigene Division 272/17 = 16 gestrichen, nur Formel und Regelmaß 16–18 cm laut Quelle 7.",
+    "QA 02.10.: Leitertreppen-Zulässigkeit und Geländerpflicht als Wiedergabe Wohnglück.de mit Verweis auf untere Baurechtsbehörde (Abschnitt 1/2, FAQ 2/5); Aussage „Raumspartreppen nur eingeschränkt zulässig“ und „notwendige Treppe regelt LBO“ (nicht belegt) gestrichen.",
+    "QA 02.10.: Widerspruch im Wohnglück-Artikel freitragende Treppe („fünfstelliger Bereich“ vs. 2.500–3.000 €) im Text offengelegt. Pflegegrad-Bedingung entfernt; „Preis hängt vom Belag ab“ (unbelegt) gestrichen.",
+    "QA 02.10.: Alle Zahlen bestätigt: Raumspar <150/2.000/400–2.500, freitragend 2.500–3.000 und 5.000–8.000 aufwärts, Geländer 80–200/200–500/500, Eingangstreppe 500–2.000/400/2.000, BauNetz 590–650 mm, 170/290, ±5 mm, Wohnglück 80–100 cm/200–210 cm, Commerzbank (geändert 12.08.2025) 2.500–15.000/6.000–15.000/8.000–25.000/100–300 €."
   ]
 }

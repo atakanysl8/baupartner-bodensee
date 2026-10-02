@@ -12,18 +12,58 @@
     "h2": "Kernsanierung Kosten im Überblick",
     "intro": "LBS und Sparkassen-Finanzgruppe nennen übereinstimmend 400 bis 1.000 Euro pro Quadratmeter Wohnfläche für eine Kern- oder Komplettsanierung; je nach Fall kann es auch deutlich teurer werden. Für ein Haus mit 130 Quadratmetern ergibt das rechnerisch 52.000 bis 130.000 Euro. Die Einzelposten stammen aus einer Beispielrechnung der Bausparkasse Schwäbisch Hall mit Werten des Baukosteninformationszentrums Deutscher Architektenkammern (BKI, 4. Quartal 2025) für ein Reihenendhaus aus den 1980er-Jahren mit rund 130 Quadratmetern Wohnfläche. Es sind Nettopreise.",
     "zeilen": [
-      { "posten": "Kernsanierung je m² Wohnfläche", "spanne": "400 – 1.000 €", "q": 2 },
-      { "posten": "Haus mit 130 m² Wohnfläche (Rechnung aus der Spanne je m²)", "spanne": "52.000 – 130.000 €", "q": 2 },
-      { "posten": "Planungskosten (ohne Wärmepumpenplanung)", "spanne": "ca. 8.000 – 12.500 €", "q": 1 },
-      { "posten": "Abbruch Dach und Blechteile je m²", "spanne": "ca. 60 €", "q": 1 },
-      { "posten": "Fassadendämmung mit WDVS, Mineralwolle, 160 m²", "spanne": "ca. 32.000 €", "q": 1 },
-      { "posten": "12 Kunststofffenster mit Fensterbänken", "spanne": "ca. 12.275 €", "q": 1 },
-      { "posten": "Fertigparkett, 100 m²", "spanne": "ca. 19.000 €", "q": 1 },
-      { "posten": "9 Heizkörper mit Thermostaten tauschen", "spanne": "ca. 7.470 €", "q": 1 },
-      { "posten": "Luft-Wärmepumpe bis 25 kW mit Speicher", "spanne": "ca. 40.390 €", "q": 1 },
-      { "posten": "Erneuerung der Elektrik je m² Wohnfläche", "spanne": "110 – 170 €", "q": 2 }
+      {
+        "posten": "Kernsanierung je m² Wohnfläche",
+        "spanne": "400 – 1.000 €",
+        "q": 2
+      },
+      {
+        "posten": "Haus mit 130 m² Wohnfläche (Rechnung aus der Spanne je m²)",
+        "spanne": "52.000 – 130.000 €",
+        "q": 2
+      },
+      {
+        "posten": "Planungskosten (ohne Wärmepumpenplanung)",
+        "spanne": "ca. 8.000 – 12.500 €",
+        "q": 1
+      },
+      {
+        "posten": "Abbruch Dach und Blechteile je m²",
+        "spanne": "ca. 60 €",
+        "q": 1
+      },
+      {
+        "posten": "Fassadendämmung mit WDVS, Mineralwolle bis 200 mm, 160 m²",
+        "spanne": "ca. 32.000 €",
+        "q": 1
+      },
+      {
+        "posten": "12 Kunststofffenster mit Fensterbänken",
+        "spanne": "ca. 12.275 €",
+        "q": 1
+      },
+      {
+        "posten": "Fertigparkett (Buche), 100 m²",
+        "spanne": "ca. 19.000 €",
+        "q": 1
+      },
+      {
+        "posten": "9 Heizkörper mit Thermostaten tauschen",
+        "spanne": "ca. 7.470 €",
+        "q": 1
+      },
+      {
+        "posten": "Luft-Wärmepumpe bis 25 kW mit Speicher",
+        "spanne": "ca. 40.390 €",
+        "q": 1
+      },
+      {
+        "posten": "Erneuerung der Elektrik je m² Wohnfläche",
+        "spanne": "110 – 170 €",
+        "q": 2
+      }
     ],
-    "hinweis": "Baupreise steigen weiter: Die Preise für Instandhaltungsarbeiten an Wohngebäuden lagen laut Statistischem Bundesamt im Mai 2026 um 5,6 % über dem Vorjahresmonat. Die BKI-Werte sind statistische Mittelwerte; bei Einzelvergaben und regional können sie deutlich abweichen."
+    "hinweis": "Die Preise für Instandhaltungsarbeiten an Wohngebäuden lagen laut Statistischem Bundesamt im Mai 2026 um 5,6 % über dem Vorjahresmonat. Die BKI-Werte sind statistische Mittelwerte; laut Schwäbisch Hall variieren sie regional und saisonal deutlich, bei Einzelmaßnahmen und direkter Beauftragung ist mit Preiszuschlägen zu rechnen."
   },
   "abschnitte": [
     {
@@ -32,35 +72,82 @@
     },
     {
       "h2": "Kernsanierung Haus: Kosten nach Baujahr",
-      "text": "Das Baujahr gibt einen ersten Anhaltspunkt, wie viel zu tun ist. Die Bausparkasse Schwäbisch Hall nennt als Faustwerte für eine Altbausanierung bei einem Vorkriegsbau ca. 50 bis 60 Prozent des Kaufpreises, bei einem Altbau aus der Nachkriegszeit ca. 40 Prozent, bei einem Haus aus den 1970er- und 1980er-Jahren ca. 30 Prozent und bei Immobilien aus den 1990er- und 2000er-Jahren ca. 20 Prozent. Solche Werte ersetzen keine Bestandsaufnahme: Feuchte Wände, ein nasser Keller, ein maroder Dachstuhl oder Schadstoffe in alten Baustoffen können den Aufwand deutlich erhöhen. Steht das Haus unter Denkmalschutz, sind Abstimmungen mit der Denkmalbehörde nötig und die Kosten liegen nach Angaben der Bausparkasse deutlich höher als bei einem normalen Gebäude. Umgekehrt bleibt der Preis niedriger, wenn Teile wie Dach oder Fenster erst vor wenigen Jahren erneuert wurden und erhalten bleiben können."
+      "text": "Das Baujahr gibt einen ersten Anhaltspunkt, wie viel zu tun ist. Die Bausparkasse Schwäbisch Hall nennt als Faustwerte für eine Altbausanierung bei einem Vorkriegsbau ca. 50 bis 60 Prozent des Kaufpreises, bei einem Altbau aus der Nachkriegszeit ca. 40 Prozent und bei einem Haus aus den 1970er- und 1980er-Jahren ca. 30 Prozent; insgesamt nennt sie für eine Altbausanierung 20 bis 60 Prozent des Kaufpreises. Solche Werte ersetzen keine Bestandsaufnahme: Feuchte Wände, ein nasser Keller, ein maroder Dachstuhl oder Schadstoffe in alten Baustoffen können den Aufwand deutlich erhöhen. Steht das Haus unter Denkmalschutz, sind Abstimmungen mit der Denkmalbehörde nötig und die Kosten liegen nach Angaben der Bausparkasse deutlich höher als bei einem normalen Gebäude. Umgekehrt bleibt der Preis niedriger, wenn Teile wie Dach oder Fenster erst vor wenigen Jahren erneuert wurden und erhalten bleiben können."
     },
     {
       "h2": "Kosten einer Kernsanierung: die größten Posten",
-      "text": "Am Beispielhaus der Bausparkasse entfallen die größten Beträge auf Gebäudehülle und Heizung. Allein die Fassadendämmung mit Wärmedämm-Verbundsystem schlägt dort mit rund 32.000 Euro zu Buche, die Luft-Wärmepumpe mit rund 40.390 Euro; dazu kommen Dachdämmung, neue Eindeckung, Dachfenster und Fenster. Im Innenausbau sind neue Böden, Bäder, Türen, Putz und Anstrich die großen Positionen. Weil die Hülle energetisch verbessert wird, ist eine Kernsanierung meist zugleich eine energetische Sanierung. Was dabei technisch zusammenhängt und welche Reihenfolge sich empfiehlt, beschreibt der Ratgeber [[/ratgeber/energetische-sanierung/]]. Für Sanierungen zum Effizienzhaus gibt es Förderprogramme des Bundes (BEG über KfW bzw. BAFA); Bedingungen ändern sich, Auskunft geben KfW, BAFA und Energieberatung. Wichtig für die Kalkulation: Die BKI-Werte sind Nettopreise ohne Mehrwertsteuer, und Abbruch, Entsorgung und Baustelleneinrichtung sind nur teilweise enthalten."
+      "text": "Am Beispielhaus der Bausparkasse entfallen die größten Beträge auf Gebäudehülle und Heizung. Allein die Fassadendämmung mit Wärmedämm-Verbundsystem schlägt dort mit rund 32.000 Euro zu Buche, die Luft-Wärmepumpe mit rund 40.390 Euro; dazu kommen Dachdämmung, neue Eindeckung, Dachfenster und Fenster. Im Innenausbau sind neue Böden, Bäder, Türen, Putz und Anstrich die großen Positionen. Weil die Hülle energetisch verbessert wird, ist eine Kernsanierung meist zugleich eine energetische Sanierung. Was dabei technisch zusammenhängt und welche Reihenfolge sich empfiehlt, beschreibt der Ratgeber [[/ratgeber/energetische-sanierung/]]. Für Sanierungen zum Effizienzhaus gibt es Förderprogramme des Bundes (BEG über KfW bzw. BAFA); Bedingungen ändern sich, Auskunft geben KfW, BAFA und Energieberatung. Wichtig für die Kalkulation: Die BKI-Werte im Beispiel sind Nettopreise ohne Mehrwertsteuer; laut Bausparkasse ist bei Einzelmaßnahmen und direkter Beauftragung mit Preiszuschlägen und Mehrkosten zu rechnen."
     },
     {
       "h2": "So entsteht eine belastbare Kostenschätzung",
-      "text": "Am Anfang steht eine gründliche Bestandsaufnahme: Unterlagen sichten, das Gebäude mit Fachleuten begehen, Schäden und Schwachstellen erfassen. Die LBS empfiehlt, daraus einen Sanierungsplan mit Maßnahmen, Bauzeitenplan und Budget abzuleiten und erst dann Angebote je Gewerk einzuholen. Planen Sie einen Puffer ein, denn bei einer Entkernung zeigen sich Mängel oft erst, wenn Wände und Böden offen sind. Für ein vergleichbares Angebot helfen Grundrisse, Fotos, das Baujahr, Angaben zu bereits erneuerten Bauteilen und eine Liste der gewünschten Maßnahmen. Wenn Sie uns Ihr Vorhaben schildern, wählen wir einen passenden Fachbetrieb aus, der sich bei Ihnen meldet und den Umfang vor dem Angebot prüft."
+      "text": "Am Anfang steht eine gründliche Bestandsaufnahme: Unterlagen sichten, das Gebäude mit Fachleuten begehen, Schäden und Schwachstellen erfassen. Die LBS empfiehlt, daraus einen Sanierungsplan mit Maßnahmen, Bauzeitenplan und Budget abzuleiten und erst dann Angebote je Gewerk einzuholen. Die LBS rät zu einem finanziellen Puffer von 10 bis 20 Prozent, denn bei einer Entkernung zeigen sich Mängel oft erst, wenn Wände und Böden offen sind. Für ein vergleichbares Angebot helfen Grundrisse, Fotos, das Baujahr, Angaben zu bereits erneuerten Bauteilen und eine Liste der gewünschten Maßnahmen. Wenn Sie uns Ihr Vorhaben schildern, wählen wir einen passenden Fachbetrieb aus, der sich bei Ihnen meldet und den Umfang vor dem Angebot prüft."
     }
   ],
   "faq": [
-    { "q": "Ist eine Kernsanierung günstiger als ein Neubau?", "a": "Das hängt vom Zustand des Hauses ab. Die Bausparkasse Schwäbisch Hall weist darauf hin, dass eine Sanierung angesichts hoher Grundstücks- und Immobilienpreise häufig weniger kostenintensiv ist als ein Neubau; bei sehr schlechter Substanz kann ein Abriss wirtschaftlicher sein." },
-    { "q": "Wie lange dauert eine Kernsanierung?", "a": "Die LBS nennt für ein gut geplantes Vorhaben einen Zeitrahmen von fünf bis elf Monaten, davon etwa ein bis drei Monate für Planung und Vorbereitung. Unerwartete Schäden oder Genehmigungen können die Dauer verlängern." },
-    { "q": "Was kostet die Kernsanierung eines Hauses mit 150 Quadratmetern?", "a": "Bei 400 bis 1.000 Euro je Quadratmeter ergibt sich rechnerisch eine Spanne von 60.000 bis 150.000 Euro. Wo das Haus darin liegt, hängt vor allem von Zustand, Baujahr und Ausstattung ab." },
-    { "q": "Kann man während einer Kernsanierung im Haus wohnen?", "a": "In der Regel nicht, weil Heizung, Wasser und Strom über längere Zeit fehlen und Rückbau sowie Staub das Wohnen kaum zulassen. Bei einer abschnittsweisen Sanierung kann das anders aussehen." },
-    { "q": "Wer koordiniert die Gewerke?", "a": "Bei vielen beteiligten Gewerken ist eine Bauleitung durch Architekten oder Fachplaner sinnvoll, die Termine und Schnittstellen abstimmt. Die Bausparkasse Schwäbisch Hall bezeichnet eine professionelle Bauleitung bei Kernsanierungen als ratsam." }
+    {
+      "q": "Ist eine Kernsanierung günstiger als ein Neubau?",
+      "a": "Das lässt sich nicht pauschal sagen. Laut Bausparkasse Schwäbisch Hall ist eine Kernsanierung sinnvoll, wenn Teilrenovierungen nicht mehr ausreichen und eine Generalsanierung wirtschaftlicher ist als ein Neubau; ob das zutrifft, kann im Einzelfall nur ein Bausachverständiger oder Gutachter beurteilen."
+    },
+    {
+      "q": "Wie lange dauert eine Kernsanierung?",
+      "a": "Die LBS nennt für ein gut geplantes Vorhaben einen Zeitrahmen von fünf bis elf Monaten, davon etwa ein bis drei Monate für Planung und Vorbereitung. Unerwartete Schäden oder Genehmigungen können die Dauer verlängern."
+    },
+    {
+      "q": "Was kostet die Kernsanierung eines Hauses mit 150 Quadratmetern?",
+      "a": "Bei 400 bis 1.000 Euro je Quadratmeter ergibt sich rechnerisch eine Spanne von 60.000 bis 150.000 Euro. Wo das Haus darin liegt, hängt vor allem von Zustand, Baujahr und Ausstattung ab."
+    },
+    {
+      "q": "Kann man während einer Kernsanierung im Haus wohnen?",
+      "a": "In der Regel nicht, weil Heizung, Wasser und Strom über längere Zeit fehlen und Rückbau sowie Staub das Wohnen kaum zulassen. Bei einer abschnittsweisen Sanierung kann das anders aussehen."
+    },
+    {
+      "q": "Wer koordiniert die Gewerke?",
+      "a": "Bei vielen beteiligten Gewerken ist eine Bauleitung durch Architekten oder Fachplaner sinnvoll, die Termine und Schnittstellen abstimmt. Die Bausparkasse Schwäbisch Hall bezeichnet eine professionelle Bauleitung bei Kernsanierungen als ratsam."
+    }
   ],
-  "verwandt": ["energetische-sanierung", "elektrik-erneuern-kosten"],
+  "verwandt": [
+    "energetische-sanierung",
+    "elektrik-erneuern-kosten"
+  ],
   "quellen": [
-    { "titel": "Kernsanierung: Maßnahmen, Kosten, Finanzierung", "herausgeber": "Bausparkasse Schwäbisch Hall (Richtwerte BKI, 4. Quartal 2025)", "url": "https://www.schwaebisch-hall.de/ratgeber/sanierungstipps/kernsanierung.html", "abruf": "2026-10-02" },
-    { "titel": "Kernsanierung: Kosten, Dauer und Ablauf", "herausgeber": "LBS (Stand 28.09.2026)", "url": "https://www.lbs.de/modernisieren/sanieren/kernsanierung", "abruf": "2026-10-02" },
-    { "titel": "Kostenüberblick: Modernisierung, Sanierung und Renovierung", "herausgeber": "Sparkassen-Finanzgruppe (sparkasse.de)", "url": "https://www.sparkasse.de/pk/ratgeber/wohnen/immobilie-modernisieren/modernisierungskosten.html", "abruf": "2026-10-02" },
-    { "titel": "Altbausanierung: Kosten, Förderung, Kredit", "herausgeber": "Bausparkasse Schwäbisch Hall", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-sanieren-renovieren/altbausanierung.html", "abruf": "2026-10-02" },
-    { "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
+    {
+      "titel": "Kernsanierung: Maßnahmen, Kosten, Finanzierung",
+      "herausgeber": "Bausparkasse Schwäbisch Hall (Richtwerte BKI, 4. Quartal 2025)",
+      "url": "https://www.schwaebisch-hall.de/ratgeber/sanierungstipps/kernsanierung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Kernsanierung: Kosten, Dauer und Ablauf",
+      "herausgeber": "LBS (Stand 28.09.2026)",
+      "url": "https://www.lbs.de/modernisieren/sanieren/kernsanierung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Kostenüberblick: Modernisierung, Sanierung und Renovierung",
+      "herausgeber": "Sparkassen-Finanzgruppe (sparkasse.de)",
+      "url": "https://www.sparkasse.de/pk/ratgeber/wohnen/immobilie-modernisieren/modernisierungskosten.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Altbausanierung: Kosten, Förderung, Kredit",
+      "herausgeber": "Bausparkasse Schwäbisch Hall",
+      "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-sanieren-renovieren/altbausanierung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025",
+      "herausgeber": "Statistisches Bundesamt",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html",
+      "abruf": "2026-10-02"
+    }
   ],
   "offen": [
     "Spanne 400–1.000 €/m² bei LBS (Kernsanierung) und Sparkasse (Komplett- bzw. Kernsanierung); Sparkasse ohne sichtbares Stand-Datum. Rechnungen 130 m² und 150 m² = einfache Multiplikation.",
-    "Schwäbisch-Hall-Faustwerte in Prozent des Kaufpreises gelten dort für 'Altbausanierung', nicht ausdrücklich Kernsanierung; im Text so benannt. Quelle schreibt '200er-Jahre' (Tippfehler), im Text als 2000er-Jahre wiedergegeben.",
-    "Zeile 'Erneuerung der Elektrik' aus LBS, nicht aus dem BKI-Beispielhaus."
+    "Schwäbisch-Hall-Faustwerte in Prozent des Kaufpreises gelten dort für 'Altbausanierung', nicht ausdrücklich Kernsanierung; im Text so benannt.",
+    "Zeile 'Erneuerung der Elektrik' aus LBS, nicht aus dem BKI-Beispielhaus.",
+    "QA 02.10.: Zahlen geprüft und bestätigt: LBS/Sparkasse 400–1.000 €/m², LBS Elektrik 110–170 €/m², 5–11 Monate, 1–3 Monate Planung; SH-Beispielhaus (BKI 4. Q. 2025, netto) 8.000–12.500, 60 €/m², 32.000, 12.275, 19.000, 7.470, 40.390 €; SH Altbau 50–60/40/30 % bzw. 20–60 %; Destatis 5,6 %.",
+    "QA 02.10.: Quelle schreibt „1990er- und 200er-Jahre: ca. 20 Prozent“ – Agent hatte „2000er“ daraus gemacht; Angabe gestrichen (keine eigene Deutung), stattdessen Gesamtspanne 20–60 % der Quelle.",
+    "QA 02.10.: FAQ Neubau-Vergleich: „angesichts hoher Grundstückspreise häufig weniger kostenintensiv“ in Quelle nicht gefunden → durch Wiedergabe SH ersetzt.",
+    "QA 02.10.: „Abbruch, Entsorgung, Baustelleneinrichtung nur teilweise enthalten“ nicht in Quelle → ersetzt durch Quellentext (Preiszuschläge bei Einzelmaßnahmen). „Puffer“ mit LBS-Wert 10–20 % belegt. „Baupreise steigen weiter“ (Momentangabe) gestrichen. Zeilen Fassade/Parkett präzisiert."
   ]
 }

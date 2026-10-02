@@ -10,19 +10,17 @@
   "einstieg": "Ein neuer Fassadenanstrich schützt Putz und Mauerwerk vor Witterung und frischt das Haus optisch auf. Was es kostet, die Fassade streichen zu lassen, hängt weniger von der Farbe als von Gerüst, Vorarbeiten und Zustand des Untergrunds ab. Die Angaben in Ratgebern reichen deshalb von rund 30 bis über 100 Euro je Quadratmeter. Hier finden Sie die Spannen aus zitierfähigen Quellen, ein nachvollziehbares Rechenbeispiel und die Punkte, auf die es beim Angebot ankommt.",
   "kosten": {
     "h2": "Fassade streichen: Kosten pro Quadratmeter",
-    "intro": "Die Spannen unterscheiden sich vor allem darin, was eingerechnet ist. Der niedrigste Wert gilt für einen einfachen Anstrich auf intaktem Untergrund, die höheren Werte schließen Grundierung, Reinigung, Abdecken, Gerüst und zwei Anstriche ein. Die Einzelposten unten stammen aus einem Rechenbeispiel der Commerzbank für rund 150 Quadratmeter Fassade; die Fläche wird dabei einschließlich Fenster und Türen gemessen.",
+    "intro": "Die Spannen unterscheiden sich vor allem darin, was eingerechnet ist. Der niedrigste Wert gilt für einen einfachen Anstrich auf intaktem Untergrund, die höheren Werte schließen Grundierung, Reinigung, Abdecken, Gerüst und zwei Anstriche ein. Die meisten Einzelposten unten stammen aus einem Rechenbeispiel der Commerzbank für rund 150 Quadratmeter Fassade; die Fläche wird dabei einschließlich Fenster und Türen gemessen.",
     "zeilen": [
       { "posten": "Fassade streichen durch Fachbetrieb, inkl. Gerüst und Vorarbeiten", "spanne": "ab ca. 30 € je m²", "q": 2 },
-      { "posten": "Hausanstrich mit Material, Gerüst und Arbeit", "spanne": "71 – 82,50 € je m²", "q": 3 },
       { "posten": "Fassadenanstrich, Gesamtkosten im Rechenbeispiel", "spanne": "91,50 – 112,50 € je m²", "q": 1 },
       { "posten": "Fassade mit ca. 150 m² (Rechenbeispiel)", "spanne": "13.725 – 16.875 €", "q": 1 },
       { "posten": "Arbeit: Fassade zweimal streichen", "spanne": "ca. 50 € je m²", "q": 1 },
       { "posten": "Fassadenfarbe für zwei Anstriche", "spanne": "10 – 20 € je m²", "q": 1 },
       { "posten": "Gerüstmiete", "spanne": "6 – 12 € je m²", "q": 1 },
       { "posten": "Gerüst auf- und abbauen", "spanne": "5 – 9 € je m²", "q": 1 },
-      { "posten": "Putz mit Außenanstrich (BKI-Richtwert)", "spanne": "ca. 40 € je m²", "q": 4 },
-      { "posten": "Fassadenreinigung mit Hochdruck und Algenmittel", "spanne": "ab 15 € je m²", "q": 5 },
-      { "posten": "Genehmigung für Gerüst auf öffentlichem Grund", "spanne": "100 – 200 €", "q": 1 }
+      { "posten": "Putz mit Außenanstrich (Beispielrechnung Schwäbisch Hall)", "spanne": "ca. 40 € je m²", "q": 3 },
+      { "posten": "Fassadenreinigung mit Hochdruck und Algenmittel", "spanne": "ab 15 € je m²", "q": 4 }
     ],
     "hinweis": "Die Preise für Instandhaltungsarbeiten an Wohngebäuden lagen laut Statistischem Bundesamt im Mai 2026 um 5,6 % über dem Vorjahresmonat. Ältere Richtwerte sind deshalb eher als Untergrenze zu lesen."
   },
@@ -33,11 +31,11 @@
     },
     {
       "h2": "Haus streichen Kosten: ein Rechenbeispiel",
-      "text": "Die Commerzbank hat die Kosten für eine Fassade mit rund 150 Quadratmetern Posten für Posten aufgeschlüsselt. Beim Material fallen Fassadenfarbe für zwei Anstriche, etwas Putz für Ausbesserungen, Grundierung, Gerüstmiete und Abdeckmaterial an. Bei der Arbeit kommen Auf- und Abbau des Gerüsts, Vorbereitung der Fläche, Auftragen der Grundierung, Anmischen der Farbe und zwei Anstriche hinzu. Allein das zweimalige Streichen schlägt bei 50 Euro je Quadratmeter mit 7.500 Euro zu Buche, die Gerüstmiete mit 900 bis 1.800 Euro. In der Summe ergeben sich 13.725 bis 16.875 Euro, also 91,50 bis 112,50 Euro je Quadratmeter. Der Baufinanzierer Dr. Klein kommt in einer eigenen Aufstellung für 100 Quadratmeter auf 71 bis 82,50 Euro je Quadratmeter, die LBS nennt für den Fachbetrieb einen Einstieg ab etwa 30 Euro je Quadratmeter einschließlich Gerüst und Vorarbeiten. Wie weit ein konkretes Angebot vom unteren Wert entfernt liegt, entscheidet vor allem der Zustand der Fassade."
+      "text": "Die Commerzbank hat die Kosten für eine Fassade mit rund 150 Quadratmetern Posten für Posten aufgeschlüsselt. Beim Material fallen Fassadenfarbe für zwei Anstriche, etwas Putz für Ausbesserungen, Grundierung, Gerüstmiete und Abdeckmaterial an. Bei der Arbeit kommen Auf- und Abbau des Gerüsts, Vorbereitung der Fläche, Auftragen der Grundierung, Anmischen der Farbe und zwei Anstriche hinzu. Allein das zweimalige Streichen schlägt bei 50 Euro je Quadratmeter mit 7.500 Euro zu Buche, die Gerüstmiete mit 900 bis 1.800 Euro. In der Summe ergeben sich 13.725 bis 16.875 Euro, also 91,50 bis 112,50 Euro je Quadratmeter. Die LBS nennt für den Fachbetrieb dagegen einen Einstieg ab etwa 30 Euro je Quadratmeter einschließlich Gerüst und Vorarbeiten; in einer Beispielrechnung der Bausparkasse Schwäbisch Hall ist Putz mit Außenanstrich mit rund 40 Euro je Quadratmeter angesetzt. Wie weit ein konkretes Angebot vom unteren Wert entfernt liegt, entscheidet vor allem der Zustand der Fassade."
     },
     {
       "h2": "Untergrund, Putz und Reinigung",
-      "text": "Vor dem Anstrich muss die Fassade sauber und tragfähig sein. Schwäbisch Hall nennt für eine Reinigung mit Hochdruck ohne Zusätze ab 5 Euro, mit Algenmittel ab 15 Euro je Quadratmeter; eine vorbeugende Behandlung nach der Reinigung kostet ab 4 Euro je Quadratmeter. Einzelne Risse lassen sich ausbessern, muss dagegen die ganze Wand neu verputzt werden, rechnet Dr. Klein mit rund 25 bis 35 Euro je Quadratmeter zusätzlich. Wird mehr Putz erneuert, kann das Energierecht ins Spiel kommen: Das Gebäudemodernisierungsgesetz sieht in § 36 vor, dass erneuerte Außenbauteile Höchstwerte für den Wärmedurchgang einhalten, sofern mehr als 10 Prozent der Fläche betroffen sind. Ob das beim eigenen Vorhaben greift, klärt in der Regel eine Energieberatung. Wer ohnehin ein Gerüst stellt, kann bei dieser Gelegenheit auch eine Dämmung prüfen lassen; was das kostet, zeigt der Ratgeber [[/ratgeber/fassadendaemmung-kosten/]]."
+      "text": "Vor dem Anstrich muss die Fassade sauber und tragfähig sein. Schwäbisch Hall nennt für eine Reinigung mit Hochdruck ohne Zusätze ab 5 Euro, mit Algenmittel ab 15 Euro je Quadratmeter; eine vorbeugende Behandlung nach der Reinigung kostet ab 4 Euro je Quadratmeter. Die Commerzbank rät, Risse nach Möglichkeit nur auszubessern, statt den kompletten Putz erneuern zu lassen, weil sonst weitere Kosten für eine Wärmedämmung hinzukommen können. Wird mehr Putz erneuert, können gesetzliche Anforderungen an die Dämmung greifen (Gebäudemodernisierungsgesetz, früher Gebäudeenergiegesetz); Auskunft gibt die Energieberatung. Wer ohnehin ein Gerüst stellt, kann bei dieser Gelegenheit auch eine Dämmung prüfen lassen; was das kostet, zeigt der Ratgeber [[/ratgeber/fassadendaemmung-kosten/]]."
     },
     {
       "h2": "Farbe, Gestaltung und ein vergleichbares Angebot",
@@ -47,25 +45,27 @@
   "faq": [
     { "q": "Wie oft sollte man die Fassade streichen?", "a": "Gesetzlich ist das nicht festgelegt. Laut Commerzbank entscheiden sich viele Eigentümer alle zehn bis 15 Jahre für einen neuen Anstrich, spätestens wenn Farbe abblättert oder Risse sichtbar werden." },
     { "q": "Wie lange dauert ein Fassadenanstrich?", "a": "Für den kompletten Anstrich einschließlich Auf- und Abbau des Gerüsts nennt die Commerzbank etwa fünf bis sieben Tage. Regen, Frost oder umfangreiche Putzarbeiten können den Ablauf verlängern." },
-    { "q": "Bei welchem Wetter kann gestrichen werden?", "a": "Gestrichen wird nur bei Außentemperaturen über 5 °C und nicht bei Regen oder Schneefall." },
-    { "q": "Was kostet allein das Gerüst?", "a": "Im Rechenbeispiel der Commerzbank kostet die Gerüstmiete 6 bis 12 Euro und der Auf- und Abbau 5 bis 9 Euro je Quadratmeter. Dr. Klein nennt 11 bis 21 Euro je Quadratmeter und Woche einschließlich Auf- und Abbau." },
+    { "q": "Bei welchem Wetter kann gestrichen werden?", "a": "Laut Commerzbank nur bei Außentemperaturen über 5 °C und nicht bei Regen oder Schneefall. Feuchte Witterung kann den Ablauf deshalb verzögern." },
+    { "q": "Was kostet allein das Gerüst?", "a": "Im Rechenbeispiel der Commerzbank kostet die Gerüstmiete 6 bis 12 Euro und der Auf- und Abbau 5 bis 9 Euro je Quadratmeter. Wie lange das Gerüst steht, beeinflusst die Miete." },
     { "q": "Lassen sich Kosten durch Eigenleistung senken?", "a": "Vorarbeiten wie Reinigen oder Abkleben verringern die Arbeitszeit des Betriebs. Arbeiten auf dem Gerüst sind mit Unfallgefahren verbunden und sollten gut vorbereitet sein." }
   ],
   "verwandt": ["fassadendaemmung-kosten"],
   "quellen": [
-    { "titel": "Fassade streichen: Die Kosten im Überblick", "herausgeber": "Commerzbank (10.01.2025)", "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/fassade-streichen-kosten/", "abruf": "2026-10-02" },
-    { "titel": "Haus renovieren: Mit diesen Kosten musst du rechnen", "herausgeber": "LBS (Werte nach sparkasse.de, Zugriff 29.09.2026)", "url": "https://www.lbs.de/modernisieren/renovieren/haus", "abruf": "2026-10-02" },
-    { "titel": "Haus streichen: Kosten, Vorgehen, Tipps", "herausgeber": "Dr. Klein Privatkunden AG (17.10.2024)", "url": "https://www.drklein.de/haus-streichen.html", "abruf": "2026-10-02" },
-    { "titel": "Sanierungskosten-Rechner für verschiedene Gewerke", "herausgeber": "Bausparkasse Schwäbisch Hall (Richtwerte BKI, 4. Quartal 2025)", "url": "https://www.schwaebisch-hall.de/rechner/renovierungskosten-berechnen.html", "abruf": "2026-10-02" },
+    { "titel": "Fassade streichen: Die Kosten im Überblick", "herausgeber": "Commerzbank (Bankratgeber, 10.01.2025)", "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/fassade-streichen-kosten/", "abruf": "2026-10-02" },
+    { "titel": "Haus renovieren: Mit diesen Kosten musst du rechnen", "herausgeber": "LBS (Bausparkasse; Werte nach sparkasse.de, Zugriff 29.09.2026)", "url": "https://www.lbs.de/modernisieren/renovieren/haus", "abruf": "2026-10-02" },
+    { "titel": "Sanierungskosten-Rechner für verschiedene Gewerke", "herausgeber": "Bausparkasse Schwäbisch Hall (Beispielrechnung Kernsanierung; Tabellen nach BKI, 4. Quartal 2025)", "url": "https://www.schwaebisch-hall.de/rechner/renovierungskosten-berechnen.html", "abruf": "2026-10-02" },
     { "titel": "Fassadenreinigung: Das hilft gegen Schmutz und Algen", "herausgeber": "Bausparkasse Schwäbisch Hall", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-sanieren-renovieren/fassadenreinigung.html", "abruf": "2026-10-02" },
     { "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" },
-    { "titel": "§ 36 GModG – Anforderungen an ein bestehendes Gebäude bei Änderung", "herausgeber": "Bundesamt für Justiz (gesetze-im-internet.de)", "url": "https://www.gesetze-im-internet.de/geg/__36.html", "abruf": "2026-10-02" }
+    { "titel": "Gebäudemodernisierungsgesetz (GModG, früher GEG) – Anforderungen an ein bestehendes Gebäude bei Änderung", "herausgeber": "Bundesamt für Justiz (gesetze-im-internet.de)", "url": "https://www.gesetze-im-internet.de/geg/__36.html", "abruf": "2026-10-02" }
   ],
   "offen": [
     "Kein neutraler Primärwert (BKI, Verbraucherzentrale) speziell für einen reinen Fassadenanstrich gefunden; Spannen stammen aus Bank-/Bausparkassen-Ratgebern und streuen stark (ab 30 bis 112,50 €/m²).",
-    "Dr. Klein ist Baufinanzierungsvermittler (Rang 2 analog Bank); Tabelle dort enthält Rechenfehler bei Einzelposten, deshalb nur Gesamtwert, Gerüst/Woche und Putz zitiert.",
     "Fassadenreinigung (Schwäbisch Hall) ohne Datumsangabe auf der Seite.",
     "Temperaturhinweis ‚über 5 °C‘ aus Commerzbank (Quelle 1).",
-    "10-%-Regel: Commerzbank nennt noch EnEV 2014; zitiert wird der Gesetzestext § 36 GModG. Bitte rechtlich bestätigen, ob reiner Neuanstrich/Putzerneuerung als ‚Erneuerung eines Außenbauteils‘ zählt."
+    "QA 02.10.: Dr. Klein (Baufinanzierungsvermittler) als Quelle entfernt – Tabellenzeile 71–82,50 €/m², Putz 25–35 €/m² und Gerüst 11–21 €/m²/Woche gestrichen; Quellennummern angepasst (SH-Rechner jetzt 3, Fassadenreinigung 4).",
+    "QA 02.10.: Zeile „Genehmigung Gerüst auf öffentlichem Grund 100–200 €“ gestrichen (pauschale Genehmigungsgebühr aus Bankratgeber ohne BW-Bezug).",
+    "QA 02.10.: „Putz mit Außenanstrich 40 €/m²“ steht bei SH in der Beispielrechnung Kernsanierung ohne BKI-Fußnote → als Beispielrechnung SH gekennzeichnet.",
+    "QA 02.10.: § 36 / 10-%-Regel entfernt (keine Paragrafen/Pflichtdetails), einheitliche Formulierung Gebäudemodernisierungsgesetz (früher Gebäudeenergiegesetz) + Energieberatung. Commerzbank nennt noch EnEV – nicht übernommen.",
+    "QA 02.10.: Spannen als Bank-/Bausparkassenangaben gekennzeichnet (Herausgeber). Bestätigt: Commerzbank 91,50–112,50 €/m², 13.725–16.875 €, 50 / 10–20 / 6–12 / 5–9 €/m², 5–7 Tage, 10–15 Jahre, >5 °C; LBS ab 30 €/m² inkl. Gerüst; SH Reinigung ab 5/15/4 €/m²; Destatis Instandhaltung +5,6 %."
   ]
 }

@@ -12,20 +12,68 @@
     "h2": "Bodenplatte Kosten im Überblick",
     "intro": "Die Commerzbank nennt für eine Bodenplatte durchschnittlich 100 bis 150 Euro je Quadratmeter; für ein Einfamilienhaus mit etwa 120 Quadratmetern Wohnfläche ergeben sich daraus rund 12.000 bis 18.000 Euro. In einer zweiten Übersicht zum Rohbau setzt dieselbe Bank für die Bodenplatte meist 15.000 bis 25.000 Euro an. Erdarbeiten, Frostschürze, Abdichtung und Dämmung kommen je nach Umfang hinzu, deshalb stehen sie unten als eigene Zeilen.",
     "zeilen": [
-      { "posten": "Bodenplatte je m² (Durchschnitt)", "spanne": "100 – 150 €", "q": 1 },
-      { "posten": "Bodenplatte Einfamilienhaus, ca. 120 m² Wohnfläche", "spanne": "ca. 12.000 – 18.000 €", "q": 1 },
-      { "posten": "Bodenplatte Einfamilienhaus (Rohbau-Übersicht)", "spanne": "15.000 – 25.000 €", "q": 2 },
-      { "posten": "Fundamentplatte ca. 20 cm, nur Platte und Schalung, je m²", "spanne": "ab ca. 70 €", "q": 1 },
-      { "posten": "Fundament je m²", "spanne": "80 – 120 €", "q": 3 },
-      { "posten": "Dämmung der Bodenplatte im Neubau je m²", "spanne": "40 – 60 €", "q": 1 },
-      { "posten": "Erdaushub leichter Boden (Bodenklasse 1–2) je m³", "spanne": "16 – 20 €", "q": 1 },
-      { "posten": "Erdaushub schwerer, felsiger Boden (Bodenklasse 6–7) je m³", "spanne": "80 – 90 €", "q": 1 },
-      { "posten": "Bodenaushub und Entsorgung, Einfamilienhaus", "spanne": "ca. 5.000 – 20.000 €", "q": 4 },
-      { "posten": "Streifenfundament inkl. Schalung je m³", "spanne": "ca. 180 €", "q": 1 },
-      { "posten": "Bodengutachten", "spanne": "ca. 1.200 – 2.000 €", "q": 4 },
-      { "posten": "Keller statt Bodenplatte (zusätzlich)", "spanne": "30.000 – 60.000 €", "q": 2 }
+      {
+        "posten": "Bodenplatte je m² (Durchschnitt)",
+        "spanne": "100 – 150 €",
+        "q": 1
+      },
+      {
+        "posten": "Bodenplatte Einfamilienhaus, ca. 120 m² Wohnfläche",
+        "spanne": "ca. 12.000 – 18.000 €",
+        "q": 1
+      },
+      {
+        "posten": "Bodenplatte Einfamilienhaus (Rohbau-Übersicht)",
+        "spanne": "15.000 – 25.000 €",
+        "q": 2
+      },
+      {
+        "posten": "Fundamentplatte ca. 20 cm, nur Platte und Schalung, je m²",
+        "spanne": "ab ca. 70 €",
+        "q": 1
+      },
+      {
+        "posten": "Fundament je m² (Angabe Schwäbisch Hall)",
+        "spanne": "80 – 120 €",
+        "q": 3
+      },
+      {
+        "posten": "Dämmung der Bodenplatte im Neubau je m²",
+        "spanne": "40 – 60 €",
+        "q": 1
+      },
+      {
+        "posten": "Erdaushub leichter Boden (Bodenklasse 1–2) je m³",
+        "spanne": "16 – 20 €",
+        "q": 1
+      },
+      {
+        "posten": "Erdaushub schwerer, felsiger Boden (Bodenklasse 6–7) je m³",
+        "spanne": "80 – 90 €",
+        "q": 1
+      },
+      {
+        "posten": "Bodenaushub und Entsorgung, Einfamilienhaus",
+        "spanne": "ca. 5.000 – 20.000 €",
+        "q": 4
+      },
+      {
+        "posten": "Streifenfundament inkl. Schalung je m³",
+        "spanne": "ca. 180 €",
+        "q": 1
+      },
+      {
+        "posten": "Bodengutachten (Beispiel bei 400.000 € Baukosten)",
+        "spanne": "ca. 1.200 – 2.000 €",
+        "q": 4
+      },
+      {
+        "posten": "Keller statt Bodenplatte (zusätzlich)",
+        "spanne": "30.000 – 60.000 €",
+        "q": 2
+      }
     ],
-    "hinweis": "Beton- und Erdarbeiten werden teurer: Laut Statistischem Bundesamt lagen die Preise für Betonarbeiten an Wohngebäuden im Mai 2026 um 3,6 % und für Erdarbeiten um 5,4 % über dem Vorjahresmonat. Undatierte Richtwerte sind deshalb eher als Untergrenze zu lesen."
+    "hinweis": "Laut Statistischem Bundesamt lagen die Preise für Betonarbeiten an Wohngebäuden im Mai 2026 um 3,6 % und für Erdarbeiten um 5,4 % über dem Vorjahresmonat. Die Ratgeber der Commerzbank (Stand der Seiten 11/2025) nennen kein Erhebungsjahr; die Preisentwicklung ist darin nicht unbedingt enthalten."
   },
   "abschnitte": [
     {
@@ -38,7 +86,7 @@
     },
     {
       "h2": "Aufbau, Frostschutz und Dämmung",
-      "text": "Eine Fundamentplatte wird nicht direkt auf das Erdreich gegossen. Die Commerzbank beschreibt den Aufbau von unten nach oben: Sauberkeitsschicht von mindestens 5 Zentimetern aus Magerbeton, Schotter oder Kies, eine Folie gegen Feuchtigkeit, Dämmung unterhalb der Platte, die bewehrte Stahlbetonplatte und darüber Dampfsperre, Trittschalldämmung, Estrich und Bodenbelag. Das Fundament muss frostfrei gegründet sein; die Quelle nennt bei mildem Klima eine Mindesttiefe von 80 Zentimetern. Eine Frostschürze führt die Commerzbank als möglichen Zusatzposten auf, der den Preis der Platte erhöht. Wird kein Keller gebaut, gehört zusätzlich eine Dämmschicht zum Aufbau. Für diese Dämmung im Neubau nennt die Bank 40 bis 60 Euro je Quadratmeter; nachträglich im Zuge einer Sanierung sind es eher 80 bis 100 Euro. Eine Thermobodenplatte mit integrierter Flächenheizung ist teurer als eine einfache Platte. Für kleinere Erweiterungen am Bestand gelten dieselben Grundsätze, mehr dazu im Ratgeber [[/ratgeber/anbau-kosten/]]."
+      "text": "Eine Fundamentplatte wird nicht direkt auf das Erdreich gegossen. Die Commerzbank beschreibt den Aufbau von unten nach oben: Sauberkeitsschicht von mindestens 5 Zentimetern aus Magerbeton, Schotter oder Kies, eine Folie gegen Feuchtigkeit, Dämmung unterhalb der Platte, die bewehrte Stahlbetonplatte und darüber Dampfsperre, Trittschalldämmung, Estrich und Bodenbelag. Das Fundament muss laut Commerzbank frostfrei gegründet sein; als Grundregel nennt die Bank in der Regel eine Mindesttiefe von 80 Zentimetern bei mildem Klima und 150 Zentimetern bei sehr kalten Wintern. Die erforderliche Tiefe für ein bestimmtes Grundstück legt der Statiker fest. Eine Frostschürze führt die Commerzbank als möglichen Zusatzposten auf, der den Preis der Platte erhöht. Wird kein Keller gebaut, gehört zusätzlich eine Dämmschicht zum Aufbau. Für diese Dämmung im Neubau nennt die Bank 40 bis 60 Euro je Quadratmeter; nachträglich im Zuge einer Sanierung sind es eher 80 bis 100 Euro. Eine Thermobodenplatte mit integrierter Flächenheizung ist teurer als eine einfache Platte. Für kleinere Erweiterungen am Bestand gelten dieselben Grundsätze, mehr dazu im Ratgeber [[/ratgeber/anbau-kosten/]]."
     },
     {
       "h2": "Bodenplatte, Streifenfundament oder Keller?",
@@ -46,23 +94,68 @@
     }
   ],
   "faq": [
-    { "q": "Was kostet eine Bodenplatte für 100 Quadratmeter?", "a": "Bei 100 bis 150 Euro je Quadratmeter ergeben sich rund 10.000 bis 15.000 Euro. Für die reine Platte mit Schalung nennt die Commerzbank bei 100 Quadratmetern 7.000 bis 10.000 Euro; Aushub, Sauberkeitsschicht und Dämmung kommen dann hinzu." },
-    { "q": "Wie dick ist eine Bodenplatte für ein Wohnhaus?", "a": "Die Commerzbank nennt als Beispiel eine etwa 20 Zentimeter dicke Fundamentplatte. Die tatsächliche Stärke und die Bewehrung legt der Statiker nach Baugrund und Lasten fest." },
-    { "q": "Welcher Beton wird für die Bodenplatte eines Wohnhauses verwendet?", "a": "Laut Commerzbank wird für das Fundament von Wohnhäusern Beton der Druckfestigkeitsklasse C25/30 verwendet, für Garagen und größere Gartenhäuser reicht meist C20/25." },
-    { "q": "Warum ist ein Bodengutachten sinnvoll?", "a": "Viele Angebote gehen von idealen Bodenverhältnissen aus. Ein Gutachten zeigt vorab, ob Tragfähigkeit, Setzungsverhalten oder Grundwasser zusätzlichen Aufwand verursachen." },
-    { "q": "Ist eine Bodenplatte günstiger als ein Keller?", "a": "Ja, deutlich: Die Commerzbank nennt für die Bodenplatte meist 15.000 bis 25.000 Euro, für einen Keller zusätzlich 30.000 bis 60.000 Euro. Dafür fehlt ohne Keller Abstell- und Technikfläche, die anderweitig eingeplant werden muss." }
+    {
+      "q": "Was kostet eine Bodenplatte für 100 Quadratmeter?",
+      "a": "Bei 100 bis 150 Euro je Quadratmeter ergeben sich rund 10.000 bis 15.000 Euro. Für die reine Platte mit Schalung nennt die Commerzbank bei 100 Quadratmetern 7.000 bis 10.000 Euro; Aushub, Sauberkeitsschicht und Dämmung kommen dann hinzu."
+    },
+    {
+      "q": "Wie dick ist eine Bodenplatte für ein Wohnhaus?",
+      "a": "Die Commerzbank nennt als Beispiel eine etwa 20 Zentimeter dicke Fundamentplatte. Die tatsächliche Stärke und die Bewehrung legt der Statiker nach Baugrund und Lasten fest."
+    },
+    {
+      "q": "Welcher Beton wird für die Bodenplatte eines Wohnhauses verwendet?",
+      "a": "Laut Commerzbank wird für das Fundament von Wohnhäusern Beton der Druckfestigkeitsklasse C25/30 verwendet, für Garagen und größere Gartenhäuser reicht meist C20/25."
+    },
+    {
+      "q": "Warum ist ein Bodengutachten sinnvoll?",
+      "a": "Viele Angebote gehen von idealen Bodenverhältnissen aus. Ein Gutachten zeigt vorab, ob Tragfähigkeit, Setzungsverhalten oder Grundwasser zusätzlichen Aufwand verursachen."
+    },
+    {
+      "q": "Ist eine Bodenplatte günstiger als ein Keller?",
+      "a": "Ja, deutlich: Die Commerzbank nennt für die Bodenplatte meist 15.000 bis 25.000 Euro, für einen Keller zusätzlich 30.000 bis 60.000 Euro. Dafür fehlt ohne Keller Abstell- und Technikfläche, die anderweitig eingeplant werden muss."
+    }
   ],
-  "verwandt": ["haus-bauen-kosten", "anbau-kosten"],
+  "verwandt": [
+    "haus-bauen-kosten",
+    "anbau-kosten"
+  ],
   "quellen": [
-    { "titel": "Was kostet eine Bodenplatte?", "herausgeber": "Commerzbank", "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/wie-teuer-ist-eine-bodenplatte/", "abruf": "2026-10-02" },
-    { "titel": "Kosten eines Rohbaus in der Übersicht", "herausgeber": "Commerzbank", "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/rohbaukosten/", "abruf": "2026-10-02" },
-    { "titel": "Baukosten: Wie viel kostet ein Hausbau?", "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 12.02.2025)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen.html", "abruf": "2026-10-02" },
-    { "titel": "Baunebenkosten", "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 09.07.2025)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen/baunebenkosten.html", "abruf": "2026-10-02" },
-    { "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
+    {
+      "titel": "Was kostet eine Bodenplatte?",
+      "herausgeber": "Commerzbank",
+      "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/wie-teuer-ist-eine-bodenplatte/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Kosten eines Rohbaus in der Übersicht",
+      "herausgeber": "Commerzbank",
+      "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/rohbaukosten/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Baukosten: Wie viel kostet ein Hausbau?",
+      "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 12.02.2025)",
+      "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Baunebenkosten",
+      "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 09.07.2025)",
+      "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen/baunebenkosten.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025",
+      "herausgeber": "Statistisches Bundesamt",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html",
+      "abruf": "2026-10-02"
+    }
   ],
   "offen": [
     "Commerzbank-Seiten ohne Datum; Bodenklassen-Staffel stammt aus der Quelle, die Einteilung ist in der VOB/C inzwischen durch Homogenbereiche ersetzt (deshalb im Text „früher üblich“).",
     "FAQ 100 m²: 10.000–15.000 € ist einfache Multiplikation von 100–150 €/m² aus Quelle 1.",
-    "Mindesttiefe 80 cm aus Quelle 1; regionale Frosttiefe am Bodensee nicht geprüft."
+    "QA 02.10.: Zahlen geprüft und bestätigt: Commerzbank Bodenplatte 100–150 €/m², 12.000–18.000 €, ab 70 €/m², 7.000–10.000 €, 40–60 und 80–100 €/m² Dämmung, Bodenklassen 16–20/30–40/80–90 €/m³, Streifenfundament 180 €/m³ bzw. 18.000 €, 5 cm, 20 cm, C25/30, C20/25, 80/150 cm; Commerzbank Rohbau 15.000–25.000, 30.000–60.000 €; SH Fundament 80–120 €/m², Aushub 5.000–20.000 €, Bodengutachten 1.200–2.000 € (Tabelle bei 400.000 €) bzw. ca. 1.000/bis 2.500 € (Text); Destatis 3,6/5,4 %.",
+    "QA 02.10.: Frosttiefe 80 cm nur Commerzbank → als „in der Regel“-Grundregel der Bank wiedergegeben, ergänzt um 150 cm aus derselben Quelle, keine regionale Aussage; Festlegung durch Statiker.",
+    "QA 02.10.: Hinweis „werden teurer“/„als Untergrenze zu lesen“ (Momentangabe/eigene Deutung) neutral ersetzt; Zeilen Fundament (SH) und Bodengutachten (Beispiel 400.000 €) präzisiert. Commerzbank-Seite nennt EnEV – auf unserer Seite nicht übernommen."
   ]
 }

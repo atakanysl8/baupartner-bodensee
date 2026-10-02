@@ -68,12 +68,12 @@
         "q": 4
       }
     ],
-    "hinweis": "Die Preise steigen weiter: Für Heizanlagen und zentrale Wassererwärmungsanlagen, darunter Wärmepumpen, lagen die Baupreise laut Statistischem Bundesamt im Mai 2026 um 5,0 % über dem Vorjahresmonat. Ältere Durchschnittswerte sind deshalb eher als Untergrenze zu lesen."
+    "hinweis": "Die Preise steigen weiter: Für Heizanlagen und zentrale Wassererwärmungsanlagen, darunter Wärmepumpen, lagen die Baupreise laut Statistischem Bundesamt im Mai 2026 um 5,0 % über dem Vorjahresmonat. Werte aus älteren Erhebungen bilden das heutige Preisniveau deshalb nicht vollständig ab."
   },
   "abschnitte": [
     {
       "h2": "Luftwärmepumpe, Erdwärme oder Grundwasser",
-      "text": "Die Wahl der Wärmequelle prägt den Preis stärker als der Hersteller. Luft-Wasser-Wärmepumpen holen die Energie aus der Außenluft und werden in Deutschland am häufigsten eingebaut. Sie brauchen keine Bohrung, dafür ein Außengerät mit Fundament und einen Standort, an dem der Schall die Nachbarn nicht stört. Erd- und Grundwasser-Wärmepumpen arbeiten bei Frost effizienter, verlangen aber eine Erschließung der Wärmequelle. Für Bohrungen, Kollektoren oder eine Brunnenanlage nennt Schwäbisch Hall rund 5.000 bis 15.000 Euro oder mehr, je nach Bodenverhältnissen; dazu kommen Planung, Gutachten und Genehmigungen mit etwa 1.000 bis 5.000 Euro. Wie aufwendig die Erschließung wird, hängt laut Schwäbisch Hall von Bodenart, Tiefe, Genehmigungen und der Zugänglichkeit des Geländes ab. Die Größe der Anlage richtet sich nach der Heizlast des Hauses: Je mehr Leistung nötig ist, desto teurer wird das Gerät. Eine bessere Dämmung kann deshalb die Investition in die Wärmepumpe verringern, weil eine kleinere Anlage genügt."
+      "text": "Die Wahl der Wärmequelle prägt den Preis stärker als der Hersteller. Luft-Wasser-Wärmepumpen holen die Energie aus der Außenluft und werden in Deutschland am häufigsten eingebaut. Sie brauchen keine Bohrung, dafür ein Außengerät mit Fundament und einen Standort, an dem der Schall die Nachbarn nicht stört. Erd- und Grundwasser-Wärmepumpen arbeiten bei Frost effizienter, verlangen aber eine Erschließung der Wärmequelle. Für Bohrungen, Kollektoren oder eine Brunnenanlage nennt Schwäbisch Hall rund 5.000 bis 15.000 Euro oder mehr, je nach Bodenverhältnissen; dazu kommen Planung, Gutachten und Genehmigungen mit etwa 1.000 bis 5.000 Euro. Wie aufwendig die Erschließung wird, hängt laut Schwäbisch Hall von Bodenart, Tiefe, Genehmigungen und der Zugänglichkeit des Geländes ab. Die Größe der Anlage richtet sich nach der Heizlast des Hauses: Je mehr Leistung nötig ist, desto teurer wird das Gerät. Schwäbisch Hall rät, Dämmung und neue Fenster vor der Planung der Wärmepumpe umzusetzen, weil die Heizleistung an den verringerten Wärmebedarf angepasst wird."
     },
     {
       "h2": "Gasheizung auf Wärmepumpe umrüsten: Was zusätzlich anfällt",
@@ -81,7 +81,7 @@
     },
     {
       "h2": "Warum Angebote so weit auseinanderliegen",
-      "text": "Die Verbraucherzentrale Baden-Württemberg hat rund 60 eingereichte Angebote verglichen; die Spanne für Wärmepumpe samt Einbau reichte von 29.000 bis 62.000 Euro. Ein Hauptgrund sind unterschiedliche Leistungen: Steht bei Fundament oder Elektroinstallation „bauseits“, ist diese Arbeit im Angebot nicht enthalten. Laut Verbraucherzentrale geht es dabei nicht selten um fünfstellige Beträge, die später zusätzlich anfallen. In der Auswertung aus Rheinland-Pfalz lagen die Lohnkosten zwischen rund 2.350 und 12.500 Euro, waren aber nur in gut 60 Prozent der Angebote überhaupt ausgewiesen. Für einen fairen Vergleich hilft eine Liste der Posten: Gerät und Speicher, Fundament, Elektroanschluss, Rückbau der alten Heizung, Heizkörpertausch, Warmwasserbereitung, Inbetriebnahme und hydraulischer Abgleich. Schwäbisch Hall empfiehlt zudem einen Puffer von 5 bis 15 Prozent der Gesamtinvestition für Unvorhergesehenes."
+      "text": "Die Verbraucherzentrale Baden-Württemberg hat rund 60 eingereichte Angebote verglichen (Auswertung veröffentlicht im November 2025, Erhebungszeitraum nicht genannt); die Spanne für Wärmepumpe samt Einbau reichte von 29.000 bis 62.000 Euro. Ein Hauptgrund sind unterschiedliche Leistungen: Steht bei Fundament oder Elektroinstallation „bauseits“, ist diese Arbeit im Angebot nicht enthalten. Laut Verbraucherzentrale geht es dabei nicht selten um fünfstellige Beträge, die später zusätzlich anfallen. In der Auswertung aus Rheinland-Pfalz lagen die Lohnkosten zwischen rund 2.350 und 12.500 Euro, waren aber nur in gut 60 Prozent der Angebote überhaupt ausgewiesen. Für einen fairen Vergleich hilft eine Liste der Posten: Gerät und Speicher, Fundament, Elektroanschluss, Rückbau der alten Heizung, Heizkörpertausch, Warmwasserbereitung, Inbetriebnahme und hydraulischer Abgleich. Schwäbisch Hall empfiehlt zudem einen Puffer von 5 bis 15 Prozent der Gesamtinvestition für Unvorhergesehenes."
     },
     {
       "h2": "Neue Heizung: Kosten über die Investition hinaus",
@@ -167,6 +167,10 @@
   "offen": [
     "Erstes Angebot der VZ BW (29.000–62.000 €) ohne Erhebungszeitraum, nur Veröffentlichung 19.11.2025.",
     "BKI-Werte netto, Finanztip/VZ-Angebote vermutlich brutto – im Intro auf unterschiedliche Abgrenzung hingewiesen, MwSt-Status der Finanztip-Werte nicht ausgewiesen.",
-    "Zukunft Altbau (Quelle 8) nur für kostenfreie Beratung genutzt, Zahlen dort von 2024 nicht übernommen."
+    "Zukunft Altbau (Quelle 8) nur für kostenfreie Beratung genutzt, Zahlen dort von 2024 nicht übernommen.",
+    "QA 02.10.: VZ-BW-Spanne 29.000–62.000 € im Text als Auswertung vom November 2025 ohne genannten Erhebungszeitraum gekennzeichnet.",
+    "QA 02.10.: Satz „Dämmung verringert Investition, kleinere Anlage genügt“ war eigene Folgerung → durch Wiedergabe Schwäbisch Hall (Dämmung vor Planung, Heizleistung an reduzierten Wärmebedarf anpassen) ersetzt.",
+    "QA 02.10.: Hinweis „ältere Werte als Untergrenze lesen“ (eigene Deutung) entschärft.",
+    "QA 02.10.: Alle Zahlen in Tabelle, Text und FAQ gegen Quellen 1–7 abgeglichen und bestätigt (BKI Q1/2026, Finanztip Tabelle Stand 1.4.2026, co2online, test.de 25.06.2025 und 19.11.2025, Destatis)."
   ]
 }

@@ -10,21 +10,60 @@
   "einstieg": "Wird das Haus zu klein, ist ein Anbau oft die naheliegende Lösung: mehr Wohnfläche, ohne das Grundstück zu wechseln. Die Kosten für einen Anbau am Haus hängen davon ab, ob ein eingeschossiger Raum an der Gartenseite entsteht oder eine Erweiterung über zwei Etagen mit eigenem Dach. Dazu kommt der Anschluss an den Bestand, der bei jedem Projekt anders aussieht. Hier finden Sie Richtwerte aus Bausparkassen-Ratgebern und Baukostendaten der Architektenkammern sowie die Punkte, die den Preis verschieben. Für die Ausführung wählen wir auf Ihre Anfrage einen Fachbetrieb für [[/leistungen/hochbau/]] aus, der sich Ihr Haus vor dem Angebot ansieht.",
   "kosten": {
     "h2": "Anbau Kosten im Überblick",
-    "intro": "Nach Berechnungen des Baukosteninformationszentrums Deutscher Architektenkammern (BKI), veröffentlicht von der LBS im Mai 2025, kostet ein Anbau 1.738 Euro je Quadratmeter Bruttogrundfläche, ein Neubau dagegen 2.765 Euro. Schwäbisch Hall nennt als grobe Richtlinie 1.400 bis 2.000 Euro je Quadratmeter Nutzfläche. Für einen Anbau mit 30 Quadratmetern Nutzfläche ergeben sich daraus rechnerisch etwa 42.000 bis 60.000 Euro. Planung, Genehmigung und Gutachten kommen hinzu.",
+    "intro": "Nach Berechnungen des Baukosteninformationszentrums Deutscher Architektenkammern (BKI), veröffentlicht von der LBS im Mai 2025, kostet ein Anbau 1.738 Euro je Quadratmeter Bruttogrundfläche, ein Neubau dagegen 2.765 Euro. Schwäbisch Hall gibt an, dass als grobe Richtlinie häufig 1.400 bis 2.000 Euro je Quadratmeter Nutzfläche genannt werden, und bezeichnet das ausdrücklich als grobe Schätzung. Für einen Anbau mit 30 Quadratmetern Nutzfläche ergeben sich daraus rechnerisch etwa 42.000 bis 60.000 Euro. Planung, Genehmigung und Gutachten kommen hinzu.",
     "zeilen": [
-      { "posten": "Anbau je m² Bruttogrundfläche (BKI)", "spanne": "1.738 €", "q": 2 },
-      { "posten": "Anbau je m² Nutzfläche (grobe Richtlinie)", "spanne": "1.400 – 2.000 €", "q": 1 },
-      { "posten": "Anbau mit 30 m² Nutzfläche (Rechnung aus Zeile 2)", "spanne": "ca. 42.000 – 60.000 €", "q": 1 },
-      { "posten": "Dachausbau je m² Bruttogrundfläche (BKI)", "spanne": "1.797 €", "q": 2 },
-      { "posten": "Dachausbau, Faustwert je m²", "spanne": "rund 1.000 €", "q": 3 },
-      { "posten": "Neubau je m² Bruttogrundfläche (BKI, zum Vergleich)", "spanne": "2.765 €", "q": 2 },
-      { "posten": "Bodenplatte je m²", "spanne": "100 – 150 €", "q": 5 },
-      { "posten": "Dämmung der Bodenplatte je m² (Neubau)", "spanne": "40 – 60 €", "q": 5 },
-      { "posten": "Bauantrag", "spanne": "ca. 0,5 % der Baukosten", "q": 4 },
-      { "posten": "Baugenehmigung", "spanne": "0,2 – 0,7 % der Baukosten", "q": 4 },
-      { "posten": "Bodengutachten", "spanne": "0,3 – 0,5 % der Baukosten", "q": 4 }
+      {
+        "posten": "Anbau je m² Bruttogrundfläche (BKI)",
+        "spanne": "1.738 €",
+        "q": 2
+      },
+      {
+        "posten": "Anbau je m² Nutzfläche (laut Schwäbisch Hall nur grobe Schätzung)",
+        "spanne": "1.400 – 2.000 €",
+        "q": 1
+      },
+      {
+        "posten": "Anbau mit 30 m² Nutzfläche (Rechnung aus Zeile 2)",
+        "spanne": "ca. 42.000 – 60.000 €",
+        "q": 1
+      },
+      {
+        "posten": "Dachausbau je m² Bruttogrundfläche (BKI)",
+        "spanne": "1.797 €",
+        "q": 2
+      },
+      {
+        "posten": "Dachausbau, Faustwert je m²",
+        "spanne": "rund 1.000 €",
+        "q": 3
+      },
+      {
+        "posten": "Neubau je m² Bruttogrundfläche (BKI, zum Vergleich)",
+        "spanne": "2.765 €",
+        "q": 2
+      },
+      {
+        "posten": "Bodenplatte je m²",
+        "spanne": "100 – 150 €",
+        "q": 5
+      },
+      {
+        "posten": "Dämmung der Bodenplatte je m² (Neubau)",
+        "spanne": "40 – 60 €",
+        "q": 5
+      },
+      {
+        "posten": "Bauantrag (Anteil laut Neubau-Aufstellung Schwäbisch Hall)",
+        "spanne": "ca. 0,5 % der Baukosten",
+        "q": 4
+      },
+      {
+        "posten": "Bodengutachten (Anteil laut Neubau-Aufstellung Schwäbisch Hall)",
+        "spanne": "0,3 – 0,5 % der Baukosten",
+        "q": 4
+      }
     ],
-    "hinweis": "Laut Statistischem Bundesamt lagen die Preise für den Neubau von Wohngebäuden im Mai 2026 um 5,0 % über dem Vorjahresmonat, Rohbauarbeiten um 4,9 % und Ausbauarbeiten um 5,1 %. Die Richtwerte aus 2025 sind deshalb eher als Untergrenze zu lesen."
+    "hinweis": "Laut Statistischem Bundesamt lagen die Preise für den Neubau von Wohngebäuden im Mai 2026 um 5,0 % über dem Vorjahresmonat, Rohbauarbeiten um 4,9 % und Ausbauarbeiten um 5,1 %. Die BKI-Werte stammen aus dem Mai 2025; diese Entwicklung ist darin nicht enthalten. Die Prozentwerte für Bauantrag und Bodengutachten stammen aus einer Aufstellung für einen Neubau mit 400.000 Euro Baukosten."
   },
   "abschnitte": [
     {
@@ -37,34 +76,84 @@
     },
     {
       "h2": "Genehmigung, Bebauungsplan und Nebenkosten",
-      "text": "Laut Schwäbisch Hall ist eine Baugenehmigung grundsätzlich nötig, wenn Gebäude oder Gebäudeteile errichtet werden oder sich die Nutzung ändert; maßgeblich sind die Vorschriften des jeweiligen Bundeslandes. In Baden-Württemberg ist das die Landesbauordnung, Auskunft geben die unteren Baurechtsbehörden bei Stadt, Gemeinde oder Landratsamt. Der Bebauungsplan kann festlegen, wie viel Fläche zusätzlich bebaut werden darf, welche First- und Fassadenhöhe gilt und wie viele Geschosse zulässig sind; dazu kommen Abstandsflächen zum Nachbargrundstück. Für den Bauantrag nennt die Bausparkasse unter anderem Bauzeichnungen, Lageplan, Flächenberechnungen, Kostenschätzungen und technische Nachweise. Die Kosten dafür setzt sie anteilig an: etwa 0,5 Prozent der Baukosten für den Bauantrag, 0,2 bis 0,7 Prozent für die Genehmigung und 0,3 bis 0,5 Prozent für ein Bodengutachten. Sind tragende Wände betroffen oder entsteht ein neues Dach, kommt ein Statiker hinzu."
+      "text": "Laut Schwäbisch Hall ist eine Baugenehmigung grundsätzlich nötig, wenn Gebäude oder Gebäudeteile errichtet werden oder sich die Nutzung ändert; eine Ausnahme gebe es nur bei geringem städtebaulichem oder wirtschaftlichem Gewicht, entscheidend seien die Vorschriften des jeweiligen Bundeslandes. In Baden-Württemberg ist das die Landesbauordnung; verbindlich beurteilt das die untere Baurechtsbehörde bei Stadt, Gemeinde oder Landratsamt. Der Bebauungsplan kann festlegen, wie viel Fläche zusätzlich bebaut werden darf, welche First- und Fassadenhöhe gilt und wie viele Geschosse zulässig sind; dazu kommen Abstandsflächen zum Nachbargrundstück. Für den Bauantrag nennt die Bausparkasse unter anderem Bauzeichnungen, Lageplan, Flächenberechnungen, Kostenschätzungen und technische Nachweise. In ihrer Aufstellung der Baunebenkosten für einen Neubau setzt die Bausparkasse etwa 0,5 Prozent der Baukosten für den Bauantrag und 0,3 bis 0,5 Prozent für ein Bodengutachten an; für einen Anbau sind das nur Anhaltspunkte. Die Gebühr für die Baugenehmigung setzt die zuständige Baurechtsbehörde fest. Sind tragende Wände betroffen oder entsteht ein neues Dach, kommt ein Statiker hinzu."
     },
     {
       "h2": "So entsteht ein belastbares Angebot",
-      "text": "Ausgangspunkt jeder Planung ist ein aktueller Grundriss des bestehenden Hauses. Fehlen die Originalpläne, kann laut Schwäbisch Hall das Bauamt oder ein Archiv weiterhelfen; bei älteren Häusern lohnt es sich, nachzumessen. Für ein vergleichbares Angebot helfen außerdem Angaben zur gewünschten Fläche und Nutzung, zur Lage am Haus, zur geplanten Dachform und dazu, ob Heizung, Wasser und Strom in den Anbau geführt werden sollen. Je genauer Planung und Leistungsverzeichnis sind, desto besser lassen sich Angebote vergleichen und desto weniger Nachträge entstehen später. Wenn Sie uns Ihr Vorhaben schildern, wählen wir einen passenden Fachbetrieb aus, der sich bei Ihnen meldet und den Aufwand am Objekt prüft."
+      "text": "Ausgangspunkt jeder Planung ist ein aktueller Grundriss des bestehenden Hauses. Fehlen die Originalpläne, kann laut Schwäbisch Hall das Bauamt oder ein Archiv weiterhelfen; bei älteren Häusern empfiehlt die Bausparkasse, nachzumessen, ob der Plan mit dem Bestand übereinstimmt. Für ein vergleichbares Angebot helfen außerdem Angaben zur gewünschten Fläche und Nutzung, zur Lage am Haus, zur geplanten Dachform und dazu, ob Heizung, Wasser und Strom in den Anbau geführt werden sollen. Je genauer Planung und Leistungsverzeichnis sind, desto besser lassen sich Angebote vergleichen und desto weniger Nachträge entstehen später. Wenn Sie uns Ihr Vorhaben schildern, wählen wir einen passenden Fachbetrieb aus, der sich bei Ihnen meldet und den Aufwand am Objekt prüft."
     }
   ],
   "faq": [
-    { "q": "Was kostet ein Anbau mit 20 Quadratmetern?", "a": "Bei 1.400 bis 2.000 Euro je Quadratmeter Nutzfläche ergibt sich rechnerisch eine Spanne von etwa 28.000 bis 40.000 Euro, zuzüglich Planung und Genehmigung. Kleine Anbauten sind je Quadratmeter oft teurer, weil feste Kosten auf wenig Fläche fallen." },
-    { "q": "Ist ein Anbau günstiger als ein Neubau?", "a": "Je Quadratmeter Bruttogrundfläche ja: Das BKI nennt für einen Anbau 1.738 Euro, für einen Neubau 2.765 Euro. Eine Aufstockung ist laut LBS dagegen ähnlich teuer wie ein Neubau." },
-    { "q": "Braucht ein Anbau eine Baugenehmigung?", "a": "In der Regel ja, weil ein Gebäudeteil errichtet wird. Welche Ausnahmen gelten, regelt die Landesbauordnung; in Baden-Württemberg gibt die untere Baurechtsbehörde Auskunft." },
-    { "q": "Wie hoch sind die Planungskosten für einen Anbau?", "a": "Schwäbisch Hall nennt für eine begleitende Fachplanung beim Dachausbau zusätzlich etwa 10 Prozent der Gesamtkosten. Beim Anbau hängt der Anteil von Umfang und Leistungsbild des Architekten ab." },
-    { "q": "Sind die Preise in Baden-Württemberg anders?", "a": "Die genannten Werte sind bundesweite Richtwerte. Regionale Lohn- und Materialkosten, der Baugrund und der Zustand des Bestands können den Preis deutlich verschieben." }
+    {
+      "q": "Was kostet ein Anbau mit 20 Quadratmetern?",
+      "a": "Bei 1.400 bis 2.000 Euro je Quadratmeter Nutzfläche ergibt sich rechnerisch eine Spanne von etwa 28.000 bis 40.000 Euro, zuzüglich Planung und Genehmigung. Kleine Anbauten sind je Quadratmeter oft teurer, weil feste Kosten auf wenig Fläche fallen."
+    },
+    {
+      "q": "Ist ein Anbau günstiger als ein Neubau?",
+      "a": "Je Quadratmeter Bruttogrundfläche ja: Das BKI nennt für einen Anbau 1.738 Euro, für einen Neubau 2.765 Euro. Eine Aufstockung ist laut LBS dagegen ähnlich teuer wie ein Neubau."
+    },
+    {
+      "q": "Braucht ein Anbau eine Baugenehmigung?",
+      "a": "Laut Schwäbisch Hall ist eine Baugenehmigung grundsätzlich nötig, wenn Gebäude oder Gebäudeteile errichtet werden; Ausnahmen regeln die Bauordnungen der Länder. Verbindlich beurteilt das in Baden-Württemberg die untere Baurechtsbehörde."
+    },
+    {
+      "q": "Wie hoch sind die Planungskosten für einen Anbau?",
+      "a": "Schwäbisch Hall nennt für eine begleitende Fachplanung beim Dachausbau zusätzlich etwa 10 Prozent der Gesamtkosten. Beim Anbau hängt der Anteil von Umfang und Leistungsbild des Architekten ab."
+    },
+    {
+      "q": "Sind die Preise in Baden-Württemberg anders?",
+      "a": "Die genannten Werte sind bundesweite Richtwerte. Regionale Lohn- und Materialkosten, der Baugrund und der Zustand des Bestands können den Preis deutlich verschieben."
+    }
   ],
-  "verwandt": ["bodenplatte-kosten", "haus-bauen-kosten"],
+  "verwandt": [
+    "bodenplatte-kosten",
+    "haus-bauen-kosten"
+  ],
   "quellen": [
-    { "titel": "Hausanbau: mehr Raum gewinnen", "herausgeber": "Bausparkasse Schwäbisch Hall", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen/hausanbau.html", "abruf": "2026-10-02" },
-    { "titel": "Ausbauen, aufstocken, anbauen – Wohnraumpotenzial in deutschen Städten", "herausgeber": "LBS Infodienst Bauen und Finanzieren, 13.05.2025 (Werte: BKI)", "url": "https://mnd-assets.mynewsdesk.com/image/upload/f_pdf/mwdf3nt7vek3tlqwf6dt2h", "abruf": "2026-10-02" },
-    { "titel": "Dachausbau: Kosten", "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 14.11.2025)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen/dachausbau.html", "abruf": "2026-10-02" },
-    { "titel": "Baunebenkosten", "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 09.07.2025)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen/baunebenkosten.html", "abruf": "2026-10-02" },
-    { "titel": "Was kostet eine Bodenplatte?", "herausgeber": "Commerzbank", "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/wie-teuer-ist-eine-bodenplatte/", "abruf": "2026-10-02" },
-    { "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
+    {
+      "titel": "Hausanbau: mehr Raum gewinnen",
+      "herausgeber": "Bausparkasse Schwäbisch Hall",
+      "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen/hausanbau.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Ausbauen, aufstocken, anbauen – Wohnraumpotenzial in deutschen Städten",
+      "herausgeber": "LBS Infodienst Bauen und Finanzieren, 13.05.2025 (Werte: BKI)",
+      "url": "https://mnd-assets.mynewsdesk.com/image/upload/f_pdf/mwdf3nt7vek3tlqwf6dt2h",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Dachausbau: Kosten",
+      "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 14.11.2025)",
+      "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen/dachausbau.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Baunebenkosten",
+      "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 09.07.2025)",
+      "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen/baunebenkosten.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Was kostet eine Bodenplatte?",
+      "herausgeber": "Commerzbank",
+      "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/wie-teuer-ist-eine-bodenplatte/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025",
+      "herausgeber": "Statistisches Bundesamt",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html",
+      "abruf": "2026-10-02"
+    }
   ],
   "offen": [
     "Quelle 1 (Schwäbisch Hall Hausanbau) ohne Datum; 1.400–2.000 €/m² dort selbst als grobe Schätzung aus dem Internet bezeichnet.",
     "Spannen 30 m² und 20 m² sind einfache Multiplikationen aus Quelle 1.",
-    "Prozentwerte für Bauantrag, Genehmigung, Bodengutachten stammen aus einer Neubau-Aufstellung (Baukosten 400.000 €), nicht anbauspezifisch.",
     "Planungskosten 10 % beziehen sich in der Quelle auf den Dachausbau, nicht auf den Anbau (so im FAQ gekennzeichnet).",
-    "Verfahrensfreie Anbauten nach LBO BW nicht im Detail dargestellt (bewusst, Rechtsfrage)."
+    "Verfahrensfreie Anbauten nach LBO BW nicht im Detail dargestellt (bewusst, Rechtsfrage).",
+    "QA 02.10.: Zahlen geprüft und bestätigt: LBS/BKI 1.738/1.797/2.765 €/m² BGF (13.05.2025); SH Hausanbau 1.400–2.000 €/m² („grobe Schätzung“); SH Dachausbau 1.000 €/m², 30.000–60.000 €, 10 % (aktualisiert 14.11.2025); SH Baunebenkosten 0,5 / 0,2–0,7 / 0,3–0,5 %; Commerzbank 100–150 und 40–60 €/m²; Destatis 5,0/4,9/5,1 %.",
+    "QA 02.10.: 1.400–2.000 €/m² in Zeile und Intro als grobe Schätzung (Wortlaut SH) gekennzeichnet. Nebenkosten-Prozente als Neubau-Aufstellung gekennzeichnet; Zeile/Text „Baugenehmigung 0,2–0,7 %“ gestrichen (pauschale Genehmigungsgebühr ohne BW-Bezug, Vorlage Abschnitt 5/QA Punkt 7).",
+    "QA 02.10.: FAQ Baugenehmigung („In der Regel ja, weil …“ = eigene Subsumtion) als Wiedergabe SH + „verbindlich beurteilt das die untere Baurechtsbehörde“; ebenso im Genehmigungsabschnitt. Hinweis „als Untergrenze zu lesen“ neutral ersetzt."
   ]
 }

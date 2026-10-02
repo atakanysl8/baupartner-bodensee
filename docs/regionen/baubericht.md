@@ -77,3 +77,27 @@ Spec: `docs/superpowers/specs/2026-10-02-leistungen-erweitern-design.md` · Plan
 | Browser 390/1366 px | Stichproben ohne horizontales Scrollen, Hub `/regionen/` mit 190 Links |
 
 Offen: Für die neuen Gewerke müssen Betriebe vorhanden sein, an die Anfragen gehen können. OpenSEO: ~2.190 → ~1.860 Credits (Messung 1.050 Keywords + 6 SERP).
+
+## Nachtrag 3: Ratgeberseiten, interne Verlinkung, Bilder (02.10.2026)
+
+Spec: `docs/superpowers/specs/2026-10-02-ratgeber-verlinkung-design.md` · Plan: `docs/superpowers/plans/2026-10-02-ratgeber-verlinkung.md` · Seitenplan: `docs/ratgeber/seitenplan.json`
+
+- **Keyword-Recherche** (OpenSEO, ca. 590 Credits): 10 Seeds × ~150 Ideen, 79 Kosten-Begriffe, 8 SERP-Stichproben; Rohdaten `docs/regionen/messung/keywords-06-*.json`, `keywords-07-kosten.json`.
+- **28 Ratgeberseiten** `/ratgeber/<slug>/` (eine Suchanfrage je Seite, Summe Hauptbegriffe ≈ 110.000 Suchen/Monat, größte: wärmepumpe kosten 40.500, wallbox kosten 22.200, energetische sanierung 6.600) + Hub `/ratgeber/`. Je Seite 900–1.150 Wörter, 4–8 Quellen (99 URLs, alle erreichbar), Kostentabelle mit Quellennummern, Article + FAQPage + BreadcrumbList. 7 Schreib-Agenten + 4 QA-Agenten; QA hat jede Zahl gegen die Quelle geprüft und u. a. falsch zugeordnete Dämmstoffpreise, unbelegte Zusätze, eigene Rechtseinordnungen, pauschale Genehmigungsgebühren und Förderbedingungen entfernt.
+- **Gesetz:** Das GEG heißt laut gesetze-im-internet.de jetzt Gebäudemodernisierungsgesetz (GModG); Ratgeber und Leistungsseiten nennen „Gebäudemodernisierungsgesetz (früher Gebäudeenergiegesetz)“ ohne Pflicht-Anweisungen.
+- **Interne Verlinkung** (Regeln aus der Vault): Navigation „Ratgeber“, Fußzeile, Startseite (6 Ratgeber + Hub), Leistungsseiten → ihre Ratgeber, Ratgeber → genau eine Leistungsseite + 1–2 Ratgeber + Hub, Ortsseiten → 3 Nachbarorte + Leistung + 1–2 Ratgeber + ≤ 2 verwandte Leistungen im Ort + Hub (vorher alle übrigen Leistungen), Ankertabelle `app/inhalte/anker.ts` (ein Anker je Ziel), redaktionelle Links für „Über uns“ und „Für Fachbetriebe“ (vorher verwaist). Prüfskript `scripts/pruefe-links.mjs`.
+- **Bilder:** Hero mit fal.ai SeedVR2 auf 3344 × 1888 hochskaliert, ausgeliefert in 960/1600/2560 px (`HeroBild`, srcset); Logo als SVG (Clip-Fehler und abgeschnittenes „AM SEE“ behoben).
+- **Texte:** Startseite „11 Leistungsbereiche“ (aus der Liste gezählt); unbelegte Aussagen im Startseiten-SEO-Text entschärft; Titles der Bestandsseiten ohne „Kosten“ (keine Kannibalisierung mit Ratgebern).
+
+| Prüfung (Endstand) | Ergebnis |
+|---|---|
+| `node --test scripts/*.test.mjs` | 42/42 |
+| `check-orte` / `check-ratgeber` | 190 / 28 Seiten, 0 Fehler |
+| `tsc`, `build.sh` | ok |
+| `pruefe-seo` | 236 Seiten, 0 Fehler |
+| `pruefe-bundle` | 71 Chunks, 0 mit Orts-/Ratgeber-Texten |
+| `pruefe-links` | 236 Seiten, 0 Fehler; Klicktiefe ≤ 2; Ratgeber min. 2 / Median 11 Eingänge; 11 Warnungen (Startseiten-Kacheln nutzen Kartentext als Anker) |
+| Ähnlichkeit Ortsseiten | max. 9,7 %, 0 Fehler |
+| Quellen Ratgeber | 99 URLs, 0 Probleme |
+
+Anwaltsfragen Ratgeber: `anwaltsfragen/ratgeber-r1…r6*.md` (PV-Pflicht-Wiedergabe, Wallbox/§ 14a EnWG, LBO-Anhang-Zitate, NRG-Zaunhöhe, Treppen, Fenster/RC 2). Offen: Haustür, Treppe und Teile Bad stützen sich mangels neutraler Quelle auf Wohnglück.de/Interhyp (als Darlehens-/Finanzierungsvermittler gekennzeichnet).

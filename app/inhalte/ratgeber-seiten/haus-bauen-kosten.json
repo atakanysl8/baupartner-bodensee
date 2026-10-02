@@ -10,27 +10,80 @@
   "einstieg": "Wer ein Haus bauen will, braucht früh eine belastbare Vorstellung davon, welche Kosten auf ihn zukommen – lange bevor Pläne und Angebote vorliegen. Die Gesamtsumme setzt sich aus Grundstück, Rohbau, Ausbau, Hausanschlüssen, Außenanlagen und Baunebenkosten zusammen, und jeder dieser Blöcke schwankt mit Größe, Bauweise und Baugrund. Hier finden Sie Richtwerte aus Statistik, Bausparkassen und Banken sowie die Faktoren, die den Preis am stärksten verschieben. Für den Rohbau oder ein ganzes Neubauvorhaben wählen wir auf Ihre Anfrage einen Fachbetrieb für [[/leistungen/hochbau/]] aus, der sich bei Ihnen meldet.",
   "kosten": {
     "h2": "Hausbau Kosten im Überblick",
-    "intro": "Die Bausparkasse Schwäbisch Hall rechnet für ein durchschnittlich ausgestattetes Einfamilienhaus mit 130 Quadratmetern Wohnfläche mit Gesamtkosten von rund 3.360 bis 3.600 Euro je Quadratmeter, also etwa 450.000 Euro ohne Grundstück. Darin enthalten sind Herstellungskosten, Hausanschlüsse, Außenanlage und Baunebenkosten. Die übrigen Zeilen zeigen einzelne Bausteine aus weiteren Quellen; sie beziehen sich teils auf die Wohnfläche, teils auf die Bruttogrundfläche und sind deshalb nicht direkt addierbar.",
+    "intro": "Die Bausparkasse Schwäbisch Hall rechnet in einer Tabelle, die sie Wohnglück.de entnimmt, für ein durchschnittlich ausgestattetes Einfamilienhaus mit 130 Quadratmetern Wohnfläche mit Gesamtkosten von rund 3.360 bis 3.600 Euro je Quadratmeter, also etwa 450.000 Euro ohne Grundstück. Darin enthalten sind Herstellungskosten, Hausanschlüsse, Außenanlage und Baunebenkosten. Die übrigen Zeilen zeigen einzelne Bausteine aus weiteren Quellen; sie beziehen sich teils auf die Wohnfläche, teils auf die Bruttogrundfläche und sind deshalb nicht direkt addierbar.",
     "zeilen": [
-      { "posten": "Gesamtkosten Hausbau je m² Wohnfläche (Einfamilienhaus, 130 m²)", "spanne": "ca. 3.362 – 3.604 €", "q": 1 },
-      { "posten": "Einfamilienhaus mit 130 m² Wohnfläche, ohne Grundstück", "spanne": "ca. 437.000 – 468.500 €", "q": 1 },
-      { "posten": "Herstellungskosten je m² Wohnfläche", "spanne": "ca. 2.615 – 2.808 €", "q": 1 },
-      { "posten": "Bauwerkskosten Neubau je m² Bruttogrundfläche (BKI)", "spanne": "2.765 €", "q": 4 },
-      { "posten": "Veranschlagte Baukosten bei Genehmigung je m², Durchschnitt 2024", "spanne": "2.611 €", "q": 5 },
-      { "posten": "Rohbau je m² Wohnfläche (Massivhaus)", "spanne": "1.500 – 2.000 €", "q": 3 },
-      { "posten": "Bodenplatte", "spanne": "15.000 – 25.000 €", "q": 3 },
-      { "posten": "Keller (zusätzlich)", "spanne": "30.000 – 60.000 €", "q": 3 },
-      { "posten": "Hausanschlüsse (Beispiel 130 m²)", "spanne": "ca. 12.000 €", "q": 1 },
-      { "posten": "Baunebenkosten", "spanne": "15 – 20 % der Baukosten", "q": 2 },
-      { "posten": "Bodengutachten", "spanne": "ca. 1.200 – 2.000 €", "q": 2 },
-      { "posten": "Baureifes Grundstück, Bundesdurchschnitt je m²", "spanne": "rund 240 €", "q": 1 }
+      {
+        "posten": "Gesamtkosten Hausbau je m² Wohnfläche (Einfamilienhaus, 130 m²)",
+        "spanne": "ca. 3.362 – 3.604 €",
+        "q": 1
+      },
+      {
+        "posten": "Einfamilienhaus mit 130 m² Wohnfläche, ohne Grundstück",
+        "spanne": "ca. 437.000 – 468.500 €",
+        "q": 1
+      },
+      {
+        "posten": "Herstellungskosten je m² Wohnfläche",
+        "spanne": "ca. 2.615 – 2.808 €",
+        "q": 1
+      },
+      {
+        "posten": "Bauwerkskosten Neubau je m² Bruttogrundfläche (BKI)",
+        "spanne": "2.765 €",
+        "q": 4
+      },
+      {
+        "posten": "Veranschlagte Baukosten bei Genehmigung je m², 2024 (nach Destatis, zitiert von Schwäbisch Hall)",
+        "spanne": "2.611 €",
+        "q": 5
+      },
+      {
+        "posten": "Rohbau je m² Wohnfläche (Angabe Schwäbisch Hall)",
+        "spanne": "1.000 – 1.500 €",
+        "q": 1
+      },
+      {
+        "posten": "Rohbau je m² Wohnfläche (Massivhaus, Angabe Commerzbank)",
+        "spanne": "1.500 – 2.000 €",
+        "q": 3
+      },
+      {
+        "posten": "Bodenplatte",
+        "spanne": "15.000 – 25.000 €",
+        "q": 3
+      },
+      {
+        "posten": "Keller (zusätzlich)",
+        "spanne": "30.000 – 60.000 €",
+        "q": 3
+      },
+      {
+        "posten": "Hausanschlüsse (Beispiel 130 m²)",
+        "spanne": "ca. 12.000 €",
+        "q": 1
+      },
+      {
+        "posten": "Baunebenkosten",
+        "spanne": "15 – 20 % der Baukosten",
+        "q": 2
+      },
+      {
+        "posten": "Bodengutachten",
+        "spanne": "ca. 1.200 – 2.000 €",
+        "q": 2
+      },
+      {
+        "posten": "Baureifes Grundstück, Bundesdurchschnitt je m² (Angabe Schwäbisch Hall, Stand 02/2025)",
+        "spanne": "rund 240 €",
+        "q": 1
+      }
     ],
-    "hinweis": "Die Werte stammen überwiegend aus den Jahren 2024 und 2025. Laut Statistischem Bundesamt lagen die Preise für den Neubau konventionell gefertigter Wohngebäude im Mai 2026 um 5,0 % über dem Vorjahresmonat, Rohbauarbeiten um 4,9 % und Ausbauarbeiten um 5,1 %. Ältere Richtwerte sind deshalb eher als Untergrenze zu lesen."
+    "hinweis": "Die Werte stammen überwiegend aus den Jahren 2024 und 2025. Laut Statistischem Bundesamt lagen die Preise für den Neubau konventionell gefertigter Wohngebäude im Mai 2026 um 5,0 % über dem Vorjahresmonat, Rohbauarbeiten um 4,9 % und Ausbauarbeiten um 5,1 %. Diese Entwicklung ist in älteren Richtwerten nicht enthalten."
   },
   "abschnitte": [
     {
       "h2": "Woraus sich die Baukosten zusammensetzen",
-      "text": "Die größten Blöcke sind Rohbau und Ausbau. Zum Rohbau gehören Erdarbeiten, Bodenplatte oder Keller, Mauerwerk, Decken, Treppen und der Dachstuhl – also alles, was die tragende Hülle bildet. Die Commerzbank beziffert den Rohbau eines Massivhauses auf meist 1.500 bis 2.000 Euro je Quadratmeter Wohnfläche und schätzt seinen Anteil auf 40 bis 50 Prozent der gesamten Baukosten. Danach folgen Fenster und Türen, Elektro-, Sanitär- und Heizungsinstallation, Estrich, Putz und Bodenbeläge; für diesen Innenausbau nennt Schwäbisch Hall 500 bis 1.000 Euro je Quadratmeter Wohnfläche. Hinzu kommen die Hausanschlüsse für Wasser, Abwasser, Strom und Telekommunikation sowie die Außenanlage mit Zufahrt, Wegen und Terrasse. Wie sich Anschlussgebühren und Erdarbeiten zusammensetzen, erklärt der Ratgeber [[/ratgeber/hausanschluss-kosten/]]. Weil die Quellen ihre Werte unterschiedlich abgrenzen, lohnt beim Vergleich immer der Blick darauf, ob Keller, Außenanlage und Nebenkosten enthalten sind."
+      "text": "Die größten Blöcke sind Rohbau und Ausbau. Zum Rohbau gehören Erdarbeiten, Bodenplatte oder Keller, Mauerwerk, Decken, Treppen und der Dachstuhl – also alles, was die tragende Hülle bildet. Für den Rohbau nennen die Quellen unterschiedliche Werte: Schwäbisch Hall 1.000 bis 1.500 Euro je Quadratmeter Wohnfläche, die Commerzbank für ein Massivhaus meist 1.500 bis 2.000 Euro; nach Commerzbank macht der Rohbau in der Regel 40 bis 50 Prozent der gesamten Baukosten aus. Danach folgen Fenster und Türen, Elektro-, Sanitär- und Heizungsinstallation, Estrich, Putz und Bodenbeläge; für diesen Innenausbau nennt Schwäbisch Hall 500 bis 1.000 Euro je Quadratmeter Wohnfläche. Hinzu kommen die Hausanschlüsse für Wasser, Abwasser, Strom und Telekommunikation sowie die Außenanlage mit Zufahrt, Wegen und Terrasse. Wie sich Anschlussgebühren und Erdarbeiten zusammensetzen, erklärt der Ratgeber [[/ratgeber/hausanschluss-kosten/]]. Weil die Quellen ihre Werte unterschiedlich abgrenzen, lohnt beim Vergleich immer der Blick darauf, ob Keller, Außenanlage und Nebenkosten enthalten sind."
     },
     {
       "h2": "Baunebenkosten und Grundstück",
@@ -42,29 +95,79 @@
     },
     {
       "h2": "Was den Preis am stärksten treibt",
-      "text": "Neben der Wohnfläche bestimmen vor allem Form, Ausstattung und Bauweise den Preis. Ein kompakter Baukörper mit einfachem Dach hat weniger Außenwand- und Dachfläche als ein Haus mit Erkern, Gauben und Versprüngen. Hochwertige Fenster, Bäder und Bodenbeläge heben die Kosten im Ausbau, ebenso eine aufwendige Haustechnik. Nach Angaben des Baukosteninformationszentrums Deutscher Architektenkammern, zitiert von der LBS, lagen die Bauwerkskosten für einen Neubau bei 2.765 Euro je Quadratmeter Bruttogrundfläche. Die Statistik zeigt zudem, wie stark die Baukosten über die Jahre gestiegen sind: Die bei Baugenehmigungen veranschlagten Kosten lagen laut Schwäbisch Hall, gestützt auf das Statistische Bundesamt, 2005 bei 1.233 Euro und 2024 bei 2.611 Euro je Quadratmeter. Für Ihr Budget heißt das: Richtwerte helfen bei der ersten Einordnung, ein Angebot auf Basis einer Ausführungsplanung und eines Leistungsverzeichnisses ersetzen sie nicht."
+      "text": "Neben der Wohnfläche bestimmen vor allem Form, Ausstattung und Bauweise den Preis. Ein kompakter Baukörper mit einfachem Dach hat weniger Außenwand- und Dachfläche als ein Haus mit Erkern, Gauben und Versprüngen. Hochwertige Fenster, Bäder und Bodenbeläge heben die Kosten im Ausbau, ebenso eine aufwendige Haustechnik. Nach Angaben des Baukosteninformationszentrums Deutscher Architektenkammern, zitiert von der LBS, lagen die Bauwerkskosten für einen Neubau bei 2.765 Euro je Quadratmeter Bruttogrundfläche. Die Statistik zeigt zudem, wie stark die Baukosten über die Jahre gestiegen sind: Die bei Baugenehmigungen veranschlagten Kosten lagen nach Daten des Statistischen Bundesamtes, zitiert von Schwäbisch Hall, 2005 bei 1.233 Euro und 2024 bei 2.611 Euro je Quadratmeter. Für Ihr Budget heißt das: Richtwerte helfen bei der ersten Einordnung, ein Angebot auf Basis einer Ausführungsplanung und eines Leistungsverzeichnisses ersetzen sie nicht."
     }
   ],
   "faq": [
-    { "q": "Was kostet ein Einfamilienhaus mit 150 Quadratmetern?", "a": "Schwäbisch Hall nennt für ein durchschnittliches Einfamilienhaus mit 150 Quadratmetern Wohnfläche insgesamt 400.000 bis 600.000 Euro, inklusive Grundstück und Nebenkosten. Die Spanne ergibt sich vor allem aus Grundstückspreis und Ausstattung." },
-    { "q": "Wie hoch sind die Baunebenkosten beim Hausbau?", "a": "Als Faustwert gelten 15 bis 20 Prozent der Baukosten, bei 400.000 Euro Baukosten also bis zu 60.000 Euro. Planungskosten eines Architekten sind in dieser Aufstellung der Bausparkasse nicht enthalten." },
-    { "q": "Ist eine Doppelhaushälfte günstiger als ein freistehendes Haus?", "a": "Laut Schwäbisch Hall kann eine Doppelhaushälfte im Bau um bis zu 25 Prozent günstiger sein als ein Einzelhaus, weil weniger Außenfläche entsteht und Komponenten gemeinsam genutzt werden können." },
-    { "q": "Warum weichen die Quadratmeterpreise je nach Quelle so stark ab?", "a": "Manche Werte beziehen sich auf die Wohnfläche, andere auf die Bruttogrundfläche; manche enthalten Nebenkosten, Keller oder Außenanlage, andere nicht. Vergleichen Sie deshalb immer, welche Leistungen ein Wert umfasst." },
-    { "q": "Sind die Preise in Baden-Württemberg anders?", "a": "Die genannten Werte sind bundesweite Richtwerte. Grundstückspreise, Lohnkosten und Baugrund unterscheiden sich regional deutlich, deshalb ist ein Angebot auf Basis Ihrer Planung maßgeblich." }
+    {
+      "q": "Was kostet ein Einfamilienhaus mit 150 Quadratmetern?",
+      "a": "Schwäbisch Hall nennt für ein durchschnittliches Einfamilienhaus mit 150 Quadratmetern Wohnfläche insgesamt 400.000 bis 600.000 Euro, inklusive Grundstück und Nebenkosten. Die Spanne ergibt sich vor allem aus Grundstückspreis und Ausstattung."
+    },
+    {
+      "q": "Wie hoch sind die Baunebenkosten beim Hausbau?",
+      "a": "Als Faustwert gelten 15 bis 20 Prozent der Baukosten, bei 400.000 Euro Baukosten also bis zu 60.000 Euro. Planungskosten eines Architekten sind in dieser Aufstellung der Bausparkasse nicht enthalten."
+    },
+    {
+      "q": "Ist eine Doppelhaushälfte günstiger als ein freistehendes Haus?",
+      "a": "Laut Schwäbisch Hall kann eine Doppelhaushälfte im Bau um bis zu 25 Prozent günstiger sein als ein Einzelhaus, weil weniger Außenfläche entsteht und Komponenten gemeinsam genutzt werden können."
+    },
+    {
+      "q": "Warum weichen die Quadratmeterpreise je nach Quelle so stark ab?",
+      "a": "Manche Werte beziehen sich auf die Wohnfläche, andere auf die Bruttogrundfläche; manche enthalten Nebenkosten, Keller oder Außenanlage, andere nicht. Vergleichen Sie deshalb immer, welche Leistungen ein Wert umfasst."
+    },
+    {
+      "q": "Sind die Preise in Baden-Württemberg anders?",
+      "a": "Die genannten Werte sind bundesweite Richtwerte. Grundstückspreise, Lohnkosten und Baugrund unterscheiden sich regional deutlich, deshalb ist ein Angebot auf Basis Ihrer Planung maßgeblich."
+    }
   ],
-  "verwandt": ["bodenplatte-kosten", "hausanschluss-kosten"],
+  "verwandt": [
+    "bodenplatte-kosten",
+    "hausanschluss-kosten"
+  ],
   "quellen": [
-    { "titel": "Baukosten: Wie viel kostet ein Hausbau?", "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 12.02.2025)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen.html", "abruf": "2026-10-02" },
-    { "titel": "Baunebenkosten", "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 09.07.2025)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen/baunebenkosten.html", "abruf": "2026-10-02" },
-    { "titel": "Kosten eines Rohbaus in der Übersicht", "herausgeber": "Commerzbank", "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/rohbaukosten/", "abruf": "2026-10-02" },
-    { "titel": "Ausbauen, aufstocken, anbauen – Wohnraumpotenzial in deutschen Städten", "herausgeber": "LBS Infodienst Bauen und Finanzieren, 13.05.2025 (Werte: BKI)", "url": "https://mnd-assets.mynewsdesk.com/image/upload/f_pdf/mwdf3nt7vek3tlqwf6dt2h", "abruf": "2026-10-02" },
-    { "titel": "Baupreise: Baukosten pro Quadratmeter", "herausgeber": "Bausparkasse Schwäbisch Hall (Daten: Statistisches Bundesamt, aktualisiert 28.08.2026)", "url": "https://www.schwaebisch-hall.de/ratgeber/immobilie-bauen/baupreise.html", "abruf": "2026-10-02" },
-    { "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
+    {
+      "titel": "Baukosten: Wie viel kostet ein Hausbau?",
+      "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 12.02.2025; Kostentabelle nach Wohnglück.de, Impleco GmbH, Darlehensvermittler)",
+      "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Baunebenkosten",
+      "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 09.07.2025)",
+      "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen/baunebenkosten.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Kosten eines Rohbaus in der Übersicht",
+      "herausgeber": "Commerzbank",
+      "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/rohbaukosten/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Ausbauen, aufstocken, anbauen – Wohnraumpotenzial in deutschen Städten",
+      "herausgeber": "LBS Infodienst Bauen und Finanzieren, 13.05.2025 (Werte: BKI)",
+      "url": "https://mnd-assets.mynewsdesk.com/image/upload/f_pdf/mwdf3nt7vek3tlqwf6dt2h",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Baupreise: Baukosten pro Quadratmeter",
+      "herausgeber": "Bausparkasse Schwäbisch Hall (Daten: Statistisches Bundesamt, aktualisiert 28.08.2026)",
+      "url": "https://www.schwaebisch-hall.de/ratgeber/immobilie-bauen/baupreise.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025",
+      "herausgeber": "Statistisches Bundesamt",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html",
+      "abruf": "2026-10-02"
+    }
   ],
   "offen": [
-    "Die Gesamtkostentabelle in Quelle 1 nennt selbst Wohnglück.de als Quelle; Erhebungsbasis dort nicht offengelegt.",
-    "Rohbauwerte widersprechen sich zwischen Quellen (Schwäbisch Hall 1.000–1.500 €/m², Commerzbank 1.500–2.000 €/m²); Tabelle nutzt Commerzbank.",
-    "Wert 2.611 €/m² (Destatis, veranschlagte Kosten 2024) nur über Schwäbisch Hall zitiert, nicht in der Destatis-Originaltabelle geprüft.",
-    "Commerzbank-Rohbauseite ohne Datum."
+    "Commerzbank-Rohbauseite ohne Datum.",
+    "QA 02.10.: Zahlen geprüft und bestätigt: SH 3.362–3.604 €/m², 437.000–468.500 €, 2.615–2.808 €/m², 12.000 €, 1.000–1.500 €/m² Rohbau, 500–1.000 €/m² Ausbau, 50–1.300 und 240 €/m² Grundstück, 15 %, 400.000–600.000 €; SH Baunebenkosten 15–20 %, 60.000 €, 1.200–2.000 €, 2.500 €; SH Baupreise 1.233/2.611 €/m², Doppelhaus bis 25 %; Commerzbank 1.500–2.000, 40–50 %, 15.000–25.000, 30.000–60.000 €; LBS/BKI 2.765 €/m² BGF; Destatis 5,0/4,9/5,1 %.",
+    "QA 02.10.: Rohbau-Widerspruch offengelegt: SH 1.000–1.500 und Commerzbank 1.500–2.000 €/m² beide als Zeile und im Text (Commerzbank-FAQ nennt zusätzlich 1.200–2.000 €).",
+    "QA 02.10.: 2.611 €/m² als „nach Destatis, zitiert von Schwäbisch Hall“ gekennzeichnet; Destatis-Originaltabelle nicht geprüft.",
+    "QA 02.10.: Gesamtkostentabelle SH stammt laut SH von Wohnglück.de → im Intro und Herausgeber (Impleco GmbH, Darlehensvermittler) gekennzeichnet. Grundstück 240 €/m² ist SH-Angabe ohne Jahr (SH-Baupreise-Seite nennt Destatis 2023: 217,73 €) → als SH-Angabe Stand 02/2025 gekennzeichnet.",
+    "QA 02.10.: Hinweis „als Untergrenze zu lesen“ (eigene Deutung) neutral umformuliert."
   ]
 }

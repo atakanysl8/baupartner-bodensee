@@ -9,31 +9,59 @@
   "h1": "Was kostet es, die Elektrik zu erneuern?",
   "einstieg": "Alte Leitungen, zu wenige Steckdosen, kein Fehlerstrom-Schutzschalter: In vielen älteren Häusern ist die Elektroinstallation nicht mehr auf heutige Geräte und Sicherheitsstandards ausgelegt. Was es kostet, die Elektrik zu erneuern, hängt vor allem von der Wohnfläche, dem gewünschten Ausstattungsniveau und davon ab, wie viele Wände dafür geöffnet werden. Hier finden Sie Preisspannen aus zitierfähigen Quellen, die Kosten für Grundnetz und Zählerschrank und die Punkte, die ein Angebot vergleichbar machen. Für ein konkretes Angebot wählen wir einen Fachbetrieb für [[/leistungen/elektro-photovoltaik/]] aus, der sich die Anlage vorher ansieht.",
   "kosten": {
-    "h2": "Kosten für eine neue Elektrik im Überblick",
-    "intro": "Für die komplette Erneuerung der Elektrik nennt die Sparkassen-Finanzgruppe je nach Aufwand circa 100 bis 170 Euro pro Quadratmeter, die LBS für die Erneuerung im Rahmen einer Kernsanierung 110 bis 170 Euro je Quadratmeter Wohnfläche. Für ein Haus mit 120 Quadratmetern ergibt die Spanne von 100 bis 170 Euro rechnerisch 12.000 bis 20.400 Euro. Die Einzelwerte für Grundnetz und Wohnungsinstallation stammen aus dem Fachportal haustec.de und umfassen Material und Arbeit.",
+    "h2": "Elektrik erneuern: Kosten im Überblick",
+    "intro": "Für die komplette Erneuerung der Elektrik nennt die Sparkassen-Finanzgruppe je nach Aufwand circa 100 bis 170 Euro pro Quadratmeter, die LBS für die Erneuerung im Rahmen einer Kernsanierung 110 bis 170 Euro je Quadratmeter Wohnfläche. Für ein Haus mit 120 Quadratmetern ergibt die Spanne von 100 bis 170 Euro rechnerisch 12.000 bis 20.400 Euro. Die Einzelwerte für Grundnetz und Wohnungsinstallation sind Angaben des Fachportals haustec.de (Stand der Seite 10/2025, ohne Angabe des Erhebungsjahrs) und umfassen Material und Arbeit.",
     "zeilen": [
-      { "posten": "Erneuerung der Elektrik je m² Wohnfläche", "spanne": "100 – 170 €", "q": 1 },
-      { "posten": "Erneuerung der Elektrik bei einer Kernsanierung je m² Wohnfläche", "spanne": "110 – 170 €", "q": 2 },
-      { "posten": "Haus mit 120 m² (Rechnung aus der Spanne je m²)", "spanne": "12.000 – 20.400 €", "q": 1 },
-      { "posten": "Grundnetz im Einfamilienhaus (Hauptleitung, Zählerschrank, Verteiler)", "spanne": "ca. 3.000 €", "q": 3 },
-      { "posten": "Grundnetz im Mehrfamilienhaus mit sechs Wohnungen", "spanne": "ca. 8.000 €", "q": 3 },
-      { "posten": "Elektroinstallation einer Wohnung ab Sicherungskleinverteiler", "spanne": "1.500 – 6.000 €", "q": 3 },
-      { "posten": "Arbeiten am Zählerschrank für einen digitalen Zähler", "spanne": "bis zu 2.000 €", "q": 4 }
+      {
+        "posten": "Erneuerung der Elektrik je m² Wohnfläche",
+        "spanne": "100 – 170 €",
+        "q": 1
+      },
+      {
+        "posten": "Erneuerung der Elektrik bei einer Kernsanierung je m² Wohnfläche",
+        "spanne": "110 – 170 €",
+        "q": 2
+      },
+      {
+        "posten": "Haus mit 120 m² (Rechnung aus der Spanne je m²)",
+        "spanne": "12.000 – 20.400 €",
+        "q": 1
+      },
+      {
+        "posten": "Grundnetz im Einfamilienhaus (Hauptleitung, Zählerschrank, Verteiler) (Angabe haustec, Stand 10/2025)",
+        "spanne": "ca. 3.000 €",
+        "q": 3
+      },
+      {
+        "posten": "Grundnetz im Mehrfamilienhaus mit sechs Wohnungen (Angabe haustec, Stand 10/2025)",
+        "spanne": "ca. 8.000 €",
+        "q": 3
+      },
+      {
+        "posten": "Elektroinstallation einer Wohnung ab Sicherungskleinverteiler (Angabe haustec, Stand 10/2025)",
+        "spanne": "1.500 – 6.000 €",
+        "q": 3
+      },
+      {
+        "posten": "Arbeiten am Zählerschrank für einen digitalen Zähler",
+        "spanne": "bis zu 2.000 €",
+        "q": 4
+      }
     ],
-    "hinweis": "Die Preise für Elektro-, Sicherheits- und informationstechnische Anlagen an Wohngebäuden lagen laut Statistischem Bundesamt im Mai 2026 um 6,4 % über dem Vorjahresmonat. Ältere Richtwerte, etwa für das Grundnetz, sind deshalb eher als Untergrenze zu lesen."
+    "hinweis": "Die Preise für Elektro-, Sicherheits- und informationstechnische Anlagen an Wohngebäuden lagen laut Statistischem Bundesamt im Mai 2026 um 6,4 % über dem Vorjahresmonat. Richtwerte ohne Erhebungsjahr bilden diese Entwicklung nicht unbedingt ab."
   },
   "abschnitte": [
     {
-      "h2": "Wann sich eine neue Elektroinstallation lohnt",
+      "h2": "Wann eine neue Elektroinstallation ansteht",
       "text": "Nach Angaben des Fachportals haustec.de entspricht eine Elektroinstallation nach 30 bis 40 Jahren in der Regel nicht mehr den geltenden Standards und Sicherheitsvorgaben. Typische Anzeichen sind zweiadrige Leitungen ohne Schutzleiter, Schraubsicherungen statt Leitungsschutzschaltern, fehlende Fehlerstrom-Schutzschalter in Bad und Außenbereich sowie Mehrfachsteckdosen, weil es zu wenige Anschlüsse gibt. Dazu kommen neue Verbraucher wie Wärmepumpe, Wallbox, Induktionsherd oder Photovoltaikanlage, für die alte Zuleitungen und Verteiler oft nicht ausgelegt sind. haustec.de weist darauf hin, dass eine komplette Erneuerung häufig günstiger ist als eine Erweiterung, bei der verschlissene Altkomponenten im Netz bleiben. Wer ohnehin Böden, Bäder oder Grundrisse ändert, verbindet die neue Elektrik sinnvollerweise mit diesen Arbeiten, denn dann sind Wände und Estrich bereits offen. Was bei einer kompletten Modernisierung des Hauses insgesamt anfällt, beschreibt der Ratgeber [[/ratgeber/kernsanierung-kosten/]]. Ob eine Teilerneuerung genügt oder das ganze Haus neu verkabelt werden sollte, lässt sich erst nach einer Prüfung der bestehenden Anlage beurteilen."
     },
     {
       "h2": "Zählerschrank erneuern: Kosten und Anlässe",
-      "text": "Der Zählerschrank ist oft der erste Teil der Anlage, der ersetzt werden muss. Anlass ist häufig der Einbau eines digitalen Stromzählers oder eines intelligenten Messsystems. Laut ADAC können für Arbeiten am Zählerschrank je nach Aufwand bis zu 2.000 Euro anfallen; nach ersten Erfahrungen der Messstellenbetreiber ist ein Umbau bei etwa einem Viertel aller Haushalte nötig, besonders in Häusern, die vor 1965 gebaut wurden. Die Verbraucherzentrale spricht von Mehrkosten von bis zu mehreren tausend Euro, wenn für den neuen Zähler ein Umbau notwendig ist. Ein neuer Zählerschrank ist auch dann ein Thema, wenn eine Photovoltaikanlage, ein Speicher, eine Wärmepumpe oder eine Wallbox angeschlossen werden soll, weil dafür zusätzliche Zählerplätze, Schutzeinrichtungen und Platz im Verteiler gebraucht werden. Was die Ladestation selbst kostet, erklärt der Ratgeber [[/ratgeber/wallbox-kosten/]]. Für die Planung hilft es, solche Vorhaben gleich mitzunennen, damit der Schrank nur einmal umgebaut wird."
+      "text": "Häufig geht es zuerst um den Zählerschrank. Anlass ist oft der Einbau eines digitalen Stromzählers oder eines intelligenten Messsystems. Laut ADAC können für Arbeiten am Zählerschrank je nach Aufwand bis zu 2.000 Euro anfallen; nach ersten Erfahrungen der Messstellenbetreiber ist ein Umbau bei etwa einem Viertel aller Haushalte nötig, besonders in Häusern, die vor 1965 gebaut wurden. Die Verbraucherzentrale spricht von Mehrkosten von bis zu mehreren tausend Euro, wenn für den neuen Zähler ein Umbau notwendig ist. Ein neuer Zählerschrank ist auch dann ein Thema, wenn eine Photovoltaikanlage, ein Speicher, eine Wärmepumpe oder eine Wallbox angeschlossen werden soll, weil dafür zusätzliche Zählerplätze, Schutzeinrichtungen und Platz im Verteiler gebraucht werden. Was die Ladestation selbst kostet, erklärt der Ratgeber [[/ratgeber/wallbox-kosten/]]. Für die Planung hilft es, solche Vorhaben gleich mitzunennen, damit der Schrank nur einmal umgebaut wird."
     },
     {
       "h2": "Elektroinstallation Kosten: was den Preis bestimmt",
-      "text": "Den größten Unterschied machen Ausstattung und Aufwand in der Wand. Die RAL-RG 678, auf die haustec.de verweist, unterscheidet drei Ausstattungswerte: Mindest, Standard und Komfort. Sie legen fest, wie viele Steckdosen, Lichtauslässe und Anschlüsse je Raum vorgesehen sind; jede zusätzliche Dose bedeutet Material, Schlitz und Arbeitszeit. Bei Schaltern und Steckdosen reicht die Bandbreite vom Standardprogramm bis zu deutlich teureren Designserien. Ein weiterer Faktor ist die Frage, ob Leitungen unter Putz in neue Schlitze gelegt werden oder in vorhandenen Rohren getauscht werden können. Unter Putz verlegte Leitungen bedeuten Stemm-, Putz- und Malerarbeiten, die oft andere Gewerke übernehmen und die im Elektroangebot nicht enthalten sind. Wer eine Gebäudesystemtechnik für Licht, Beschattung und Heizung plant, liegt deutlich höher: haustec.de nennt für eine komplette KNX-Installation im Eigenheim durchschnittlich 20.000 Euro. Leuchten und Haushaltsgeräte sind in den genannten Richtwerten nicht enthalten."
+      "text": "Den größten Unterschied machen Ausstattung und Aufwand in der Wand. Die RAL-RG 678, auf die haustec.de verweist, unterscheidet drei Ausstattungswerte: Mindest, Standard und Komfort. Sie legen fest, wie viele Steckdosen, Lichtauslässe und Anschlüsse je Raum vorgesehen sind; jede zusätzliche Dose bedeutet Material, Schlitz und Arbeitszeit. Bei Schaltern und Steckdosen reicht die Bandbreite vom Standardprogramm bis zu deutlich teureren Designserien. Ein weiterer Faktor ist die Frage, ob Leitungen unter Putz in neue Schlitze gelegt werden oder in vorhandenen Rohren getauscht werden können. Unter Putz verlegte Leitungen bedeuten Stemm-, Putz- und Malerarbeiten, die oft andere Gewerke übernehmen und die im Elektroangebot nicht enthalten sind. Wer eine Gebäudesystemtechnik für Licht, Beschattung und Heizung plant, liegt deutlich höher: haustec.de nennt (Stand der Seite 10/2025) für eine konventionelle Elektroinstallation im Eigenheim ca. 5.000 Euro, für eine komplette KNX-Installation durchschnittlich 20.000 Euro. Leuchten und Haushaltsgeräte sind in den genannten Richtwerten nicht enthalten."
     },
     {
       "h2": "So wird das Angebot vergleichbar",
@@ -41,26 +69,82 @@
     }
   ],
   "faq": [
-    { "q": "Kann man die Elektrik erneuern, während man im Haus wohnt?", "a": "Grundsätzlich ja, wenn Raum für Raum gearbeitet wird und die Stromversorgung abschnittsweise erhalten bleibt. Durch Stemmarbeiten entstehen allerdings Staub und Lärm, deshalb wählen viele Eigentümer dafür den Zeitraum vor dem Einzug oder eine größere Renovierung." },
-    { "q": "Was kostet die Elektrik für ein Einfamilienhaus mit 150 Quadratmetern?", "a": "Bei 100 bis 170 Euro je Quadratmeter ergibt sich rechnerisch eine Spanne von 15.000 bis 25.500 Euro. Der tatsächliche Preis hängt von Ausstattung, Zustand der Wände und dem Zählerschrank ab." },
-    { "q": "Muss der Zählerschrank immer mit erneuert werden?", "a": "Nicht immer. Ein Umbau wird vor allem dann nötig, wenn für einen digitalen Zähler, eine Photovoltaikanlage oder eine Wallbox Platz oder Schutzeinrichtungen fehlen; das zeigt sich bei der Prüfung der Anlage." },
-    { "q": "Wie lange hält eine Elektroinstallation?", "a": "Die Bausparkasse Schwäbisch Hall nennt für die Elektrik eine Lebensdauer von bis zu 40 Jahren. Danach entspricht die Anlage häufig nicht mehr dem Stand der Technik, auch wenn sie noch funktioniert." },
-    { "q": "Warum sind die Preise für Elektroarbeiten gestiegen?", "a": "Laut Statistischem Bundesamt lagen die Preise für Elektro-, Sicherheits- und informationstechnische Anlagen im Mai 2026 um 6,4 % über dem Vorjahresmonat. Ältere Durchschnittswerte aus dem Internet bilden das oft nicht ab." }
+    {
+      "q": "Kann man die Elektrik erneuern, während man im Haus wohnt?",
+      "a": "Grundsätzlich ja, wenn Raum für Raum gearbeitet wird und die Stromversorgung abschnittsweise erhalten bleibt. Durch Stemmarbeiten entstehen allerdings Staub und Lärm, deshalb wählen viele Eigentümer dafür den Zeitraum vor dem Einzug oder eine größere Renovierung."
+    },
+    {
+      "q": "Was kostet die Elektrik für ein Einfamilienhaus mit 150 Quadratmetern?",
+      "a": "Bei 100 bis 170 Euro je Quadratmeter ergibt sich rechnerisch eine Spanne von 15.000 bis 25.500 Euro. Der tatsächliche Preis hängt von Ausstattung, Zustand der Wände und dem Zählerschrank ab."
+    },
+    {
+      "q": "Muss der Zählerschrank immer mit erneuert werden?",
+      "a": "Nicht immer. Ein Umbau wird vor allem dann nötig, wenn für einen digitalen Zähler, eine Photovoltaikanlage oder eine Wallbox Platz oder Schutzeinrichtungen fehlen; das zeigt sich bei der Prüfung der Anlage."
+    },
+    {
+      "q": "Wie lange hält eine Elektroinstallation?",
+      "a": "Die Bausparkasse Schwäbisch Hall nennt für die Elektrik eine Lebensdauer von bis zu 40 Jahren. Danach entspricht die Anlage häufig nicht mehr dem Stand der Technik, auch wenn sie noch funktioniert."
+    },
+    {
+      "q": "Wer trägt die Kosten, wenn der Zählerschrank für einen Smart Meter umgebaut werden muss?",
+      "a": "Laut ADAC tragen die Kosten für Erweiterung oder Austausch des Zählerschranks die Eigentümer der Häuser und Wohnungen; Mieter dürfen dafür nach ADAC nicht zur Kasse gebeten werden. Der Pflichteinbau des Zählers selbst ist nach ADAC darüber hinaus kostenfrei."
+    }
   ],
-  "verwandt": ["wallbox-kosten", "photovoltaik-kosten"],
+  "verwandt": [
+    "wallbox-kosten",
+    "photovoltaik-kosten"
+  ],
   "quellen": [
-    { "titel": "Kostenüberblick: Modernisierung, Sanierung und Renovierung", "herausgeber": "Sparkassen-Finanzgruppe (sparkasse.de)", "url": "https://www.sparkasse.de/pk/ratgeber/wohnen/immobilie-modernisieren/modernisierungskosten.html", "abruf": "2026-10-02" },
-    { "titel": "Kernsanierung: Kosten, Dauer und Ablauf", "herausgeber": "LBS (Stand 28.09.2026)", "url": "https://www.lbs.de/modernisieren/sanieren/kernsanierung", "abruf": "2026-10-02" },
-    { "titel": "Elektrik erneuern: Kosten im Altbau", "herausgeber": "haustec.de (aktualisiert 16.10.2025)", "url": "https://www.haustec.de/energie/wie-viel-kostet-eine-neue-elektroinstallation-im-altbau", "abruf": "2026-10-02" },
-    { "titel": "Smart Meter: Das müssen Haushalte für den digitalen Stromzähler zahlen", "herausgeber": "ADAC (Stand 21.08.2026)", "url": "https://www.adac.de/rund-ums-haus/energie/versorgung/smart-meter-intelligenter-stromzaehler/", "abruf": "2026-10-02" },
-    { "titel": "Smart Meter: Was Sie über die Stromzähler wissen müssen", "herausgeber": "Verbraucherzentrale Bundesverband", "url": "https://www.verbraucherzentrale.de/wissen/energie/preise-tarife-anbieterwechsel/smart-meter-was-sie-ueber-die-stromzaehler-wissen-muessen-13275", "abruf": "2026-10-02" },
-    { "titel": "Kernsanierung: Maßnahmen, Kosten, Finanzierung", "herausgeber": "Bausparkasse Schwäbisch Hall", "url": "https://www.schwaebisch-hall.de/ratgeber/sanierungstipps/kernsanierung.html", "abruf": "2026-10-02" },
-    { "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
+    {
+      "titel": "Kostenüberblick: Modernisierung, Sanierung und Renovierung",
+      "herausgeber": "Sparkassen-Finanzgruppe (sparkasse.de)",
+      "url": "https://www.sparkasse.de/pk/ratgeber/wohnen/immobilie-modernisieren/modernisierungskosten.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Kernsanierung: Kosten, Dauer und Ablauf",
+      "herausgeber": "LBS (Stand 28.09.2026)",
+      "url": "https://www.lbs.de/modernisieren/sanieren/kernsanierung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Elektrik erneuern: Kosten im Altbau",
+      "herausgeber": "haustec.de (aktualisiert 16.10.2025)",
+      "url": "https://www.haustec.de/energie/wie-viel-kostet-eine-neue-elektroinstallation-im-altbau",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Smart Meter: Das müssen Haushalte für den digitalen Stromzähler zahlen",
+      "herausgeber": "ADAC (Stand 21.08.2026)",
+      "url": "https://www.adac.de/rund-ums-haus/energie/versorgung/smart-meter-intelligenter-stromzaehler/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Smart Meter: Was Sie über die Stromzähler wissen müssen",
+      "herausgeber": "Verbraucherzentrale Bundesverband",
+      "url": "https://www.verbraucherzentrale.de/wissen/energie/preise-tarife-anbieterwechsel/smart-meter-was-sie-ueber-die-stromzaehler-wissen-muessen-13275",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Kernsanierung: Maßnahmen, Kosten, Finanzierung",
+      "herausgeber": "Bausparkasse Schwäbisch Hall",
+      "url": "https://www.schwaebisch-hall.de/ratgeber/sanierungstipps/kernsanierung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025",
+      "herausgeber": "Statistisches Bundesamt",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html",
+      "abruf": "2026-10-02"
+    }
   ],
   "offen": [
-    "haustec-Werte (Grundnetz ca. 3.000 €, Wohnung 1.500–6.000 €, KNX ca. 20.000 €): Seite am 16.10.2025 aktualisiert, Erhebungsjahr der Zahlen nicht angegeben; wirken niedrig im Vergleich zu 100–170 €/m² (Sparkasse/LBS). Deshalb im Hinweis als Untergrenze eingeordnet.",
     "Sparkasse-Seite ohne sichtbares Stand-Datum.",
     "Rechnungen 120 m² (12.000–20.400 €) und 150 m² (15.000–25.500 €) = einfache Multiplikation der Sparkassen-Spanne.",
-    "Aussage zu FI-Schutzschaltern bewusst ohne Pflichtformulierung (keine Rechtsanweisung)."
+    "Aussage zu FI-Schutzschaltern bewusst ohne Pflichtformulierung (keine Rechtsanweisung).",
+    "QA 02.10.: Alle Zahlen gegen Quellen geprüft (Sparkasse 100–170 €/m², LBS 110–170 €/m², haustec 3.000/8.000/1.500–6.000/5.000/20.000 €, ADAC bis 2000 €/Viertel/1965, VZ mehrere tausend Euro, SH bis 40 Jahre, Destatis 6,4 %) – bestätigt.",
+    "QA 02.10.: haustec-Werte als „Angabe haustec, Stand 10/2025“ gekennzeichnet (dateModified 16.10.2025, Erhebungsjahr nicht genannt); Hinweis „als Untergrenze zu lesen“ als eigene Deutung ersetzt.",
+    "QA 02.10.: Kosten-H2 mit Hauptbegriff; H2 „lohnt“ → „ansteht“ (keine Wirtschaftlichkeitsaussage); „Zählerschrank ist oft der erste Teil, der ersetzt werden muss“ entschärft (unbelegt).",
+    "QA 02.10.: FAQ „Warum sind die Preise gestiegen?“ wiederholte den Hinweis wörtlich → ersetzt durch Kostentragung Zählerschrank (wörtlich ADAC, Stand 21.08.2026)."
   ]
 }
