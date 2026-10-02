@@ -24,3 +24,10 @@ test('doppelter Schema-Typ (z. B. zwei FAQPage)', () => {
   const html = gut.replace('</head>', ld + '<script type="application/ld+json">[{"@type":"Service"},{"@type":"FAQPage"}]</script></head>')
   assert.ok(pruefeSeite(html, '/x/').some(f => f.includes('FAQPage')))
 })
+test('OneDrive-Konfliktkopie erkannt', async () => {
+  const { istKonfliktkopie } = await import('./pruefe-seo.mjs')
+  assert.equal(istKonfliktkopie('index-LAPTOP-DEU06RDV.html'), true)
+  assert.equal(istKonfliktkopie('page-LAPTOP-DEU06RDV-LAPTOP-DEU06RDV.js'), true)
+  assert.equal(istKonfliktkopie('index.html'), false)
+  assert.equal(istKonfliktkopie('395-45337087cfcb33c3.js'), false)
+})

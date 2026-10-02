@@ -47,6 +47,19 @@ export default async function Page({ params }: { params: Promise<{ ort: string }
   return <OrtSeite s={s} />
 }
 `
+// Kleine Linkliste für die Client-Leistungsseiten (Abschnitt „<Leistung> nach Ort“): nur Pfad und H1
+// der 12 einwohnerstärksten Orte je Leistung. Würden die Client-Seiten orte.ts importieren, landeten
+// alle Ortsseiten-Texte im JavaScript-Bundle (gefunden im Abschluss-Review: 716-KB-Chunk).
+const einwohner = new Map(JSON.parse(fs.readFileSync(path.join(app, 'inhalte', 'gemeinden-bw.json'), 'utf8')).map((g) => [g.slug, g.einwohner]))
+const seiten = dateien.map((d) => JSON.parse(fs.readFileSync(path.join(ordner, d), 'utf8')))
+const links = {}
+for (const s of seiten) (links[s.leistung] ??= []).push({ pfad: `/leistungen/${s.leistung}/${s.ort}/`, h1: s.h1, ew: einwohner.get(s.ort) ?? 0 })
+for (const l in links) links[l] = links[l].sort((a, b) => b.ew - a.ew).slice(0, 12).map(({ pfad, h1 }) => ({ pfad, h1 }))
+fs.writeFileSync(
+  path.join(ordner, 'links.ts'),
+  `// generiert von scripts/orte-index.mjs — nicht von Hand ändern\nexport const ORTSLINKS: Record<string, { pfad: string; h1: string }[]> = ${JSON.stringify(links, null, 2)}\n`,
+)
+
 const LEISTUNGEN = ['hochbau', 'tiefbau', 'bad-sanitaer', 'innenausbau', 'renovierung-sanierung']
 const mitSeiten = new Set(dateien.map((d) => d.split('--')[0]))
 for (const l of LEISTUNGEN) {

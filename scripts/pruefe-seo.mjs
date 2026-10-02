@@ -8,6 +8,10 @@ import { pathToFileURL } from 'node:url'
 const BASIS = 'https://www.bodensee-baupartner.de'
 const PFLICHT_FOOTER = ['/impressum', '/datenschutz', '/fuer-fachbetriebe']
 
+// OneDrive legt bei Sperren Kopien wie index-LAPTOP-XYZ.html an; ein Upload von out/ mit solchen
+// Kopien liefert veraltete Seiten mit fehlenden Chunks aus.
+export const istKonfliktkopie = (name) => /-LAPTOP-[A-Z0-9]+/i.test(name)
+
 export function pruefeSeite(html, pfad) {
   const f = []
   const title = html.match(/<title>([^<]*)<\/title>/)?.[1]?.trim()
@@ -27,15 +31,18 @@ export function pruefeSeite(html, pfad) {
   return f
 }
 
+const konflikte = []
 function seiten(ordner) {
   const out = []
-  ;(function w(d) {
+  // Konfliktkopien überall suchen (auch _next/), Seiten nur außerhalb von _-Ordnern
+  ;(function w(d, nurKonflikte) {
     for (const x of fs.readdirSync(d)) {
       const p = path.join(d, x)
-      if (fs.statSync(p).isDirectory()) { if (!x.startsWith('_')) w(p) }
-      else if (x === 'index.html') out.push(p)
+      if (fs.statSync(p).isDirectory()) w(p, nurKonflikte || x.startsWith('_'))
+      else if (istKonfliktkopie(x)) konflikte.push(p)
+      else if (x === 'index.html' && !nurKonflikte) out.push(p)
     }
-  })(ordner)
+  })(ordner, false)
   return out
 }
 
@@ -55,6 +62,7 @@ if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) 
     if (t) { if (titles.has(t)) { console.log(`FEHLER doppelter Title: ${pfad} = ${titles.get(t)}`); fehler++ } titles.set(t, pfad) }
     if (d) { if (descs.has(d)) { console.log(`FEHLER doppelte Description: ${pfad} = ${descs.get(d)}`); fehler++ } descs.set(d, pfad) }
   }
+  for (const k of konflikte) { console.log(`FEHLER OneDrive-Konfliktkopie: ${k}`); fehler++ }
   console.log(`${n} Seiten geprüft, ${fehler} Fehler`)
   process.exit(fehler ? 1 : 0)
 }

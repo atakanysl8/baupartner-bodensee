@@ -1,11 +1,12 @@
 import { LEISTUNGEN, type LeistungSlug } from '../inhalte/leistungen'
-import { seitenFuer, pfad, einwohner } from '../inhalte/orte'
+import { ORTSLINKS } from '../inhalte/orte/links'
 
 // Abschnitt „<Leistung> nach Ort“ auf einer Leistungsseite: die bis zu 12 einwohnerstärksten
-// Ortsseiten dieser Leistung plus Link auf die Gesamtübersicht. Reines Datenmodul, daher auch
-// in den Client-Leistungsseiten nutzbar; rendert nichts, wenn die Leistung keine Ortsseiten hat.
+// Ortsseiten dieser Leistung plus Link auf die Gesamtübersicht. Die Leistungsseiten sind
+// Client-Komponenten — deshalb nur die kleine, generierte Linkliste importieren, nie orte.ts
+// (sonst landen alle Ortsseiten-Texte im JavaScript-Bundle; Prüfung: scripts/pruefe-bundle.mjs).
 export default function OrteDerLeistung({ leistung }: { leistung: LeistungSlug }) {
-  const seiten = seitenFuer(leistung).sort((a, b) => einwohner(b) - einwohner(a)).slice(0, 12)
+  const seiten = ORTSLINKS[leistung] ?? []
   if (seiten.length === 0) return null
   const name = LEISTUNGEN[leistung].name
   return (
@@ -17,7 +18,7 @@ export default function OrteDerLeistung({ leistung }: { leistung: LeistungSlug }
         </p>
         <ul className="regionen-liste" style={{ marginTop: 16 }}>
           {seiten.map((s) => (
-            <li key={s.ort}><a href={pfad(s)}>{s.h1}</a></li>
+            <li key={s.pfad}><a href={s.pfad}>{s.h1}</a></li>
           ))}
           <li><a href="/regionen/">Alle Orte im Überblick</a></li>
         </ul>
