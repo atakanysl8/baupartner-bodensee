@@ -1,0 +1,83 @@
+[
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "freiburg",
+  "ortName": "Freiburg",
+  "amtlicherName": "Freiburg im Breisgau",
+  "kreis": "Freiburg im Breisgau",
+  "einwohner": 238299,
+  "volumen": 590
+ },
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "offenburg",
+  "ortName": "Offenburg",
+  "amtlicherName": "Offenburg",
+  "kreis": "Ortenaukreis",
+  "einwohner": 63437,
+  "volumen": 210
+ },
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "loerrach",
+  "ortName": "Lörrach",
+  "amtlicherName": "Lörrach",
+  "kreis": "Lörrach",
+  "einwohner": 51274,
+  "volumen": 170
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "freiburg",
+  "ortName": "Freiburg",
+  "amtlicherName": "Freiburg im Breisgau",
+  "kreis": "Freiburg im Breisgau",
+  "einwohner": 238299,
+  "volumen": 530
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "offenburg",
+  "ortName": "Offenburg",
+  "amtlicherName": "Offenburg",
+  "kreis": "Ortenaukreis",
+  "einwohner": 63437,
+  "volumen": 500
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "loerrach",
+  "ortName": "Lörrach",
+  "amtlicherName": "Lörrach",
+  "kreis": "Lörrach",
+  "einwohner": 51274,
+  "volumen": 210
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "freiburg",
+  "ortName": "Freiburg",
+  "amtlicherName": "Freiburg im Breisgau",
+  "kreis": "Freiburg im Breisgau",
+  "einwohner": 238299,
+  "volumen": 320
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "offenburg",
+  "ortName": "Offenburg",
+  "amtlicherName": "Offenburg",
+  "kreis": "Ortenaukreis",
+  "einwohner": 63437,
+  "volumen": 90
+ },
+ {
+  "leistung": "heizung-waermepumpe",
+  "ort": "freiburg",
+  "ortName": "Freiburg",
+  "amtlicherName": "Freiburg im Breisgau",
+  "kreis": "Freiburg im Breisgau",
+  "einwohner": 238299,
+  "volumen": 160
+ }
+]

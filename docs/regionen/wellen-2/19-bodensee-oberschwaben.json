@@ -1,0 +1,83 @@
+[
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "konstanz",
+  "ortName": "Konstanz",
+  "amtlicherName": "Konstanz",
+  "kreis": "Konstanz",
+  "einwohner": 86691,
+  "volumen": 320
+ },
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "ravensburg",
+  "ortName": "Ravensburg",
+  "amtlicherName": "Ravensburg",
+  "kreis": "Ravensburg",
+  "einwohner": 50549,
+  "volumen": 170
+ },
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "singen",
+  "ortName": "Singen",
+  "amtlicherName": "Singen (Hohentwiel)",
+  "kreis": "Konstanz",
+  "einwohner": 48089,
+  "volumen": 170
+ },
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "tuttlingen",
+  "ortName": "Tuttlingen",
+  "amtlicherName": "Tuttlingen",
+  "kreis": "Tuttlingen",
+  "einwohner": 37093,
+  "volumen": 170
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "konstanz",
+  "ortName": "Konstanz",
+  "amtlicherName": "Konstanz",
+  "kreis": "Konstanz",
+  "einwohner": 86691,
+  "volumen": 320
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "friedrichshafen",
+  "ortName": "Friedrichshafen",
+  "amtlicherName": "Friedrichshafen",
+  "kreis": "Bodenseekreis",
+  "einwohner": 62781,
+  "volumen": 180
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "ravensburg",
+  "ortName": "Ravensburg",
+  "amtlicherName": "Ravensburg",
+  "kreis": "Ravensburg",
+  "einwohner": 50549,
+  "volumen": 350
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "konstanz",
+  "ortName": "Konstanz",
+  "amtlicherName": "Konstanz",
+  "kreis": "Konstanz",
+  "einwohner": 86691,
+  "volumen": 90
+ },
+ {
+  "leistung": "garten-aussenanlagen",
+  "ort": "ravensburg",
+  "ortName": "Ravensburg",
+  "amtlicherName": "Ravensburg",
+  "kreis": "Ravensburg",
+  "einwohner": 50549,
+  "volumen": 90
+ }
+]

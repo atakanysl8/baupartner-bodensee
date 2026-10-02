@@ -1,0 +1,83 @@
+[
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "heilbronn",
+  "ortName": "Heilbronn",
+  "amtlicherName": "Heilbronn",
+  "kreis": "Heilbronn",
+  "einwohner": 132516,
+  "volumen": 590
+ },
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "ludwigsburg",
+  "ortName": "Ludwigsburg",
+  "amtlicherName": "Ludwigsburg",
+  "kreis": "Ludwigsburg",
+  "einwohner": 93002,
+  "volumen": 320
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "heilbronn",
+  "ortName": "Heilbronn",
+  "amtlicherName": "Heilbronn",
+  "kreis": "Heilbronn",
+  "einwohner": 132516,
+  "volumen": 600
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "ludwigsburg",
+  "ortName": "Ludwigsburg",
+  "amtlicherName": "Ludwigsburg",
+  "kreis": "Ludwigsburg",
+  "einwohner": 93002,
+  "volumen": 350
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "kornwestheim",
+  "ortName": "Kornwestheim",
+  "amtlicherName": "Kornwestheim",
+  "kreis": "Ludwigsburg",
+  "einwohner": 34149,
+  "volumen": 180
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "heilbronn",
+  "ortName": "Heilbronn",
+  "amtlicherName": "Heilbronn",
+  "kreis": "Heilbronn",
+  "einwohner": 132516,
+  "volumen": 260
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "ludwigsburg",
+  "ortName": "Ludwigsburg",
+  "amtlicherName": "Ludwigsburg",
+  "kreis": "Ludwigsburg",
+  "einwohner": 93002,
+  "volumen": 170
+ },
+ {
+  "leistung": "heizung-waermepumpe",
+  "ort": "heilbronn",
+  "ortName": "Heilbronn",
+  "amtlicherName": "Heilbronn",
+  "kreis": "Heilbronn",
+  "einwohner": 132516,
+  "volumen": 90
+ },
+ {
+  "leistung": "garten-aussenanlagen",
+  "ort": "heilbronn",
+  "ortName": "Heilbronn",
+  "amtlicherName": "Heilbronn",
+  "kreis": "Heilbronn",
+  "einwohner": 132516,
+  "volumen": 70
+ }
+]

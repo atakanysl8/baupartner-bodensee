@@ -1,0 +1,65 @@
+[
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "heidelberg",
+  "ortName": "Heidelberg",
+  "amtlicherName": "Heidelberg",
+  "kreis": "Heidelberg",
+  "einwohner": 156092,
+  "volumen": 320
+ },
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "pforzheim",
+  "ortName": "Pforzheim",
+  "amtlicherName": "Pforzheim",
+  "kreis": "Pforzheim",
+  "einwohner": 134422,
+  "volumen": 480
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "heidelberg",
+  "ortName": "Heidelberg",
+  "amtlicherName": "Heidelberg",
+  "kreis": "Heidelberg",
+  "einwohner": 156092,
+  "volumen": 340
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "pforzheim",
+  "ortName": "Pforzheim",
+  "amtlicherName": "Pforzheim",
+  "kreis": "Pforzheim",
+  "einwohner": 134422,
+  "volumen": 340
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "heidelberg",
+  "ortName": "Heidelberg",
+  "amtlicherName": "Heidelberg",
+  "kreis": "Heidelberg",
+  "einwohner": 156092,
+  "volumen": 260
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "pforzheim",
+  "ortName": "Pforzheim",
+  "amtlicherName": "Pforzheim",
+  "kreis": "Pforzheim",
+  "einwohner": 134422,
+  "volumen": 210
+ },
+ {
+  "leistung": "heizung-waermepumpe",
+  "ort": "heidelberg",
+  "ortName": "Heidelberg",
+  "amtlicherName": "Heidelberg",
+  "kreis": "Heidelberg",
+  "einwohner": 156092,
+  "volumen": 120
+ }
+]

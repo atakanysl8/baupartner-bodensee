@@ -1,0 +1,92 @@
+[
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "karlsruhe",
+  "ortName": "Karlsruhe",
+  "amtlicherName": "Karlsruhe",
+  "kreis": "Karlsruhe",
+  "einwohner": 309247,
+  "volumen": 880
+ },
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "bruchsal",
+  "ortName": "Bruchsal",
+  "amtlicherName": "Bruchsal",
+  "kreis": "Karlsruhe",
+  "einwohner": 47578,
+  "volumen": 170
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "karlsruhe",
+  "ortName": "Karlsruhe",
+  "amtlicherName": "Karlsruhe",
+  "kreis": "Karlsruhe",
+  "einwohner": 309247,
+  "volumen": 800
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "baden-baden",
+  "ortName": "Baden-Baden",
+  "amtlicherName": "Baden-Baden",
+  "kreis": "Baden-Baden",
+  "einwohner": 56952,
+  "volumen": 190
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "rastatt",
+  "ortName": "Rastatt",
+  "amtlicherName": "Rastatt",
+  "kreis": "Rastatt",
+  "einwohner": 50753,
+  "volumen": 160
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "karlsruhe",
+  "ortName": "Karlsruhe",
+  "amtlicherName": "Karlsruhe",
+  "kreis": "Karlsruhe",
+  "einwohner": 309247,
+  "volumen": 590
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "bruchsal",
+  "ortName": "Bruchsal",
+  "amtlicherName": "Bruchsal",
+  "kreis": "Karlsruhe",
+  "einwohner": 47578,
+  "volumen": 90
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "ettlingen",
+  "ortName": "Ettlingen",
+  "amtlicherName": "Ettlingen",
+  "kreis": "Karlsruhe",
+  "einwohner": 38557,
+  "volumen": 90
+ },
+ {
+  "leistung": "heizung-waermepumpe",
+  "ort": "karlsruhe",
+  "ortName": "Karlsruhe",
+  "amtlicherName": "Karlsruhe",
+  "kreis": "Karlsruhe",
+  "einwohner": 309247,
+  "volumen": 380
+ },
+ {
+  "leistung": "garten-aussenanlagen",
+  "ort": "karlsruhe",
+  "ortName": "Karlsruhe",
+  "amtlicherName": "Karlsruhe",
+  "kreis": "Karlsruhe",
+  "einwohner": 309247,
+  "volumen": 70
+ }
+]

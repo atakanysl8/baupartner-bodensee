@@ -8,7 +8,8 @@
   "einwohner": 609365,
   "volumen": 880,
   "stufe": "P1",
-  "begruendung": "elektriker 880 (commercial)"
+  "begruendung": "elektriker 880 (commercial)",
+  "amtlicherName": "Stuttgart"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -19,7 +20,8 @@
   "einwohner": 319536,
   "volumen": 720,
   "stufe": "P1",
-  "begruendung": "elektriker 720 (navigational)"
+  "begruendung": "elektriker 720 (navigational)",
+  "amtlicherName": "Mannheim"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -30,18 +32,20 @@
   "einwohner": 309247,
   "volumen": 880,
   "stufe": "P1",
-  "begruendung": "elektriker 880 (commercial)"
+  "begruendung": "elektriker 880 (commercial)",
+  "amtlicherName": "Karlsruhe"
  },
  {
   "leistung": "elektro-photovoltaik",
   "ort": "freiburg",
-  "ortName": "Freiburg im Breisgau",
+  "ortName": "Freiburg",
   "such": "Freiburg",
   "kreis": "Freiburg im Breisgau",
   "einwohner": 238299,
   "volumen": 590,
   "stufe": "P1",
-  "begruendung": "elektriker 590 (commercial)"
+  "begruendung": "elektriker 590 (commercial)",
+  "amtlicherName": "Freiburg im Breisgau"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -52,7 +56,8 @@
   "einwohner": 156092,
   "volumen": 320,
   "stufe": "P2",
-  "begruendung": "elektriker 320 (commercial)"
+  "begruendung": "elektriker 320 (commercial)",
+  "amtlicherName": "Heidelberg"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -63,7 +68,8 @@
   "einwohner": 134422,
   "volumen": 480,
   "stufe": "P1",
-  "begruendung": "elektriker 480 (commercial)"
+  "begruendung": "elektriker 480 (commercial)",
+  "amtlicherName": "Pforzheim"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -74,7 +80,8 @@
   "einwohner": 132516,
   "volumen": 590,
   "stufe": "P1",
-  "begruendung": "elektriker 590 (commercial)"
+  "begruendung": "elektriker 590 (commercial)",
+  "amtlicherName": "Heilbronn"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -85,7 +92,8 @@
   "einwohner": 130288,
   "volumen": 480,
   "stufe": "P1",
-  "begruendung": "elektriker 480 (navigational)"
+  "begruendung": "elektriker 480 (navigational)",
+  "amtlicherName": "Ulm"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -96,18 +104,20 @@
   "einwohner": 119040,
   "volumen": 390,
   "stufe": "P1",
-  "begruendung": "elektriker 390 (navigational)"
+  "begruendung": "elektriker 390 (navigational)",
+  "amtlicherName": "Reutlingen"
  },
  {
   "leistung": "elektro-photovoltaik",
   "ort": "esslingen",
-  "ortName": "Esslingen am Neckar",
+  "ortName": "Esslingen",
   "such": "Esslingen",
   "kreis": "Esslingen",
   "einwohner": 95419,
   "volumen": 260,
   "stufe": "P2",
-  "begruendung": "elektriker 260 (commercial)"
+  "begruendung": "elektriker 260 (commercial)",
+  "amtlicherName": "Esslingen am Neckar"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -118,7 +128,8 @@
   "einwohner": 93002,
   "volumen": 320,
   "stufe": "P2",
-  "begruendung": "elektriker 320 (commercial)"
+  "begruendung": "elektriker 320 (commercial)",
+  "amtlicherName": "Ludwigsburg"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -129,7 +140,8 @@
   "einwohner": 92607,
   "volumen": 320,
   "stufe": "P2",
-  "begruendung": "elektriker 320 (commercial)"
+  "begruendung": "elektriker 320 (commercial)",
+  "amtlicherName": "Tübingen"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -140,7 +152,8 @@
   "einwohner": 86691,
   "volumen": 320,
   "stufe": "P2",
-  "begruendung": "elektriker 320 (navigational)"
+  "begruendung": "elektriker 320 (navigational)",
+  "amtlicherName": "Konstanz"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -151,7 +164,8 @@
   "einwohner": 67675,
   "volumen": 210,
   "stufe": "P2",
-  "begruendung": "elektriker 210 (navigational)"
+  "begruendung": "elektriker 210 (navigational)",
+  "amtlicherName": "Aalen"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -162,7 +176,8 @@
   "einwohner": 63930,
   "volumen": 260,
   "stufe": "P2",
-  "begruendung": "elektriker 260 (commercial)"
+  "begruendung": "elektriker 260 (commercial)",
+  "amtlicherName": "Schwäbisch Gmünd"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -173,7 +188,8 @@
   "einwohner": 63437,
   "volumen": 210,
   "stufe": "P2",
-  "begruendung": "elektriker 210 (commercial)"
+  "begruendung": "elektriker 210 (commercial)",
+  "amtlicherName": "Offenburg"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -184,7 +200,8 @@
   "einwohner": 61428,
   "volumen": 170,
   "stufe": "P2",
-  "begruendung": "elektriker 170 (navigational)"
+  "begruendung": "elektriker 170 (navigational)",
+  "amtlicherName": "Sindelfingen"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -195,7 +212,8 @@
   "einwohner": 58678,
   "volumen": 210,
   "stufe": "P2",
-  "begruendung": "elektriker 210 (navigational)"
+  "begruendung": "elektriker 210 (navigational)",
+  "amtlicherName": "Göppingen"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -206,7 +224,8 @@
   "einwohner": 57186,
   "volumen": 170,
   "stufe": "P2",
-  "begruendung": "elektriker 170 (commercial)"
+  "begruendung": "elektriker 170 (commercial)",
+  "amtlicherName": "Waiblingen"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -217,7 +236,8 @@
   "einwohner": 51274,
   "volumen": 170,
   "stufe": "P2",
-  "begruendung": "elektriker 170 (navigational)"
+  "begruendung": "elektriker 170 (navigational)",
+  "amtlicherName": "Lörrach"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -228,7 +248,8 @@
   "einwohner": 51204,
   "volumen": 170,
   "stufe": "P2",
-  "begruendung": "elektriker 170 (commercial)"
+  "begruendung": "elektriker 170 (commercial)",
+  "amtlicherName": "Böblingen"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -239,7 +260,8 @@
   "einwohner": 50549,
   "volumen": 170,
   "stufe": "P2",
-  "begruendung": "elektriker 170 (commercial)"
+  "begruendung": "elektriker 170 (commercial)",
+  "amtlicherName": "Ravensburg"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -250,18 +272,20 @@
   "einwohner": 49514,
   "volumen": 170,
   "stufe": "P2",
-  "begruendung": "elektriker 170 (navigational)"
+  "begruendung": "elektriker 170 (navigational)",
+  "amtlicherName": "Leonberg"
  },
  {
   "leistung": "elektro-photovoltaik",
   "ort": "singen",
-  "ortName": "Singen (Hohentwiel)",
+  "ortName": "Singen",
   "such": "Singen",
   "kreis": "Konstanz",
   "einwohner": 48089,
   "volumen": 170,
   "stufe": "P2",
-  "begruendung": "elektriker 170 (informational)"
+  "begruendung": "elektriker 170 (informational)",
+  "amtlicherName": "Singen (Hohentwiel)"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -272,7 +296,8 @@
   "einwohner": 47578,
   "volumen": 170,
   "stufe": "P2",
-  "begruendung": "elektriker 170 (navigational)"
+  "begruendung": "elektriker 170 (navigational)",
+  "amtlicherName": "Bruchsal"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -283,7 +308,8 @@
   "einwohner": 46659,
   "volumen": 170,
   "stufe": "P2",
-  "begruendung": "elektriker 170 (navigational)"
+  "begruendung": "elektriker 170 (navigational)",
+  "amtlicherName": "Fellbach"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -294,7 +320,8 @@
   "einwohner": 41469,
   "volumen": 210,
   "stufe": "P2",
-  "begruendung": "elektriker 210 (navigational)"
+  "begruendung": "elektriker 210 (navigational)",
+  "amtlicherName": "Schorndorf"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -305,7 +332,8 @@
   "einwohner": 40898,
   "volumen": 170,
   "stufe": "P2",
-  "begruendung": "elektriker 170 (navigational)"
+  "begruendung": "elektriker 170 (navigational)",
+  "amtlicherName": "Nürtingen"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -316,7 +344,8 @@
   "einwohner": 38615,
   "volumen": 170,
   "stufe": "P2",
-  "begruendung": "elektriker 170 (transactional)"
+  "begruendung": "elektriker 170 (transactional)",
+  "amtlicherName": "Backnang"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -327,7 +356,8 @@
   "einwohner": 37093,
   "volumen": 170,
   "stufe": "P2",
-  "begruendung": "elektriker 170 (commercial)"
+  "begruendung": "elektriker 170 (commercial)",
+  "amtlicherName": "Tuttlingen"
  },
  {
   "leistung": "elektro-photovoltaik",
@@ -338,7 +368,8 @@
   "einwohner": 35744,
   "volumen": 170,
   "stufe": "P2",
-  "begruendung": "elektriker 170 (navigational)"
+  "begruendung": "elektriker 170 (navigational)",
+  "amtlicherName": "Balingen"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -349,7 +380,8 @@
   "einwohner": 609365,
   "volumen": 1360,
   "stufe": "P1",
-  "begruendung": "maler 880 (commercial) + fliesenleger 480 (commercial)"
+  "begruendung": "maler 880 (commercial) + fliesenleger 480 (commercial)",
+  "amtlicherName": "Stuttgart"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -360,7 +392,8 @@
   "einwohner": 319536,
   "volumen": 580,
   "stufe": "P1",
-  "begruendung": "maler 260 (navigational) + fliesenleger 320 (commercial)"
+  "begruendung": "maler 260 (navigational) + fliesenleger 320 (commercial)",
+  "amtlicherName": "Mannheim"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -371,18 +404,20 @@
   "einwohner": 309247,
   "volumen": 800,
   "stufe": "P1",
-  "begruendung": "maler 480 (commercial) + fliesenleger 320 (commercial)"
+  "begruendung": "maler 480 (commercial) + fliesenleger 320 (commercial)",
+  "amtlicherName": "Karlsruhe"
  },
  {
   "leistung": "maler-fliesen-boeden",
   "ort": "freiburg",
-  "ortName": "Freiburg im Breisgau",
+  "ortName": "Freiburg",
   "such": "Freiburg",
   "kreis": "Freiburg im Breisgau",
   "einwohner": 238299,
   "volumen": 530,
   "stufe": "P1",
-  "begruendung": "maler 320 (navigational) + fliesenleger 210 (commercial)"
+  "begruendung": "maler 320 (navigational) + fliesenleger 210 (commercial)",
+  "amtlicherName": "Freiburg im Breisgau"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -393,7 +428,8 @@
   "einwohner": 156092,
   "volumen": 340,
   "stufe": "P1",
-  "begruendung": "maler 170 (navigational) + fliesenleger 170 (commercial)"
+  "begruendung": "maler 170 (navigational) + fliesenleger 170 (commercial)",
+  "amtlicherName": "Heidelberg"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -404,7 +440,8 @@
   "einwohner": 134422,
   "volumen": 340,
   "stufe": "P1",
-  "begruendung": "maler 170 (navigational) + fliesenleger 170 (commercial)"
+  "begruendung": "maler 170 (navigational) + fliesenleger 170 (commercial)",
+  "amtlicherName": "Pforzheim"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -415,7 +452,8 @@
   "einwohner": 132516,
   "volumen": 600,
   "stufe": "P1",
-  "begruendung": "maler 390 (navigational) + fliesenleger 210 (commercial)"
+  "begruendung": "maler 390 (navigational) + fliesenleger 210 (commercial)",
+  "amtlicherName": "Heilbronn"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -426,7 +464,8 @@
   "einwohner": 130288,
   "volumen": 420,
   "stufe": "P1",
-  "begruendung": "maler 210 (navigational) + fliesenleger 210 (commercial)"
+  "begruendung": "maler 210 (navigational) + fliesenleger 210 (commercial)",
+  "amtlicherName": "Ulm"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -437,18 +476,20 @@
   "einwohner": 119040,
   "volumen": 350,
   "stufe": "P1",
-  "begruendung": "maler 210 (navigational) + fliesenleger 140 (navigational)"
+  "begruendung": "maler 210 (navigational) + fliesenleger 140 (navigational)",
+  "amtlicherName": "Reutlingen"
  },
  {
   "leistung": "maler-fliesen-boeden",
   "ort": "esslingen",
-  "ortName": "Esslingen am Neckar",
+  "ortName": "Esslingen",
   "such": "Esslingen",
   "kreis": "Esslingen",
   "einwohner": 95419,
   "volumen": 200,
   "stufe": "P2",
-  "begruendung": "maler 110 (commercial) + fliesenleger 90 (commercial)"
+  "begruendung": "maler 110 (commercial) + fliesenleger 90 (commercial)",
+  "amtlicherName": "Esslingen am Neckar"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -459,7 +500,8 @@
   "einwohner": 93002,
   "volumen": 350,
   "stufe": "P1",
-  "begruendung": "maler 210 (commercial) + fliesenleger 140 (commercial)"
+  "begruendung": "maler 210 (commercial) + fliesenleger 140 (commercial)",
+  "amtlicherName": "Ludwigsburg"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -470,7 +512,8 @@
   "einwohner": 92607,
   "volumen": 230,
   "stufe": "P2",
-  "begruendung": "maler 140 (navigational) + fliesenleger 90 (commercial)"
+  "begruendung": "maler 140 (navigational) + fliesenleger 90 (commercial)",
+  "amtlicherName": "Tübingen"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -481,7 +524,8 @@
   "einwohner": 86691,
   "volumen": 320,
   "stufe": "P1",
-  "begruendung": "maler 210 (informational) + fliesenleger 110 (navigational)"
+  "begruendung": "maler 210 (informational) + fliesenleger 110 (navigational)",
+  "amtlicherName": "Konstanz"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -492,7 +536,8 @@
   "einwohner": 67675,
   "volumen": 180,
   "stufe": "P2",
-  "begruendung": "maler 90 (navigational) + fliesenleger 90 (commercial)"
+  "begruendung": "maler 90 (navigational) + fliesenleger 90 (commercial)",
+  "amtlicherName": "Aalen"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -503,7 +548,8 @@
   "einwohner": 63930,
   "volumen": 180,
   "stufe": "P2",
-  "begruendung": "maler 110 (navigational) + fliesenleger 70 (navigational)"
+  "begruendung": "maler 110 (navigational) + fliesenleger 70 (navigational)",
+  "amtlicherName": "Schwäbisch Gmünd"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -514,7 +560,8 @@
   "einwohner": 63437,
   "volumen": 500,
   "stufe": "P1",
-  "begruendung": "maler 110 (navigational) + fliesenleger 390 (commercial)"
+  "begruendung": "maler 110 (navigational) + fliesenleger 390 (commercial)",
+  "amtlicherName": "Offenburg"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -525,7 +572,8 @@
   "einwohner": 62781,
   "volumen": 180,
   "stufe": "P2",
-  "begruendung": "maler 110 (commercial) + fliesenleger 70 (commercial)"
+  "begruendung": "maler 110 (commercial) + fliesenleger 70 (commercial)",
+  "amtlicherName": "Friedrichshafen"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -536,7 +584,8 @@
   "einwohner": 58678,
   "volumen": 200,
   "stufe": "P2",
-  "begruendung": "maler 110 (navigational) + fliesenleger 90 (commercial)"
+  "begruendung": "maler 110 (navigational) + fliesenleger 90 (commercial)",
+  "amtlicherName": "Göppingen"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -547,7 +596,8 @@
   "einwohner": 57186,
   "volumen": 230,
   "stufe": "P2",
-  "begruendung": "maler 140 (navigational) + fliesenleger 90 (commercial)"
+  "begruendung": "maler 140 (navigational) + fliesenleger 90 (commercial)",
+  "amtlicherName": "Waiblingen"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -558,7 +608,8 @@
   "einwohner": 56952,
   "volumen": 190,
   "stufe": "P2",
-  "begruendung": "maler 140 (commercial) + fliesenleger 50 (commercial)"
+  "begruendung": "maler 140 (commercial) + fliesenleger 50 (commercial)",
+  "amtlicherName": "Baden-Baden"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -569,7 +620,8 @@
   "einwohner": 51274,
   "volumen": 210,
   "stufe": "P2",
-  "begruendung": "maler 140 (navigational) + fliesenleger 70 (navigational)"
+  "begruendung": "maler 140 (navigational) + fliesenleger 70 (navigational)",
+  "amtlicherName": "Lörrach"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -580,7 +632,8 @@
   "einwohner": 51204,
   "volumen": 160,
   "stufe": "P2",
-  "begruendung": "maler 70 (navigational) + fliesenleger 90 (commercial)"
+  "begruendung": "maler 70 (navigational) + fliesenleger 90 (commercial)",
+  "amtlicherName": "Böblingen"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -591,18 +644,20 @@
   "einwohner": 50753,
   "volumen": 160,
   "stufe": "P2",
-  "begruendung": "maler 90 (navigational) + fliesenleger 70 (commercial)"
+  "begruendung": "maler 90 (navigational) + fliesenleger 70 (commercial)",
+  "amtlicherName": "Rastatt"
  },
  {
   "leistung": "maler-fliesen-boeden",
   "ort": "heidenheim",
-  "ortName": "Heidenheim an der Brenz",
+  "ortName": "Heidenheim",
   "such": "Heidenheim",
   "kreis": "Heidenheim",
   "einwohner": 50612,
   "volumen": 160,
   "stufe": "P2",
-  "begruendung": "maler 90 (navigational) + fliesenleger 70 (commercial)"
+  "begruendung": "maler 90 (navigational) + fliesenleger 70 (commercial)",
+  "amtlicherName": "Heidenheim an der Brenz"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -613,7 +668,8 @@
   "einwohner": 50549,
   "volumen": 350,
   "stufe": "P1",
-  "begruendung": "maler 260 (navigational) + fliesenleger 90 (commercial)"
+  "begruendung": "maler 260 (navigational) + fliesenleger 90 (commercial)",
+  "amtlicherName": "Ravensburg"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -624,7 +680,8 @@
   "einwohner": 49514,
   "volumen": 160,
   "stufe": "P2",
-  "begruendung": "maler 90 (navigational) + fliesenleger 70 (commercial)"
+  "begruendung": "maler 90 (navigational) + fliesenleger 70 (commercial)",
+  "amtlicherName": "Leonberg"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -635,7 +692,8 @@
   "einwohner": 46659,
   "volumen": 160,
   "stufe": "P2",
-  "begruendung": "maler 90 (navigational) + fliesenleger 70 (navigational)"
+  "begruendung": "maler 90 (navigational) + fliesenleger 70 (navigational)",
+  "amtlicherName": "Fellbach"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -646,7 +704,8 @@
   "einwohner": 46274,
   "volumen": 180,
   "stufe": "P2",
-  "begruendung": "maler 70 (commercial) + fliesenleger 110 (commercial)"
+  "begruendung": "maler 70 (commercial) + fliesenleger 110 (commercial)",
+  "amtlicherName": "Filderstadt"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -657,7 +716,8 @@
   "einwohner": 41469,
   "volumen": 160,
   "stufe": "P2",
-  "begruendung": "maler 90 (navigational) + fliesenleger 70 (navigational)"
+  "begruendung": "maler 90 (navigational) + fliesenleger 70 (navigational)",
+  "amtlicherName": "Schorndorf"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -668,7 +728,8 @@
   "einwohner": 34149,
   "volumen": 180,
   "stufe": "P2",
-  "begruendung": "maler 90 (navigational) + fliesenleger 90 (navigational)"
+  "begruendung": "maler 90 (navigational) + fliesenleger 90 (navigational)",
+  "amtlicherName": "Kornwestheim"
  },
  {
   "leistung": "maler-fliesen-boeden",
@@ -679,7 +740,8 @@
   "einwohner": 27911,
   "volumen": 200,
   "stufe": "P2",
-  "begruendung": "maler 30 (navigational) + fliesenleger 170 (navigational)"
+  "begruendung": "maler 30 (navigational) + fliesenleger 170 (navigational)",
+  "amtlicherName": "Wiesloch"
  },
  {
   "leistung": "dach-fassade",
@@ -690,7 +752,8 @@
   "einwohner": 609365,
   "volumen": 590,
   "stufe": "P1",
-  "begruendung": "dachdecker 590 (commercial)"
+  "begruendung": "dachdecker 590 (commercial)",
+  "amtlicherName": "Stuttgart"
  },
  {
   "leistung": "dach-fassade",
@@ -701,7 +764,8 @@
   "einwohner": 319536,
   "volumen": 590,
   "stufe": "P1",
-  "begruendung": "dachdecker 590 (commercial)"
+  "begruendung": "dachdecker 590 (commercial)",
+  "amtlicherName": "Mannheim"
  },
  {
   "leistung": "dach-fassade",
@@ -712,18 +776,20 @@
   "einwohner": 309247,
   "volumen": 590,
   "stufe": "P1",
-  "begruendung": "dachdecker 590 (commercial)"
+  "begruendung": "dachdecker 590 (commercial)",
+  "amtlicherName": "Karlsruhe"
  },
  {
   "leistung": "dach-fassade",
   "ort": "freiburg",
-  "ortName": "Freiburg im Breisgau",
+  "ortName": "Freiburg",
   "such": "Freiburg",
   "kreis": "Freiburg im Breisgau",
   "einwohner": 238299,
   "volumen": 320,
   "stufe": "P1",
-  "begruendung": "dachdecker 320 (navigational)"
+  "begruendung": "dachdecker 320 (navigational)",
+  "amtlicherName": "Freiburg im Breisgau"
  },
  {
   "leistung": "dach-fassade",
@@ -734,7 +800,8 @@
   "einwohner": 156092,
   "volumen": 260,
   "stufe": "P1",
-  "begruendung": "dachdecker 260 (commercial)"
+  "begruendung": "dachdecker 260 (commercial)",
+  "amtlicherName": "Heidelberg"
  },
  {
   "leistung": "dach-fassade",
@@ -745,7 +812,8 @@
   "einwohner": 134422,
   "volumen": 210,
   "stufe": "P1",
-  "begruendung": "dachdecker 210 (commercial)"
+  "begruendung": "dachdecker 210 (commercial)",
+  "amtlicherName": "Pforzheim"
  },
  {
   "leistung": "dach-fassade",
@@ -756,7 +824,8 @@
   "einwohner": 132516,
   "volumen": 260,
   "stufe": "P1",
-  "begruendung": "dachdecker 260 (commercial)"
+  "begruendung": "dachdecker 260 (commercial)",
+  "amtlicherName": "Heilbronn"
  },
  {
   "leistung": "dach-fassade",
@@ -767,7 +836,8 @@
   "einwohner": 130288,
   "volumen": 210,
   "stufe": "P1",
-  "begruendung": "dachdecker 210 (navigational)"
+  "begruendung": "dachdecker 210 (navigational)",
+  "amtlicherName": "Ulm"
  },
  {
   "leistung": "dach-fassade",
@@ -778,18 +848,20 @@
   "einwohner": 119040,
   "volumen": 170,
   "stufe": "P2",
-  "begruendung": "dachdecker 170 (navigational)"
+  "begruendung": "dachdecker 170 (navigational)",
+  "amtlicherName": "Reutlingen"
  },
  {
   "leistung": "dach-fassade",
   "ort": "esslingen",
-  "ortName": "Esslingen am Neckar",
+  "ortName": "Esslingen",
   "such": "Esslingen",
   "kreis": "Esslingen",
   "einwohner": 95419,
   "volumen": 140,
   "stufe": "P2",
-  "begruendung": "dachdecker 140 (commercial)"
+  "begruendung": "dachdecker 140 (commercial)",
+  "amtlicherName": "Esslingen am Neckar"
  },
  {
   "leistung": "dach-fassade",
@@ -800,7 +872,8 @@
   "einwohner": 93002,
   "volumen": 170,
   "stufe": "P2",
-  "begruendung": "dachdecker 170 (commercial)"
+  "begruendung": "dachdecker 170 (commercial)",
+  "amtlicherName": "Ludwigsburg"
  },
  {
   "leistung": "dach-fassade",
@@ -811,7 +884,8 @@
   "einwohner": 86691,
   "volumen": 90,
   "stufe": "P2",
-  "begruendung": "dachdecker 90 (commercial)"
+  "begruendung": "dachdecker 90 (commercial)",
+  "amtlicherName": "Konstanz"
  },
  {
   "leistung": "dach-fassade",
@@ -822,7 +896,8 @@
   "einwohner": 63930,
   "volumen": 90,
   "stufe": "P2",
-  "begruendung": "dachdecker 90 (commercial)"
+  "begruendung": "dachdecker 90 (commercial)",
+  "amtlicherName": "Schwäbisch Gmünd"
  },
  {
   "leistung": "dach-fassade",
@@ -833,7 +908,8 @@
   "einwohner": 63437,
   "volumen": 90,
   "stufe": "P2",
-  "begruendung": "dachdecker 90 (commercial)"
+  "begruendung": "dachdecker 90 (commercial)",
+  "amtlicherName": "Offenburg"
  },
  {
   "leistung": "dach-fassade",
@@ -844,7 +920,8 @@
   "einwohner": 58678,
   "volumen": 110,
   "stufe": "P2",
-  "begruendung": "dachdecker 110 (commercial)"
+  "begruendung": "dachdecker 110 (commercial)",
+  "amtlicherName": "Göppingen"
  },
  {
   "leistung": "dach-fassade",
@@ -855,7 +932,8 @@
   "einwohner": 57186,
   "volumen": 140,
   "stufe": "P2",
-  "begruendung": "dachdecker 140 (commercial)"
+  "begruendung": "dachdecker 140 (commercial)",
+  "amtlicherName": "Waiblingen"
  },
  {
   "leistung": "dach-fassade",
@@ -866,7 +944,8 @@
   "einwohner": 49514,
   "volumen": 110,
   "stufe": "P2",
-  "begruendung": "dachdecker 110 (navigational)"
+  "begruendung": "dachdecker 110 (navigational)",
+  "amtlicherName": "Leonberg"
  },
  {
   "leistung": "dach-fassade",
@@ -877,7 +956,8 @@
   "einwohner": 47578,
   "volumen": 90,
   "stufe": "P2",
-  "begruendung": "dachdecker 90 (transactional)"
+  "begruendung": "dachdecker 90 (transactional)",
+  "amtlicherName": "Bruchsal"
  },
  {
   "leistung": "dach-fassade",
@@ -888,7 +968,8 @@
   "einwohner": 46659,
   "volumen": 90,
   "stufe": "P2",
-  "begruendung": "dachdecker 90 (navigational)"
+  "begruendung": "dachdecker 90 (navigational)",
+  "amtlicherName": "Fellbach"
  },
  {
   "leistung": "dach-fassade",
@@ -899,7 +980,8 @@
   "einwohner": 45919,
   "volumen": 90,
   "stufe": "P2",
-  "begruendung": "dachdecker 90 (navigational)"
+  "begruendung": "dachdecker 90 (navigational)",
+  "amtlicherName": "Weinheim"
  },
  {
   "leistung": "dach-fassade",
@@ -910,7 +992,8 @@
   "einwohner": 38615,
   "volumen": 90,
   "stufe": "P2",
-  "begruendung": "dachdecker 90 (transactional)"
+  "begruendung": "dachdecker 90 (transactional)",
+  "amtlicherName": "Backnang"
  },
  {
   "leistung": "dach-fassade",
@@ -921,7 +1004,8 @@
   "einwohner": 38557,
   "volumen": 90,
   "stufe": "P2",
-  "begruendung": "dachdecker 90 (commercial)"
+  "begruendung": "dachdecker 90 (commercial)",
+  "amtlicherName": "Ettlingen"
  },
  {
   "leistung": "dach-fassade",
@@ -932,7 +1016,8 @@
   "einwohner": 26926,
   "volumen": 90,
   "stufe": "P2",
-  "begruendung": "dachdecker 90 (navigational)"
+  "begruendung": "dachdecker 90 (navigational)",
+  "amtlicherName": "Weinstadt"
  },
  {
   "leistung": "dach-fassade",
@@ -943,7 +1028,8 @@
   "einwohner": 21599,
   "volumen": 90,
   "stufe": "P2",
-  "begruendung": "dachdecker 90 (commercial)"
+  "begruendung": "dachdecker 90 (commercial)",
+  "amtlicherName": "Hockenheim"
  },
  {
   "leistung": "heizung-waermepumpe",
@@ -954,7 +1040,8 @@
   "einwohner": 609365,
   "volumen": 230,
   "stufe": "P1",
-  "begruendung": "wärmepumpe 140 (commercial) + heizungsinstallateur 90 (commercial)"
+  "begruendung": "wärmepumpe 140 (commercial) + heizungsinstallateur 90 (commercial)",
+  "amtlicherName": "Stuttgart"
  },
  {
   "leistung": "heizung-waermepumpe",
@@ -965,7 +1052,8 @@
   "einwohner": 319536,
   "volumen": 250,
   "stufe": "P1",
-  "begruendung": "wärmepumpe 140 (transactional) + heizungsinstallateur 110 (commercial)"
+  "begruendung": "wärmepumpe 140 (transactional) + heizungsinstallateur 110 (commercial)",
+  "amtlicherName": "Mannheim"
  },
  {
   "leistung": "heizung-waermepumpe",
@@ -976,18 +1064,20 @@
   "einwohner": 309247,
   "volumen": 380,
   "stufe": "P1",
-  "begruendung": "wärmepumpe 210 (commercial) + heizungsinstallateur 170 (commercial)"
+  "begruendung": "wärmepumpe 210 (commercial) + heizungsinstallateur 170 (commercial)",
+  "amtlicherName": "Karlsruhe"
  },
  {
   "leistung": "heizung-waermepumpe",
   "ort": "freiburg",
-  "ortName": "Freiburg im Breisgau",
+  "ortName": "Freiburg",
   "such": "Freiburg",
   "kreis": "Freiburg im Breisgau",
   "einwohner": 238299,
   "volumen": 160,
   "stufe": "P2",
-  "begruendung": "wärmepumpe 70 (commercial) + heizungsinstallateur 90 (commercial)"
+  "begruendung": "wärmepumpe 70 (commercial) + heizungsinstallateur 90 (commercial)",
+  "amtlicherName": "Freiburg im Breisgau"
  },
  {
   "leistung": "heizung-waermepumpe",
@@ -998,7 +1088,8 @@
   "einwohner": 156092,
   "volumen": 120,
   "stufe": "P2",
-  "begruendung": "wärmepumpe 70 (commercial) + heizungsinstallateur 50 (commercial)"
+  "begruendung": "wärmepumpe 70 (commercial) + heizungsinstallateur 50 (commercial)",
+  "amtlicherName": "Heidelberg"
  },
  {
   "leistung": "heizung-waermepumpe",
@@ -1009,7 +1100,8 @@
   "einwohner": 132516,
   "volumen": 90,
   "stufe": "P2",
-  "begruendung": "wärmepumpe 70 (transactional) + heizungsinstallateur 20 (commercial)"
+  "begruendung": "wärmepumpe 70 (transactional) + heizungsinstallateur 20 (commercial)",
+  "amtlicherName": "Heilbronn"
  },
  {
   "leistung": "heizung-waermepumpe",
@@ -1020,7 +1112,8 @@
   "einwohner": 130288,
   "volumen": 110,
   "stufe": "P2",
-  "begruendung": "wärmepumpe 90 (commercial) + heizungsinstallateur 20 (commercial)"
+  "begruendung": "wärmepumpe 90 (commercial) + heizungsinstallateur 20 (commercial)",
+  "amtlicherName": "Ulm"
  },
  {
   "leistung": "garten-aussenanlagen",
@@ -1031,7 +1124,8 @@
   "einwohner": 609365,
   "volumen": 90,
   "stufe": "P2",
-  "begruendung": "terrassenüberdachung 90 (commercial)"
+  "begruendung": "terrassenüberdachung 90 (commercial)",
+  "amtlicherName": "Stuttgart"
  },
  {
   "leistung": "garten-aussenanlagen",
@@ -1042,7 +1136,8 @@
   "einwohner": 319536,
   "volumen": 210,
   "stufe": "P1",
-  "begruendung": "terrassenüberdachung 210 (commercial)"
+  "begruendung": "terrassenüberdachung 210 (commercial)",
+  "amtlicherName": "Mannheim"
  },
  {
   "leistung": "garten-aussenanlagen",
@@ -1053,7 +1148,8 @@
   "einwohner": 309247,
   "volumen": 70,
   "stufe": "P2",
-  "begruendung": "terrassenüberdachung 70 (commercial)"
+  "begruendung": "terrassenüberdachung 70 (commercial)",
+  "amtlicherName": "Karlsruhe"
  },
  {
   "leistung": "garten-aussenanlagen",
@@ -1064,7 +1160,8 @@
   "einwohner": 132516,
   "volumen": 70,
   "stufe": "P2",
-  "begruendung": "terrassenüberdachung 70 (commercial)"
+  "begruendung": "terrassenüberdachung 70 (commercial)",
+  "amtlicherName": "Heilbronn"
  },
  {
   "leistung": "garten-aussenanlagen",
@@ -1075,7 +1172,8 @@
   "einwohner": 130288,
   "volumen": 140,
   "stufe": "P1",
-  "begruendung": "terrassenüberdachung 140 (commercial)"
+  "begruendung": "terrassenüberdachung 140 (commercial)",
+  "amtlicherName": "Ulm"
  },
  {
   "leistung": "garten-aussenanlagen",
@@ -1086,7 +1184,8 @@
   "einwohner": 58678,
   "volumen": 70,
   "stufe": "P2",
-  "begruendung": "terrassenüberdachung 70 (commercial)"
+  "begruendung": "terrassenüberdachung 70 (commercial)",
+  "amtlicherName": "Göppingen"
  },
  {
   "leistung": "garten-aussenanlagen",
@@ -1097,6 +1196,7 @@
   "einwohner": 50549,
   "volumen": 90,
   "stufe": "P2",
-  "begruendung": "terrassenüberdachung 90 (commercial)"
+  "begruendung": "terrassenüberdachung 90 (commercial)",
+  "amtlicherName": "Ravensburg"
  }
 ]

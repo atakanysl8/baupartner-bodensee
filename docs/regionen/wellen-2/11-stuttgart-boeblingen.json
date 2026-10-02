@@ -1,0 +1,101 @@
+[
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "stuttgart",
+  "ortName": "Stuttgart",
+  "amtlicherName": "Stuttgart",
+  "kreis": "Stuttgart",
+  "einwohner": 609365,
+  "volumen": 880
+ },
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "sindelfingen",
+  "ortName": "Sindelfingen",
+  "amtlicherName": "Sindelfingen",
+  "kreis": "Böblingen",
+  "einwohner": 61428,
+  "volumen": 170
+ },
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "boeblingen",
+  "ortName": "Böblingen",
+  "amtlicherName": "Böblingen",
+  "kreis": "Böblingen",
+  "einwohner": 51204,
+  "volumen": 170
+ },
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "leonberg",
+  "ortName": "Leonberg",
+  "amtlicherName": "Leonberg",
+  "kreis": "Böblingen",
+  "einwohner": 49514,
+  "volumen": 170
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "stuttgart",
+  "ortName": "Stuttgart",
+  "amtlicherName": "Stuttgart",
+  "kreis": "Stuttgart",
+  "einwohner": 609365,
+  "volumen": 1360
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "boeblingen",
+  "ortName": "Böblingen",
+  "amtlicherName": "Böblingen",
+  "kreis": "Böblingen",
+  "einwohner": 51204,
+  "volumen": 160
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "leonberg",
+  "ortName": "Leonberg",
+  "amtlicherName": "Leonberg",
+  "kreis": "Böblingen",
+  "einwohner": 49514,
+  "volumen": 160
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "stuttgart",
+  "ortName": "Stuttgart",
+  "amtlicherName": "Stuttgart",
+  "kreis": "Stuttgart",
+  "einwohner": 609365,
+  "volumen": 590
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "leonberg",
+  "ortName": "Leonberg",
+  "amtlicherName": "Leonberg",
+  "kreis": "Böblingen",
+  "einwohner": 49514,
+  "volumen": 110
+ },
+ {
+  "leistung": "heizung-waermepumpe",
+  "ort": "stuttgart",
+  "ortName": "Stuttgart",
+  "amtlicherName": "Stuttgart",
+  "kreis": "Stuttgart",
+  "einwohner": 609365,
+  "volumen": 230
+ },
+ {
+  "leistung": "garten-aussenanlagen",
+  "ort": "stuttgart",
+  "ortName": "Stuttgart",
+  "amtlicherName": "Stuttgart",
+  "kreis": "Stuttgart",
+  "einwohner": 609365,
+  "volumen": 90
+ }
+]

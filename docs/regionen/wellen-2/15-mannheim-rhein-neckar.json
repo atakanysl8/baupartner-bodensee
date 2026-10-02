@@ -1,0 +1,74 @@
+[
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "mannheim",
+  "ortName": "Mannheim",
+  "amtlicherName": "Mannheim",
+  "kreis": "Mannheim",
+  "einwohner": 319536,
+  "volumen": 720
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "mannheim",
+  "ortName": "Mannheim",
+  "amtlicherName": "Mannheim",
+  "kreis": "Mannheim",
+  "einwohner": 319536,
+  "volumen": 580
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "wiesloch",
+  "ortName": "Wiesloch",
+  "amtlicherName": "Wiesloch",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 27911,
+  "volumen": 200
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "mannheim",
+  "ortName": "Mannheim",
+  "amtlicherName": "Mannheim",
+  "kreis": "Mannheim",
+  "einwohner": 319536,
+  "volumen": 590
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "weinheim",
+  "ortName": "Weinheim",
+  "amtlicherName": "Weinheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 45919,
+  "volumen": 90
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "hockenheim",
+  "ortName": "Hockenheim",
+  "amtlicherName": "Hockenheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "einwohner": 21599,
+  "volumen": 90
+ },
+ {
+  "leistung": "heizung-waermepumpe",
+  "ort": "mannheim",
+  "ortName": "Mannheim",
+  "amtlicherName": "Mannheim",
+  "kreis": "Mannheim",
+  "einwohner": 319536,
+  "volumen": 250
+ },
+ {
+  "leistung": "garten-aussenanlagen",
+  "ort": "mannheim",
+  "ortName": "Mannheim",
+  "amtlicherName": "Mannheim",
+  "kreis": "Mannheim",
+  "einwohner": 319536,
+  "volumen": 210
+ }
+]

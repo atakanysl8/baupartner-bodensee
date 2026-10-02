@@ -1,0 +1,101 @@
+[
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "waiblingen",
+  "ortName": "Waiblingen",
+  "amtlicherName": "Waiblingen",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 57186,
+  "volumen": 170
+ },
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "fellbach",
+  "ortName": "Fellbach",
+  "amtlicherName": "Fellbach",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 46659,
+  "volumen": 170
+ },
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "schorndorf",
+  "ortName": "Schorndorf",
+  "amtlicherName": "Schorndorf",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 41469,
+  "volumen": 210
+ },
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "backnang",
+  "ortName": "Backnang",
+  "amtlicherName": "Backnang",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 38615,
+  "volumen": 170
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "waiblingen",
+  "ortName": "Waiblingen",
+  "amtlicherName": "Waiblingen",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 57186,
+  "volumen": 230
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "fellbach",
+  "ortName": "Fellbach",
+  "amtlicherName": "Fellbach",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 46659,
+  "volumen": 160
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "schorndorf",
+  "ortName": "Schorndorf",
+  "amtlicherName": "Schorndorf",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 41469,
+  "volumen": 160
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "waiblingen",
+  "ortName": "Waiblingen",
+  "amtlicherName": "Waiblingen",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 57186,
+  "volumen": 140
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "fellbach",
+  "ortName": "Fellbach",
+  "amtlicherName": "Fellbach",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 46659,
+  "volumen": 90
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "backnang",
+  "ortName": "Backnang",
+  "amtlicherName": "Backnang",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 38615,
+  "volumen": 90
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "weinstadt",
+  "ortName": "Weinstadt",
+  "amtlicherName": "Weinstadt",
+  "kreis": "Rems-Murr-Kreis",
+  "einwohner": 26926,
+  "volumen": 90
+ }
+]

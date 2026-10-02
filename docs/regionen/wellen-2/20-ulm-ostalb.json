@@ -1,0 +1,101 @@
+[
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "ulm",
+  "ortName": "Ulm",
+  "amtlicherName": "Ulm",
+  "kreis": "Ulm",
+  "einwohner": 130288,
+  "volumen": 480
+ },
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "aalen",
+  "ortName": "Aalen",
+  "amtlicherName": "Aalen",
+  "kreis": "Ostalbkreis",
+  "einwohner": 67675,
+  "volumen": 210
+ },
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "schwaebisch-gmuend",
+  "ortName": "Schwäbisch Gmünd",
+  "amtlicherName": "Schwäbisch Gmünd",
+  "kreis": "Ostalbkreis",
+  "einwohner": 63930,
+  "volumen": 260
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "ulm",
+  "ortName": "Ulm",
+  "amtlicherName": "Ulm",
+  "kreis": "Ulm",
+  "einwohner": 130288,
+  "volumen": 420
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "aalen",
+  "ortName": "Aalen",
+  "amtlicherName": "Aalen",
+  "kreis": "Ostalbkreis",
+  "einwohner": 67675,
+  "volumen": 180
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "schwaebisch-gmuend",
+  "ortName": "Schwäbisch Gmünd",
+  "amtlicherName": "Schwäbisch Gmünd",
+  "kreis": "Ostalbkreis",
+  "einwohner": 63930,
+  "volumen": 180
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "heidenheim",
+  "ortName": "Heidenheim",
+  "amtlicherName": "Heidenheim an der Brenz",
+  "kreis": "Heidenheim",
+  "einwohner": 50612,
+  "volumen": 160
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "ulm",
+  "ortName": "Ulm",
+  "amtlicherName": "Ulm",
+  "kreis": "Ulm",
+  "einwohner": 130288,
+  "volumen": 210
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "schwaebisch-gmuend",
+  "ortName": "Schwäbisch Gmünd",
+  "amtlicherName": "Schwäbisch Gmünd",
+  "kreis": "Ostalbkreis",
+  "einwohner": 63930,
+  "volumen": 90
+ },
+ {
+  "leistung": "heizung-waermepumpe",
+  "ort": "ulm",
+  "ortName": "Ulm",
+  "amtlicherName": "Ulm",
+  "kreis": "Ulm",
+  "einwohner": 130288,
+  "volumen": 110
+ },
+ {
+  "leistung": "garten-aussenanlagen",
+  "ort": "ulm",
+  "ortName": "Ulm",
+  "amtlicherName": "Ulm",
+  "kreis": "Ulm",
+  "einwohner": 130288,
+  "volumen": 140
+ }
+]

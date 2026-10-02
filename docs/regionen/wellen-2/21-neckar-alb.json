@@ -1,0 +1,56 @@
+[
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "reutlingen",
+  "ortName": "Reutlingen",
+  "amtlicherName": "Reutlingen",
+  "kreis": "Reutlingen",
+  "einwohner": 119040,
+  "volumen": 390
+ },
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "tuebingen",
+  "ortName": "Tübingen",
+  "amtlicherName": "Tübingen",
+  "kreis": "Tübingen",
+  "einwohner": 92607,
+  "volumen": 320
+ },
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "balingen",
+  "ortName": "Balingen",
+  "amtlicherName": "Balingen",
+  "kreis": "Zollernalbkreis",
+  "einwohner": 35744,
+  "volumen": 170
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "reutlingen",
+  "ortName": "Reutlingen",
+  "amtlicherName": "Reutlingen",
+  "kreis": "Reutlingen",
+  "einwohner": 119040,
+  "volumen": 350
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "tuebingen",
+  "ortName": "Tübingen",
+  "amtlicherName": "Tübingen",
+  "kreis": "Tübingen",
+  "einwohner": 92607,
+  "volumen": 230
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "reutlingen",
+  "ortName": "Reutlingen",
+  "amtlicherName": "Reutlingen",
+  "kreis": "Reutlingen",
+  "einwohner": 119040,
+  "volumen": 170
+ }
+]

@@ -1,0 +1,83 @@
+[
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "esslingen",
+  "ortName": "Esslingen",
+  "amtlicherName": "Esslingen am Neckar",
+  "kreis": "Esslingen",
+  "einwohner": 95419,
+  "volumen": 260
+ },
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "goeppingen",
+  "ortName": "Göppingen",
+  "amtlicherName": "Göppingen",
+  "kreis": "Göppingen",
+  "einwohner": 58678,
+  "volumen": 210
+ },
+ {
+  "leistung": "elektro-photovoltaik",
+  "ort": "nuertingen",
+  "ortName": "Nürtingen",
+  "amtlicherName": "Nürtingen",
+  "kreis": "Esslingen",
+  "einwohner": 40898,
+  "volumen": 170
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "esslingen",
+  "ortName": "Esslingen",
+  "amtlicherName": "Esslingen am Neckar",
+  "kreis": "Esslingen",
+  "einwohner": 95419,
+  "volumen": 200
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "goeppingen",
+  "ortName": "Göppingen",
+  "amtlicherName": "Göppingen",
+  "kreis": "Göppingen",
+  "einwohner": 58678,
+  "volumen": 200
+ },
+ {
+  "leistung": "maler-fliesen-boeden",
+  "ort": "filderstadt",
+  "ortName": "Filderstadt",
+  "amtlicherName": "Filderstadt",
+  "kreis": "Esslingen",
+  "einwohner": 46274,
+  "volumen": 180
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "esslingen",
+  "ortName": "Esslingen",
+  "amtlicherName": "Esslingen am Neckar",
+  "kreis": "Esslingen",
+  "einwohner": 95419,
+  "volumen": 140
+ },
+ {
+  "leistung": "dach-fassade",
+  "ort": "goeppingen",
+  "ortName": "Göppingen",
+  "amtlicherName": "Göppingen",
+  "kreis": "Göppingen",
+  "einwohner": 58678,
+  "volumen": 110
+ },
+ {
+  "leistung": "garten-aussenanlagen",
+  "ort": "goeppingen",
+  "ortName": "Göppingen",
+  "amtlicherName": "Göppingen",
+  "kreis": "Göppingen",
+  "einwohner": 58678,
+  "volumen": 70
+ }
+]
