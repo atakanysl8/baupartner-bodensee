@@ -33,6 +33,7 @@ export default function Footer() {
             <a href="/ueber-uns">Über uns</a>
             <a href="/#kontakt">Kontakt</a>
             <a href="/fuer-fachbetriebe">Für Fachbetriebe</a>
+            <a href="/regionen/">Leistungen nach Ort</a>
           </div>
         </div>
         <div className="footer-hinweis">

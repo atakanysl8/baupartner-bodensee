@@ -18,6 +18,10 @@ export function pruefeSeite(html, pfad) {
   else if (can !== BASIS + pfad) f.push(`Canonical zeigt auf ${can} statt ${BASIS + pfad}`)
   const h1 = (html.match(/<h1[\s>]/g) || []).length
   if (h1 !== 1) f.push(`H1-Anzahl ${h1}`)
+  // Jeder Schema-Typ höchstens einmal je Seite (Layout-Schemas vererben sich sonst auf Unterseiten)
+  const typen = [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)]
+    .flatMap((m) => { try { const j = JSON.parse(m[1]); return (Array.isArray(j) ? j : [j]).map((x) => x['@type']) } catch { return ['ungültiges JSON-LD'] } })
+  for (const t of new Set(typen)) if (typen.filter((x) => x === t).length > 1 || t === 'ungültiges JSON-LD') f.push(`Schema ${t} mehrfach/ungültig`)
   const footer = html.match(/<footer[\s\S]*?<\/footer>/)?.[0] ?? ''
   for (const l of PFLICHT_FOOTER) if (!new RegExp(`href="${l}/?"`).test(footer)) f.push(`Footer-Link ${l} fehlt`)
   return f

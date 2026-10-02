@@ -4,6 +4,7 @@ import { motion, useScroll, useTransform, AnimatePresence } from 'motion/react'
 import { useState, useRef, useEffect } from 'react'
 import Image from 'next/image'
 import Footer from './components/Footer'
+import { LEISTUNGEN, type LeistungSlug } from './inhalte/leistungen'
 
 /* ── Animation variants ──────────────────────────────────────────────────── */
 const fadeUp = {
@@ -638,6 +639,17 @@ function Kontakt() {
   const [errors, setErrors] = useState<Record<string, string>>({})
   const [sending, setSending] = useState(false)
   const [sendError, setSendError] = useState(false)
+
+  // Vorbelegung von einer Ortsseite aus: /?leistung=<slug>&ort=<Ort>#kontakt.
+  // Die URL ist erst nach der Hydration lesbar (statischer Export), daher einmalig im Effekt.
+  useEffect(() => {
+    const p = new URLSearchParams(window.location.search)
+    const l = p.get('leistung'), o = p.get('ort')
+    const chip = l && l in LEISTUNGEN ? LEISTUNGEN[l as LeistungSlug].chip : null
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- einmaliges Übernehmen externer URL-Daten
+    if (chip && projektTypen.includes(chip)) setSelected([chip])
+    if (o) setOrt(o.slice(0, 60))
+  }, [])
 
   const toggleTyp = (v: string) =>
     setSelected(prev => prev.includes(v) ? prev.filter(x => x !== v) : [...prev, v])

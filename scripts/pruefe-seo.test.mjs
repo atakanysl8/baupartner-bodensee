@@ -19,3 +19,8 @@ test('zwei H1', () => {
 test('fehlender Pflichtlink im Footer', () => {
   assert.ok(pruefeSeite(gut.replace('<a href="/fuer-fachbetriebe">F</a>', ''), '/x/').some(f => f.includes('fuer-fachbetriebe')))
 })
+test('doppelter Schema-Typ (z. B. zwei FAQPage)', () => {
+  const ld = '<script type="application/ld+json">{"@type":"FAQPage"}</script>'
+  const html = gut.replace('</head>', ld + '<script type="application/ld+json">[{"@type":"Service"},{"@type":"FAQPage"}]</script></head>')
+  assert.ok(pruefeSeite(html, '/x/').some(f => f.includes('FAQPage')))
+})

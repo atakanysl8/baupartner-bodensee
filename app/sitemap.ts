@@ -1,4 +1,5 @@
 import type { MetadataRoute } from 'next'
+import { ORTSSEITEN, pfad } from './inhalte/orte'
 
 export const dynamic = 'force-static'
 
@@ -18,5 +19,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/leistungen/renovierung-sanierung/`, lastModified: stand, changeFrequency: 'monthly', priority: 0.9 },
     { url: `${base}/ueber-uns/`, lastModified: stand, changeFrequency: 'yearly', priority: 0.7 },
     { url: `${base}/fuer-fachbetriebe/`, lastModified: stand, changeFrequency: 'yearly', priority: 0.5 },
+    { url: `${base}/regionen/`, lastModified: stand, changeFrequency: 'monthly', priority: 0.6 },
+    ...ORTSSEITEN.map((s) => ({ url: `${base}${pfad(s)}`, lastModified: stand, changeFrequency: 'yearly' as const, priority: 0.6 })),
   ]
 }
