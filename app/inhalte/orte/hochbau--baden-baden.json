@@ -1,0 +1,87 @@
+{
+  "leistung": "hochbau",
+  "ort": "baden-baden",
+  "ortName": "Baden-Baden",
+  "kreis": "Baden-Baden",
+  "title": "Bauunternehmen Baden-Baden – kostenlos vermittelt",
+  "description": "Bauen in Baden-Baden: Abteilung Baurecht, Gesamtanlage und Welterbe, Baufibel für Villengebiete, Entwässerung vor Baufreigabe. Kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Baden-Baden",
+  "einstieg": "Neubau, Anbau oder Ersatzbau in Baden-Baden bedeutet fast immer Bauen im Bestand eines besonderen Stadtbilds: Villenviertel am Hang, eine denkmalgeschützte Innenstadt und Ortsteile vom Rebland bis Haueneberstein. Wer hier plant, sollte die städtischen Zuständigkeiten und die gestalterischen Vorgaben früh kennen.",
+  "abschnitte": [
+    {
+      "h2": "Abteilung Baurecht am Marktplatz: Verfahren und Vorbescheid",
+      "text": "Baden-Baden ist Stadtkreis und damit selbst Baurechtsbehörde; Ansprechpartner ist die Abteilung Baurecht im Rathaus am Marktplatz 2. Je nach Vorhaben kommen Baugenehmigung, vereinfachtes Verfahren oder Kenntnisgabeverfahren in Betracht, Anträge laufen über das Virtuelle Bauamt Baden-Württemberg. Mit einem Bauvorbescheid lässt sich vorab bestätigen, dass ein Vorhaben zulässig oder verfahrensfrei ist. Auch verfahrensfreie Vorhaben müssen Bebauungsplan, Abstandsflächen und Standsicherheit einhalten; ist eine Befreiung von einem Bebauungsplan nötig, wird sie vorab beim Fachgebiet Bauordnung beantragt. Bebauungspläne, Luftbilder und Bodenrichtwerte zeigt das Geoportal der Stadt. Für die Entwässerung ist zusätzlich eine Genehmigung der Stadtwerke nötig, die diese der Bauordnung als Zustimmung zur Baufreigabe übermitteln."
+    },
+    {
+      "h2": "Denkmalstadt und Welterbe: Gesamtanlage, Villengebiete, Baufibel",
+      "text": "In Baden-Baden stehen über 1.500 Gebäude unter Denkmalschutz, und Teile der Innenstadt hat der Gemeinderat 2008 als Gesamtanlage geschützt. Seit 2021 gehört die historische Innenstadt in den Grenzen von etwa 1920 als Teil der „Great Spa Towns of Europe“ zum UNESCO-Welterbe; neues Recht entsteht dadurch nach Angaben der Stadt nicht, es gelten weiter Denkmal-, Bau- und Planungsrecht. Für die historischen Villengebiete Beutig-Quettig, Annaberg, Schützenstraße und Protestantische Neustadt hat die Stadt eine Baufibel als Leitbild beschlossen, die Empfehlungen zu Kubatur, Garagen und Einfriedungen gibt. Wer dort ein Haus ersetzen oder erweitern will, findet in der Fibel die Maßstäbe, an denen sich die Stadt orientiert."
+    },
+    {
+      "h2": "Starkregen und Hanglage",
+      "text": "Für den Stadtkreis liegen Starkregengefahrenkarten aus einem gemeinsamen Projekt mit dem Landkreis Rastatt vor, die auf einer Gefährdungsanalyse der Jahre 2021 bis 2023 beruhen; bei Hanggrundstücken und Kellern sind sie eine nützliche Planungsgrundlage. Dunkle Blautöne markieren dort Bereiche, die bei Starkregen besonders tief überflutet werden, helle Töne geringere Tiefen. Für Lichtschächte, Kellereingänge und Garagenzufahrten lässt sich daraus ablesen, wo Schutz nötig ist. Sobald das Vorhaben steht, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Für Bauvorhaben in Baden-Baden kommen Baugenehmigung, vereinfachtes Verfahren oder Kenntnisgabeverfahren in Betracht; ein Bauvorbescheid kann Zulässigkeit oder Verfahrensfreiheit bestätigen.",
+      "quelle": "Stadt Baden-Baden – Baurechtliche Verfahren",
+      "url": "https://www.baden-baden.de/buerger-und-service/bauen-und-wohnen/baurechtliche-verfahren",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ist für ein verfahrensfreies Vorhaben eine Befreiung von Festsetzungen des Bebauungsplans nötig, ist vorab ein Befreiungsantrag beim Fachgebiet Bauordnung zu stellen.",
+      "quelle": "Stadt Baden-Baden – Verfahrensfreie Vorhaben",
+      "url": "https://www.baden-baden.de/buerger-und-service/bauen-und-wohnen/verfahrensfreie-vorhaben",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Geoportal Baden-Baden zeigt unter anderem Bebauungspläne, Luftbilder und Bodenrichtwerte des Stadtkreises.",
+      "quelle": "Stadt Baden-Baden – Planung & Entwicklung",
+      "url": "https://www.baden-baden.de/buerger-und-service/bauen-und-wohnen/planung--entwicklung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In Baden-Baden stehen über 1.500 Gebäude unter Denkmalschutz; Teile der Innenstadt wurden im Februar 2008 als Gesamtanlage unter Schutz gestellt, seit 2021 ist die historische Innenstadt Teil des UNESCO-Welterbes „Great Spa Towns of Europe“.",
+      "quelle": "Stadt Baden-Baden – Denkmalschutz & Denkmalpflege",
+      "url": "https://www.baden-baden.de/buerger-und-service/bauen-und-wohnen/denkmalschutz--denkmalpflege",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für die historischen Villengebiete Beutig-Quettig, Annaberg, Schützenstraße und Protestantische Neustadt hat der Gemeinderat eine Baufibel als Leitbild der baulichen Gestaltung beschlossen.",
+      "quelle": "Stadt Baden-Baden – Städtische Gestaltungssatzung",
+      "url": "https://www.baden-baden.de/buerger-und-service/bauen-und-wohnen/planung--entwicklung/staedtische-gestaltungssatzung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Entwässerungsgenehmigung der Stadtwerke Baden-Baden wird benötigt, damit diese ihre Zustimmung zur Baufreigabe an das Fachgebiet Bauordnung übermitteln können.",
+      "quelle": "Stadtwerke Baden-Baden – Abwasser (Kanalisation)",
+      "url": "https://www.stadtwerke-baden-baden.de/de/entsorgung/abwasser.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Starkregengefahrenkarten beruhen auf dem Kooperationsprojekt „Kommunales Starkregenrisikomanagement-Konzept für den Landkreis Rastatt und die Stadt Baden-Baden“ (2021 bis 2023).",
+      "quelle": "Stadt Rastatt – Starkregen",
+      "url": "https://www.rastatt.de/mein-rastatt/natur-und-umwelt/starkregen",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ändert der Welterbe-Status die Regeln für meinen Bau in Baden-Baden?",
+      "a": "Nach Angaben der Stadt entsteht durch die Aufnahme ins UNESCO-Welterbe kein neues Recht. Vorhaben werden weiter nach Denkmal-, Bau- und Planungsrecht beurteilt."
+    },
+    {
+      "q": "Wer ist in Baden-Baden für Bauanträge zuständig?",
+      "a": "Die Stadt selbst mit ihrer Abteilung Baurecht im Rathaus am Marktplatz 2. Bei Kulturdenkmalen ist zusätzlich die untere Denkmalschutzbehörde der Stadt beteiligt."
+    },
+    {
+      "q": "Was gilt für Neubauten in den Baden-Badener Villengebieten?",
+      "a": "Für Beutig-Quettig, Annaberg, Schützenstraße und Protestantische Neustadt gibt es eine Baufibel mit Gestaltungsempfehlungen."
+    }
+  ],
+  "offen": [
+    "Die Starkregen-Quelle ist eine Seite der Stadt Rastatt (gemeinsames Projekt); eine eigene Starkregenseite der Stadt Baden-Baden wurde nicht geöffnet.",
+    "„Stadtkreis und damit selbst Baurechtsbehörde“ ergibt sich aus der Abteilung Baurecht/Fachgebiet Bauordnung der Stadt; nicht wörtlich so formuliert.",
+    "Inhalte der Baufibel (Kubatur, Garagen, Einfriedungen) aus der Begründung auf der Stadtseite abgeleitet, Fibel-PDF selbst nicht gelesen."
+  ]
+}

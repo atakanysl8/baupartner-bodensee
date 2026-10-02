@@ -1,0 +1,83 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "bietigheim-bissingen",
+  "ortName": "Bietigheim-Bissingen",
+  "kreis": "Ludwigsburg",
+  "title": "Badsanierung Bietigheim-Bissingen – kostenlos vermittelt",
+  "description": "Badsanierung in Bietigheim-Bissingen: Wasser mittel bis hart je nach Zone, Rückstauschutz, städtische Wohnraumberatung, KlimaBonus. Kostenlos vermittelt.",
+  "h1": "Badsanierung in Bietigheim-Bissingen",
+  "einstieg": "Fachwerkhaus in der Bietigheimer Altstadt, Reihenhaus im Buch oder Wohnung in Bissingen: Wer hier ein Bad erneuert, sollte vorher wissen, aus welcher Versorgungszone sein Wasser kommt. Denn anders als in vielen Nachbarorten mischen die Stadtwerke eigenes Grundwasser mit Bodenseewasser, und das merkt man an Armaturen und Duschglas.",
+  "abschnitte": [
+    {
+      "h2": "Eigenwasser und Bodenseewasser: Härte je nach Wohngebiet",
+      "text": "Die Stadtwerke Bietigheim-Bissingen (SWBB) liefern Trinkwasser, das zu etwa einem Drittel aus eigenen Quellen und zu zwei Dritteln vom Bodensee stammt. Je nach Wohngebiet und Straße ist der Anteil verschieden, und damit auch die Härte: Sie reicht nach Angaben der SWBB von mittel bis hart. In Zonen mit hartem Wasser setzt sich Kalk an Perlatoren, Duschköpfen und Glasflächen deutlich schneller ab. Bei einer Badsanierung lohnt es sich deshalb, die eigene Zone in der Übersichtskarte der SWBB nachzusehen und Armaturen, Duschabtrennung und gegebenenfalls eine Enthärtung darauf abzustimmen. Wer Regenwasser für die Toilettenspülung nutzen will, sollte wissen, dass eine Zisterne laut SWBB beim Wasserversorger und beim Gesundheitsamt anzuzeigen ist."
+    },
+    {
+      "h2": "Starkregen und Kellerbad: Rückstau in Bietigheim-Bissingen",
+      "text": "Für Kanal und Kläranlage sind in Bietigheim-Bissingen seit 2004 ebenfalls die Stadtwerke zuständig, im Auftrag der Stadt. Sie weisen darauf hin, dass der Wasserspiegel im Kanal bei starkem Regen bis auf Straßenhöhe steigen kann. Ohne Rückstauschutz dringt Abwasser dann über die Hausentwässerung in tiefer liegende Räume ein. Ein Duschbad oder WC im Untergeschoss braucht deshalb eine geeignete Rückstausicherung, etwa einen Rückstauverschluss oder eine Hebeanlage. Die geltende Abwassersatzung der Stadt verlinken die SWBB auf ihrer Abwasserseite."
+    },
+    {
+      "h2": "Wohnraumberatung beim Pflegestützpunkt und städtischer KlimaBonus",
+      "text": "Für ein barrierearmes Bad hat die Stadt eine eigene Wohnraumberatung, die dem Pflegestützpunkt zugeordnet ist. Geschulte Ehrenamtliche kommen kostenfrei nach Hause und beraten zu Umbau, Hilfsmitteln und Finanzierung; in der Löchgauer Straße zeigt der Pflegestützpunkt außerdem eine Hilfsmittelausstellung. Steht die Planung, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Das Trinkwasser der SWBB besteht aus etwa einem Drittel Eigenwasser und zwei Dritteln Bodenseewasser; je nach Wohngebiet reicht der Härtebereich von mittel bis hart.",
+      "quelle": "Stadtwerke Bietigheim-Bissingen – Wasserqualität",
+      "url": "https://www.sw-bb.de/produkte-services/wasser-waerme/trinkwasser/wasserqualitaet.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Betrieb einer Regenwasser-Zisterne ist nach Angaben der SWBB beim zuständigen Wasserversorger und beim Gesundheitsamt anzuzeigen.",
+      "quelle": "Stadtwerke Bietigheim-Bissingen – Abwasser",
+      "url": "https://www.sw-bb.de/produkte-services/wasser-waerme/abwasser.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Seit 2004 sind die Stadtwerke im Auftrag der Stadt für Entwässerung und Abwasserreinigung in Bietigheim-Bissingen zuständig.",
+      "quelle": "Stadtwerke Bietigheim-Bissingen – Kläranlage und Entwässerung",
+      "url": "https://www.sw-bb.de/produkte-services/wasser-waerme/abwasser/klaeranlage-und-entwaesserung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bei stärkerem Regen kann der Wasserspiegel im Kanalnetz bis auf Straßenhöhe steigen; vor Überflutung tiefer liegender Räume schützt eine Rückstausicherung wie Rückstauverschluss oder Hebeanlage.",
+      "quelle": "Stadtwerke Bietigheim-Bissingen – Abwasser",
+      "url": "https://www.sw-bb.de/produkte-services/wasser-waerme/abwasser.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Wohnraumberatung der Stadt ist dem Pflegestützpunkt zugeordnet; geschulte Ehrenamtliche beraten kostenfrei, auch zu Hause, zu Wohnungsanpassung, Hilfsmitteln und Finanzierung.",
+      "quelle": "Stadt Bietigheim-Bissingen – Flyer Wohnraumberatung",
+      "url": "https://buergerservice.bietigheim-bissingen.de/fileadmin/user_upload_stadtverwaltung/seitenstruktur/buergerservice-rathaus-politik/stadtverwaltung/familienbuero/Flyer_Wohnraumberatung_2025.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt Bietigheim-Bissingen zeigt in der Löchgauer Straße 22 eine Ausstellung gängiger Hilfsmittel zur Alltagserleichterung.",
+      "quelle": "Stadt Bietigheim-Bissingen – Pflegestützpunkt",
+      "url": "https://buergerservice.bietigheim-bissingen.de/familienbuero-pflegestuetzpunkt/pflegestuetzpunkt-bietigheim-bissingen/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist das Wasser in Bietigheim-Bissingen hart?",
+      "a": "Das hängt vom Wohngebiet ab. Die SWBB mischen Eigen- und Bodenseewasser, der Härtebereich reicht deshalb von mittel bis hart; die Zonen zeigt die Übersichtskarte der Stadtwerke."
+    },
+    {
+      "q": "Wer berät in Bietigheim-Bissingen zum barrierearmen Bad?",
+      "a": "Die städtische Wohnraumberatung beim Pflegestützpunkt, erreichbar über die Bahnhofstraße 1. Die Beratung ist kostenfrei und findet auf Wunsch zu Hause statt."
+    },
+    {
+      "q": "Wer berät in Bietigheim-Bissingen zum Umbau für mehr Barrierefreiheit?",
+      "a": "Die Wohnraumberatung der Stadt, die beim Pflegestützpunkt angesiedelt ist. Geschulte Ehrenamtliche beraten kostenfrei, auf Wunsch auch zu Hause, zu Wohnungsanpassung, Hilfsmitteln und Finanzierung."
+    }
+  ],
+  "offen": [
+    "KlimaBonus 2026 laut Stadt seit 15.04.2026 geschlossen, Neuauflage 2027 geplant; daher keine Beträge im Text.",
+    "SWBB melden eine befristete Umstellung Bissingens auf reines Bodenseewasser (Defekt Eigenwasserförderung Au); als Momentangabe nicht übernommen.",
+    "Ortsteilnennungen im Einstieg (Altstadt, Buch, Bissingen) nicht als Fakt belegt.",
+    "SWBB sind eine GmbH (Tochter der Stadt); als Stadtwerke genannt.",
+    "KlimaBonus (seit 15.04.2026 geschlossen) entfernt; bei Neuauflage 2027 wieder prüfen."
+  ]
+}

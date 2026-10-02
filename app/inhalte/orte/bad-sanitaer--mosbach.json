@@ -1,0 +1,81 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "mosbach",
+  "ortName": "Mosbach",
+  "kreis": "Neckar-Odenwald-Kreis",
+  "title": "Badsanierung Mosbach – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Mosbach: Wasserhärte je Stadtteil, Mischkanal Richtung Obrigheim, Wohnraumberatung des Landratsamts. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Mosbach",
+  "einstieg": "Zwischen Elztal, Neckar und den Höhenorten Lohrbach oder Sattelbach unterscheidet sich in Mosbach schon das Wasser, das aus der Leitung kommt. Wer sein Bad modernisieren oder für das Alter umbauen möchte, findet bei den Stadtwerken, in der städtischen Abwassersatzung und bei der Wohnraumberatung des Landratsamts die wichtigsten örtlichen Grundlagen.",
+  "abschnitte": [
+    {
+      "h2": "Eigenwasser und Bodenseewasser: Härte je nach Stadtteil",
+      "text": "Die Stadtwerke Mosbach sind nach eigenen Angaben der größte Trinkwasserlieferant im Neckar-Odenwald-Kreis und mischen Wasser aus eigenen Brunnen mit Bodenseewasser. Die Härtekarten der Stadtwerke zeigen für weite Teile der Kernstadt 12 bis 13,9 °dH, also mittelhartes Wasser. Im Gebiet um Bergfeld liegt der Wert bei 8,9 °dH, in Reichenbuch ebenfalls bei 8,9 °dH, in Sattelbach bei 8,4 °dH und in Lohrbach bei nur 6,5 °dH. Für die Badplanung heißt das: Kalkränder an Glas und Armaturen sind in der Kernstadt spürbar, aber kein Extremfall; in Lohrbach ist eine Enthärtung in der Regel kaum ein Thema."
+    },
+    {
+      "h2": "Abwasser im Mischsystem: Bad im Keller gut absichern",
+      "text": "Der größte Teil Mosbachs wird im Mischsystem entwässert: Schmutz- und Regenwasser fließen gemeinsam zur Kläranlage in Obrigheim. Nur Baugebiete, die seit Ende der 1990er-Jahre erschlossen wurden, haben getrennte Kanäle. Bei starkem Regen kann ein Mischkanal schnell voll laufen, und genau dann wird ein tief liegendes Bad zum Risiko. Die Abwassersatzung der Stadt verlangt deshalb, dass Toiletten, Duschen und Waschbecken unterhalb der Straßenoberfläche an der Anschlussstelle auf Kosten des Eigentümers gegen Rückstau gesichert werden. Wer ein Duschbad im Untergeschoss oder ein Gäste-WC im Souterrain plant, sollte Rückstauverschluss oder Hebeanlage von Anfang an mit einplanen."
+    },
+    {
+      "h2": "Selbstständig wohnen: Wohnraumberatung des Neckar-Odenwald-Kreises",
+      "text": "Für Umbauten im Alter oder bei Behinderung bietet die Altenhilfefachberatung im Landratsamt eine kostenlose und neutrale Wohnraumberatung an, auf Wunsch auch bei Ihnen zu Hause. Sie informiert zu Hilfsmitteln wie Haltegriffen oder Duschsitzen und zu Fördermöglichkeiten über Pflegekassen, KfW und L-Bank. Oft genügen schon kleinere Anpassungen, etwa ein Duschsitz oder ein zusätzlicher Griff an der Wanne. Wenn klar ist, was sich ändern soll, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadtwerke Mosbach beliefern ihre Kunden sowohl mit Eigenwasser aus Brunnen rund um die Versorgungsgebiete als auch mit Bodenseewasser.",
+      "quelle": "Stadtwerke Mosbach – Wasserhärte",
+      "url": "https://www.swm-online.de/wasser/wasserhaerte/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Härtekarte der Stadtwerke Mosbach weist für große Teile der Kernstadt 12 bis 13,9 °dH aus, für das Gebiet um Bergfeld 8,9 °dH.",
+      "quelle": "Stadtwerke Mosbach – Karte Wasserhärte Mosbach",
+      "url": "https://www.swm-online.de/wp-content/uploads/pdf/wasserhaerte/Wasserhaerte_Mosbach_web.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In den Stadtteilen Lohrbach, Reichenbuch und Sattelbach liegt die Wasserhärte laut Karte der Stadtwerke bei 6,5, 8,9 und 8,4 °dH.",
+      "quelle": "Stadtwerke Mosbach – Karte Wasserhärte Lohrbach, Reichenbuch, Sattelbach",
+      "url": "https://www.swm-online.de/wp-content/uploads/pdf/wasserhaerte/Wasserhaerte_TeilorteMOS_web.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In Mosbach fließen Schmutz- und Regenwasser überwiegend im Mischsystem zur Kläranlage nach Obrigheim; neue Baugebiete werden seit Ende der 1990er-Jahre im Trennsystem erschlossen.",
+      "quelle": "Stadt Mosbach – Kanalbau",
+      "url": "https://www.mosbach.de/wirtschaft-und-entwicklung/stadtentwicklung/tiefbau/kanalbau",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach § 20 der Mosbacher Abwassersatzung sind Abwasseraufnahmeeinrichtungen unterhalb der Rückstauebene (Straßenoberfläche an der Anschlussstelle) vom Grundstückseigentümer auf seine Kosten gegen Rückstau zu sichern.",
+      "quelle": "Stadt Mosbach – Abwassersatzung",
+      "url": "https://www.mosbach.de/site/Mosbach-2025/get/documents_E-1874786011/mosbach/Mosbach_Allgemein_Bibliothek/1.%20Dateien/Stadt%20%26%20Verwaltung/Stadtverwaltung/Stadtrecht/7.%20%C3%96ffentliche%20Einrichtungen/7_12_Abwassersatzung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Altenhilfefachberatung im Landratsamt Neckar-Odenwald-Kreis bietet eine kostenlose und neutrale Wohnraumberatung an, auch als Hausbesuch, unter anderem zu Haltegriffen, Duschsitzen und Fördermöglichkeiten über Pflegekassen, KfW und L-Bank.",
+      "quelle": "Stadt Mosbach – Seniorenwegweiser (Flyer Wohnraumberatung)",
+      "url": "https://www.mosbach.de/site/Mosbach-2025/get/params_E-1774978543_Dattachment/1383345/Wohnraumberatung%20Flyer%20Druck.pdf",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Wasser in Mosbach?",
+      "a": "In weiten Teilen der Kernstadt 12 bis 13,9 °dH, also mittelhart. Im Bereich Bergfeld und in Reichenbuch 8,9 °dH, in Sattelbach 8,4 °dH und in Lohrbach 6,5 °dH."
+    },
+    {
+      "q": "Warum ist die Rückstausicherung bei einem Kellerbad in Mosbach wichtig?",
+      "a": "Ein Großteil der Stadt wird im Mischsystem entwässert, bei Starkregen kann der Kanal zurückstauen. Die Abwassersatzung sieht vor, dass Entwässerungsgegenstände unterhalb der Rückstauebene gesichert werden."
+    },
+    {
+      "q": "Wer berät im Neckar-Odenwald-Kreis zum altersgerechten Badumbau?",
+      "a": "Die Wohnraumberatung der Altenhilfefachberatung im Landratsamt, kostenlos und neutral, auf Wunsch auch bei Ihnen zu Hause."
+    }
+  ],
+  "offen": [
+    "Härtewerte stammen aus Kartenbildern (PDF ohne Text) der Stadtwerke; Zuordnung der 8,9-°dH-Fläche zu „Bergfeld“ und der drei Teilort-Werte zu Lohrbach/Reichenbuch/Sattelbach anhand der Kartenbeschriftung, bitte gegenprüfen.",
+    "Der Satz zum Mischsystem „bei starkem Regen kann ein Mischkanal schnell voll laufen“ ist allgemeine Einordnung; die Stadt schreibt, Kanäle seien für Starkregen nicht ausgelegt.",
+    "Energieberatung für den Neckar-Odenwald-Kreis nicht recherchiert."
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "leistung": "hochbau",
+  "ort": "heidenheim",
+  "ortName": "Heidenheim",
+  "kreis": "Heidenheim",
+  "title": "Bauunternehmen Heidenheim – kostenlos vermittelt",
+  "description": "Bauen in Heidenheim an der Brenz: digitaler Bauantrag, Vormerkliste für Bauplätze, Bebauungspläne online, Sanierungsgebiete. Kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Heidenheim",
+  "einstieg": "Heidenheim an der Brenz bietet Bauland sowohl stadtnah als auch in den Teilorten auf dem Härtsfeld wie Großkuchen und Oggenhausen. Wer hier ein Haus bauen, anbauen oder in einem älteren Quartier ersetzen will, hat mit einer städtischen Bauordnung, einer Vormerkliste für Bauplätze und in Oststadt, Schnaitheim-Hagen und der Innenstadt mit förmlichen Sanierungsgebieten zu tun.",
+  "abschnitte": [
+    {
+      "h2": "Bauantrag in Heidenheim: digital an die städtische Bauordnung",
+      "text": "Für Bauanträge ist in Heidenheim der Geschäftsbereich Bauordnung und Denkmalschutz der Stadtverwaltung zuständig. Seit 1. Januar 2025 laufen alle Bauanträge digital über das Virtuelle Bauamt Baden-Württemberg; die Stadt weist ausdrücklich darauf hin, dass per Post oder E-Mail eingereichte Anträge nicht mehr bearbeitet werden. Privatpersonen geben den Antrag mit BundID frei, auch wenn ein Planungsbüro ihn stellt. Ob ein Bebauungsplan gilt, lässt sich beim Geschäftsbereich Stadtentwicklung, Städtebauliche Planung und Umwelt klären; die seit 1998 rechtskräftigen Pläne stehen zusätzlich online. In Bestandsgebieten ohne qualifizierten Bebauungsplan muss sich ein Neubau nach Angaben der Stadt in die nähere Umgebung einfügen."
+    },
+    {
+      "h2": "Bauplätze und Bodenwerte in Heidenheim",
+      "text": "Städtische Bauplätze vergibt Heidenheim in der Regel nach einer Vormerkliste in der Reihenfolge des Bewerbungsdatums; eintragen lässt man sich über ein Online-Formular der Stadt. In einigen Baugebieten erhalten Familien mit mindestens einem minderjährigen Kind einen Kaufpreisnachlass. Für die Teilorte Großkuchen und Oggenhausen gibt es eigene Bauplatzseiten. Zur Einschätzung eines Grundstückspreises veröffentlicht die Stadt Bodenrichtwertkarten; den Grundstücksmarktbericht gibt die Geschäftsstelle des Gutachterausschusses im Rathaus in der Grabenstraße auf Bestellung heraus."
+    },
+    {
+      "h2": "Neubau im Sanierungsgebiet: Oststadt und Schnaitheim-Hagen",
+      "text": "In der Oststadt, einem rund 66 Hektar großen Sanierungsgebiet mit Gebäuden überwiegend aus der ersten Hälfte des 20. Jahrhunderts, sollen nach den Zielen der Stadt Rückbau und eine angepasste Neubebauung möglich sein, wo sich die Erhaltung nicht mehr lohnt. In Schnaitheim-Hagen wurde die Fläche zwischen Bahnlinie und Fabrikstraße als Wohnbaufläche aktiviert. Die Sanierungssatzungen und Abgrenzungspläne beider Gebiete stellt die Stadt online bereit. Sobald Grundstück und Vorhaben feststehen, schildern Sie Ihre Anfrage über unser Formular; wir wählen dafür einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Bauordnung und Denkmalschutz sind in Heidenheim ein eigener Geschäftsbereich der Stadtverwaltung (Grabenstraße 15).",
+      "quelle": "Stadt Heidenheim – Behördenwegweiser Bauordnung und Denkmalschutz",
+      "url": "https://www.heidenheim.de/-/behoerdenwegweiser/oe6001121",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Seit 1. Januar 2025 laufen alle Bauanträge bei der Stadt Heidenheim digital über das Virtuelle Bauamt Baden-Württemberg; postalisch oder per E-Mail eingereichte Anträge werden nach Angaben der Stadt nicht mehr bearbeitet.",
+      "quelle": "Stadt Heidenheim – Baugenehmigung",
+      "url": "https://www.heidenheim.de/leben/bauen-wohnen/baugenehmigung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Städtische Bauplätze werden in Heidenheim in der Regel anhand einer Vormerkliste nach Bewerbungsdatum vergeben; in einigen Baugebieten erhalten Familien mit mindestens einem minderjährigen Kind einen Kaufpreisnachlass.",
+      "quelle": "Stadt Heidenheim – Bauplätze",
+      "url": "https://www.heidenheim.de/leben/bauen-wohnen/bauplaetze",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In alle Bebauungspläne kann beim Geschäftsbereich Stadtentwicklung, Städtebauliche Planung und Umwelt Einsicht genommen werden; rechtskräftige Pläne ab 1998 stehen zusätzlich online.",
+      "quelle": "Stadt Heidenheim – Bebauungsplan",
+      "url": "https://www.heidenheim.de/leben/stadtentwicklung/bebauungsplan",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Sanierungsgebiet „Oststadt“ (rund 65,9 ha) wurde 2016 förmlich festgelegt; vorgesehen sind Modernisierung des Bestands und, wo Erhaltung nicht sinnvoll ist, Rückbau und angepasste Neubebauung.",
+      "quelle": "Stadt Heidenheim – Sanierungsgebiet Oststadt",
+      "url": "https://www.heidenheim.de/leben/sanierungsgebiete/oststadt",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Sanierungsgebiet „Schnaitheim-Hagen“ wurde die Fläche zwischen Bahnlinie und Fabrikstraße (Schäfer-Areal) als Wohnbebauung aktiviert.",
+      "quelle": "Stadt Heidenheim – Sanierungsgebiet Schnaitheim-Hagen",
+      "url": "https://www.heidenheim.de/leben/sanierungsgebiete/schnaitheim-hagen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Geschäftsstelle des Gutachterausschusses der Stadt Heidenheim gibt den Grundstücksmarktbericht auf Bestellung heraus; die Bodenrichtwertkarten veröffentlicht die Stadt auf ihrer Website.",
+      "quelle": "Stadt Heidenheim – Geschäftsstelle des Gutachterausschusses",
+      "url": "https://www.heidenheim.de/-/behoerdenwegweiser/oe6006948",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ich in Heidenheim einen Bauantrag noch per Post einreichen?",
+      "a": "Nach Angaben der Stadt nicht: Seit 1. Januar 2025 werden Bauanträge nur noch digital über das Virtuelle Bauamt Baden-Württemberg bearbeitet."
+    },
+    {
+      "q": "Wie vergibt die Stadt Heidenheim ihre Bauplätze?",
+      "a": "In der Regel nach einer Vormerkliste in der Reihenfolge des Bewerbungsdatums. Eintragen lässt man sich über das Online-Formular auf der Bauplatzseite der Stadt."
+    },
+    {
+      "q": "Darf ich in der Heidenheimer Oststadt ein altes Haus abreißen und neu bauen?",
+      "a": "Die Sanierungsziele sehen Rückbau und angepasste Neubebauung dort vor, wo Erhaltung nicht sinnvoll ist. Ob das für ein bestimmtes Gebäude gilt, klärt die Stadt im Rahmen des Sanierungsrechts."
+    }
+  ],
+  "offen": [
+    "„Teilorte auf dem Härtsfeld wie Großkuchen und Oggenhausen“: Die eigenen Bauplatzseiten der Teilorte sind auf heidenheim.de verlinkt; die Zuordnung zum Härtsfeld ist ortskundlich, nicht aus der Quelle.",
+    "Dass Heidenheim als Große Kreisstadt selbst untere Baurechtsbehörde ist, ergibt sich nur indirekt aus dem städtischen Geschäftsbereich Bauordnung; eine ausdrückliche Amtsaussage wurde nicht gefunden.",
+    "Der Kaufpreisnachlass für Familien ist ohne Betrag genannt; Höhe und betroffene Baugebiete wurden nicht geprüft.",
+    "Laufzeiten der Sanierungsgebiete (Oststadt und Schnaitheim-Hagen bis 30.04.2027) bewusst nicht genannt (datierte Angabe)."
+  ]
+}

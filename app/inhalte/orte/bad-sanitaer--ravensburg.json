@@ -1,0 +1,88 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "ravensburg",
+  "ortName": "Ravensburg",
+  "kreis": "Ravensburg",
+  "title": "Badsanierung Ravensburg – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Ravensburg: durchgehend hartes Wasser, Kellerbad und Starkregen, Pflegestützpunkt Schussental. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Ravensburg",
+  "einstieg": "Ob Altstadthaus unterhalb der Veitsburg, Reihenhaus in der Weststadt oder Einfamilienhaus in Eschach: In Ravensburg zeigt sich Kalk an Armaturen und Fliesen schneller als in vielen anderen Städten. Wer ein Bad erneuert oder für das Alter umbaut, plant deshalb mit hartem Wasser, mit dem Kanalnetz der Stadt und mit den Beratungsangeboten des Landkreises.",
+  "abschnitte": [
+    {
+      "h2": "Hartes Wasser in allen Ravensburger Versorgungszonen",
+      "text": "Laut aktueller Jahresanalyse des örtlichen Wasserversorgers liegt die Gesamthärte in allen Ravensburger Versorgungszonen im Bereich „hart“: in der Nord- und Oststadt bei 21,3 °dH, in West-, Süd- und Kernstadt bei 17,8 °dH, in Eschach und Weißenau bei 17,5 °dH. Für die Badplanung bedeutet das in der Regel mehr Pflegeaufwand an Duschglas, Fugen und Perlatoren. Armaturen mit leicht zu reinigenden Strahlreglern, beschichtetes Glas oder eine Enthärtungsanlage für die gesamte Hausinstallation sind hier häufiger ein Thema als in Gebieten mit weichem Wasser. Der Versorger weist darauf hin, dass die Hausinstallation hinter dem Wasserzähler in der Zuständigkeit der Eigentümer liegt."
+    },
+    {
+      "h2": "Bad im Untergeschoss: Abwasser und Starkregen mitdenken",
+      "text": "Die Abwasserentsorgung ist in Ravensburg städtische Aufgabe; Grundlage ist die Abwassersatzung der Stadt, die Schmutzwassergebühr ermittelt die Stadtkämmerei. Wer im Keller ein Gäste-WC oder eine Dusche einbauen lässt, hat zusätzlich mit der Starkregenvorsorge zu tun. Die Stadt weist darauf hin, dass Starkniederschläge auch in der Ebene zu Überflutungen führen können, weil die Wassermengen meist über den Bemessungsgrenzen der Kanalnetze liegen; in Hanglagen können zudem Sturzfluten entstehen. Abläufe unterhalb der Straßenhöhe brauchen deshalb in der Regel eine Rückstausicherung. Für das Stadtgebiet arbeitet die Stadt an einem Starkregenrisikomanagement mit Gefahrenkarten."
+    },
+    {
+      "h2": "Barrierefrei umbauen: Pflegestützpunkt Schussental und Energieberatung",
+      "text": "Für Ravensburger Haushalte ist der Pflegestützpunkt Schussental des Landratsamts im Kreishaus II in der Gartenstraße zuständig. Die Beratung ist kostenfrei, neutral und auf Wunsch auch zu Hause; sie hilft einzuschätzen, welche Unterstützung bei Pflegebedarf möglich ist. Beratungsstellen für Seniorenwohnen listet die Stadt in ihrem Seniorenportal. Soll mit dem Bad auch die Warmwasserbereitung erneuert werden, bietet die Energieagentur Oberschwaben eine unabhängige Energieberatung für Privathaushalte an. Sobald Ihr Vorhaben feststeht, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Nach der Jahresanalyse (Stand 29.07.2025) liegt die Härte in Ravensburg bei 21,3 °dH (Nord- und Oststadt), 17,8 °dH (West-, Südstadt und Kernstadt) und 17,5 °dH (Eschach, Weißenau), jeweils im Bereich „hart“.",
+      "quelle": "Technische Werke Schussental – Trinkwasseranalyse Ravensburg und Weingarten",
+      "url": "https://www.tws.de/de/Was-wir-tun/Wasser/Uebersicht-Wasser1/Uebersicht-Wasser/Betriebsfuehrung-Wasser-Ravensburg-Weingarten-A4-einzel-rz-07.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut Wasserversorger fällt die Hausinstallation nach dem Wasserzähler in den Zuständigkeitsbereich des Hauseigentümers; der Härtebereich im Versorgungsgebiet wird als „hart“ ausgewiesen.",
+      "quelle": "Technische Werke Schussental – Trinkwasseranalyse Ravensburg und Weingarten",
+      "url": "https://www.tws.de/de/Was-wir-tun/Wasser/Uebersicht-Wasser1/Uebersicht-Wasser/Betriebsfuehrung-Wasser-Ravensburg-Weingarten-A4-einzel-rz-07.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Schmutzwassergebühr in Ravensburg ermittelt die Stadtkämmerei auf Grundlage der städtischen Abwassersatzung; abgerechnet wird sie zusammen mit dem Frischwasser.",
+      "quelle": "Stadt Ravensburg – Schmutzwassergebühr",
+      "url": "https://www.ravensburg.de/rv/buergerservice-verwaltung/stadtverwaltung/dienstleistungen/schmutzwassergebuehr.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Ravensburg erarbeitet ein Starkregenrisikomanagement; sie weist darauf hin, dass Starkregen auch in der Ebene Überflutungen verursachen kann, weil die Wassermengen meist über den Bemessungsgrenzen der Kanalnetze liegen.",
+      "quelle": "Stadt Ravensburg – Starkregenrisikomanagement",
+      "url": "https://www.ravensburg.de/rv/aktuelles/2024/starkregenrisikomanagement.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für das Stadtgebiet Ravensburg ist der Pflegestützpunkt Schussental des Landratsamts im Kreishaus II, Gartenstraße 107, zuständig; die Beratung ist kostenfrei, neutral und auch zu Hause möglich.",
+      "quelle": "Landratsamt Ravensburg – Pflegestützpunkte",
+      "url": "https://www.rv.de/ihr+anliegen/arbeit+und+soziales/senior_innen+und+pflege/pflegestuetzpunkte",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Seniorenportal der Stadt Ravensburg führt eine eigene Rubrik „Beratungsstellen für Seniorenwohnen“.",
+      "quelle": "Stadt Ravensburg – Wohnen, Pflegen & Freizeit",
+      "url": "https://www.ravensburg.de/rv/gesellschaft-soziales/senioren/wohnen-pflegen-freizeit.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Energieagentur Oberschwaben bietet in den Landkreisen Ravensburg, Sigmaringen, Biberach und im Bodenseekreis eine unabhängige Energieberatung für Privathaushalte in Kooperation mit der Verbraucherzentrale an.",
+      "quelle": "Energieagentur Oberschwaben",
+      "url": "https://www.ea-obs.de/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Leitungswasser in Ravensburg?",
+      "a": "Nach der Jahresanalyse des Wasserversorgers liegt es in allen Ravensburger Versorgungszonen im Bereich „hart“, je nach Zone zwischen rund 17 und 21 °dH."
+    },
+    {
+      "q": "Welcher Pflegestützpunkt berät Ravensburger zum Umbau bei Pflegebedarf?",
+      "a": "Zuständig ist der Pflegestützpunkt Schussental des Landratsamts im Kreishaus II. Die Zuordnung zu den Ansprechpersonen erfolgt im Stadtgebiet nach dem Anfangsbuchstaben des Nachnamens."
+    },
+    {
+      "q": "Gibt es für Ravensburg Starkregengefahrenkarten?",
+      "a": "Die Stadt erarbeitet ein Starkregenrisikomanagement für das gesamte Stadtgebiet, aufgeteilt in drei Teilgebiete; begonnen wurde nach ihren Angaben mit Gefahrenkarten für das nordöstliche Stadtgebiet."
+    }
+  ],
+  "offen": [
+    "Wasserversorger ist die Technische Werke Schussental GmbH (kommunal getragen, aber nicht als „Stadtwerke“ benannt); im Fließtext nur „Wasserversorger“, Name nur im Quellenfeld.",
+    "Zuordnung der Spalten in der PDF-Tabelle (pdftotext) geprüft, Gornhofen/Fildenmoos-Wert (16,4 °dH) wegen verschobener Spalte nicht übernommen.",
+    "Keine eigene Seite der Stadt zur Rückstauebene gefunden; Rückstausicherung nur allgemein („in der Regel“).",
+    "Ortsangaben im Einstieg (Veitsburg, Weststadt, Eschach) nur teilweise durch Fakten belegt."
+  ]
+}

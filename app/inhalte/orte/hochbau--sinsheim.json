@@ -1,0 +1,81 @@
+{
+  "leistung": "hochbau",
+  "ort": "sinsheim",
+  "ortName": "Sinsheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "title": "Bauunternehmen Sinsheim – kostenlos vermittelt",
+  "description": "Neubau oder Anbau in Sinsheim: Bauplatzvergabe über Baupilot, über 200 Bebauungspläne, Erhaltungssatzung Gartenstadt, Starkregenkarten. Kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Sinsheim",
+  "einstieg": "Sinsheim besteht aus der Kernstadt und zwölf Stadtteilen im Kraichgau, und fast jeder davon hat eigene Bebauungspläne. Wer hier ein Haus bauen, anbauen oder ein älteres Gebäude ersetzen möchte, sollte wissen, wie die Stadt Bauplätze vergibt, wo die Pläne einsehbar sind und welche Gebiete besonderen Regeln unterliegen.",
+  "abschnitte": [
+    {
+      "h2": "Bebauungspläne und Baurecht bei der Großen Kreisstadt",
+      "text": "Auf den Gemarkungen der Großen Kreisstadt Sinsheim gelten über 200 rechtskräftige Bebauungspläne einschließlich zahlreicher Änderungen. Sie sind im Geodatenportal der Stadt online einsehbar; rechtsverbindlich sind nach Hinweis der Stadt aber nur die Originalpläne beim Amt für Stadt- und Flächenentwicklung, das auch zum Verständnis der Festsetzungen berät. Bauanträge und Genehmigungen nach der Erhaltungssatzung laufen über die Baurechtsbehörde der Stadt Sinsheim. Für Grundriss, Geschosszahl und Dachform eines Neubaus ist der Bebauungsplan meist die erste Weichenstellung, deshalb lohnt der Blick ins Portal vor dem ersten Entwurf."
+    },
+    {
+      "h2": "Gartenstadt, Starkregen und Bauplätze: örtliche Besonderheiten",
+      "text": "Für die Gartenstadt rund um den Heinrich-Hagmaier-Platz und ihre Osterweiterung entlang der General-Sigel-Straße gilt seit 2018 eine Erhaltungssatzung. Dort bedürfen Rückbau, Änderung und Neuerrichtung baulicher Anlagen einer Genehmigung, auch wenn das Vorhaben nach Landesbauordnung sonst verfahrensfrei wäre. Außerdem hat die Stadt für Kernstadt und Stadtteile Starkregengefahrenkarten erstellen lassen, die Überflutungstiefen und Fließgeschwindigkeiten für drei Szenarien zeigen; für Lage von Kellern, Lichtschächten und Hauseingängen sind sie eine wichtige Grundlage. Städtische Bauplätze vermarktet Sinsheim entweder nach Höchstgebot oder nach einem Einheimischen-Modell; welches Verfahren gilt, entscheidet der Gemeinderat, angeboten wird über die Plattform Baupilot."
+    },
+    {
+      "h2": "Bodenwert und Anfrage",
+      "text": "Für Bodenrichtwerte und Verkehrswertgutachten ist der Gemeinsame Gutachterausschuss zuständig, dessen Geschäftsstelle bei der Stadtverwaltung Sinsheim eingerichtet ist und der 20 Städte und Gemeinden im östlichen Rhein-Neckar-Kreis abdeckt. Neben den Bodenrichtwerten führt der Ausschuss die Kaufpreissammlung und erstellt Verkehrswertgutachten. Das hilft etwa beim Kauf eines Baugrundstücks, beim Abriss eines Altbaus mit anschließendem Neubau oder bei einer Erbauseinandersetzung. Wenn Grundstück und Vorhaben feststehen, schildern Sie Ihr Projekt über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Auf den Gemarkungen der Großen Kreisstadt Sinsheim bestehen über 200 rechtskräftige Bebauungspläne, die im Geodatenportal online einsehbar sind; rechtsverbindlich sind die Originalpläne beim Amt für Stadt- und Flächenentwicklung.",
+      "quelle": "Stadt Sinsheim – Rechtskräftige Bebauungspläne",
+      "url": "https://www.sinsheim.de/wirtschaft-bauen-umwelt/bauen-wohnen/bebauungsplaene/rechtskraeftige-bebauungsplaene",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Geltungsbereich der Erhaltungssatzung „Gartenstadt / Osterweiterung Gartenstadt“ (in Kraft seit August 2018) bedürfen Rückbau, Änderung, Nutzungsänderung und Neuerrichtung baulicher Anlagen einer Genehmigung, auch bei sonst verfahrensfreien Vorhaben; zuständig ist die Baurechtsbehörde der Stadt Sinsheim.",
+      "quelle": "Stadt Sinsheim – Erhaltungssatzung",
+      "url": "https://www.sinsheim.de/wirtschaft-bauen-umwelt/bauen-wohnen/entwicklungskonzepte/erhaltungssatzung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Städtische Wohnbaugrundstücke vermarktet Sinsheim nach Höchstgebot oder nach dem Einheimischen-Modell; Kinder unter 18 Jahren werden bei der Kaufpreisgestaltung berücksichtigt, angeboten wird über die Plattform Baupilot.",
+      "quelle": "Stadt Sinsheim – Bauland",
+      "url": "https://www.sinsheim.de/wirtschaft-bauen-umwelt/bauen-wohnen/grundstuecke/bauplaetze",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Baugebiet „Bründel“ in Dühren sind laut Stadt Wohngebäude mit höchstens zwei Wohneinheiten und zwei Stellplätzen je Wohneinheit vorgesehen.",
+      "quelle": "Stadt Sinsheim – Bauland",
+      "url": "https://www.sinsheim.de/wirtschaft-bauen-umwelt/bauen-wohnen/grundstuecke/bauplaetze",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Starkregengefahrenkarten der Stadt Sinsheim zeigen Überflutungstiefen und Fließgeschwindigkeiten für drei Szenarien; das extreme Szenario beruht auf 128 Millimetern Niederschlag in einer Stunde.",
+      "quelle": "Stadt Sinsheim – Starkregengefahrenkarten",
+      "url": "https://www.sinsheim.de/leben-gesellschaft/bevoelkerungsschutz/starkregen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Geschäftsstelle des Gemeinsamen Gutachterausschusses ist bei der Stadtverwaltung Sinsheim eingerichtet; er legt die Bodenrichtwerte für 20 Städte und Gemeinden des östlichen Rhein-Neckar-Kreises fest.",
+      "quelle": "Stadt Sinsheim – Gemeinsamer Gutachterausschuss",
+      "url": "https://www.sinsheim.de/wirtschaft-bauen-umwelt/bauen-wohnen/gutachterausschuss/gemeinsamer-gutachterausschuss",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo sehe ich, welcher Bebauungsplan für mein Grundstück in Sinsheim gilt?",
+      "a": "Im Geodatenportal der Stadt Sinsheim. Rechtsverbindlich sind die Originalpläne, die beim Amt für Stadt- und Flächenentwicklung eingesehen werden können."
+    },
+    {
+      "q": "Was gilt beim Umbau oder Neubau in der Sinsheimer Gartenstadt?",
+      "a": "Dort gilt eine Erhaltungssatzung: Abbruch, Änderung und Neubau sind genehmigungspflichtig, auch wenn sie sonst verfahrensfrei wären. Zuständig ist die Baurechtsbehörde der Stadt."
+    },
+    {
+      "q": "Wie vergibt die Stadt Sinsheim ihre Bauplätze?",
+      "a": "Nach Höchstgebot oder nach dem Einheimischen-Modell, je nach Beschluss des Gemeinderats. Die Ausschreibungen erscheinen auf der Plattform Baupilot, auf der Website der Stadt und im Stadtanzeiger."
+    }
+  ],
+  "offen": [
+    "„Zwölf Stadtteile“ im Einstieg stützt sich auf die Seite der Stadtwerke (Versorgung in der Stadt und 12 Ortsteilen).",
+    "Angaben zum Baugebiet Bründel sind eine Momentaufnahme des städtischen Bauplatzangebots.",
+    "Eine eigene Amtsseite der Baurechtsbehörde Sinsheim wurde nicht geöffnet; Zuständigkeit ergibt sich aus der Seite zur Erhaltungssatzung."
+  ]
+}

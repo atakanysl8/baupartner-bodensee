@@ -1,0 +1,81 @@
+{
+  "leistung": "hochbau",
+  "ort": "ravensburg",
+  "ortName": "Ravensburg",
+  "kreis": "Ravensburg",
+  "title": "Bauunternehmen Ravensburg – kostenlos vermittelt",
+  "description": "Bauen in Ravensburg: Bürgerservice Baudezernat, digitale Bauanträge, Bauleitpläne, Starkregen in Hanglagen. Bauunternehmen kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Ravensburg",
+  "einstieg": "Zwischen Schussental und den Hängen von Veitsburg und Eschach wird in Ravensburg vor allem im Bestand nachverdichtet, ergänzt und ersetzt. Wer hier ein Haus baut, aufstockt oder ein Mehrfamilienhaus plant, findet die wichtigsten Stellen der Stadt gebündelt im Technischen Rathaus und hat es in Hanglagen zusätzlich mit dem Thema Starkregen zu tun.",
+  "abschnitte": [
+    {
+      "h2": "Erste Anlaufstelle: Bürgerservice Baudezernat im Technischen Rathaus",
+      "text": "Im Erdgeschoss des Technischen Rathauses am Salamanderweg bündelt der Bürgerservice Baudezernat die wichtigsten Auskünfte für Bauherren, Planer und Grundstückseigentümer: archivierte Bauakten, Baulasten, Altlasten, die Denkmaleigenschaft von Gebäuden und Grundstücken sowie Bodenrichtwerte. Bauanträge können seit Anfang 2025 vollständig digital über das Virtuelle Bauamt Baden-Württemberg bei der Stadt eingereicht werden. Rechtskräftige Bebauungspläne und Satzungen nach dem Baugesetzbuch liegen im Stadtplanungsamt zur kostenlosen Einsicht bereit; neuere Pläne veröffentlicht die Stadt zusätzlich online, und Bebauungspläne, Sanierungsgebiete und Satzungen zeigt das Geodatenportal. Der Flächennutzungsplan wird vom Gemeindeverband Mittleres Schussental geführt."
+    },
+    {
+      "h2": "Bauen am Hang: Starkregen und Sturzfluten",
+      "text": "Die Stadt beschreibt die Region als Gebiet mit vielen Hanglagen, in denen bei Starkregen sogenannte Sturzfluten mit hohen Strömungskräften entstehen können. Treibgut und Geröll sammeln sich dann an Verdolungen, Brücken oder Zäunen; der Rückstau überflutet das umliegende Gelände. Für ein Bauvorhaben am Hang oder in einer Senke gehören Geländemodellierung, Kellerabdichtung, Lichtschächte und die Lage von Eingängen deshalb früh in die Planung. Die Stadt erarbeitet für das gesamte Stadtgebiet ein Starkregenrisikomanagement; dazu wurde das Gebiet in drei Teilgebiete aufgeteilt, für die Gefahrenkarten und Risikoanalysen entstehen."
+    },
+    {
+      "h2": "Grundstückswerte, Stadtsanierung und städtische Grundstücke",
+      "text": "Für die Einschätzung von Bodenwerten ist der Gemeinsame Gutachterausschuss zuständig, zu dem sich 23 Städte und Gemeinden im westlichen Landkreis zusammengeschlossen haben; die Stadt Ravensburg nimmt seine Aufgaben wahr. In der Innenstadt verfolgt Ravensburg seit mehr als 30 Jahren den „Ravensburger Weg“ mit dem Ziel „Innenentwicklung vor Außenentwicklung“, unterstützt durch Mittel der Städtebauförderung in den Sanierungsgebieten. Grundstücke und Gebäude, die die Stadt verkauft, veröffentlicht sie unter ihren Immobilienangeboten, teils als Konzeptvergabe. Stehen Grundstück und Vorhaben fest, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Der Bürgerservice Baudezernat im Technischen Rathaus Ravensburg gibt Auskünfte unter anderem zu archivierten Bauakten, Baulasten, Altlasten, Denkmaleigenschaft und Bodenrichtwerten.",
+      "quelle": "Stadt Ravensburg – Bürgerservice Baudezernat",
+      "url": "https://www.ravensburg.de/rv/buergerservice-verwaltung/stadtverwaltung/buergerservice-baudezernat.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Seit 1. Januar 2025 können Bauanträge bei der Stadt Ravensburg vollständig digital über das Virtuelle Bauamt Baden-Württemberg (ViBa-BW) eingereicht werden.",
+      "quelle": "Stadt Ravensburg – Bauen",
+      "url": "https://www.ravensburg.de/rv/wirtschaft-planen-bauen/bauen/bauen.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Rechtskräftige Bebauungspläne und Satzungen nach dem BauGB liegen im Stadtplanungsamt im Technischen Rathaus zur kostenlosen Einsicht bereit; der Flächennutzungsplan wird vom Gemeindeverband Mittleres Schussental geführt.",
+      "quelle": "Stadt Ravensburg – Rechtskräftige Bauleitpläne und Satzungen",
+      "url": "https://www.ravensburg.de/rv/wirtschaft-planen-bauen/stadtentwicklung-stadtsanierung/bauleitplaene-satzungen.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Am 1. Juli 2023 haben sich 23 Städte und Gemeinden im westlichen Landkreis Ravensburg zu einem Gemeinsamen Gutachterausschuss zusammengeschlossen; die Stadt Ravensburg übernimmt dessen Aufgaben.",
+      "quelle": "Stadt Ravensburg – Gutachterausschuss",
+      "url": "https://www.ravensburg.de/rv/wirtschaft-planen-bauen/gutachen-bodenrichtwerte/gutachten-bodenrichtwerte.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach Angaben der Stadt können in der Region mit vielen Hanglagen bei Starkregen Sturzfluten entstehen; für das in drei Teilgebiete aufgeteilte Stadtgebiet wird ein Starkregenrisikomanagement erarbeitet.",
+      "quelle": "Stadt Ravensburg – Starkregenrisikomanagement",
+      "url": "https://www.ravensburg.de/rv/aktuelles/2024/starkregenrisikomanagement.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Seit mehr als 30 Jahren verfolgt Ravensburg mit dem „Ravensburger Weg“ das Ziel „Innenentwicklung vor Außenentwicklung“ für Alt- und Innenstadt, unterstützt durch Programme der Städtebauförderung.",
+      "quelle": "Stadt Ravensburg – Stadtsanierung in Ravensburg",
+      "url": "https://www.ravensburg.de/rv/wirtschaft-planen-bauen/stadtentwicklung-stadtsanierung/stadtsanierung-in-ravensburg.php",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo bekomme ich in Ravensburg Auskunft zu Baulasten oder Denkmalschutz meines Grundstücks?",
+      "a": "Erste Anlaufstelle ist der Bürgerservice Baudezernat im Erdgeschoss des Technischen Rathauses am Salamanderweg. Er gibt Auskünfte zu Baulasten, Altlasten, Bauakten und zur Denkmaleigenschaft."
+    },
+    {
+      "q": "Wo kann ich die Ravensburger Bebauungspläne einsehen?",
+      "a": "Im Stadtplanungsamt im Technischen Rathaus kostenlos während der Öffnungszeiten; neuere Pläne stehen auch online bereit. Auszüge gibt es gegen Gebühr beim Bürgerservice Baudezernat."
+    },
+    {
+      "q": "Wer ermittelt die Bodenrichtwerte für Ravensburg?",
+      "a": "Der Gemeinsame Gutachterausschuss von 23 Städten und Gemeinden im westlichen Landkreis Ravensburg; seine Geschäftsstelle ist beim Stadtplanungsamt angesiedelt."
+    }
+  ],
+  "offen": [
+    "Zuständigkeit als untere Baurechtsbehörde (Große Kreisstadt) nicht ausdrücklich auf einer Stadtseite gefunden; Text sagt nur, dass Bauanträge bei der Stadt eingereicht werden.",
+    "Prämienkatalog Wohnen (Beratungsprämie für Aufteilung von Ein-/Doppelhäusern, befristet 2026) bewusst nicht aufgenommen.",
+    "Ortsbeschreibung im Einstieg (Schussental, Hänge von Veitsburg und Eschach, Nachverdichtung im Bestand) nicht durch Fakt-Quelle belegt."
+  ]
+}

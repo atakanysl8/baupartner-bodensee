@@ -1,0 +1,87 @@
+{
+  "leistung": "hochbau",
+  "ort": "ulm",
+  "ortName": "Ulm",
+  "kreis": "Ulm",
+  "title": "Bauunternehmen Ulm – kostenlos vermittelt",
+  "description": "Bauen in Ulm: Bürgerservice Bauen, Bauplatzvergabe per Bewerbung, Gestaltungsbeirat, Bebauungspläne online, Bodenrichtwerte. Kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Ulm",
+  "einstieg": "Ulm ist kreisfreie Stadt; Baurecht, Stadtplanung und Bauplatzvergabe liegen deshalb in einer Hand bei der Stadtverwaltung. Wer hier ein Einfamilienhaus in einem Neubaugebiet, ein Mehrfamilienhaus am Eselsberg oder einen Ersatzbau in der Innenstadt plant, hat mit dem Bürgerservice Bauen, einem Bewerbungsverfahren für städtische Bauplätze und bei größeren Projekten mit dem Ulmer Gestaltungsbeirat zu tun.",
+  "abschnitte": [
+    {
+      "h2": "Erste Anlaufstelle: Bürgerservice Bauen in der Münchner Straße",
+      "text": "Für Fragen zu Flächennutzungsplan, Bebauungsplänen, Bauantrag und Baugenehmigung bietet die Stadt Ulm den Bürgerservice Bauen als Auskunfts- und Beratungsdienst an; weitergehende Anliegen leitet er an die zuständigen Fachabteilungen weiter. Alle seit 2010 beschlossenen Bebauungspläne stehen samt Begründung online, ältere Pläne lassen sich als PDF beim Bürgerservice Bauen anfordern. Ob ein Vorhaben eine Baugenehmigung braucht, verfahrensfrei ist oder im Kenntnisgabeverfahren laufen kann, richtet sich nach der Landesbauordnung; die Stadt stellt die jeweiligen Verfahren in ihrem Dienstleistungsangebot dar."
+    },
+    {
+      "h2": "Bauplatz in Ulm: Bewerbung je Baugebiet",
+      "text": "Städtische Bauplätze vergibt Ulm über Bewerbungsverfahren: Sobald die Stadt ein Baugebiet öffentlich bekannt macht, können sich Interessierte über ein Online-Portal oder schriftlich bei der Abteilung Liegenschaften und Wirtschaftsförderung bewerben; danach folgen Auswertung, Zuteilung und notarieller Kaufvertrag. Einzelne bebaute oder unbebaute Grundstücke schreibt die Stadt gesondert aus. Für die Einschätzung von Grundstückspreisen ermittelt der Gutachterausschuss alle zwei Jahre Bodenrichtwerte, die über das Landessystem BORIS-BW abrufbar sind; telefonische Auskünfte der Geschäftsstelle sind unentgeltlich."
+    },
+    {
+      "h2": "Gestaltung und Stadtbild: Beirat und Stadtbildpflege",
+      "text": "Bei Projekten mit besonderer Wirkung auf Stadt- und Landschaftsbild berät der Ulmer Gestaltungsbeirat aus vier unabhängigen Fachleuten Stadtplanung und Gemeinderatsausschuss; die Beratung der Projekte ist öffentlich. Unabhängig davon gibt die städtische Stadtbildgestaltung im Baugenehmigungsverfahren Stellungnahmen ab, wenn ein Vorhaben das Bild des öffentlichen Raumes prägt, und berät Bauwillige zu Gestaltung und Farbgebung. Wer in einem Neubaugebiet baut, sollte auch die Wärmeversorgung früh klären: Die Stadt nennt Neubaugebiete wie „Am Weinberg“ als Gebiete zur Verdichtung des Fernwärmenetzes. Steht Ihr Vorhaben, schildern Sie es über unser Formular; wir wählen dafür einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Der Bürgerservice Bauen der Stadt Ulm (Münchner Straße 2) ist Auskunfts- und Beratungsdienst zu Flächennutzungsplan, Bebauungsplänen, Bauantrag und Baugenehmigung.",
+      "quelle": "Stadt Ulm – Bauverfahren",
+      "url": "https://www.ulm.de/leben-in-ulm/bauen-und-wohnen/rund-ums-bauen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Online gelistet sind alle Bebauungspläne der Stadt Ulm, die ab 2010 als Satzung beschlossen wurden; ältere Pläne können als PDF per E-Mail beim Bürgerservice Bauen angefordert werden.",
+      "quelle": "Stadt Ulm – Rechtsverbindliche Bebauungspläne",
+      "url": "https://www.ulm.de/leben-in-ulm/bauen-und-wohnen/rund-ums-bauen/bebauungsplan/rechtsverbindliche-bebauungsplaene",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für städtische Baugebiete gibt es in Ulm ein Bewerbungsverfahren nach öffentlicher Bekanntmachung; Bewerbungen laufen über ein Online-Portal oder schriftlich bei der Abteilung Liegenschaften und Wirtschaftsförderung.",
+      "quelle": "Stadt Ulm – Grundstücksverkauf und Bauplätze",
+      "url": "https://www.ulm.de/leben-in-ulm/bauen-und-wohnen/rund-ums-grundst%C3%BCck/grundst%C3%BCcksverkauf-und-baupl%C3%A4tze",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Bodenrichtwerte für den Stadtkreis Ulm werden alle zwei Jahre zum Ende eines geraden Kalenderjahres ermittelt und über BORIS-BW veröffentlicht; telefonische Auskünfte der Geschäftsstelle sind unentgeltlich.",
+      "quelle": "Stadt Ulm – Bodenrichtwerte",
+      "url": "https://www.ulm.de/leben-in-ulm/bauen-und-wohnen/rund-ums-grundst%C3%BCck/bodenrichtwerte",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Ulmer Gestaltungsbeirat besteht aus vier unabhängigen Fachleuten aus Städtebau, Landschaftsplanung und Architektur und berät öffentlich zu Projekten mit besonderer Auswirkung auf Stadt- und Landschaftsbild.",
+      "quelle": "Stadt Ulm – Der Ulmer Gestaltungsbeirat",
+      "url": "https://www.ulm.de/leben-in-ulm/bauen-und-wohnen/stadtplanung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtbildgestaltung gibt im Baugenehmigungsverfahren Stellungnahmen ab, sobald Bauvorhaben für das Erscheinungsbild des öffentlichen Raumes bedeutsam sind, und berät Bauwillige zu Gestaltung und Farbgebung.",
+      "quelle": "Stadt Ulm – Stadtbildgestaltung",
+      "url": "https://www.ulm.de/leben-in-ulm/bauen-und-wohnen/stadtbildgestaltung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Beim Ausbau der Fernwärme nennt die Stadt Ulm unter anderem das Neubaugebiet „Am Weinberg“ sowie den Alten Eselsberg, das Wengenviertel und den Kuhberg.",
+      "quelle": "Stadt Ulm – Ausbau der Fernwärme",
+      "url": "https://www.ulm.de/leben-in-ulm/umwelt-energie-entsorgung/energie-und-klimaschutz/fernwaerme",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie komme ich in Ulm an einen städtischen Bauplatz?",
+      "a": "Über ein Bewerbungsverfahren, das die Stadt für jedes Baugebiet öffentlich bekannt macht. Auskunft gibt die Abteilung Liegenschaften und Wirtschaftsförderung."
+    },
+    {
+      "q": "Wo finde ich den Bebauungsplan für mein Grundstück in Ulm?",
+      "a": "Pläne ab 2010 stehen auf der Website der Stadt; ältere Pläne verschickt der Bürgerservice Bauen auf Anfrage als PDF."
+    },
+    {
+      "q": "Muss mein Neubau in Ulm in den Gestaltungsbeirat?",
+      "a": "Der Beirat befasst sich mit Projekten, die besondere Auswirkungen auf Stadt- und Landschaftsbild haben. Ob das für ein Vorhaben zutrifft, klärt in der Regel die Stadtplanung."
+    }
+  ],
+  "offen": [
+    "Dass Ulm als Stadtkreis selbst untere Baurechtsbehörde ist, ist allgemein bekannt; im Text nur indirekt („in einer Hand bei der Stadtverwaltung“) formuliert, eine Amtsseite mit dem Begriff wurde nicht geöffnet.",
+    "Ortsangaben im Einstieg (Eselsberg, Innenstadt) sind beispielhaft; Eselsberg ist durch die Fernwärme-Seite belegt.",
+    "Eine Starkregengefahrenkarte für Ulm wurde 2017 als in Arbeit erwähnt (EBU-Seite); ihr aktueller Stand wurde nicht geprüft und nicht erwähnt."
+  ]
+}

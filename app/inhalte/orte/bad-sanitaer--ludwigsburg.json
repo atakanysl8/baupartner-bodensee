@@ -1,0 +1,81 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "ludwigsburg",
+  "ortName": "Ludwigsburg",
+  "kreis": "Ludwigsburg",
+  "title": "Badsanierung Ludwigsburg – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Ludwigsburg: Wasser mittlerer Härte von den Stadtwerken, Rückstausicherung laut Abwassersatzung, Wohnberatung. Kostenlos vermittelt.",
+  "h1": "Badsanierung in Ludwigsburg",
+  "einstieg": "Ob Barockhaus in der Innenstadt, Gartenstadthaus in der Südstadt oder Reihenhaus in Oßweil: Wer in Ludwigsburg ein Bad modernisiert, bezieht sein Wasser von den Stadtwerken, entwässert nach der städtischen Abwassersatzung und findet für den barrierearmen Umbau gleich zwei städtische Beratungsstellen unter einem Dach.",
+  "abschnitte": [
+    {
+      "h2": "Fernwasser aus zwei Richtungen: Härte und Leitungsmaterial",
+      "text": "Die Wasserversorgungsanlagen in Ludwigsburg und Kornwestheim gehören den Stadtwerken Ludwigsburg-Kornwestheim (SWLB). Sie fördern selbst kein Trinkwasser, sondern beziehen es etwa zu gleichen Teilen von der Landeswasserversorgung und der Bodensee-Wasserversorgung. Je nach Herkunft schwankt die Härte deshalb zwischen 9,1 und 13,4 °dH, liegt aber überall im Bereich „mittel“. Für ein neues Bad bedeutet das: Kalk ist ein Thema, aber kein dominierendes; pflegeleichte Oberflächen und erreichbare Perlatoren genügen meist. Wichtiger ist oft der Blick hinter die Fliesen. Die SWLB weisen darauf hin, dass erhöhte Werte etwa von Blei, Kupfer oder Nickel meist aus ungeeigneten Werkstoffen der Hausinstallation stammen, gerade wenn Wasser lange steht. Eine Badsanierung ist eine gute Gelegenheit, alte Leitungen zu ersetzen."
+    },
+    {
+      "h2": "Kellerbad und Abwassersatzung: Rückstauebene beachten",
+      "text": "Die Ludwigsburger Abwassersatzung ist bei Kellerbädern deutlich: Toiletten, Bodenabläufe, Duschen und Waschbecken unterhalb der Rückstauebene sichert der Grundstückseigentümer auf eigene Kosten gegen Rückstau. Als Rückstauebene gilt die Straßenoberfläche an der Anschlussstelle. Herstellung und Änderung der Grundstücksentwässerung bedürfen nach der Satzung einer schriftlichen Genehmigung der Stadt, im Antrag sind auch Rückstauverschlüsse einzuzeichnen. Die Stadt stellt dazu einen Flyer „Rückstau von Abwasser“ bereit. Wer im Keller umbaut, sollte außerdem den Baugrund im Blick haben: Grund- und Sickerwasser dürfen nach Angaben der Stadt nicht über Drainagen in den Kanal geleitet werden."
+    },
+    {
+      "h2": "Barrierearm umbauen: Pflegestützpunkt und Seniorenbüro",
+      "text": "In der Begegnungsstätte Becksches Palais an der Stuttgarter Straße sitzen der Pflegestützpunkt der Stadt und das Seniorenbüro. Der Pflegestützpunkt erläutert Hilfsmittel und verleiht einige davon kurzzeitig zum Ausprobieren. Das Seniorenbüro berät kostenlos zum barrierefreien Umbau von Haus oder Wohnung, auch bei Ihnen zu Hause, und informiert über Zuschüsse der Pflegekassen. Wenn Maße und Wünsche feststehen, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die SWLB beziehen ihr Trinkwasser etwa zu gleichen Teilen von der Landeswasserversorgung und der Bodensee-Wasserversorgung; die Härte liegt zwischen 9,1 und 13,4 °dH, Härtebereich „mittel“.",
+      "quelle": "Stadtwerke Ludwigsburg-Kornwestheim – Wasser",
+      "url": "https://www.swlb.de/wasser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach Angaben der SWLB sind erhöhte Werte von Metallen wie Blei, Kupfer oder Nickel meist auf ungeeignete Werkstoffe der Trinkwasserinstallation im Gebäude zurückzuführen.",
+      "quelle": "Stadtwerke Ludwigsburg-Kornwestheim – Wasser",
+      "url": "https://www.swlb.de/wasser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach § 17 der Abwassersatzung sind Toiletten, Bodenabläufe, Spülen und Waschbecken unterhalb der Rückstauebene vom Grundstückseigentümer auf seine Kosten gegen Rückstau zu sichern.",
+      "quelle": "Stadt Ludwigsburg – Abwassersatzung ab 2025",
+      "url": "https://www.ludwigsburg.de/site/Ludwigsburg-Internet-2020/get/params_E-811307834/23398778/Abwassersatzung_ab_2025.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Herstellung und Änderung von Grundstücksentwässerungsanlagen bedürfen nach der Ludwigsburger Abwassersatzung der schriftlichen Genehmigung der Stadt.",
+      "quelle": "Stadt Ludwigsburg – Abwassersatzung ab 2025",
+      "url": "https://www.ludwigsburg.de/site/Ludwigsburg-Internet-2020/get/params_E-811307834/23398778/Abwassersatzung_ab_2025.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt der Stadt Ludwigsburg in der Stuttgarter Straße 12/1 berät zu Hilfsmitteln und verleiht einige davon nach einer Beratung für kurze Zeit zum Testen.",
+      "quelle": "Stadt Ludwigsburg – Pflegestützpunkt",
+      "url": "https://www.ludwigsburg.de/start/leben+in+ludwigsburg/pflegestuetzpunkt.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Seniorenbüro der Stadt bietet kostenlose Beratung zum barrierefreien Umbau an, in der Begegnungsstätte oder zu Hause, einschließlich Hilfsmitteln und Pflegekassenzuschüssen.",
+      "quelle": "Stadt Ludwigsburg – Pflegestützpunkt",
+      "url": "https://www.ludwigsburg.de/start/leben+in+ludwigsburg/pflegestuetzpunkt.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Leitungswasser in Ludwigsburg?",
+      "a": "Laut SWLB zwischen 9,1 und 13,4 °dH, je nach Anteil von Landes- und Bodenseewasser, und damit im mittleren Härtebereich. Die Jahresmittelwerte stehen in der Trinkwasseranalyse der Stadtwerke."
+    },
+    {
+      "q": "Was verlangt die Ludwigsburger Abwassersatzung bei einem Bad im Keller?",
+      "a": "Entwässerungsgegenstände unterhalb der Rückstauebene sind nach der Satzung gegen Rückstau zu sichern. Ob für den Umbau eine Genehmigung der Grundstücksentwässerung nötig ist, beantwortet die Stadtentwässerung Ludwigsburg."
+    },
+    {
+      "q": "Wer berät in Ludwigsburg neutral zum barrierefreien Bad?",
+      "a": "Das Seniorenbüro der Stadt berät kostenlos zur Wohnungsanpassung, der Pflegestützpunkt zu Hilfsmitteln. Beide sitzen in der Stuttgarter Straße 12/1."
+    }
+  ],
+  "offen": [
+    "Zuständige Stelle für Entwässerungsgenehmigungen als „Stadtentwässerung Ludwigsburg (SEL)“ aus städtischen Dokumenten (Baugrund-Infoblatt, SEL-Formulare) abgeleitet; eigene SEL-Seite nicht geprüft.",
+    "Ortsteilnennungen im Einstieg (Südstadt, Oßweil) nur über Erhaltungssatzungs-Seite belegt, nicht als Fakt aufgeführt.",
+    "Ob das Seniorenbüro selbst die Wohnberatung durchführt oder ehrenamtliche Wohnberater vermittelt, nur aus Seitentext („Haupt- und Ehrenamtliche“) übernommen."
+  ]
+}

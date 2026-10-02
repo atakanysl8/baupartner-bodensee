@@ -1,0 +1,87 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "boeblingen",
+  "ortName": "Böblingen",
+  "kreis": "Böblingen",
+  "title": "Badsanierung Böblingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Böblingen: Wasser mittlerer Härte, Rückstauebene laut Entwässerungssatzung, Beratung fürs Bad im Alter. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Böblingen",
+  "einstieg": "Ein neues Bad in Böblingen beginnt oft mit ganz praktischen Fragen: Wie kalkhaltig ist das Wasser, das in Böblingen und Dagersheim aus der Leitung kommt? Muss das Kellerbad gegen Rückstau aus dem Kanal gesichert werden? Und wer berät unabhängig, wenn die Dusche bodengleich werden soll? Für alle drei Punkte gibt es in der Stadt eigene Ansprechpartner.",
+  "abschnitte": [
+    {
+      "h2": "Bodensee und Ammertal: Woher das Böblinger Wasser kommt",
+      "text": "Die Stadtwerke Böblingen verteilen Trinkwasser aus zwei Quellen: Bodenseewasser und Grundwasser, das im Ammer- und Neckartal aus Brunnen in 40 bis 60 Metern Tiefe gefördert wird. Zuständig für die Lieferung sind die Zweckverbände Bodensee-Wasserversorgung und Ammertal-Schönbuchgruppe. Nach Angaben der Stadtwerke liegt die Härte im mittleren Bereich zwischen 8,4 und 14 °dH. Für die Badplanung bedeutet das: Kalk an Fliesenfugen, Brauseköpfen und Glastrennwänden ist ein Thema, aber kein so ausgeprägtes wie in Orten mit sehr hartem Grundwasser. Ob sich eine Enthärtungsanlage lohnt, hängt eher von Warmwasserbereitung und Pflegeaufwand ab."
+    },
+    {
+      "h2": "Rückstauebene Straßenoberkante: Kellerbäder in Böblingen absichern",
+      "text": "Abwasser ist in Böblingen Sache des Eigenbetriebs Stadtentwässerung Böblingen (SEBB). Er weist darauf hin, dass nach der Entwässerungssatzung der Stadt die Straßenoberkante als maximale Rückstauebene gilt. Alle Abläufe darunter, also auch Dusche, WC oder Waschmaschine im Untergeschoss, sind bei einer Überlastung des Kanals gefährdet. Wer ein Bad im Keller plant, bezieht die Rückstausicherung deshalb sinnvollerweise von Anfang an ein. Auf den Starkregen-Gefahrenkarten der SEBB lässt sich zudem prüfen, ob das Grundstück bei Starkregen gefährdet ist."
+    },
+    {
+      "h2": "Bad fürs Älterwerden: Fachstelle LiA und Pflegestützpunkt in Böblingen",
+      "text": "Für einen barrierearmen Umbau hat Böblingen eine eigene städtische Anlaufstelle: Die Fachstelle Leben im Alter (LiA) berät unabhängig, vertraulich und kostenlos, auch beim Hausbesuch, unter anderem zum Wohnen im Alter und bei Krankheit. Fragen zur Pflegeversicherung beantwortet der Pflegestützpunkt des Landkreises in der Konrad-Zuse-Straße. Für die energetische Seite, etwa einen neuen Warmwasserspeicher, bietet die Stadt digitale Gebäudesteckbriefe und verweist auf die Erstberatung der Energieagentur. Steht das Konzept, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Das Böblinger Trinkwasser stammt aus dem Bodensee und aus Grundwasser des Ammer- und Neckartals; geliefert wird es von den Zweckverbänden Bodensee-Wasserversorgung und Ammertal-Schönbuchgruppe.",
+      "quelle": "Stadtwerke Böblingen – Wasser",
+      "url": "https://www.stadtwerke-boeblingen.de/energie-wasser/wasser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Böblingen geben die Wasserhärte mit dem mittleren Bereich von 8,4 bis 14 °dH an.",
+      "quelle": "Stadtwerke Böblingen – Wasser",
+      "url": "https://www.stadtwerke-boeblingen.de/energie-wasser/wasser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach der Entwässerungssatzung der Stadt Böblingen gilt die Straßenoberkante als maximale Rückstauebene; sie ist für die Sicherung aller Grundstücksentwässerungsanlagen maßgebend.",
+      "quelle": "Stadtentwässerung Böblingen – Rückstausicherung",
+      "url": "https://www.stadtentwaesserung-bb.de/service/r%C3%BCckstausicherung/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Auf den Starkregen-Gefahrenkarten der Stadtentwässerung Böblingen kann jede Person einsehen, ob das eigene Grundstück gefährdet ist; die Stadtentwässerung berät auch persönlich zum Objektschutz.",
+      "quelle": "Stadt Böblingen – Starkregen, Hochwasser & Trockenheit",
+      "url": "https://www.boeblingen.de/mobilitaet--klima/klima--nachhaltigkeit/klimaanpassung-in-boeblingen/starkregen-hochwasser--trockenheit",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die städtische Fachstelle Leben im Alter (LiA) berät unabhängig, vertraulich und kostenlos, per Telefon, im Büro oder beim Hausbesuch, unter anderem zum Wohnen im Alter.",
+      "quelle": "Stadt Böblingen – Fachstelle Leben im Alter",
+      "url": "https://www.boeblingen.de/24553681",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt in Böblingen ist ein Angebot des Landkreises und berät kostenlos, neutral und unabhängig zu Pflege, Pflegeversicherung und häuslicher Pflege.",
+      "quelle": "Stadt Böblingen – Pflegestützpunkt",
+      "url": "https://www.boeblingen.de/leben--lernen/seniorinnen/pflegestuetzpunkt",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Mit den energetischen Gebäudesteckbriefen bietet die Stadt Böblingen einen kostenlosen digitalen Service zur Ersteinschätzung des Energiebedarfs einer Immobilie.",
+      "quelle": "Stadt Böblingen – Energetische Gebäudesteckbriefe",
+      "url": "https://www.boeblingen.de/mobilitaet--klima/klima--nachhaltigkeit/energetische-gebaeudesteckbriefe",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Leitungswasser in Böblingen?",
+      "a": "Die Stadtwerke Böblingen ordnen es dem mittleren Härtebereich zu, also 8,4 bis 14 °dH. Es ist eine Mischung aus Bodenseewasser und Grundwasser aus dem Ammer- und Neckartal."
+    },
+    {
+      "q": "Bis zu welcher Höhe muss ein Kellerbad in Böblingen gegen Rückstau gesichert sein?",
+      "a": "Maßgebend ist laut Entwässerungssatzung die Straßenoberkante als maximale Rückstauebene. Auskunft im Einzelfall gibt die Stadtentwässerung Böblingen."
+    },
+    {
+      "q": "Wo bekomme ich in Böblingen Beratung zum altersgerechten Bad?",
+      "a": "Bei der städtischen Fachstelle Leben im Alter (LiA), auch im Rahmen eines Hausbesuchs. Zu Leistungen der Pflegeversicherung berät der Pflegestützpunkt des Landkreises in Böblingen."
+    }
+  ],
+  "offen": [
+    "Die Trinkwasseranalyse der Stadtwerke Böblingen (PDF) ist ein Scan und konnte nicht ausgelesen werden; Härteangabe stützt sich auf die Webseite (Bereich 8,4–14 °dH, ohne genauen Messwert).",
+    "Ob die Stadtentwässerung für Bad-Umbauten einen Entwässerungsantrag verlangt, wurde nicht geprüft.",
+    "Dass die Erstberatung der Energieagentur auch Warmwasserspeicher abdeckt, ist nicht ausdrücklich belegt; die Stadt verlinkt sie nur unter Energie/Sanierung."
+  ]
+}

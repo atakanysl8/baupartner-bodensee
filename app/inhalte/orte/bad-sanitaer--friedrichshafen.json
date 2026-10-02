@@ -1,0 +1,81 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "friedrichshafen",
+  "ortName": "Friedrichshafen",
+  "kreis": "Bodenseekreis",
+  "title": "Badsanierung Friedrichshafen – Fachbetrieb vermittelt",
+  "description": "Badsanierung in Friedrichshafen: städtischer Zuschuss fürs barrierefreie Bad, Wohnberatung im Bodenseekreis, Seewasser. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Friedrichshafen",
+  "einstieg": "Wer in Friedrichshafen sein Bad altersgerecht umbauen möchte, trifft auf ein städtisches Förderprogramm für den barrierefreien Umbau, das konkrete Anforderungen an WC und Dusche nennt. Hinzu kommen Fragen zur Warmwasseranlage im Mehrfamilienhaus und zum Leitungswasser, das in Friedrichshafen aus dem Bodensee kommt.",
+  "abschnitte": [
+    {
+      "h2": "Städtischer Zuschuss für das barrierefreie Bad in Friedrichshafen",
+      "text": "Die Stadt Friedrichshafen fördert im Rahmen ihrer Haushaltsmittel den barrierefreien Umbau bestehender Gebäude und Wohnungen. Antragsberechtigt sind Eigentümer und Vermieter, auch von Eigentumswohnungen. Für den Sanitärbereich nennt die Stadt zwei Anforderungen: ein WC mit 48 Zentimetern Sitzhöhe und einen stufenlos begeh- und befahrbaren Dusch- und Umsteigeplatz. Nach den Förderbedingungen ist der Antrag vor Abschluss der Maßnahme einzureichen. Planungsgrundlage ist die DIN 18040 Teil 2, wobei die Stadt in Absprache Abweichungen zulassen kann. Zuständig ist die Abteilung Wohnungsbindung und -förderung im Technischen Rathaus; ein Rechtsanspruch besteht nicht."
+    },
+    {
+      "h2": "Bodenseewasser und Warmwasser im Mehrfamilienhaus",
+      "text": "Das Trinkwasser in Friedrichshafen liefert das Stadtwerk am See. Es wird aus dem Bodensee gewonnen, mit Ozon und UV-Licht aufbereitet und liegt mit 9,2 °dH im Härtebereich „mittel“. Für Duschglas und Armaturen bedeutet das spürbaren, aber überschaubaren Kalk. Wichtiger wird in größeren Häusern die Warmwasseranlage: Das Stadtwerk nennt Anlagen mit mehr als 400 Litern Speicher oder mehr als 3 Litern Rohrleitungsinhalt Großanlagen, für die in vielen Wohnimmobilien regelmäßig auf Legionellen untersucht werden muss. Werden im Mehrfamilienhaus Leitungen oder Speicher erneuert, gehört das früh in die Abstimmung mit Verwaltung und Planer."
+    },
+    {
+      "h2": "Neutrale Beratung im Bodenseekreis vor dem Umbau",
+      "text": "Bevor Fliesen, Duschtasse, Armaturen und Sanitärobjekte ausgesucht werden, lohnt sich ein Gespräch mit einer unabhängigen Stelle. Der Kreisseniorenrat Bodenseekreis organisiert eine ehrenamtliche Wohnberatung; für den östlichen Kreis und die Stadt Friedrichshafen ist eine Architektin als Wohnberaterin benannt. Der Pflegestützpunkt des Landratsamts informiert kostenlos und neutral über Leistungen bei Pflegebedürftigkeit, die auch für Umbauten relevant sein können. Steht der Plan, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadt Friedrichshafen bezuschusst den barrierefreien Umbau bestehender Gebäude und Wohnungen; Höhe und Bedingungen der Förderung legt die Stadt in ihren Förderrichtlinien fest.",
+      "quelle": "Stadt Friedrichshafen – Senioren- und behindertengerechtes Wohnen",
+      "url": "https://www.friedrichshafen.de/buerger-stadt/rathaus-buergerservice/dienstleistungen-a-z/detailseite/service/senioren-und-behindertengerechtes-wohnen/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Gefördert wird im Sanitärbereich ein WC mit 48 cm Sitzhöhe und ein stufenlos begeh- und befahrbarer Dusch- und Umsteigeplatz; Planungsgrundlage ist die DIN 18040 Teil 2.",
+      "quelle": "Stadt Friedrichshafen – Senioren- und behindertengerechtes Wohnen",
+      "url": "https://www.friedrichshafen.de/buerger-stadt/rathaus-buergerservice/dienstleistungen-a-z/detailseite/service/senioren-und-behindertengerechtes-wohnen/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Stadtwerk am See gibt für das Friedrichshafener Trinkwasser eine Härte von 1,7 mmol/l bzw. 9,2 °dH an (Härtebereich mittel); das Rohwasser stammt aus dem Bodensee und wird unter anderem mit Ozon und UV-Licht aufbereitet.",
+      "quelle": "Stadtwerk am See – Wasserqualität",
+      "url": "https://www.stadtwerk-am-see.de/wasserwerte",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Als Großanlagen zur Trinkwassererwärmung nennt das Stadtwerk am See Anlagen mit über 400 Litern Speichervolumen oder über 3 Litern Rohrleitungsvolumen; in vielen Wohnimmobilien sind dort regelmäßige Legionellenuntersuchungen vorgesehen.",
+      "quelle": "Stadtwerk am See – Legionellenuntersuchung",
+      "url": "https://www.stadtwerk-am-see.de/de/Netz1/Wassernetz/Legionellenuntersuchung/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die ehrenamtliche Wohnberatung beim Kreisseniorenrat Bodenseekreis berät zu barrierefreiem Bauen und zur Anpassung von Wohnraum; für den östlichen Kreis und Friedrichshafen gibt es eine eigene Wohnberaterin.",
+      "quelle": "Landratsamt Bodenseekreis – Wohnberatung",
+      "url": "https://www.bodenseekreis.de/soziales-gesundheit/senioren-pflege/welt-alzheimer-tag/wohnberatung/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt des Bodenseekreises wird vom Landkreis sowie von Kranken- und Pflegekassen finanziert und berät kostenlos und neutral.",
+      "quelle": "Landratsamt Bodenseekreis – Beratung: Pflegestützpunkt",
+      "url": "https://www.bodenseekreis.de/soziales-gesundheit/senioren-pflege/beratung-pflegestuetzpunkt/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Bekomme ich in Friedrichshafen einen Zuschuss für eine bodengleiche Dusche?",
+      "a": "Die Stadt bezuschusst den barrierefreien Umbau, auch im Sanitärbereich. Höhe und Voraussetzungen richten sich nach den aktuellen Förderrichtlinien der Stadt. Auskunft gibt die Abteilung Wohnungsbindung und -förderung; ein Rechtsanspruch besteht nicht."
+    },
+    {
+      "q": "Wie hart ist das Leitungswasser in Friedrichshafen?",
+      "a": "Laut Stadtwerk am See liegt die Härte bei 9,2 °dH, also im mittleren Bereich. Das Wasser wird aus dem Bodensee gewonnen."
+    },
+    {
+      "q": "Wer berät im Bodenseekreis unabhängig zum altersgerechten Bad?",
+      "a": "Anlaufstellen sind die ehrenamtliche Wohnberatung beim Kreisseniorenrat und der Pflegestützpunkt des Landratsamts. Der Pflegestützpunkt berät nach eigenen Angaben kostenlos und neutral."
+    }
+  ],
+  "offen": [
+    "Ob das Stadtwerk am See alle Ortschaften von Friedrichshafen (Ailingen, Ettenkirch, Kluftern, Raderach) mit demselben Seewasser versorgt, ist nicht belegt; die Härteangabe gilt für das Versorgungsgebiet „Friedrichshafen (SWSee-Bodenseewasser)“.",
+    "Förderbetrag 1.500 Euro (Sanitär) laut Stadtseite; Programm steht unter Haushaltsvorbehalt und kann sich ändern.",
+    "Legionellen-Pflicht nur sinngemäß nach Stadtwerk-Seite wiedergegeben (Trinkwasserverordnung nicht selbst geprüft)."
+  ]
+}

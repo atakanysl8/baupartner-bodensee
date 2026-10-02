@@ -1,0 +1,81 @@
+{
+  "leistung": "hochbau",
+  "ort": "rastatt",
+  "ortName": "Rastatt",
+  "kreis": "Rastatt",
+  "title": "Bauunternehmen Rastatt – kostenlos vermittelt",
+  "description": "Neubau oder Anbau in Rastatt: Kundenbereich Baurecht, Bauplatzvergabe nach Kriterien über Baupilot, Starkregenkarten und Bodenrichtwerte. Kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Rastatt",
+  "einstieg": "Rastatt liegt zwischen Murg und Rhein, und das prägt das Bauen: Baugebiete in Rauental oder Niederbühl, Nachverdichtung in der Kernstadt, dazu Grundwasser und Starkregen als Planungsthemen. Wer hier ein Eigenheim, einen Anbau oder ein Mehrfamilienhaus plant, hat mit dem städtischen Baurecht, der Bauplatzvergabe der Stadt und dem Gutachterausschuss zu tun.",
+  "abschnitte": [
+    {
+      "h2": "Kundenbereich Baurecht in der Kaiserstraße",
+      "text": "Als Große Kreisstadt entscheidet Rastatt über Bauanträge selbst. Zuständig ist der Kundenbereich Baurecht in der Kaiserstraße 48a. Er nimmt Bauanträge im regulären und im vereinfachten Verfahren entgegen, bearbeitet Kenntnisgabeverfahren und Bauvorbescheide, führt das Baulastenverzeichnis und erteilt denkmalrechtliche Genehmigungen. Auch die Erfüllungserklärung zum Gebäudeenergiegesetz bei der Errichtung eines Gebäudes wird dort vorgelegt. Bebauungspläne, die seit Oktober 2017 in Kraft getreten sind, veröffentlicht die Stadt im Internet; ob ein Grundstück im Geltungsbereich eines älteren Plans liegt, beantwortet der Kundenbereich Stadtplanung. Ein Bauvorbescheid kann bei einem ungewöhnlichen Vorhaben, etwa einem Hinterhaus oder einer Aufstockung, früh Klarheit bringen."
+    },
+    {
+      "h2": "Bauplatz in Rastatt: Vergabe nach Kriterien statt Höchstgebot",
+      "text": "Städtische Wohnbauplätze vergibt Rastatt über die Plattform Baupilot; Interessierte können sich dort vorab registrieren und werden informiert, wenn Grundstücke anstehen, einen Anspruch auf Zuteilung gibt es nicht. Nach der Vergaberichtlinie der Stadt werden die Plätze nicht an das höchste Gebot, sondern nach städtebaulichen und sozialen Kriterien zum Verkehrswert vergeben, und zwar für selbst genutzte Eigenheime. Bauträger und andere, die für Dritte bauen, sind nicht antragsberechtigt; ehrenamtliches Engagement wird positiv berücksichtigt. Für Bodenrichtwerte und Verkehrswerte ist der Gemeinsame Gutachterausschuss zuständig, in dem Rastatt seit 2019 mit acht Umlandgemeinden zusammenarbeitet."
+    },
+    {
+      "h2": "Starkregen und Grundwasser bei der Planung",
+      "text": "Für den gesamten Landkreis gibt es Starkregengefahrenkarten, die aus einem Kooperationsprojekt mit der Stadt Baden-Baden stammen. Die Stadt weist darauf hin, dass Wasser nicht nur oberirdisch, sondern auch über die Kanalisation und als steigendes Grundwasser durch Kellerwände und Bodenplatte eindringen kann. Für Keller, Tiefgaragenabfahrt und Erdgeschosshöhe ist das eine wichtige Planungsgrundlage. Auch Lichtschächte und Kellerfenster sollten danach ausgerichtet werden. Steht Ihr Vorhaben, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Der Kundenbereich Baurecht der Stadt Rastatt (Kaiserstraße 48a) bearbeitet unter anderem Baugenehmigungen, Kenntnisgabeverfahren, Bauvorbescheide, das Baulastenverzeichnis und denkmalrechtliche Genehmigungen.",
+      "quelle": "Stadt Rastatt – Kundenbereich Baurecht",
+      "url": "https://www.rastatt.de/rathaus-und-politik/stadtverwaltung/dienststellen-und-ansprechpartner/kundenbereich-baurecht",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Seit Oktober 2017 in Kraft getretene Bebauungspläne veröffentlicht die Stadt Rastatt im Internet; Auskünfte zu älteren Plänen gibt der Kundenbereich Stadtplanung.",
+      "quelle": "Stadt Rastatt – Rechtskräftige Bebauungspläne",
+      "url": "https://www.rastatt.de/rathaus-und-politik/stadtverwaltung/amtliche-veroeffentlichungen/rechtskraeftige-bebauungsplaene",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bewerbungen um städtische Wohnbauplätze laufen über die Plattform Baupilot; eine Registrierung begründet keinen Anspruch auf Zuteilung.",
+      "quelle": "Stadt Rastatt – Städtische Grundstücke und Baugebiete",
+      "url": "https://www.rastatt.de/mein-rastatt/wohnen/verkauf-von-staedtischen-grundstuecken",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach der Vergaberichtlinie der Stadt Rastatt werden Wohnbauplätze nach städtebaulichen und sozialen Kriterien zum Verkehrswert für selbst genutzte Eigenheime vergeben; Bauträger sind nicht antragsberechtigt.",
+      "quelle": "Stadt Rastatt – Vergaberichtlinie für städtische Wohnbauplätze",
+      "url": "https://www.rastatt.de/site/Rastatt-Stadt/get/documents_E-1736296664/rastatt/Dateien/PDFs/2.%20Rathaus%20und%20Politik/Verwaltung/Ver%C3%B6ffentlichungen/Ortsrecht/Bauen%20und%20Wohnen/Vergaberichtlinie%20der%20Stadt%20Rastatt%20f%C3%BCr%20st%C3%A4dtische%20Wohnbaupl%C3%A4tze.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Seit 2019 ist der Gutachterausschuss Rastatt mit denen von Au am Rhein, Bietigheim, Durmersheim, Elchesheim-Illingen, Iffezheim, Muggensturm, Ötigheim und Steinmauern zusammengeführt.",
+      "quelle": "Stadt Rastatt – Gemeinsamer Gutachterausschuss",
+      "url": "https://www.rastatt.de/rathaus-und-politik/stadtverwaltung/gemeinsamer-gutachterausschuss/informationen-und-aufgaben",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Starkregengefahrenkarten für den Landkreis Rastatt beruhen auf einer Gefährdungsanalyse von März 2021 bis November 2023 im Kooperationsprojekt von Landkreis Rastatt und Stadt Baden-Baden.",
+      "quelle": "Stadt Rastatt – Starkregen",
+      "url": "https://www.rastatt.de/mein-rastatt/natur-und-umwelt/starkregen",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo reiche ich in Rastatt einen Bauantrag ein?",
+      "a": "Beim Kundenbereich Baurecht der Stadt Rastatt in der Kaiserstraße 48a. Er ist auch für Kenntnisgabeverfahren und Bauvorbescheide zuständig."
+    },
+    {
+      "q": "Bekommt in Rastatt das höchste Gebot den Bauplatz?",
+      "a": "Nein, nach der städtischen Vergaberichtlinie wird nach sozialen und städtebaulichen Kriterien zum Verkehrswert vergeben. Bewerbungen laufen über die Plattform Baupilot."
+    },
+    {
+      "q": "Wie erfahre ich, ob mein Grundstück in Rastatt bei Starkregen gefährdet ist?",
+      "a": "Über die Starkregengefahrenkarten des Landkreises Rastatt, auf die die Stadt verweist; sie zeigen, welche Flächen bei verschiedenen Szenarien wie tief überflutet werden können."
+    }
+  ],
+  "offen": [
+    "Satz „Als Große Kreisstadt entscheidet Rastatt über Bauanträge selbst“ abgeleitet aus dem Leistungsangebot des Kundenbereichs Baurecht (Baugenehmigung beantragen).",
+    "Einstieg (Baugebiete in Rauental/Niederbühl, Nachverdichtung) ist Einordnung; aktuelle Bauplatzangebote (Vogelsand, Förch) wegen Fristbezug nicht genannt.",
+    "Rastatter Baukindergeld (Förderrichtlinie) und Gestaltungssatzung Innenstadt (PDF nur als Bild) nicht ausgewertet."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "konstanz",
+  "ortName": "Konstanz",
+  "kreis": "Konstanz",
+  "title": "Badsanierung Konstanz – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Konstanz: Bodenseewasser mittlerer Härte, Rückstau im Keller, barrierearmer Umbau. Fachbetrieb kostenlos und unverbindlich vermittelt.",
+  "h1": "Badsanierung in Konstanz",
+  "einstieg": "Ob Altbauwohnung in der Niederburg, Reihenhaus in Wollmatingen oder Einfamilienhaus in Dettingen: Wer in Konstanz ein Bad erneuert, plant mit Wasser aus dem Überlinger See, mit dem Kanalnetz der städtischen Entsorgungsbetriebe und oft mit dem Wunsch, im Alter ohne Stufe zu duschen. Für Wasser, Abwasser und Wohnberatung sind dabei jeweils eigene städtische und kreisweite Stellen zuständig.",
+  "abschnitte": [
+    {
+      "h2": "Seewasser mit mittlerer Härte: Armaturen und Glas in Konstanz",
+      "text": "Das Konstanzer Trinkwasser stammt nicht aus Brunnen, sondern aus dem Bodensee. Die Stadtwerke entnehmen es weit draußen in großer Tiefe und bereiten es im Wasserwerk Staad auf. Laut aktueller Analyse liegt die Gesamthärte bei gut 9 °dH und damit im Härtebereich „mittel“. Für die Badplanung heißt das: Kalkränder an Duschglas und Perlatoren treten auf, aber schwächer als in Gemeinden mit hartem Grundwasser. Ob eine Enthärtungsanlage sinnvoll ist, hängt in der Regel eher vom Warmwassersystem und den eigenen Ansprüchen ab als vom Wasser selbst."
+    },
+    {
+      "h2": "Bad im Untergeschoss: Hausanschluss und Rückstauebene",
+      "text": "Wer im Keller ein Gäste-WC, einen Waschraum oder ein Einliegerbad plant, berührt das Kanalnetz der Stadt besonders direkt. Die Entsorgungsbetriebe Stadt Konstanz (EBK) weisen darauf hin, dass der private Hausanschluss bis zur Übergabe an den öffentlichen Kanal in der Verantwortung der Eigentümer liegt. Als Rückstauebene gilt in der Regel die Höhe des Kanaldeckels auf der Straße. Toiletten, Duschen oder Waschbecken darunter brauchen eine funktionierende Rückstausicherung, etwa einen Rückstauverschluss oder eine Hebeanlage. Auskunft zu Kanal und Anschluss gibt die Abteilung Abwasser der EBK."
+    },
+    {
+      "h2": "Barrierearm umbauen: Beratung bei der Stadt und beim Landkreis",
+      "text": "Für ein Bad ohne Schwellen, mit Haltegriffen und größerer Bewegungsfläche gibt es in Konstanz mehrere neutrale Anlaufstellen. Die Stadt nennt auf ihrer Seite zum Wohnen im Alter unter anderem die Abteilung Altenhilfe, die Wohnberatung des Stadtseniorenrats und das Amt für Klimaschutz für Fragen zur Sanierungsförderung. Der Pflegestützpunkt des Landkreises hat eine Außenstelle in der Stadt Konstanz und berät kostenlos auch dazu, wie die Wohnung an veränderte Lebensumstände angepasst werden kann. Wenn die Planung steht, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadtwerke Konstanz geben für ihr Trinkwasser eine Gesamthärte von 9,17 °dH an, das entspricht dem Härtebereich „mittel“.",
+      "quelle": "Stadtwerke Konstanz – Qualität unseres Trinkwassers",
+      "url": "https://www.stadtwerke-konstanz.de/bauen-wohnen/trinkwasser/qualitaet/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Rohwasser wird 700 Meter vom Ufer entfernt aus 40 Metern Tiefe dem Bodensee entnommen und im Wasserwerk Staad in drei Stufen aufbereitet.",
+      "quelle": "Stadtwerke Konstanz – Gewinnung und Qualität unseres Wassers",
+      "url": "https://www.stadtwerke-konstanz.de/energie/aktuelles/aus-dem-see-ins-glas-gewinnung-und-qualitaet-unseres-wassers/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach Angaben der Entsorgungsbetriebe Stadt Konstanz liegt der Hausanschluss bis zur Übergabe an den öffentlichen Sammelkanal in der Verantwortung der Eigentümer; tiefer liegende Anschlüsse wie Kellertoiletten brauchen eine Rückstausicherung.",
+      "quelle": "Entsorgungsbetriebe Stadt Konstanz – Schmutzwasser",
+      "url": "https://www.konstanz.de/entsorgungsbetriebe/abwasser/schmutzwasser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt des Landkreises Konstanz berät kostenlos und trägerunabhängig, auch zur Anpassung des Wohnumfelds (Wohnberatung); neben der Hauptstelle in Radolfzell gibt es Außenstellen in Konstanz und Singen.",
+      "quelle": "Landratsamt Konstanz – Pflegestützpunkt",
+      "url": "https://www.lrakn.de/pflegestuetzpunkt/pflegestuetzpunkt/aufgaben",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Konstanz nennt für altersgerechtes Wohnen unter anderem die Abteilung Altenhilfe, die Wohnberatung des Stadtseniorenrats und das Amt für Klimaschutz (Sanierungsförderung) als Anlaufstellen.",
+      "quelle": "Stadt Konstanz – Wohnen im Alter",
+      "url": "https://www.konstanz.de/leben+in+konstanz/aelter_werden/wohnen+im+alter",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Energieagentur Kreis Konstanz bietet in jeder Gemeinde des Landkreises monatlich eine kostenlose Erstberatung an, unter anderem zur Sanierung von Heizungsanlagen und zu Fördermöglichkeiten.",
+      "quelle": "Energieagentur Kreis Konstanz – Erstberatung",
+      "url": "https://www.energieagentur-kreis-konstanz.de/privatpersonen/erstberatung/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wer ist bei einem Kellerbad für die Abwasserleitung zuständig?",
+      "a": "Für die Leitung auf dem Grundstück bis zum öffentlichen Kanal sind nach Auskunft der EBK die Eigentümer verantwortlich. Fragen zum Anschluss beantworten die Entsorgungsbetriebe Stadt Konstanz."
+    },
+    {
+      "q": "Wo bekomme ich in Konstanz neutrale Beratung zum barrierearmen Bad?",
+      "a": "Anlaufstellen sind unter anderem die Wohnberatung des Stadtseniorenrats, die Abteilung Altenhilfe der Stadt und der Pflegestützpunkt des Landkreises mit seiner Außenstelle in Konstanz."
+    },
+    {
+      "q": "Gibt es im Landkreis Konstanz eine neutrale Energieberatung, bevor die Warmwasserbereitung erneuert wird?",
+      "a": "Die Energieagentur Kreis Konstanz bietet in jeder Gemeinde des Landkreises monatlich eine kostenlose Erstberatung an, unter anderem zu Heizungsanlagen und Fördermöglichkeiten. Ein Termin wird telefonisch vereinbart."
+    }
+  ],
+  "offen": [
+    "Ob die Abteilung Abwasser der EBK konkrete Vorgaben (z. B. Entwässerungsantrag) für Bad-Umbauten macht, wurde nicht geprüft; im Text nur allgemein auf Auskunft verwiesen.",
+    "Ortsteilnennungen im Einstieg (Niederburg, Wollmatingen, Dettingen) sind ortsübliche Bezeichnungen, aber nicht durch eine Fakt-Quelle belegt."
+  ]
+}

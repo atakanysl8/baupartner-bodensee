@@ -1,0 +1,82 @@
+{
+  "leistung": "innenausbau",
+  "ort": "stuttgart",
+  "ortName": "Stuttgart",
+  "kreis": "Stuttgart",
+  "title": "Innenausbau Stuttgart – Fachbetrieb kostenlos vermittelt",
+  "description": "Innenausbau in Stuttgart: Dachgeschoss, Wanddurchbruch, Einliegerwohnung. Was das Baurechtsamt sagt, wo Statikakten liegen. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Innenausbau in Stuttgart",
+  "einstieg": "Weil Wohnraum in Stuttgart knapp ist, wird vorhandene Fläche häufig umgebaut: ein Dachboden wird Wohnraum, zwei Zimmer werden zu einem, aus dem Souterrain entsteht eine Einliegerwohnung. Welche dieser Arbeiten ohne Verfahren möglich sind und wo Unterlagen zum Haus liegen, erklärt das städtische Baurechtsamt auf eigenen Seiten.",
+  "abschnitte": [
+    {
+      "h2": "Wohnraum im Bestand: Was das Stuttgarter Baurechtsamt verfahrensfrei nennt",
+      "text": "Das Baurechtsamt hat eine eigene Hilfestellung zum Schaffen von Wohnraum im Bestand veröffentlicht. Danach kann eine Nutzungsänderung zu Wohnraum im Innenbereich ohne Baugenehmigung auskommen, ebenso Änderungen an tragenden Bauteilen innerhalb von Wohngebäuden der Gebäudeklassen 1 und 2. „Verfahrensfrei“ heißt dabei ausdrücklich nicht „rechtsfrei“: Raumhöhe, Belichtung, Brandschutz und Stellplätze bleiben Sache des Eigentümers. Dachausbauten können verfahrenspflichtig sein, für die Gestaltung von Gauben und Dachflächen verweist die Stadt auf ihre Planungsgrundsätze Dachgestaltung. Wer unsicher ist, kann den Bürgerservice Bauen fragen, die erste Viertelstunde ist dort kostenfrei. Für energetische Nachweise beim Ausbau hält das Baurechtsamt eigene Erfüllungserklärungen nach dem Gebäudeenergiegesetz bereit."
+    },
+    {
+      "h2": "Statikakten, Denkmalschutz und Wohnraumschutz",
+      "text": "Vor einem Wanddurchbruch ist die alte Statik Gold wert. In Stuttgart lagern Pläne, Genehmigungen und statische Berechnungen im Archiv des Baurechtsamts; Eigentümer oder Bevollmächtigte erhalten gegen Gebühr Einsicht. Liegt das Haus in einer denkmalgeschützten Gesamtanlage, ist für Veränderungen am Erscheinungsbild eine Genehmigung der Denkmalschutzbehörde vorgesehen, auch wenn baurechtlich kein Verfahren nötig wäre. Und wer Wohnungen zusammenlegt oder umnutzt, sollte die Satzung gegen Zweckentfremdung kennen: Sie gilt bis Ende 2030 und erfasst auch bauliche Veränderungen, nach denen Wohnraum nicht mehr zum Wohnen taugt. Sind diese Punkte geklärt, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Nach Angaben des Baurechtsamts sind Nutzungsänderungen zur Schaffung von Wohnraum im Innenbereich nach § 50 LBO verfahrensfrei; Anforderungen wie Raumhöhe, Belichtung und Brandschutz gelten trotzdem.",
+      "quelle": "Landeshauptstadt Stuttgart – Wohnraum schaffen",
+      "url": "https://www.stuttgart.de/leben/wohnen/wohnbauentwicklung/wohnraum-schaffen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Dachausbauten können verfahrenspflichtig sein; ohne verbindliche Festsetzungen geben die Planungsgrundsätze Dachgestaltung der Stadt Hilfestellung. Die Beratung im Bürgerservice Bauen ist bis 15 Minuten kostenfrei.",
+      "quelle": "Landeshauptstadt Stuttgart – FAQs Baurechtsamt",
+      "url": "https://www.stuttgart.de/leben/bauen/baurecht/faqs-baurechtsamt",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Statische Berechnungen und Pläne lagern im Archiv des Baurechtsamts; die Einsicht ist gebührenpflichtig und Eigentümern oder Bevollmächtigten vorbehalten.",
+      "quelle": "Landeshauptstadt Stuttgart – FAQs Baurechtsamt",
+      "url": "https://www.stuttgart.de/leben/bauen/baurecht/faqs-baurechtsamt",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Maßnahmen, die das Erscheinungsbild einer denkmalgeschützten Gesamtanlage verändern, bedürfen der Genehmigung der Denkmalschutzbehörde, unabhängig von einer Baugenehmigung.",
+      "quelle": "Landeshauptstadt Stuttgart – Änderungen an einer Gesamtanlage",
+      "url": "https://www.stuttgart.de/organigramm/leistungen/denkmalschutz-aenderungen-an-einer-denkmalgeschuetzten-gesamtanlage-beantragen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Zweckentfremdungsverbot für Wohnraum gilt in Stuttgart bis 31. Dezember 2030; als Zweckentfremdung gilt unter anderem eine bauliche Veränderung, nach der Wohnraum nicht mehr für Wohnzwecke geeignet ist.",
+      "quelle": "Landeshauptstadt Stuttgart – Zweckentfremdung",
+      "url": "https://www.stuttgart.de/leben/bauen/baurecht/zweckentfremdung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Baurechtsamt stellt Erfüllungserklärungen nach dem Gebäudeenergiegesetz auch für Erweiterung und Ausbau von Wohngebäuden bereit.",
+      "quelle": "Landeshauptstadt Stuttgart – Energie und Wärme",
+      "url": "https://www.stuttgart.de/leben/bauen/baurecht/energie-und-waerme",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Wohnraumberatung des Energieberatungszentrums Stuttgart behandelt unter anderem die Möglichkeit einer Einliegerwohnung und die Kombination mit energetischer Sanierung.",
+      "quelle": "Energieberatungszentrum Stuttgart e. V. – Wohnraumberatung",
+      "url": "https://ebz-stuttgart.de/wohnraumberatung/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich in Stuttgart eine Genehmigung, um den Dachboden auszubauen?",
+      "a": "Das hängt vom Umfang ab, etwa von neuen Gauben oder Eingriffen in die Konstruktion. Ob ein Verfahren nötig ist, klärt der Bürgerservice Bauen beim Baurechtsamt."
+    },
+    {
+      "q": "Wo bekomme ich die Statik meines Stuttgarter Hauses?",
+      "a": "Im Archiv des Baurechtsamts, Zugang über den Bürgerservice Bauen. Dort lässt sich auch klären, ob und in welcher Form Unterlagen vorliegen."
+    },
+    {
+      "q": "Darf ich zwei Wohnungen in Stuttgart zu einer zusammenlegen?",
+      "a": "Baurechtlich und nach der Zweckentfremdungssatzung kommt es auf den Einzelfall an. Auskunft geben das Baurechtsamt und die dort angesiedelte Stelle für Zweckentfremdung."
+    }
+  ],
+  "offen": [
+    "Ob das Zusammenlegen von Wohnungen unter die Stuttgarter Zweckentfremdungssatzung fällt, wurde nicht geprüft; nur auf Einzelfall und Auskunft verwiesen.",
+    "Planungsgrundsätze Dachgestaltung nicht selbst geöffnet, nur Verweis auf FAQ-Seite."
+  ]
+}

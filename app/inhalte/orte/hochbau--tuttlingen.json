@@ -1,0 +1,81 @@
+{
+  "leistung": "hochbau",
+  "ort": "tuttlingen",
+  "ortName": "Tuttlingen",
+  "kreis": "Tuttlingen",
+  "title": "Bauunternehmen Tuttlingen – kostenlos vermittelt",
+  "description": "Bauen in Tuttlingen: knappes Bauland im Donautal, Baulücken, digitale Bauanträge und Bodenrichtwertkarten je Stadtteil. Bauunternehmen kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Tuttlingen",
+  "einstieg": "Tuttlingen liegt in einem Talkessel an der jungen Donau, und genau das macht Bauland knapp. Wer hier ein Haus bauen, eine Baulücke schließen oder ein Bestandsgebäude erweitern möchte, sollte die Spielregeln der Stadt kennen: digitale Bauanträge, wenige neue Baugebiete und eine klare Linie zur Innenentwicklung.",
+  "abschnitte": [
+    {
+      "h2": "Wenig neues Bauland: Baugebiete in Möhringen und Eßlingen",
+      "text": "Die Stadt schreibt selbst, dass Bauland wegen der wachsenden Bevölkerung und der Lage im Talkessel knapp und wertvoll ist und sie künftig nur noch in begrenztem Umfang neue Wohnbauflächen anbieten kann. In Entwicklung sind das Baugebiet „Heuhäusle“ in Möhringen und „Im Brendenösch“ in Eßlingen; die Bebauungspläne dafür sind im Verfahren. Für die Vergabe städtischer Baugrundstücke an private Bauherren gibt es eine eigene Vergaberichtlinie, Ansprechpartner ist die Abteilung Liegenschaften. Die geltenden Bebauungspläne lassen sich online abrufen, auch über das Geoportal Baden-Württemberg; Auszüge können gegen Gebühr bei der Bauleitplanung angefordert werden."
+    },
+    {
+      "h2": "Baulücken und Sanierungsgebiete: Bauen im Bestand",
+      "text": "Weil neue Flächen rar sind, setzt Tuttlingen auf Innenentwicklung. Seit 2004 führt die Stadt ein Baulückenkataster, das inzwischen digital für die Öffentlichkeit einsehbar ist. Eigentümern einer Baulücke bietet die Stadt eine kostenlose Beratung zu Bebauung, Bodenrichtwerten und Grundstücksentwicklung an. Daneben ist Tuttlingen seit 1980 in der Städtebauförderung aktiv; aktuelle Sanierungsgebiete sind „Sonnenbuckel/Weimarstraße“ und „Möhringen Ortsmitte“. In förmlich festgelegten Sanierungsgebieten gelten für Ersatzbau, Erweiterung oder Modernisierung in der Regel besondere Regeln; Auskunft gibt die Stadterneuerung der Stadt."
+    },
+    {
+      "h2": "Bauantrag nur digital und Bodenwerte je Stadtteil",
+      "text": "Seit Anfang 2025 nimmt die Stadt Bauanträge, Bauvoranfragen und Kenntnisgabeverfahren nur noch über das Virtuelle Bauamt entgegen. Bauherrschaft und Entwurfsverfasser melden sich dort an; Privatpersonen nutzen ein BundID-Konto mit Online-Ausweis oder ELSTER-Zertifikat. Für die Einschätzung von Grundstückspreisen stellt die Geschäftsstelle des Gutachterausschusses Richtwertkarten für Tuttlingen, Möhringen, Nendingen und Eßlingen bereit. Wenn Grundstück und Vorhaben feststehen, schildern Sie Ihr Projekt über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Laut Stadt ist Bauland in Tuttlingen wegen der wachsenden Bevölkerung und der Lage im Talkessel knapp; in Entwicklung sind die Baugebiete „Heuhäusle“ in Möhringen und „Im Brendenösch“ in Eßlingen.",
+      "quelle": "Stadt Tuttlingen – Bauplätze und Baugebiete",
+      "url": "https://www.tuttlingen.de/de/Wirtschaft-Bauen/Bauen-Wohnen/Bauplaetze-und-Baugebiete",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bauanträge, Bauvoranfragen und Kenntnisgabeverfahren nimmt die Stadt Tuttlingen seit dem 1. Januar 2025 nur noch über das Virtuelle Bauamt entgegen.",
+      "quelle": "Stadt Tuttlingen – Bauordnung",
+      "url": "https://www.tuttlingen.de/de/Wirtschaft-Bauen/Bauen-Wohnen/Bauordnung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt führt seit 2004 ein Baulückenkataster, das digital öffentlich einsehbar ist, und bietet Eigentümern von Baulücken eine kostenlose Beratung zu Bebauung und Bodenrichtwerten an.",
+      "quelle": "Stadt Tuttlingen – Baulückenkataster",
+      "url": "https://www.tuttlingen.de/de/Wirtschaft-Bauen/Bauen-Wohnen/Baulueckenkataster",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Tuttlingen ist seit 1980 in der Städtebauförderung aktiv und hat über zehn Sanierungsgebiete ausgewiesen; aktuell sind es „Sonnenbuckel/Weimarstraße“ und „Möhringen Ortsmitte“.",
+      "quelle": "Stadt Tuttlingen – Sanierungsgebiete",
+      "url": "https://www.tuttlingen.de/de/Die-Stadt/Stadtentwicklung/Stadtentwicklung/Sanierungsgebiete-in-Tuttlingen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die geltenden Bebauungspläne der Stadt sind online sowie über das Geoportal Baden-Württemberg abrufbar; Auszüge können gebührenpflichtig bei der Bauleitplanung angefordert werden.",
+      "quelle": "Stadt Tuttlingen – Geltende Bebauungspläne",
+      "url": "https://www.tuttlingen.de/bebauungsplaene/Geltende-Bebauungsplaene",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Geschäftsstelle des Gutachterausschusses in Tuttlingen veröffentlicht Bodenrichtwertkarten für Tuttlingen, Möhringen, Nendingen und Eßlingen sowie für Nachbargemeinden; Bodenrichtwerte werden alle zwei Jahre ermittelt.",
+      "quelle": "Stadt Tuttlingen – Bodenrichtwert/Richtwertkarte",
+      "url": "https://www.tuttlingen.de/de/Leben-in-Tuttlingen/Service/B%C3%BCrgerservice-A-Z/B%C3%BCrgerservice?view=publish&item=service&id=835",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ich in Tuttlingen einen Bauantrag noch auf Papier einreichen?",
+      "a": "Nach Angaben der Stadt werden Bauanträge, Bauvoranfragen und Kenntnisgabeverfahren seit Anfang 2025 nur noch über das Virtuelle Bauamt entgegengenommen. Privatpersonen melden sich mit BundID und Online-Ausweis oder ELSTER-Zertifikat an."
+    },
+    {
+      "q": "Wo finde ich in Tuttlingen freie Bauplätze?",
+      "a": "Neue städtische Baugebiete sind in Möhringen und Eßlingen in Entwicklung; Auskunft gibt die Abteilung Liegenschaften. Daneben zeigt das öffentliche Baulückenkataster unbebaute Grundstücke in privatem Eigentum."
+    },
+    {
+      "q": "Liegt mein Grundstück in einem Tuttlinger Sanierungsgebiet?",
+      "a": "Aktuelle Sanierungsgebiete sind „Sonnenbuckel/Weimarstraße“ und „Möhringen Ortsmitte“. Ob ein Grundstück betroffen ist und was das für einen Neubau bedeutet, beantwortet die Stadterneuerung der Stadt."
+    }
+  ],
+  "offen": [
+    "Erschließungszeitpunkt der Baugebiete (laut Stadt frühestens 2028) und Zahl der Baulücken (rund 260, Stand Januar 2022) bewusst weggelassen (datierte Angaben).",
+    "Hochwasser-/Starkregenkarten für Tuttlingen nicht recherchiert.",
+    "„In förmlichen Sanierungsgebieten gelten besondere Regeln“ ist eine allgemeine Aussage ohne eigene Fakt-Quelle."
+  ]
+}

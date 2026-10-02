@@ -1,0 +1,81 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "rastatt",
+  "ortName": "Rastatt",
+  "kreis": "Rastatt",
+  "title": "Badsanierung Rastatt – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Rastatt: mittelhartes Grundwasser, Anmeldung bei den Stadtwerken, Rückstau nach Abwassersatzung 2026. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Rastatt",
+  "einstieg": "In Rastatt reicht der Wohnungsbestand von der barocken Innenstadt bis zu den Rheinauen-Dörfern Plittersdorf und Wintersdorf. Wer hier ein Bad modernisiert, profitiert von vergleichsweise weichem Grundwasser, sollte aber die Regeln der Stadtwerke für Trinkwasserinstallationen und die neue Abwassersatzung der Stadt kennen, besonders bei einem Bad im Keller.",
+  "abschnitte": [
+    {
+      "h2": "Grundwasser aus Ottersdorf und Rauental: mittlere Härte",
+      "text": "Das Rastatter Trinkwasser kommt aus ortsnahem Grundwasser und wird ohne Chlorung verteilt. Die Stadtwerke geben für Kernstadt, Ottersdorf, Plittersdorf, Wintersdorf, Niederbühl und Förch rund 10,4 °dH an, für Rauental und das Industriegebiet rund 9,6 °dH, beides im Härtebereich „mittel“. Nach Einschätzung der Stadtwerke ist eine private Enthärtungsanlage deshalb in der Regel nicht erforderlich. Weil in der Region Spuren von PFAS im Grundwasser gefunden wurden, haben die Stadtwerke die Wasserwerke Ottersdorf und Rauental mit Aktivkohleanlagen ausgestattet. Kalk an Glas und Strahlreglern bleibt ein Thema, aber ein überschaubares."
+    },
+    {
+      "h2": "Neue Leitungen anmelden, Rückstau einplanen",
+      "text": "Wird eine Trinkwasseranlage errichtet oder erweitert, etwa beim Versetzen des Bades oder einem zusätzlichen Duschbad, ist das bei den Stadtwerken Rastatt anzumelden. Die Anmeldung unterschreibt der verantwortliche Fachmann eines bei den Stadtwerken eingetragenen Installationsunternehmens; der Wasserzähler wird erst nach einer Sichtkontrolle eingebaut. Auf der Abwasserseite hält die Abwassersatzung der Stadt fest, dass Rückstau in Misch- und Regenwasserkanälen planmäßig vorgesehen ist und Wasserstände bis zur Straßenhöhe jederzeit möglich sind. Toiletten, Duschen oder Waschbecken darunter sind auf eigene Kosten zu sichern, und eine geänderte Grundstücksentwässerung darf erst nach Abnahme durch die Stadt in Betrieb gehen."
+    },
+    {
+      "h2": "Beratung im Landkreis: Pflege, Energie, Starkregen",
+      "text": "Für altersgerechte Umbauten berät der Pflegestützpunkt im Landratsamt Rastatt kostenlos und neutral. Fragen zu Warmwasser und Heizung beantwortet die Energieagentur Mittelbaden in einer kostenfreien Erstberatung. Ob ein Kellerbad durch Starkregen gefährdet ist, zeigen die Starkregengefahrenkarten des Landkreises. Wer ein Bad im Untergeschoss plant, sieht dort, ob Grundstück und Straße bei Starkregen überflutet würden, und kann Lichtschächte und Kellerabgänge entsprechend schützen. Schildern Sie danach Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadtwerke Rastatt geben für Kernstadt, Ottersdorf, Plittersdorf, Wintersdorf, Niederbühl und Förch rund 10,4 °dH und für Rauental und das Industriegebiet rund 9,6 °dH an (Härtebereich „mittel“); eine private Enthärtungsanlage sei in der Regel nicht erforderlich.",
+      "quelle": "Stadtwerke Rastatt – Trinkwasser für Rastatt",
+      "url": "https://www.stadtwerke-rastatt.de/de/tarife-produkte/wasser/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Errichtung und Erweiterung von Trinkwasseranlagen sind bei den Stadtwerken Rastatt anzumelden; unterschreiben darf nur der verantwortliche Fachmann des Installationsunternehmens, der Zähler wird nach einer Sichtkontrolle eingebaut.",
+      "quelle": "Stadtwerke Rastatt – Anleitung zum Anmeldeverfahren für Trinkwasseranlagen",
+      "url": "https://www.stadtwerke-rastatt.de/media/docs/tarife-produkte/wasser/dokumente-und-formulare/Anleitung-zum-Anmeldeverfahren-fuer-Trinkwasseranlagen.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach § 19 der Rastatter Abwassersatzung (Stand 15.12.2025) ist Rückstau in Misch- und Regenwasserkanälen planmäßig vorgesehen; Einrichtungen unterhalb der Rückstauebene sind vom Eigentümer auf eigene Kosten zu sichern.",
+      "quelle": "Stadt Rastatt – Abwasserbeseitigungssatzung 2026",
+      "url": "https://www.rastatt.de/site/Rastatt-Stadt/get/documents_E1926112320/rastatt/Dateien/PDFs/2.%20Rathaus%20und%20Politik/Verwaltung/Ver%C3%B6ffentlichungen/Ortsrecht/Stadtentw%C3%A4sserung/Abwasserbeseitigungssatzung-2026.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt wurde 2011 im Landratsamt Rastatt eingerichtet und berät gesetzlich Versicherte aus dem Landkreis kostenlos und neutral.",
+      "quelle": "Landkreis Rastatt – Pflegestützpunkt",
+      "url": "https://www.landkreis-rastatt.de/pflegestuetzpunkt",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Energieagentur Mittelbaden, getragen unter anderem vom Landkreis Rastatt und der Stadt Baden-Baden, bietet Bürgerinnen und Bürgern kostenfreie Erstberatungen zu Energiethemen an.",
+      "quelle": "Landkreis Rastatt – Energieagentur Mittelbaden",
+      "url": "https://www.landkreis-rastatt.de/landratsamt/aemteruebersicht/energieagentur-mittelbaden",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Rastatt verweist auf Starkregengefahrenkarten für den gesamten Landkreis und nennt Rückstauwasser aus der Kanalisation als einen der Wege, auf denen Wasser in Gebäude eindringt.",
+      "quelle": "Stadt Rastatt – Starkregen",
+      "url": "https://www.rastatt.de/mein-rastatt/natur-und-umwelt/starkregen",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich in Rastatt eine Enthärtungsanlage?",
+      "a": "Das Wasser liegt mit rund 10,4 °dH bzw. 9,6 °dH im mittleren Bereich. Die Stadtwerke halten eine private Enthärtungsanlage deshalb in der Regel nicht für erforderlich."
+    },
+    {
+      "q": "Muss eine neue Wasserleitung im Bad bei den Stadtwerken gemeldet werden?",
+      "a": "Errichtung und Erweiterung von Trinkwasseranlagen sind nach dem Verfahren der Stadtwerke Rastatt anzumelden; das übernimmt in der Regel das ausführende, dort eingetragene Installationsunternehmen."
+    },
+    {
+      "q": "Was regelt die Rastatter Abwassersatzung für ein Kellerbad?",
+      "a": "Sie weist darauf hin, dass Rückstau bis zur Straßenhöhe jederzeit möglich ist. Entwässerungsgegenstände darunter sind gegen Rückstau zu sichern, geänderte Anlagen werden von der Stadt abgenommen."
+    }
+  ],
+  "offen": [
+    "Ob eine reine Badsanierung ohne Leitungserweiterung bereits unter die Anmeldepflicht der Stadtwerke fällt, geht aus der Anleitung nicht eindeutig hervor; Text spricht nur von Errichtung/Erweiterung.",
+    "Einstieg (barocke Innenstadt, Rheinauen-Dörfer) ist allgemeine Einordnung.",
+    "Eine Wohnberatung (Wohnraumanpassung) speziell im Landkreis Rastatt wurde nicht gefunden; Pflegestützpunkt nennt Wohnraumanpassung nicht ausdrücklich."
+  ]
+}

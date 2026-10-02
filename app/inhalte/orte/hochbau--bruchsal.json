@@ -1,0 +1,87 @@
+{
+  "leistung": "hochbau",
+  "ort": "bruchsal",
+  "ortName": "Bruchsal",
+  "kreis": "Karlsruhe",
+  "title": "Bauunternehmen Bruchsal – kostenlos vermittelt",
+  "description": "Bauen in Bruchsal: eigene Baurechtsbehörde, Bauantrag über ViBa, Bau-Turbo, Bodenrichtwerte und Starkregenkarten. Bauunternehmen kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Bruchsal",
+  "einstieg": "Ein Neubau in Heidelsheim, eine Aufstockung in der Südstadt oder ein Einfamilienhaus in Obergrombach: Bauherren in Bruchsal haben es nicht mit dem Landratsamt, sondern mit der Baurechtsbehörde der Stadt zu tun. Bevor ein Bauunternehmen ins Spiel kommt, lohnt der Blick auf Bebauungsplan, Bodenwert und die Lage zu Saalbach und Hanglagen.",
+  "abschnitte": [
+    {
+      "h2": "Baurechtsbehörde der Stadt und Bauantrag über ViBa",
+      "text": "Als Große Kreisstadt ist Bruchsal selbst untere Baurechtsbehörde. Seit dem 1. Oktober 2026 nimmt sie Bauanträge, Kenntnisgabeverfahren, Bauvoranfragen, Abweichungsanträge und Abgeschlossenheitsbescheinigungen nur noch digital über das Landesportal „Virtuelles Bauamt“ (ViBa) an, Papier ist nicht mehr vorgesehen. Grundlage sind nach Angabe der Stadt die Vorgaben der Landesbauordnung zur digitalen Einreichung; denkmalschutzrechtliche Anträge laufen weiterhin per E-Mail. Welcher Bebauungsplan für ein Grundstück gilt, lässt sich im interaktiven Stadtplan der Stadt abrufen, mit Planzeichnung, textlichen Festsetzungen und Begründung. Überschneiden sich Geltungsbereiche, gilt nach Angabe der Stadt der zuletzt rechtskräftig gewordene Plan."
+    },
+    {
+      "h2": "Bau-Turbo und Wohnbaustrategie 2026: was in Bruchsal neu ist",
+      "text": "Der Gemeinderat hat im März 2026 Leitlinien für die Anwendung des sogenannten Bau-Turbos beschlossen. Damit können Wohnbauvorhaben, die den Festsetzungen eines Bebauungsplans widersprechen, nach einer Prüfung der städtebaulichen Verträglichkeit genehmigt werden, etwa Neubauten, Aufstockungen oder Nutzungsänderungen zu Wohnungen. Einen Anspruch darauf gibt es nicht, und Bauordnungsrecht wie Abstandsflächen, Brandschutz und Stellplätze bleibt unberührt. Mit der Wohnbaustrategie 2026 setzt die Stadt bei eigenen Grundstücken zudem auf Konzeptvergabe: Neben dem Preis zählt die Qualität des Vorhabens, was auch Baugemeinschaften und Genossenschaften Chancen eröffnet."
+    },
+    {
+      "h2": "Bodenrichtwert, Saalbach und Starkregen: das Grundstück prüfen",
+      "text": "Bodenrichtwerte für Bruchsal ermittelt der Gemeinsame Gutachterausschuss bei der Stadt, der für zwölf Kommunen der Region zuständig ist; abrufbar sind sie über BORIS-BW. Für die Ausführung von Keller und Erdgeschoss lohnt der Blick auf das Wasser: Der Saalbach entwässert ein Einzugsgebiet von 175 Quadratkilometern und kann bei Unwettern schnell steigen. Für Heidelsheim, Helmsheim, Ober- und Untergrombach hat die Stadt Starkregengefahrenkarten veröffentlicht. Stehen die Eckdaten, schildern Sie Ihr Bauvorhaben über unser Formular. Wir wählen für Ihre Anfrage ein passendes Bauunternehmen aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Seit dem 1. Oktober 2026 nimmt die Baurechtsbehörde der Stadt Bruchsal Bauanträge, Kenntnisgabeverfahren, Bauvoranfragen, Abweichungsanträge und Abgeschlossenheitsbescheinigungen nur noch digital über das Portal „Virtuelles Bauamt Baden-Württemberg“ an.",
+      "quelle": "Stadt Bruchsal – Bauanträge ab Oktober 2026 nur noch online",
+      "url": "https://www.bruchsal.de/informieren/verwaltung/presse-und-oeffentlichkeitsarbeit/Aktuelles/2026/bauantraege-ab-oktober-2026-nur-noch-online-",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Rechtskräftige Bebauungspläne sind im interaktiven Stadtplan mit Planzeichnung, textlichen Festsetzungen und Begründung abrufbar; bei Überschneidungen gilt der zuletzt rechtskräftig gewordene Plan.",
+      "quelle": "Stadt Bruchsal – Rechtskräftige Bebauungspläne",
+      "url": "https://www.bruchsal.de/leben/bauen+_+wohnen/Bauleitplanung/rechtskraeftge+bebauungsplaene",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Beim Bau-Turbo beziehen sich die Abweichungsmöglichkeiten ausschließlich auf das Bauplanungsrecht; ein Anspruch besteht nicht, und für die Umsetzung ist eine Zustimmung des Gemeinderats notwendig.",
+      "quelle": "Stadt Bruchsal – Bau-Turbo",
+      "url": "https://www.bruchsal.de/leben/bauen+_+wohnen/bau-turbo",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Wohnbaustrategie 2026 ersetzt die baulandpolitischen Grundsätze von 2019; bei der Vergabe stadteigener Grundstücke rückt eine Konzeptvergabe in den Fokus.",
+      "quelle": "Stadt Bruchsal – Wohnbaustrategie 2026",
+      "url": "https://www.bruchsal.de/leben/bauen+_+wohnen/wohnbaustrategie-2026",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Gemeinsame Gutachterausschuss bei der Stadt Bruchsal ist eine Zusammenarbeit von zwölf Kommunen, darunter Bruchsal, Bad Schönborn, Stutensee und Weingarten.",
+      "quelle": "Stadt Bruchsal – Gemeinsamer Gutachterausschuss",
+      "url": "https://www.bruchsal.de/leben/bauen+_+wohnen/gemeinsamer-gutachterausschuss",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Saalbach, gemessen am Pegel Augartenstraße, entwässert ein Einzugsgebiet von 175 Quadratkilometern; bei Unwettern kann sein Wasserspiegel schnell ansteigen.",
+      "quelle": "Stadt Bruchsal – Hochwasser und Starkregen",
+      "url": "https://www.bruchsal.de/informieren/gefahrenabwehr/bevoelkerungsschutz/hochwasser-und-starkregen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt stellt eine Starkregengefahrenkarte für Heidelsheim, Helmsheim, Obergrombach und Untergrombach bereit, die Ausdehnung und Tiefe von Überflutungen in drei Szenarien zeigt.",
+      "quelle": "Stadt Bruchsal – Starkregengefahrenkarten",
+      "url": "https://www.bruchsal.de/informieren/gefahrenabwehr/bevoelkerungsschutz/hochwasser-und-starkregen/starkregengefahrenkarten+obergrombach_+untergrombach",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist für Bauanträge in Bruchsal das Landratsamt Karlsruhe zuständig?",
+      "a": "Nein. Bruchsal hat eine eigene Baurechtsbehörde. Anträge werden dort digital über das Virtuelle Bauamt eingereicht."
+    },
+    {
+      "q": "Kann ich in Bruchsal mit dem Bau-Turbo vom Bebauungsplan abweichen?",
+      "a": "Möglich ist es für Wohnbauvorhaben nach einer Prüfung der städtebaulichen Verträglichkeit und mit Zustimmung des Gemeinderats. Einen Anspruch gibt es nicht; Auskunft gibt die Stadt."
+    },
+    {
+      "q": "Wo finde ich den Bodenrichtwert für mein Grundstück in Bruchsal?",
+      "a": "Über BORIS-BW oder bei der Geschäftsstelle des Gemeinsamen Gutachterausschusses bei der Stadt Bruchsal."
+    }
+  ],
+  "offen": [
+    "Dass Bruchsal als Große Kreisstadt untere Baurechtsbehörde ist, folgt aus der Pressemitteilung (Baurechtsbehörde der Stadt), der Status „Große Kreisstadt“ selbst ist nicht durch eine Fakt-Quelle belegt.",
+    "Das Datum 1. Oktober 2026 liegt einen Tag vor dem Abruf; es ist eine Stichtagsangabe, keine Momentangabe.",
+    "Ortsteilnennungen im Einstieg (Heidelsheim, Südstadt, Obergrombach) sind Beispiele."
+  ]
+}

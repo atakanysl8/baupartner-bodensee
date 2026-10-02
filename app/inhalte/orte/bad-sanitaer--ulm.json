@@ -1,0 +1,81 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "ulm",
+  "ortName": "Ulm",
+  "kreis": "Ulm",
+  "title": "Badsanierung Ulm – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Ulm: Grundwasser aus dem Donautal, Bleileitungen im Altbau, Rückstauschutz nach EBU-Hinweisen, Pflegestützpunkt. Kostenlos vermittelt.",
+  "h1": "Badsanierung in Ulm",
+  "einstieg": "Ob Altbauwohnung in der Weststadt, Reihenhaus in Wiblingen oder Einfamilienhaus in Jungingen: Wer in Ulm ein Bad modernisiert, bekommt sein Wasser von den Stadtwerken Ulm/Neu-Ulm, leitet es in das Kanalnetz der Entsorgungs-Betriebe der Stadt Ulm ein und findet für den altersgerechten Umbau einen städtischen Pflegestützpunkt in der Innenstadt.",
+  "abschnitte": [
+    {
+      "h2": "Brunnenwasser aus dem Donautal: Härte und alte Leitungen",
+      "text": "Der größte Teil Ulms, darunter Eselsberg, Böfingen, Söflingen und Wiblingen, wird aus dem Brunnen „Rote Wand“ im Talboden der Donau versorgt; die Stadtwerke geben dafür 14,1 °dH an und ordnen es als mittelhart ein. Michelsberg und Safranberg erhalten überwiegend Wasser der Landeswasserversorgung, Lehr, Jungingen und Mähringen Wasser des Zweckverbands „Ulmer Alb“, jeweils mit 13,4 °dH. Kalkspuren an Glas und Armaturen sind also überall in der Stadt ein Thema. Bei der Sanierung älterer Häuser lohnt außerdem ein Blick auf die Leitungen: Die Stadtwerke weisen darauf hin, dass nach der Trinkwasserverordnung noch vorhandene Bleileitungen zu entfernen sind, und empfehlen, Stagnation von mehr als 72 Stunden in der Hausinstallation zu vermeiden."
+    },
+    {
+      "h2": "Kellerbad und Starkregen: Rückstauschutz in Ulm",
+      "text": "Nach Starkregen in den Jahren 2016 und 2017 liefen am Kuhberg und in der Weststadt zahlreiche Keller voll; die Entsorgungs-Betriebe der Stadt Ulm (EBU) haben das zum Anlass genommen, ausführlich über Rückstau zu informieren. Als Rückstauebene gilt in ebenen Lagen die Straßenoberfläche an der Anschlussstelle. Liegen Dusche, WC oder Waschmaschinenanschluss tiefer, kann Abwasser bei Starkregen über diese Abläufe ins Haus drücken; nach den rechtlichen Regelungen sichert sich jeder Grundstückseigentümer selbst gegen Rückstau. Die Leitungen vom Gebäude bis zum öffentlichen Kanal gelten nach der Ulmer Abwassersatzung als privat."
+    },
+    {
+      "h2": "Barrierearm umbauen: Pflegestützpunkt der Stadt Ulm",
+      "text": "Für ein Bad mit bodengleicher Dusche oder Haltegriffen ist der Pflegestützpunkt der Stadt Ulm in der Hafengasse eine neutrale Anlaufstelle. Er berät gesetzlich pflegeversicherte Ulmerinnen und Ulmer sowie Angehörige kostenlos zu allen Fragen rund um Pflegebedürftigkeit. Wenn das Vorhaben steht, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Das Ulmer Stadtgebiet wird überwiegend aus dem Brunnen „Rote Wand“ versorgt (14,1 °dH, mittel); Michelsberg und Safranberg sowie Lehr, Jungingen und Mähringen erhalten Wasser mit 13,4 °dH (mittel).",
+      "quelle": "SWU Stadtwerke Ulm/Neu-Ulm – Trinkwasserqualität",
+      "url": "https://www.swu.de/privatkunden/produkte-leistungen/trinkwasser/trinkwasserqualitaet",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Ulm/Neu-Ulm weisen darauf hin, dass im Gebäude noch vorhandene Bleileitungen nach § 45 der Trinkwasserverordnung zu entfernen sind, und empfehlen, Stagnation von mehr als 72 Stunden in der Trinkwasser-Installation zu vermeiden.",
+      "quelle": "SWU Stadtwerke Ulm/Neu-Ulm – Trinkwasser",
+      "url": "https://www.swu.de/privatkunden/produkte-leistungen/trinkwasser/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach Angaben der Entsorgungs-Betriebe der Stadt Ulm gilt in ebenen Lagen die Straßenoberfläche an der Anschlussstelle als Rückstauebene; einen vollständigen Schutz vor Rückstau im Kanalnetz können die EBU nicht gewährleisten.",
+      "quelle": "Entsorgungs-Betriebe der Stadt Ulm – Rückstau",
+      "url": "https://www.ebu-ulm.de/abwasser/rueckstau.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Entwässerungskanäle vom Gebäude bis zum Anschluss an den öffentlichen Kanal sind in der Abwassersatzung der Stadt Ulm als private Entwässerungskanäle festgelegt.",
+      "quelle": "Entsorgungs-Betriebe der Stadt Ulm – Rohruntersuchung",
+      "url": "https://www.ebu-ulm.de/abwasser/rohruntersuchung.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die EBU stellen Bestandsdaten der öffentlichen Kanalisation als Planauskunft im Maßstab 1:500 bereit; über private Leitungen liegen ihnen keine Informationen vor.",
+      "quelle": "Entsorgungs-Betriebe der Stadt Ulm – Planauskunft",
+      "url": "https://www.ebu-ulm.de/abwasser/planauskunft.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt der Stadt Ulm (Hafengasse 15) berät gesetzlich pflegeversicherte Bürgerinnen und Bürger und deren Angehörige kostenlos und neutral.",
+      "quelle": "Stadt Ulm – Pflegestützpunkt",
+      "url": "https://pflegestuetzpunkt.ulm.de/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Leitungswasser in Ulm?",
+      "a": "Je nach Stadtteil 13,4 bis 14,1 °dH und damit im mittleren Härtebereich, an der Grenze zu hart. Die genaue Zuordnung veröffentlichen die Stadtwerke Ulm/Neu-Ulm."
+    },
+    {
+      "q": "Was gilt in Ulm für alte Bleileitungen im Haus?",
+      "a": "Die Stadtwerke Ulm/Neu-Ulm weisen darauf hin, dass Bleileitungen nach der Trinkwasserverordnung zu entfernen sind. Bei einer Badsanierung im Altbau bietet es sich an, die Leitungen mit zu prüfen."
+    },
+    {
+      "q": "Wer gibt in Ulm Auskunft zur Lage des Abwasserkanals vor meinem Haus?",
+      "a": "Die Entsorgungs-Betriebe der Stadt Ulm über ihre Planauskunft; zu privaten Leitungen auf dem Grundstück haben sie keine Daten."
+    }
+  ],
+  "offen": [
+    "Ortsteilnennungen im Einstieg (Weststadt, Wiblingen, Jungingen) sind ortsübliche Bezeichnungen; die Versorgungszuordnung ist durch die SWU-Quelle belegt.",
+    "Die Abwassersatzung der Stadt Ulm selbst wurde nicht geöffnet; die Aussage zu privaten Entwässerungskanälen stammt von der EBU-Seite.",
+    "Die Bleileitungs-Pflicht ist als Hinweis der Stadtwerke wiedergegeben (Rechtsnähe) – siehe Anwaltsfrage."
+  ]
+}

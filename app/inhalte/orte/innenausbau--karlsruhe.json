@@ -1,0 +1,81 @@
+{
+  "leistung": "innenausbau",
+  "ort": "karlsruhe",
+  "ortName": "Karlsruhe",
+  "kreis": "Karlsruhe",
+  "title": "Innenausbau Karlsruhe – Fachbetrieb kostenlos vermittelt",
+  "description": "Innenausbau in Karlsruhe: Dachgeschoss ausbauen, Altstadt Durlach, Denkmalschutz innen und städtische Förderung für neuen Wohnraum. Kostenlos vermittelt.",
+  "h1": "Innenausbau in Karlsruhe",
+  "einstieg": "Ein ungenutzter Dachboden in der Südstadt, ein ehemaliges Ladenlokal, das Wohnung werden soll, oder ein Altbau in der Durlacher Altstadt mit neuen Trockenbauwänden: Innenausbau in Karlsruhe berührt oft mehr als Gipskarton und Estrich. Je nach Gebäude spielen Baurecht, Denkmalschutz und ein eigenes städtisches Förderprogramm für neuen Wohnraum eine Rolle.",
+  "abschnitte": [
+    {
+      "h2": "Dachgeschoss oder Gewerbefläche zu Wohnraum ausbauen",
+      "text": "Wird aus einem Speicher oder einer früheren Gewerbefläche eine Wohnung, ändert sich meist die Nutzung. Für baurechtliche Fragen zu Umbau und Erweiterung ist in Karlsruhe das Bauordnungsamt der Stadt zuständig; es stellt auch Abgeschlossenheitsbescheinigungen aus, die bei einer neuen Eigentumswohnung im Dachgeschoss gebraucht werden können. Interessant für Vermieter ist das städtische Programm zur Mobilisierung von Wohnraum: Es bezuschusst ausdrücklich auch den erstmaligen Ausbau einer Dachgeschosswohnung und die Umnutzung gewerblicher Räume. Im Gegenzug ist die Wohnung für 20 Jahre günstiger an Haushalte mit Wohnberechtigungsschein zu vermieten."
+    },
+    {
+      "h2": "Altstadt Durlach: Gesamtanlage und Denkmalschutz auch im Inneren",
+      "text": "In der Altstadt Durlach gilt seit 1998 eine Gesamtanlagensatzung nach dem Denkmalschutzgesetz. Weil dennoch historische Gebäude verloren gingen, stellt die Stadt dort zusätzlich eine Erhaltungssatzung auf, eine Gestaltungssatzung ist ebenfalls in Aufstellung. Bei Kulturdenkmalen betrifft der Schutz nicht nur die Fassade: Auch Grundrisse, Treppen, Türen oder Stuck können Teil des Denkmalwerts sein. Ob ein Haus eingetragen ist, zeigt die Datenbank der Kulturdenkmale im Geoportal Baden-Württemberg mit den Texten der Denkmalliste. Die untere Denkmalschutzbehörde der Stadt berät zu denkmalverträglichen Lösungen, auf Wunsch mit Termin vor Ort."
+    },
+    {
+      "h2": "Brandschutz und Rettungswege: wer in Karlsruhe Auskunft gibt",
+      "text": "Wird ein Dach zur Wohnung, stellen sich fast immer Fragen nach dem zweiten Rettungsweg, nach Fenstergrößen und nach dem Brandschutz von Treppe und Decken. Welche Anforderungen gelten, ergibt sich grundsätzlich aus der Landesbauordnung und wird im baurechtlichen Verfahren beim Bauordnungsamt geklärt. Für den vorbeugenden Brandschutz arbeitet das Amt mit der Branddirektion Karlsruhe zusammen, etwa bei der Brandverhütungsschau in Gebäuden mit vielen Menschen. Sind Nutzung, Genehmigungsfragen und Wärmeschutz geklärt, geht es an Trockenbau, Dämmung, Böden und Ausbau. Schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Das Bauordnungsamt der Stadt Karlsruhe ist zuständig, wenn im Stadtgebiet gebaut, umgebaut oder erweitert wird, und stellt auch Abgeschlossenheitsbescheinigungen für Wohnungen aus.",
+      "quelle": "Stadt Karlsruhe – Bauordnung",
+      "url": "https://www.karlsruhe.de/mobilitaet-stadtbild/bauen-und-immobilien/bauordnung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Förderung für die Mobilisierung von Wohnraum umfasst zum Beispiel den erstmaligen Ausbau einer Dachgeschosswohnung; bezuschusst werden 30 Prozent der förderfähigen Kosten, begrenzt auf 200 Euro je Quadratmeter, bei 20-jähriger Vermietung an Personen mit Wohnberechtigungsschein mindestens 10 Prozent unter der ortsüblichen Vergleichsmiete.",
+      "quelle": "Stadt Karlsruhe – Wohnen",
+      "url": "https://www.karlsruhe.de/mobilitaet-stadtbild/bauen-und-immobilien/wohnen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In der Altstadt Durlach gilt seit 1998 die Gesamtanlagensatzung (§ 19 DSchG BW); eine Erhaltungssatzung und eine Gestaltungssatzung für das Gebiet sind in Aufstellung.",
+      "quelle": "Stadt Karlsruhe – Erhaltungssatzung Altstadt Durlach",
+      "url": "https://www.karlsruhe.de/bpl/erhaltungssatzung-altstadt-durlach",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die untere Denkmalschutzbehörde berät Eigentümer und Handwerksbetriebe zu Maßnahmen am Kulturdenkmal, bei Bedarf vor Ort; alle Kulturdenkmale sind im Geoportal Baden-Württemberg mit den Denkmallisten-Texten verzeichnet.",
+      "quelle": "Stadt Karlsruhe – Kulturdenkmale und Denkmalschutz",
+      "url": "https://www.karlsruhe.de/mobilitaet-stadtbild/denkmalschutz",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Brandverhütungsschau führt das Bauordnungsamt zusammen mit der Branddirektion Karlsruhe, Abteilung Vorbeugender Brand- und Gefahrenschutz, als beauftragter Brandschutzsachverständiger durch.",
+      "quelle": "Stadt Karlsruhe – Brandverhütung",
+      "url": "https://www.karlsruhe.de/mobilitaet-stadtbild/bauen-und-immobilien/bauordnung/brandverhuetung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Karlsruher Energie- und Klimaschutzagentur informiert laut Stadt unter anderem zu energetischer Gebäudesanierung und sommerlichem Wärmeschutz, im Beratungszentrum, zu Hause, telefonisch oder online.",
+      "quelle": "Stadt Karlsruhe – Beratung und Förderung zu Klimaschutz und -anpassung",
+      "url": "https://www.karlsruhe.de/umwelt-klima/klimaschutz-klimaanpassung/beratung-und-foerderung-zu-klimaschutz-und-anpassung",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Fördert die Stadt Karlsruhe den Ausbau eines Dachgeschosses?",
+      "a": "Über das Programm zur Mobilisierung von Wohnraum kann der erstmalige Ausbau einer Dachgeschosswohnung bezuschusst werden. Voraussetzung ist eine längere Vermietung an Haushalte mit Wohnberechtigungsschein; die Bedingungen nennt die Stadt auf ihrer Seite zum Wohnen."
+    },
+    {
+      "q": "Was gilt beim Innenausbau eines Altbaus in der Durlacher Altstadt?",
+      "a": "Die Altstadt ist als Gesamtanlage geschützt, einzelne Häuser sind zusätzlich Kulturdenkmale. Ob innen etwas geschützt ist, klärt in der Regel die untere Denkmalschutzbehörde der Stadt."
+    },
+    {
+      "q": "Wer hilft in Karlsruhe bei der Frage, wie ein Dachgeschoss im Sommer kühl bleibt?",
+      "a": "Die Karlsruher Energie- und Klimaschutzagentur berät neutral, unter anderem zum sommerlichen Wärmeschutz und zur Dämmung."
+    }
+  ],
+  "offen": [
+    "Ob ein Dachgeschossausbau in Karlsruhe im Einzelfall genehmigungspflichtig oder verfahrensfrei ist, wurde nicht geprüft; im Text nur allgemein auf das Bauordnungsamt verwiesen.",
+    "Die Aussage, dass bei Kulturdenkmalen auch Innenbauteile (Grundrisse, Treppen, Stuck) Teil des Denkmalwerts sein können, ist allgemeines Denkmalrecht und nicht durch eine Karlsruher Quelle belegt.",
+    "Die Branddirektion wird nur im Zusammenhang mit der Brandverhütungsschau belegt; im Text nicht als Beteiligte bei privaten Dachausbauten dargestellt."
+  ]
+}

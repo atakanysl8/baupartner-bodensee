@@ -1,0 +1,82 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "heidelberg",
+  "ortName": "Heidelberg",
+  "kreis": "Heidelberg",
+  "title": "Badsanierung Heidelberg – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Heidelberg: Wasserhärte je nach Trinkwasserzone, Rückstauschutz mit städtischer Förderung, barrierearmes Bad. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Heidelberg",
+  "einstieg": "In Heidelberg hängt schon die Frage nach Kalk davon ab, wo das Haus steht: Am Hang in Handschuhsheim fließt teils weiches Quellwasser, in der Ebene härteres Grundwasser. Wer in Bergheim, Rohrbach oder Ziegelhausen ein Bad modernisiert, sollte außerdem an Starkregen und Rückstau denken und bei einem barrierearmen Umbau die städtischen Beratungsstellen kennen.",
+  "abschnitte": [
+    {
+      "h2": "Vier Trinkwasserzonen: von weichem Quellwasser bis hartem Grundwasser",
+      "text": "Die Stadtwerke Heidelberg versorgen die Stadt aus mehreren Quellen: aus sieben Quellen in Handschuhsheim und Ziegelhausen, aus den Grundwasserwerken Entensee, Rauschen und Schlierbach sowie mit Wasser aus dem Wasserwerk Edingen des Wasserversorgungsverbands Neckargruppe. Daraus ergeben sich vier Trinkwasserzonen mit Härten zwischen etwa 3 °dH, also weich, und 21 °dH, also hart. Für die Badplanung lohnt deshalb ein Blick auf die eigene Adresse: Die Stadtwerke stellen online eine Trinkwasseranalyse für jedes Haus bereit. Bei hartem Wasser sind leicht zu reinigende Oberflächen, gut erreichbare Armaturen und gegebenenfalls eine Enthärtung sinnvoll; bei weichem Wasser spielt Kalk kaum eine Rolle."
+    },
+    {
+      "h2": "Rückstau und Starkregen: Schutz für Bäder im Untergeschoss",
+      "text": "Mehr als 99 Prozent der Heidelberger Einwohner sind an die Kläranlage des Abwasserzweckverbands Heidelberg angeschlossen. Bei heftigem Regen kann das Kanalnetz an seine Grenzen kommen, und die Stadt hat Starkregengefahrenkarten erstellt, mit denen sich das Risiko für ein Grundstück abschätzen lässt. Wer ein Bad oder eine Waschküche im Untergeschoss plant, sollte den Rückstauschutz deshalb von Anfang an mitdenken. Die Stadt fördert mit ihrem Programm Starkregen- und Hochwasserschutz unter anderem eine Vor-Ort-Beratung sowie Rückstauverschlüsse und Hebeanlagen. Auskunft gibt das Amt für Umweltschutz, Gewerbeaufsicht und Energie."
+    },
+    {
+      "h2": "Barrierearm umbauen: Fachstelle und Pflegestützpunkt der Stadt",
+      "text": "Für eine bodengleiche Dusche oder ein Bad, das auch mit Rollator nutzbar ist, berät die Fachstelle barrierefreies Planen, Bauen, Wohnen der Stadt zu Wohnungsanpassung, Hilfsmitteln, Umbau und Finanzierung. Fragen rund um Pflege beantwortet der Pflegestützpunkt in der Dantestraße kostenfrei und unabhängig. Wenn Ihre Planung steht, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die vier Trinkwasserzonen der Stadtwerke Heidelberg haben Wasserhärten von weich mit 3 °dH bis hart mit 21 °dH; eine Analyse für das eigene Haus lässt sich auf der Website der Stadtwerke abrufen.",
+      "quelle": "Stadtwerke Heidelberg – Trinkwasser für Heidelberg",
+      "url": "https://www.swhd.de/wasser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Heidelberger Trinkwasser stammt zu bis zu fünf Prozent aus Quellen in Handschuhsheim und Ziegelhausen, zu rund 60 Prozent aus den Grundwasserwerken Entensee, Rauschen und Schlierbach und zu rund 35 Prozent aus dem Wasserwerk Edingen; die Versorgung ist vollständig in kommunalem Besitz.",
+      "quelle": "Stadtwerke Heidelberg – Trinkwasser für Heidelberg",
+      "url": "https://www.swhd.de/wasser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In Heidelberg sind mehr als 99 % der Einwohner an die öffentliche Kläranlage des Abwasserzweckverbandes Heidelberg angeschlossen.",
+      "quelle": "Stadt Heidelberg – Abwasserentsorgung und Regenwasserbewirtschaftung",
+      "url": "https://www.heidelberg.de/HD/Leben/Abwasserentsorgung+und+Regenwasserbewirtschaftung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das städtische Förderprogramm Starkregen- und Hochwasserschutz umfasst eine Vor-Ort-Beratung mit Empfehlungen (Überflutungs-Pass-HD) sowie Schutzmaßnahmen wie Rückstauverschlüsse, Hebeanlagen, Schwellen und Aufkantungen.",
+      "quelle": "Stadt Heidelberg – Förderprogramm Starkregen- und Hochwasserschutz",
+      "url": "https://www.heidelberg.de/HD/Leben/foerderprogramm+starkregen-+und+hochwasserschutz.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Fachstelle barrierefreies Planen, Bauen, Wohnen der Stadt Heidelberg berät unter anderem zu Barrierefreiheit und Wohnungsanpassungsmaßnahmen (Hilfsmittel, Umbau, Finanzierung).",
+      "quelle": "Stadt Heidelberg – Barrierefreiheit und Wohnen",
+      "url": "https://www.heidelberg.de/HD/Leben/barrierefreiheit+und+wohnen.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt der Stadt Heidelberg in der Dantestraße 7 bietet Pflegebedürftigen und Angehörigen kostenfreie und unabhängige Beratung.",
+      "quelle": "Stadt Heidelberg – Pflege auf einen Blick",
+      "url": "https://www.heidelberg.de/HD/Leben/Pflege+auf+einen+Blick.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Wasser an meiner Heidelberger Adresse?",
+      "a": "Das hängt von der Trinkwasserzone ab, die Spanne reicht von etwa 3 bis 21 °dH. Die Stadtwerke Heidelberg bieten auf ihrer Website eine Analyse für jede Adresse an."
+    },
+    {
+      "q": "Gibt es in Heidelberg Unterstützung für einen Rückstauschutz?",
+      "a": "Das städtische Förderprogramm Starkregen- und Hochwasserschutz nennt unter anderem Rückstauverschlüsse und Hebeanlagen als förderfähige Maßnahmen. Auskunft zu Antrag und Bedingungen gibt die Stadt."
+    },
+    {
+      "q": "Wer berät in Heidelberg zum barrierefreien Badumbau?",
+      "a": "Die Fachstelle barrierefreies Planen, Bauen, Wohnen der Stadt berät zu Umbau, Hilfsmitteln und Finanzierung; Fragen zur Pflege beantwortet der Pflegestützpunkt."
+    }
+  ],
+  "offen": [
+    "Laut Stadtwerken wurde die Hangzone in Neuenheim/Handschuhsheim im Sommer 2026 vorübergehend auf härteres Wasser umgestellt; der Text nennt Quellwasser deshalb nur mit „teils“.",
+    "Die Antragsphase des Förderprogramms Starkregen- und Hochwasserschutz ist zeitlich begrenzt; im Text keine Fristen genannt.",
+    "Das Förderprogramm „Barrierefreie Lebenslaufwohnungen“ wird auf einer Stadtseite erwähnt, fehlt aber in der aktuellen Förderübersicht für Privatpersonen; deshalb nicht genannt.",
+    "Stadtteilnennungen im Einstieg (Bergheim, Rohrbach, Ziegelhausen) sind nicht durch eine Fakt-Quelle belegt."
+  ]
+}

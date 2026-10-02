@@ -1,0 +1,87 @@
+{
+  "leistung": "hochbau",
+  "ort": "offenburg",
+  "ortName": "Offenburg",
+  "kreis": "Ortenaukreis",
+  "title": "Bauunternehmen Offenburg – kostenlos vermittelt",
+  "description": "Bauen in Offenburg: BürgerBüroBauen, Bebauungspläne je Ortschaft, Baulandkataster, Gestaltungsbeirat und KOWO-Förderung. Bauunternehmen kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Offenburg",
+  "einstieg": "Offenburg wächst, und neue Wohnungen entstehen sowohl in Baugebieten der Ortschaften als auch auf Konversions- und Innenflächen der Kernstadt. Wer ein Einfamilienhaus, ein Mehrfamilienhaus oder einen Anbau plant, findet die meisten Ansprechpartner unter einem Dach im Technischen Rathaus. Dazu kommen einige Offenburger Besonderheiten, die man vor dem Entwurf kennen sollte.",
+  "abschnitte": [
+    {
+      "h2": "Erste Adresse: das BürgerBüroBauen in der Wilhelmstraße",
+      "text": "Im BürgerBüroBauen in der Wilhelmstraße 12 sind Empfang, Bauberatung und die Abteilung Baurecht der Stadt gebündelt. Die Bauberatung erklärt, ob und wie ein Grundstück bebaubar ist, was eine Baugenehmigung umfasst und welche staatliche Wohnbau- oder Sanierungsförderung in Frage kommt. Für die Frage, ob ein Grundstück im Geltungsbereich eines Bebauungsplans liegt, ist die Abteilung Stadtplanung und Stadtgestaltung zuständig; die rechtskräftigen Pläne und Bebauungsvorschriften stehen nach Ortschaften sortiert zum Download bereit, von Bohlsbach bis Zunsweier. Ältere und sogenannte einfache Bebauungspläne sind dort nicht vollständig abgebildet, Auskunft geben die Ansprechpartner der Abteilung. Steht ein Gebäude unter Denkmalschutz, nimmt dieselbe Abteilung die Aufgaben der unteren Denkmalschutzbehörde wahr; die Anträge werden ebenfalls im BürgerBüroBauen eingereicht."
+    },
+    {
+      "h2": "Grundstück finden: Baulandkataster, Bauplatzliste und Bodenwerte",
+      "text": "Städtische Bauplätze bietet Offenburg nur zeitweise an. Wer informiert werden möchte, sobald neue ausgeschrieben werden, kann sich in die Bauplatzinteressentenliste der Abteilung Städtebauförderung, Liegenschaften und Vergabe eintragen lassen. Daneben veröffentlicht die Stadt seit 2014 ein Baulandkataster im Geodatenportal: Es zeigt unbebaute oder untergenutzte Grundstücke mit Flurstück, Größe und Hinweisen zum Planungsrecht, aus denen sich allerdings keine Ansprüche ableiten lassen. Für Bodenrichtwerte und Verkehrswertgutachten ist der Gemeinsame Gutachterausschuss Offenburg-Kinzigtal zuständig, der seit Juli 2023 für 22 Kommunen arbeitet."
+    },
+    {
+      "h2": "Gestaltungsbeirat und KOWO: was größere Vorhaben betrifft",
+      "text": "Für Bauvorhaben, die wegen Größe, Lage oder Bedeutung das Stadtbild prägen, hat Offenburg einen unabhängigen Gestaltungsbeirat. Er berät Gemeinderat und Verwaltung zu Architektur und Stadtbild und gibt Empfehlungen zu den ihm vorgelegten Projekten. Wer Mietwohnungen bauen möchte, kann außerdem das Kommunale Wohnraumförderprogramm KOWO prüfen, das den Neubau nach dem Landeswohnraumförderprogramm geförderter Mietwohnungen ergänzend unterstützt. Ist Ihr Vorhaben umrissen, schildern Sie es über unser Formular; wir wählen dafür einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Das BürgerBüroBauen der Stadt Offenburg mit der Abteilung Baurecht befindet sich in der Wilhelmstraße 12.",
+      "quelle": "Stadt Offenburg – BürgerBüroBauen",
+      "url": "https://www.offenburg.de/de/bauen-und-umwelt/bauen/buergerbuerobauen/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die rechtskräftigen Bebauungspläne und Bebauungsvorschriften der Offenburger Ortschaften stehen online zum Download; Auskunft gibt die Abteilung Stadtplanung und Stadtgestaltung.",
+      "quelle": "Stadt Offenburg – Rechtskräftige Bebauungspläne",
+      "url": "https://www.offenburg.de/de/bauen-und-umwelt/planen/stadtplanung/bebauungsplaene/rechtskraeftige-bebauungsplaene-2/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Offenburger Baulandkataster ist seit dem 1. März 2014 im Geodatenportal einsehbar; die Angaben zum Planungsrecht dienen nur als Hinweis.",
+      "quelle": "Stadt Offenburg – Baulandkataster",
+      "url": "https://www.offenburg.de/de/bauen-und-umwelt/bauen/baulanderschliessung/baulandkataster/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für künftige städtische Bauplätze führt die Abteilung Städtebauförderung, Liegenschaften und Vergabe eine Bauplatzinteressentenliste.",
+      "quelle": "Stadt Offenburg – Städtische Bauplätze",
+      "url": "https://www.offenburg.de/de/bauen-und-umwelt/bauen/staedtische-bauplaetze-2/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Gemeinsame Gutachterausschuss Offenburg-Kinzigtal ist seit 01.07.2023 für 22 Kommunen mit rund 180.000 Einwohnern zuständig.",
+      "quelle": "Stadt Offenburg – Gutachterausschuss",
+      "url": "https://www.offenburg.de/de/bauen-und-umwelt/gutachterausschuss/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Gestaltungsbeirat begutachtet Bauvorhaben, die wegen Größe, Lage oder Bedeutung das Offenburger Stadtbild prägen, und gibt Empfehlungen an Gemeinderat und Verwaltung.",
+      "quelle": "Stadt Offenburg – Gestaltungsbeirat",
+      "url": "https://www.offenburg.de/de/bauen-und-umwelt/planen/gestaltungsbeirat/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die untere Denkmalschutzbehörde ist in der Abteilung Stadtplanung und Stadtgestaltung angesiedelt; Anträge auf denkmalrechtliche Genehmigung gehen an das BürgerBüroBauen.",
+      "quelle": "Stadt Offenburg – Denkmalschutz",
+      "url": "https://www.offenburg.de/de/bauen-und-umwelt/planen/denkmalschutz/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo reiche ich in Offenburg einen Bauantrag ein?",
+      "a": "Zuständig ist die Abteilung Baurecht der Stadt im BürgerBüroBauen, Wilhelmstraße 12. Dort gibt es auch eine Bauberatung zur Bebaubarkeit."
+    },
+    {
+      "q": "Wie erfahre ich von neuen städtischen Bauplätzen in Offenburg?",
+      "a": "Über die Bauplatzinteressentenliste der Abteilung Städtebauförderung, Liegenschaften und Vergabe. Zusätzlich zeigt das Baulandkataster private und städtische Baulücken."
+    },
+    {
+      "q": "Wer ist in Offenburg zuständig, wenn ich neben oder an einem Kulturdenkmal baue?",
+      "a": "Die Aufgaben der unteren Denkmalschutzbehörde nimmt die städtische Abteilung Stadtplanung und Stadtgestaltung wahr. Anträge auf denkmalrechtliche Genehmigung werden im BürgerBüroBauen eingereicht."
+    }
+  ],
+  "offen": [
+    "Einstieg: „Offenburg wächst“ und Konversionsflächen sind aus den Projektseiten der Stadtplanung abgeleitet, aber nicht als Fakt belegt.",
+    "Hochwasser-/Starkregenkarten für Offenburg (Kinzig) nicht gefunden; die Stadtseite verlinkt nur auf Landesportale.",
+    "Dass die Abteilung Baurecht Baurechtsbehörde (Große Kreisstadt) ist, steht nicht wörtlich auf der Seite."
+  ]
+}

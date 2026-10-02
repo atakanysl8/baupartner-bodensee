@@ -1,0 +1,80 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "pforzheim",
+  "ortName": "Pforzheim",
+  "kreis": "Pforzheim",
+  "title": "Badsanierung Pforzheim – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Pforzheim: weiches Wasser, Rückstauschutz nach Vorgaben der Stadtentwässerung, Pflegeberatung. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Pforzheim",
+  "einstieg": "In Pforzheim liegen viele Häuser am Hang über Enz und Nagold, nicht wenige haben ein Untergeschoss, das zur Straße hin tiefer liegt. Wer hier ein Bad erneuert oder im Souterrain eine Dusche einbaut, sollte neben Fliesen und Armaturen auch Wasserhärte, Abwasseranschluss und Rückstau im Blick haben. Für alle drei gibt es in der Goldstadt klare Zuständigkeiten.",
+  "abschnitte": [
+    {
+      "h2": "Weiches Wasser aus mehreren Quellen: 6 bis 9 °dH",
+      "text": "Das Pforzheimer Leitungswasser hat mehrere Herkünfte. Die Stadtwerke fördern Grundwasser aus Tiefbrunnen in den Enzauen und im Nagoldtal, nutzen Quellen im Grösseltal und beziehen zusätzlich Wasser vom Zweckverband Bodensee-Wasserversorgung und vom Zweckverband Wasserversorgung der Gebietsgemeinden. Im Ergebnis liegt die Härte im ganzen Stadtgebiet bei 6 bis 9 °dH, also im weichen Bereich. Für die Badplanung bedeutet das wenig Kalk an Glas und Armaturen; eine Enthärtungsanlage ist in der Regel kein Thema. Den genauen Wert für die eigene Straße zeigt die Trinkwasseranalyse der Stadtwerke. Die Stadtwerke weisen zudem darauf hin, dass die Hausinstallation hinter dem Zähler in der Verantwortung der Eigentümer liegt."
+    },
+    {
+      "h2": "Bad im Untergeschoss: Hebeanlage statt Rückstauklappe",
+      "text": "Abwasser ist in Pforzheim Sache des Eigenbetriebs Stadtentwässerung (ESP). Nach der Abwassersatzung brauchen die Herstellung und Veränderung von Grundstücksentwässerungsanlagen eine schriftliche Genehmigung, die Unterlagen nennt der ESP in seinem Antragsformular. Besonders genau sind die Hinweise zum Rückstau: Beim Mischsystem gilt grundsätzlich die Höhe von Straße oder Gehweg im Anschlussbereich als Rückstauhöhe. Geschützt wird nach Angaben des ESP durch eine Abwasserhebeanlage mit Rückstauschleife. Einfache Rückstauverschlüsse oder Hybridhebeanlagen kommen danach nur für Räume mit untergeordneter Nutzung in Betracht. Ob ein Kellerbad darunter fällt, klärt die Bürgerberatung Grundstücksentwässerung des ESP."
+    },
+    {
+      "h2": "Barrierearm umbauen: Pflegestützpunkt und keep",
+      "text": "Für ein Bad, das auch mit Rollator oder Pflegebedarf funktioniert, berät der Pflegestützpunkt der Stadt Pforzheim unabhängig und kostenlos, telefonisch, im Büro in der Westlichen Karl-Friedrich-Straße oder zu Hause. Auf Anfrage finden Gespräche auch in den Ortsverwaltungen Würm, Hohenwart, Huchenfeld, Büchenbronn und Eutingen statt. Eine kostenlose Erstberatung zu Heizung und Warmwasser bietet die Klimaschutz- und Energieagentur Enzkreis Pforzheim (keep). Wenn das Vorhaben steht, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadtwerke Pforzheim geben die Wasserhärte mit 6 bis 9 °dH für ganz Pforzheim an; das Wasser stammt aus Tiefbrunnen der Enzauen und des Nagoldtals, Quellen des Grösseltals sowie aus Fremdbezug von zwei Zweckverbänden, darunter die Bodensee-Wasserversorgung.",
+      "quelle": "Stadtwerke Pforzheim – Trinkwasserqualität",
+      "url": "https://www.stadtwerke-pforzheim.de/trinkwasser/trinkwasserqualitaet-und-preise/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut Stadtwerken Pforzheim liegen private Hausinstallationen in der Verantwortung der Hauseigentümer; am Wasserwerk Friedrichsberg betreiben die Stadtwerke eine Ultrafiltrationsanlage.",
+      "quelle": "Stadtwerke Pforzheim – Trinkwasserqualität",
+      "url": "https://www.stadtwerke-pforzheim.de/trinkwasser/trinkwasserqualitaet-und-preise/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach der Abwassersatzung bedürfen Anschluss und Benutzung der öffentlichen Abwasseranlagen sowie Herstellung und Veränderung der Grundstücksentwässerungsanlagen einer schriftlichen Genehmigung.",
+      "quelle": "Eigenbetrieb Stadtentwässerung Pforzheim – Antrag auf Genehmigung",
+      "url": "https://stadtentwaesserung.pforzheim.de/service-downloads/antrag-auf-genehmigung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Schutz gegen Rückstau hat laut Stadtentwässerung Pforzheim nach DIN EN 12056-4 durch Abwasserhebeanlagen mit Rückstauschleife zu erfolgen; Rückstauverschlüsse oder Hybridhebeanlagen sind nur für Räume untergeordneter Nutzung vorgesehen.",
+      "quelle": "Eigenbetrieb Stadtentwässerung Pforzheim – Rückstausicherung",
+      "url": "https://stadtentwaesserung.pforzheim.de/service-downloads/rueckstausicherung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt der Stadt Pforzheim berät unabhängig und kostenlos, telefonisch, vor Ort und zu Hause; Beratungen in den Ortsverwaltungen Würm, Hohenwart, Huchenfeld, Büchenbronn und Eutingen sind auf Anfrage möglich.",
+      "quelle": "Stadt Pforzheim – Pflegestützpunkt",
+      "url": "https://www.pforzheim.de/buerger/gesellschaft-soziales/senioren/pflegestuetzpunkt.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für eine kostenlose Erstberatung zu Energie und Sanierung verweist die Stadt Pforzheim auf die Klimaschutz- und Energieagentur Enzkreis Pforzheim (keep gGmbH).",
+      "quelle": "Stadt Pforzheim – Infoportal Klimaschutz, Energie und Sanieren",
+      "url": "https://www.klimaschutz-pforzheim.de/informieren/energie-und-sanieren.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Reicht in Pforzheim eine Rückstauklappe für ein Kellerbad?",
+      "a": "Nach den Hinweisen der Stadtentwässerung Pforzheim sind Rückstauverschlüsse nur für Räume untergeordneter Nutzung vorgesehen. Für hochwertig genutzte Räume nennt der ESP Hebeanlagen mit Rückstauschleife; Auskunft gibt die Bürgerberatung Grundstücksentwässerung."
+    },
+    {
+      "q": "Ist das Wasser in allen Pforzheimer Stadtteilen weich?",
+      "a": "Die Stadtwerke geben 6 bis 9 °dH für ganz Pforzheim an. Den genauen Wert für eine Adresse liefert ihre Online-Trinkwasseranalyse."
+    },
+    {
+      "q": "Kann ich mich in Pforzheim zum altersgerechten Bad auch zu Hause beraten lassen?",
+      "a": "Ja, der Pflegestützpunkt der Stadt berät auch bei Ihnen zu Hause, außerdem auf Anfrage in mehreren Ortsverwaltungen."
+    }
+  ],
+  "offen": [
+    "Ob der Pflegestützpunkt Pforzheim konkret zu baulicher Wohnraumanpassung berät oder an Wohnberatungsstellen verweist, ist auf der Quelle nicht ausdrücklich genannt.",
+    "Die Aussage zur Hanglage und zu tiefer liegenden Untergeschossen im Einstieg ist eine allgemeine Ortsbeschreibung ohne Fakt-Quelle."
+  ]
+}

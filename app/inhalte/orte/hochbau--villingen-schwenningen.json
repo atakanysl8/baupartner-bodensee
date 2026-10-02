@@ -1,0 +1,80 @@
+{
+  "leistung": "hochbau",
+  "ort": "villingen-schwenningen",
+  "ortName": "Villingen-Schwenningen",
+  "kreis": "Schwarzwald-Baar-Kreis",
+  "title": "Bauunternehmen Villingen-Schwenningen – kostenlos vermittelt",
+  "description": "Neubau oder Anbau in Villingen-Schwenningen: Bauberatung im Baurechtsamt, Gestaltungssatzung Villingen, Bodenrichtwerte. Bauunternehmen kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Villingen-Schwenningen",
+  "einstieg": "Ein Einfamilienhaus am Rand von Schwenningen, ein Anbau in einem der Ortsteile oder ein Wohnhaus nahe der Villinger Ringmauer: Was gebaut werden darf, hängt in Villingen-Schwenningen stark vom Standort ab. Als Große Kreisstadt hat die Stadt ein eigenes Baurechtsamt, für die historische Villinger Innenstadt gelten zusätzlich eigene örtliche Bauvorschriften.",
+  "abschnitte": [
+    {
+      "h2": "Bauberatung im Baurechtsamt und Bauantrag online",
+      "text": "Erste Anlaufstelle ist das Bürgerbüro Bauen mit der Bauberatung des Baurechtsamts. Besprochen wird dort, ob und mit welcher Nutzung ein Grundstück bebaubar ist, in welcher Dichte gebaut werden kann, ob gestalterische Vorgaben gelten, ob Nachbarn betroffen sein könnten und ob ein Vorhaben überhaupt genehmigungspflichtig oder verfahrensfrei ist. Die Stadt bittet darum, zum Gespräch möglichst einen aktuellen Lageplan und erste Skizzen mitzubringen. Den Bauantrag selbst können Bauherren über das Virtuelle Baurechtsamt online einreichen. Die gültigen Bebauungspläne und den Flächennutzungsplan zeigt das Geoportal der Stadt, allerdings ohne Anspruch auf Rechtsverbindlichkeit; verbindlich ist der beschlossene Plan."
+    },
+    {
+      "h2": "Villinger Innenstadt: Gestaltungssatzung, Denkmalschutz und Gestaltungsbeirat",
+      "text": "Innerhalb der historischen Villinger Innenstadt gilt eine Satzung über örtliche Bauvorschriften, die Gestaltungssatzung, außerdem eine eigene Stellplatzsatzung für die Innenstadt Villingen. Viele Gebäude in den Stadtbezirken sind Kulturdenkmale. Nach Angaben der Stadt sind Veränderungen daran vor Baubeginn mit den Denkmalschutzbehörden abzustimmen, ausdrücklich auch Anbauten, Dachgeschossausbauten, statische Eingriffe und Umbauten im Inneren. Bei Bauvorhaben mit herausragender Bedeutung für das Stadtbild zieht die Stadt zusätzlich einen Gestaltungsbeirat aus drei externen Fachleuten für Architektur, Städtebau und Landschaftsarchitektur hinzu. Für ein Neubauprojekt in zentraler Lage lohnt es sich deshalb, Gestaltungsfragen früh zu klären."
+    },
+    {
+      "h2": "Grundstückswert und Solareignung vor dem Kauf prüfen",
+      "text": "Bodenrichtwerte für Villingen-Schwenningen ermittelt ein gemeinsamer Gutachterausschuss, der auch für St. Georgen, Brigachtal, Dauchingen, Königsfeld, Mönchweiler, Niedereschach, Tuningen und Unterkirnach zuständig ist. Das Geoportal der Stadt bietet daneben ein Dashboard zum Grundstücksmarktbericht und ein Solarkataster, mit dem sich die Eignung eines Dachs abschätzen lässt. Neuere Bebauungspläne enthalten nach Angaben der Stadt zunehmend energetische und klimarelevante Festsetzungen. Wenn Grundstück und Planung feststehen, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen dafür einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Bauberatung des Baurechtsamts Villingen-Schwenningen klärt unter anderem Bebaubarkeit, Nutzung, Dichte, gestalterische Vorgaben, Nachbarbelange und die Frage, ob ein Vorhaben verfahrensfrei ist; Bauanträge sind auch online über das Virtuelle Baurechtsamt möglich.",
+      "quelle": "Stadt Villingen-Schwenningen – Bürgerbüro Bauen & Bauberatung",
+      "url": "https://www.villingen-schwenningen.de/bauen-wohnen/bauen-sanieren/buergerbuero-bau-bauberatung/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Geoportal der Stadt zeigt die gültigen Bebauungspläne und den Flächennutzungsplan ohne Anspruch auf Rechtsverbindlichkeit sowie ein Solarkataster und ein Dashboard zum Grundstücksmarktbericht.",
+      "quelle": "Stadt Villingen-Schwenningen – Geoportal",
+      "url": "https://www.villingen-schwenningen.de/bauen-wohnen/vermessung/geoportal-villingen-schwenningen/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Zum Ortsrecht der Stadt gehören eine Gestaltungssatzung für die historische Innenstadt Villingen, eine Stellplatzsatzung Innenstadt Villingen und eine Kfz-Stellplatzsatzung zur Einschränkung der Stellplatzverpflichtung.",
+      "quelle": "Stadt Villingen-Schwenningen – Ortsrecht",
+      "url": "https://www.villingen-schwenningen.de/rathaus-leben/unsere-stadt/ortsrecht/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Veränderungen an Kulturdenkmalen sind in Villingen-Schwenningen vor Baubeginn mit den Denkmalschutzbehörden abzustimmen; genannt werden unter anderem Anbauten, Dachgeschossausbau, innere Umbauten und statische Eingriffe.",
+      "quelle": "Stadt Villingen-Schwenningen – Denkmalschutz",
+      "url": "https://www.villingen-schwenningen.de/bauen-wohnen/bauen-sanieren/denkmalschutz/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Gestaltungsbeirat der Stadt ist mit drei externen Sachverständigen aus Architektur, Städtebau und Landschaftsarchitektur besetzt und berät bei Bauvorhaben mit herausragender Bedeutung für das Stadtbild.",
+      "quelle": "Stadt Villingen-Schwenningen – Gestaltungsbeirat",
+      "url": "https://www.villingen-schwenningen.de/bauen-wohnen/stadtplanung/gestaltungsbeirat-villingen-schwenningen/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bodenrichtwerte für Villingen-Schwenningen sowie St. Georgen, Brigachtal, Dauchingen, Königsfeld, Mönchweiler, Niedereschach, Tuningen und Unterkirnach ermittelt ein gemeinsamer Gutachterausschuss.",
+      "quelle": "Stadt Villingen-Schwenningen – Bodenrichtwerte",
+      "url": "https://www.villingen-schwenningen.de/bauen-wohnen/gutachterausschuss/bodenrichtwerte/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist für Bauanträge in Villingen-Schwenningen das Landratsamt zuständig?",
+      "a": "Nein, die Stadt hat als Große Kreisstadt ein eigenes Baurechtsamt. Dort gibt es auch die Bauberatung; Anträge können online über das Virtuelle Baurechtsamt eingereicht werden."
+    },
+    {
+      "q": "Welche Unterlagen sind für die Bauberatung sinnvoll?",
+      "a": "Die Stadt nennt einen aktuellen Lageplan und alle verfügbaren Unterlagen; erste Entwürfe oder Skizzen zum Vorhaben sind nach ihren Angaben ebenfalls hilfreich."
+    },
+    {
+      "q": "Gelten in der Villinger Altstadt besondere Bauvorschriften?",
+      "a": "Für die historische Innenstadt Villingen gibt es eine Gestaltungssatzung und eine eigene Stellplatzsatzung. Ist das Gebäude ein Kulturdenkmal, sind Änderungen zusätzlich mit den Denkmalschutzbehörden abzustimmen."
+    }
+  ],
+  "offen": [
+    "Inhalt der Gestaltungssatzung Villingen und der Stellplatzsatzungen nicht gelesen (PDFs sind Scans ohne Textebene); nur Existenz und Titel aus der Ortsrechtsseite übernommen.",
+    "Ortsbeschreibungen im Einstieg (Ringmauer, Ortsteile) nicht durch eine Fakt-Quelle belegt."
+  ]
+}

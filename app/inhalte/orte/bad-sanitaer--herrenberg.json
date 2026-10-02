@@ -1,0 +1,83 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "herrenberg",
+  "ortName": "Herrenberg",
+  "kreis": "Böblingen",
+  "title": "Badsanierung Herrenberg – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Herrenberg: Entwässerung und Starkregenkarten, Beratung zur Wohnungsanpassung bei der Fa-GAP, Energieberatung. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Herrenberg",
+  "einstieg": "Ob Altstadthaus unter dem Schlossberg oder Einfamilienhaus in einem der Stadtteile: Wer in Herrenberg ein Bad erneuert, denkt meist an mehr Platz, eine bodengleiche Dusche und eine sparsamere Warmwasserbereitung. Für diese Fragen hat die Stadt eigene Beratungsangebote.",
+  "abschnitte": [
+    {
+      "h2": "Wohnungsanpassung: Die Fa-GAP und der Pflegestützpunkt in Herrenberg",
+      "text": "Für ein Bad, das auch mit Rollator oder nach einem Sturz noch funktioniert, gibt es in Herrenberg eine städtische Anlaufstelle: die Fachstelle für Gesundheit, Alter und Pflege (Fa-GAP). Sie berät ältere Menschen und ihre Angehörigen und nennt ausdrücklich Wohnungsanpassung und technische Hilfsmittel als Themen, ebenso finanzielle Hilfen durch mögliche Kostenträger. Termine vergibt sie nach Vereinbarung, daneben gibt es offene Sprechzeiten. Für Fragen zur Pflegeversicherung verweist die Stadt auf den Pflegestützpunkt Herrenberg des Landkreises Böblingen. Wer früh klärt, welche Hilfsmittel in Frage kommen, kann Bewegungsflächen, Haltegriffe und eine schwellenlose Dusche gleich in die Planung aufnehmen."
+    },
+    {
+      "h2": "Abwasser und Starkregen: Was ein Kellerbad in Herrenberg betrifft",
+      "text": "Zuständig für die öffentliche Entwässerung ist in Herrenberg das Amt für Tiefbau und Entwässerung. Nach den Informationen der Stadt wird das Abwasser eines Grundstücks über einen Grundstücksentwässerungskanal an die öffentliche Kanalisation angeschlossen; für diese Leitung auf dem Grundstück sind die Eigentümer verantwortlich. Bei einem Bad oder WC im Untergeschoss spielt außerdem der Rückstau eine Rolle, den die Stadt neben Überschwemmungen ausdrücklich als Folge von Starkregen nennt. Herrenberg hat im Rahmen des kommunalen Starkregenrisikomanagements Starkregengefahrenkarten für die gesamte Gemarkung erstellen lassen und weist auf die private Vorsorgepflicht hin. Ein Blick in diese Karten hilft einzuschätzen, wie wichtig eine Rückstausicherung im Einzelfall ist."
+    },
+    {
+      "h2": "Warmwasser und Heizung: Energieberatung im Klosterhof",
+      "text": "Ein neues Bad ist oft der Anlass, auch die Warmwasserbereitung zu überdenken. Der Arbeitskreis Energie bietet in Herrenberg eine ehrenamtliche Erstberatung von 45 Minuten im Klosterhof in der Bronngasse an, unter anderem zu Heizungstechnik, Dämmung und Sanierung. Zusätzlich berät die Energieagentur Kreis Böblingen kostenlos im Landratsamt oder telefonisch. Steht der Plan, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die städtische Fachstelle für Gesundheit, Alter und Pflege (Fa-GAP) berät ältere Menschen in Herrenberg unter anderem zu Wohnungsanpassung, technischen Hilfsmitteln und finanziellen Hilfen durch mögliche Kostenträger.",
+      "quelle": "Stadt Herrenberg – Senioren / Fa-GAP",
+      "url": "https://www.herrenberg.de/de/Stadtleben/Leben/Senioren",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für Leistungen der Pflege und Pflegeversicherung verweist die Stadt Herrenberg auf den Pflegestützpunkt Herrenberg des Landkreises Böblingen.",
+      "quelle": "Stadt Herrenberg – Senioren / Fa-GAP",
+      "url": "https://www.herrenberg.de/de/Stadtleben/Leben/Senioren",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Grundstückseigentümer in Herrenberg schließen ihr Abwasser über einen Grundstücksentwässerungskanal an die öffentliche Kanalisation an; zuständig ist das Amt für Tiefbau und Entwässerung.",
+      "quelle": "Stadt Herrenberg – Abwasser entsorgen",
+      "url": "https://www.herrenberg.de/de/Rathaus/Buergerservice/Buergerservice-A-Z/Dienstleistung?view=publish&item=service&id=1006",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Herrenberg hat mit dem Förderprogramm „Kommunales Starkregenrisikomanagement“ Starkregengefahrenkarten für die gesamte Gemarkung erstellt; als Folgen von Starkregen nennt sie unter anderem Überschwemmungen und Rückstau.",
+      "quelle": "Stadt Herrenberg – Starkregenrisikomanagement",
+      "url": "https://www.herrenberg.de/Starkregenrisikomanagement",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ehrenamtliche Energieberater des Arbeitskreises Energie bieten in Herrenberg eine 45-minütige Erstberatung im Klosterhof, Bronngasse 13, zu Heizungstechnik, Gebäudedämmung, Sanierung und Neubau an.",
+      "quelle": "Stadt Herrenberg – Energetische Beratung und Engagement",
+      "url": "https://www.herrenberg.de/Energie/energetische-Beratung-und-Engagement",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Energieagentur Kreis Böblingen bietet kostenlose Energieberatung nach Terminvereinbarung im Landratsamt Böblingen oder telefonisch an.",
+      "quelle": "Energieagentur Kreis Böblingen – Beratung & Kontakt",
+      "url": "https://www.ea-bb.de/energieagentur/beratung_kontakt/__Beratung-Kontakt.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wer berät in Herrenberg zum altersgerechten Umbau des Bades?",
+      "a": "Die städtische Fa-GAP berät unter anderem zu Wohnungsanpassung und technischen Hilfsmitteln. Fragen zur Pflegeversicherung beantwortet der Pflegestützpunkt Herrenberg des Landkreises."
+    },
+    {
+      "q": "Wer ist in Herrenberg für Kanal und Entwässerung zuständig?",
+      "a": "Das Amt für Tiefbau und Entwässerung der Stadt. Für den Grundstücksentwässerungskanal auf dem eigenen Grundstück sind die Eigentümer verantwortlich."
+    },
+    {
+      "q": "Wo bekomme ich in Herrenberg eine Energieberatung zur Warmwasserbereitung?",
+      "a": "Beim Arbeitskreis Energie mit Erstberatung im Klosterhof oder bei der Energieagentur Kreis Böblingen im Landratsamt."
+    }
+  ],
+  "offen": [
+    "Wasserhärte für Herrenberg nicht belegbar: Die Website der Stadtwerke Herrenberg war nicht erreichbar (Zertifikatsfehler / nginx-Standardseite); Herrenberg steht nicht in der Analyseliste der Ammertal-Schönbuchgruppe. Deshalb kein Wasserhärte-Abschnitt.",
+    "Die Energieagentur Kreis Böblingen nennt für den Arbeitskreis Energie Herrenberg einen Unkostenbeitrag von 5 Euro, die Stadt spricht von kostenfreier Erstberatung – deshalb im Text keine Kostenangabe zum Arbeitskreis.",
+    "Satz „für diese Leitung auf dem Grundstück sind die Eigentümer verantwortlich“ ist aus der Stadtseite abgeleitet (Eigentümer müssen anschließen), nicht wörtlich belegt.",
+    
+    "Die Seniorenseite der Stadt liefert HTTP-Status 404, zeigt aber Inhalt und Canonical auf dieselbe URL."
+  ]
+}

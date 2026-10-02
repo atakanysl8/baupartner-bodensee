@@ -1,0 +1,80 @@
+{
+  "leistung": "hochbau",
+  "ort": "balingen",
+  "ortName": "Balingen",
+  "kreis": "Zollernalbkreis",
+  "title": "Bauunternehmen Balingen – kostenlos vermittelt",
+  "description": "Bauen in Balingen: Amt für Bau- und Planungsrecht, Geoportal mit Baulücken und Starkregenkarte, Bauplatzvergabe, Eyach-Hochwasser. Kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Balingen",
+  "einstieg": "Balingen liegt an der Eyach am Fuß der Schwäbischen Alb und besteht neben der Innenstadt aus 13 Stadtteilen. Bauplätze sind knapp, deshalb geht es beim Neubau oft um Baulücken, kleinere Grundstücke oder neue Wohnformen wie die Baugemeinschaft. Wer ein Haus planen möchte, sollte zuerst klären, was der Bebauungsplan erlaubt, wo ein Grundstück zu finden ist und wie es um Hochwasser und Starkregen steht.",
+  "abschnitte": [
+    {
+      "h2": "Planungsrecht klären: Amt für Bau- und Planungsrecht und Geoportal",
+      "text": "Ansprechpartner für Bauherren ist in Balingen das städtische Amt für Bau- und Planungsrecht; die Abteilung Service Bauen berät, ob und welches baurechtliche Verfahren ein Vorhaben braucht. Auch verfahrensfreie Vorhaben müssen nach Angaben der Stadt die Festsetzungen eines Bebauungsplans einhalten. Anträge laufen digital über das Virtuelle Bauamt. Welches Planrecht für ein Grundstück gilt, zeigt das Geoportal der Stadt; die Originale der Bebauungspläne können im Amt eingesehen werden. Dort ist auch das Baulastenverzeichnis geführt, aus dem Personen mit berechtigtem Interesse gebührenpflichtig Auskunft erhalten. Bei einem Ersatzneubau oder Anbau helfen zudem die alten Bauakten, die Eigentümer oder Bevollmächtigte einsehen können."
+    },
+    {
+      "h2": "Bauplatz, Baulücke oder Baugemeinschaft",
+      "text": "Städtische Wohnbauplätze vergibt Balingen nach eigenen Richtlinien; Auskunft zu Angeboten und Bewerberbogen gibt die Abteilung Liegenschaften. Im Geoportal sind neben den Bauplätzen auch Baulücken verzeichnet, außerdem der Zugang zu BORIS-BW mit den Bodenrichtwerten. Diese ermittelt der Gemeinsame Gutachterausschuss Mittelbereich Balingen, den die Stadt seit März 2022 mit zehn Umlandgemeinden bildet, darunter Geislingen, Rosenfeld und Schömberg. Ausdrücklich wirbt die Stadt für Baugemeinschaften: Mehrere Parteien kaufen je einen Grundstücksanteil, planen und bauen gemeinsam und schließen die Bauverträge zusammen ab. Steht Ihr Vorhaben fest, schildern Sie es über unser Formular; wir wählen dafür einen passenden Fachbetrieb aus."
+    },
+    {
+      "h2": "Eyach und Starkregen: Gefahrenkarten vor dem Entwurf ansehen",
+      "text": "Die Hochwassergefahrenkarten des Landes, die Gewässer mit mehr als zehn Quadratkilometern Einzugsgebiet wie die Eyach abbilden, sind über den Kartendienst UDO der LUBW abrufbar. Zusätzlich führt das Balinger Geoportal eine eigene Starkregenrisiko-Karte. Die Stadt erinnert daran, dass das Wasserhaushaltsgesetz jeder betroffenen Person eine Vorsorge im Rahmen des Möglichen und Zumutbaren abverlangt. Für den Entwurf heißt das in der Regel: Höhenlage von Erdgeschoss, Lichtschächten und Tiefgaragenzufahrten früh mit den Karten abgleichen."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Abteilung Service Bauen im Balinger Amt für Bau- und Planungsrecht berät, ob und welches baurechtliche Verfahren nötig ist; Anträge werden digital über das Virtuelle Bauamt gestellt.",
+      "quelle": "Stadt Balingen – Fragen rund ums Bauen",
+      "url": "https://www.balingen.de/fragen+rund+ums+bauen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Geoportal Balingen bündelt Bebauungspläne, Bauplätze, Baulücken, den Zugang zu BORIS-BW und eine Starkregenrisiko-Karte.",
+      "quelle": "Stadt Balingen – Geoportal",
+      "url": "https://www.balingen.de/geoportal",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Städtische Bauplätze vergibt Balingen nach Richtlinien über die Vergabe; Ansprechpartner ist die Abteilung Liegenschaften.",
+      "quelle": "Stadt Balingen – Wohnbauplätze",
+      "url": "https://www.balingen.de/bauplaetze",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Seit 1. März 2022 bildet Balingen mit zehn Umlandgemeinden den Gemeinsamen Gutachterausschuss Mittelbereich Balingen.",
+      "quelle": "Stadt Balingen – Gutachterausschuss",
+      "url": "https://www.balingen.de/gutachterausschuss",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Balingen informiert über Baugemeinschaften, bei denen jedes Mitglied einen eigenen Grundstücksanteil kauft und Planungs- und Bauverträge gemeinsam geschlossen werden.",
+      "quelle": "Stadt Balingen – Bauen in Gemeinschaft",
+      "url": "https://www.balingen.de/baugemeinschaften",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt verweist für Hochwassergefahrenkarten auf den Kartendienst UDO der LUBW und auf die Sorgfaltspflicht nach § 5 Abs. 2 Wasserhaushaltsgesetz.",
+      "quelle": "Stadt Balingen – Hochwasser",
+      "url": "https://www.balingen.de/hochwasser",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo sehe ich, welcher Bebauungsplan für mein Grundstück in Balingen gilt?",
+      "a": "Im Geoportal der Stadt lässt sich nach Grundstücken und dem geltenden Planrecht suchen. Die Originalpläne liegen im Amt für Bau- und Planungsrecht zur Einsicht aus."
+    },
+    {
+      "q": "Gibt es in Balingen eine Übersicht über freie Baulücken?",
+      "a": "Ja, das Geoportal enthält neben den städtischen Bauplätzen auch eine Karte mit Baulücken."
+    },
+    {
+      "q": "Wie finde ich heraus, ob mein Baugrundstück in Balingen bei Starkregen gefährdet ist?",
+      "a": "Das Geoportal der Stadt enthält eine Starkregenrisiko-Karte. Für Flusshochwasser, etwa an der Eyach, gelten die Hochwassergefahrenkarten des Landes im Kartendienst UDO."
+    }
+  ],
+  "offen": [
+    "Dass Balingen als Große Kreisstadt selbst untere Baurechtsbehörde ist, steht nicht wörtlich auf der Seite; im Text nur „Ansprechpartner“ genannt.",
+    "„Bauplätze sind knapp“ im Einstieg stützt sich auf die städtische Seite zu Baugemeinschaften („Bauplätze sind rar“), ist dort aber werblich formuliert."
+  ]
+}

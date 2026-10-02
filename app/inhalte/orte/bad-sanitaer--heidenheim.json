@@ -1,0 +1,87 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "heidenheim",
+  "ortName": "Heidenheim",
+  "kreis": "Heidenheim",
+  "title": "Badsanierung Heidenheim – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Heidenheim an der Brenz: hartes Karstwasser, Hinweise zu Leitungswerkstoffen, Entwässerungsgenehmigung, Pflegestützpunkt. Kostenlos vermittelt.",
+  "h1": "Badsanierung in Heidenheim",
+  "einstieg": "Heidenheim an der Brenz versorgt sich fast vollständig aus eigenen Quellen im Karst der Schwäbischen Alb, und das merkt man im Bad: Das Wasser ist hart. Wer in der Kernstadt, in Schnaitheim oder in Mergelstetten ein Bad modernisiert, plant deshalb mit Kalk, mit der Frage nach geeigneten Leitungswerkstoffen und, sobald sich an der Entwässerung etwas ändert, mit der städtischen Abwassersatzung.",
+  "abschnitte": [
+    {
+      "h2": "Karstwasser mit über 17 °dH: was das für Armaturen und Leitungen heißt",
+      "text": "Die Stadtwerke Heidenheim fördern das Trinkwasser in drei Pumpwerken, dem „Siebten Fuß“ in Aufhausen, dem Schmittenberg und der „Goldquelle“ in Mergelstetten, aus bis zu 150 Metern Tiefe. Laut aktueller Analyse liegt die Gesamthärte im Mittel bei 17,17 °dH und damit im harten Bereich. Zur Härtestabilisierung und gegen Korrosion setzen die Stadtwerke Phosphat und Silikat zu. Für die Badplanung bedeutet das: Kalkschutz an Duschabtrennung, Brausekopf und Warmwasserbereiter ist hier eher die Regel als die Ausnahme. Werden Leitungen erneuert, empfehlen die Stadtwerke Edelstahl, Kupfer oder Kunststoff gegenüber Stahl- und verzinkten Stahlleitungen."
+    },
+    {
+      "h2": "Entwässerung in Heidenheim: Genehmigung und Rückstauebene",
+      "text": "Nach der Heidenheimer Abwassersatzung bedürfen Herstellung und Änderung einer Grundstücksentwässerungsanlage der schriftlichen Genehmigung der Stadt; ist für das Vorhaben eine Baugenehmigung erteilt, gilt diese Genehmigung als erteilt. Bei einem reinen Badtausch ohne neue Anschlüsse spielt das meist keine Rolle, bei einem neuen Bad im Keller oder veränderten Fallleitungen dagegen schon. Als Rückstauebene nennt die Satzung die Straßenoberfläche an der Anschlussstelle. Toiletten, Bodenabläufe und Waschbecken darunter sind gegen Rückstau zu sichern, etwa mit Rückstauverschluss oder Hebeanlage. Ob ein konkreter Umbau eine Genehmigung braucht, beantwortet die Stadt Heidenheim."
+    },
+    {
+      "h2": "Barrierefrei und energiesparend: Beratung im Landkreis",
+      "text": "Für einen altersgerechten Umbau berät der Pflegestützpunkt des Landkreises Heidenheim kostenlos und neutral, unter anderem zu Hilfsmitteln und Wohnformen im Alter, im Landratsamt in der Schnaitheimer Straße oder auf Wunsch zu Hause. Wer gleichzeitig die Warmwasserbereitung erneuern will, findet bei der regionalen Energieagentur ZEKK für die Landkreise Heidenheim und Ostalbkreis eine neutrale Anlaufstelle. Wenn die Planung steht, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadtwerke Heidenheim versorgen die Stadt aus eigenen Quellen über die Pumpwerke „Siebter Fuß“ (Aufhausen), „Schmittenberg“ und „Goldquelle“ (Mergelstetten); gefördert wird aus bis zu 150 Metern Tiefe im Karst der Schwäbischen Alb.",
+      "quelle": "Stadtwerke Heidenheim – Trinkwasser",
+      "url": "https://www.stadtwerke-heidenheim.de/privatkunden/trinkwasser.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Trinkwasseranalyse der Stadtwerke Heidenheim (Werte Juni 2026) weist eine mittlere Gesamthärte von 17,17 °dH aus.",
+      "quelle": "Stadtwerke Heidenheim – Trinkwasseranalyse",
+      "url": "https://www.stadtwerke-heidenheim.de/trinkwasseranalyse-versorgungsgebiet-heidenheim.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Heidenheim halten Edelstahl, Kupfer oder Kunststoff als Leitungswerkstoffe für vorzugswürdig gegenüber Stahl- und verzinkten Stahlleitungen und dosieren Phosphat und Silikat zur Härtestabilisierung zu.",
+      "quelle": "Stadtwerke Heidenheim – Trinkwasseranalyse",
+      "url": "https://www.stadtwerke-heidenheim.de/trinkwasseranalyse-versorgungsgebiet-heidenheim.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach § 14 der Abwassersatzung der Stadt Heidenheim bedürfen Herstellung und Änderung von Grundstücksentwässerungsanlagen der schriftlichen Genehmigung der Stadt; sie gilt als erteilt, wenn die Baugenehmigung erteilt ist.",
+      "quelle": "Stadt Heidenheim – Abwassersatzung",
+      "url": "https://www.heidenheim.de/site/Heidenheim/get/documents_E-735979047/heidenheim/HDH_Stadt_Bibliothek/Rathaus%20%26%20Verwaltung/Stadtrecht/%C3%96ffentliche-Einrichtungen/Abwassersatzung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Rückstauebene ist nach § 17 der Heidenheimer Abwassersatzung die Straßenoberfläche an der Anschlussstelle; tiefer liegende Toiletten, Bodenabläufe und Waschbecken sind vom Eigentümer gegen Rückstau zu sichern.",
+      "quelle": "Stadt Heidenheim – Abwassersatzung",
+      "url": "https://www.heidenheim.de/site/Heidenheim/get/documents_E-735979047/heidenheim/HDH_Stadt_Bibliothek/Rathaus%20%26%20Verwaltung/Stadtrecht/%C3%96ffentliche-Einrichtungen/Abwassersatzung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt des Landkreises Heidenheim berät neutral und kostenlos, unter anderem zu Hilfsmitteln und Wohnformen im Alter, telefonisch, im Landratsamt oder auf Wunsch zu Hause.",
+      "quelle": "Landratsamt Heidenheim – Pflegestützpunkt",
+      "url": "https://www.landkreis-heidenheim.de/service/organigramm/fachbereich+soziale+sicherung+und+integration/pflegestuetzpunkt",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die ZEKK gGmbH ist die regionale Energieagentur für die Landkreise Heidenheim und Ostalbkreis und berät neutral, unter anderem zu Sanierungsmaßnahmen und Fördermöglichkeiten.",
+      "quelle": "Landratsamt Heidenheim – ZEKK",
+      "url": "https://www.landkreis-heidenheim.de/landkreis/klimaschutz+und+nachhaltigkeit/zekk",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Wasser in Heidenheim?",
+      "a": "Laut Trinkwasseranalyse der Stadtwerke im Mittel 17,17 °dH, also hart. Das Wasser stammt aus eigenen Karstquellen der Stadtwerke."
+    },
+    {
+      "q": "Welche Rohre empfehlen die Stadtwerke Heidenheim bei neuen Wasserleitungen?",
+      "a": "Die Stadtwerke halten Edelstahl, Kupfer oder Kunststoff für vorzugswürdig gegenüber Stahl- und verzinkten Stahlleitungen; Werkstoffe mit DVGW-Prüfzeichen gelten als gesundheitlich unbedenklich."
+    },
+    {
+      "q": "Wo bekomme ich im Landkreis Heidenheim Beratung zum barrierefreien Bad?",
+      "a": "Beim Pflegestützpunkt des Landkreises Heidenheim, telefonisch, im Landratsamt oder bei einem Hausbesuch."
+    }
+  ],
+  "offen": [
+    "Die Einordnung „hart“ für 17,17 °dH folgt den Härtebereichen des Wasch- und Reinigungsmittelgesetzes (über 14 °dH); die Stadtwerke-Analyse nennt den Härtebereich selbst nicht ausdrücklich.",
+    "Ortsteilnennungen im Einstieg (Kernstadt, Schnaitheim, Mergelstetten) sind ortsübliche Bezeichnungen; Mergelstetten und Aufhausen sind durch die Stadtwerke-Quelle belegt.",
+    "Zuständige Stelle in der Stadtverwaltung für Entwässerungsgenehmigungen (laut Satzung „Fachbereich Bauen – Entwässerung“) wurde nicht auf einer eigenen Amtsseite geprüft."
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "leistung": "hochbau",
+  "ort": "leonberg",
+  "ortName": "Leonberg",
+  "kreis": "Böblingen",
+  "title": "Bauunternehmen Leonberg – kostenlos vermittelt",
+  "description": "Neubau oder Anbau in Leonberg: ServiceBüroBauen, Bebauungspläne in LeoMaps, Hochwasserschutz an der Glems, Bodenwerte. Bauunternehmen kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Leonberg",
+  "einstieg": "Leonberg liegt an der Glems und am Autobahnkreuz zweier Fernstraßen, mit Stadtteilen von Eltingen und dem Ramtel bis nach Höfingen, Gebersheim und Warmbronn. Wer hier neu baut oder ein Bestandsgebäude erweitert, hat mit dem ServiceBüroBauen im Rathaus eine zentrale Anlaufstelle und sollte die Lage des Grundstücks zur Glems früh prüfen.",
+  "abschnitte": [
+    {
+      "h2": "ServiceBüroBauen: Bauberatung und Online-Antrag im Leonberger Rathaus",
+      "text": "Baurechtliche Fragen bündelt die Stadt Leonberg im ServiceBüroBauen der Bauverwaltung am Belforter Platz. Bauberatungen und Abstimmungen gibt es nach Terminabsprache; alternativ lässt sich eine Anfrage mit dem Formular „Baurechtliche Beratung / Auskünfte“ per E-Mail stellen. Neue Bauanträge nimmt das ServiceBüroBauen nur noch über seine Online-Plattform an, Papier oder E-Mail reichen dafür nicht mehr. Zur Vorbereitung stellt die Stadt eigene Leitfäden bereit, etwa zur förmlichen Bauvoranfrage und zum Baugenehmigungsverfahren. Gerade bei Grundstücken mit Altbestand oder in Ortskernen lohnt die Bauvoranfrage, weil sie grundsätzliche Fragen vor der Detailplanung klärt. Ist ein Kulturdenkmal betroffen, kann beim ServiceBüroBauen eine Auskunft aus der Denkmalliste beantragt werden."
+    },
+    {
+      "h2": "Glems, Hochwasser und Starkregen: Grundstücksrisiken in Leonberg prüfen",
+      "text": "Nach Starkregen im Juli 2010 haben sich die Glemsanlieger, darunter Leonberg, zu einem interkommunalen Hochwasserschutz zusammengeschlossen. Seit 2011 gibt es Starkregengefahrenkarten, die zeigen, welchen Weg Oberflächenwasser zur Glems nimmt; die Glems-Region hat sie inzwischen aktualisiert. Die Hochwassergefahrenkarten des Landes sind im Kartendienst UDO der LUBW einsehbar. Zum technischen Schutz betreibt die Stadt das Hochwasserrückhaltebecken „Oberes Glemstal“ an der Anschlussstelle Leonberg-Ost, das vor allem Eltingen schützt. Für einen Neubau mit Keller oder Tiefgarage gehören Geländehöhen, Lichtschächte und Zugänge deshalb früh auf den Plan."
+    },
+    {
+      "h2": "Bebauungsplan, Bodenwert und Grundstück: Grundlagen für Bauherren",
+      "text": "Ob und wie ein Grundstück bebaut werden darf, steht in der Regel im Bebauungsplan. Leonberg stellt seine Bebauungspläne im Geodatenportal LeoMaps online bereit. Für den Bodenwert ist der Gutachterausschuss zuständig, dessen Geschäftsstelle im Bauverwaltungs- und Bauordnungsamt der Stadt liegt; er führt die Kaufpreissammlung und ermittelt die Bodenrichtwerte. Städtische Grundstücke veröffentlicht die Stadt auf ihrer Seite zu Grundstücksangeboten. Sobald Grundstück und Rahmenbedingungen klar sind, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Das ServiceBüroBauen der Stadt Leonberg bearbeitet Anträge ausschließlich digital; neue Bauanträge sind nur noch über die Online-Plattform möglich, nicht mehr auf Papier oder per E-Mail.",
+      "quelle": "Stadt Leonberg – Das ServiceBüroBauen",
+      "url": "https://www.leonberg.de/Wirtschaft-Bauen/Rund-ums-Bauen/ServiceB%C3%BCroBauen/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bauberatungen im ServiceBüroBauen sind nach Terminabsprache möglich; Anfragen können zusätzlich mit einem Formular per E-Mail gestellt werden.",
+      "quelle": "Stadt Leonberg – Das ServiceBüroBauen",
+      "url": "https://www.leonberg.de/Wirtschaft-Bauen/Rund-ums-Bauen/ServiceB%C3%BCroBauen/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Leonberg veröffentlicht Leitfäden des ServiceBüroBauen zur förmlichen Bauvoranfrage (Bauvorbescheid) und zum Baugenehmigungsverfahren.",
+      "quelle": "Stadt Leonberg – Alles aus einer Hand",
+      "url": "https://www.leonberg.de/Wirtschaft-Bauen/Rund-ums-Bauen/ServiceB%C3%BCroBauen/Alles-aus-einer-Hand/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Bebauungspläne der Stadt Leonberg sind online im Geodatenportal LeoMaps einsehbar.",
+      "quelle": "Stadt Leonberg – Bebauungsplanauskunft",
+      "url": "https://www.leonberg.de/Wirtschaft-Bauen/Stadtplanung/Bauleitplanung/Bebauungsplanauskunft-LeoMaps/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Hochwasserrückhaltebecken „Oberes Glemstal“ an der Anschlussstelle Leonberg-Ost hat ein Stauraumvolumen von 360.000 m³ und schützt vor allem den Stadtteil Eltingen.",
+      "quelle": "Stadt Leonberg – Hochwasserschutz",
+      "url": "https://www.leonberg.de/Wirtschaft-Bauen/Stadtplanung/Umweltplanung/Starkregen-und-Hochwasser/Hochwasserschutz/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach Überflutungen im Juli 2010 ließen die acht Glems-Kommunen 2011 Starkregengefahrenkarten erstellen; Hochwassergefahrenkarten sind im LUBW-Dienst UDO einsehbar.",
+      "quelle": "Stadt Leonberg – Hochwasserschutz",
+      "url": "https://www.leonberg.de/Wirtschaft-Bauen/Stadtplanung/Umweltplanung/Starkregen-und-Hochwasser/Hochwasserschutz/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Geschäftsstelle des Leonberger Gutachterausschusses ist im Bauverwaltungs- und Bauordnungsamt angesiedelt; der Ausschuss führt die Kaufpreissammlung und ermittelt die Bodenrichtwerte.",
+      "quelle": "Stadt Leonberg – Gutachterausschuss",
+      "url": "https://www.leonberg.de/Wirtschaft-Bauen/Rund-ums-Bauen/Gutachterausschuss/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Beim ServiceBüroBauen kann eine Auskunft aus der Denkmalliste beantragt werden; dort gibt es auch ein Merkblatt zur denkmalschutzrechtlichen Genehmigung.",
+      "quelle": "Stadt Leonberg – Denkmalschutz",
+      "url": "https://www.leonberg.de/Wirtschaft-Bauen/Rund-ums-Bauen/ServiceB%C3%BCroBauen/Denkmalschutz/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie reiche ich in Leonberg einen Bauantrag ein?",
+      "a": "Neue Bauanträge nimmt das ServiceBüroBauen nur über seine Online-Plattform an. Fragen vorab klärt eine Bauberatung nach Terminabsprache."
+    },
+    {
+      "q": "Wo sehe ich den Bebauungsplan für mein Grundstück in Leonberg?",
+      "a": "Im Geodatenportal LeoMaps der Stadt. Verbindliche Auskunft zu einem konkreten Vorhaben gibt das ServiceBüroBauen."
+    },
+    {
+      "q": "Wie finde ich heraus, ob mein Bauplatz in Eltingen hochwassergefährdet ist?",
+      "a": "Die Hochwassergefahrenkarten sind im LUBW-Kartendienst UDO einsehbar, die Starkregengefahrenkarten stellt die Glems-Region bereit."
+    }
+  ],
+  "offen": [
+    "Einstieg „am Autobahnkreuz zweier Fernstraßen“ ist allgemein bekannt (Leonberger Dreieck A8/A81), aber nicht durch eine Fakt-Quelle belegt.",
+    "Dass Leonberg selbst untere Baurechtsbehörde ist, wird nur aus „Bauordnungsamt“ und ServiceBüroBauen abgeleitet; keine ausdrückliche Amtsaussage gefunden.",
+    "Satz zur Bauvoranfrage bei Altbestand/Ortskern ist eine allgemeine Einschätzung, keine Quellenaussage.",
+    "Stellplatzsatzung, Baugrund (LGRB) nicht recherchiert; städtische Grundstücksseite meldete bei Abruf keine freien Wohnbaugrundstücke (bewusst nicht genannt)."
+  ]
+}

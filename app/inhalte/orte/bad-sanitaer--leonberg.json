@@ -1,0 +1,88 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "leonberg",
+  "ortName": "Leonberg",
+  "kreis": "Böblingen",
+  "title": "Badsanierung Leonberg – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Leonberg: Bodenseewasser mit Quellwasser, Fertigmeldung bei den Stadtwerken, Pflegestützpunkt. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Leonberg",
+  "einstieg": "Ob in der Kernstadt, in Eltingen, Höfingen oder Warmbronn: Ein neues Bad greift in die Trinkwasserinstallation ein, die in Leonberg von den Stadtwerken versorgt wird. Dazu kommen Fragen nach Kalk, Warmwasserhygiene und einem Umbau, der auch im Alter noch passt.",
+  "abschnitte": [
+    {
+      "h2": "Bodenseewasser mit Quellanteil: Wasserhärte in den Leonberger Stadtteilen",
+      "text": "Den größten Teil seines Trinkwassers bezieht Leonberg über den Zweckverband Bodensee-Wasserversorgung. Die Stadtwerke mischen Wasser aus der Mahdentalquelle und der Hofgartenquelle bei. Nach der aktuellen Parameterübersicht liegt die Gesamthärte in Leonberg, Eltingen, Silberberg, Gebersheim, Höfingen und Warmbronn bei 8,9 °dH; in der Niederzone des Ramtel unterhalb der Albertus-Magnus-Straße sind es 12,6 °dH. Alle Gebiete gehören damit zum mittleren Härtebereich. Für das Bad heißt das: Kalkablagerungen an Armaturen und Glas bleiben überschaubar, im Ramtel etwas ausgeprägter. Eine Enthärtungsanlage ist deshalb kein Muss, kann aber je nach Warmwassersystem und Anspruch sinnvoll sein."
+    },
+    {
+      "h2": "Installation und Warmwasser: Was die Stadtwerke Leonberg erwarten",
+      "text": "Für Neubauten und Umbauten führen die Stadtwerke Leonberg eine eigene Fertigmeldung der Hausinstallation Wasser; das Formular steht auf ihrer Serviceseite. Ebenfalls dort stellen sie eine Kompaktinformation des DVGW zum hygienischen Betrieb von Trinkwasserinstallationen bereit. Danach dürfen Arbeiten an der Trinkwasserinstallation nur von einem Installationsunternehmen ausgeführt werden, das bei einem Wasserversorger eingetragen ist. Warmes Wasser soll an der Zapfstelle nach 30 Sekunden 55 °C erreichen. Die Information behandelt auch die Anpassung einer Installation, die nach einem Umbau anders genutzt wird, etwa nach dem Rückbau einer alten Badewanne."
+    },
+    {
+      "h2": "Barrierearm umbauen und Starkregen im Blick: Anlaufstellen in Leonberg",
+      "text": "Der Pflegestützpunkt des Landkreises hat seinen Standort im Bürgerzentrum in der Neuköllner Straße und berät Menschen aus Leonberg, Renningen, Rutesheim, Weil der Stadt und Weissach rund um Pflege und Leistungen der Pflegeversicherung. Für Fragen zu Energie und Warmwasser nennt die Energieagentur Kreis Böblingen neben ihrer eigenen kostenlosen Beratung den Energiekreis der Lokalen Agenda Leonberg. Wer ein Bad im Untergeschoss plant, kann außerdem in den Starkregengefahrenkarten der Glems-Region nachsehen, ob die Straße bei Starkregen betroffen sein kann. Mit diesen Grundlagen schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Leonberg erhält den Hauptanteil seines Trinkwassers über den Zweckverband Bodensee-Wasserversorgung; beigemischt wird Wasser aus der Mahdentalquelle und der Hofgartenquelle.",
+      "quelle": "Stadtwerke Leonberg – Wasserwirtschaft",
+      "url": "https://stadtwerke-leonberg.de/wasserwirtschaft",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut Parameterübersicht der Stadtwerke (Stand 02/2026) beträgt die Gesamthärte in den meisten Versorgungsgebieten 8,9 °dH, in der Niederzone des Ramtel 12,6 °dH, jeweils mittlerer Härtebereich.",
+      "quelle": "Stadtwerke Leonberg – Die wichtigsten Trinkwasserparameter",
+      "url": "https://stadtwerke-leonberg.de/media/site/e2116185ca-1770792964/2026_trinkwasserparameter-stadtwerke.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Leonberg bieten für Neubauten und Umbauten eine Fertigmeldung der Hausinstallation Wasser an.",
+      "quelle": "Stadtwerke Leonberg – Wasserversorgung & Service",
+      "url": "https://stadtwerke-leonberg.de/wasserwirtschaft/wasserversorgung-service",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach der von den Stadtwerken bereitgestellten DVGW-Information dürfen Arbeiten an Trinkwasserinstallationen nur eingetragene Installationsunternehmen ausführen; warmes Wasser soll nach 30 Sekunden 55 °C erreichen.",
+      "quelle": "Stadtwerke Leonberg – DVGW-Kompaktinfo Trinkwasserinstallation",
+      "url": "https://stadtwerke-leonberg.de/media/site/ee8004b184-1770716159/info-trinkwasserinstallation-hygiene-2025-2.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt Standort Leonberg im Bürgerzentrum, Neuköllner Straße 5, berät Bürgerinnen und Bürger aus Leonberg, Renningen, Rutesheim, Weil der Stadt und Weissach.",
+      "quelle": "Stadt Leonberg – Pflegestützpunkt",
+      "url": "https://www.leonberg.de/Familie-Bildung/Familie/Pflegest%C3%BCtzpunkt-/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Energieagentur Kreis Böblingen bietet kostenlose Energieberatung im Landratsamt an und nennt für Leonberg zusätzlich den Energiekreis der Lokalen Agenda 21.",
+      "quelle": "Energieagentur Kreis Böblingen – Beratung & Kontakt",
+      "url": "https://www.ea-bb.de/energieagentur/beratung_kontakt/__Beratung-Kontakt.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Glems-Region, zu der Leonberg gehört, hat ihre Starkregengefahrenkarten aktualisiert; darauf ist zu sehen, welche Straßen bei Starkregen voraussichtlich überflutet werden.",
+      "quelle": "Stadt Leonberg – Gefahren durch Starkregen auf einen Blick",
+      "url": "https://www.leonberg.de/Wirtschaft-Bauen/Stadtplanung/Umweltplanung/Starkregen-und-Hochwasser/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist das Wasser im Leonberger Ramtel härter als in der Kernstadt?",
+      "a": "In der Niederzone des Ramtel unterhalb der Albertus-Magnus-Straße liegt die Gesamthärte bei 12,6 °dH, in den übrigen Gebieten bei 8,9 °dH. Beides zählt zum mittleren Härtebereich."
+    },
+    {
+      "q": "Muss ich den Badumbau in Leonberg bei den Stadtwerken melden?",
+      "a": "Die Stadtwerke führen für Neubauten und Umbauten eine Fertigmeldung der Hausinstallation Wasser. Ob sie im Einzelfall nötig ist, beantworten die Stadtwerke Leonberg."
+    },
+    {
+      "q": "Wo gibt es in Leonberg Beratung, wenn das Bad pflegegerecht werden soll?",
+      "a": "Der Pflegestützpunkt im Bürgerzentrum berät zu Pflege und Pflegeversicherung, auch für Renningen, Rutesheim, Weil der Stadt und Weissach."
+    }
+  ],
+  "offen": [
+    "Zuordnung der Härtewerte zu den Stadtteilen aus der tabellarischen PDF der Stadtwerke rekonstruiert (Layout teils verschoben); Ramtel-Niederzone 12,6 °dH, übrige 8,9 °dH.",
+    "Aussagen zu eingetragenen Installationsunternehmen und zur Anpassung bei Nutzungsänderung stammen aus der DVGW-Kompaktinfo (AVBWasserV), die die Stadtwerke verlinken; rechtliche Einordnung siehe Anwaltsfrage 07-boeblingen.",
+    "Eine Wohnberatung/Wohnraumanpassung speziell für Leonberg wurde nicht gefunden; der Seniorenwegweiser der Stadt war nicht auslesbar.",
+    "Zuständigkeit Abwasser/Rückstau in Leonberg (Stadtentwässerung) nicht ermittelt."
+  ]
+}

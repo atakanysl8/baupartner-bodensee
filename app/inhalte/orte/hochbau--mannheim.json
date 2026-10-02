@@ -1,0 +1,85 @@
+{
+  "leistung": "hochbau",
+  "ort": "mannheim",
+  "ortName": "Mannheim",
+  "kreis": "Mannheim",
+  "title": "Bauunternehmen Mannheim – kostenlos vermittelt",
+  "description": "Neubau oder Anbau in Mannheim: städtische Bauberatung, Grundwasser, Begrünungssatzung, Hochwasser an Rhein und Neckar. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Mannheim",
+  "einstieg": "Ein Einfamilienhaus auf einer Baulücke in Seckenheim, ein Mehrfamilienhaus in der Neckarstadt oder ein Anbau in Käfertal: Wer in Mannheim baut, plant in einer Stadt am Zusammenfluss zweier großer Flüsse, mit hohem Grundwasser und mit eigenen Gestaltungsvorgaben für die Innenstadt. Wichtig ist deshalb, früh zu wissen, welche städtischen Stellen über Baurecht, Grundwasser und Hochwasser Auskunft geben.",
+  "abschnitte": [
+    {
+      "h2": "Baurecht in Mannheim: Bauberatung und Bebauungspläne im Technischen Rathaus",
+      "text": "Mannheim ist ein Stadtkreis, die Stadt ist deshalb selbst Baurechtsbehörde. Zuständig ist der Fachbereich Baurecht, Bauverwaltung und Denkmalschutz in der Glücksteinallee 11. Er bietet eine Bauberatung an, telefonisch nach Termin und mittwochvormittags ohne Termin im Technischen Rathaus, und gibt dabei auch Auskunft zur passenden Verfahrensart. Die Stadt weist ausdrücklich darauf hin, dass im Stadtgebiet zahlreiche Bebauungspläne gelten, deren Festsetzungen sogar Vorhaben einschränken können, die nach der Landesbauordnung verfahrensfrei wären. Auskunft zu bestehenden Bebauungsplänen gibt der Fachbereich Geoinformation und Stadtplanung. Bauanträge lassen sich digital über das virtuelle Bauamt ViBa-BW einreichen."
+    },
+    {
+      "h2": "Grundwasser und Hochwasser: Keller und Gründung zwischen Rhein und Neckar",
+      "text": "Die Stadt Mannheim betreibt ein umfangreiches Messnetz für Grundwasserstände und gibt Daten aus ihrer Grundwasserdatenbank auf Antrag heraus. Sie weist selbst darauf hin, dass Schwankungen des Grundwasserspiegels die Wahl von Fundamenten, Keller und Leitungen und damit die Baukosten erheblich beeinflussen können. Hinzu kommt der Hochwasserschutz: Am Rhein und am Neckar sind Überschwemmungsgebiete flächendeckend ausgewiesen und in amtlichen Karten der LUBW einsehbar. Bestimmte Maßnahmen in diesen Gebieten brauchen eine wasserrechtliche Genehmigung, zuständig ist die untere Wasserbehörde im Fachbereich Klima, Natur, Umwelt. Für ein Bauvorhaben in Flussnähe lohnt sich der Blick in diese Karten vor dem ersten Entwurf."
+    },
+    {
+      "h2": "Begrünungssatzung und Bodenwerte: was in der Innenstadt dazukommt",
+      "text": "Für die Innenstadt und angrenzende Teile von Jungbusch, Neckarstadt, Schwetzingerstadt, Oststadt und Lindenhof gilt eine Begrünungssatzung. Sie verlangt bei genehmigungs- oder kenntnisgabepflichtigen Neubauten und Änderungen unter anderem begrünte Flachdächer und begrünte Stellplätze. Den Bodenrichtwert eines Grundstücks können Sie im Portal BORIS-BW nachsehen; Fragen beantwortet die Geschäftsstelle des Gutachterausschusses. Wenn Ihr Vorhaben feststeht, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Der Fachbereich Baurecht, Bauverwaltung und Denkmalschutz bietet eine Bauberatung an, telefonisch nach Terminbuchung und mittwochs von 9 bis 12 Uhr ohne Termin im Technischen Rathaus, Glücksteinallee 11.",
+      "quelle": "Stadt Mannheim – Bauberatung",
+      "url": "https://www.mannheim.de/de/service-bieten/bauen-und-wohnen/bauen-und-baurecht/bauberatung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach Angabe der Stadt können Festsetzungen der im Stadtgebiet geltenden Bebauungspläne auch Vorhaben einschränken, die nach § 50 LBO verfahrensfrei wären; Bauanträge können digital über ViBa-BW eingereicht werden.",
+      "quelle": "Stadt Mannheim – Bauantrag / Baugenehmigung",
+      "url": "https://www.mannheim.de/de/service-bieten/bauen-und-wohnen/bauen-und-baurecht/bauantragbaugenehmigung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Mannheim verfügt über ein umfangreiches Grundwasserstandsmessnetz und stellt Daten aus ihrer Grundwasserdatenbank auf Antrag zur Verfügung.",
+      "quelle": "Stadt Mannheim – Grundwasserstände",
+      "url": "https://www.mannheim.de/de/service-bieten/bauen-und-wohnen/bauen/grundwasserstaende",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In Mannheim sind am Rhein und am Neckar Überschwemmungsgebiete flächendeckend ausgewiesen; bestimmte Maßnahmen darin bedürfen einer wasserrechtlichen Genehmigung der unteren Wasserbehörde.",
+      "quelle": "Stadt Mannheim – Überschwemmungsgebiete, Hochwasserschutz",
+      "url": "https://www.mannheim.de/de/service-bieten/umwelt/wasser/grundwasser-und-gewaesserschutz/hochwasserschutz-und-ueberschwemmungsgebiete",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Begrünungssatzung für die Innenstadt sieht vor, dass Flachdächer und flach geneigte Dächer über 10 m² mit höchstens 20° Neigung begrünt werden und Stellplätze einen Grünanteil von mindestens 30 % haben.",
+      "quelle": "Stadt Mannheim – Begrünungssatzung für die Innenstadt (Stadtrecht 6.7)",
+      "url": "https://www.mannheim.de/sites/default/files/2018-07/s06-07.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Bodenrichtwerte für Mannheim sind über das Portal BORIS-BW einsehbar; weitere Fragen beantwortet die Geschäftsstelle des Gutachterausschusses im Fachbereich Geoinformation und Stadtplanung.",
+      "quelle": "Stadt Mannheim – Geschäftsstelle Gutachterausschuss",
+      "url": "https://www.mannheim.de/de/stadt-gestalten/verwaltung/aemter-fachbereiche-eigenbetriebe/geoinformation-und-stadtplanung/geschaeftsstelle-gutachterausschuss",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wer ist in Mannheim für Baugenehmigungen zuständig?",
+      "a": "Als Stadtkreis ist Mannheim selbst Baurechtsbehörde. Zuständig ist der Fachbereich Baurecht, Bauverwaltung und Denkmalschutz in der Glücksteinallee 11, der auch eine Bauberatung anbietet."
+    },
+    {
+      "q": "Wie erfahre ich, wie hoch das Grundwasser an meinem Bauplatz steht?",
+      "a": "Die Stadt gibt auf Antrag Auskunft aus ihrer Grundwasserdatenbank; Ansprechpartner ist der Fachbereich Klima, Natur, Umwelt."
+    },
+    {
+      "q": "Liegt mein Grundstück in einem Überschwemmungsgebiet?",
+      "a": "Die festgesetzten Überschwemmungsgebiete an Rhein und Neckar sind in der interaktiven Karte der LUBW dargestellt. Fragen zu Genehmigungen beantwortet die untere Wasserbehörde der Stadt."
+    },
+    {
+      "q": "Muss ich in der Mannheimer Innenstadt das Dach begrünen?",
+      "a": "Im Geltungsbereich der Begrünungssatzung gilt das grundsätzlich für Flachdächer über 10 m²; Festsetzungen eines Bebauungsplans gehen der Satzung vor. Auskunft gibt die Bauberatung der Stadt."
+    }
+  ],
+  "offen": [
+    "Ob die Bauberatung mittwochs dauerhaft ohne Termin angeboten wird, ist eine Momentangabe der Stadtseite.",
+    "Die Grundwasserseite nennt teils noch den „Fachbereich Grünflächen und Umwelt“, als Kontakt aber den Fachbereich Klima, Natur, Umwelt; im Text wurde Letzterer genannt.",
+    "Stadtteilnennungen im Einstieg (Seckenheim, Neckarstadt, Käfertal) sind nicht durch eine Fakt-Quelle belegt."
+  ]
+}

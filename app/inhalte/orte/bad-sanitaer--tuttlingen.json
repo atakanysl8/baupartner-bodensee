@@ -1,0 +1,81 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "tuttlingen",
+  "ortName": "Tuttlingen",
+  "kreis": "Tuttlingen",
+  "title": "Badsanierung Tuttlingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Tuttlingen: Wasser von hart bis weich je nach Herkunft, Wohnraumberatung des Landkreises, Musterwohnung. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Tuttlingen",
+  "einstieg": "Wer in Tuttlingen, Möhringen, Nendingen oder Eßlingen ein Bad modernisiert, merkt den Kalk oft zuerst an der Duschwand. Wie stark, hängt hier davon ab, aus welcher Quelle das Wasser in der eigenen Straße stammt. Für Umbau, barrierefreie Planung und Energiefragen gibt es bei Stadt und Landkreis eigene, kostenlose Anlaufstellen.",
+  "abschnitte": [
+    {
+      "h2": "Karstwasser von der jungen Donau: Härte je nach Wasserwerk",
+      "text": "Die Stadtwerke Tuttlingen decken rund zwei Drittel des Bedarfs aus eigenen Brunnen im Riedgraben und aus der Quelle Tiefental, den Rest beziehen sie von der Bodensee-Wasserversorgung und vom Zweckverband Unteres Aitrachtal. Die Härte unterscheidet sich deutlich: Wasser aus dem Riedgraben liegt mit gut 16 °dH im Bereich „hart“, aus dem Tiefental mit 12,7 °dH im Bereich „mittel“, Bodenseewasser bei gut 9 °dH und Wasser aus dem Aitrachtal mit knapp 8 °dH im Bereich „weich“. In Straßen mit hartem Wasser lohnt es sich eher, über Kalkschutz bei Armaturen, Duschglas und Warmwasserbereiter nachzudenken. Welche Werte an der eigenen Adresse gelten, zeigt eine Straßenabfrage der Stadtwerke."
+    },
+    {
+      "h2": "Barrierefreies Bad: Wohnraumberatung und Ausstellung im Landkreis",
+      "text": "Die Fachstelle für Pflege und Selbsthilfe des Landratsamts Tuttlingen bietet eine Wohnraumberatung an, auf Wunsch auch als Hausbesuch. Ausdrücklich genannt werden schwellenfreie Zugänge, Haltegriffe und das barrierefreie Bad. Eine Checkliste „Wie barrierefrei ist Ihre Wohnung?“ steht zum Herunterladen bereit. Im Gesundheitszentrum Spaichingen zeigt die Ausstellung „Zukunft Zuhause!“ als Musterwohnung barrierefreie Möbel, Liftsysteme und Hilfsmittel; offene Führungen gibt es nach Anmeldung. In der Stadt selbst ist das Seniorenbüro eine neutrale Anlaufstelle, die zu weiteren Stellen vermittelt. Haben Sie eine Vorstellung vom neuen Bad, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    },
+    {
+      "h2": "Warmwasser, Energie und Abwasser in Tuttlingen",
+      "text": "Wird beim Badumbau auch die Warmwasserbereitung erneuert, berät die Klimaschutz- und Energieagentur Region Schwarzwald-Baar-Heuberg (KLEA). Sie ist seit 2024 Nachfolgerin der früheren Energieagentur Landkreis Tuttlingen und berät Bürgerinnen und Bürger zu Energieeffizienz und erneuerbaren Energien. Für Wasser und Abwasser ist in Tuttlingen eine Stelle unter dem Dach der Stadtwerke zuständig: Die Stadtwerke sind eine hundertprozentige Tochter der Stadt, und der Eigenbetrieb Stadtentwässerung wird unter ihrer Regie geführt."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Rund zwei Drittel des Tuttlinger Wasserbedarfs decken die Stadtwerke aus eigenen Brunnen (Riedgraben) und einer Quelle (Tiefental); zusätzlich wird Wasser von der Bodensee-Wasserversorgung und vom Zweckverband Unteres Aitrachtal bezogen.",
+      "quelle": "Stadtwerke Tuttlingen – Trinkwasser",
+      "url": "https://www.swtenergie.de/trinkwasser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Gesamthärte liegt laut Analysewerten bei 16,2 °dH (Wasserwerk Riedgraben, hart), 12,7 °dH (Tiefental, mittel), 9,11 °dH (Bodensee-Wasserversorgung, mittel) und 7,93 °dH (Zweckverband Unteres Aitrachtal, weich).",
+      "quelle": "Stadtwerke Tuttlingen – Trinkwasser, Analysewerte",
+      "url": "https://www.swtenergie.de/trinkwasser#analyse",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Tuttlingen sind eine hundertprozentige Tochter der Stadt; der Eigenbetrieb Stadtentwässerung wird unter Regie der Stadtwerke geführt.",
+      "quelle": "Stadt Tuttlingen – Ver- und Entsorgung",
+      "url": "https://www.tuttlingen.de/de/Wirtschaft-Bauen/Bauen-Wohnen/Ver-und-Entsorgung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Wohnraumberatung des Landratsamts Tuttlingen berät in der Beratungsstelle oder bei einem Hausbesuch, unter anderem zu Haltegriffen, schwellenfreien Zugängen und zum barrierefreien Bad.",
+      "quelle": "Landratsamt Tuttlingen, Fachstelle für Pflege und Selbsthilfe – Wohnraumberatung",
+      "url": "https://fps.landkreis-tuttlingen.de/Wohnraumberatung/Wohnraumberatung/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Seit November 2023 gibt es im Gesundheitszentrum Spaichingen die Ausstellung „Zukunft Zuhause!“ als Musterwohnung zu barrierefreiem Wohnen und Hilfsmitteln, mit offenen Führungen nach Anmeldung.",
+      "quelle": "Landratsamt Tuttlingen, Fachstelle für Pflege und Selbsthilfe – Zukunft Zuhause!",
+      "url": "https://fps.landkreis-tuttlingen.de/Wohnraumberatung/Zukunft-Zuhause-/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Klimaschutz- und Energieagentur Region Schwarzwald-Baar-Heuberg ist seit 1.1.2024 rechtliche Nachfolgerin der Energieagentur Landkreis Tuttlingen und berät Bürgerinnen und Bürger zu Energieeffizienz und Klimaschutz.",
+      "quelle": "Landratsamt Schwarzwald-Baar-Kreis – Klimaschutz- und Energieagentur SBH",
+      "url": "https://www.lrasbk.de/?object=tx%7c2961.21286.1",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum ist das Wasser in Tuttlingen nicht überall gleich hart?",
+      "a": "Die Stadtwerke mischen Wasser aus mehreren Herkünften: eigene Brunnen und Quelle, Bodenseewasser und Wasser aus dem Aitrachtal. Je nach Herkunft reicht die Härte von weich bis hart; die Werte für die eigene Straße zeigt die Wasserauskunft der Stadtwerke."
+    },
+    {
+      "q": "Kann ich mir im Landkreis Tuttlingen ein barrierefreies Bad vorab ansehen?",
+      "a": "Im Gesundheitszentrum Spaichingen zeigt die Ausstellung „Zukunft Zuhause!“ des Landratsamts barrierefreie Lösungen und Hilfsmittel. Führungen finden nach Anmeldung statt."
+    },
+    {
+      "q": "Kommt die Wohnraumberatung des Landkreises auch zu mir nach Hause?",
+      "a": "Nach Angaben der Fachstelle für Pflege und Selbsthilfe ist die Beratung in der Beratungsstelle oder bei einem Hausbesuch möglich."
+    }
+  ],
+  "offen": [
+    "Keine Seite der Stadtentwässerung Tuttlingen gefunden (Link tuttlingen.de/ebs liefert Fehler); Rückstauebene/Entwässerungsantrag daher nicht beschrieben.",
+    "Härtewerte sind Analysewerte je Wasserwerk; welche Straße welche Mischung erhält, nur über die Straßenabfrage der Stadtwerke.",
+    "„Karstwasser von der jungen Donau“ nach Formulierung der Stadtwerke („Karstgestein entlang der jungen Donau“)."
+  ]
+}

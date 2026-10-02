@@ -1,0 +1,81 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "balingen",
+  "ortName": "Balingen",
+  "kreis": "Zollernalbkreis",
+  "title": "Badsanierung Balingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Balingen: Wasserhärte je Stadtteil, Entwässerungspläne aus der Bauakte, Pflegestützpunkt im Generationenhaus. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Balingen",
+  "einstieg": "Balingen bezieht sein Trinkwasser aus mehreren Quellen, und deshalb kann die Wasserhärte schon zwischen zwei Stadtteilen deutlich auseinanderliegen. Wer ein Bad modernisiert, ein Gäste-WC einbaut oder die Dusche barrierearm umbauen möchte, profitiert außerdem davon, alte Entwässerungspläne und die Regeln in Sanierungsgebieten zu kennen. Die zuständigen Stellen sitzen bei den Stadtwerken, im Rathaus und im Generationenhaus.",
+  "abschnitte": [
+    {
+      "h2": "Von 8 bis 17 °dH: Wasserhärte nach Stadtteil",
+      "text": "Laut Wasserhärteplan der Stadtwerke Balingen erhält die Kernstadt überwiegend Mischwasser mit großem Anteil aus dem Zweckverband Wasserversorgung Zollernalb und der Bodensee-Wasserversorgung, mit 11 bis 13 °dH. Weilstetten und Roßwangen werden von der Hohenberggruppe beliefert und liegen mit 8 bis 11 °dH am weichsten. Teile von Erzingen, Endingen, Ostdorf und Engstlatt hängen am Zweckverband Hohenzollern mit 13 bis 16 °dH, während etwa Heselwangen, Stockenhausen, Zillhausen und Streichen Mischwasser mit geringem Bodenseeanteil und 15 bis 17 °dH bekommen. Für das neue Bad heißt das: In den härteren Lagen lohnt es sich, pflegeleichte Oberflächen und gut zugängliche Armaturen einzuplanen. Auskunft zur eigenen Adresse gibt das Technische Management der Stadtwerke."
+    },
+    {
+      "h2": "Vor dem Umbau: Entwässerungspläne und Sanierungsgebiet prüfen",
+      "text": "Wer ein Bad versetzt oder im Keller neu baut, muss wissen, wo die Grundleitungen verlaufen. In Balingen liegen Entwässerungspläne bestehender und genehmigter Gebäude in den Bauakten im Archiv; Einsicht gewährt das Amt für Bau- und Planungsrecht auf formlosen Antrag, gegen Gebühr und nur für Eigentümer oder Bevollmächtigte. Auskünfte zum öffentlichen Kanal gibt das Tiefbauamt. Liegt das Haus in einem förmlichen Sanierungsgebiet, kann schon der Einbau einer neuen Heizungs- oder Elektroanlage eine sanierungsrechtliche Genehmigung erfordern. Diese Genehmigung kann nach Angaben der Stadt zugleich Grundlage für die Förderung von Modernisierungsmaßnahmen sein."
+    },
+    {
+      "h2": "Bad an den Pflegefall anpassen: Pflegestützpunkt im Generationenhaus",
+      "text": "Für Fragen rund um Pflege und Wohnungsanpassung hat der Pflegestützpunkt Zollernalbkreis eine Beratungsstelle im ersten Obergeschoss des Balinger Generationenhauses. Die Beratung ist trägerneutral und kostenlos, für ein persönliches Gespräch wird ein Termin empfohlen. Auf seiner Seite zur Wohnung stellt der Pflegestützpunkt eine Übersicht bereit, was bei der Anpassung einer Wohnung an den Pflegefall zu beachten ist, dazu eine Checkliste für Menschen mit Demenz. Wenn klar ist, was das neue Bad leisten soll, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Laut Wasserhärteplan der Stadtwerke Balingen hat das Mischwasser der Kernstadt 11–13 °dH, das Wasser der Hohenberggruppe 8–11 °dH, das des Zweckverbands Hohenzollern 13–16 °dH und das Mischwasser mit geringem Bodenseeanteil 15–17 °dH.",
+      "quelle": "Stadtwerke Balingen – Wasserhärteplan",
+      "url": "https://www.stadtwerke.balingen.de/de/Energie-Wasser/Wasser-und-Abwasser/Wasser-und-Abwasser/Wasserhaerteplan1.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Balingen lassen das Trinkwasser rund 60 Mal im Jahr mikrobiologisch untersuchen; Auskunft zur Härte gibt das Technische Management.",
+      "quelle": "Stadtwerke Balingen – Wasser und Abwasser",
+      "url": "https://www.stadtwerke.balingen.de/de/Energie-Wasser/Wasser-und-Abwasser/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Entwässerungspläne von Bestandsgebäuden liegen in Balingen in den Bauakten; Akteneinsicht gibt das Amt für Bau- und Planungsrecht, Auskünfte zum öffentlichen Kanalnetz das Tiefbauamt.",
+      "quelle": "Stadt Balingen – Fragen rund ums Bauen",
+      "url": "https://www.balingen.de/fragen+rund+ums+bauen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In Balingener Sanierungsgebieten kann auch der Einbau einer neuen Elektro- oder Heizungsanlage eine sanierungsrechtliche Genehmigung erfordern; sie kann Grundlage für eine Förderung von Modernisierungsmaßnahmen sein.",
+      "quelle": "Stadt Balingen – Sanierungsrechtliche Genehmigung",
+      "url": "https://www.balingen.de/sanierungsrechtliche+genehmigung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Beratungsstelle Balingen des Pflegestützpunkts Zollernalbkreis befindet sich im Generationenhaus und berät trägerneutral und kostenlos.",
+      "quelle": "Stadt Balingen – Pflegestützpunkt",
+      "url": "https://www.balingen.de/leben-in-balingen/Senioren/Pflegestuetzpunkt",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt stellt eine Übersicht zur Anpassung der Wohnung an den Pflegefall und eine Checkliste zur Wohnungsanpassung bei Demenz bereit.",
+      "quelle": "Stadt Balingen – Pflegestützpunkt: Wohnung",
+      "url": "https://www.balingen.de/leben-in-balingen/Senioren/Pflegestuetzpunkt/wohnung",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum ist das Wasser in Weilstetten weicher als in Heselwangen?",
+      "a": "Die Stadtteile werden aus verschiedenen Quellen versorgt: Weilstetten von der Hohenberggruppe mit 8 bis 11 °dH, Heselwangen mit Mischwasser von 15 bis 17 °dH."
+    },
+    {
+      "q": "Wie komme ich in Balingen an die alten Abwasserpläne meines Hauses?",
+      "a": "Sie liegen in der Bauakte. Eigentümer oder Bevollmächtigte können beim Amt für Bau- und Planungsrecht gebührenpflichtig Akteneinsicht beantragen."
+    },
+    {
+      "q": "Brauche ich in einem Balinger Sanierungsgebiet eine Genehmigung für das neue Bad?",
+      "a": "Je nach Umfang kann eine sanierungsrechtliche Genehmigung nötig sein, etwa wenn Heizungs- oder Elektroanlage erneuert werden. Auskunft gibt die Stadt Balingen."
+    }
+  ],
+  "offen": [
+    "Zuordnung der Stadtteile zu den Härtezonen ist aus der Karte (Wasserhärteplan) abgelesen; die Zonen schneiden teils durch Stadtteile, daher im Text mit „Teile von“ bzw. „etwa“ formuliert.",
+    "Ob es in Balingen eine eigene Wohnberatung (ehrenamtlich) gibt, wurde nicht gefunden.",
+    "Hinweise der Stadt oder Stadtwerke zur Rückstausicherung wurden nicht gefunden; Thema im Text nicht behandelt."
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "sindelfingen",
+  "ortName": "Sindelfingen",
+  "kreis": "Böblingen",
+  "title": "Badsanierung Sindelfingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Sindelfingen: Wasserhärte je nach Stadtteil, Rückstauschutz im Keller, Wohnberatung für ein barrierearmes Bad. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Sindelfingen",
+  "einstieg": "In Sindelfingen kommt nicht in jeder Straße dasselbe Wasser aus der Leitung: Ein Teil der Stadt bezieht aufbereitetes Grundwasser, ein anderer Bodenseewasser. Wer ein Bad modernisiert, ein WC im Untergeschoss einbaut oder schwellenlos duschen möchte, sollte diese Unterschiede und die zuständigen Stellen kennen.",
+  "abschnitte": [
+    {
+      "h2": "Hart oder mittel: Die Wasserhärte hängt in Sindelfingen von der Straße ab",
+      "text": "Die Stadtwerke Sindelfingen versorgen die Innenstadt sowie den Südwesten mit Hinterweil, Goldberg und dem Bereich Schleicher mit Wasser aus dem Wasserwerk Floschen, Darmsheim mit Wasser aus dem Wasserwerk See. Beide liegen laut Analyse bei rund 16 bis 17 °dH und damit im Härtebereich „hart“. Maichingen und der Nordosten mit Eichholz, Eschenried, Spitzholz, Viehweide und der Landhaussiedlung erhalten dagegen Bodenseewasser mit gut 9 °dH, also mittlere Härte. In den harten Gebieten setzen sich Kalkränder an Duschglas, Strahlreglern und Thermostaten schneller fest, und eine zentrale Enthärtung oder kalkunempfindliche Armaturen werden eher ein Thema. Welchen Härtegrad Ihre Adresse hat, zeigt die Straßentabelle der Stadtwerke."
+    },
+    {
+      "h2": "Kellerbad und Starkregen: Rückstauschutz in Sindelfingen mitdenken",
+      "text": "Ein Duschbad oder WC im Untergeschoss liegt oft unter dem Niveau des Straßenkanals. Die Stadt Sindelfingen nennt in ihren Hinweisen zum Starkregen ausdrücklich Rückstauklappen für Entwässerungsanschlüsse unterhalb des Kanalniveaus als Schutzmaßnahme und verweist für Fragen an die Stadtentwässerung Sindelfingen. Sie arbeitet an einem Starkregenrisikomanagement; die Starkregengefahrenkarten lassen sich per E-Mail oder als Kartenausschnitt bei der Stadtentwässerung anfordern. Wer ohnehin Leitungen im Keller öffnet, kann dabei klären lassen, ob ein Rückstauverschluss vorhanden ist. Ist der Umfang klar, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    },
+    {
+      "h2": "Barrierearmes Bad: Wohnberatung und Pflegestützpunkt in Sindelfingen",
+      "text": "Enge Bäder und hohe Duschtassen gehören zu den häufigsten Hindernissen, wenn das Älterwerden in der eigenen Wohnung gelingen soll. Die Stadt Sindelfingen verweist dafür auf die Beratungsstelle Wohnungsanpassung des DRK-Kreisverbands Böblingen mit Sitz in Sindelfingen. Sie berät zu Hause, sucht gemeinsam nach Lösungen, begleitet die Anpassung und informiert über die Finanzierung. Der Pflegestützpunkt Sindelfingen am Corbeil-Essonnes-Platz ist zusätzlich für Aidlingen, Grafenau und Magstadt zuständig und hilft bei Fragen zu Leistungen der Pflegekassen. Zur Warmwasserbereitung berät die Energieagentur Kreis Böblingen unabhängig; wer Fernwärme bezieht, plant die angekündigte Absenkung der Netztemperaturen in der Regel gleich mit ein."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Laut Trinkwasseranalyse der Stadtwerke Sindelfingen hat das Wasser aus dem Wasserwerk Floschen 16,9 °dH und das aus dem Wasserwerk See 16,5 °dH (Härtebereich 3), das Bodenseewasser 9,11 °dH (Härtebereich 2).",
+      "quelle": "Stadtwerke Sindelfingen – Qualität des Sindelfinger Trinkwassers",
+      "url": "https://www.stadtwerke-sindelfingen.de/fileadmin/stadtwerke-sindelfingen.de/assets/wasser/Formulare_Wasser/Wasser_Qualitaet_Trinkwasser.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Sindelfingen veröffentlichen den Härtegrad des Trinkwassers als Tabelle nach Straßen.",
+      "quelle": "Stadtwerke Sindelfingen – Rund ums Wasser",
+      "url": "https://www.stadtwerke-sindelfingen.de/privatkunden/wasser/rund-ums-wasser/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Sindelfingen nennt als Schutz vor Starkregen unter anderem Rückstauklappen bei Entwässerungsanschlüssen unterhalb des Kanalniveaus; Starkregengefahrenkarten gibt die Stadtentwässerung Sindelfingen auf Anfrage heraus.",
+      "quelle": "Stadt Sindelfingen – Flyer Starkregen",
+      "url": "https://www.sindelfingen.de/fileadmin/Website/01_Sindelfingen/Dateien/Leben_und_Wohnen/Abwasser/Starkregen_Flyer_DIN_lang.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Beratungsstelle Wohnungsanpassung des DRK-Kreisverbands Böblingen in Sindelfingen berät zu Hause über Wohnungsanpassung, begleitet die Maßnahme und informiert über die Finanzierung.",
+      "quelle": "Stadt Sindelfingen – Rat, Hilfe & Wohnen",
+      "url": "https://www.sindelfingen.de/leben-wohnen/seniorinnen-senioren/rat-hilfe-wohnen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt Sindelfingen berät zu Leistungen der Kranken- und Pflegekassen und ist neben Sindelfingen auch für Aidlingen, Grafenau und Magstadt zuständig.",
+      "quelle": "Stadt Sindelfingen – Rat, Hilfe & Wohnen",
+      "url": "https://www.sindelfingen.de/leben-wohnen/seniorinnen-senioren/rat-hilfe-wohnen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Sindelfingen verweist für unabhängige Energieberatung, etwa zu Gebäudetechnik und energetischer Sanierung, auf die Energieagentur Kreis Böblingen.",
+      "quelle": "Stadt Sindelfingen – Beratungsangebote",
+      "url": "https://www.sindelfingen.de/klima-umwelt/erneuerbare-energien/beratungsangebote",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Sindelfingen kündigen an, die Vor- und Rücklauftemperaturen in ihren Fernwärmenetzen in mehreren Schritten zu senken.",
+      "quelle": "Stadtwerke Sindelfingen – Neue Netztemperaturen",
+      "url": "https://www.stadtwerke-sindelfingen.de/privatkunden/fernwaerme/neue-netztemperaturen/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Wasser an meiner Adresse in Sindelfingen?",
+      "a": "Das hängt vom Stadtteil ab: Grundwasser aus den Wasserwerken Floschen und See liegt bei etwa 16 bis 17 °dH, Bodenseewasser bei gut 9 °dH. Die Stadtwerke veröffentlichen eine Tabelle mit dem Härtegrad je Straße."
+    },
+    {
+      "q": "Wer gibt in Sindelfingen Auskunft zu Kanal und Rückstau beim Kellerbad?",
+      "a": "Ansprechpartner ist die Stadtentwässerung Sindelfingen. Dort sind auch die Starkregengefahrenkarten erhältlich."
+    },
+    {
+      "q": "Gibt es in Sindelfingen eine neutrale Beratung zum barrierearmen Bad?",
+      "a": "Ja, die Stadt nennt die Beratungsstelle Wohnungsanpassung des DRK-Kreisverbands Böblingen, die auch zu Hause berät. Fragen zu Pflegekassenleistungen beantwortet der Pflegestützpunkt Sindelfingen."
+    }  ],
+  "offen": [
+    "Ob die Stadtentwässerung Sindelfingen für Bad-Umbauten ein Entwässerungsgesuch verlangt, wurde nicht geprüft.",
+    "Zeitplan der Fernwärme-Temperaturabsenkung (Quelle nennt Beginn ab 2030) bewusst nicht im Text genannt; Auswirkungen auf Warmwasserbereitung nicht aus Quelle belegt, nur allgemein angedeutet.",
+    "Ortsteilzuordnung zur Wasserversorgung stammt aus dem Analyseblatt der Stadtwerke (Stand 2024/2025)."
+  ]
+}

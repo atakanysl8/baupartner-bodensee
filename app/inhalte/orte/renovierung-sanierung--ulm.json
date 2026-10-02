@@ -1,0 +1,88 @@
+{
+  "leistung": "renovierung-sanierung",
+  "ort": "ulm",
+  "ortName": "Ulm",
+  "kreis": "Ulm",
+  "title": "Sanierung Ulm – Fachbetrieb kostenlos vermittelt",
+  "description": "Sanierung in Ulm: Sanierungsgebiete Innenstadt West und Wengenviertel, Denkmalschutz, Wärmeplan, kostenlose Energieberatung vor Ort. Kostenlos vermittelt.",
+  "h1": "Sanierung in Ulm",
+  "einstieg": "Viele Ulmer Häuser stammen aus dem Wiederaufbau nach dem Krieg, daneben stehen Bürgerhäuser in der Altstadt und Siedlungen der Nachkriegsjahrzehnte. Wer hier saniert, sollte wissen, ob das Gebäude in einem förmlichen Sanierungsgebiet liegt, ob es als Kulturdenkmal gilt und was der kommunale Wärmeplan für die künftige Heizung bedeutet.",
+  "abschnitte": [
+    {
+      "h2": "Sanierungsgebiete in der Ulmer Innenstadt",
+      "text": "Die Stadt Ulm lässt ihre Sanierungsgebiete von der Sanierungstreuhand Ulm betreuen. Für die „Innenstadt West“ rund um die zentrale Fußgängerzone hat der Gemeinderat 2024 eine Sanierungssatzung beschlossen; das Gebiet ist rund 14,7 Hektar groß, wird im umfassenden Verfahren nach dem Baugesetzbuch geführt und ist im Bund-Länder-Programm „Lebendige Zentren“. Zu den Sanierungszielen gehören ausdrücklich die energetische Modernisierung von Gebäuden, Aufstockungen, bessere Fassaden und Dachbegrünung sowie die Stärkung typischer Bauformen wie des steilen „Ulmer“ Dachs. Das Wengenviertel ist seit 2013 Sanierungsgebiet im vereinfachten Verfahren. Ob und welche Förderung für ein privates Vorhaben in Frage kommt, beantwortet die Gebietsbetreuung."
+    },
+    {
+      "h2": "Denkmal oder Gesamtanlage: wer in Ulm Auskunft gibt",
+      "text": "Ob ein Ulmer Gebäude Kulturdenkmal ist, steht in der Denkmalliste des Landesamts für Denkmalpflege. Diese Liste ist nach Angaben der Stadt derzeit nicht öffentlich einsehbar; bei berechtigtem Interesse geben aber die untere Denkmalschutzbehörde der Stadt und das Landesamt Auskunft. Auch ein Haus, das selbst nicht geschützt ist, kann bei Veränderungen am äußeren Erscheinungsbild unter das Denkmalschutzgesetz fallen, wenn es Teil einer Gesamtanlage ist oder in der Umgebung eines besonders bedeutenden Baudenkmals steht. Bei Fassadenanstrichen, die das Straßenbild prägen, berät zudem die städtische Stadtbildgestaltung zur Farbgebung."
+    },
+    {
+      "h2": "Wärmeplan, Fernwärme und Energieberatung vor Ort",
+      "text": "Ulm hat seinen kommunalen Wärmeplan im Oktober 2023 öffentlich vorgestellt; Bericht und Karten sind digital abrufbar. Die Fernwärme wird nach Angaben der Stadt unter anderem im Wengenviertel, im Dichterviertel, am Kuhberg und am Alten Eselsberg ausgebaut. Vor einer energetischen Sanierung bietet die Stadt über die Regionale Energieagentur eine kostenlose, anbieterneutrale Energieberatung, die auf Wunsch auch vor Ort stattfindet und das ganze Haus vom Keller bis zum Dach umfasst. Wenn Sie wissen, was saniert werden soll, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Das Sanierungsgebiet „Innenstadt West“ (ca. 14,7 ha) wurde im Juni 2024 per Satzung festgelegt, wird im umfassenden Sanierungsverfahren geführt und ist im Programm „Lebendige Zentren“.",
+      "quelle": "Sanierungstreuhand Ulm – Innenstadt West",
+      "url": "https://san-ulm.de/san_umgriff/innenstadtwest/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Zu den Sanierungsschwerpunkten der Innenstadt West gehören Gebäudemodernisierung unter energetischen Gesichtspunkten, moderate Aufstockung, Fassadengestaltung und die Stärkung des steilen „Ulmer“ Dachs.",
+      "quelle": "Sanierungstreuhand Ulm – Innenstadt West",
+      "url": "https://san-ulm.de/san_umgriff/innenstadtwest/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Sanierungsgebiet „Wengenviertel“ ist seit 9. Oktober 2013 rechtsverbindlich festgelegt und wird im vereinfachten Verfahren nach § 142 Abs. 4 BauGB geführt.",
+      "quelle": "Sanierungstreuhand Ulm – Wengenviertel",
+      "url": "https://san-ulm.de/san_umgriff/wengenviertel/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Denkmalliste ist nach Angaben der Stadt Ulm derzeit nicht öffentlich zugänglich; bei berechtigtem Interesse geben die unteren Denkmalschutzbehörden und das Landesamt für Denkmalpflege Auskunft.",
+      "quelle": "Stadt Ulm – Denkmalschutz",
+      "url": "https://www.ulm.de/leben-in-ulm/bauen-und-wohnen/denkmalschutz/denkmalschutz-in-ulm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Ulm hat ihren kommunalen Wärmeplan am 4. Oktober 2023 öffentlich vorgestellt; Bericht und Karten sind online abrufbar.",
+      "quelle": "Stadt Ulm – Kommunale Wärmeplanung",
+      "url": "https://www.ulm.de/leben-in-ulm/umwelt-energie-entsorgung/energie-und-klimaschutz/klimaschutz-ulm-und-bw/kommunalewaermeplanung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Über die Regionale Energieagentur bietet die Stadt Ulm eine kostenlose, anbieter- und produktneutrale Vor-Ort-Energieberatung für das ganze Haus an.",
+      "quelle": "Stadt Ulm – Energieberatung im Quartier",
+      "url": "https://www.ulm.de/leben-in-ulm/umwelt-energie-entsorgung/energie-und-klimaschutz/energieberatung-quartier",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Fernwärme in Ulm wird nach Angaben der Stadt zu deutlich über 60 % aus regenerativen Brennstoffen erzeugt und unter anderem im Wengenviertel, Dichterviertel und am Kuhberg ausgebaut.",
+      "quelle": "Stadt Ulm – Ausbau der Fernwärme",
+      "url": "https://www.ulm.de/leben-in-ulm/umwelt-energie-entsorgung/energie-und-klimaschutz/fernwaerme",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Liegt mein Haus in einem Ulmer Sanierungsgebiet?",
+      "a": "Informationen zu den Gebieten wie Innenstadt West, Wengenviertel oder Dichterviertel veröffentlicht die Sanierungstreuhand Ulm; Auskunft gibt die jeweilige Gebietsbetreuung."
+    },
+    {
+      "q": "Wie erfahre ich, ob mein Gebäude in Ulm ein Kulturdenkmal ist?",
+      "a": "Die Denkmalliste ist nicht öffentlich. Bei berechtigtem Interesse geben die untere Denkmalschutzbehörde der Stadt Ulm und das Landesamt für Denkmalpflege Auskunft."
+    },
+    {
+      "q": "Gibt es in Ulm eine neutrale Energieberatung vor der Sanierung?",
+      "a": "Ja, über die Regionale Energieagentur Ulm bietet die Stadt eine kostenlose, anbieterneutrale Beratung an, auch vor Ort im Haus."
+    }
+  ],
+  "offen": [
+    "Der Einstiegssatz zu Wiederaufbau-/Nachkriegsbauten ist allgemeine Ortskenntnis (gestützt auf die Beschreibung des Wengenviertels als „von Krieg und Wiederaufbau gezeichnet“), keine Statistik.",
+    "Das städtische Energieförderprogramm hat laut Stadtseite seit 1. September 2026 einen Antrags- und Förderstopp; bewusst nicht erwähnt (datierte Momentangabe).",
+    "Laut Sanierungstreuhand bestehen für das Wengenviertel „nach aktuellem Stand keine Förderanreize mehr“; im Text nur auf die Gebietsbetreuung verwiesen.",
+    "Die Sanierungstreuhand Ulm GmbH wird als Sanierungsträger der Stadt genannt (von ulm.de verlinkt); Gesellschafterstruktur nicht geprüft."
+  ]
+}

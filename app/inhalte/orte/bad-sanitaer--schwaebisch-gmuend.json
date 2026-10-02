@@ -1,0 +1,87 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "schwaebisch-gmuend",
+  "ortName": "Schwäbisch Gmünd",
+  "kreis": "Ostalbkreis",
+  "title": "Badsanierung Schwäbisch Gmünd – Fachbetrieb vermittelt",
+  "description": "Badsanierung in Schwäbisch Gmünd: Wasserhärte je Stadtteil, Lehren aus dem Unwetter 2016 und Gmünder Wohnberatung. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Schwäbisch Gmünd",
+  "einstieg": "In Schwäbisch Gmünd hängt schon die Wasserhärte davon ab, ob das Haus in der Kernstadt, in Degenfeld am Albtrauf oder in Großdeinbach steht. Dazu kommen die Erfahrungen aus dem Unwetter vom Mai 2016 und eine ehrenamtliche Wohnberatung, die es in der Stadt seit Jahrzehnten gibt. Wer ein Bad modernisiert oder barrierearm umbaut, kann diese Besonderheiten von Anfang an einplanen.",
+  "abschnitte": [
+    {
+      "h2": "Wasserhärte in Gmünd: von 12 bis 14,5 °dH je nach Stadtteil",
+      "text": "Die Stadtwerke Gmünd veröffentlichen die Härte getrennt nach Versorgungsgebieten. Für 2025 nennen sie für den größten Teil des Stadtgebiets 13,4 °dH, also „mittel“, ebenso für Bargau, Unterbettringen und Großdeinbach. Degenfeld mit 14 °dH sowie Weiler und Herdtlinsweiler mit 14,5 °dH liegen dagegen im Bereich „hart“. In den härteren Lagen setzt sich mehr Kalk an Duschwänden, Brauseköpfen und im Warmwasserspeicher ab. Ob eine Enthärtung sinnvoll ist, lässt sich mit dem Wert des eigenen Stadtteils besser beurteilen als mit einem Durchschnitt."
+    },
+    {
+      "h2": "Nach dem Unwetter von 2016: Kellerbäder gegen Überflutung sichern",
+      "text": "Am 29. Mai 2016 richtete ein Unwetter in Schwäbisch Gmünd schwere Schäden an, auch an Privathäusern; die Stadt erinnert daran auf ihrer Seite zur Eigenvorsorge. Technische Schutzeinrichtungen wirken nach ihren Angaben nur bis zu ihrer Bemessungsgrenze. Als Beispiele für bestehende Gebäude nennt die Stadt Rückschlagklappen und mobile Abdichtungen für Kellerschächte und Türen. Wer im Untergeschoss eine Dusche, ein WC oder einen Waschplatz einrichtet, sollte deshalb früh klären, wie Abwasser bei Rückstau sicher abgeleitet wird."
+    },
+    {
+      "h2": "Altersgerecht umbauen: Gmünder Wohnberatung und Seniorennetzwerk",
+      "text": "Die Gmünder Wohnberatung gehört zum städtischen Seniorennetzwerk und wird von geschulten Ehrenamtlichen getragen. Sie kommt auf Wunsch zum Hausbesuch, schlägt Umbauten und Hilfsmittel vor und schreibt einen Bericht, den Ratsuchende etwa an die Pflegekasse weitergeben können. Für Fragen rund um eine Pflegesituation hat der Pflegestützpunkt Ostalbkreis ein Beratungsbüro in Gmünd. Geht es zugleich um Heizung oder Warmwasser, bietet das ZEKK Ostwürttemberg im Gebäude Grät am Marktplatz kostenlose Energieberatungen an. Haben Sie Ihre Wünsche geklärt, schildern Sie das Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Laut Stadtwerke Gmünd liegt die Wasserhärte 2025 im übrigen Stadtgebiet bei 13,4 °dH (mittel), in Degenfeld bei 14 °dH und in Weiler/Herdtlinsweiler bei 14,5 °dH (hart).",
+      "quelle": "Stadtwerke Gmünd – Wasserhärte 2025",
+      "url": "https://www.stwgd.de/files/stadtwerke_gd/userfiles/pdf/Netz/Wasser/Wasserh%C3%A4rte%202025.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Gmünd stellen eigene Trinkwasseranalysen für Bargau, Degenfeld, Unterbettringen, Weiler und Großdeinbach bereit.",
+      "quelle": "Stadtwerke Gmünd – Unsere Wasserqualität/-härte",
+      "url": "https://www.stwgd.de/wasser/wasserqualit%C3%A4t-h%C3%A4rte.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Schwäbisch Gmünd verweist auf das Unwetter vom 29. Mai 2016 und nennt Rückschlagklappen und mobile Abdichtungen von Kellerschächten als Eigenvorsorge.",
+      "quelle": "Stadt Schwäbisch Gmünd – Starkregen und Hochwasser",
+      "url": "https://www.schwaebisch-gmuend.de/starkregen-und-hochwasser-vorsorge.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die ehrenamtliche Gmünder Wohnberatung besteht seit 1996, bietet Hausbesuche an und erstellt einen Bericht, der an Kostenträger wie Pflegekassen weitergeleitet werden kann.",
+      "quelle": "Stadt Schwäbisch Gmünd – Neustart Gmünder Wohnberatung",
+      "url": "https://www.schwaebisch-gmuend.de/pressedetails/neuanfang-bei-der-gmuender-wohnberatung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Seniorennetzwerk nennt die Wohnberatung im Generationentreff Spitalmühle als Anlaufstelle für barrierearme Wohnraumanpassungen.",
+      "quelle": "Stadt Schwäbisch Gmünd – Beratung und Unterstützung (Seniorennetzwerk)",
+      "url": "https://www.schwaebisch-gmuend.de/beratung-und-unterstuetzung-seniorennetzwerk.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt Ostalbkreis berät kostenlos und neutral und hat ein Beratungsbüro in der Haußmannstraße 29 in Schwäbisch Gmünd.",
+      "quelle": "Landratsamt Ostalbkreis – Pflegestützpunkt Ostalbkreis",
+      "url": "https://www.ostalbkreis.de/pflegestuetzpunkt",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das ZEKK Ostwürttemberg bietet im Gebäude Grät am Marktplatz kostenlose Energieerstberatungen an, unter anderem zu Heizungs- und Haustechnik.",
+      "quelle": "Stadt Schwäbisch Gmünd – Kostenlose Energieberatung",
+      "url": "https://www.schwaebisch-gmuend.de/veranstaltung/kostenlose-energieberatung-in-schwaebisch-gmuend-13.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist das Wasser in Degenfeld härter als in der Gmünder Innenstadt?",
+      "a": "Ja. Die Stadtwerke geben für Degenfeld 14 °dH (hart) an, für das übrige Stadtgebiet 13,4 °dH (mittel)."
+    },
+    {
+      "q": "Kommt die Gmünder Wohnberatung auch zu mir nach Hause?",
+      "a": "Auf Wunsch ja. Die Ergebnisse fasst sie in einem Bericht zusammen, den man etwa an die Pflegekasse weitergeben kann."
+    },
+    {
+      "q": "Wo sehe ich, ob mein Keller in Schwäbisch Gmünd bei Starkregen gefährdet ist?",
+      "a": "Im Thema „Starkregen-Risiko“ des städtischen Geodatenportals. Dort lassen sich zu erwartende Wassertiefen für das eigene Grundstück ablesen."
+    }
+  ],
+  "offen": [
+    "Wasserhärte für Unterbettringen (12,7), Bargau (12,1) und Großdeinbach (13,5) im Text nur als „mittel“ zusammengefasst; „übriges Stadtgebiet“ = Zeile „GD Rest“ der Tabelle. Dass dort Landeswasser verteilt wird, ist nicht ausdrücklich belegt und daher nicht behauptet.",
+    "Wer in Schwäbisch Gmünd die Grundstücksentwässerung betreut (Stadt oder Stadtwerke) und ob es eigene Hinweise zum Rückstau gibt, wurde nicht gefunden; Text bleibt allgemein.",
+    "Die Energieberatungs-Seite ist eine Termin-Seite (Dezember 2026); Sprechstundenrhythmus bewusst nicht genannt."
+  ]
+}

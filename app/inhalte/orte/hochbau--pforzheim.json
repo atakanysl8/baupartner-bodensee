@@ -1,0 +1,91 @@
+{
+  "leistung": "hochbau",
+  "ort": "pforzheim",
+  "ortName": "Pforzheim",
+  "kreis": "Pforzheim",
+  "title": "Bauunternehmen Pforzheim – kostenlos vermittelt",
+  "description": "Bauen in Pforzheim: Baurechtsamt im Stadtkreis, städtisches Bauportal, Stellplatzsatzung mit drei Zonen, Bodenrichtwerte. Bauunternehmen kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Pforzheim",
+  "einstieg": "Ob Einfamilienhaus in Büchenbronn, Mehrfamilienhaus auf einem Innenstadtgrundstück oder Anbau am Hang in der Nordstadt: Pforzheim ist ein Stadtkreis und regelt das Baurecht in eigener Verantwortung. Wer neu baut, hat es mit dem städtischen Baurechtsamt, einem eigenen digitalen Bauportal und einer Stellplatzsatzung zu tun, die je nach Lage unterschiedliche Anforderungen stellt.",
+  "abschnitte": [
+    {
+      "h2": "Baurechtsamt und Bauportal der Stadt Pforzheim",
+      "text": "Untere Baurechtsbehörde ist in Pforzheim das Baurechtsamt der Stadt. Es entscheidet über Baugenehmigungen und Bauvorbescheide und berät Bauherren zu Fragen des Baurechts; bei komplexeren Fragen wie verschiedenen Bebauungsmöglichkeiten eines Grundstücks empfiehlt das Amt, vorab einen Planverfasser einzubeziehen. Anträge laufen über ein eigenes Bauportal der Stadt: Klassisches und vereinfachtes Baugenehmigungsverfahren, Bauvoranfrage, Kenntnisgabeverfahren sowie Abweichungen und Befreiungen lassen sich dort digital stellen, alle Unterlagen als PDF/A. Auch Nachreichungen und Korrespondenz laufen über das Portal. Einen Überblick über Bauen und Sanieren im Stadtkreis gibt die städtische Broschüre „Bauen in Pforzheim“."
+    },
+    {
+      "h2": "Bebauungsplan, Verfahrensfreiheit und Stellplätze",
+      "text": "Liegt ein Grundstück im Geltungsbereich eines rechtskräftigen Bebauungsplans, muss das Vorhaben nach Darstellung der Stadt dessen Festsetzungen erfüllen, etwa zu Gebäudehöhe und Nutzung. Auch Vorhaben, die nach der Landesbauordnung verfahrensfrei sind, müssen nach Hinweis des Baurechtsamts Abstandsflächen und Bebauungsplan einhalten; in manchen Fällen sind dafür trotzdem Abweichungen oder Befreiungen zu beantragen. Für Stellplätze gilt seit 2011 eine Satzung, die das gesamte Stadtgebiet in drei Zonen unterteilt. Ziel ist nach Angaben der Stadt, die Innenstadt unter Berücksichtigung ihrer städtebaulichen und verkehrlichen Situation aufzuwerten. Welche Zone ein Grundstück betrifft, zeigt der Plan zur Satzung."
+    },
+    {
+      "h2": "Grundstück und Bodenwert einschätzen",
+      "text": "Bodenrichtwerte ermittelt der Gutachterausschuss der Stadt Pforzheim; abrufbar sind sie über BORIS-BW, zuletzt zum Stichtag 1. Januar 2025. Städtische Wohnbauplätze vergibt das Vermessungs- und Liegenschaftsamt in der Deimlingstraße, das aktuelle Angebot veröffentlicht die Stadt auf ihrer Seite zu Bauplätzen. Gerade bei Hanggrundstücken über Enz und Nagold lohnt eine frühe Abstimmung von Gründung, Stützmauern und Geländeanschluss mit Planer und Bauunternehmen. Wenn Grundstück und Entwurf feststehen, schildern Sie Ihr Bauvorhaben über unser Formular. Wir wählen für Ihre Anfrage ein passendes Bauunternehmen aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Das Baurechtsamt nimmt im Stadtkreis Pforzheim die Aufgaben der unteren Baurechtsbehörde wahr und ist für baurechtliche Entscheidungen wie Baugenehmigungen oder Bauvorbescheide zuständig.",
+      "quelle": "Stadt Pforzheim – Baurecht",
+      "url": "https://www.pforzheim.de/stadt/bauen-stadtentwicklung/baurecht.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Auch verfahrensfreie Bauvorhaben müssen öffentlich-rechtliche Vorschriften wie Abstandsflächen oder Vorgaben eines Bebauungsplans einhalten, weshalb in einigen Fällen Abweichungen, Ausnahmen oder Befreiungen beim Baurechtsamt zu beantragen sind.",
+      "quelle": "Stadt Pforzheim – Baurecht",
+      "url": "https://www.pforzheim.de/stadt/bauen-stadtentwicklung/baurecht.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Über das Bauportal der Stadt Pforzheim können Baugenehmigungsverfahren, Bauvoranfrage, Kenntnisgabeverfahren sowie Abweichungen, Ausnahmen und Befreiungen digital beantragt werden; alle Dateien sind als PDF/A einzureichen.",
+      "quelle": "Stadt Pforzheim – Digitaler Bauantrag",
+      "url": "https://www.pforzheim.de/stadt/bauen-stadtentwicklung/baurecht/digitaler-bauantrag.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stellplatzsatzung der Stadt Pforzheim (Satzungsnummer 702) ist seit dem 3. Juni 2011 rechtskräftig, gilt im gesamten Stadtgebiet und unterteilt es in drei Zonen.",
+      "quelle": "Stadt Pforzheim – Stellplatzsatzung",
+      "url": "https://www.pforzheim.de/stadt/bauen-stadtentwicklung/bauleitplanung/staedtebauliche-satzungen/rechtsksatzungen/stellplatzsatzung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ein Bebauungsplan besteht aus dem zeichnerischen Plan im Maßstab 1:500 oder 1:1000, den textlichen Festsetzungen und der Begründung mit Umweltbericht; ein Anspruch auf Aufstellung besteht nicht.",
+      "quelle": "Stadt Pforzheim – Bebauungsplan und Grünordnungsplan",
+      "url": "https://www.pforzheim.de/stadt/bauen-stadtentwicklung/bauleitplanung/bebauungsplan-gruenordnungsplan.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Bodenrichtwerte des Gutachterausschusses der Stadt Pforzheim sind in BORIS-BW abrufbar, unter anderem zum Stichtag 1. Januar 2025.",
+      "quelle": "Stadt Pforzheim – Bodenrichtwerte",
+      "url": "https://www.pforzheim.de/stadt/bauen-stadtentwicklung/gutachterausschuss/bodenrichtwerte.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Städtische Wohnbauplätze bietet das Vermessungs- und Liegenschaftsamt, Abteilung Liegenschaften und Verwaltung, an.",
+      "quelle": "Stadt Pforzheim – Wohnbauplätze",
+      "url": "https://www.pforzheim.de/stadt/bauen-stadtentwicklung/bauplaetze-baulandumlegung/wohnbauplaetze.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo reiche ich in Pforzheim einen Bauantrag ein?",
+      "a": "Beim Baurechtsamt der Stadt Pforzheim, digital über das städtische Bauportal. Dort laufen auch Nachreichungen und die weitere Korrespondenz."
+    },
+    {
+      "q": "Wie viele Stellplätze braucht ein Neubau in Pforzheim?",
+      "a": "Das regelt die Stellplatzsatzung, die das Stadtgebiet in drei Zonen teilt. Maßgeblich ist, in welcher Zone das Grundstück liegt; Auskunft gibt das Baurechtsamt."
+    },
+    {
+      "q": "Brauche ich für ein verfahrensfreies Vorhaben in Pforzheim gar nichts beim Amt?",
+      "a": "Nicht unbedingt. Nach Hinweis des Baurechtsamts müssen auch verfahrensfreie Vorhaben Abstandsflächen und Bebauungsplan einhalten; bei Abweichungen kann ein Antrag beim Baurechtsamt nötig sein."
+    },
+    {
+      "q": "Bietet die Stadt Pforzheim eigene Bauplätze an?",
+      "a": "Städtische Wohnbauplätze vergibt das Vermessungs- und Liegenschaftsamt. Ob gerade Grundstücke verfügbar sind, steht auf der Bauplatz-Seite der Stadt."
+    }
+  ],
+  "offen": [
+    "Ob die Einreichung in Papierform in Pforzheim noch möglich ist, geht aus der Quelle nicht eindeutig hervor; im Text nur „über das Bauportal“.",
+    "Hochwasser-/Starkregenkarten und Baugrund (LGRB) für Pforzheim wurden nicht eigens recherchiert; der Satz zu Hanggrundstücken ist allgemein gehalten.",
+    "Stadtteilnennungen im Einstieg (Büchenbronn, Nordstadt) sind Beispiele."
+  ]
+}

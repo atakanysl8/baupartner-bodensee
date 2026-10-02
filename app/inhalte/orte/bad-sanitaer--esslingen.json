@@ -1,0 +1,81 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "esslingen",
+  "ortName": "Esslingen",
+  "kreis": "Esslingen",
+  "title": "Badsanierung Esslingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Esslingen am Neckar: Wasser aus zwei Fernleitungen, Entwässerungsgesuch beim Tiefbauamt, Pflegestützpunkt. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Esslingen",
+  "einstieg": "Ob Stadthaus in der Esslinger Altstadt, Wohnung in Oberesslingen oder Reihenhaus in Berkheim: Wer in Esslingen am Neckar ein Bad modernisiert, bekommt sein Wasser je nach Stadtteil aus der Landeswasserversorgung oder vom Bodensee. Beim Abwasser hat die Stadt eine eigene Satzung, und für den altersgerechten Umbau gibt es kreisweite Beratungsstellen, an denen die Stadt mitwirkt.",
+  "abschnitte": [
+    {
+      "h2": "Zwei Wasserquellen: Härte in Esslingen je nach Stadtteil",
+      "text": "Die Stadtwerke Esslingen versorgen die Stadt nicht aus eigenen Brunnen, sondern über zwei Fernwasserversorger. Der größte Teil Esslingens erhält Wasser der Landeswasserversorgung aus dem Donauried, das die Stadtwerke mit 13,2 °dH angeben. In Berkheim und auf dem Zollberg fließt Bodenseewasser mit 9,1 °dH. Beides liegt im Härtebereich „mittel“, der Unterschied von rund vier Grad ist aber an Duschglas, Perlatoren und im Warmwasserspeicher spürbar. Wer zwischen Wohnung in der Innenstadt und Haus in Berkheim vergleicht, sollte also nicht dieselbe Empfehlung zur Enthärtung erwarten. Für die Badplanung reicht in der Regel der Blick auf den eigenen Stadtteil."
+    },
+    {
+      "h2": "Neue Abwasserleitung? Entwässerungsgesuch beim Tiefbauamt",
+      "text": "Werden im Zuge der Badsanierung Leitungen verlegt, ein Bad im Untergeschoss neu angeschlossen oder Fallrohre verändert, berührt das die Grundstücksentwässerung. Nach der Esslinger Abwassersatzung bedürfen Herstellung und Änderung von Grundstücksentwässerungsanlagen der schriftlichen Genehmigung der Stadt, zuständig ist das Tiefbauamt. Zum Entwässerungsgesuch gehören unter anderem Grundrisse des Untergeschosses mit Leitungen, Rückstauverschlüssen und Kontrollschacht. Als Rückstauebene gilt grundsätzlich die Straßenoberfläche über dem Anschluss an den öffentlichen Kanal; Toiletten, Bodenabläufe oder Waschbecken darunter sind gegen Rückstau zu sichern. Ob ein konkreter Umbau ein Gesuch auslöst, beantwortet das Tiefbauamt."
+    },
+    {
+      "h2": "Barrierearm und sparsam: Beratung in Stadt und Landkreis",
+      "text": "Für ein Bad ohne Schwellen beraten die Pflegestützpunkte im Landkreis Esslingen kostenlos und neutral, telefonisch, persönlich oder auf Wunsch zu Hause; die Stadt Esslingen ist einer ihrer Träger. Geht es um Warmwasser und Heizung, verweist die Stadt auf die Klimaschutzagentur des Landkreises, an der sie beteiligt ist. Zusätzlich bietet die Stadt Eigentümern kostenfreie Energiesteckbriefe mit einer ersten Einschätzung des Wärmebedarfs an. Steht der Plan, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Der Großteil Esslingens erhält Wasser der Landeswasserversorgung (Härtegrad 13,2 °dH, mittel); in Berkheim und Zollberg fließt Bodenseewasser mit 9,1 °dH (mittel).",
+      "quelle": "Stadtwerke Esslingen – Herkunft und Qualität",
+      "url": "https://www.swe.de/de/wasser/Herkunft-und-Qualitaet.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach § 9 der Abwassersatzung der Stadt Esslingen bedürfen Herstellung und Änderung von Grundstücksentwässerungsanlagen der schriftlichen Genehmigung der Stadt (Tiefbauamt); dem Gesuch sind unter anderem Kellergrundrisse mit Rückstauverschlüssen beizufügen.",
+      "quelle": "Stadt Esslingen am Neckar – Abwassersatzung 2026",
+      "url": "https://www.esslingen.de/site/Esslingen_Layout_2022/get/documents_E1982377575/es/Datenquelle-Esslingen-2022/Ortsrecht/7_%C3%96ff_Einrichtungen_Wirtschaftsf%C3%B6rderung/7-1b_Abwassersatzung%2001.01.2026_Endfassung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Rückstauebene ist nach der Esslinger Abwassersatzung, sofern nichts anderes bestimmt ist, die Straßenoberfläche über dem Anschluss an die öffentliche Abwasseranlage; tiefer liegende Toiletten, Bodenabläufe und Waschbecken sind vom Eigentümer gegen Rückstau zu sichern.",
+      "quelle": "Stadt Esslingen am Neckar – Abwassersatzung 2026",
+      "url": "https://www.esslingen.de/site/Esslingen_Layout_2022/get/documents_E1982377575/es/Datenquelle-Esslingen-2022/Ortsrecht/7_%C3%96ff_Einrichtungen_Wirtschaftsf%C3%B6rderung/7-1b_Abwassersatzung%2001.01.2026_Endfassung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Pflegestützpunkte im Landkreis Esslingen beraten an 16 Standorten kostenlos und neutral, auf Wunsch auch zu Hause; Mitträger ist unter anderem die Stadt Esslingen.",
+      "quelle": "Landratsamt Esslingen – Pflegestützpunkte",
+      "url": "https://www.landkreis-esslingen.de/start/soziales/pflegestuetzpunkt.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für Energieberatungen verweist die Stadt Esslingen auf die Klimaschutzagentur des Landkreises, an der sie beteiligt ist; beraten wird kostenfrei unter anderem zu Heizungsoptimierung und Gebäudemodernisierung.",
+      "quelle": "Stadt Esslingen am Neckar – Projekte, Beratung und Förderung",
+      "url": "https://www.esslingen.de/mobilitaet-und-klimaschutz/klima-und-umwelt/projekte-und-foerderungen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Esslingen bietet Eigentümern kostenfrei Energiesteckbriefe mit einer ersten Einschätzung zum Wärmebedarf und zu Einsparpotenzialen an.",
+      "quelle": "Stadt Esslingen am Neckar – Klima und Umwelt",
+      "url": "https://www.esslingen.de/mobilitaet-und-klimaschutz/klima-und-umwelt",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist das Wasser in Berkheim weicher als in der Esslinger Innenstadt?",
+      "a": "Ja, etwas: Berkheim und Zollberg erhalten Bodenseewasser mit 9,1 °dH, der übrige Großteil der Stadt Wasser der Landeswasserversorgung mit 13,2 °dH. Beides gilt als mittelhart."
+    },
+    {
+      "q": "Braucht ein neues Kellerbad in Esslingen eine Genehmigung für die Entwässerung?",
+      "a": "Die Abwassersatzung sieht für Herstellung und Änderung der Grundstücksentwässerung eine schriftliche Genehmigung des Tiefbauamts vor. Ob das für den konkreten Umbau gilt, klärt das Tiefbauamt."
+    },
+    {
+      "q": "Wer berät in Esslingen zum barrierefreien Bad, wenn ein Pflegegrad vorliegt?",
+      "a": "Die Pflegestützpunkte im Landkreis Esslingen beraten kostenlos und neutral, auch zu Hause, und helfen bei Anträgen; die Stadt Esslingen ist Mitträger."
+    }
+  ],
+  "offen": [
+    "Ortsteilnennungen im Einstieg (Altstadt, Oberesslingen, Berkheim) sind ortsübliche Bezeichnungen; nur Berkheim/Zollberg sind durch die Stadtwerke-Quelle belegt.",
+    "Die Stadtwerke-Seite nennt Denkendorf und Nellingen ebenfalls als Bodenseewasser-Gebiete (Nachbargemeinden); im Text weggelassen.",
+    "Die Bezeichnung „Tiefbauamt“ als Genehmigungsstelle stammt aus § 9 der Abwassersatzung; eine eigene Amtsseite zum Entwässerungsgesuch wurde nicht gefunden (Suche auf esslingen.de verlangt Anmeldung)."
+  ]
+}

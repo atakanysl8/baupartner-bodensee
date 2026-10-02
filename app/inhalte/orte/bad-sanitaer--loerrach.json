@@ -1,0 +1,81 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "loerrach",
+  "ortName": "Lörrach",
+  "kreis": "Lörrach",
+  "title": "Badsanierung Lörrach – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Lörrach: entsäuertes Grundwasser um 8 °dH, Entwässerungsantrag beim Umbau, Wohnberatung im Landkreis. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Lörrach",
+  "einstieg": "Ob Stadtwohnung nahe dem Chesterplatz, Haus in Brombach oder Altbau in Stetten: Wer in Lörrach ein Bad erneuert, plant mit Grundwasser aus dem Wiesental, mit einem städtischen Eigenbetrieb für das Abwasser und häufig mit dem Wunsch nach einer schwellenlosen Dusche. Für jedes dieser Themen gibt es in Stadt und Landkreis eine zuständige Stelle.",
+  "abschnitte": [
+    {
+      "h2": "Grundwasser aus dem Grütt: Härte und Hausinstallation",
+      "text": "Das Lörracher Trinkwasser stammt aus sieben eigenen Tiefbrunnen, den „Wilden Brunnen“ und den Grütt-Brunnen, und wird im Wasserwerk im Grütt aufbereitet. Weil das Grundwasser von Natur aus aggressive Kohlensäure enthält, fließt es dort durch Filterbecken mit Calciumcarbonat; danach hat es nach Angaben der Stadt einen pH-Wert von 7,7 und eine Härte von etwa 8 °dH. Das liegt an der Grenze zwischen weich und mittel, Kalkablagerungen an Glas und Armaturen halten sich also in Grenzen. Für die Badplanung wichtig: Die Stadtwerke liefern das Wasser nur bis zum Absperrventil hinter dem Hauswasserzähler; für alle Leitungen danach sind die Eigentümer selbst verantwortlich."
+    },
+    {
+      "h2": "Umbau mit neuem Anschluss: Entwässerungsantrag und Rückstau",
+      "text": "Wird beim Badumbau der Anschluss an die öffentliche Kanalisation verändert, ist in Lörrach der Eigenbetrieb Abwasserbeseitigung zuständig. Nach seinen Angaben wird der Anschluss bei Um- und Neubauten erst nach einem Entwässerungsantrag genehmigt; die Kanalauskunft dafür erteilt die Grundstücksentwässerung. Anschlussarbeiten dürfen nur Fachunternehmen ausführen, anschließend folgt eine Dichtheitsprüfung. Als Rückstauebene gilt das Straßenniveau: Duschen, WCs oder Bodenabläufe darunter, etwa im Souterrain, sind gegen Rückstau zu sichern, zum Beispiel mit Hebeanlage oder Rückstauklappe. Die Stadt weist zudem darauf hin, dass das Stadtgebiet wegen seiner Topographie bei Starkregen besonders gefährdet ist."
+    },
+    {
+      "h2": "Barrierefreies Bad: Pflegestützpunkt und Wohnberatung im Landkreis",
+      "text": "Der Pflegestützpunkt Landkreis Lörrach an der Brombacher Straße berät pflegebedürftige Menschen und Angehörige persönlich, telefonisch oder online, etwa zu Pflegegrad und Leistungen der Pflegekasse. Ergänzend bietet die Wohnberatung der Fritz-Berger-Stiftung kostenfrei Beratung zu Barrierereduzierung und ausdrücklich zu Umbauten im Badezimmer an, auch bei einem Hausbesuch. Für die Warmwasserbereitung oder eine neue Heizung bietet die Stadt eine kostenlose Einstiegsberatung zur Energie an. Steht Ihr Vorhaben, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Das Grundwasser für Lörrach wird aus sieben eigenen Tiefbrunnen gefördert und im Wasserwerk im Grütt entsäuert; danach hat es einen pH-Wert von 7,7 und etwa 8 °dH Wasserhärte.",
+      "quelle": "Stadt Lörrach – Wasserversorgung in Lörrach",
+      "url": "https://www.loerrach.de/4528",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bevor bei Um- und Neubauten der Anschluss an die öffentliche Kanalisation genehmigt wird, ist ein Entwässerungsantrag beim Eigenbetrieb Abwasserbeseitigung Lörrach zu stellen; Anschlüsse dürfen nur Fachunternehmen ausführen.",
+      "quelle": "Stadt Lörrach – Eigenbetrieb Abwasserbeseitigung",
+      "url": "https://www.loerrach.de/eigenbetrieb-abwasserbeseitigung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ablaufstellen unterhalb des Straßenniveaus (Rückstauebene) sind nach Angaben der Stadt Lörrach gegen Rückstau zu sichern, etwa durch Hebeanlagen oder Rückstauklappen.",
+      "quelle": "Stadt Lörrach – Rückstau von Regenwasser",
+      "url": "https://www.loerrach.de/5538",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt Landkreis Lörrach, Brombacher Straße 4, berät gesetzlich versicherte Pflegebedürftige, Angehörige und Interessierte persönlich, telefonisch oder online.",
+      "quelle": "Landratsamt Lörrach – Pflegestützpunkt",
+      "url": "https://www.loerrach-landkreis.de/PSP/So-koennen-wir-helfen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Wohnberatung der Fritz-Berger-Stiftung berät die Bevölkerung des Landkreises Lörrach kostenfrei zu Barrierereduzierung und Umbauten etwa im Badezimmer, auf Wunsch auch zu Hause.",
+      "quelle": "Landratsamt Lörrach – Pflegestützpunkt, weitere Beratungsangebote",
+      "url": "https://www.loerrach-landkreis.de/PSP/Beratungsangebote",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Lörrach bietet Bürgern und Hausbesitzenden eine kostenlose Einstiegsberatung zu Energie an, unter anderem zu Heizung, Solarwärme und wassersparenden Technologien.",
+      "quelle": "Stadt Lörrach – Energieberatung",
+      "url": "https://www.loerrach.de/de/Stadt-Buergerschaft/Loerracht-macht-Klima/Gebaeudessanierung-Waermeversorgung/Energieberatung",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Wasser in Lörrach?",
+      "a": "Nach der Aufbereitung im Wasserwerk im Grütt hat das Lörracher Trinkwasser nach Angaben der Stadt etwa 8 °dH. Detaillierte Analysewerte veröffentlicht der Betriebsführer der Stadtwerke online."
+    },
+    {
+      "q": "Brauche ich für den Badumbau in Lörrach einen Entwässerungsantrag?",
+      "a": "Wird der Anschluss an die öffentliche Kanalisation bei einem Um- oder Neubau verändert, verlangt der Eigenbetrieb Abwasserbeseitigung nach eigenen Angaben einen Entwässerungsantrag. Ob das im Einzelfall zutrifft, beantwortet der Eigenbetrieb."
+    },
+    {
+      "q": "Wer berät im Landkreis Lörrach zum barrierefreien Bad?",
+      "a": "Die Wohnberatung der Fritz-Berger-Stiftung berät kostenfrei zu Umbauten im Badezimmer, auch bei Ihnen zu Hause. Fragen zu Pflegegrad und Leistungen der Pflegekasse beantwortet der Pflegestützpunkt des Landkreises."
+    }
+  ],
+  "offen": [
+    "Härteangabe „etwa 8 °dH“ stammt aus der Beschreibung der Stadt, nicht aus einer aktuellen Analyse; Analyse liegt bei bnNETZE/badenova Netze (nicht geöffnet).",
+    "„Grundwasser aus dem Wiesental“ im Einstieg nicht durch Fakt-Quelle belegt; Ortsteile im Einstieg (Brombach, Stetten) nur aus Stadtseiten bekannt.",
+    "Die Fritz-Berger-Stiftung ist eine Stiftung (kein Handwerksbetrieb); Nennung, weil das Landratsamt sie als Beratungsangebot des Pflegestützpunkts aufführt."
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "leistung": "innenausbau",
+  "ort": "mannheim",
+  "ortName": "Mannheim",
+  "kreis": "Mannheim",
+  "title": "Innenausbau Mannheim – Fachbetrieb kostenlos vermittelt",
+  "description": "Innenausbau in Mannheim: Denkmalschutz auch für Treppen und Stuck, Milieuschutz im Jungbusch, Dachgeschossausbau. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Innenausbau in Mannheim",
+  "einstieg": "Neue Grundrisse in einer Altbauwohnung, ein ausgebautes Dachgeschoss oder Trockenbauwände für ein zusätzliches Zimmer: Beim Innenausbau in Mannheim spielen nicht nur Statik und Brandschutz eine Rolle. In vielen Häusern der Innenstadt und der angrenzenden Stadtteile reichen Denkmalschutz oder eine Erhaltungssatzung bis in die Wohnung hinein.",
+  "abschnitte": [
+    {
+      "h2": "Denkmalschutz endet nicht an der Fassade: Treppen, Türen und Stuck",
+      "text": "Ein Kulturdenkmal ist in Baden-Württemberg kraft Gesetzes geschützt, und zwar als Gesamtwerk. Die Stadt Mannheim nennt ausdrücklich, dass der Schutz neben Fassaden und Dachkonstruktion auch originale Grundrissaufteilungen und historische ortsfeste Ausstattung umfasst, etwa Treppen, Türen, Wandverkleidungen, Bodenbeläge und Stuck. Wer in einem solchen Haus Wände versetzt, Böden erneuert oder Decken abhängt, berührt deshalb in der Regel denkmalrechtlich relevante Substanz. Zuständig ist die Stadt als untere Denkmalschutzbehörde, die im Verfahren das Landesamt für Denkmalpflege in Karlsruhe beteiligt. Ob ein Gebäude ein Kulturdenkmal ist, beantworten auf Anfrage die Stadt oder das Landesamt."
+    },
+    {
+      "h2": "Jungbusch: Grundrissänderungen und Dachausbau unter Milieuschutz",
+      "text": "Für den Jungbusch hat der Gemeinderat 2023 eine soziale Erhaltungssatzung beschlossen. Sie soll die Bewohner vor Verdrängung schützen und stellt bauliche Änderungen an bestehendem Wohnraum unter Genehmigungsvorbehalt, ausdrücklich auch Modernisierungen, Grundrissänderungen, Wohnungsteilungen und -zusammenlegungen sowie Dachgeschossausbauten. Die Stadt betont zugleich, dass ein zeitgemäßer Ausstattungszustand und bauliche, energetische und barrierefreie Mindestanforderungen in der Regel genehmigt werden. Welche Adressen betroffen sind, listet die Stadt auf ihrer Seite; Auskunft gibt der Fachbereich Geoinformation und Stadtplanung."
+    },
+    {
+      "h2": "Dachgeschoss und Nutzungsänderung: zuerst die Bauberatung fragen",
+      "text": "Ob ein Dachausbau oder die Umnutzung von Räumen eine Baugenehmigung braucht, hängt vom Einzelfall und vom geltenden Bebauungsplan ab. Die Bauberatung des Fachbereichs Baurecht, Bauverwaltung und Denkmalschutz gibt dazu Auskunft, auch zur passenden Verfahrensart. Für gestalterische Fragen bietet der Fachbereich Geoinformation und Stadtplanung eine kostenlose Gestaltungsberatung an. Steht das Konzept, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Nach Angabe der Stadt Mannheim umfasst der Denkmalschutz unter anderem originale Grundrissaufteilungen sowie historische ortsfeste Innenausstattungen wie Treppen, Tür- und Fensterelemente, Wandverkleidungen, Bodenbeläge und Stuck.",
+      "quelle": "Stadt Mannheim – Auskunft Denkmaleigenschaft",
+      "url": "https://www.mannheim.de/de/service-bieten/bauen-und-wohnen/denkmalschutz/auskunft-denkmaleigenschaft",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Eingriffe in die Bausubstanz eines Kulturdenkmals sind nach § 8 Denkmalschutzgesetz genehmigungspflichtig; die Stadt Mannheim beteiligt dabei das Landesamt für Denkmalpflege im Regierungspräsidium Stuttgart, Dienstsitz Karlsruhe.",
+      "quelle": "Stadt Mannheim – Denkmalrechtliche Genehmigung",
+      "url": "https://www.mannheim.de/de/service-bieten/bauen-und-wohnen/denkmalschutz/denkmalrechtliche-genehmigung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Seit dem Gemeinderatsbeschluss vom 25.07.2023 gilt im Jungbusch eine soziale Erhaltungssatzung; genehmigungspflichtig sind unter anderem Grundrissänderungen, Wohnungsteilungen und -zusammenlegungen sowie Dachgeschossausbauten.",
+      "quelle": "Stadt Mannheim – Soziale Erhaltungssatzung im Gebiet Jungbusch",
+      "url": "https://www.mannheim.de/de/service-bieten/bauen-und-wohnen/bauen-und-baurecht/soziale-erhaltungssatzung-im-gebiet-jungbusch",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Bauberatung des Fachbereichs Baurecht, Bauverwaltung und Denkmalschutz gibt neben allgemeinen baurechtlichen Auskünften auch Hinweise zu möglichen Verfahrensarten.",
+      "quelle": "Stadt Mannheim – Bauberatung",
+      "url": "https://www.mannheim.de/de/service-bieten/bauen-und-wohnen/bauen-und-baurecht/bauberatung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Fachbereich Geoinformation und Stadtplanung bietet privaten Bauwilligen eine städtebauliche Gestaltungsberatung an, in der Regel gemeinsam mit dem Fachbereich Baurecht und Denkmalschutz und auch vor dem Bauantrag.",
+      "quelle": "Stadt Mannheim – Gestaltungsberatung",
+      "url": "https://www.mannheim.de/de/service-bieten/bauen-und-wohnen/gestaltungsberatung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Klimaschutzagentur Mannheim berät kostenlos und neutral, unter anderem zur Altbausanierung mit Dämmung und zu Fördermöglichkeiten.",
+      "quelle": "Stadt Mannheim – Klimaschutzagentur",
+      "url": "https://www.mannheim.de/de/service-bieten/klima/klimaschutz/klimaschutzagentur",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf ich in einem denkmalgeschützten Mannheimer Altbau Innenwände versetzen?",
+      "a": "Original erhaltene Grundrisse und ortsfeste Ausstattung gehören in der Regel zum geschützten Bestand. Ob und wie ein Umbau möglich ist, klärt die Stadt als untere Denkmalschutzbehörde im Genehmigungsverfahren."
+    },
+    {
+      "q": "Was gilt für den Innenausbau im Jungbusch?",
+      "a": "Dort stellt die soziale Erhaltungssatzung bauliche Änderungen an Wohnraum unter Genehmigungsvorbehalt. Zeitgemäße Ausstattung und Mindestanforderungen werden nach Angabe der Stadt in der Regel genehmigt."
+    },
+    {
+      "q": "Wo erfahre ich, ob mein Dachgeschossausbau genehmigungspflichtig ist?",
+      "a": "Bei der Bauberatung des Fachbereichs Baurecht, Bauverwaltung und Denkmalschutz, die über das Terminbuchungssystem der Stadt erreichbar ist."
+    }
+  ],
+  "offen": [
+    "Die Mannheimer Zweckentfremdungsverbotssatzung (in Kraft seit 15.10.2021, befristet auf fünf Jahre) wurde bewusst nicht verwendet, weil sie Mitte Oktober 2026 ausläuft und eine Verlängerung nicht belegt ist.",
+    "Brandschutz-Zuständigkeit (Feuerwehr Mannheim, vorbeugender Brandschutz) wurde nicht recherchiert und im Text nur im Einstieg allgemein erwähnt.",
+    "Ob die Gestaltungsberatung für reine Innenausbauten angeboten wird, ist offen; die Stadt nennt sie im Zusammenhang mit Bauanträgen „kostenlos“."
+  ]
+}

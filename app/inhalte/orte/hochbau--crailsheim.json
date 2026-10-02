@@ -1,0 +1,88 @@
+{
+  "leistung": "hochbau",
+  "ort": "crailsheim",
+  "ortName": "Crailsheim",
+  "kreis": "Schwäbisch Hall",
+  "title": "Bauunternehmen Crailsheim – kostenlos vermittelt",
+  "description": "Hausbau in Crailsheim: digitaler Bauantrag bei der Stadt, Bauplätze mit kalter Nahwärme, Baulücken und Bodenrichtwerte. Bauunternehmen kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Crailsheim",
+  "einstieg": "In Crailsheim wächst der Bedarf an Wohnraum, und die Stadt setzt dabei sowohl auf neue Baugebiete wie die Grundwegsiedlung in Altenmünster als auch auf Baulücken im Bestand. Wer hier ein Einfamilienhaus, ein Doppelhaus oder einen Ersatzneubau plant, hat mit der Stadt als Baurechtsbehörde, mit einem eigenen Vergabeverfahren für Bauplätze und mit einem Gutachterausschuss für den ganzen Altkreis zu tun.",
+  "abschnitte": [
+    {
+      "h2": "Bauantrag bei der Stadt Crailsheim: nur über das Virtuelle Bauamt",
+      "text": "Untere Baurechtsbehörde ist in Crailsheim die Stadt selbst, zuständig ist das Sachgebiet Baurecht. Bauanträge nimmt die Stadt nach eigenen Angaben ausschließlich über das Virtuelle Bauamt Baden-Württemberg an; Anträge per Post oder E-Mail werden zurückgewiesen. Bauherren benötigen dafür eine BundID oder ihr ELSTER-Konto, Architekten ein Unternehmenskonto. Ob für ein Grundstück ein Bebauungsplan gilt, zeigt das BürgerGIS der Stadt, das Bebauungspläne und Flächennutzungsplan für alle Stadtteile online bereitstellt. Für Grundstücke, auf denen sich die notwendigen Stellplätze nicht herstellen lassen, hat der Gemeinderat im September 2026 neue Richtlinien zur Ablösung der Stellplatzpflicht beschlossen."
+    },
+    {
+      "h2": "Grundwegsiedlung Altenmünster: Bauplätze mit kalter Nahwärme",
+      "text": "Das Wohnbaugebiet Grundwegsiedlung grenzt südlich an Altenmünster und umfasst rund 8,5 Hektar. Die Stadt vergibt die Wohnbauplätze dort mit Selbstnutzungsverpflichtung, auch Modulhaus- und Doppelhausplätze, und zwar nach dem zeitlichen Eingang der Vormerkungen; der Beginn der Vormerkung wird im Stadtblatt und auf der Website angekündigt. Das Gebiet ist mit Wasser, Strom und kalter Nahwärme der Stadtwerke Crailsheim erschlossen. Diese Anschlusskosten sind nicht im Grundstückspreis enthalten, der Baukostenzuschuss für die kalte Nahwärme ist direkt nach dem Kaufvertrag fällig."
+    },
+    {
+      "h2": "Baulücke statt grüner Wiese: Innenentwicklung und Bodenwert",
+      "text": "Mit dem Programm „Innen vor Außen“ fördert die Stadt den Abbruch alter Gebäude, wenn das Grundstück dadurch für eine neue Wohnbebauung frei wird. Bodenrichtwerte ermittelt der interkommunale Gutachterausschuss „Altkreis Crailsheim“ mit 13 Städten und Gemeinden; seine Geschäftsstelle sitzt im Ressort Stadtentwicklung, die Werte sind im BürgerGIS einsehbar. Wenn Grundstück und Vorhaben feststehen, können Sie Ihre Anfrage über unser Formular schildern. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Bauanträge sind in Crailsheim digital bei der unteren Baurechtsbehörde, der Stadt Crailsheim, über das Virtuelle Bauamt ViBa BW einzureichen; Anträge per Post oder E-Mail werden nicht bearbeitet.",
+      "quelle": "Stadt Crailsheim – Virtuelles Bauamt",
+      "url": "https://www.crailsheim.de/rathaus/stadtentwicklung/virtuelles+bauamt",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Als zuständige Stelle für Baugenehmigungen nennt die Stadt Crailsheim ihr Sachgebiet Baurecht.",
+      "quelle": "Stadt Crailsheim – Baugenehmigung beantragen",
+      "url": "https://www.crailsheim.de/-/dienstleistungen/baugenehmigung-beantragen/vbid431",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Wohnbaugebiet Grundwegsiedlung in Altenmünster ist 8,5 Hektar groß und mit Wasser, Strom und kalter Nahwärme erschlossen; Wohnbauplätze mit Selbstnutzungsverpflichtung werden nach zeitlichem Eingang der Vormerkungen vergeben.",
+      "quelle": "Stadt Crailsheim – Baugebiet Grundwegsiedlung",
+      "url": "https://www.crailsheim.de/service/crailsheimer+_+neubuerger/bauplaetze/baugebiet+grundwegsiedlung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das BürgerGIS der Stadt Crailsheim stellt Bebauungspläne und Flächennutzungsplan für das gesamte Stadtgebiet mit allen Stadtteilen online bereit.",
+      "quelle": "Stadt Crailsheim – BürgerGIS",
+      "url": "https://www.crailsheim.de/rathaus/stadtentwicklung/buergergis",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der interkommunale Gutachterausschuss „Altkreis Crailsheim“ umfasst 13 Städte und Gemeinden; die Geschäftsstelle ist bei der Stadtverwaltung Crailsheim im Ressort Stadtentwicklung, die Bodenrichtwerte sind im BürgerGIS einsehbar.",
+      "quelle": "Stadt Crailsheim – Interkommunaler Gutachterausschuss",
+      "url": "https://www.crailsheim.de/rathaus/stadtentwicklung/interkommunaler+gutachterausschuss",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Mit dem Förderprogramm „Innen vor Außen“ fördert die Stadt Crailsheim Abbruchmaßnahmen, die ein Grundstück für eine neue Wohnbebauung freiräumen.",
+      "quelle": "Stadt Crailsheim – Wohnraumoffensive & Innen vor Außen",
+      "url": "https://www.crailsheim.de/rathaus/stadtentwicklung/wohnraumoffensive",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Gemeinderat hat am 23. September 2026 Richtlinien über die Ablösung der Stellplatzverpflichtung nach § 37 Abs. 6 LBO beschlossen; sie gelten, wenn sich notwendige Stellplätze nicht oder nur unter großen Schwierigkeiten herstellen lassen.",
+      "quelle": "Stadt Crailsheim – Richtlinien über die Ablösung der Stellplatzverpflichtung",
+      "url": "https://www.crailsheim.de/abloesung+stellplatzverpflichtung",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ich meinen Bauantrag in Crailsheim noch auf Papier abgeben?",
+      "a": "Nein. Nach Angaben der Stadt werden Bauanträge nur noch über das Virtuelle Bauamt angenommen. Für die nötigen Konten empfiehlt die Stadt mindestens 14 Tage Vorlauf."
+    },
+    {
+      "q": "Wie werden in Crailsheim Bauplätze für Selbstnutzer vergeben?",
+      "a": "Über eine Vormerkung beim Ressort Immobilienmanagement; in der Grundwegsiedlung zählt der zeitliche Eingang. Den Start der Vormerkung kündigt die Stadt im Stadtblatt und auf ihrer Website an."
+    },
+    {
+      "q": "Was bedeutet kalte Nahwärme für meinen Neubau in der Grundwegsiedlung?",
+      "a": "Das Gebiet wird über ein kaltes Nahwärmenetz der Stadtwerke versorgt, an das eine Wärmepumpe im Haus angeschlossen wird. Details und Kosten nennt das Infoblatt der Stadtwerke Crailsheim."
+    }
+  ],
+  "offen": [
+    "Die Stadtseite nennt für die Grundwegsiedlung konkrete Grundstückspreise und Anschlusskosten; sie wurden bewusst nicht übernommen (Momentangaben).",
+    "Fördersatz und Höchstbetrag von „Innen vor Außen“ stehen auf der Stadtseite (40 %, max. 10.000 €), wurden aber nicht in den Text übernommen.",
+    "Dass im Gebiet eine Wärmepumpe „die vorgesehene Lösung“ ist, folgt aus „Hausanschluss- und Wärmepumpenkosten“ auf der Stadtseite; eine ausdrückliche Anschlusspflicht wurde nicht geprüft.",
+    "Zum Hochwasser an der Jagst wurde keine städtische Quelle gesucht."
+  ]
+}

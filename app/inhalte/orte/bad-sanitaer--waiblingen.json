@@ -1,0 +1,94 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "waiblingen",
+  "ortName": "Waiblingen",
+  "kreis": "Rems-Murr-Kreis",
+  "title": "Badsanierung Waiblingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Waiblingen: fünf Wasserzonen von 9 bis 14 °dH, Entwässerungsantrag bei der Stadt, Beratung im Kreis. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Waiblingen",
+  "einstieg": "Ob Altbau in der Kernstadt, Doppelhaushälfte in Hohenacker oder Einfamilienhaus in Hegnach: Bei einer Badsanierung in Waiblingen hängt schon die Wasserhärte davon ab, in welchem Stadtteil das Haus steht. Wer Leitungen neu führt oder den Kanalanschluss ändert, hat es außerdem mit dem Eigenbetrieb Stadtentwässerung zu tun.",
+  "abschnitte": [
+    {
+      "h2": "Landeswasser, Bodenseewasser, Eigenwasser: fünf Versorgungsgebiete",
+      "text": "Die Stadtwerke Waiblingen verteilen Wasser aus drei Quellen: Landeswasser aus dem Donauried für Mittel- und Hochzone der Kernstadt sowie Beinstein, Hohenacker und Neustadt, Bodenseewasser für Hegnach und eine Mischung aus Landes- und Eigenwasser für die Niederzone der Kernstadt und Bittenfeld. Entsprechend unterscheidet sich die Härte: Hegnach liegt bei 9,1 °dH, die übrigen Gebiete zwischen 13,3 und 13,7 °dH. Alle Werte zählen zum Härtebereich „mittel“. Welches Gebiet für die eigene Adresse gilt, zeigt eine interaktive Karte der Stadtwerke."
+    },
+    {
+      "h2": "Neue Leitungen im Bad: Hinweise von Stadtwerken und Stadtentwässerung",
+      "text": "Die Stadtwerke Waiblingen empfehlen in ihren Installationstipps, selten genutzte Leitungen, etwa zu einem Gästebad, mindestens einmal im Monat durchzuspülen und nicht mehr genutzte Leitungen aus hygienischen Gründen von der übrigen Installation zu trennen. Für Änderungen an der Grundstücksentwässerung sieht die Stadt einen Entwässerungsantrag beim Eigenbetrieb Stadtentwässerung vor. Muss ein neuer Hausanschluss hergestellt werden, dürfen die Arbeiten im öffentlichen Bereich nur von einem Unternehmen ausgeführt werden, das die Stadt beauftragt; die Kosten trägt der Grundstückseigentümer."
+    },
+    {
+      "h2": "Barrierearm umbauen: Beratung im Rems-Murr-Kreis",
+      "text": "Für ein Bad, das auch mit Rollator oder Pflegebedarf funktioniert, berät der Pflegestützpunkt des Rems-Murr-Kreises kostenlos und trägerunabhängig zu allen Fragen im Umfeld der Pflege. Geht es zusätzlich um Warmwasser, Wärmepumpe oder Solarthermie, bietet die Energieagentur Rems-Murr in ihrem Büro im Waiblinger Industriegebiet Eisental kostenlose, herstellerneutrale Energieberatungen an. Wenn Sie wissen, was Sie umbauen möchten, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadtwerke Waiblingen geben für fünf Versorgungsgebiete Härten von 13,3 bis 13,7 °dH an, für Hegnach 9,1 °dH; alle liegen im Härtebereich mittel.",
+      "quelle": "Stadtwerke Waiblingen – Wasser",
+      "url": "https://www.stadtwerke-waiblingen.de/Privatkunden/Trinkwasser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Waiblingen bezieht Landeswasser (Donauried) und Bodenseewasser und verteilt zusätzlich Eigenwasser; Hegnach erhält Bodenseewasser, die Niederzone der Kernstadt und Bittenfeld eine Mischung aus Landes- und Eigenwasser.",
+      "quelle": "Stadtwerke Waiblingen – Wasser",
+      "url": "https://www.stadtwerke-waiblingen.de/Privatkunden/Trinkwasser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut den Installationstipps der Stadtwerke sollten selten genutzte Leitungen mindestens monatlich durchgespült und nicht mehr genutzte Leitungen von der Trinkwasserinstallation getrennt werden.",
+      "quelle": "Stadtwerke Waiblingen – Installationstipps Trinkwasser",
+      "url": "https://www.stadtwerke-waiblingen.de/resources/01%20Website/Unterseiten/Wasser/Trinkwasseranalyse/Installationstipps%20Trinkwasser.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für Neubau, Umbau oder Änderungen an der Grundstücksentwässerung ist in Waiblingen ein Entwässerungsantrag beim Eigenbetrieb Stadtentwässerung vorgesehen, der ihn fachlich prüft und genehmigt.",
+      "quelle": "Stadt Waiblingen – Entwässerungsgesuch",
+      "url": "https://www.waiblingen.de/de/Das-Rathaus/Buergerservice/Stadtentwaesserung/entwaesserungsgesuch",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Arbeiten an einem neuen Hausanschluss im öffentlichen Bereich führt in Waiblingen ausschließlich ein von der Stadt beauftragtes Unternehmen aus; die Kosten trägt der Grundstückseigentümer.",
+      "quelle": "Stadt Waiblingen – Entwässerungsgesuch",
+      "url": "https://www.waiblingen.de/de/Das-Rathaus/Buergerservice/Stadtentwaesserung/entwaesserungsgesuch",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Waiblingen nennt Regenwasserzisternen für Gartenbewässerung und Toilettenspülung als Möglichkeit, den Trinkwasserverbrauch zu senken.",
+      "quelle": "Stadt Waiblingen – Wasser & Abwasser",
+      "url": "https://www.waiblingen.de/de/Die-Stadt/Unsere-Stadt/Nachhaltigkeit-Umwelt/Wasser-Abwasser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Energieagentur Rems-Murr, bei der Waiblingen Mitglied ist, bietet kostenlose, produkt- und herstellerneutrale Energieberatungen in Waiblingen (Gewerbestraße 11) an, in Kooperation mit der Verbraucherzentrale.",
+      "quelle": "Stadt Waiblingen – Energieagentur Rems-Murr",
+      "url": "https://www.waiblingen.de/de/Die-Stadt/Unsere-Stadt/Nachhaltigkeit-Umwelt/Energie-Klimaschutz/Energieagentur",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt Rems-Murr-Kreis berät kostenlos und trägerunabhängig zu allen Fragen im Vor- und Umfeld der Pflege; Träger sind der Landkreis und die gesetzlichen Kranken- und Pflegekassen.",
+      "quelle": "Landratsamt Rems-Murr-Kreis – Pflegestützpunkt",
+      "url": "https://www.rems-murr-kreis.de/jugend-gesundheit-und-soziales/senioren/pflegestuetzpunkt",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Wasser in Waiblingen und seinen Ortschaften?",
+      "a": "In Hegnach 9,1 °dH, in der Kernstadt, Beinstein, Hohenacker, Neustadt und Bittenfeld zwischen 13,3 und 13,7 °dH. Das zuständige Versorgungsgebiet zeigt die Karte der Stadtwerke Waiblingen."
+    },
+    {
+      "q": "Brauche ich in Waiblingen einen Entwässerungsantrag, wenn ich das Bad verlege?",
+      "a": "Für Änderungen an der Grundstücksentwässerung sieht die Stadt einen Entwässerungsantrag beim Eigenbetrieb Stadtentwässerung vor. Ob ein Badumbau darunter fällt, beantwortet die Stadtentwässerung."
+    },
+    {
+      "q": "Wo bekomme ich im Raum Waiblingen eine neutrale Beratung zum Bad im Alter?",
+      "a": "Beim Pflegestützpunkt des Rems-Murr-Kreises, der kostenlos und trägerunabhängig berät. Zu Warmwasser und Heizung berät die Energieagentur Rems-Murr in Waiblingen."
+    }
+  ],
+  "offen": [
+    "Ein städtisches Merkblatt zur Rückstausicherung ist laut Stadt „in Bearbeitung“; Rückstauebene und Pflichten wurden deshalb nicht aus der Abwassersatzung 2026 zitiert (Satzungstext nicht gelesen).",
+    "Ob ein reiner Badumbau ohne Änderung der Grundleitungen einen Entwässerungsantrag braucht, ist auf der Seite nicht ausdrücklich geregelt.",
+    "Der Standort des Pflegestützpunkts Rems-Murr-Kreis (Waiblingen, Backnang, Schorndorf?) ist auf der Kreisseite nicht im Inhalt genannt.",
+    "Ortsteilnennungen im Einstieg (Hohenacker, Hegnach) stammen aus der Seite der Stadtwerke, die Charakterisierung der Bebauung ist nicht belegt."
+  ]
+}

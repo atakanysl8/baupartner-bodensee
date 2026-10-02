@@ -1,0 +1,81 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "sinsheim",
+  "ortName": "Sinsheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "title": "Badsanierung Sinsheim – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Sinsheim: vier Versorgungsgebiete mit 9 bis 21 °dH, Pflegestützpunkt in der Muthstraße, DRK-Wohnberatung. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Sinsheim",
+  "einstieg": "Ob Altbau in der Kernstadt, Einfamilienhaus in Steinsfurt oder Bauernhaus in Waldangelloch: Beim Badumbau in Sinsheim lohnt zuerst ein Blick darauf, aus welcher Leitung das Wasser kommt. Die Stadt ist in mehrere Versorgungsgebiete mit sehr unterschiedlicher Härte aufgeteilt. Hinzu kommen Fragen zu Abwasser und zum barrierearmen Umbau, für die es im Ort eigene Anlaufstellen gibt.",
+  "abschnitte": [
+    {
+      "h2": "Vier Versorgungsgebiete: von Bodenseewasser bis Eigenwasser",
+      "text": "Die Stadtwerke Sinsheim, ein Eigenbetrieb der Stadt, mischen Wasser aus eigenen Quellen mit Wasser der Bodenseewasserversorgung. Daraus ergeben sich deutliche Unterschiede: In der Kernstadt, in Adersbach, Ehrstädt, Hasselbach, Reihen, Rohrbach, Steinsfurt und Hoffenheim liegt die Härte bei 20,7 °dH, also im harten Bereich. Dühren, Hilsbach, Waldangelloch und Weiler erhalten reines Bodenseewasser mit 9,3 °dH. Eschelbach wird über den Zweckverband Gruppenwasserversorgung Hohberg versorgt und kommt auf 19 °dH. Für die Badplanung heißt das: Wer in den harten Gebieten wohnt, hat mehr mit Kalk an Duschglas, Armaturen und im Warmwasserspeicher zu tun und denkt eher über eine Enthärtung nach; in den Bodenseewasser-Stadtteilen ist das in der Regel weniger dringend."
+    },
+    {
+      "h2": "Abwasser und Kanal: Eigenbetrieb Stadtwerke als Ansprechpartner",
+      "text": "Die Stadtwerke sind nicht nur Wasserversorger, sondern auch für die Abwasserbeseitigung zuständig und betreiben drei Kläranlagen mit rund 450 Kilometern Kanalisation. Wer ein Bad ins Untergeschoss verlegt oder neue Entwässerungsgegenstände unterhalb der Straße anschließt, sollte deshalb früh dort nachfragen, wie Anschluss und Rückstausicherung zu lösen sind. Die Stadt hat für alle Stadtteile Starkregengefahrenkarten erstellen lassen und verweist dazu auf Informationen zu Grundstücksentwässerung und Rückstausicherung. Gerade bei Kellerbädern in Senken oder an Hängen ist ein Blick in diese Karten sinnvoll."
+    },
+    {
+      "h2": "Altersgerecht umbauen: Pflegestützpunkt und Wohnberatung",
+      "text": "Die Beratungsstelle Sinsheim des Pflegestützpunkts Rhein-Neckar-Kreis in der Muthstraße nennt Wohnraumanpassung und Unfallvermeidung ausdrücklich als Beratungsthema; die Beratung ist kostenfrei. Zusätzlich verweist die Stadt auf die kostenlose Wohnberatung des Deutschen Roten Kreuzes zu barrierefreiem Wohnen und Wohnungsanpassung. Häufige Themen sind eine bodengleiche Dusche, ein erhöhtes WC oder Haltegriffe; welche Lösung passt, hängt von Grundriss und Bedarf ab. Steht fest, was umgebaut werden soll, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "In Sinsheim, Adersbach, Ehrstädt, Hasselbach, Rohrbach, Reihen, Steinsfurt und Hoffenheim beträgt die Wasserhärte 3,70 mmol/l (20,7 °dH); das Wasser ist je zur Hälfte Eigenwasser und Bodenseewasser.",
+      "quelle": "Stadtwerke Sinsheim – Wasserqualität",
+      "url": "https://www.sinsheim.de/leben-gesellschaft/ver-entsorgung/stadtwerke/wasser/wasserqualitaet",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Dühren, Hilsbach, Waldangelloch und Weiler werden mit Wasser der Bodenseewasserversorgung beliefert (1,66 mmol/l, 9,3 °dH); Eschelbach erhält Wasser des Zweckverbands Gruppenwasserversorgung Hohberg mit 19 °dH.",
+      "quelle": "Stadtwerke Sinsheim – Wasserqualität",
+      "url": "https://www.sinsheim.de/leben-gesellschaft/ver-entsorgung/stadtwerke/wasser/wasserqualitaet",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Sinsheim sind ein Eigenbetrieb der Stadt und für Wasserversorgung und Abwasserbeseitigung zuständig; sie betreiben drei Kläranlagen mit rund 450 Kilometern Kanalisation.",
+      "quelle": "Stadt Sinsheim – Stadtwerke Sinsheim",
+      "url": "https://www.sinsheim.de/leben-gesellschaft/ver-entsorgung/stadtwerke/ueber-uns",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Sinsheim hat Starkregengefahrenkarten für Kernstadt und Stadtteile erstellen lassen und stellt dazu Bürgerinformationen zu Grundstücksentwässerung und Rückstausicherung bereit.",
+      "quelle": "Stadt Sinsheim – Starkregengefahrenkarten",
+      "url": "https://www.sinsheim.de/leben-gesellschaft/bevoelkerungsschutz/starkregen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Beratungsstelle Sinsheim des Pflegestützpunkts Rhein-Neckar-Kreis (Muthstraße 4) berät kostenfrei, unter anderem zu Wohnraumanpassung und Unfallvermeidung.",
+      "quelle": "Stadt Sinsheim – Pflegestützpunkt",
+      "url": "https://www.sinsheim.de/leben-gesellschaft/gesundheit-pflege/pflegestuetzpunkt",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Sinsheim verweist für barrierefreies Wohnen und Wohnungsanpassung auf die kostenlose Wohnberatung des Deutschen Roten Kreuzes.",
+      "quelle": "Stadt Sinsheim – Wohnen im Alter",
+      "url": "https://www.sinsheim.de/leben-gesellschaft/senioren/wohnen-im-alter",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Wasser in meinem Sinsheimer Stadtteil?",
+      "a": "In der Kernstadt und den meisten Stadtteilen 20,7 °dH, in Eschelbach 19 °dH. Dühren, Hilsbach, Waldangelloch und Weiler erhalten Bodenseewasser mit 9,3 °dH."
+    },
+    {
+      "q": "Wer ist in Sinsheim für Kanal und Hausanschluss zuständig?",
+      "a": "Die Abwasserbeseitigung liegt beim Eigenbetrieb Stadtwerke Sinsheim. Dort gibt es Auskunft zu Anschluss und Entwässerung bei einem Umbau."
+    },
+    {
+      "q": "Wo bekomme ich in Sinsheim Beratung zur Wohnraumanpassung?",
+      "a": "Bei der Beratungsstelle des Pflegestützpunkts Rhein-Neckar-Kreis in der Muthstraße 4 sowie bei der Wohnberatung des Deutschen Roten Kreuzes; beide Angebote sind kostenlos."
+    }
+  ],
+  "offen": [
+    "Ortsteil-Beispiele im Einstieg (Steinsfurt, Waldangelloch) sind nur Einordnung.",
+    "Abwassersatzung Sinsheim (PDF) war nicht maschinenlesbar; konkrete Regelung zur Rückstauebene daher nicht zitiert, nur allgemein auf Rückfrage bei den Stadtwerken verwiesen.",
+    "Ob die DRK-Wohnberatung ihren Sitz in Sinsheim hat, nicht geprüft; die Stadt verweist nur darauf."
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "schorndorf",
+  "ortName": "Schorndorf",
+  "kreis": "Rems-Murr-Kreis",
+  "title": "Badsanierung Schorndorf – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Schorndorf: Wasserhärte je Versorgungszone, Starkregen und Kellerbad, Wohnberatung für den barrierefreien Umbau. Betrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Schorndorf",
+  "einstieg": "Schorndorf liegt an der Rems, mit Teilorten wie Haubersbronn, Miedelsbach oder Oberberken. Für ein neues Bad heißt das: Das Wasser kommt je nach Zone aus eigenen Quellen oder von der Landeswasserversorgung, und wer im Untergeschoss baut, denkt seit dem Starkregen von 2024 besonders an den Schutz vor Wasser von außen.",
+  "abschnitte": [
+    {
+      "h2": "Härte nach Versorgungszone: von 13 °dH bis 23,6 °dH am Holzberg",
+      "text": "Die Stadtwerke Schorndorf versorgen das Stadtgebiet mit Eigenwasser aus 21 Schorndorfer Quellen und mit Fernwasser der Landeswasserversorgung. Für jede Versorgungszone veröffentlichen sie eine eigene Trinkwasseranalyse. Nach den Analysen von 2025 liegt die Gesamthärte in den meisten Zonen zwischen 13,0 und 14,3 °dH. Deutlich heraus fällt die Zone Holzberg mit 23,6 °dH. Für ein Bad in dieser Zone ist Kalk ein echtes Planungsthema: Thermostatarmaturen, Brauseköpfe, Glasabtrennungen und Warmwasserbereiter setzen schneller zu. Welche Zone für die eigene Adresse gilt, zeigt der Übersichtslageplan auf der Website der Stadtwerke."
+    },
+    {
+      "h2": "Bad im Untergeschoss: Lehren aus dem Starkregen 2024",
+      "text": "Anfang Juni 2024 wurden nach Angaben der Stadt die Ortsteile Miedelsbach, Haubersbronn und Schornbach sowie Teile der Nordstadt durch Starkregen überflutet. Die Stadt hat eine Starkregengefahrenkarte erstellt. Wer im Keller ein Bad, eine Dusche oder einen Waschraum einbauen möchte, sollte die Lage des Hauses in dieser Karte kennen und die Rückstausicherung der Ablaufstellen gleich mitplanen. Die Stadt rät, Rückstauklappen vor einem Starkregen zu kontrollieren. Beratung zu Vorsorge bei Umbau und Bestand bieten der Fachbereich Infrastruktur und die Stadtentwässerung Schorndorf an."
+    },
+    {
+      "h2": "Barrierefrei umbauen mit der Wohnberatung des Seniorenforums",
+      "text": "Für den Umbau zu einem Bad ohne Schwelle nennt die Stadt mehrere Anlaufstellen: Die Wohnberatung des Seniorenforums Schorndorf gibt fachkundige Tipps zur Planung, in der Regel ohne Beratungsgebühren. Der Sozialverband VdK Ortsverband Schorndorf berät seine Mitglieder durch eine ausgebildete Wohnberaterin, und der Pflegestützpunkt Schorndorf berät bei drohender Pflegebedürftigkeit kostenlos zum barrierefreien Wohnen. Wenn Ihr Vorhaben feststeht, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadtwerke Schorndorf versorgen das Stadtgebiet mit Eigenwasser aus Schorndorfer Quellen und Fernwasser der Landeswasserversorgung; dazu gehören 13 Wasserbehälter, 3 Wassertürme, 21 Quellen und 8 Pumpwerke.",
+      "quelle": "Stadtwerke Schorndorf – Wasser",
+      "url": "https://stadtwerke-schorndorf.de/wasser/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für die Zone Holzberg weist die Trinkwasseranalyse 2025 der Stadtwerke Schorndorf eine Gesamthärte von 23,6 °dH aus.",
+      "quelle": "Stadtwerke Schorndorf – Trinkwasseranalyse 2025 Zone Holzberg",
+      "url": "https://stadtwerke-schorndorf.cdn.prismic.io/stadtwerke-schorndorf/aUE9z3NYClf9oP-b_251210_Trinkwasseranalyse-2025_Schorndorf-Holzberg.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In den übrigen Versorgungszonen liegt die Gesamthärte laut den Analysen 2025 zwischen 13,0 und 14,3 °dH, in der Zone Röhrach zum Beispiel bei 13,9 °dH.",
+      "quelle": "Stadtwerke Schorndorf – Trinkwasseranalyse 2025 Zone Röhrach",
+      "url": "https://stadtwerke-schorndorf.cdn.prismic.io/stadtwerke-schorndorf/aUE9JXNYClf9oP6h_251210_Trinkwasseranalyse-2025_Schorndorf-R%C3%B6hrach.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bei der Flut Anfang Juni 2024 wurden die Ortsteile Miedelsbach, Haubersbronn und Schornbach sowie Teile der Schorndorfer Nordstadt durch Starkregen überflutet; die Stadt rät unter anderem, Rückstauklappen im Keller zu kontrollieren.",
+      "quelle": "Stadt Schorndorf – Vorsorge und Verhalten bei Hochwasser und Starkregen",
+      "url": "https://www.schorndorf.de/de/stadt-buerger/rathaus/notfallvorsorge/vorsorge-und-verhalten-bei-hochwasser",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Schorndorf hat eine Starkregengefahrenkarte erstellt; zur Vorsorge bei Neubau, Umbau und Bestand beraten der Fachbereich Infrastruktur und die Stadtentwässerung Schorndorf.",
+      "quelle": "Stadt Schorndorf – Gewässer, Hochwasserschutz und Starkregen",
+      "url": "https://www.schorndorf.de/de/wirtschaft-bauen/bauen-wohnen/gewaesser-hochwasserschutz-starkregen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für den barrierefreien Umbau nennt die Stadt die Wohnberatung des Seniorenforums Schorndorf, bei der in der Regel keine Beratungsgebühren anfallen, die Wohnberaterin des VdK-Ortsverbands und den Pflegestützpunkt Schorndorf.",
+      "quelle": "Stadt Schorndorf – Barrierefreies Bauen",
+      "url": "https://www.schorndorf.de/de/wirtschaft-bauen/bauen-wohnen/bauen/barrierefreies-bauen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Als Fördermöglichkeiten für barrierefreies Bauen verweist die Stadt Schorndorf auf Programme der KfW und der L-Bank, darunter die Zusatzfinanzierung Barrierefreiheit.",
+      "quelle": "Stadt Schorndorf – Barrierefreies Bauen",
+      "url": "https://www.schorndorf.de/de/wirtschaft-bauen/bauen-wohnen/bauen/barrierefreies-bauen",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Wasser in Schorndorf?",
+      "a": "In den meisten Versorgungszonen zwischen 13 und gut 14 °dH, in der Zone Holzberg nach der Analyse 2025 bei 23,6 °dH. Die Analyse für die eigene Zone stellen die Stadtwerke Schorndorf online bereit."
+    },
+    {
+      "q": "Was sollte ich bei einem Kellerbad in Schorndorf wegen Starkregen beachten?",
+      "a": "Hilfreich ist ein Blick in die Starkregengefahrenkarte der Stadt und eine Rückstausicherung für tiefliegende Abläufe. Beratung bieten der Fachbereich Infrastruktur und die Stadtentwässerung Schorndorf."
+    },
+    {
+      "q": "Wer berät in Schorndorf zum barrierefreien Bad?",
+      "a": "Die Wohnberatung des Seniorenforums Schorndorf, für Mitglieder die Wohnberaterin des VdK und bei Pflegebedarf der Pflegestützpunkt Schorndorf."
+    }
+  ],
+  "offen": [
+    "Die Härtewerte der übrigen Zonen wurden aus den gescannten Analyse-PDFs abgelesen (Buhlbronn, Mannshaupten, Schornbach je 13,0; Oberberken 13,3; Weiler 13,5; Steinmäurich 13,6; Röhrach 13,9; Unterberken 14,3 °dH); für Haubersbronn, Miedelsbach, Ottilienberg und Schlichten war der Wert im Ausschnitt nicht lesbar, Calcium/Magnesium liegen aber im selben Bereich.",
+    "Eine Abwassersatzung der Stadt Schorndorf (Rückstauebene, Genehmigung für Änderungen der Grundstücksentwässerung) wurde nicht gefunden und nicht zitiert."
+  ]
+}

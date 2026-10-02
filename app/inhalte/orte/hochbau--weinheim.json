@@ -1,0 +1,87 @@
+{
+  "leistung": "hochbau",
+  "ort": "weinheim",
+  "ortName": "Weinheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "title": "Bauunternehmen Weinheim – kostenlos vermittelt",
+  "description": "Neubau, Anbau oder Umbau in Weinheim: Baurechtsamt, Bebauungspläne, Gesamtanlage Altstadt und Bodenrichtwerte im Überblick. Kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Weinheim",
+  "einstieg": "Zwischen Rheinebene und Odenwald reicht das Bauen in Weinheim vom Doppelhaus im Neubaugebiet bis zum Umbau in der mittelalterlichen Altstadt. Wer hier neu baut, anbaut oder ein Bestandsgebäude erweitert, hat es mit einem eigenen städtischen Baurechtsamt, zahlreichen Bebauungsplänen für Kernstadt und Ortsteile und einer unter Denkmalschutz gestellten Gesamtanlage zu tun.",
+  "abschnitte": [
+    {
+      "h2": "Baurecht in Weinheim: Amt für Baurecht und Denkmalschutz im Schloss",
+      "text": "Die Stadtverwaltung Weinheim ist eigenständige untere Baurechtsbehörde. Bauanträge laufen deshalb nicht über das Landratsamt in Heidelberg, sondern über das Amt für Baurecht und Denkmalschutz im Rathaus Schloss. Die Bauverständigen bieten feste Sprechzeiten an, und die Stadt empfiehlt ein Gespräch vorab, um spätere Verfahren wegen Konflikten mit Satzungen oder Gesetzen zu vermeiden. Auch verfahrensfreie Vorhaben nach der Landesbauordnung müssen die öffentlich-rechtlichen Vorschriften einhalten. Welcher Bebauungsplan für ein Flurstück gilt, lässt sich für Kernstadt und Ortsteile großteils online nachsehen; bei älteren Plänen gibt das Amt Auskunft. Liegt ein Grundstück in einem Sanierungsgebiet, ist neben der Baugenehmigung eine eigene sanierungsrechtliche Genehmigung vorgesehen."
+    },
+    {
+      "h2": "Altstadt und Innenstadt: Gesamtanlage, Gestaltungssatzung, Stellplätze",
+      "text": "Die mittelalterliche Neustadt, heute die Altstadt, steht samt Schlosspark, Hermannshof und Schlossberg mit der Burg Windeck als „Gesamtanlage Weinheim“ unter Denkmalschutz. Veränderungen am geschützten Bild bedürfen nach der Satzung der Genehmigung der Stadt als unterer Denkmalschutzbehörde, auch wenn keine Baugenehmigung nötig ist; das betrifft etwa Dachaufbauten, Fenster, Fassadenfarbe oder sichtbare Solaranlagen. Für die Innenstadt gilt zusätzlich eine Gestaltungssatzung, die beim Amt für Baurecht und Denkmalschutz eingesehen werden kann. Wo Stellplätze nicht oder nur schwer herzustellen sind, kann die Pflicht nach einer städtischen Satzung mit Zustimmung der Stadt abgelöst werden; die Beträge sind nach Stadtteilen gestaffelt, einen Rechtsanspruch darauf gibt es nicht."
+    },
+    {
+      "h2": "Bauplatz und Bodenwert: Allmendäcker und Gutachterausschuss",
+      "text": "Städtische Bauplätze vergibt Weinheim nur in einzelnen Gebieten; über das jeweils aktuelle Angebot, etwa im Neubaugebiet Allmendäcker nahe dem Waidsee, informiert die Stadt. Für die Einschätzung von Grundstückspreisen ist der Gutachterausschuss Nördlicher Rhein-Neckar-Kreis zuständig, dessen Geschäftsstelle beim Amt für Vermessung, Bodenordnung und Geoinformation der Stadt sitzt. Die Bodenrichtwerte selbst lassen sich zudem über das Landesportal BORIS-BW abrufen. Steht Ihr Vorhaben fest, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadtverwaltung Weinheim ist eigenständige untere Baurechtsbehörde; zuständig ist das Amt für Baurecht und Denkmalschutz, das Bauverständige mit festen Sprechzeiten bereithält.",
+      "quelle": "Stadt Weinheim – Bauherrenberatung",
+      "url": "https://www.weinheim.de/startseite/buergerservice/Bauherrenberatung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Liegt ein Vorhaben in einem Weinheimer Sanierungsgebiet, ist neben der Baugenehmigung eine sanierungsrechtliche Genehmigung in einem getrennten Verfahren vorgesehen.",
+      "quelle": "Stadt Weinheim – Bauherrenberatung",
+      "url": "https://www.weinheim.de/startseite/buergerservice/Bauherrenberatung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Bebauungspläne der Kernstadt und der Ortsteile sind großteils online abgebildet; welcher Plan für ein Flurstück rechtskräftig ist, beantwortet das Amt für Baurecht und Denkmalschutz.",
+      "quelle": "Stadt Weinheim – Allgemeine Informationen über Bebauungspläne",
+      "url": "https://www.weinheim.de/startseite/stadtthemen/Allgemeine+Informationen+ueber+Bebauungsplaene.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach der Gesamtanlagenschutzsatzung bedürfen Veränderungen am geschützten Bild der Altstadt der Genehmigung der Stadt als unterer Denkmalschutzbehörde, auch wenn sie keiner Baugenehmigung bedürfen.",
+      "quelle": "Stadt Weinheim – Gesamtanlagenschutzsatzung",
+      "url": "https://www.weinheim.de/site/WeinheimRoot/get/documents_E64547792/weinheim/Dateien/PDF-Dateien/I_01_Referat_OB/Satzungen/Gesamtanlagenschutz/I_01_Gesamtanlagenschutzsatzung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für die Weinheimer Innenstadt gilt eine Gestaltungssatzung, die am 9. April 2022 in Kraft getreten ist.",
+      "quelle": "Stadt Weinheim – Rechtskräftige Gestaltungssatzungen",
+      "url": "https://www.weinheim.de/startseite/stadtthemen/rechtskraeftige+gestaltungssatzungen.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Weinheim vergibt im Neubaugebiet Allmendäcker nahe dem Waidsee Bauplätze für Doppelhaushälften an private Bauherren; über das jeweils aktuelle Angebot informiert die Stadt.",
+      "quelle": "Stadt Weinheim – Verkauf städtischer Bauplätze",
+      "url": "https://www.weinheim.de/startseite/buergerservice/verkauf+staedtischer+bauplaetze.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Geschäftsstelle des Gutachterausschusses Nördlicher Rhein-Neckar-Kreis ist beim Amt für Vermessung, Bodenordnung und Geoinformation der Stadt Weinheim angesiedelt und erteilt unter anderem Auskünfte zu Bodenrichtwerten.",
+      "quelle": "Stadt Weinheim – Grundstückswertermittlung",
+      "url": "https://www.weinheim.de/startseite/buergerservice/Grundstueckswertermittlung.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist für meinen Bauantrag in Weinheim die Stadt oder das Landratsamt zuständig?",
+      "a": "Zuständig ist die Stadt Weinheim selbst; sie ist eigenständige untere Baurechtsbehörde. Ansprechpartner ist das Amt für Baurecht und Denkmalschutz."
+    },
+    {
+      "q": "Brauche ich für Arbeiten an einem Altstadthaus eine besondere Genehmigung?",
+      "a": "Im Bereich der Gesamtanlage Weinheim sind Veränderungen am geschützten Erscheinungsbild grundsätzlich genehmigungspflichtig, auch ohne Baugenehmigung. Auskunft gibt die untere Denkmalschutzbehörde der Stadt."
+    },
+    {
+      "q": "Wo erfahre ich den Bodenrichtwert für ein Grundstück in Weinheim?",
+      "a": "Beim Gutachterausschuss Nördlicher Rhein-Neckar-Kreis, dessen Geschäftsstelle in Weinheim sitzt."
+    }
+  ],
+  "offen": [
+    "Bauplatzangebot Allmendäcker ist eine Momentaufnahme (Verkaufsverfahren laut Stadt ab 01.08.2026); bei Veröffentlichung prüfen, ob noch aktuell.",
+    "Einstieg „vom Doppelhaus im Neubaugebiet bis zum Umbau in der Altstadt“ ist allgemeine Einordnung, nicht eigens belegt.",
+    "Ablösebeträge der Stellplatzsatzung (2006) bewusst nicht genannt; ob die Satzung noch unverändert gilt, nicht geprüft. Hochwasser-/Starkregenkarten für Weinheim nicht recherchiert."
+  ]
+}

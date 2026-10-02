@@ -1,0 +1,87 @@
+{
+  "leistung": "hochbau",
+  "ort": "goeppingen",
+  "ortName": "Göppingen",
+  "kreis": "Göppingen",
+  "title": "Bauunternehmen Göppingen – kostenlos vermittelt",
+  "description": "Bauen in Göppingen: städtische Baurechtsbehörde, über 300 Baulücken, Bauplatzbörse, Erbbaurecht und Gestaltungssatzung für die Innenstadt. Kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Göppingen",
+  "einstieg": "Neben Neubaugebieten spielen in Göppingen Baulücken eine große Rolle: Die Stadt zählt über 300 davon in Wohn- und Mischgebieten. Wer hier ein Haus bauen, eine Lücke schließen oder im Stadtkern ersetzen will, hat mit der städtischen Baurechtsbehörde, einer Bauplatzbörse, einem eigenen Erbbaurechtsmodell und, rund um die historische Mitte, mit einer Gestaltungssatzung zu tun.",
+  "abschnitte": [
+    {
+      "h2": "Bauantrag in Göppingen: digital bei der Stadt",
+      "text": "Untere Baurechtsbehörde ist in Göppingen die Stadt selbst, mit ihrer Abteilung Baurecht in der Nördlichen Ringstraße. Bauanträge und Bauvorlagen werden dort seit Anfang 2025 nur noch elektronisch über das Virtuelle Bauamt Baden-Württemberg angenommen; Privatpersonen melden sich dafür mit einer BundID an. Ob für ein Grundstück ein Bebauungsplan gilt, zeigt teilweise das Geoportal der Stadt, das noch im Aufbau ist. Verbindliche Planauskünfte gibt die Abteilung Stadtplanung und Stadtentwicklung auf Anfrage per E-Mail gegen eine Gebühr je Dokument. Im historischen Stadtkern gilt zusätzlich eine Gestaltungssatzung, wenn ein Vorhaben von öffentlichen Straßen und Plätzen aus sichtbar ist; der Fachbereich Stadtentwicklung bietet dazu gestalterische Beratung an."
+    },
+    {
+      "h2": "Baulücken, Bauplatzbörse und Baulandstein",
+      "text": "Die Stadt führt ein anonymes Baulückenkataster und will Lücken vorrangig schließen, statt neue Flächen im Außenbereich auszuweisen. Eigentümer können Bauplätze kostenlos in die Bauplatzbörse stellen, die der Eigenbetrieb Baulandentwicklung betreibt; Bauwillige finden dort private und städtische Angebote. Mit dem Göppinger Baulandstein hat die Stadt außerdem ein Tauschmodell entwickelt, bei dem eine Baulücke gegen eine andere Anlage, etwa eine Wohnung, getauscht werden kann. Städtische Bauplätze lassen sich auch im Erbbaurecht erwerben; nach den städtischen Rahmenbedingungen gelten dafür eine Laufzeit von 99 Jahren und eine Einkommensgrenze."
+    },
+    {
+      "h2": "Bodenwert und Hochwasser vor dem Kauf prüfen",
+      "text": "Bodenrichtwerte beschließt der gemeinsame Gutachterausschuss bei der Stadt Göppingen, der auch für Adelberg zuständig ist; ermittelt werden sie jeweils zum Ende eines geraden Kalenderjahres und in einer interaktiven Karte veröffentlicht. Für Grundstücke an Fils und Bächen verweist die Stadt auf die Hochwassergefahrenkarten des Landes. Sobald Grundstück und Vorhaben feststehen, schildern Sie Ihre Anfrage über unser Formular; wir wählen dafür einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Seit dem 1. Januar 2025 werden Bauanträge und Bauvorlagen bei der unteren Baurechtsbehörde der Stadt Göppingen elektronisch über das Virtuelle Bauamt Baden-Württemberg eingereicht; Papieranträge sind ausgeschlossen.",
+      "quelle": "Stadt Göppingen – Das virtuelle Bauamt",
+      "url": "https://www.goeppingen.de/start/informieren/digitaler+bauantrag.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In Göppingen gibt es nach Angaben der Stadt über 300 Baulücken in Wohn- und Mischgebieten, die in einem anonymen Baulückenkataster geführt werden.",
+      "quelle": "Stadt Göppingen – Baulücken und Baulandstein",
+      "url": "https://www.goeppingen.de/start/informieren/bauluecken+und+baulandstein.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Bauplatzbörse der Stadt Göppingen ist für Grundstückseigentümer und Bauinteressenten kostenlos; Angebote werden vom Eigenbetrieb Baulandentwicklung eingestellt.",
+      "quelle": "Stadt Göppingen – Bauplatzbörse",
+      "url": "https://www.goeppingen.de/start/informieren/bauplatzboerse.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Jeder Erwerber eines städtischen Bauplatzes kann diesen auch im Erbbaurecht erwerben; die Laufzeit beträgt 99 Jahre, und die Einkommensgrenze des Landeswohnraumförderprogramms darf nicht überschritten werden.",
+      "quelle": "Stadt Göppingen – Erbbaurecht",
+      "url": "https://www.goeppingen.de/start/informieren/erbbaurecht.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Planauskünfte zu Bebauungsplänen erteilt die Abteilung Stadtplanung und Stadtentwicklung per E-Mail gegen eine Gebühr je Dokument; das Geoportal enthält erst einen Teil der rechtskräftigen Pläne.",
+      "quelle": "Stadt Göppingen – Bebauungspläne",
+      "url": "https://www.goeppingen.de/start/informieren/Bebauungsplan.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Gestaltungssatzung bezieht sich vor allem auf den historischen Stadtkern und gilt bei Errichtung und wesentlicher Änderung baulicher Anlagen, die von öffentlich zugänglichen Straßen und Plätzen aus sichtbar sind.",
+      "quelle": "Stadt Göppingen – Gestaltungs- und Werbesatzung",
+      "url": "https://www.goeppingen.de/start/gestalten/Gestaltungs-+und+Werbesatzung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bodenrichtwerte werden in Göppingen zum 31. Dezember jedes geraden Kalenderjahres ermittelt und in einer interaktiven Bodenrichtwertkarte veröffentlicht.",
+      "quelle": "Stadt Göppingen – Bodenrichtwerte",
+      "url": "https://www.goeppingen.de/start/informieren/bodenrichtwerte.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ich in Göppingen einen Bauantrag noch auf Papier einreichen?",
+      "a": "Nach Angaben der Stadt nicht: Seit 1. Januar 2025 nimmt die Baurechtsbehörde Anträge nur elektronisch über das Virtuelle Bauamt an. Fragen beantwortet die Abteilung Baurecht."
+    },
+    {
+      "q": "Wie finde ich in Göppingen einen Bauplatz, wenn keine städtischen Baugebiete angeboten werden?",
+      "a": "Über die kostenlose Bauplatzbörse der Stadt, in der auch private Baulücken stehen. Ansprechpartner ist der Eigenbetrieb Baulandentwicklung Göppingen."
+    },
+    {
+      "q": "Gilt für einen Neubau in der Göppinger Innenstadt eine Gestaltungssatzung?",
+      "a": "Im historischen Stadtkern in der Regel ja, sofern das Vorhaben von öffentlichen Straßen und Plätzen aus sichtbar ist. Beratung bietet der Fachbereich Stadtentwicklung."
+    }
+  ],
+  "offen": [
+    "„Neue Baugebiete sind rar“ stützt sich auf den Hinweis der Stadt „Derzeit befinden sich keine Bauplätze in der Veräußerung“ (Seite Städtische Bauplätze) – das ist eine Momentaufnahme; ggf. abschwächen.",
+    "Der Erbbauzins (2,5 % des unerschlossenen Bauplatzpreises) und die Kaufoption nach zehn Jahren stehen auf der Stadtseite, wurden aber bewusst nicht übernommen (Beträge/Konditionen).",
+    "Hochwasser: Die Stadt verweist allgemein auf die Hochwassergefahrenkarten des Landes; eine kommunale Starkregengefahrenkarte für Göppingen wurde nicht gefunden. Die Nennung der Fils im Text ist ortskundlich, nicht aus der Quelle."
+  ]
+}

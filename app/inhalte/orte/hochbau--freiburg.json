@@ -1,0 +1,76 @@
+{
+  "leistung": "hochbau",
+  "ort": "freiburg",
+  "ortName": "Freiburg",
+  "kreis": "Freiburg im Breisgau",
+  "title": "Bauunternehmen Freiburg – kostenlos vermittelt",
+  "description": "Neubau, Anbau oder Mehrfamilienhaus in Freiburg: Beratungszentrum Bauen, Stellplatzzonen, Dietenbach und Bodenrichtwerte. Bauunternehmen kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Freiburg",
+  "einstieg": "Bauland ist in Freiburg begehrt, und wer hier neu baut, erweitert oder ein Mehrfamilienhaus plant, bewegt sich zwischen engen Bestandsquartieren, dem neuen Stadtteil Dietenbach und eigenen städtischen Energie- und Stellplatzvorgaben. Als Stadtkreis ist Freiburg selbst Baurechtsbehörde; Bauanträge laufen also über die Stadtverwaltung und nicht über ein Landratsamt.",
+  "abschnitte": [
+    {
+      "h2": "Beratungszentrum Bauen im Rathaus im Stühlinger",
+      "text": "Erste Anlaufstelle für private Bauherren ist das Beratungszentrum Bauen (BZB) im Rathaus im Stühlinger. Dort gibt es Auskünfte und Unterlagen zum Grundstück, Erstinformationen zu Bebauungsplänen, Baulasten, Denkmalschutz und Altlasten, und Anträge können abgegeben werden. Wer schon konkrete Vorstellungen hat, kann eine vertiefte Beratung vor der Antragstellung durch das Baurechtsamt bekommen; das BZB klärt zunächst den Beratungsbedarf. Digitale Bauanträge nimmt die Stadt ausschließlich über das Virtuelle Bauamt Baden-Württemberg entgegen. Privatpersonen melden sich dort mit BundID und Online-Ausweis oder mit ihrem ELSTER-Konto an. Laufende Bauleitpläne und Beteiligungen veröffentlicht die Stadt in einem eigenen Online-Portal."
+    },
+    {
+      "h2": "Stellplätze nach Zonen: Was die Freiburger Satzung verlangt",
+      "text": "Für Mehrfamilienhäuser ist die Stellplatzsatzung vom 29. Juli 2025 entscheidend. Sie teilt das Stadtgebiet einschließlich der Ortschaften in vier Zonen und gilt für Wohnungsbauvorhaben mit mehr als drei Wohnungen. Für frei finanzierte Wohnungen nennt die Stadt in den Zonen 1 bis 3 Schlüssel von 0,5, 0,8 und 1,0 Stellplätzen je Wohnung, für geförderte Wohnungen niedrigere Werte. Ausgenommen sind unter anderem Vorhaben mit bis zu drei Wohnungen und privilegierte Änderungen im Bestand wie ein Dachgeschossausbau. Welche Zone für ein Grundstück gilt, zeigt das Geodatenportal FreiGIS. Maßgeblich ist stets der vollständige Satzungstext; verbindlich prüft das Baurechtsamt im Verfahren."
+    },
+    {
+      "h2": "Dietenbach, Bodenwerte und der Freiburger Energiestandard",
+      "text": "Mit Dietenbach entsteht ein neuer Stadtteil; für den ersten Bauabschnitt mit rund 1.600 Wohnungen hat der Gemeinderat ein Vermarktungskonzept beschlossen, das neben Wohnungsunternehmen auch Familien und Baugemeinschaften anspricht. Beim Verkauf städtischer Grundstücke vereinbart Freiburg vertraglich einen eigenen Energiestandard, der über das Gebäudeenergiegesetz hinausgeht und unter anderem eine Lüftungsanlage mit Wärmerückgewinnung vorsieht. Für die Einschätzung von Grundstückspreisen veröffentlicht der Gutachterausschuss Bodenrichtwerte, die für einzelne Kaufverträge allerdings nicht bindend sind. Sobald Grundstück und Vorhaben feststehen, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Das Beratungszentrum Bauen (BZB) im Rathaus im Stühlinger, Fehrenbachallee 12, gibt Auskünfte zum Grundstück, nimmt Anträge an und vermittelt eine vertiefte Beratung durch das Baurechtsamt vor der Antragstellung.",
+      "quelle": "Stadt Freiburg – Bauberatung",
+      "url": "https://www.freiburg.de/pb/208096.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Freiburger Stellplatzsatzung vom 29.07.2025 gilt im ganzen Stadtgebiet für Wohnungsbauvorhaben mit mehr als drei Wohnungen und teilt die Stadt in vier Zonen; frei finanzierte Wohnungen benötigen in den Zonen 1 bis 3 je 0,5, 0,8 bzw. 1,0 Stellplätze.",
+      "quelle": "Stadt Freiburg – Stellplatzsatzung",
+      "url": "https://www.freiburg.de/pb/2573825.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für den ersten Bauabschnitt des neuen Stadtteils Dietenbach mit rund 1.600 Wohnungen hat der Gemeinderat im Juli 2025 ein Vermarktungskonzept beschlossen; bewerben können sich auch Familien und Baugemeinschaften.",
+      "quelle": "Stadt Freiburg – Bauen in Dietenbach",
+      "url": "https://www.freiburg.de/pb/1854780.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Freiburger Effizienzhaus-Standard für neue Wohngebäude geht über das Gebäudeenergiegesetz hinaus und wird beim Verkauf städtischer Grundstücke vertraglich vereinbart; gefordert sind unter anderem eine Luftdichtigkeit n50 ≤ 0,60/h und eine Lüftung mit Wärmerückgewinnung.",
+      "quelle": "Stadt Freiburg – Freiburger Neubau-Standard",
+      "url": "https://www.freiburg.de/pb/208100.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Gutachterausschuss in Freiburg ermittelt Bodenrichtwerte aus der Kaufpreissammlung; sie dienen der Information und sind für Grundstückstransaktionen nicht bindend.",
+      "quelle": "Stadt Freiburg – Gutachterausschuss, Bodenrichtwerte",
+      "url": "https://www.freiburg.de/pb/2011438.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo reiche ich in Freiburg einen Bauantrag ein?",
+      "a": "Zuständig ist das Baurechtsamt der Stadt. Anträge können im Beratungszentrum Bauen im Rathaus im Stühlinger abgegeben oder digital über das Virtuelle Bauamt Baden-Württemberg eingereicht werden."
+    },
+    {
+      "q": "Gilt die Freiburger Stellplatzsatzung auch für ein Einfamilienhaus?",
+      "a": "Nach der Übersicht der Stadt gilt die Satzung für Wohnungsbauvorhaben mit mehr als drei Wohnungen; Vorhaben mit bis zu drei Wohnungen sind ausgenommen. Verbindlich ist der vollständige Satzungstext."
+    },
+    {
+      "q": "Kann ich als Privatperson ein Grundstück in Dietenbach bekommen?",
+      "a": "Das Vermarktungskonzept richtet sich ausdrücklich auch an Familien, Baugemeinschaften und junge Genossenschaften. Unterlagen und Bewerbungsverfahren veröffentlicht die Stadt auf ihrer Seite zum Bauen in Dietenbach."
+    }
+  ],
+  "offen": [
+    "Zeitplan der Dietenbach-Vermarktung (Vergabeentscheidung Gemeinderat 8.12.2026) bewusst weggelassen (datierte Angabe).",
+    "„Bauland ist in Freiburg begehrt“ im Einstieg ist eine allgemeine Einschätzung ohne Fakt-Quelle.",
+    "Stellplatzschlüssel für geförderte Wohnungen und Zone 4 nur verkürzt wiedergegeben (Zone 4 frei finanziert laut Stadt nicht durch die Satzung geregelt).",
+    "Angaben zum Virtuellen Bauamt (BundID/ELSTER) belegt durch https://www.freiburg.de/pb/1791809.html; Fakt wegen Wortgrenze 600 entfernt."
+  ]
+}

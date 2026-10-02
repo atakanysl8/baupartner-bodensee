@@ -1,0 +1,81 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "weinheim",
+  "ortName": "Weinheim",
+  "kreis": "Rhein-Neckar-Kreis",
+  "title": "Badsanierung Weinheim – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Weinheim: hartes Grundwasser aus Hemsbach, Rückstausicherung nach Abwassersatzung, Pflegeberatung. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Weinheim",
+  "einstieg": "Ein neues Bad in Weinheim bedeutet meist: Kalk aus hartem Grundwasser, ein Altbau zwischen Altstadt und Weststadt oder ein Haus am Hang in den Odenwald-Ortsteilen. Wer umbaut, hat es mit den Stadtwerken als Wasserversorger, dem städtischen Eigenbetrieb Stadtentwässerung und gegebenenfalls mit der Pflegeberatung des Rhein-Neckar-Kreises zu tun.",
+  "abschnitte": [
+    {
+      "h2": "Grundwasser von der Bergstraße: hart und kalkhaltig",
+      "text": "Das Trinkwasser der Weinheimer Kernstadt kommt aus dem Verbandswasserwerk in Hemsbach. Seit 1971 beziehen die Stadtwerke Weinheim es vom Wasserzweckverband Badische Bergstraße und verteilen es über ein Netz von rund 260 Kilometern. Die Analyse des Zweckverbands weist eine Gesamthärte von gut 15 °dH aus, das liegt im Härtebereich „hart“. Im Bad zeigt sich das an Kalkflecken auf Duschglas und Fliesen, an verstopften Perlatoren und an Ablagerungen in Durchlauferhitzern oder Warmwasserspeichern. Gut zugängliche Strahlregler und wenige Fugen erleichtern die Pflege. Ob eine Enthärtungsanlage sinnvoll ist, hängt in der Regel von Warmwasserbereitung und Haushaltsgröße ab. Für die Odenwald-Ortsteile veröffentlichen die Stadtwerke eine eigene Analyse."
+    },
+    {
+      "h2": "Kellerbad und Leitungen: was die Weinheimer Abwassersatzung regelt",
+      "text": "Wer im Untergeschoss ein Duschbad, eine Waschküche oder ein Gäste-WC einrichtet, sollte die Abwassersatzung der Stadt kennen. Sie legt als Rückstauebene die Straßenoberfläche an der Anschlussstelle fest; Toiletten, Bodenabläufe oder Waschbecken darunter sind vom Grundstückseigentümer gegen Rückstau zu sichern. Außerdem bedarf die Herstellung oder Änderung von Grundstücksentwässerungsanlagen grundsätzlich einer schriftlichen Genehmigung der Stadt. Zuständig für Entwässerungsanträge und für die Netzauskunft zur städtischen Kanalisation ist der Eigenbetrieb Stadtentwässerung im Rathaus Schloss. Wird ein Bad nur innerhalb der vorhandenen Leitungen erneuert, ist der Aufwand meist geringer; bei neuen Anschlüssen im Keller klärt eine frühe Rückfrage dort viel."
+    },
+    {
+      "h2": "Barrierearm umbauen: Pflegestützpunkt in der Dürrestraße",
+      "text": "Für eine bodengleiche Dusche, Haltegriffe oder ein breiteres Türmaß ist oft weniger die Technik als die Finanzierung und Organisation die Frage. Der Pflegestützpunkt des Rhein-Neckar-Kreises unterhält eine eigene Beratungsstelle in Weinheim und berät unabhängig und kostenfrei rund um Pflege und Versorgung, auch schon bevor ein Pflegebedarf besteht. Zu Energiefragen, etwa beim Tausch der Warmwasserbereitung, berät die KLiBA im Auftrag der Stadt kostenfrei im Rathaus. Wenn Ihr Vorhaben feststeht, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Laut Trinkwasseranalyse des Wasserzweckverbands Badische Bergstraße (Stand 24.04.2025) beträgt die Gesamthärte 15,1 °dH (2,7 mmol/l); das entspricht dem Härtebereich „hart“ (über 14 °dH).",
+      "quelle": "Wasserzweckverband Badische Bergstraße – Trinkwasseranalyse",
+      "url": "https://www.wzv-bb.de/downloads/pdf/WZV_20250424_Trinkwasseranalyse.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Weinheim beziehen das Trinkwasser seit 1971 vom Wasserzweckverband Badische Bergstraße und unterhalten ein Versorgungsnetz von insgesamt 260 Kilometern mit sieben Hochbehältern.",
+      "quelle": "Stadtwerke Weinheim – Trinkwasserversorgung",
+      "url": "https://sww.de/de/Produkte/Wasser/Wasserversorgung.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach § 20 der Weinheimer Abwassersatzung gilt die Straßenoberfläche an der Anschlussstelle als Rückstauebene; darunter liegende Toiletten, Bodenabläufe und Waschbecken sind vom Grundstückseigentümer gegen Rückstau zu sichern.",
+      "quelle": "Stadt Weinheim – Abwassersatzung (Lesefassung 2026)",
+      "url": "https://www.weinheim.de/site/WeinheimRoot/get/documents_E1905252691/weinheim/Dateien/PDF-Dateien/II_04_EB/20260101AbwassersatzungLesefassung.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Eigenbetrieb Stadtentwässerung der Stadt Weinheim bearbeitet Entwässerungsanträge und gibt Netzauskunft zur städtischen Kanalisation.",
+      "quelle": "Stadt Weinheim – Eigenbetrieb Stadtentwässerung",
+      "url": "https://www.weinheim.de/startseite/buergerservice/eigenbetrieb+stadtentwaesserung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt Rhein-Neckar-Kreis hat eine Beratungsstelle in der Dürrestraße 2 in Weinheim; die Beratung ist unabhängig und kostenfrei, eine Terminvereinbarung ist erforderlich.",
+      "quelle": "Rhein-Neckar-Kreis – Pflegestützpunkt",
+      "url": "https://www.rhein-neckar-kreis.de/landratsamt/aemter-und-aufgaben/sozialamt/pflegestuetzpunkte",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die KLiBA berät im Auftrag der Stadt Weinheim Bürgerinnen und Bürger kostenfrei zu Energiefragen bei Sanierung und Neubau; die Gespräche finden im Rathaus Schloss statt.",
+      "quelle": "Stadt Weinheim – Energieberatung",
+      "url": "https://www.weinheim.de/startseite/stadtthemen/energieberatung.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Leitungswasser in Weinheim?",
+      "a": "Die Analyse des Wasserzweckverbands Badische Bergstraße nennt 15,1 °dH, also den Härtebereich „hart“. Für die Odenwald-Ortsteile gibt es bei den Stadtwerken eine eigene Analyse."
+    },
+    {
+      "q": "Was gilt in Weinheim für ein Bad im Keller?",
+      "a": "Nach der städtischen Abwassersatzung sind Entwässerungsgegenstände unterhalb der Rückstauebene, also der Straßenoberfläche an der Anschlussstelle, gegen Rückstau zu sichern. Auskunft gibt der Eigenbetrieb Stadtentwässerung."
+    },
+    {
+      "q": "Wo gibt es in Weinheim Beratung zum altersgerechten Bad?",
+      "a": "Der Pflegestützpunkt des Rhein-Neckar-Kreises hat eine Beratungsstelle in der Dürrestraße 2 und berät kostenfrei nach Terminvereinbarung."
+    }
+  ],
+  "offen": [
+    "Ortsteilnennungen im Einstieg (Altstadt, Weststadt, Odenwald-Ortsteile) sind ortsübliche Bezeichnungen, nicht eigens per Fakt belegt.",
+    "Die Härteangabe stammt aus der Analyse des Zweckverbands (Wasserwerk Hemsbach); die Analyse der Stadtwerke für Weinheim (PDF von 2023) war per Download nicht abrufbar. Härte der Odenwald-Ortsteile nicht ermittelt.",
+    "Ob der Pflegestützpunkt ausdrücklich Wohnraumanpassung berät, steht auf der Kreisseite nicht wörtlich; dort heißt es allgemein „Pflege und Versorgung“, Hilfen und Prävention."
+  ]
+}

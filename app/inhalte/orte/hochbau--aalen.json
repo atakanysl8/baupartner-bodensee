@@ -1,0 +1,81 @@
+{
+  "leistung": "hochbau",
+  "ort": "aalen",
+  "ortName": "Aalen",
+  "kreis": "Ostalbkreis",
+  "title": "Bauunternehmen Aalen – kostenlos vermittelt",
+  "description": "Neubau oder Anbau in Aalen: Bauordnungsamt, Baulückenkataster, Bodenrichtwerte und Starkregenkarten im Überblick. Bauunternehmen kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Aalen",
+  "einstieg": "Aalen ist mit seinen Ortschaften von Dewangen bis Waldhausen flächenmäßig groß, neue Bauplätze entstehen aber nur in einzelnen Baugebieten. Wer ein Einfamilienhaus, ein Mehrfamilienhaus oder einen Anbau plant, fragt sich deshalb zuerst, wo ein Grundstück zu finden ist, was darauf erlaubt ist und welches Amt den Bauantrag bearbeitet. Die Stadt stellt dafür eine Reihe eigener Werkzeuge bereit.",
+  "abschnitte": [
+    {
+      "h2": "Bauantrag in Aalen: Bauordnungsamt und ViBa-BW",
+      "text": "Als Große Kreisstadt ist Aalen selbst Baurechtsbehörde; Bauanträge, Kenntnisgabeverfahren und Bauvorbescheide bearbeitet das städtische Bauordnungsamt im Rathaus am Marktplatz, nicht das Landratsamt. Für Beratungsgespräche lässt sich ein Termin beim Bürgerbüro Bau online buchen. Die Unterlagen werden in der Regel digital über den Onlinedienst ViBa-BW des Landes eingereicht. Nach Angaben der Stadt prüft das Bauordnungsamt zunächst die Vollständigkeit und beteiligt dann die übrigen Fachstellen, bevor es die Baugenehmigung erteilt. Mit den Arbeiten, auch mit dem Aushub der Baugrube, darf grundsätzlich erst nach Zustellung der Genehmigung begonnen werden. Liegt ein Grundstück in der Altstadt, ist zusätzlich die Gestaltungssatzung für den Altstadtbereich zu beachten, die im Ortsrecht der Stadt veröffentlicht ist."
+    },
+    {
+      "h2": "Grundstück finden: Baulückenkataster, städtische Bauplätze und Bodenwert",
+      "text": "Neben den Baugebieten, in denen die Stadt eigene Grundstücke nach festen Vergaberichtlinien verkauft, lohnt in Aalen der Blick ins Baulandkataster. Es zeigt im Geodatenportal unbebaute oder kaum genutzte Grundstücke innerhalb der Siedlungsflächen, soweit die Eigentümer nicht widersprochen haben, und gibt Hinweise, ob eine Baulücke nach bestehendem Planungsrecht direkt bebaubar ist. Für die Kalkulation des Grundstückspreises sind die Bodenrichtwerte des gemeinsamen Gutachterausschusses Aalen-Essingen hilfreich; die Werte zum Stichtag 1. Januar 2025 sind kostenlos über BORIS-BW und das städtische Geodatenportal einsehbar. Mündliche Auskünfte gibt die Geschäftsstelle im Rathaus ebenfalls ohne Gebühr."
+    },
+    {
+      "h2": "Hanglage und Starkregen: Planungsgrundlagen am Albtrauf",
+      "text": "Viele Aalener Wohngebiete liegen am Hang oder in Tälern von Kocher und Aal. Die Stadt hat für das gesamte Stadtgebiet Starkregengefahrenkarten erstellen lassen und stellt sie zusammen mit den Hochwassergefahrenkarten des Landes im öffentlichen GIS bereit. Daraus lassen sich die zu erwartenden Überflutungshöhen für ein Grundstück ablesen, was für Lichtschächte, Kellereingänge, Garagenzufahrten und die Höhe des Erdgeschosses wichtig ist. Die Stadt weist darauf hin, dass öffentliche Maßnahmen keinen vollständigen Schutz bieten und Eigentümer zur Eigenvorsorge verpflichtet sind. Wenn Grundstück und Entwurf stehen, können Sie Ihr Vorhaben über unser Formular schildern; wir wählen dafür einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Baugesuche in Aalen bearbeitet das städtische Bauordnungsamt; eingereicht wird in der Regel über ViBa-BW.",
+      "quelle": "Stadt Aalen – Baugenehmigung beantragen",
+      "url": "https://www.aalen.de/baugenehmigung-beantragen.251669.25.htm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Baulandkataster zeigt im Geodatenportal Baulücken mit Lage, Größe und planungsrechtlicher Kategorie, soweit Eigentümer nicht widersprochen haben.",
+      "quelle": "Stadt Aalen – Baulandpotential / Baulückenkataster",
+      "url": "https://www.aalen.de/potential-bauland.36485.25.htm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Städtische Wohnbauplätze vergibt Aalen nach eigenen Vergaberichtlinien und Vergabegrundsätzen; Ansprechpartner ist die Abteilung Immobilien im Rathaus.",
+      "quelle": "Stadt Aalen – Verfügbare Bauplätze",
+      "url": "https://www.aalen.de/bauplaetze.33653.25.htm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Bodenrichtwerte des Gutachterausschusses Aalen-Essingen (Stichtag 01.01.2025) sind kostenlos über BORIS-BW und das Geodatenportal der Stadt abrufbar; eine mündliche Einzelauskunft der Geschäftsstelle ist kostenlos.",
+      "quelle": "Stadt Aalen – Bodenrichtwerte",
+      "url": "https://www.aalen.de/bodenrichtwerte.27402.25.htm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der gemeinsame Gutachterausschuss Aalen-Essingen ist seit 1. Januar 2021 für das Stadtgebiet Aalen und die Gemeinde Essingen zuständig.",
+      "quelle": "Stadt Aalen – Gutachterausschuss",
+      "url": "https://www.aalen.de/gutachterausschuss.115350.25.htm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Aalen hat Starkregengefahrenkarten für das gesamte Stadtgebiet erstellen lassen; sie sind im öffentlichen GIS einsehbar.",
+      "quelle": "Stadt Aalen – Starkregen und Hochwasser",
+      "url": "https://www.aalen.de/starkregen-und-hochwasser.233733.25.htm",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist in Aalen das Landratsamt oder die Stadt für meinen Bauantrag zuständig?",
+      "a": "Zuständig ist das Bauordnungsamt der Stadt Aalen. Eingereicht wird in der Regel digital über ViBa-BW; einen Beratungstermin beim Bürgerbüro Bau kann man online vereinbaren."
+    },
+    {
+      "q": "Wie finde ich in Aalen eine Baulücke, wenn gerade kein Baugebiet ausgeschrieben ist?",
+      "a": "Das Baulandkataster im Geodatenportal zeigt unbebaute Grundstücke im Siedlungsbereich und deren planungsrechtliche Kategorie. Die Eigentümer werden aus Datenschutzgründen nicht genannt, nur ob es sich um städtische oder private Flächen handelt."
+    },
+    {
+      "q": "Wo sehe ich, ob mein Grundstück in Aalen bei Starkregen gefährdet ist?",
+      "a": "Die Starkregengefahrenkarten der Stadt und die Hochwassergefahrenkarten des Landes sind im öffentlichen GIS der Stadt einsehbar; eine Legende erläutert die zu erwartenden Überflutungshöhen."
+    }
+  ],
+  "offen": [
+    "Einstieg und Abschnitt 3: Hanglagen und Lage vieler Wohngebiete in den Tälern von Kocher und Aal sind ortskundliche Beschreibung, nicht durch eine Fakt-Quelle belegt.",
+    "Der Satz zum Baubeginn erst nach Zustellung der Genehmigung stammt von der städtischen Seite „Baugenehmigung beantragen“; Ausnahmen (Teilbaugenehmigung, Kenntnisgabeverfahren) sind nicht ausgeführt.",
+    "Inhalt der Gestaltungssatzung Altstadt wurde nicht gelesen; nur ihre Existenz im Ortsrecht ist festgestellt."
+  ]
+}

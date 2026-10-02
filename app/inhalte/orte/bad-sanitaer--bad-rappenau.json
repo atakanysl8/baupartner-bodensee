@@ -1,0 +1,87 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "bad-rappenau",
+  "ortName": "Bad Rappenau",
+  "kreis": "Heilbronn",
+  "title": "Badsanierung Bad Rappenau – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Bad Rappenau: Wasser der Mühlbach-Gruppe, Genehmigung für Entwässerungsänderungen, Beratung fürs Bad im Alter. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Bad Rappenau",
+  "einstieg": "Ein neues Bad in der Kernstadt, in Bonfeld, Fürfeld oder Obergimpern: In Bad Rappenau kommt das Trinkwasser nicht von städtischen Stadtwerken, sondern von einem Zweckverband, und für Änderungen an der Hausentwässerung sieht die städtische Satzung eine eigene Genehmigung vor.",
+  "abschnitte": [
+    {
+      "h2": "Mühlbach-Wasser: mittlere Härte mit kleinen Unterschieden je Stadtteil",
+      "text": "Versorgt wird Bad Rappenau vom Zweckverband Wasserversorgungsgruppe Mühlbach mit Sitz Hinter dem Schloss. Er mischt Grundwasser aus eigenen Gewinnungsgebieten mit Wasser der Bodensee-Wasserversorgung. Laut dem Infoblatt zur Wasserbeschaffenheit 2026 liegt die Härte im Netz der Kernstadt, zu dem auch Babstadt, Bonfeld, Fürfeld, Grombach, Heinsheim, Treschklingen und Zimmerhof gehören, bei 12,1 °dH. Obergimpern und Wollenberg hängen am Netz Hüffenhardt mit 13,6 °dH. Beides liegt im Härtebereich „mittel“. Ob eine Enthärtung sinnvoll ist, hängt von Warmwasserbereitung und Pflegeaufwand ab; Werte für den eigenen Anschluss nennt der Zweckverband."
+    },
+    {
+      "h2": "Kellerbad und neue Leitungen: was die Abwassersatzung der Stadt regelt",
+      "text": "Die Abwassersatzung der Stadt Bad Rappenau verlangt eine schriftliche Genehmigung der Stadt, wenn Grundstücksentwässerungsanlagen hergestellt oder geändert werden. Als Rückstauebene gilt die Straßenoberfläche an der Anschlussstelle; Toiletten, Bodenabläufe und Waschbecken darunter sind vom Eigentümer gegen Rückstau zu sichern. Nach der Satzung zählt in Bad Rappenau der Teil der Hausanschlussleitung, der unter öffentlichen Straßen und Grünflächen verläuft, zu den öffentlichen Abwasseranlagen."
+    },
+    {
+      "h2": "Bad für das Alter: Beratung in Bad Rappenau und beim Landkreis",
+      "text": "Vor Ort gibt es die Informations-, Anlauf- und Vermittlungsstelle für ältere und pflegebedürftige Menschen bei der Sozialstation in der Bahnhofstraße. Ergänzend berät der Pflegestützpunkt des Landkreises Heilbronn rund um die Pflege. Für Fragen zur Warmwasserbereitung bietet der Landkreis eine kostenlose Energie-Erstberatung an, auch in Rathäusern. Wenn Ihre Planung steht, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Trinkwasserversorgung in Bad Rappenau liegt beim Zweckverband Wasserversorgungsgruppe Mühlbach mit Sitz Hinter dem Schloss 10 in Bad Rappenau.",
+      "quelle": "Stadt Bad Rappenau – Wasserversorgung",
+      "url": "https://www.badrappenau.de/buergerservice/rathaus-online/aufgaben-und-zustaendigkeiten/wasserversorgung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Mühlbach-Gruppe nutzt neben Eigenwasser aus örtlichen Grundwasser-Gewinnungsgebieten auch Fremdwasser der Bodensee-Wasserversorgung.",
+      "quelle": "Zweckverband Wasserversorgungsgruppe Mühlbach – Wasseraufbereitung",
+      "url": "https://www.mb-wasser.de/unser-trinkwasser/wasseraufbereitung/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für das Ortsnetz Bad Rappenau mit Babstadt, Bonfeld, Fürfeld, Grombach, Heinsheim, Treschklingen und Zimmerhof weist der Zweckverband eine Härte von 12,1 °dH aus, für das Netz Hüffenhardt mit Obergimpern und Wollenberg 13,6 °dH (Jahresmittel 2026, Härtebereich mittel).",
+      "quelle": "Zweckverband Wasserversorgungsgruppe Mühlbach – Infoblatt Wasserbeschaffenheit 2026",
+      "url": "https://www.mb-wasser.de/wp-content/uploads/_media/download/Wasserbeschaffenheit.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach der Abwassersatzung der Stadt bedürfen Herstellung, Anschluss und Änderung von Grundstücksentwässerungsanlagen der schriftlichen Genehmigung der Stadt.",
+      "quelle": "Stadt Bad Rappenau – Abwassersatzung 2016",
+      "url": "https://www.badrappenau.de/images/satzungen/06-02-AbwasserS-2016.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ablaufstellen, die tiefer als die Straßenoberfläche an der Anschlussstelle (Rückstauebene) liegen, sind nach der Satzung vom Grundstückseigentümer gegen Rückstau zu sichern; der Leitungsteil im öffentlichen Straßenraum gehört zu den öffentlichen Abwasseranlagen.",
+      "quelle": "Stadt Bad Rappenau – Abwassersatzung 2016",
+      "url": "https://www.badrappenau.de/images/satzungen/06-02-AbwasserS-2016.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In Bad Rappenau gibt es eine Informations-, Anlauf- und Vermittlungsstelle (IAV-Stelle) für ältere, hilfe- und pflegebedürftige Menschen in der Bahnhofstraße 6 bei der Sozialstation; der Pflegestützpunkt des Landkreises Heilbronn berät im Landratsamt in Heilbronn.",
+      "quelle": "Stadt Bad Rappenau – Beratung",
+      "url": "https://www.badrappenau.de/buergerservice/beratung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die EnergieSTARTberatung im Landkreis Heilbronn ist kostenlos und neutral, dauert etwa 30 Minuten und findet in vielen Rathäusern des Landkreises oder telefonisch statt.",
+      "quelle": "Landratsamt Heilbronn – EnergieSTARTberatung",
+      "url": "https://www.landkreis-heilbronn.de/energiestartberatung.3104.htm",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Leitungswasser in Bad Rappenau?",
+      "a": "Im Jahresmittel 2026 rund 12 °dH in Kernstadt und den meisten Stadtteilen, in Obergimpern und Wollenberg rund 13,6 °dH. Beides gilt als mittlere Härte; Auskunft gibt der Zweckverband Wasserversorgungsgruppe Mühlbach."
+    },
+    {
+      "q": "Muss die Stadt Bad Rappenau einer Änderung der Abwasserleitungen im Haus zustimmen?",
+      "a": "Die Abwassersatzung sieht für die Herstellung und Änderung von Grundstücksentwässerungsanlagen eine schriftliche Genehmigung der Stadt vor. Ob das eigene Vorhaben darunter fällt, beantwortet die Abteilung Abwasser im Rathaus."
+    },
+    {
+      "q": "Wo finde ich in Bad Rappenau Rat, wenn das Bad altersgerecht werden soll?",
+      "a": "Erste Anlaufstelle in der Stadt ist die IAV-Stelle bei der Sozialstation in der Bahnhofstraße. Zu Pflegefragen berät außerdem der Pflegestützpunkt des Landkreises Heilbronn."
+    }
+  ],
+  "offen": [
+    "Die Abwassersatzung stammt von 2016; spätere Änderungssatzungen betreffen laut Titel nur Beiträge und Gebühren, wurden aber nicht im Volltext gelesen.",
+    "Ob die IAV-Stelle oder der Pflegestützpunkt ausdrücklich zur Wohnraumanpassung berät, ist auf der städtischen Beratungsseite nicht genannt.",
+    "Die Seite des Pflegestützpunkts beim Landratsamt (landkreis-heilbronn.de) war nicht erreichbar; Angaben stammen von der Beratungsseite der Stadt Bad Rappenau."
+  ]
+}

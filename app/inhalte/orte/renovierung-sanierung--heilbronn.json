@@ -1,0 +1,97 @@
+{
+  "leistung": "renovierung-sanierung",
+  "ort": "heilbronn",
+  "ortName": "Heilbronn",
+  "kreis": "Heilbronn",
+  "title": "Sanierung Heilbronn – Fachbetrieb kostenlos vermittelt",
+  "description": "Altbausanierung in Heilbronn: Sanierungsgebiete, Denkmalschutz auch innen, Erhaltungssatzung Alt-Böckingen. Fachbetrieb kostenlos und unverbindlich vermittelt.",
+  "h1": "Sanierung in Heilbronn",
+  "einstieg": "In Heilbronn stehen viele Altbauten in einem Sanierungsgebiet, unter Denkmalschutz oder im Geltungsbereich einer Erhaltungssatzung. Wer ein Wohnhaus in der Innenstadt modernisieren, eine Ziegelfassade in Böckingen instand setzen oder einen Bau der Nachkriegszeit energetisch erneuern möchte, sollte diese örtlichen Rahmenbedingungen vor der Auftragsvergabe kennen.",
+  "abschnitte": [
+    {
+      "h2": "Sanierungsgebiete in Heilbronn: Innenstadt und Bahnhofsvorstadt",
+      "text": "Die Heilbronner Innenstadt ist seit den 1990er-Jahren mit Sanierungsgebieten belegt; das aktuelle Gebiet Innenstadt umfasst rund 48 Hektar und wird im vereinfachten Verfahren durchgeführt. Eigentümer dort können bei umfangreichen Modernisierungen steuerliche Vergünstigungen nutzen. Voraussetzung ist nach Angaben der Stadt, dass vor Beginn der Bauarbeiten eine Modernisierungsvereinbarung mit der Stadt abgeschlossen wird. Neu hinzugekommen ist das Gebiet Westlich Bahnhofsvorstadt II am Hauptbahnhof, das im umfassenden Verfahren saniert wird. Ob ein Haus in einem dieser Gebiete liegt und welche Regeln gelten, beantwortet das Amt für Liegenschaften und Stadterneuerung in der Lohtorstraße."
+    },
+    {
+      "h2": "Denkmalschutz und Alt-Böckingen: Was am Bestand geschützt ist",
+      "text": "Fast alle Kulturdenkmale im Heilbronner Stadtgebiet sind nach Angaben der Stadt in ihrem gesamten historischen Bestand geschützt, also auch Treppenhäuser, Türen, Stuckdecken oder alte Böden. Viele Arbeiten, die baurechtlich verfahrensfrei wären, brauchen deshalb eine denkmalschutzrechtliche Genehmigung; zuständig ist die untere Denkmalschutzbehörde der Stadt im Planungs- und Baurechtsamt. In Alt-Böckingen gilt seit 2009 zusätzlich eine Erhaltungssatzung: Rückbau, Änderung und Neuerrichtung baulicher Anlagen sind dort genehmigungspflichtig. Anlass war unter anderem, dass historische Ziegelfassaden gestrichen, verputzt oder gedämmt und alte Fenster und Klappläden entfernt wurden."
+    },
+    {
+      "h2": "Energetisch sanieren mit Blick auf das Klimaziel 2035",
+      "text": "Der Gemeinderat hat 2023 beschlossen, dass Heilbronn bis 2035 treibhausgasneutral werden soll; die Sanierung des Gebäudebestands ist ein Baustein des Klimaschutz-Masterplans. Unabhängige Erstberatung zu Dämmung, Heizungstausch und Förderprogrammen bietet die Energieagentur Heilbronn kostenlos an. Sobald Ihr Vorhaben klar ist, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Das Sanierungsgebiet Innenstadt Heilbronn umfasst rund 47,9 Hektar und wird im vereinfachten Verfahren nach § 142 Abs. 4 BauGB durchgeführt.",
+      "quelle": "Stadt Heilbronn – Stadterneuerung",
+      "url": "https://www.heilbronn.de/stadterneuerung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Eigentümer im Sanierungsgebiet Innenstadt können bei umfangreichen Modernisierungen steuerliche Vergünstigungen nutzen, wenn sie vor Beginn der Baumaßnahmen eine Modernisierungsvereinbarung mit der Stadt abschließen.",
+      "quelle": "Stadt Heilbronn – Stadterneuerung",
+      "url": "https://www.heilbronn.de/stadterneuerung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Sanierungsgebiet Westlich Bahnhofsvorstadt II (rund 3 Hektar) wurde 2025 in das Städtebauförderprogramm Wachstum und nachhaltige Erneuerung aufgenommen und wird im umfassenden Verfahren durchgeführt.",
+      "quelle": "Stadt Heilbronn – Stadterneuerung",
+      "url": "https://www.heilbronn.de/stadterneuerung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bei Kulturdenkmalen in Heilbronn ist in der Regel auch die historische Innenausstattung geschützt; zuständig für die denkmalschutzrechtliche Genehmigung ist die untere Denkmalschutzbehörde der Stadt.",
+      "quelle": "Stadt Heilbronn – Denkmalschutz",
+      "url": "https://www.heilbronn.de/bauen-wohnen/bauen/denkmalschutz.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Geltungsbereich der 2009 beschlossenen Erhaltungssatzung Alt-Böckingen bedürfen Rückbau, Änderung, Nutzungsänderung und Neuerrichtung baulicher Anlagen der Genehmigung.",
+      "quelle": "Stadt Heilbronn – Erhaltungssatzung Alt-Böckingen",
+      "url": "https://www.heilbronn.de/bauen-wohnen/stadtplanung/erhaltungssatzung-alt-boeckingen.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Gemeinderat hat am 30. Januar 2023 beschlossen, dass Heilbronn bis 2035 treibhausgasneutral werden soll; die energetische Sanierung der Gebäude ist Teil des Klimaschutz-Masterplans.",
+      "quelle": "Stadt Heilbronn – Klimaschutz-Masterplan",
+      "url": "https://www.heilbronn.de/umwelt-mobilitaet/klima-klimaschutz/klimaschutz-masterplan.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für die nördliche Innenstadt hat die Stadt ein integriertes Quartierskonzept zur energetischen Stadtsanierung erstellen lassen, mit Zielen zur Gebäudesanierung und Wärmeversorgung.",
+      "quelle": "Stadt Heilbronn – Energetische Stadtsanierung",
+      "url": "https://www.heilbronn.de/umwelt-mobilitaet/energie/energetische-stadtsanierung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Energieagentur Heilbronn berät kostenlos und anbieterneutral zu energieeffizientem Sanieren, baulichem Wärmeschutz, Heizungstechnik und Förderprogrammen.",
+      "quelle": "Stadt Heilbronn – Energieagentur Heilbronn GmbH",
+      "url": "https://www.heilbronn.de/umwelt-mobilitaet/energie/energieagentur.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Liegt mein Haus in einem Heilbronner Sanierungsgebiet?",
+      "a": "Aktuell sind unter anderem die Innenstadt und das Gebiet Westlich Bahnhofsvorstadt II festgelegt. Verbindliche Auskunft gibt das Amt für Liegenschaften und Stadterneuerung."
+    },
+    {
+      "q": "Brauche ich bei einem Heilbronner Kulturdenkmal auch für Arbeiten im Inneren eine Genehmigung?",
+      "a": "Häufig ja: Nach Angaben der Stadt ist bei fast allen Kulturdenkmalen auch die historische Innenausstattung geschützt. Auskunft gibt die untere Denkmalschutzbehörde der Stadt."
+    },
+    {
+      "q": "Darf ich in Alt-Böckingen die Ziegelfassade dämmen?",
+      "a": "Im Gebiet der Erhaltungssatzung sind Änderungen an baulichen Anlagen genehmigungspflichtig, und das Dämmen historischer Ziegelfassaden war einer der Anlässe für die Satzung. Ob und wie es möglich ist, klärt die Stadt im Einzelfall."
+    },
+    {
+      "q": "Wo bekomme ich in Heilbronn eine neutrale Energieberatung vor der Sanierung?",
+      "a": "Bei der Energieagentur Heilbronn in der Lohtorstraße; die Erstberatung ist kostenlos und anbieterneutral."
+    }
+  ],
+  "offen": [
+    "Im Sanierungsgebiet Christophstraße/Ellwanger Straße (Sozialer Zusammenhalt, seit 2021) wurde nicht erwähnt, da der genaue Gebietsname auf der Seite nicht eindeutig zu lesen war.",
+    "Eine kommunale Wärmeplanung der Stadt Heilbronn wurde nicht gefunden; die verlinkte Seite zum Förderprogramm KLIMAfit war nicht erreichbar (404) und wurde nicht verwendet.",
+    "Ob die Erhaltungssatzung Alt-Böckingen eine Genehmigung auch für reine Fassadendämmung ohne Abbruch verlangt, ist aus der Seite nur mittelbar ableitbar (Änderung baulicher Anlagen)."
+  ]
+}

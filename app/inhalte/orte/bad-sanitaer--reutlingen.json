@@ -1,0 +1,81 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "reutlingen",
+  "ortName": "Reutlingen",
+  "kreis": "Reutlingen",
+  "title": "Badsanierung Reutlingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Reutlingen: Wasserhärte je nach Versorgungszone, Rückstauebene der SER, Wohnberatung im Landkreis. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Reutlingen",
+  "einstieg": "In Reutlingen hängt schon die Wasserhärte davon ab, in welchem Teil der Stadt das Bad liegt: Ein Teil der Haushalte bekommt Bodenseewasser, die Innenstadt und der Georgenberg werden aus eigenen Quellen versorgt. Wer ein Bad erneuert, hat außerdem mit der Stadtentwässerung Reutlingen (SER) und, beim altersgerechten Umbau, mit der Wohnberatung des Landkreises zu tun.",
+  "abschnitte": [
+    {
+      "h2": "Bodenseewasser oder Quellwasser: Härte je nach Reutlinger Stadtteil",
+      "text": "Der örtliche Versorger FairEnergie bezieht nach eigenen Angaben rund zwei Drittel des Trinkwassers vom Zweckverband Bodensee-Wasserversorgung, ein Drittel stammt aus eigenen Quellen. Das Netz ist wegen der Hanglage in Zonen aufgeteilt. Innenstadt und Georgenberg erhalten Eigenwasser, unter anderem Honauer Quellwasser, das laut Analyse bei 18,8 °dH liegt und damit als hart gilt. Betzingen, Orschel-Hagen, Sondelfingen, Ohmenhausen und die nördlichen Stadtbezirke bekommen Bodenseewasser mit gut 9 °dH, also mittlere Härte. Für die Badplanung heißt das: Ob Kalkschutz an Duschglas, Armaturen oder Warmwasserbereiter ein Thema ist, lässt sich in Reutlingen erst mit der genauen Adresse beantworten. Der Versorger bietet dafür eine Online-Abfrage nach Straße und Hausnummer."
+    },
+    {
+      "h2": "Bad im Untergeschoss: Rückstauebene nach Reutlinger Abwassersatzung",
+      "text": "Wer im Keller oder Souterrain ein Duschbad, ein WC oder einen Waschmaschinenanschluss einrichtet, liegt oft unter der Rückstauebene. Diese ist nach der Abwassersatzung der Stadt Reutlingen die Straßenoberfläche an der Anschlussstelle. Die SER weist darauf hin, dass die Verantwortung für eine rückstaugesicherte Grundstücksentwässerung beim Eigentümer liegt und dass die öffentlichen Kanäle nicht für jedes Regenereignis ausgelegt werden können. Für die Planung hilfreich: Die SER erteilt kostenfrei Auskunft aus dem Kanalkataster zu den öffentlichen Kanälen, und alte Bauakten oder Pläne des Hauses sind beim städtischen Bauarchiv erhältlich."
+    },
+    {
+      "h2": "Barrierearm umbauen: Pflegestützpunkt und Wohnberatung im Landkreis",
+      "text": "Für eine bodengleiche Dusche, Haltegriffe oder mehr Bewegungsfläche im Bad ist der Pflegestützpunkt Landkreis Reutlingen eine neutrale Anlaufstelle. Seine Wohnberatung informiert über altersgerechte Anpassungen und über finanzielle Unterstützungsmöglichkeiten, besonders wenn bereits ein Pflegegrad vorliegt. Beraten wird im Büro, im Rathaus oder bei einem Hausbesuch. Wenn das Vorhaben klar ist, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "FairEnergie deckt den Trinkwasserbedarf in Reutlingen zu rund zwei Dritteln über den Zweckverband Bodensee-Wasserversorgung und zu einem Drittel aus eigenen Quellen; Innenstadt und Georgenberg werden mit Eigenwasser versorgt.",
+      "quelle": "FairEnergie Reutlingen – Trinkwasser",
+      "url": "https://www.fairenergie.de/wasser/trinkwasser.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Bodenseewasser im Reutlinger Netz hat laut Trinkwasseranalyse (Stand 12/2025) eine Gesamthärte von 9,11 °dH, Härtebereich „mittel“.",
+      "quelle": "FairEnergie – Trinkwasseranalyse Bodenseewasser",
+      "url": "https://www.fairenergie.de/fileadmin/user_upload/pdf/privatkunden/Trinkwasseranalyse_Bodenseewasser.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Honauer Quellwasser für Reutlingen hat laut Trinkwasseranalyse (Stand 1/2026) eine Gesamthärte von 18,8 °dH, Härtebereich „hart“.",
+      "quelle": "FairEnergie – Trinkwasseranalyse Honauer Quellwasser",
+      "url": "https://www.fairenergie.de/fileadmin/user_upload/pdf/privatkunden/Trinkwasseranalyse_Honauer_Quellwasser_RT.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Rückstauebene ist nach § 19 der Reutlinger Abwassersatzung die Straßenoberfläche an der Anschlussstelle; tiefer liegende Abläufe wie Toiletten oder Waschbecken sind vom Grundstückseigentümer gegen Rückstau zu sichern.",
+      "quelle": "Stadtentwässerung Reutlingen – Kanalrückstau",
+      "url": "https://www.ser-reutlingen.de/de/Hochwasser/Kanalrueckstau",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die SER stellt eine kostenfreie Planauskunft aus dem Kanalkataster zu öffentlichen Kanälen bereit; Auszüge aus alten Bauakten und Pläne gibt es beim Bauarchiv der Stadt.",
+      "quelle": "Stadtentwässerung Reutlingen – Kanalauskunft",
+      "url": "https://www.ser-reutlingen.de/de/Service-Gebuehren/Kanalauskunft",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Wohnberatung des Pflegestützpunkts Landkreis Reutlingen informiert über altersgerechte Anpassungen bis hin zu barrierefreien Umbauten und über finanzielle Unterstützung, besonders bei vorhandenem Pflegegrad.",
+      "quelle": "Landratsamt Reutlingen – Wohnberatung",
+      "url": "https://www.kreis-reutlingen.de/Landkreis/Ueber-den-Landkreis/Alter-und-Pflege/Pflegestuetzpunkt/Wohnberatung",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Wasser an meiner Reutlinger Adresse?",
+      "a": "Das hängt von der Versorgungszone ab: Bodenseewasser hat rund 9 °dH (mittel), das Honauer Quellwasser für Innenstadt und Georgenberg rund 19 °dH (hart). FairEnergie bietet eine Online-Abfrage nach Straße und Hausnummer an."
+    },
+    {
+      "q": "Wo liegt in Reutlingen die Rückstauebene für ein Kellerbad?",
+      "a": "Nach der Abwassersatzung der Stadt ist es die Straßenoberfläche an der Anschlussstelle. Auskunft zum Kanalnetz und zur Rückstausicherung gibt die Stadtentwässerung Reutlingen."
+    },
+    {
+      "q": "Wo finde ich alte Pläne meines Hauses für die Badplanung?",
+      "a": "Auszüge aus alten Bauakten und Pläne erhalten Eigentümer beim Bauarchiv der Stadt Reutlingen; Lage und Tiefe der öffentlichen Kanäle zeigt die Kanalauskunft der SER."
+    }
+  ],
+  "offen": [
+    "Die Seite der SER zum Kanalrückstau liefert im Abruf den HTTP-Status 404, zeigt aber den vollständigen Inhalt an und ist von der SER-Navigation verlinkt; bitte im Browser prüfen.",
+    "FairEnergie ist als Versorger genannt (kommunales Unternehmen der Stadt Reutlingen); die Eigentümerstruktur wurde nicht auf einer amtlichen Seite geprüft.",
+    "Die Zuordnung der Stadtteile zu Bodensee- bzw. Eigenwasser stammt aus der Netzbeschreibung von FairEnergie; einzelne Straßen können abweichen (Gönningen und Bronnweiler haben teils eigene Quellen)."
+  ]
+}

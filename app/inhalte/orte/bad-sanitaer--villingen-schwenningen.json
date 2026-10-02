@@ -1,0 +1,87 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "villingen-schwenningen",
+  "ortName": "Villingen-Schwenningen",
+  "kreis": "Schwarzwald-Baar-Kreis",
+  "title": "Badsanierung Villingen-Schwenningen – kostenlos vermittelt",
+  "description": "Badsanierung in Villingen-Schwenningen: Wasserhärte je Straße, Kanalauskunft der Stadt, Musterwohnung BEATE. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Villingen-Schwenningen",
+  "einstieg": "In der Doppelstadt auf der Baar hängt schon die Frage nach Kalk am Duschglas davon ab, ob das Haus in Villingen, in Schwenningen oder in einem der Ortsteile steht. Wer ein Bad erneuert oder barrierearm umbaut, hat es außerdem mit der städtischen Stadtentwässerung und mit Beratungsstellen des Landkreises zu tun, die zum Teil direkt in der Stadt sitzen.",
+  "abschnitte": [
+    {
+      "h2": "Weich oder mittel: Die Wasserhärte wechselt in Villingen von Straße zu Straße",
+      "text": "Die Stadtwerke Villingen-Schwenningen weisen die Wasserhärte nicht pauschal für die ganze Stadt aus, sondern je Stadtbezirk und in Villingen sogar je Straße. Der Grund sind unterschiedliche Hochbehälter: Straßen, die aus dem Hochbehälter Hammerhalde versorgt werden, erhalten laut Analyse von 2025 weiches Wasser mit rund 1,0 mmol/l, andere Villinger Straßen am Hochbehälter Wanne mittelhartes Wasser mit 2,4 mmol/l. Für Schwenningen ist der Härtebereich „mittel“ angegeben. Für die Badplanung lohnt deshalb ein Blick ins Härte-Tool der Stadtwerke, bevor über Enthärtungsanlage, Glasbeschichtung oder Armaturen mit Kalkschutz entschieden wird."
+    },
+    {
+      "h2": "Kanalkataster und Grundstücksentwässerung beim Umbau",
+      "text": "Wird beim Badumbau die Abwasserleitung verlegt oder im Keller ein zusätzliches WC eingebaut, ist die Lage des Hausanschlusses wichtig. Der Eigenbetrieb Stadtentwässerung Villingen-Schwenningen erteilt Grundstückseigentümern Auskünfte aus dem Kanalkataster und berät zu Fragen der Grundstücksentwässerung. In der Stadt wird Abwasser teils im Mischsystem, teils im Trennsystem abgeleitet; welches System an der eigenen Adresse anliegt, beeinflusst, wie Schmutz- und Regenwasser am Haus getrennt geführt werden. Bei Abläufen unterhalb der Straße ist eine Rückstausicherung in der Regel Thema. Auskunft gibt die Stadtentwässerung im Einzelfall."
+    },
+    {
+      "h2": "Barrierefreies Bad: Musterwohnung und Beratung im Landkreis",
+      "text": "Wer ein Bad für das Alter oder für einen Angehörigen mit Pflegebedarf umbauen möchte, findet in Villingen-Schwenningen zwei kostenlose Beratungsstellen des Landratsamts. Der Pflegestützpunkt Nord am Hoptbühl berät zu Pflege und Versorgung einschließlich der Finanzierung. Die Beratungsstelle Alter & Technik ist auf Hilfsmittel und barrierefreies Wohnen spezialisiert und betreibt in Schwenningen die Musterwohnung BEATE, in der sich Lösungen ansehen lassen. Steht die Planung, können Sie Ihr Vorhaben über unser Formular schildern. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Für Villinger Straßen, die aus dem Hochbehälter Hammerhalde versorgt werden (zum Beispiel Bickenstraße), weisen die Stadtwerke den Härtebereich „weich“ aus; die Analyse von 2025 nennt 1,04 mmol/l.",
+      "quelle": "Stadtwerke Villingen-Schwenningen – Wasserhärte Bickenstraße",
+      "url": "https://www.svs-energie.de/privat-geschaeftskunden/wasser/haerte-qualitaet/villingen/bickenstrasse/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Andere Villinger Straßen, etwa Am Hoptbühl, werden aus dem Hochbehälter Wanne versorgt und liegen mit 2,40 mmol/l im Härtebereich „mittel“.",
+      "quelle": "Stadtwerke Villingen-Schwenningen – Wasserhärte Am Hoptbühl",
+      "url": "https://www.svs-energie.de/privat-geschaeftskunden/wasser/haerte-qualitaet/villingen/am-hoptbuehl/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für Schwenningen nennt die Trinkwasseranalyse am Hochbehälter Türnleberg (März 2025) eine Härte von 13,1 °dH, also den Bereich „mittel“.",
+      "quelle": "Stadtwerke Villingen-Schwenningen – Prüfbericht Schwenningen",
+      "url": "https://www.svs-energie.de/fileadmin/user_upload/PrivatGeschaeftskunden/Wasser/Haerte-und-Qualitaet/2025_HB_Schwenningen_01.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Eigenbetrieb Stadtentwässerung erteilt Grundstückseigentümern und Bauwilligen Auskünfte aus dem Kanalkataster und berät zur Grundstücksentwässerung; abgeleitet wird teils im Misch-, teils im Trennsystem.",
+      "quelle": "Stadt Villingen-Schwenningen – Eigenbetrieb Stadtentwässerung",
+      "url": "https://www.villingen-schwenningen.de/bauen-wohnen/ver-und-entsorgung/eigenbetrieb-stadtenwaesserung/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt Schwarzwald-Baar-Kreis ist eine kostenlose und neutrale Beratungsstelle des Landratsamts; der Standort Nord liegt Am Hoptbühl 2 in Villingen-Schwenningen.",
+      "quelle": "Landratsamt Schwarzwald-Baar-Kreis – Pflegestützpunkte",
+      "url": "https://www.lrasbk.de/Pflegest%C3%BCtzpunkt-Shortlink/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Beratungsstelle Alter & Technik des Landratsamts berät kostenlos zu Hilfsmitteln und barrierefreiem Wohnen; die Musterwohnung BEATE befindet sich in der Erzbergerstraße 28 in VS-Schwenningen.",
+      "quelle": "Landratsamt Schwarzwald-Baar-Kreis – Beratungsstelle Alter & Technik",
+      "url": "https://www.lrasbk.de/index.php?La=1&object=tx,2961.17139.1&kuo=2&sub=0",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Klimaschutz- und Energieagentur Region Schwarzwald-Baar-Heuberg (KLEA) berät Bürgerinnen und Bürger zu Energieeffizienz und Klimaschutz, von erneuerbaren Energien bis zur Wärmedämmung.",
+      "quelle": "Landratsamt Schwarzwald-Baar-Kreis – Klimaschutz- und Energieagentur SBH",
+      "url": "https://www.lrasbk.de/?object=tx%7c2961.21286.1",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie finde ich die Wasserhärte für meine Adresse in Villingen-Schwenningen heraus?",
+      "a": "Die Stadtwerke bieten ein Härte-Tool nach Stadtbezirk an; für Villingen wird zusätzlich nach Straße unterschieden. Zu jeder Auswahl gibt es die zugehörige chemisch-physikalische Untersuchung als PDF."
+    },
+    {
+      "q": "Wo kann ich mir in Villingen-Schwenningen ein barrierefreies Bad ansehen?",
+      "a": "Die Beratungsstelle Alter & Technik des Landratsamts betreibt in Schwenningen die Musterwohnung BEATE. Termine und geführte Rundgänge werden über die Beratungsstelle vereinbart."
+    },
+    {
+      "q": "Wer gibt Auskunft zur Lage meines Kanalanschlusses?",
+      "a": "Der Eigenbetrieb Stadtentwässerung der Stadt erteilt Grundstückseigentümern Auskünfte aus dem Kanalkataster und berät zur Grundstücksentwässerung."
+    }
+  ],
+  "offen": [
+    "Hochbehälter-Zuordnung der Beispielstraßen aus den verlinkten Prüfberichten (Hammerhalde, Wanne) auf den Straßenseiten der Stadtwerke; mmol/l-Werte aus pdftotext-Auszug der Prüfberichte 2025.",
+    "Ob die Stadt Villingen-Schwenningen eine eigene Rückstauebene festlegt, wurde nicht gefunden; im Text nur „in der Regel“ und Verweis auf Auskunft der Stadtentwässerung.",
+    "Website der KLEA selbst nicht erreichbar geprüft; Fakt stützt sich auf die Seite des Landratsamts."
+  ]
+}

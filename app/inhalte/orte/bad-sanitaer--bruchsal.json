@@ -1,0 +1,80 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "bruchsal",
+  "ortName": "Bruchsal",
+  "kreis": "Karlsruhe",
+  "title": "Badsanierung Bruchsal – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Bruchsal: weiches Wasser dank Umkehrosmose, Abwassersatzung beim Umbau, Pflegestützpunkt für das barrierearme Bad. Kostenlos vermittelt.",
+  "h1": "Badsanierung in Bruchsal",
+  "einstieg": "Wer in Bruchsal, Heidelsheim oder Untergrombach ein Bad erneuert, hat einen Vorteil, den viele Orte in der Rheinebene nicht haben: Das Leitungswasser wird im Wasserwerk enthärtet. Trotzdem gibt es beim Umbau örtliche Regeln, vor allem für Abwasserleitungen im Keller, und für das barrierearme Bad eine eigene Anlaufstelle in der Stadt.",
+  "abschnitte": [
+    {
+      "h2": "Weiches Wasser aus dem Büchenauer Wald – außer in Büchenau",
+      "text": "Die Stadtwerke Bruchsal fördern Grundwasser aus zwei voneinander unabhängigen Wasserwerken, eines mit fünf Brunnen im Büchenauer Wald, eines mit drei Brunnen bei Heidelsheim. Ein Teil des Wassers läuft durch eine Umkehrosmoseanlage, die Härtebildner zurückhält. Am Hahn kommen so rund 7,5 bis 8 °dH an, also Härtebereich „weich“, in der Kernstadt ebenso wie in Heidelsheim, Helmsheim, Ober- und Untergrombach. Kalk an Glas und Armaturen ist ein geringeres Thema, eine eigene Enthärtungsanlage ist in der Regel kein Muss. Eine Ausnahme ist Büchenau. Dort ist die Wasserversorgung Mittelhardt zuständig, deren Werte gesondert gelten."
+    },
+    {
+      "h2": "Kellerbad und neue Leitungen: was die Bruchsaler Abwassersatzung regelt",
+      "text": "Die Abwassersatzung der Stadt Bruchsal sieht vor, dass die Herstellung von Grundstücksentwässerungsanlagen und auch deren Änderung einer schriftlichen Genehmigung der Stadt bedürfen. Das betrifft Badumbauten vor allem dann, wenn Leitungen neu verlegt oder ein Bad im Untergeschoss angeschlossen wird. Als Rückstauebene gilt nach der Satzung die Straßenoberfläche an der Anschlussstelle. Toiletten, Duschen, Bodenabläufe oder Waschbecken darunter sind nach der Satzung vom Eigentümer gegen Rückstau zu sichern. Zuständig ist der Eigenbetrieb Abwasserbetrieb der Stadt; die Höhenlage des Straßenkanals und die Lage der Anschlussstelle gibt die Stadt auf Anfrage heraus."
+    },
+    {
+      "h2": "Barrierearm umbauen: Pflegestützpunkt und Energieberatung im Rathaus",
+      "text": "Für ein Bad ohne Stufen und mit Haltegriffen ist der Pflegestützpunkt Bruchsal am Alten Güterbahnhof eine neutrale Anlaufstelle. Er berät kostenlos und arbeitet unter anderem mit Wohnberatungsstellen, Pflege- und Krankenkassen und dem Landratsamt zusammen. Wer zugleich Warmwasser und Heizung erneuern möchte, kann die kostenfreien Energieberatungen nutzen, die die Stadt regelmäßig mit der Umwelt- und Energieagentur Kreis Karlsruhe im Rathaus anbietet. Ist der Umbau geplant, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadtwerke Bruchsal geben die Gesamthärte als Mittelwert mit 7,5 bis 8,0 °dH für Bruchsal, Unter- und Obergrombach und 7,7 bis 8,0 °dH für Heidelsheim und Helmsheim an, jeweils Härtebereich „weich“.",
+      "quelle": "Stadtwerke Bruchsal – Trinkwasser",
+      "url": "https://www.stadtwerke-bruchsal.de/trinkwasser/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke betreiben zwei autarke Wasserwerke mit acht Brunnen bis 40 Meter Tiefe und reduzieren die Wasserhärte unter anderem mit einer Umkehrosmoseanlage; für den Stadtteil Büchenau ist die Wasserversorgung Mittelhardt zuständig.",
+      "quelle": "Stadtwerke Bruchsal – Trinkwasser",
+      "url": "https://www.stadtwerke-bruchsal.de/trinkwasser/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach § 15 der Abwassersatzung bedürfen die Herstellung der Grundstücksentwässerungsanlagen, deren Anschluss sowie deren Änderung der schriftlichen Genehmigung der Stadt Bruchsal.",
+      "quelle": "Stadt Bruchsal – Abwassersatzung",
+      "url": "https://www.bruchsal.de/site/Bruchsal-Internet-2023/get/documents_E1454197280/bruchsal-internet/StadtBruchsal-Dateien/PDF-Sammlungen/Ortsrecht/Satzungen/Abwassersatzung%20mit%20%C3%84nderungssatzungen.pdf?ver=1",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach § 20 der Abwassersatzung sind Toiletten, Bodenabläufe, Spülen und Waschbecken, die tiefer als die Straßenoberfläche an der Anschlussstelle (Rückstauebene) liegen, vom Grundstückseigentümer gegen Rückstau zu sichern.",
+      "quelle": "Stadt Bruchsal – Abwassersatzung",
+      "url": "https://www.bruchsal.de/site/Bruchsal-Internet-2023/get/documents_E1454197280/bruchsal-internet/StadtBruchsal-Dateien/PDF-Sammlungen/Ortsrecht/Satzungen/Abwassersatzung%20mit%20%C3%84nderungssatzungen.pdf?ver=1",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt am Alten Güterbahnhof 9 ist für Bruchsal sowie Forst, Karlsdorf-Neuthard, Ubstadt-Weiher, Bad Schönborn und Östringen zuständig; die Beratung ist kostenlos, zu den Partnern zählen Wohnberatungsstellen.",
+      "quelle": "Stadt Bruchsal – Pflegestützpunkt",
+      "url": "https://www.bruchsal.de/leben/gesellschaft/aelterwerden/Pflegestuetzpunkt",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Bruchsal bietet regelmäßig zusammen mit der Umwelt- und Energieagentur Kreis Karlsruhe kostenfreie, unabhängige Energieberatungen im Rathaus am Otto-Oppenheimer-Platz an.",
+      "quelle": "Stadt Bruchsal – Energieberatung/Gebäudesanierung",
+      "url": "https://www.bruchsal.de/gestalten/energiewende/energieberatunggebaeudesanierung",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich in Bruchsal eine Entkalkungsanlage für das neue Bad?",
+      "a": "In der Regel nicht. Das Wasser der Stadtwerke liegt mit rund 8 °dH im weichen Bereich. In Büchenau gelten die Werte der Wasserversorgung Mittelhardt."
+    },
+    {
+      "q": "Braucht ein neues Bad im Keller in Bruchsal eine Genehmigung für den Abwasseranschluss?",
+      "a": "Die Abwassersatzung sieht für Herstellung und Änderung von Grundstücksentwässerungsanlagen eine schriftliche Genehmigung der Stadt vor. Ob das im Einzelfall zutrifft, klärt der Abwasserbetrieb der Stadt."
+    },
+    {
+      "q": "Wo bekomme ich in Bruchsal neutrale Beratung zum altersgerechten Bad?",
+      "a": "Beim Pflegestützpunkt am Alten Güterbahnhof. Er berät kostenlos und arbeitet mit Wohnberatungsstellen und Pflegekassen zusammen."
+    }
+  ],
+  "offen": [
+    "Ob die Umkehrosmose das gesamte Wasser oder nur einen Teilstrom aufbereitet, ist auf der Quelle nicht eindeutig; im Text als „ein Teil des Wassers“ formuliert, ggf. prüfen.",
+    "Härtewerte der Wasserversorgung Mittelhardt für Büchenau wurden nicht recherchiert."
+  ]
+}

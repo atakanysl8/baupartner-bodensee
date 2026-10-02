@@ -1,0 +1,75 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "freiburg",
+  "ortName": "Freiburg",
+  "kreis": "Freiburg im Breisgau",
+  "title": "Badsanierung Freiburg – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Freiburg: meist weiches Wasser, Rückstauebene der Stadtentwässerung, Wohnberatung und KESS. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Freiburg",
+  "einstieg": "Ob Altbauwohnung in der Wiehre, Reihenhaus in Littenweiler oder Einfamilienhaus in einer der Ortschaften: Wer in Freiburg ein Bad erneuert, plant mit Grund- und Quellwasser aus vier Wasserwerken, mit der städtischen Stadtentwässerungssatzung und oft mit dem Wunsch nach einer bodengleichen Dusche. Für Wasser, Abwasser, Wohnberatung und Energiefragen gibt es in der Stadt jeweils eigene Ansprechpartner.",
+  "abschnitte": [
+    {
+      "h2": "Weiches Wasser in den meisten Freiburger Versorgungsbereichen",
+      "text": "Freiburg wird aus Tiefbrunnen und zwei Quellgebieten versorgt; die Wasserwerke liegen in Ebnet, Kappel, Hausen und Günterstal. Je nachdem, aus welchem Werk ein Stadtteil hauptsächlich beliefert wird, unterscheidet sich die Härte deutlich: Drei der vier Versorgungsbereiche liegen mit 2,3 bis 5,2 °dH im Bereich „weich“, einer mit 12,7 °dH im Bereich „mittel“. Für die Badplanung bedeutet weiches Wasser in der Regel weniger Kalk an Glas, Fliesenfugen und Perlatoren. Welcher Bereich für die eigene Adresse gilt, lässt sich beim Wasserversorger über eine Adresssuche nachsehen."
+    },
+    {
+      "h2": "Kellerbad und Hausanschluss: Was die Stadtentwässerung vorgibt",
+      "text": "In Freiburg gehören Kanalanschlüsse und Entwässerungseinrichtungen im Haus den Eigentümern; nach Angaben des Eigenbetriebs Stadtentwässerung (ESE) gibt es doppelt so viele private wie öffentliche Abwasserkanäle. Als Rückstauebene gilt hier die Höhe von 10 cm über der endgültigen Straßenoberkante an der Anschlussstelle. Dusche, WC oder Waschbecken darunter, etwa in einem Souterrain- oder Kellerbad, sind gegen Rückstau zu sichern, zum Beispiel mit Rückstauverschluss oder Hebeanlage. Werden bestehende Entwässerungsanlagen nur instand gesetzt, genügt nach der Stadtentwässerungssatzung grundsätzlich eine Anzeige; bei Neubauten ist ein Entwässerungsantrag üblich. Die Beratung übernimmt im Auftrag des ESE dessen Dienstleister unter einer kostenlosen Rufnummer."
+    },
+    {
+      "h2": "Barrierearm umbauen und Warmwasser mitdenken",
+      "text": "Für ein Bad ohne Schwelle, mit Haltegriffen oder Platz für einen Rollator ist das städtische Seniorenbüro mit Pflegestützpunkt die erste neutrale Adresse. Die Stadt stellt auf ihrer Seite zum Wohnen im Alter eine Übersicht zu Wohnraumberatungsstellen, Finanzierungsmöglichkeiten und eine Checkliste zur Anpassung der Wohnung bereit. Wer zugleich die Warmwasserbereitung oder Heizung erneuern will, kann sich beim Kompetenzzentrum Energie, Sanieren & Solar (KESS) kostenfrei und unabhängig beraten lassen. Steht das Vorhaben fest, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Für Freiburg werden vier Versorgungsbereiche ausgewiesen: drei mit weichem Wasser (5,2, 4,6 und 2,3 °dH) und einer mit mittlerer Härte (12,7 °dH).",
+      "quelle": "badenova Netze (Wasserkonzession Stadt Freiburg) – Unser Wassernetz",
+      "url": "https://www.badenovanetze.de/ueber-uns/versorgungsnetze/wassernetz",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Als Rückstauebene gilt in Freiburg die Höhe von 10 cm über der endgültigen Straßenoberkante an der Anschlussstelle; Entwässerungsgegenstände darunter sind gegen Rückstau zu sichern.",
+      "quelle": "Eigenbetrieb Stadtentwässerung Freiburg – Rückstauebene",
+      "url": "https://www.ese.freiburg.de/pb/620558.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ist nur die Instandsetzung oder Beseitigung bestehender Entwässerungsanlagen geplant, genügt nach Angaben des ESE eine Anzeige nach § 11 der Stadtentwässerungssatzung; bei Neubauvorhaben wird in der Regel ein gebührenpflichtiger Entwässerungsantrag verlangt.",
+      "quelle": "Eigenbetrieb Stadtentwässerung Freiburg – Antragstellung",
+      "url": "https://www.ese.freiburg.de/pb/620309.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Freiburg verweist beim Wohnen im Alter auf Wohnraumberatungsstellen, Finanzierungsmöglichkeiten und eine Checkliste zur Wohnungsanpassung, etwa für eine bodenebene Dusche oder Haltegriffe.",
+      "quelle": "Stadt Freiburg – Wohnen im Alter",
+      "url": "https://www.freiburg.de/pb/228876.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das KESS – Kompetenzzentrum Energie, Sanieren & Solar der Energieagentur Regio Freiburg berät für ganz Freiburg kostenfrei und unabhängig, unter anderem zur Erneuerung der Heizung.",
+      "quelle": "Energieagentur Regio Freiburg – KESS",
+      "url": "https://energieagentur-regio-freiburg.eu/kess/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Wasser in meinem Freiburger Stadtteil?",
+      "a": "Das hängt vom Versorgungsbereich ab: Drei Bereiche liefern weiches Wasser zwischen 2,3 und 5,2 °dH, einer mittelhartes Wasser mit 12,7 °dH. Die Zuordnung zur eigenen Adresse zeigt der Wasserversorger online an."
+    },
+    {
+      "q": "Braucht ein neues Bad im Untergeschoss in Freiburg eine Rückstausicherung?",
+      "a": "Liegen Ablaufstellen unter der Rückstauebene, also unter 10 cm über der Straßenoberkante an der Anschlussstelle, sind sie nach den Vorgaben der Stadtentwässerung gegen Rückstau zu sichern. Auskunft gibt die Kundenberatung im Auftrag des ESE."
+    },
+    {
+      "q": "Wo bekomme ich in Freiburg neutrale Beratung zum barrierearmen Bad?",
+      "a": "Erste Anlaufstelle ist das städtische Seniorenbüro mit Pflegestützpunkt. Auf der Seite der Stadt zum Wohnen im Alter sind außerdem Wohnraumberatungsstellen und eine Checkliste zur Anpassung der Wohnung zu finden."
+    }
+  ],
+  "offen": [
+    "Wasserversorger ist die badenova Netze GmbH (Konzessionsnehmerin der Stadt, keine Stadtwerke im engeren Sinn); im Fließtext daher nur „Wasserversorger“, in den Quellenfeldern mit Namen. Bitte prüfen, ob die Nennung im Quellenfeld so in Ordnung ist.",
+    "Welche Stadtteile zu welchem der vier Versorgungsbereiche gehören, ist nur über die Adresssuche abrufbar und wurde nicht im Einzelnen geprüft.",
+    "Ortsteilnennungen im Einstieg (Wiehre, Littenweiler) sind nicht durch eine Fakt-Quelle belegt."
+  ]
+}

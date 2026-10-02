@@ -1,0 +1,91 @@
+{
+  "leistung": "hochbau",
+  "ort": "esslingen",
+  "ortName": "Esslingen",
+  "kreis": "Esslingen",
+  "title": "Bauunternehmen Esslingen – kostenlos vermittelt",
+  "description": "Bauen in Esslingen am Neckar: Bürgerbüro Bauen, Bebauungspläne im Geoportal, Gesamtanlage, Starkregenkarten, Grundstücksausschreibungen. Kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Esslingen",
+  "einstieg": "Esslingen am Neckar liegt zwischen Weinberghängen und Fluss, viele Baugrundstücke sind Hanglagen oder Lücken in gewachsenen Quartieren. Wer hier neu baut, anbaut oder ein Bestandshaus ersetzt, plant mit Bebauungsplänen samt örtlichen Bauvorschriften, mit der geschützten Gesamtanlage rund um die Altstadt und mit Starkregenkarten, die die Stadt veröffentlicht hat.",
+  "abschnitte": [
+    {
+      "h2": "Planungsrecht in Esslingen: Bürgerbüro Bauen und Geoportal",
+      "text": "Erste Anlaufstelle für Fragen zum Planungsrecht ist das Bürgerbüro Bauen im Technischen Rathaus in der Ritterstraße. Dort gibt es Auskünfte zu geltenden Bebauungsplänen und maßstäbliche Ausdrucke der Planzeichnungen. Ein Teil der rechtsverbindlichen Pläne steht bereits im Geoportal der Stadt zum Download bereit, noch aber nicht alle. Zu vielen Bebauungsplänen gehört eine Satzung über örtliche Bauvorschriften, die nach Angaben der Stadt vor allem in Neubaugebieten und in der Altstadt Dachneigung, Dachfarbe oder die Größe von Dachaufbauten regelt. Für den Entwurf eines Neubaus lohnt sich der Blick in beide Teile früh, weil sie Kubatur und Dachform oft stärker bestimmen als der Grundriss."
+    },
+    {
+      "h2": "Gesamtanlage und Außenbereich: wo in Esslingen Grenzen gelten",
+      "text": "Das Gebiet der mittelalterlichen Reichsstadt und ihrer frühen Erweiterungen ist als Gesamtanlage „Esslingen am Neckar“ nach dem Denkmalschutzgesetz geschützt, und zwar auch das äußere Bild, wie man es von Neckarhalde, Burgberg oder Ebershalde aus sieht. Veränderungen am geschützten Bild bedürfen der Genehmigung der städtischen Denkmalschutzbehörde. Ein Ersatzbau oder eine Aufstockung in diesem Bereich berührt deshalb in der Regel auch das Denkmalrecht. Am anderen Ende stehen die „Stückle“ am Stadtrand: Im baurechtlichen Außenbereich sind nach Angaben der Stadt etwa Gartenhäuser, befestigte Terrassen oder Stützmauern grundsätzlich unzulässig."
+    },
+    {
+      "h2": "Grundstück, Bodenwert und Starkregen",
+      "text": "Städtische Grundstücke, bebaut oder unbebaut, schreibt die Stadt grundsätzlich öffentlich aus; zuständig ist die Abteilung Liegenschaften, die auch eine Interessentenliste führt. Für Kaufpreise wertet der Gutachterausschuss bei der Stadt alle notariellen Kaufverträge aus, ermittelt daraus Bodenrichtwerte und veröffentlicht vierteljährliche Berichte zum Esslinger Immobilienmarkt. Bei Hanglagen und Kellern helfen die interaktiven Starkregengefahrenkarten, die Überflutungstiefen und Fließgeschwindigkeiten zeigen. Steht das Vorhaben, schildern Sie es über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Auskünfte zu geltenden Bebauungsplänen gibt das Bürgerbüro Bauen in der Ritterstraße 17; ein Teil der rechtsverbindlichen Bebauungspläne ist im Geoportal der Stadt digital abrufbar, aber noch nicht alle.",
+      "quelle": "Stadt Esslingen am Neckar – Bebauungspläne",
+      "url": "https://www.esslingen.de/wohnen-und-bauen/bauen/bauleitplanung/bebauungsplaene",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Insbesondere in Neubaugebieten und in der Altstadt erlässt die Stadt mit dem Bebauungsplan örtliche Bauvorschriften, etwa zu Dachfarbe, Dachneigung und Größe von Dachaufbauten.",
+      "quelle": "Stadt Esslingen am Neckar – Bebauungspläne",
+      "url": "https://www.esslingen.de/wohnen-und-bauen/bauen/bauleitplanung/bebauungsplaene",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Veränderungen am geschützten Bild der Gesamtanlage „Esslingen am Neckar“ bedürfen der Genehmigung der Denkmalschutzbehörde der Stadt; Grundlage ist eine eigene Satzung.",
+      "quelle": "Stadt Esslingen am Neckar – Denkmalschutz",
+      "url": "https://www.esslingen.de/wohnen-und-bauen/denkmalschutz",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bebaute oder unbebaute städtische Grundstücke, die verkauft werden, schreibt die Stadt Esslingen grundsätzlich aus; zuständig ist die Abteilung Liegenschaften.",
+      "quelle": "Stadt Esslingen am Neckar – Immobilien- und Grundstücksangebote",
+      "url": "https://www.esslingen.de/wohnen-und-bauen/immobilien",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Gutachterausschuss bei der Stadt Esslingen leitet Bodenrichtwerte aus der Kaufpreissammlung aller notariellen Kaufverträge ab und veröffentlicht Quartalsberichte zum Esslinger Immobilienmarkt.",
+      "quelle": "Stadt Esslingen am Neckar – Gutachterausschuss",
+      "url": "https://www.esslingen.de/gutachterausschuss",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Starkregengefahrenkarten der Stadt Esslingen zeigen Überflutungstiefen und Fließgeschwindigkeiten; dargestellt sind jeweils die Maximalwerte während eines Ereignisses.",
+      "quelle": "Stadt Esslingen am Neckar – Starkregen und Hochwasser",
+      "url": "https://www.esslingen.de/starkregen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im baurechtlichen Außenbereich sind nach Angaben der Stadt unter anderem Gartenhäuser, befestigte Terrassen, Pergolen und Stützmauern unzulässig; Gerätehütten bis 20 m³ sind genehmigungsfrei.",
+      "quelle": "Stadt Esslingen am Neckar – Nutzung im Außenbereich",
+      "url": "https://www.esslingen.de/wohnen-und-bauen/bauen/aussenbereich",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo bekomme ich in Esslingen Auskunft zum Bebauungsplan meines Grundstücks?",
+      "a": "Im Bürgerbüro Bauen in der Ritterstraße 17. Ein Teil der Pläne ist auch im Geoportal der Stadt abrufbar."
+    },
+    {
+      "q": "Was bedeutet die Gesamtanlage „Esslingen am Neckar“ für einen Neubau in der Altstadt?",
+      "a": "Veränderungen am geschützten äußeren und inneren Bild der Gesamtanlage bedürfen der Genehmigung der städtischen Denkmalschutzbehörde. Auskunft gibt die Denkmalschutzbehörde der Stadt."
+    },
+    {
+      "q": "Verkauft die Stadt Esslingen Bauplätze?",
+      "a": "Städtische Grundstücke, die verkauft werden, schreibt die Stadt grundsätzlich aus und veröffentlicht sie auf ihrer Website. Ansprechpartner ist die Abteilung Liegenschaften."
+    },
+    {
+      "q": "Wie finde ich heraus, ob mein Baugrundstück in Esslingen bei Starkregen gefährdet ist?",
+      "a": "Über die Starkregengefahrenkarten der Stadt, die Überflutungstiefen und Fließwege zeigen."
+    }
+  ],
+  "offen": [
+    "Dass Esslingen als Große Kreisstadt selbst untere Baurechtsbehörde ist, wurde nicht auf einer Amtsseite belegt (Bürgerportal nur mit JavaScript, Suche verlangt Anmeldung); im Text daher nur das Bürgerbüro Bauen als Anlaufstelle genannt.",
+    "Einstieg „viele Baugrundstücke sind Hanglagen oder Lücken in gewachsenen Quartieren“ ist allgemeine Beschreibung (gestützt auf aktuelle Ausschreibung „Baugrundstück in Hanglage“ und die Weinberg-Seite der Stadt), keine Statistik.",
+    "Esslingen hat eine Satzung über die beschränkte Verwendung luftverunreinigender Brennstoffe (Ortsrecht 6/5, 1997) für neue Feuerstätten; nicht in den Text aufgenommen, da Rechtsfolgen-nah – ggf. Anwaltsfrage."
+  ]
+}

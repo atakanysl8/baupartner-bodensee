@@ -1,0 +1,76 @@
+{
+  "leistung": "innenausbau",
+  "ort": "ludwigsburg",
+  "ortName": "Ludwigsburg",
+  "kreis": "Ludwigsburg",
+  "title": "Innenausbau Ludwigsburg – Fachbetrieb kostenlos vermittelt",
+  "description": "Innenausbau in Ludwigsburg: Dachausbau in Erhaltungsgebieten, Statik aus der Bauakte, Wohnung abtrennen. Fachbetrieb kostenlos und unverbindlich vermittelt.",
+  "h1": "Innenausbau in Ludwigsburg",
+  "einstieg": "Viele Ludwigsburger Häuser stammen aus Barockzeit, Gründerjahren oder den 1920er-Jahren der Südstadt. Wer dort ein Dachgeschoss ausbaut, Wände versetzt oder eine Einliegerwohnung abtrennt, arbeitet innen meist frei, stößt aber an Dach und Fassade schnell auf Erhaltungs- oder Denkmalrecht.",
+  "abschnitte": [
+    {
+      "h2": "Dachausbau in Erhaltungsgebieten: Was von der Straße sichtbar ist",
+      "text": "Ludwigsburg hat seit 2014 mehrere Erhaltungssatzungen beschlossen, zuerst für die Innenstadt, später unter anderem für die Gartenstadt Südstadt und die historischen Ortskerne von Eglosheim, Hoheneck, Oßweil, Pflugfelden, Poppenweiler und Neckarweihingen. In diesen Gebieten sind Gebäude farbig eingestuft. Bei rot, orange oder gelb markierten Häusern braucht ein Umbau eine erhaltungsrechtliche Genehmigung, soweit er für das Stadtbild relevant ist. Das betrifft nach Angaben der Stadt in der Regel Arbeiten an Dach und Fassade auf der Straßenseite, also etwa neue Gauben oder Dachfenster beim Dachgeschossausbau. Reine Innenarbeiten berührt das meist nicht. Ob ein Vorhaben darunter fällt, klärt das Bürgerbüro Bauen oder der Fachbereich Stadtplanung und Geoinformation."
+    },
+    {
+      "h2": "Bauakte, Statik und Wohnungsteilung",
+      "text": "Vor einem Wanddurchbruch hilft ein Blick in die Unterlagen. Das Bürgerbüro Bauen gewährt Eigentümern gegen Gebühr Einsicht in die Bauakte und, soweit vorhanden, in Statikunterlagen, die auch ausgeliehen werden können. Bei denkmalgeschützten oder erhaltenswerten Gebäuden informiert es außerdem, welche Maßnahmen möglich sind. Wer ein Haus so umbaut, dass Wohnungen einzeln verkauft oder auf Kinder übertragen werden sollen, benötigt dafür unter anderem eine Abgeschlossenheitsbescheinigung mit Aufteilungsplan. Für die energetische Seite des Ausbaus, etwa die Dämmung der Dachschrägen, berät die Energieagentur Kreis Ludwigsburg kostenlos. Danach schildern Sie Ihr Vorhaben über unser Formular, und wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Der Gemeinderat hat im September 2014 die erste Erhaltungssatzung für die Innenstadt beschlossen; weitere folgten unter anderem für die Südstadt und mehrere historische Ortskerne.",
+      "quelle": "Stadt Ludwigsburg – Erhaltungssatzungen",
+      "url": "https://www.ludwigsburg.de/start/stadt+entwickeln/erhaltungssatzungen.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Eine erhaltungsrechtliche Genehmigung ist nur nötig, soweit die Änderung für das Stadtbild relevant ist; das sind in der Regel Baumaßnahmen an Dach und Fassade auf der von der Straße sichtbaren Gebäudeseite.",
+      "quelle": "Stadt Ludwigsburg – Erhaltungssatzungen",
+      "url": "https://www.ludwigsburg.de/start/stadt+entwickeln/erhaltungssatzungen.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Bürgerbüro Bauen bietet Eigentümern gegen Gebühr Einsicht in die Bauakte sowie, falls vorhanden, Einsicht oder Ausleihe von Statikunterlagen.",
+      "quelle": "Stadt Ludwigsburg – Bauberatung",
+      "url": "https://www.ludwigsburg.de/start/rathaus+und+service/bauberatung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bei denkmalgeschützten oder nach der Erhaltungssatzung erhaltenswerten Gebäuden informiert das Bürgerbüro Bauen, welche Maßnahmen möglich sind und wo Grenzen bestehen.",
+      "quelle": "Stadt Ludwigsburg – Bauberatung",
+      "url": "https://www.ludwigsburg.de/start/rathaus+und+service/bauberatung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für die Aufteilung eines Gebäudes in Wohnungseigentum sind unter anderem eine Abgeschlossenheitsbescheinigung und ein Aufteilungsplan mit Bauzeichnungen im Maßstab 1:100 erforderlich.",
+      "quelle": "Stadt Ludwigsburg – Abgeschlossenheitsbescheinigung",
+      "url": "https://www.ludwigsburg.de/start/rathaus+und+service/abgschlossenheitsbescheinigung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Geschützt ist bei der Gesamtanlage Marktplatz das vom öffentlichen Verkehrsraum einsehbare historische Platz- und Straßenbild.",
+      "quelle": "Stadt Ludwigsburg – Verordnung Gesamtanlage Marktplatz",
+      "url": "https://www.ludwigsburg.de/site/Ludwigsburg-Internet-2020/get/params_E-369939010/18111115/Verordnung_Gesamtanlage_Marktplatz_RPS_11_1983.pdf",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich für den Dachausbau in der Ludwigsburger Innenstadt eine Genehmigung?",
+      "a": "Liegt das Haus im Bereich einer Erhaltungssatzung und ist farbig eingestuft, können straßenseitige Änderungen am Dach genehmigungspflichtig sein. Zusätzlich kann Baurecht oder Denkmalrecht greifen; Auskunft gibt das Bürgerbüro Bauen."
+    },
+    {
+      "q": "Wo finde ich die Statik meines Hauses in Ludwigsburg?",
+      "a": "Soweit vorhanden, liegen Statikunterlagen bei der Stadt. Das Bürgerbüro Bauen ermöglicht Eigentümern Einsicht oder Ausleihe gegen Gebühr."
+    },
+    {
+      "q": "Betrifft die Gesamtanlage Marktplatz auch Umbauten im Inneren?",
+      "a": "Geschützt ist laut Verordnung das vom öffentlichen Raum einsehbare Platz- und Straßenbild. Ob ein einzelnes Gebäude zusätzlich als Kulturdenkmal geschützt ist, klärt die Denkmalschutzbehörde."
+    }
+  ],
+  "offen": [
+    "Ob einzelne Gebäude innerhalb der Gesamtanlage zusätzlich Einzeldenkmale sind (mit Innenschutz), nicht geprüft.",
+    "Zuständige untere Denkmalschutzbehörde für Ludwigsburg (Stadt als Große Kreisstadt) nicht ausdrücklich auf Stadtseite belegt; FAQ nennt nur „die Denkmalschutzbehörde“."
+  ]
+}

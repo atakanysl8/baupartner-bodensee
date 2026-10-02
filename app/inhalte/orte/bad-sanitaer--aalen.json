@@ -1,0 +1,81 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "aalen",
+  "ortName": "Aalen",
+  "kreis": "Ostalbkreis",
+  "title": "Badsanierung Aalen – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Aalen: hartes Karstwasser, Hebeanlage für das Kellerbad, Wohnberatung der Stadt. Passender Fachbetrieb kostenlos und unverbindlich vermittelt.",
+  "h1": "Badsanierung in Aalen",
+  "einstieg": "Ob Altbau in der Kernstadt, Reihenhaus in Wasseralfingen oder Einfamilienhaus auf dem Härtsfeld: Wer in Aalen ein Bad erneuert, hat es mit kalkhaltigem Karstwasser, mit einem Kanalnetz, das bei Starkregen zurückstauen kann, und häufig mit dem Wunsch nach einem Bad ohne Stufen zu tun. Für alle drei Themen gibt es eigene Ansprechpartner bei Stadtwerken, Stadt und Landkreis.",
+  "abschnitte": [
+    {
+      "h2": "Karstquellen aus Unterkochen: hartes Wasser in fast allen Zonen",
+      "text": "Das Aalener Leitungswasser kommt zum großen Teil aus Karstquellen in Unterkochen und Oberkochen und wird von den Stadtwerken per Ultrafiltration aufbereitet; in die Hochzone und nach Wasseralfingen wird zusätzlich Landeswasser eingespeist. Ebnat und Waldhausen erhalten ihr Wasser vom Zweckverband Härtsfeld-Albuch-Wasserversorgung. In den Mittelwerten 2024 liegen die Aalener Zonen zwischen 14,9 und 17,7 °dH, also fast überall im Bereich „hart“. Kalk setzt sich deshalb spürbar an Duschglas, Brausekopf und Perlator ab, und auch Warmwasserbereiter und Thermostatarmaturen werden stärker belastet. Ob eine Enthärtungsanlage sinnvoll ist, hängt in der Regel von Zone, Warmwassersystem und gewünschtem Pflegeaufwand ab."
+    },
+    {
+      "h2": "Bad oder WC im Untergeschoss: Rückstau in Aalen ernst nehmen",
+      "text": "Die Stadtwerke Aalen berichten von Starkregen, nach dem Wasser aus den Kanalschächten bis auf die Straße stieg und Keller ohne Rückstausicherung volliefen. Für Bäder im Souterrain ist das ein zentraler Planungspunkt: Ein einfacher Rückstauverschluss sperrt im Ernstfall auch den Abfluss aus dem Haus. Liegen Toilette oder Waschbecken unter der Straßenoberkante, nennen die Stadtwerke deshalb die Abwasserhebeanlage, die Abwasser auch bei Rückstau in den Kanal fördert. Beide Systeme brauchen regelmäßige Wartung; die Stadtwerke empfehlen eine halbjährliche Kontrolle."
+    },
+    {
+      "h2": "Barrierearm umbauen: Wohnberatung der Stadt und Pflegestützpunkt",
+      "text": "Für ein Bad, das auch mit Rollator nutzbar bleibt, bietet Aalen eine ehrenamtliche Wohnberatung im Sozialberatungszentrum am Marktplatz an. Sie geht gemeinsam mit den Betroffenen Stolperfallen und Barrieren durch; als Beispiele nennt die Stadt Badelifter, WC-Sitzerhöhungen und Haltegriffe. Steht ein Pflegegrad im Raum, berät zusätzlich der Pflegestützpunkt Ostalbkreis, auf Wunsch auch zu Hause. Wer das Bad im Zuge einer größeren Sanierung umbaut, kann außerdem die kostenlose klimafreundliche Bauberatung der Stadt nutzen. Steht Ihr Vorhaben fest, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Laut Mittelwerten 2024 der Stadtwerke Aalen hat das Wasser der Niederzone 17,0 °dH, das Mischwasser Wasseralfingen 17,5 °dH; beide gelten als „hart“.",
+      "quelle": "Stadtwerke Aalen – Qualität des Aalener Trinkwassers, Mittelwerte 2024",
+      "url": "https://www.sw-aalen.de/uploads/attachment/download/353/Qualit%C3%A4t_des_Aalener_Trinkwassers_2024_.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Aalener Eigenwasser stammt aus Karstquellen in Unterkochen und Oberkochen; Ebnat und Waldhausen beliefert der Zweckverband Härtsfeld-Albuch-Wasserversorgung.",
+      "quelle": "Stadtwerke Aalen – Trinkwasserqualität",
+      "url": "https://www.sw-aalen.de/privatkunden/wasser/wasser/trinkwasserqualitaet",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach den Stadtwerken Aalen ist ein Rückstauverschluss ungeeignet, wenn Toilette oder Waschbecken im Untergeschoss liegen; die Verantwortung für den Rückstauschutz trägt der Grundstückseigentümer.",
+      "quelle": "Stadtwerke Aalen – Rückstauschutz",
+      "url": "https://www.sw-aalen.de/privatkunden/wasser/abwasser/rueckstauschutz",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die ehrenamtliche Wohnberatung der Stadt Aalen berät kostenfrei, etwa zu Badeliftern, WC-Sitzerhöhungen und Haltegriffen; Ansprechstelle ist das Sozialberatungszentrum, Marktplatz 2.",
+      "quelle": "Stadt Aalen – Senioren",
+      "url": "https://www.aalen.de/senioren.227641.25.htm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt Ostalbkreis berät kostenlos und neutral, auch in der Häuslichkeit; Sitz ist die Stuttgarter Straße 41 in Aalen.",
+      "quelle": "Landratsamt Ostalbkreis – Pflegestützpunkt Ostalbkreis",
+      "url": "https://www.ostalbkreis.de/pflegestuetzpunkt",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Gebäudeeigentümer in Aalen können nach Terminabsprache eine kostenlose Erstberatung der Stadt zum klimafreundlichen Bauen und Sanieren nutzen.",
+      "quelle": "Stadt Aalen – Beratung (Klima)",
+      "url": "https://www.aalen.de/beratung.200806.25.htm",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Wasser in Aalen und lohnt sich eine Enthärtung fürs neue Bad?",
+      "a": "Je nach Zone liegt die Gesamthärte laut Stadtwerken zwischen 14,9 und 17,7 °dH, meist „hart“. Ob sich eine Enthärtungsanlage lohnt, hängt von Zone und Haustechnik ab."
+    },
+    {
+      "q": "Ich möchte im Keller in Aalen ein Duschbad einbauen. Reicht eine Rückstauklappe?",
+      "a": "Nach Angaben der Stadtwerke nicht, wenn Toilette oder Waschbecken im Untergeschoss liegen. Genannt wird dann eine Abwasserhebeanlage."
+    },
+    {
+      "q": "Wo bekomme ich in Aalen neutrale Beratung zu einem barrierearmen Bad?",
+      "a": "Bei der ehrenamtlichen Wohnberatung der Stadt im Sozialberatungszentrum. Bei Pflegebedarf ist zusätzlich der Pflegestützpunkt Ostalbkreis Ansprechpartner."
+    }
+  ],
+  "offen": [
+    "Spanne 14,9–17,7 °dH umfasst die Eigen- und Mischwasserzonen der Stadtwerke; die reine Landeswasserzone liegt mit 13,4 °dH im Bereich „mittel“ und ist im Text nicht gesondert genannt.",
+    "Die Härtewerte stammen aus den Mittelwerten 2024 (PDF, als Bild eingebettet); eine Analyse 2025 war auf der Seite der Stadtwerke nicht verlinkt.",
+    "Ob der Pflegestützpunkt Ostalbkreis ausdrücklich zur Wohnraumanpassung berät, steht nicht wörtlich auf der Seite; im Text nur allgemein genannt."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "heilbronn",
+  "ortName": "Heilbronn",
+  "kreis": "Heilbronn",
+  "title": "Badsanierung Heilbronn – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Heilbronn: Wasserhärte je nach Straße, Rückstau im Keller, barrierearmes Bad. Fachbetrieb für Ihr Vorhaben kostenlos vermittelt.",
+  "h1": "Badsanierung in Heilbronn",
+  "einstieg": "Wer in Heilbronn ein Bad erneuert, stellt schnell fest, dass das Trinkwasser nicht überall in der Stadt gleich hart ist und dass für den Abwasseranschluss eigene Regeln der Stadt gelten. Ob Gründerzeitwohnung in der Innenstadt, Reihenhaus in Böckingen oder Einfamilienhaus in Sontheim: Härtegrad, Kanalanschluss und der Wunsch nach einem Bad ohne Stufe prägen die Planung.",
+  "abschnitte": [
+    {
+      "h2": "Mischwasser aus Bodensee und eigenen Quellen: Härte nach Straße",
+      "text": "Rund 80 Prozent des Heilbronner Trinkwassers kommen vom Zweckverband Bodenseewasserversorgung, etwa 20 Prozent aus eigenen Gewinnungsanlagen; beides wird gemischt. Je nach Mischungsverhältnis liegt die Härte zwischen 9 °dH im Bereich „mittel“ und 14 bis 18 °dH im Bereich „hart“. Die Stadtwerke Heilbronn veröffentlichen dazu ein Straßenverzeichnis und Analysen für jede Härtestufe. Für die Badplanung lohnt der Blick in diese Liste: In Straßen mit 14 bis 18 °dH setzen sich Kalkränder an Duschglas, Perlatoren und Thermostaten deutlich schneller ab als in Straßen mit 9 °dH. Fragen zur Wasserqualität beantwortet das Labor der Heilbronner Versorgungs GmbH."
+    },
+    {
+      "h2": "Bad im Untergeschoss: Hausanschluss und Rückstauebene in Heilbronn",
+      "text": "Das Heilbronner Kanalnetz ist rund 500 Kilometer lang und führt überwiegend Mischwasser, also Schmutz- und Regenwasser gemeinsam. Nach den Informationen der Entsorgungsbetriebe gehört die Anschlussleitung eines Grundstücks in Heilbronn einschließlich des Teils im öffentlichen Bereich den Eigentümern und liegt in ihrer Zuständigkeit. Als Rückstauebene gilt die Straßenoberfläche an der Anschlussstelle; Toiletten, Duschen oder Bodenabläufe darunter sind gegen Rückstau zu sichern, in der Regel über eine Hebeanlage. Auskunft zur Grundstücksentwässerung gibt die Abteilung Abwasser der Entsorgungsbetriebe der Stadt Heilbronn."
+    },
+    {
+      "h2": "Barrierearmes Bad: Pflegestützpunkt und Energieagentur",
+      "text": "Für einen Umbau mit bodengleicher Dusche, Haltegriffen und mehr Bewegungsfläche bietet die Stadt neutrale Beratung an. Der Pflegestützpunkt der Stadt Heilbronn in der Gymnasiumstraße berät kostenlos und trägerunabhängig, auf Wunsch auch zu Hause. Wer mit dem Bad zugleich die Warmwasserbereitung erneuern möchte, bekommt bei der Energieagentur Heilbronn eine kostenlose, anbieterneutrale Erstberatung, unter anderem zu Heizungstechnik und Förderprogrammen. Steht Ihr Vorhaben fest, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Etwa 80 Prozent des Heilbronner Trinkwassers stammen vom Zweckverband Bodenseewasserversorgung, rund 20 Prozent aus eigenen Quellen; beides wird gemischt.",
+      "quelle": "Stadtwerke Heilbronn – Wasserqualität",
+      "url": "https://www.stadtwerke-heilbronn.de/swh/wasserversorgung/wasserhaerte.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Heilbronn führen ein Straßenverzeichnis der Wasserhärte; die Werte reichen von 9 °dH (Härtebereich mittel) bis 14–18 °dH (Härtebereich hart).",
+      "quelle": "Stadtwerke Heilbronn – Wasserhärte Straßenverzeichnis und Analysen",
+      "url": "https://www.stadtwerke-heilbronn.de/wAssets/docs/wasserversorgung/HN-STR-neu-2025.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das öffentliche Kanalnetz in Heilbronn ist rund 500 Kilometer lang und besteht überwiegend aus Mischwasserkanälen; Betriebsführerin der Abteilung Abwasser ist die Heilbronner Versorgungs GmbH.",
+      "quelle": "Stadt Heilbronn – Abwasserbeseitigung",
+      "url": "https://www.heilbronn.de/umwelt-mobilitaet/abwasserbeseitigung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach dem Merkblatt der Stadt ist die Anschlussleitung eines Grundstücks, auch der Teil im öffentlichen Bereich, Eigentum des Grundstücksbesitzers und liegt in seiner Zuständigkeit.",
+      "quelle": "Stadt Heilbronn – Hausanschlusskanäle, Informationen für Hausbesitzer",
+      "url": "https://www.heilbronn.de/fileadmin/daten/stadtheilbronn/formulare/rathaus/abwasser/Flyer_Hausanschlusskanaele.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ablaufstellen unterhalb der Rückstauebene, in Heilbronn die Straßenoberfläche an der Anschlussstelle, sind gegen Rückstau zu sichern; in der Regel über eine automatische Hebeanlage.",
+      "quelle": "Stadt Heilbronn – Wie sichere ich mein Haus gegen Rückstau?",
+      "url": "https://www.heilbronn.de/fileadmin/daten/stadtheilbronn/formulare/rathaus/abwasser/Wie_sichere_ich_mein_Haus_gegen_Rueckstau.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt der Stadt Heilbronn in der Gymnasiumstraße 44 berät neutral und kostenlos, telefonisch, vor Ort oder auf Wunsch beim Pflegebedürftigen zu Hause.",
+      "quelle": "Stadt Heilbronn – Pflegestützpunkt",
+      "url": "https://www.heilbronn.de/leben/seniorinnen-senioren/pflegestuetzpunkt.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Energieagentur Heilbronn bietet seit 2016 kostenlose, anbieterneutrale Erstberatungen an, unter anderem zu Heizungstechnik, energieeffizientem Sanieren und Förderprogrammen.",
+      "quelle": "Stadt Heilbronn – Energieagentur Heilbronn GmbH",
+      "url": "https://www.heilbronn.de/umwelt-mobilitaet/energie/energieagentur.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Wasser an meiner Heilbronner Adresse?",
+      "a": "Das hängt von der Straße ab. Die Stadtwerke Heilbronn veröffentlichen ein Straßenverzeichnis mit Werten zwischen 9 und 18 °dH; bei Fragen hilft das Labor der Heilbronner Versorgungs GmbH."
+    },
+    {
+      "q": "Wer ist in Heilbronn für die Abwasserleitung vom Haus zum Kanal zuständig?",
+      "a": "Nach dem Merkblatt der Stadt die Eigentümer, und zwar einschließlich des Leitungsteils im öffentlichen Bereich. Auskunft zur Grundstücksentwässerung gibt die Abteilung Abwasser der Entsorgungsbetriebe."
+    },
+    {
+      "q": "Wo gibt es in Heilbronn neutrale Beratung zu einem Bad für das Alter?",
+      "a": "Der Pflegestützpunkt der Stadt berät kostenlos und trägerunabhängig, auf Wunsch auch in der eigenen Wohnung."
+    }
+  ],
+  "offen": [
+    "Die Merkblätter der Entsorgungsbetriebe zu Hausanschluss und Rückstau sind ältere Faltblätter; ob die zitierten Regeln wortgleich in der aktuellen Abwassersatzung stehen, wurde nicht im Satzungstext nachgeprüft.",
+    "Ortsteilnennungen im Einstieg (Böckingen, Sontheim) sind Heilbronner Stadtteile, aber nicht durch eine eigene Fakt-Quelle belegt.",
+    "Ob der Pflegestützpunkt ausdrücklich Wohnraumanpassung berät, steht auf der Seite nicht wörtlich; belegt ist nur die allgemeine, neutrale Pflegeberatung."
+  ]
+}

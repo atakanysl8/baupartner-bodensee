@@ -1,0 +1,88 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "rottenburg",
+  "ortName": "Rottenburg",
+  "kreis": "Tübingen",
+  "title": "Badsanierung Rottenburg – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Rottenburg am Neckar: enthärtetes Quellwasser, Starkregenkarten für Teilorte, Wohnberatung und Pflegestützpunkt. Kostenlos vermittelt.",
+  "h1": "Badsanierung in Rottenburg",
+  "einstieg": "Rottenburg am Neckar besteht aus der Kernstadt und siebzehn Stadtteilen, von Bad Niedernau im Neckartal bis Ergenzingen im Gäu. Entsprechend unterschiedlich sind die Voraussetzungen für ein neues Bad: Das Trinkwasser kommt aus verschiedenen Quellen, und manche Teilorte liegen in Tälern, in denen Starkregen eine Rolle spielt.",
+  "abschnitte": [
+    {
+      "h2": "Bronnbachquelle und Fernwasser: Wie hart ist das Rottenburger Wasser?",
+      "text": "Rund 60 Prozent des Rottenburger Trinkwassers gewinnen die Stadtwerke Rottenburg vor Ort über die Bronnbachquelle, die übrigen 40 Prozent beziehen sie von der Ammertal-Schönbuchgruppe, der Gäuwasserversorgung und der Starzel-Eyach-Wasserversorgungsgruppe. Das Bronnbach-Wasserwerk im Neckartal versorgt die Kernstadt sowie Bad Niedernau, Bieringen, Dettingen (Hochzone), Hailfingen, Frommenhausen, Seebronn und Weiler. Weil das Quellgebiet mit Muschelkalk und Lettenkeuper überdeckt ist, wird das Wasser dort aufwendig aufbereitet und in einer Carix-Anlage enthärtet. In Kiebingen, das Wasser der Ammertal-Schönbuchgruppe erhält, liegt die Gesamthärte laut Jahresmittel 2025 bei 13,25 °dH, also im oberen mittleren Bereich. Wie viel Kalk an Ihrer Adresse ankommt, hängt deshalb vom Stadtteil ab; die Stadtwerke veröffentlichen ihre Analysen im Wasserportal des BDEW."
+    },
+    {
+      "h2": "Bad im Untergeschoss: Starkregenkarten für Rottenburger Teilorte",
+      "text": "Ein Duschbad oder WC im Keller liegt oft unterhalb der Straße und damit im Bereich möglicher Überflutung. Die Stadt Rottenburg hat auf ihrer Seite zum Hochwasserschutz Starkregengefahrenkarten unter anderem für Bad Niedernau, Bieringen und Kiebingen veröffentlicht, ergänzt durch eine Lesehilfe. Wer in einem dieser Teilorte ein Kellerbad plant, kann dort prüfen, ob das Grundstück in einem Fließweg oder einer Senke liegt. Davon hängt ab, wie wichtig Rückstauschutz, eine Hebeanlage oder höher gesetzte Lichtschächte sind. Ist der Umfang klar, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    },
+    {
+      "h2": "Barrierefreies Bad: Wohnberatung und Pflegestützpunkt in Rottenburg",
+      "text": "Der Kreisseniorenrat Tübingen berät im Auftrag des Landkreises ehrenamtlich und kostenlos zu allen Fragen rund um barrierefreies Wohnen. Der Pflegestützpunkt des Landkreises Tübingen hat einen eigenen Standort am Rottenburger Marktplatz und bietet auch Hausbesuche an. Für die Warmwasserbereitung und die Heizung bieten die Energieexperten der Agentur für Klimaschutz im Landkreis Tübingen eine kostenfreie, unabhängige Erstberatung im Rottenburger Rathaus an, nach Terminabsprache."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Rund 60 Prozent des Rottenburger Trinkwassers stammen aus der Bronnbachquelle; 40 Prozent werden von der Ammertal-Schönbuchgruppe, der Gäuwasserversorgung und der Starzel-Eyach-Wasserversorgungsgruppe bezogen.",
+      "quelle": "Stadtwerke Rottenburg am Neckar – Wasserqualität und -gewinnung",
+      "url": "https://www.sw-rottenburg.de/wasser/wasserqualitaet.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Bronnbach-Wasserwerk versorgt die Kernstadt, Bad Niedernau, Bieringen, Dettingen (Hochzone), Hailfingen, Frommenhausen, Seebronn und Weiler; das Wasser wird gefiltert, mit Ozon entkeimt und in einer Carix-Anlage enthärtet.",
+      "quelle": "Stadtwerke Rottenburg am Neckar – Wasserqualität und -gewinnung",
+      "url": "https://www.sw-rottenburg.de/wasser/wasserqualitaet.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für das Versorgungsgebiet Kiebingen weist die Ammertal-Schönbuchgruppe im Jahresmittel 2025 eine Gesamthärte von 13,25 °dH (Härtebereich mittel) aus.",
+      "quelle": "Zweckverband Ammertal-Schönbuchgruppe – Trinkwasseranalyse Kiebingen",
+      "url": "https://www.asg-wasser.de/wGlobal/wGlobal/scripts/php/asgPdf.php?id=13",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Rottenburg stellt auf ihrer Seite zum Hochwasserschutz Starkregengefahrenkarten unter anderem für Bad Niedernau, Bieringen und Kiebingen mit einer Lesehilfe bereit.",
+      "quelle": "Stadt Rottenburg am Neckar – Hochwasserschutz",
+      "url": "https://www.rottenburg.de/hochwasserschutz.127821.htm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt im Landkreis Tübingen hat einen Standort am Marktplatz 26 in Rottenburg; die Beratung ist kostenlos und neutral, Hausbesuche sind möglich.",
+      "quelle": "Landkreis Tübingen – Pflegestützpunkt, Beratungsstellen",
+      "url": "https://www.kreis-tuebingen.de/soziales/pflege/psp",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Kreisseniorenrat Tübingen berät im Auftrag des Landkreises Tübingen ehrenamtlich und kostenlos zu allen Fragen des barrierefreien Wohnens.",
+      "quelle": "Kreisseniorenrat Tübingen – Wohnberatung",
+      "url": "https://www.kreisseniorenrat.de/projekte/leben-und-wohnen-im-alter/wohnberatung/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Agentur für Klimaschutz im Landkreis Tübingen bietet im Rottenburger Rathaus eine kostenfreie, unabhängige Erstberatung unter anderem zu Heizungstechnik und Sanierung an, nur nach Terminabsprache.",
+      "quelle": "Stadt Rottenburg am Neckar – Kostenlose Energieberatung der Agentur für Klimaschutz",
+      "url": "https://www.rottenburg.de/kostenlose+und+neutrale+energieberatung+energie+checks+der+agentur+fuer+klimaschutz.121683.htm",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wird das Trinkwasser in Rottenburg enthärtet?",
+      "a": "Das Wasser aus dem Bronnbach-Wasserwerk für die Kernstadt und mehrere Teilorte wird laut Stadtwerken in einer Carix-Anlage enthärtet. Teilorte mit Fremdwasser, etwa Kiebingen, erhalten Wasser mittlerer Härte von gut 13 °dH."
+    },
+    {
+      "q": "Gibt es Starkregenkarten für meinen Rottenburger Stadtteil?",
+      "a": "Die Stadt veröffentlicht auf ihrer Seite zum Hochwasserschutz Starkregengefahrenkarten, unter anderem für Bad Niedernau, Bieringen und Kiebingen."
+    },
+    {
+      "q": "Wer berät in Rottenburg zum barrierefreien Bad?",
+      "a": "Der Kreisseniorenrat Tübingen mit seiner kostenlosen Wohnberatung und der Pflegestützpunkt des Landkreises mit seinem Standort am Marktplatz."
+    }
+  ],
+  "offen": [
+    "Konkreter Härtewert für die Kernstadt (Bronnbach-Wasser nach Enthärtung) nicht ermittelbar: Die Stadtwerke verweisen auf das BDEW-Wasserportal, das ohne Anmeldung keine Daten zeigte.",
+    "„Kernstadt und siebzehn Stadtteile“ im Einstieg entspricht der Stadtteilliste auf rottenburg.de (17 Einträge), aber nicht ausdrücklich so formuliert.",
+    "Ob Wurmlingen, Wendelsheim und Oberndorf ebenfalls ASG-Wasser erhalten, ist nur aus der ASG-Analyseliste abgeleitet und im Text nicht behauptet.",
+    "Zuständigkeit für Abwasser/Rückstau in Rottenburg nicht ermittelt; Satz zu Rückstauschutz/Hebeanlage ist allgemein."
+  ]
+}

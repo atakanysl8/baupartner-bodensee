@@ -1,0 +1,91 @@
+{
+  "leistung": "hochbau",
+  "ort": "reutlingen",
+  "ortName": "Reutlingen",
+  "kreis": "Reutlingen",
+  "title": "Bauunternehmen Reutlingen – kostenlos vermittelt",
+  "description": "Neubau oder Anbau in Reutlingen: Bürgerbüro Bauen, Bauplatzvergabe, Bebauungspläne im Online-Stadtplan, Starkregenkarten. Bauunternehmen kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Reutlingen",
+  "einstieg": "In der Kernstadt und den zwölf Stadtbezirken von Betzingen bis Mittelstadt ist Bauland in Reutlingen gefragt; die Stadt selbst spricht von einem wachsenden Flächenbedarf für Wohnraum. Wer hier ein Haus neu baut, anbaut oder ein Mehrfamilienhaus plant, hat es mit dem städtischen Bürgerbüro Bauen, einem eigenen Vergabeverfahren für städtische Bauplätze und einem Online-Stadtplan zu tun, der Bebauungspläne, Bodenrichtwerte und freie Grundstücke zusammenführt.",
+  "abschnitte": [
+    {
+      "h2": "Zuständig in Reutlingen: das Bürgerbüro Bauen",
+      "text": "In Reutlingen laufen Bauanträge nicht über das Landratsamt. Das Bürgerbüro Bauen im Baudezernat erfüllt nach Angaben der Stadt die Funktionen der Baurechtsbehörde und der Denkmalschutzbehörde und ist zuständig für Bau- und Planungsberatung, Angrenzerbenachrichtigung und Bauabnahme. Ob für ein Grundstück ein Bebauungsplan gilt, lässt sich im amtlichen Online-Stadtplan nachsehen; dort sind alle Pläne verknüpft, und seit Mai 2017 in Kraft getretene Pläne sind zusätzlich nach Stadtbezirk aufgelistet. Ältere Pläne können auch persönlich im Bürgerbüro Bauen eingesehen werden."
+    },
+    {
+      "h2": "Bauplätze in Reutlingen: Interessentenliste und Konzeptvergabe",
+      "text": "Einzelne städtische Wohnbauplätze schreibt die Stadt über ein Online-Portal aus, in dem sich Interessenten auf eine Liste setzen lassen und nach festgelegten Vergaberichtlinien zum Zug kommen. Größere Wohnbau- und Mischgebietsflächen werden über ein Konzeptverfahren vergeben, das der Gemeinderat 2021 beschlossen hat: Den Ausschlag gibt die Qualität des Konzepts, nicht das höchste Gebot. Auch Baugemeinschaften können sich bewerben; die Stabsstelle Wohnraum führt eine Interessentenliste. Private Bauplätze und Baulücken zeigt die Stadt im Online-Stadtplan an. Ansprechpartner ist in den Bezirken das jeweilige Bezirksamt, in der Kernstadt das Bürgerbüro Bauen."
+    },
+    {
+      "h2": "Bodenwert und Starkregen: Planungsgrundlagen am Albtrauf",
+      "text": "Für die Einschätzung eines Grundstückspreises veröffentlicht der Gemeinsame Gutachterausschuss bei der Stadt Reutlingen Bodenrichtwerte, ebenfalls im Online-Stadtplan. Er ist seit 2023 auch für Pliezhausen, Walddorfhäslach und Wannweil zuständig. Wichtig für Hanglagen und Keller: Die Stadtentwässerung Reutlingen hat Starkregengefahrenkarten für drei Szenarien erstellt, die Wasserstände und Fließwege pro Quadratmeter zeigen. Lichtschächte, Kellerabgänge und Geländeneigung lassen sich so früh einplanen. Sobald Grundstück und Vorhaben feststehen, schildern Sie Ihre Anfrage über unser Formular; wir wählen dafür einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Das Bürgerbüro Bauen im Baudezernat der Stadt Reutlingen erfüllt die Funktionen der Baurechtsbehörde und der Denkmalschutzbehörde.",
+      "quelle": "Stadt Reutlingen – Bürgerbüro Bauen",
+      "url": "https://www.reutlingen.de/de/Rathaus/Stadtverwaltung/Staedtische-aemter/Amt?view=publish&item=level2&id=13",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Alle Bebauungspläne können persönlich beim Bürgerbüro Bauen oder über den amtlichen Online-Stadtplan eingesehen werden; die seit 4. Mai 2017 in Kraft getretenen Pläne sind zusätzlich nach Stadtbezirken aufgelistet.",
+      "quelle": "Stadt Reutlingen – Rechtsverbindliche Bebauungspläne",
+      "url": "https://www.reutlingen.de/de/Rathaus/Buergerservice/Bebauungsplanverfahren/Rechtsverbindliche-Bebauungsplaene",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Einzelne städtische Wohnbauflächen werden über ein Online-Portal mit Interessentenliste nach Vergabekriterien ausgeschrieben, größere Wohnbau- und Mischgebietsflächen über ein Konzeptverfahren.",
+      "quelle": "Stadt Reutlingen – Städtische Wohnbauflächen",
+      "url": "https://www.reutlingen.de/de/Leben/Bauen-Wohnen/Bauplaetze/Bauplaetze-fuer-private-Bauherren",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bei der Konzeptvergabe nach dem Gemeinderatsbeschluss vom 27. April 2021 werden städtische Grundstücke zum Festpreis vergeben; ausschlaggebend ist die Konzeptqualität, nicht das höchste Gebot.",
+      "quelle": "Stadt Reutlingen – Gemeinsam Bauen",
+      "url": "https://www.reutlingen.de/gemeinsambauen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Städtische und private Bauplätze zeigt die Stadt im Online-Stadtplan, zusammen mit Bebauungsplan und Bodenrichtwerten; Ansprechpartner sind in den Stadtteilen die Bezirksämter, in der Kernstadt das Bürgerbüro Bauen.",
+      "quelle": "Stadt Reutlingen – Bauplätze im Online-Stadtplan",
+      "url": "https://www.reutlingen.de/bauplatz",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Gemeinsame Gutachterausschuss bei der Stadt Reutlingen besteht seit dem 3. März 2023 und ist auch für Pliezhausen, Walddorfhäslach und Wannweil zuständig.",
+      "quelle": "Stadt Reutlingen – Gemeinsamer Gutachterausschuss",
+      "url": "https://www.reutlingen.de/de/Rathaus/Stadtverwaltung/Staedtische-aemter/Bereich?view=publish&item=level1&id=42",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Starkregengefahrenkarten der Stadtentwässerung Reutlingen zeigen Wasserstände und Fließwege für ein seltenes, ein außergewöhnliches und ein extremes Niederschlagsereignis.",
+      "quelle": "Stadtentwässerung Reutlingen – Starkregengefahrenkarte",
+      "url": "https://www.ser-reutlingen.de/de/Hochwasser/Starkregengefahrenkarte",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist in Reutlingen die Stadt oder das Landratsamt für meinen Bauantrag zuständig?",
+      "a": "Die Stadt: Das Bürgerbüro Bauen erfüllt die Funktion der Baurechtsbehörde und berät auch zu Planung und Bauabnahme."
+    },
+    {
+      "q": "Wie vergibt die Stadt Reutlingen eigene Bauplätze?",
+      "a": "Einzelne Wohnbauplätze über ein Online-Portal mit Interessentenliste und Vergabekriterien, größere Flächen über ein Konzeptverfahren zum Festpreis. Auskunft gibt das Amt für Wirtschaftsförderung und Liegenschaften."
+    },
+    {
+      "q": "Wo sehe ich, ob mein Grundstück in Reutlingen bei Starkregen betroffen ist?",
+      "a": "In den Starkregengefahrenkarten der Stadtentwässerung Reutlingen. Sie zeigen Wasserstände in Stufen ab 5 Zentimetern sowie Fließrichtungen; Fragen beantwortet die SER."
+    },
+    {
+      "q": "Wo finde ich Bodenrichtwerte für Reutlingen?",
+      "a": "Im Online-Stadtplan; herausgegeben werden sie vom Gemeinsamen Gutachterausschuss bei der Stadt."
+    }
+  ],
+  "offen": [
+    "Die auf reutlingen.de veröffentlichten Bodenrichtwert-Erläuterungen nennen noch den Stichtag 01.01.2022; ob neuere Werte im Stadtplan vorliegen, wurde nicht geprüft (im Text kein Stichtag genannt).",
+    "Eine Reutlinger Stellplatzsatzung wurde nicht gefunden und nicht erwähnt.",
+    "„Bauland gefragt / wachsender Flächenbedarf“ stützt sich auf den Einleitungstext der städtischen Seite Bauen & Wohnen (reutlingen.de/bauen-wohnen), nicht auf eine Statistik; zwölf Stadtbezirke laut reutlingen.de/stadtbezirke."
+  ]
+}

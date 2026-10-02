@@ -1,0 +1,82 @@
+{
+  "leistung": "renovierung-sanierung",
+  "ort": "mannheim",
+  "ortName": "Mannheim",
+  "kreis": "Mannheim",
+  "title": "Sanierung Mannheim – Fachbetrieb kostenlos vermittelt",
+  "description": "Sanierung in Mannheim: Sanierungsgebiete, rund 2800 Kulturdenkmale, Wärmeplanung bis 2040 und städtische Förderprogramme. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Sanierung in Mannheim",
+  "einstieg": "Gründerzeithaus in der Oststadt, Nachkriegsbau in den Quadraten oder Siedlungshaus in der Gartenstadt: Viele Mannheimer Gebäude stehen vor einer energetischen oder umfassenden Sanierung. Ob das Haus in einem Sanierungsgebiet liegt, unter Denkmalschutz steht oder künftig an ein Wärmenetz angeschlossen werden kann, beeinflusst Planung, Genehmigung und Förderung erheblich.",
+  "abschnitte": [
+    {
+      "h2": "Acht Sanierungsgebiete: wo Mannheim die Stadterneuerung fördert",
+      "text": "Mannheim hat mehrere förmlich festgelegte Sanierungsgebiete ausgewiesen. Bund und Land bezuschussen sie über die Programme Lebendige Zentren, Sozialer Zusammenhalt sowie Wachstum und nachhaltige Erneuerung. Ein Beispiel ist die Neckarstadt-West: Die Stadt beschreibt dort eine dichte, überwiegend geschlossene Bebauung, deren Bausubstanz häufig einen erheblichen Sanierungsstau aufweist. Wer in einem Sanierungsgebiet ein Haus modernisiert, sollte wissen, dass dort besondere städtebauliche Regeln gelten können. Ob ein Grundstück betroffen ist, zeigt die Karte der aktuellen Sanierungsgebiete; Auskunft gibt der Fachbereich Geoinformation und Stadtplanung in der Glücksteinallee."
+    },
+    {
+      "h2": "Denkmalgeschützte Häuser: Abstimmung mit der unteren Denkmalschutzbehörde",
+      "text": "Rund 2800 Einzelobjekte stehen in Mannheim unter Denkmalschutz, darunter viele Wohnhäuser und auch Bauten der Moderne. Untere Denkmalschutzbehörde ist die Stadt, vertreten durch den Fachbereich Baurecht, Bauverwaltung und Denkmalschutz. Eingriffe in die Bausubstanz oder Veränderungen am Erscheinungsbild bedürfen einer denkmalrechtlichen Genehmigung; die Stadt beteiligt dabei das Landesamt für Denkmalpflege. Wer für Sanierungskosten an einem Kulturdenkmal steuerliche Vorteile nutzen möchte, braucht eine Bescheinigung der Stadt, und die Maßnahmen müssen nach Angabe der Stadt vor Beginn mit ihr abgestimmt sein."
+    },
+    {
+      "h2": "Heizung und Dämmung: Wärmeplanung und Beratung vor Ort",
+      "text": "Mit der kommunalen Wärmeplanung hat Mannheim festgelegt, wie die Wärmeversorgung bis 2040 dekarbonisiert werden soll. Über einen Verfügbarkeitscheck der MVV lässt sich für jedes Grundstück nachsehen, welche Wärmeversorgung künftig infrage kommt. Zu Dämmung, Heizungstausch und den städtischen Förderprogrammen berät die Klimaschutzagentur Mannheim kostenlos. Wenn der Sanierungsumfang klar ist, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Im Stadtgebiet Mannheim sind mehrere förmlich festgelegte Sanierungsgebiete ausgewiesen, gefördert über die Programme Lebendige Zentren, Sozialer Zusammenhalt sowie Wachstum und nachhaltige Erneuerung.",
+      "quelle": "Stadt Mannheim – Aktuelle Sanierungsgebiete und Einzelprojekte",
+      "url": "https://www.mannheim.de/de/stadt-gestalten/staedtebauliche-sanierung-und-staedtebaufoerderung/aktuelle-sanierungsgebiete-und-einzelprojekte",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für das Sanierungsgebiet Neckarstadt-West II (67 ha) nennt die Stadt eine dichte, überwiegend geschlossene Bebauung und häufig einen erheblichen Sanierungsstau der Bausubstanz.",
+      "quelle": "Stadt Mannheim – Sanierungsgebiet Neckarstadt-West II",
+      "url": "https://www.mannheim.de/de/stadt-gestalten/staedtebauliche-sanierung-und-staedtebaufoerderung/aktuelle-sanierungsgebiete-und-einzelprojekte/sanierungsgebiet-neckarstadt-west-ii",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In Mannheim stehen rund 2800 Einzelobjekte aus mehreren Jahrhunderten unter Denkmalschutz, neben Schloss und Kirchen auch Wohnhäuser, Industriebauten und Bauten der Moderne.",
+      "quelle": "Stadt Mannheim – Denkmalschutz",
+      "url": "https://www.mannheim.de/de/service-bieten/bauen-und-wohnen/denkmalschutz",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für steuerliche Bescheinigungen bei Kulturdenkmalen müssen Bau- und Sanierungsmaßnahmen vor ihrer Durchführung mit der Stadt Mannheim als unterer Denkmalschutzbehörde abgestimmt sein.",
+      "quelle": "Stadt Mannheim – Steuerbescheinigung (Denkmalschutz)",
+      "url": "https://www.mannheim.de/de/service-bieten/bauen-und-wohnen/denkmalschutz/steuerbescheinigung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Rund 40 % der städtischen CO₂-Emissionen stammen laut Stadt aus der Wärmeversorgung; die kommunale Wärmeplanung beschreibt den Weg zu einer dekarbonisierten Wärmeversorgung bis 2040, die MVV bietet dazu einen Verfügbarkeitscheck je Grundstück.",
+      "quelle": "Stadt Mannheim – Wärmeplanung",
+      "url": "https://www.mannheim.de/de/service-bieten/klima/energie-und-waermewende/waermeplanung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Zu den städtischen Förderprogrammen zählen unter anderem Programme zur energetischen Sanierung und zur Heizungsoptimierung; die Klimaschutzagentur berät auch zu Bundes- und Landesmitteln.",
+      "quelle": "Stadt Mannheim – Förderprogramme",
+      "url": "https://www.mannheim.de/de/service-bieten/mannheim-auf-klimakurs/foerderprogramme",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie finde ich heraus, ob mein Haus in Mannheim in einem Sanierungsgebiet liegt?",
+      "a": "Die Stadt veröffentlicht eine Karte der aktuellen Sanierungsgebiete. Auskunft gibt der Fachbereich Geoinformation und Stadtplanung."
+    },
+    {
+      "q": "Wer entscheidet in Mannheim über Sanierungen an einem Kulturdenkmal?",
+      "a": "Die Stadt Mannheim als untere Denkmalschutzbehörde, vertreten durch den Fachbereich Baurecht, Bauverwaltung und Denkmalschutz. Sie bezieht das Landesamt für Denkmalpflege als Fachbehörde ein."
+    },
+    {
+      "q": "Kommt für mein Grundstück Fernwärme infrage?",
+      "a": "Einen ersten Hinweis gibt der Verfügbarkeitscheck der MVV, auf den die Stadt im Rahmen der Wärmeplanung verweist. Neutrale Beratung zur Heizungswahl bietet die Klimaschutzagentur Mannheim."
+    }
+  ],
+  "offen": [
+    "Die Zahl der Sanierungsgebiete (acht, rund 500 ha) ist eine Angabe der Stadtseite und kann sich ändern; die einzelnen Gebietsnamen wurden außer Neckarstadt-West II nicht im Text genannt.",
+    "Ob in allen Mannheimer Sanierungsgebieten das umfassende Verfahren mit Genehmigungsvorbehalt gilt, wurde nicht ausgewertet; der Text sagt nur „können gelten“.",
+    "Konkrete Förderhöhen der städtischen Programme wurden bewusst nicht genannt.",
+    "Stadtteilnennungen im Einstieg (Oststadt, Quadrate, Gartenstadt) sind nicht durch eine Fakt-Quelle belegt."
+  ]
+}

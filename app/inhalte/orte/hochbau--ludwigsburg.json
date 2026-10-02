@@ -1,0 +1,82 @@
+{
+  "leistung": "hochbau",
+  "ort": "ludwigsburg",
+  "ortName": "Ludwigsburg",
+  "kreis": "Ludwigsburg",
+  "title": "Bauunternehmen Ludwigsburg – kostenlos vermittelt",
+  "description": "Neubau in Ludwigsburg: Bürgerbüro Bauen, Löss und Gipskeuper im Baugrund, Grundwasser, Erhaltungssatzungen. Passender Baubetrieb kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Ludwigsburg",
+  "einstieg": "Ein Einfamilienhaus auf einem städtischen Bauplatz in Poppenweiler, ein Ersatzneubau in der Weststadt oder ein Anbau im Schlösslesfeld: Wer in Ludwigsburg baut, trifft auf einen sehr unterschiedlichen Untergrund und auf eine Stadt, die viel Wert auf ihr historisches Bild legt. Beides sollte vor der Ausschreibung der Bauleistungen geklärt sein.",
+  "abschnitte": [
+    {
+      "h2": "Bürgerbüro Bauen und Virtuelles Bauamt",
+      "text": "Erste Anlaufstelle für baurechtliche Fragen ist das Bürgerbüro Bauen der Stadt. Beratungen bis 15 Minuten sind dort gebührenfrei. Gegen Gebühr stellt es ein Servicepaket Planungsgrundlagen zusammen, das neben Bebauungsplan und Baulasten auch Angaben zu Erhaltungssatzung, Sanierungsgebiet, Hochwasser, Altlasten, Fliegerschäden und Denkmalschutz bündelt. Bauanträge, Bauvoranfragen und Kenntnisgabeverfahren reicht man in Ludwigsburg ausschließlich über das Virtuelle Bauamt ein; gebaut werden darf nach Baugenehmigung und Baufreigabe, dem „Roten Punkt“. In den Ortskernen von Eglosheim, Hoheneck, Oßweil, Pflugfelden, Poppenweiler und Neckarweihingen sowie in Innenstadt und Südstadt gelten Erhaltungssatzungen; dort kann auch ein Neubau eine erhaltungsrechtliche Genehmigung brauchen."
+    },
+    {
+      "h2": "Löss, Gipskeuper und Grundwasser: Der Ludwigsburger Baugrund",
+      "text": "Die Stadt hat ihren Baugrund in einem Infoblatt beschrieben. Oben liegen meist Lössschichten mit mittlerer Tragfähigkeit, die bei Wasserzutritt rasch aufweichen. Im Süden und Westen folgen oft tiefgründig verwitterte Reste des Gipskeupers, darunter Lettenkeuper und Muschelkalk, der als Fels beim Aushub teuer werden kann. Das Grundwasser steht je nach Lage zwischen etwa zwei und mehr als zehn Metern unter Gelände. Eingriffe ins Grundwasser, etwa für Baugrube oder Erdwärmesonde, sind nach Angaben der Stadt vor Baubeginn beim Landratsamt anzeige- und genehmigungspflichtig. Nach der Bauzeit darf Grundwasser nicht über Drainagen in den Kanal, das Untergeschoss wird dann gegebenenfalls wasserdicht ausgeführt. Mit diesen Grundlagen schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Beim Bürgerbüro Bauen sind Beratungen bis 15 Minuten gebührenfrei; das Servicepaket Planungsgrundlagen enthält unter anderem Angaben zu Erhaltungssatzung, Sanierungsgebiet, Hochwasser, Altlasten und Fliegerschäden.",
+      "quelle": "Stadt Ludwigsburg – Bauberatung",
+      "url": "https://www.ludwigsburg.de/start/rathaus+und+service/bauberatung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bauanträge, Bauvoranfragen, Kenntnisgabeverfahren und Anträge auf Abweichungen sind in Ludwigsburg ausschließlich über das Virtuelle Bauamt einzureichen; Baubeginn erst nach Baugenehmigung und Baufreigabe (Roter Punkt).",
+      "quelle": "Stadt Ludwigsburg – Baurechtliche Verfahren",
+      "url": "https://www.ludwigsburg.de/start/rathaus+und+service/baurechtliche+verfahren.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der oberflächennahe Grundwasserhorizont liegt in Ludwigsburg zwischen etwa 2 m und mehr als 10 m unter Gelände; Eingriffe ins Grundwasser sind vor Baubeginn beim Landratsamt anzeige- und genehmigungspflichtig.",
+      "quelle": "Stadt Ludwigsburg – Infoblatt Baugrund",
+      "url": "https://www.ludwigsburg.de/site/Ludwigsburg-Internet-2020/get/params_E1822498528/23240672/26-05-19-Infoblatt%20Baugrund.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Laut städtischem Infoblatt besteht der Untergrund vor allem im südlichen und westlichen Stadtgebiet aus verwitterten, eher mäßig tragfähigen Auslaugungsrückständen des Gipskeupers; die Baugrundkarte ersetzt kein Baugrundgutachten.",
+      "quelle": "Stadt Ludwigsburg – Infoblatt Baugrund",
+      "url": "https://www.ludwigsburg.de/site/Ludwigsburg-Internet-2020/get/params_E1822498528/23240672/26-05-19-Infoblatt%20Baugrund.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Innerhalb der Erhaltungssatzungen benötigen Vorhaben an rot, orange oder gelb gekennzeichneten Gebäuden eine erhaltungsrechtliche Genehmigung vor Rückbau, Umbau oder Neubau.",
+      "quelle": "Stadt Ludwigsburg – Erhaltungssatzungen",
+      "url": "https://www.ludwigsburg.de/start/stadt+entwickeln/erhaltungssatzungen.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ludwigsburg, Remseck am Neckar und Freiberg am Neckar haben seit 1. Januar 2020 einen gemeinsamen Gutachterausschuss mit Sitz in Ludwigsburg, der jährlich einen Grundstücksmarktbericht mit Bodenrichtwerten veröffentlicht.",
+      "quelle": "Stadt Ludwigsburg – Gutachterausschuss",
+      "url": "https://www.ludwigsburg.de/start/leben+in+ludwigsburg/gutachterausschuss.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bei der Vergabe städtischer Einfamilienhausbauplätze sind nach den Vergaberichtlinien unter anderem familiäre Situation, Wohnort und Arbeitsplatz der Bewerber relevant.",
+      "quelle": "Stadt Ludwigsburg – Städtische Wohnbauplätze",
+      "url": "https://www.ludwigsburg.de/start/leben+in+ludwigsburg/staedtische+wohnbauplaetze.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich in Ludwigsburg ein Baugrundgutachten?",
+      "a": "Laut Stadt ist nach DIN ab einem mittleren Schwierigkeitsgrad ein baugrundgeologisches Gutachten vorgesehen, und das Baugrundrisiko liegt beim Bauherrn. Die städtische Baugrundkarte gibt nur Anhaltspunkte."
+    },
+    {
+      "q": "Wie bekomme ich einen städtischen Bauplatz in Ludwigsburg?",
+      "a": "Die Stadt schreibt Bauplätze in einzelnen Baugebieten aus und vergibt sie nach ihren Vergaberichtlinien. Aktuelle Angebote veröffentlicht sie auf der Seite zu den städtischen Wohnbauplätzen."
+    },
+    {
+      "q": "Was kostet die Erstberatung im Bürgerbüro Bauen?",
+      "a": "Bis 15 Minuten ist sie gebührenfrei. Längere Beratungen und das Servicepaket Planungsgrundlagen sind laut Stadt gebührenpflichtig."
+    }
+  ],
+  "offen": [
+    "Ortsteilnennungen im Einstieg (Poppenweiler, Weststadt, Schlösslesfeld) teils aus Bauplatz-Seite, nicht als einzelne Fakten aufgeführt.",
+    "Hochwasser-/Starkregenkarten der Stadt nicht gesondert recherchiert (nur über Servicepaket erwähnt)."
+  ]
+}

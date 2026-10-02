@@ -1,0 +1,82 @@
+{
+  "leistung": "renovierung-sanierung",
+  "ort": "karlsruhe",
+  "ortName": "Karlsruhe",
+  "kreis": "Karlsruhe",
+  "title": "Sanierung Karlsruhe – Fachbetrieb kostenlos vermittelt",
+  "description": "Sanierung in Karlsruhe: Sanierungsgebiete, Denkmalschutz, Energieleitplan und neutrale Energieberatung der KEK. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Sanierung in Karlsruhe",
+  "einstieg": "Gründerzeithaus in der Oststadt, Nachkriegsbau in Mühlburg oder Fachwerk im Ortskern von Knielingen: Wer in Karlsruhe ein älteres Gebäude saniert, klärt sinnvollerweise zu Beginn, ob das Haus in einem Sanierungsgebiet liegt, unter Denkmalschutz steht und wie die künftige Wärmeversorgung im Quartier aussehen kann. Dafür gibt es in der Stadt feste Ansprechpartner.",
+  "abschnitte": [
+    {
+      "h2": "Liegt das Haus in einem Karlsruher Sanierungsgebiet?",
+      "text": "Karlsruhe hat Erfahrung mit Stadtsanierung: Im „Dörfle“, der östlichen Innenstadt, lief die erste Flächensanierung der Bundesrepublik nach dem Städtebauförderungsgesetz. Heute weist die Stadt unter anderem Durlach Stadteingang, Kaiserstraße-West, Grötzingen Ortsmitte, Innenstadt Ost, Alt-Knielingen Ortskern, Grünwettersbach und Durlach-Aue als Sanierungsgebiete aus. Dort gelten besondere Genehmigungspflichten, für Durlach Stadteingang etwa geregelt in einer eigenen Allgemeinverfügung. Gleichzeitig nennt die Stadt einen Zuschuss für Modernisierungsmaßnahmen wie den Austausch veralteter Heizungen oder energiesparende Fenster, Instandhaltung ist davon ausgenommen. Die Beratung zu Einzelobjekten übernimmt das Stadtplanungsamt, auch zu Fassadengestaltung und Farbgebung."
+    },
+    {
+      "h2": "Kulturdenkmal sanieren: Untere Denkmalschutzbehörde und Steuerbescheinigung",
+      "text": "Obwohl Karlsruhe erst 1715 gegründet wurde, ist die Stadt reich an Kulturdenkmalen. Ob ein Gebäude dazugehört, lässt sich in der Datenbank der Kulturdenkmale im Geoportal Baden-Württemberg nachsehen. Die untere Denkmalschutzbehörde der Stadt berät Eigentümer, Architekturbüros und Handwerksbetriebe zu denkmalverträglichen Lösungen, bei Bedarf auch mit Termin vor Ort. Für zuvor genehmigte Maßnahmen stellt sie auf Antrag Steuerbescheinigungen nach den §§ 7i, 10f und 11b EStG aus. Wer Fenster, Dach oder Fassade eines Denkmals erneuern möchte, klärt die Genehmigung deshalb in der Regel vor der Auftragsvergabe."
+    },
+    {
+      "h2": "Energetisch sanieren mit Blick auf den Energieleitplan",
+      "text": "Mit dem Energieleitplan hat Karlsruhe eine kommunale Wärmeplanung vorgelegt, die vom Regierungspräsidium bestätigt wurde. Er ist ein strategisches Instrument ohne rechtliche Außenwirkung, zeigt aber, wo Fern- oder Nahwärme eine Option sein kann; für mehrere Stadtgebiete hat die Stadt Machbarkeitsstudien veröffentlicht. Neutrale Beratung zu Heizungstausch, Dämmung und sommerlichem Wärmeschutz bietet die Karlsruher Energie- und Klimaschutzagentur, im Beratungszentrum in der Hebelstraße, telefonisch, online oder beim Termin im eigenen Haus. Steht das Sanierungskonzept, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Als Sanierungsgebiete führt die Stadt unter anderem Durlach Stadteingang, Kaiserstraße-West, Grötzingen Ortsmitte, Innenstadt Ost, Alt-Knielingen Ortskern, Grünwettersbach und Durlach-Aue; für Durlach Stadteingang regelt eine Allgemeinverfügung die Genehmigungspflichten.",
+      "quelle": "Stadt Karlsruhe – Sanierungsgebiete",
+      "url": "https://www.karlsruhe.de/mobilitaet-stadtbild/stadtplanung/sanierung/sanierungsgebiete",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Mit der Sanierung des „Dörfle“ wurde in Karlsruhe die erste Flächensanierung in der Bundesrepublik nach dem Städtebauförderungsgesetz durchgeführt; die Beratung bei der Sanierung von Einzelobjekten übernimmt das Stadtplanungsamt.",
+      "quelle": "Stadt Karlsruhe – Die Sanierung",
+      "url": "https://www.karlsruhe.de/mobilitaet-stadtbild/stadtplanung/sanierung/informationen-zur-sanierung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt nennt einen Zuschuss für Modernisierungsmaßnahmen (keine Instandhaltung) für Eigentümer, etwa für den Austausch veralteter Heizungen oder energiesparende Fenster.",
+      "quelle": "Stadt Karlsruhe – Beratung und Förderung zu Klimaschutz und -anpassung",
+      "url": "https://www.karlsruhe.de/umwelt-klima/klimaschutz-klimaanpassung/beratung-und-foerderung-zu-klimaschutz-und-anpassung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die untere Denkmalschutzbehörde erteilt Auskünfte aus der Denkmalliste, berät zu Maßnahmen am Kulturdenkmal und stellt für zuvor genehmigte Maßnahmen Steuerbescheinigungen nach §§ 7i, 10f, 11b EStG aus.",
+      "quelle": "Stadt Karlsruhe – Kulturdenkmale und Denkmalschutz",
+      "url": "https://www.karlsruhe.de/mobilitaet-stadtbild/denkmalschutz",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Energieleitplan mit integrierter kommunaler Wärmeplanung wurde vom Gemeinderat verabschiedet und vom Regierungspräsidium bestätigt; er hat nach Angabe der Stadt keine rechtliche Außenwirkung.",
+      "quelle": "Stadt Karlsruhe – Energieleitplan",
+      "url": "https://www.karlsruhe.de/umwelt-klima/klimaschutz-klimaanpassung/klimaschutzaktivitaeten/energieleitplan",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Karlsruher Energie- und Klimaschutzagentur ist eine gemeinnützige Gesellschaft der Stadt und berät kostenfrei und neutral, unter anderem zu Heizungstausch und energetischer Gebäudesanierung.",
+      "quelle": "Karlsruher Energie- und Klimaschutzagentur",
+      "url": "https://www.kek-karlsruhe.de/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie erfahre ich, ob mein Haus in einem Karlsruher Sanierungsgebiet liegt?",
+      "a": "Die Stadt veröffentlicht die Sanierungsgebiete mit Satzungen und Plänen auf ihrer Website. Auskunft gibt das Stadtplanungsamt, das auch Eigentümer im Gebiet berät."
+    },
+    {
+      "q": "Gibt es bei der Sanierung eines Karlsruher Kulturdenkmals steuerliche Vorteile?",
+      "a": "Für zuvor genehmigte Maßnahmen stellt die untere Denkmalschutzbehörde auf Antrag eine Steuerbescheinigung aus. Ob und in welchem Umfang sie sich auswirkt, klärt in der Regel die steuerliche Beratung."
+    },
+    {
+      "q": "Was bedeutet der Karlsruher Energieleitplan für meine Sanierung?",
+      "a": "Er zeigt, wo Fern- oder Nahwärme künftig eine Option sein kann, hat laut Stadt aber keine rechtliche Außenwirkung. Zu Heizungsfragen berät die Karlsruher Energie- und Klimaschutzagentur neutral."
+    }
+  ],
+  "offen": [
+    "KlimaBonus Karlsruhe ist laut Stadt (Seite Wohnen, 02.10.2026) für 2026 ausgeschöpft und wird für 2027 überarbeitet; deshalb im Text ohne Beträge und ohne Antragshinweis genannt.",
+    "Ob der Zuschuss für Modernisierungsmaßnahmen nur in Sanierungsgebieten gilt, ist nicht eindeutig belegt (die Stadt verlinkt ihn auf die Seite der Sanierungsgebiete); im Text daher ohne Gebietsbezug formuliert.",
+    "Stadtteilnennungen im Einstieg (Oststadt, Mühlburg, Knielingen) sind Beispiele ohne eigene Fakt-Quelle.",
+    "KlimaBonus Karlsruhe (2026 ausgeschöpft, Überarbeitung 2027) aus Fakt entfernt; bei Neuauflage wieder prüfen."
+  ]
+}

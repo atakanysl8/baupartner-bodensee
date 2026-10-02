@@ -1,0 +1,81 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "schwetzingen",
+  "ortName": "Schwetzingen",
+  "kreis": "Rhein-Neckar-Kreis",
+  "title": "Badsanierung Schwetzingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Schwetzingen: hartes Grundwasser aus der Hardt, Bleileitungen im Altbau, Prüfschacht und Rückstau. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Schwetzingen",
+  "einstieg": "In Schwetzingen stehen viele Häuser aus der Zeit vor 1970, ob in der Innenstadt rund um den Schlossplatz oder in den Wohngebieten der Nordstadt. Wer dort das Bad erneuert, stößt oft auf alte Leitungen und auf die Frage, wie das neue Bad mit dem kalkhaltigen Grundwasser aus der Hardt zurechtkommt.",
+  "abschnitte": [
+    {
+      "h2": "Wasser aus der Schwetzinger Hardt: hart, aber gut planbar",
+      "text": "Das Trinkwasser, das die Stadtwerke Schwetzingen in Schwetzingen und Oftersheim verteilen, ist Grundwasser. Zu rund 95 Prozent stammt es aus dem Wasserwerk Schwetzinger Hardt des Zweckverbands Wasserversorgung Kurpfalz, der Rest kommt über eine Reserveeinspeisung im Norden der Stadt. Die Analyse vom April 2026 weist für das Wasserwerk Hardt 17,9 °dH aus, das liegt im Härtebereich „hart“. Für das neue Bad bedeutet das: Kalk lagert sich an Duschwänden, Brausen und Perlatoren ab, und Warmwasserbereiter verkalken schneller. Beim Planen helfen leicht zu reinigende Oberflächen, rahmenlose Duschwände und Armaturen, deren Strahlregler sich ohne Werkzeug wechseln lassen. Ob zusätzlich eine Enthärtungsanlage sinnvoll ist, hängt in der Regel von Warmwassertechnik und Verbrauch ab."
+    },
+    {
+      "h2": "Altbau in Schwetzingen: Bleileitungen und Hausanschluss",
+      "text": "Die Stadtwerke weisen darauf hin, dass seit dem 12. Januar 2026 grundsätzlich ein Verbot von Trinkwasserleitungen aus Blei gilt, und empfehlen Eigentümern älterer Gebäude zu prüfen, ob noch Bleirohre vorhanden sind. Eine Badsanierung ist dafür ein günstiger Zeitpunkt, weil Wände und Böden ohnehin geöffnet werden. Auf der Abwasserseite regelt die städtische Abwassersatzung, dass Herstellung und Änderung der Grundstücksentwässerung einer schriftlichen Genehmigung der Stadt bedürfen. Der Prüfschacht ist nach der Satzung bis zur Rückstauebene wasserdicht auszuführen, und Grundleitungen haben in der Regel mindestens 150 Millimeter Nennweite. Bei einem Bad im Untergeschoss kommt die Rückstausicherung hinzu."
+    },
+    {
+      "h2": "Barrierearm umbauen und Energie sparen",
+      "text": "Für Fragen zum altersgerechten Umbau ist der Pflegestützpunkt des Rhein-Neckar-Kreises da; die Stadt nennt Wohnraumanpassung und Unfallvermeidung als Beratungsthema, die Beratung ist kostenfrei. Wer zugleich die Warmwasserbereitung erneuern will, kann die kostenfreie Energieberatung der KLiBA nutzen, die regelmäßig in der Markgrafenstraße stattfindet. Häufige Wünsche sind ein bodengleicher Duschplatz, Haltegriffe oder ein höheres WC; wie sich das im Bestand umsetzen lässt, klärt die Beratung vorab. Danach schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Laut Trinkwasseranalyse der Stadtwerke Schwetzingen (Probenahme 13.04.2026) hat das Wasser aus dem Wasserwerk Schwetzinger Hardt eine Gesamthärte von 3,20 mmol/l bzw. 17,9 °dH, Härtebereich „hart“.",
+      "quelle": "Stadtwerke Schwetzingen – Trinkwasseranalyse April 2026",
+      "url": "https://www.stadtwerke-schwetzingen.de/wp-content/uploads/2026/05/trinkwasseranalyse-04-2026.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das in Schwetzingen und Oftersheim verteilte Trinkwasser ist Grundwasser und wird zu 95 Prozent im Wasserwerk Schwetzinger Hardt des Zweckverbands Wasserversorgung Kurpfalz gefördert.",
+      "quelle": "Stadtwerke Schwetzingen – Trinkwasserversorgung",
+      "url": "https://www.stadtwerke-schwetzingen.de/wasser/wasserversorgung/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Schwetzingen weisen darauf hin, dass seit dem 12. Januar 2026 ein grundsätzliches Verbot von Trinkwasserleitungen aus Blei gilt.",
+      "quelle": "Stadtwerke Schwetzingen – Bleileitungen austauschen",
+      "url": "https://www.stadtwerke-schwetzingen.de/wasser/bleileitungen-austauschen/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach der Abwassersatzung der Stadt Schwetzingen bedürfen Herstellung, Anschluss und Änderung von Grundstücksentwässerungsanlagen der schriftlichen Genehmigung der Stadt; Entwässerungsgegenstände unterhalb der Rückstauebene sind vom Eigentümer gegen Rückstau zu sichern.",
+      "quelle": "Stadt Schwetzingen – Abwassersatzung",
+      "url": "https://www.schwetzingen.de/site/Schwetzingen_2021/get/documents_E1408845632/schwetzingen/Bib_Schwetzingen/Satzungen/6%20-%20Wasserversorgung%20und%20Eigenbetrieb%20Bellamar/Abwasser%20-%20Satzung%20ab%2001.01.2019%20mit%20%C3%84nderung%20%28Abwassergeb%C3%BChr%29%20ab%2001.01.2025_signed.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt des Rhein-Neckar-Kreises berät Schwetzinger Bürgerinnen und Bürger kostenfrei, unter anderem zu Wohnraumanpassung und Unfallvermeidung; zuständig ist die Beratungsstelle Hockenheim.",
+      "quelle": "Rhein-Neckar-Kreis – Pflegestützpunkt",
+      "url": "https://www.rhein-neckar-kreis.de/landratsamt/aemter-und-aufgaben/sozialamt/pflegestuetzpunkte",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die KLiBA bietet in Schwetzingen kostenfreie Energieberatungen an, jeden zweiten Montag in der Markgrafenstraße 2/9.",
+      "quelle": "Stadt Schwetzingen – Energieberatung",
+      "url": "https://www.schwetzingen.de/startseite/stadtentwicklung/energieberatung.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Leitungswasser in Schwetzingen?",
+      "a": "Die Stadtwerke geben für das Wasser aus dem Wasserwerk Schwetzinger Hardt 17,9 °dH an, das ist der Härtebereich „hart“."
+    },
+    {
+      "q": "Sollte ich bei der Badsanierung im Altbau nach Bleileitungen schauen lassen?",
+      "a": "Die Stadtwerke Schwetzingen weisen auf das seit 12. Januar 2026 geltende grundsätzliche Bleileitungsverbot hin. Wenn Wände ohnehin geöffnet werden, lässt sich der Leitungsbestand gut prüfen."
+    },
+    {
+      "q": "Wer berät in Schwetzingen zur barrierearmen Wohnung?",
+      "a": "Der Pflegestützpunkt des Rhein-Neckar-Kreises; für Schwetzingen ist laut Kreis die Beratungsstelle Hockenheim zuständig. Die Beratung ist kostenfrei."
+    }
+  ],
+  "offen": [
+    "Einstieg „viele Häuser aus der Zeit vor 1970“ und Ortsteilnennungen sind nicht statistisch belegt; bei Bedarf allgemeiner formulieren.",
+    "Pflegestützpunkt: Die Stadt Schwetzingen nennt Sprechstunden donnerstags im Rathaus Oftersheim, der Kreis führt Schwetzingen unter der Beratungsstelle Hockenheim; Ort der Sprechstunde daher nicht genannt.",
+    "Die 5 % Reserveeinspeisung stammt laut Stadtwerken von einem Mannheimer Versorger; Name bewusst weggelassen."
+  ]
+}

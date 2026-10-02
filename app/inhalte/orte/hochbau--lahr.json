@@ -1,0 +1,88 @@
+{
+  "leistung": "hochbau",
+  "ort": "lahr",
+  "ortName": "Lahr",
+  "kreis": "Ortenaukreis",
+  "title": "Bauunternehmen Lahr – kostenlos vermittelt",
+  "description": "Bauen in Lahr: kostenlose Bauberatung, Bauturbo-Beschluss, Bebauungspläne im Geoportal, Hochwasserflächen. Bauunternehmen kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Lahr",
+  "einstieg": "Lahr reicht vom Schuttertal am Rand des Schwarzwalds bis in die Rheinebene, und entsprechend unterschiedlich sind die Bedingungen für einen Neubau. Ob Einfamilienhaus in einem Stadtteil, Mehrfamilienhaus in der Kernstadt oder Ersatzneubau auf einem älteren Grundstück: Vor dem Entwurf lohnt der Blick auf das Planungsrecht, auf mögliche Hochwasserflächen und auf die Angebote der Stadtverwaltung.",
+  "abschnitte": [
+    {
+      "h2": "Kostenlose Bauberatung und Bauturbo in Lahr",
+      "text": "Das Stadtplanungsamt bietet eine kostenlose Bauberatung an, die als zentrale Anlaufstelle für Neubau, Umbau und Sanierung gedacht ist. Dort lässt sich klären, wie ein Grundstück bebaut werden darf, wie das Genehmigungsverfahren abläuft und welche Energievorgaben gelten; bei Bedarf werden Denkmalschutz oder die Baurechtsbehörde hinzugezogen. Für den sogenannten Bauturbo im Baugesetzbuch hat der Gemeinderat am 15. Dezember 2025 einen Grundsatzbeschluss gefasst, der Ziele, Prüfprozess und Unterlagen für die Zustimmung der Stadt regelt. Vorhaben, die darüber laufen, stellt die Stadt mit einer begrenzten Öffentlichkeitsbeteiligung online vor. Bauanträge nimmt die Baurechtsbehörde der Stadt seit August 2024 digital über das Virtuelle Bauamt Baden-Württemberg entgegen; für Entwurfsverfasser ist dafür ein Unternehmenskonto mit Elster-Zertifikat vorgesehen."
+    },
+    {
+      "h2": "Bebauungsplan, Altstadt und Bauplatz: Grundlagen im Lahrer Ortsrecht",
+      "text": "Alle mehr als 300 Bebauungspläne der Stadt hat das Stadtplanungsamt eingescannt und im digitalen Stadtplan des Geoportals georeferenziert bereitgestellt, einschließlich der zugehörigen Satzungsdokumente. Im Ortsrecht finden sich außerdem eine Altstadtsatzung, Bestimmungen zur Stellplatzablösung und die Richtlinie für die Vergabe städtischer Bauplätze. Angebote für Wohnbauplätze veröffentlicht die Abteilung Liegenschaften und Verwaltungsservice im Rathaus 2. Für den Grundstückswert ist der Gemeinsame Gutachterausschuss Lahr zuständig, dem neben Lahr auch Ettenheim und Friesenheim angehören; die Geschäftsstelle im Nestler Carrée berät zu Bodenrichtwerten, die jeden zweiten Januar neu ermittelt werden."
+    },
+    {
+      "h2": "Schutter und Starkregen: Hochwasser bei der Planung mitdenken",
+      "text": "Die Schutter wird über die Rückhaltebecken Kuhbach und Wittelbach gesteuert, und die Stadt beobachtet die Pegel gemeinsam mit den zuständigen Stellen. Für Grundstücke, die bei einem hundertjährlichen Hochwasser überflutet würden, verweist die Stadt auf das grundsätzliche Bauverbot nach dem Wasserhaushaltsgesetz; eine Bebauung ist dann nur mit wasserrechtlicher Genehmigung des Amts für Wasserwirtschaft und Bodenschutz möglich. Zusätzlich erarbeitet Lahr ein kommunales Starkregenrisikomanagement, dessen Karten auch höher gelegene Flächen zeigen sollen. Wenn Grundstück und Planung stehen, schildern Sie Ihr Vorhaben über unser Formular; wir wählen dafür einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadt Lahr bietet über das Stadtplanungsamt eine kostenlose Bauberatung zu Bebaubarkeit, Baugenehmigung, Sanierung und Energievorgaben an.",
+      "quelle": "Stadt Lahr – Bauberatung und Bauturbo",
+      "url": "https://www.lahr.de/bauberatung-und-bauturbo.221518.htm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Am 15. Dezember 2025 hat der Lahrer Gemeinderat einen Grundsatzbeschluss zur Anwendung des Bauturbos gefasst; betroffene Vorhaben werden mit begrenzter Öffentlichkeitsbeteiligung nach § 36a BauGB vorgestellt.",
+      "quelle": "Stadt Lahr – Bauturbo",
+      "url": "https://www.lahr.de/bauturbo.269975.htm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Seit 1. August 2024 nimmt die Baurechtsbehörde der Stadt Lahr Bauanträge digital über das Virtuelle Bauamt Baden-Württemberg entgegen.",
+      "quelle": "Stadt Lahr – Anträge zum Thema Bauen digital einreichen",
+      "url": "https://www.lahr.de/antraege-zum-thema-bauen-digital-einreichen.235840.htm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die mehr als 300 Bebauungspläne der Stadt Lahr sind im digitalen Stadtplan des Geoportals kostenlos einsehbar.",
+      "quelle": "Stadt Lahr – Alle Bebauungspläne in einem digitalen Stadtplan",
+      "url": "https://www.lahr.de/alle-bebauungsplaene-in-einem-digitalen-stadtplan.209111.htm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Zum Lahrer Ortsrecht im Bau- und Wohnungswesen gehören unter anderem eine Altstadtsatzung, die Richtlinie für die Vergabe von Bauplätzen und Bestimmungen über die Stellplatzablösung.",
+      "quelle": "Stadt Lahr – Ortsrecht Bau- und Wohnungswesen",
+      "url": "https://www.lahr.de/bau-wohnungswesen.3414.htm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Gemeinsame Gutachterausschuss Lahr umfasst auch Ettenheim und Friesenheim; die Geschäftsstelle sitzt im Nestler Carrée, Alte Bahnhofstraße 10/4.",
+      "quelle": "Stadt Lahr – Gemeinsamer Gutachterausschuss Lahr und Geschäftsstelle",
+      "url": "https://www.lahr.de/gutachterausschuss-geschaeftsstelle.993.htm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für Flächen, die bei einem HQ 100 überschwemmt werden, nennt die Stadt Lahr ein grundsätzliches Bauverbot nach § 78 Abs. 4 WHG; eine Bebauung ist nur mit wasserrechtlicher Genehmigung möglich.",
+      "quelle": "Stadt Lahr – Schutz vor Hochwasser",
+      "url": "https://www.lahr.de/schutz-vor-hochwasser.285477.htm",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kostet die Bauberatung der Stadt Lahr etwas?",
+      "a": "Nein. Das Stadtplanungsamt bietet sie kostenlos an und zieht bei Bedarf weitere Fachstellen hinzu, etwa beim Denkmalschutz."
+    },
+    {
+      "q": "Wo finde ich den Bebauungsplan für mein Grundstück in Lahr?",
+      "a": "Im digitalen Stadtplan des Lahrer Geoportals, wo alle Bebauungspläne mit ihren Satzungsdokumenten hinterlegt sind. Gedruckt sind sie beim Stadtplanungsamt einsehbar."
+    },
+    {
+      "q": "Kann ich in Lahr in einem Überschwemmungsgebiet bauen?",
+      "a": "Nach Angaben der Stadt gilt in HQ-100-Flächen grundsätzlich ein Bauverbot. Ausnahmen sind nur mit wasserrechtlicher Genehmigung des Amts für Wasserwirtschaft und Bodenschutz möglich."
+    }
+  ],
+  "offen": [
+    "Einstieg: Lage zwischen Schuttertal und Rheinebene ist ortskundliche Beschreibung, nicht durch Fakt-Quelle belegt.",
+    "Amt für Wasserwirtschaft und Bodenschutz: auf der Stadtseite ohne Behördenzuordnung genannt; vermutlich Landratsamt Ortenaukreis, nicht verifiziert.",
+    "Wann die Starkregengefahrenkarten des kommunalen Starkregenrisikomanagements fertig sind, steht nicht auf der Seite.",
+    "Die Bauturbo-Seite listet einzelne Vorhaben mit Fristen; im Text bewusst nicht genannt."
+  ]
+}

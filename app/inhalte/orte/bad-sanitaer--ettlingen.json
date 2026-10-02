@@ -1,0 +1,80 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "ettlingen",
+  "ortName": "Ettlingen",
+  "kreis": "Karlsruhe",
+  "title": "Badsanierung Ettlingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Ettlingen: hartes Wasser aus dem Rheinwald, Entwässerungsgesuch beim Eigenbetrieb, Pflegestützpunkt in der Altstadt. Kostenlos vermittelt.",
+  "h1": "Badsanierung in Ettlingen",
+  "einstieg": "Ob Altbau in der Ettlinger Kernstadt, Reihenhaus in Bruchhausen oder Einfamilienhaus in Schöllbronn: Beim neuen Bad kommt in Ettlingen überall dasselbe Wasser aus der Leitung, und es ist kalkreich. Dazu kommen klare Regeln des städtischen Eigenbetriebs für Abwasserleitungen und eine Pflegeberatung mitten in der Altstadt.",
+  "abschnitte": [
+    {
+      "h2": "17,3 °dH in allen Stadtteilen: Kalk von Schluttenbach bis Ettlingenweier",
+      "text": "Das Ettlinger Trinkwasser wird nicht in der Stadt gefördert, sondern im Wasserwerk Rheinwald zwischen Elchesheim-Illingen und Bietigheim. Von dort gelangt es in den Hochbehälter der Vorbergzone und über rund 330 Kilometer Leitungen in die Haushalte. Laut Analyse der Stadtwerke liegt die Gesamthärte bei 17,3 °dH, Härtebereich „hart“, und zwar einheitlich in der Kernstadt und in allen Stadtteilen. Die Stadtwerke betonen, dass Kalk die Leitungen nicht angreift; sichtbar wird er aber dort, wo Wasser verdunstet oder über 60 °C erhitzt wird. Für das neue Bad sind daher pflegeleichte Oberflächen, gut erreichbare Perlatoren und eine durchdachte Warmwassertemperatur sinnvolle Planungsthemen."
+    },
+    {
+      "h2": "Leitungen ändern, Bad im Untergeschoss: Eigenbetrieb Abwasserbeseitigung",
+      "text": "Für Abwasserleitungen auf dem Grundstück ist in Ettlingen der Eigenbetrieb Abwasserbeseitigung der Stadt zuständig. Nach § 14 der Abwassersatzung bedürfen Herstellung, Anschluss und Änderung von Grundstücksentwässerungsleitungen einer schriftlichen Genehmigung; das Entwässerungsgesuch wird mit Lageplan und Unterlagen beim Eigenbetrieb eingereicht. Für Bäder im Keller ist außerdem der Rückstau wichtig. Bei Starkregen kann sich das Wasser im Kanal bis zur Straßenoberkante aufstauen und durch tiefer liegende Abläufe ins Haus drücken. Die Stadt hat deshalb in § 19 der Satzung eine Rückstausicherung vorgeschrieben und nennt Hebeanlagen und automatische Rückstauverschlüsse als Beispiele."
+    },
+    {
+      "h2": "Barrierearm umbauen: Pflegestützpunkt in der Klostergasse",
+      "text": "Der Pflegestützpunkt des Landkreises hat einen Standort im Begegnungszentrum in der Klostergasse und berät kostenlos und neutral rund um Pflege, auch zu Hause, wenn ein Besuch im Büro schwerfällt. Zu seinen Partnern gehören Wohnberatungsstellen, die bei der Anpassung des Bades weiterhelfen können. Für Fragen zu Warmwasser und Heizung bieten die Stadtwerke ihren Kunden mit der Umwelt- und Energieagentur Kreis Karlsruhe eine kostenfreie Erstberatung an. Ist das Vorhaben klar, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Laut Trinkwasseranalyse der Stadtwerke Ettlingen vom 16. März 2026 beträgt die Gesamthärte 17,30 °dH (3,09 mmol/l), Härtebereich „hart“, für die Kernstadt und alle Stadtteile.",
+      "quelle": "Stadtwerke Ettlingen – Trinkwasseranalyse 2026",
+      "url": "https://www.sw-ettlingen.de/de/Wasser/Mehr-Infos-zum-Wasser/Linke-Seite-Downloads/Trinkwasseranalyse-2026.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Ettlinger Trinkwasser wird im Wasserwerk Rheinwald gefördert, gelangt in den Hochbehälter der Vorbergzone und wird über ein rund 330 Kilometer langes Leitungsnetz verteilt.",
+      "quelle": "Stadtwerke Ettlingen – Trinkwasseranalyse 2026",
+      "url": "https://www.sw-ettlingen.de/de/Wasser/Mehr-Infos-zum-Wasser/Linke-Seite-Downloads/Trinkwasseranalyse-2026.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach § 14 der Abwassersatzung bedürfen Herstellung, Anschluss und Änderung von Grundstücksentwässerungsleitungen einer schriftlichen Genehmigung der Stadt; das Gesuch geht an den Eigenbetrieb Abwasserbeseitigung.",
+      "quelle": "Stadt Ettlingen – Einreichung Entwässerungsgesuche",
+      "url": "https://www.ettlingen.de/buergerservice/aemter+und+dienststellen/kommunale+unternehmen+2/eigenbetrieb+abwasserbeseitigung/einreichung+entwaesserungsgesuche",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach § 19 der Ettlinger Abwassersatzung muss jede Grundstücksentwässerungsanlage gegen Rückstau gesichert sein; die Stadt nennt Hebeanlagen oder automatische Rückstauverschlüsse als mögliche Einrichtungen.",
+      "quelle": "Stadt Ettlingen – Warum benötige ich eine Rückstauklappe?",
+      "url": "https://www.ettlingen.de/buergerservice/aemter+und+dienststellen/kommunale+unternehmen+2/eigenbetrieb+abwasserbeseitigung/aufklaerungsarbeit/warum+benoetige+ich+eine+rueckstauklappe",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt Landkreis Karlsruhe hat einen Standort im Begegnungszentrum, Klostergasse 1, in Ettlingen; die Beratung ist kostenlos, bei Bedarf sind Hausbesuche möglich.",
+      "quelle": "Landratsamt Karlsruhe – Pflegestützpunkte im Landkreis Karlsruhe",
+      "url": "https://www.landkreis-karlsruhe.de/Service-Verwaltung/Themen-Projekte/Alter-Pflege-Inklusion/Pflegest%C3%BCtzpunkte-im-Landkreis-Karlsruhe",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "In Zusammenarbeit mit der Umwelt- und Energieagentur Kreis Karlsruhe bieten die Stadtwerke Ettlingen ihren Kunden eine kostenfreie, neutrale Gebäudeenergie-Erstberatung an.",
+      "quelle": "Stadt Ettlingen – Eigentümer*innen von Wohngebäuden",
+      "url": "https://www.ettlingen.de/entwickeln/klima+und+umwelt/klimaschutz/mitmachen/eigentuemer_innen",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist das Wasser in Ettlingen überall gleich hart?",
+      "a": "Ja. Die Stadtwerke geben für die Kernstadt und alle Stadtteile denselben Wert von 17,3 °dH an, Härtebereich „hart“."
+    },
+    {
+      "q": "Wo reiche ich in Ettlingen ein Entwässerungsgesuch für den Badumbau ein?",
+      "a": "Zuständig ist der Eigenbetrieb Abwasserbeseitigung der Stadt Ettlingen. Ob eine Änderung genehmigungspflichtig ist, klärt in der Regel der Eigenbetrieb vor Baubeginn."
+    },
+    {
+      "q": "Gibt es in Ettlingen eine Beratung, wenn das Bad wegen Pflegebedarf umgebaut werden soll?",
+      "a": "Der Pflegestützpunkt des Landkreises in der Klostergasse berät kostenlos und vermittelt unter anderem an Wohnberatungsstellen; Hausbesuche sind nach Absprache möglich."
+    }
+  ],
+  "offen": [
+    "Ob die Stadtwerke-Erstberatung zur Energie auch Nicht-Kunden offensteht, wurde nicht geprüft.",
+    "Ortsteilnennungen im Einstieg (Bruchhausen, Schöllbronn) und in der Überschrift (Schluttenbach, Ettlingenweier) stammen aus der Analyse-Tabelle der Stadtwerke."
+  ]
+}

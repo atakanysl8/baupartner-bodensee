@@ -1,0 +1,90 @@
+{
+  "leistung": "hochbau",
+  "ort": "karlsruhe",
+  "ortName": "Karlsruhe",
+  "kreis": "Karlsruhe",
+  "title": "Bauunternehmen Karlsruhe – kostenlos vermittelt",
+  "description": "Neubau oder Anbau in Karlsruhe: Bauordnungsamt, digitaler Bauantrag, Stellplatzsatzung und Starkregenkarten. Bauunternehmen kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Karlsruhe",
+  "einstieg": "Ein Einfamilienhaus auf einer Baulücke in Neureut, ein Mehrfamilienhaus in der Südweststadt oder ein Anbau in Grötzingen: Wer in Karlsruhe baut, hat es mit einer kreisfreien Stadt zu tun, die Baurecht selbst verwaltet und Anträge nur noch digital annimmt. Vor der Kalkulation lohnt der Blick auf Bebauungsplan, Stellplatzregeln und Grundstückslage.",
+  "abschnitte": [
+    {
+      "h2": "Bauordnungsamt, Baubezirke und digitaler Bauantrag",
+      "text": "Untere Baurechtsbehörde ist in Karlsruhe das Bauordnungsamt der Stadt. Es ist für Bauanträge, Bauvoranfragen und Kenntnisgabeverfahren zuständig und teilt das Stadtgebiet in drei Baubezirke auf: Welcher Bezirk Ansprechpartner ist, hängt vom Stadtteil des Grundstücks ab. Seit Januar 2025 nimmt das Amt Anträge nur noch digital über das Virtuelle Bauamt entgegen, Papier oder E-Mail werden nicht angenommen. Für Planende gibt es donnerstags vormittags eine offene Sprechzeit, bei Problemen mit der digitalen Antragstellung zusätzlich einen telefonischen Support. Termine vergeben die Baubezirke nach telefonischer Absprache."
+    },
+    {
+      "h2": "Bebauungsplan, Stellplätze und Photovoltaik in der Fächerstadt",
+      "text": "Was auf einem Grundstück zulässig ist, regelt vor allem der Bebauungsplan; die Karlsruher Pläne sind im Geoportal der Stadt einsehbar. Viele enthalten Vorgaben zu Dach- und Fassadenbegrünung oder zu Vorgärten, Schottergärten erfüllen diese Pflichten nach Auffassung der Stadt nicht. Seit Februar 2026 gilt außerdem eine stadtweite Stellplatzsatzung. Sie verlangt in bestimmten Teilen des Stadtgebiets nicht mehr für jede Wohnung einen Kfz-Stellplatz und regelt Zahl und Beschaffenheit der Fahrradstellplätze im Mehrfamilienhausbau. Für Neubauten gilt in Baden-Württemberg grundsätzlich eine Photovoltaikpflicht, deren Einhaltung in Karlsruhe das Bauordnungsamt überwacht."
+    },
+    {
+      "h2": "Bodenrichtwert und Starkregen: das Grundstück vorab einschätzen",
+      "text": "Für die Kalkulation von Grundstück und Gebäude veröffentlicht der Gutachterausschuss Karlsruhe Bodenrichtwerte im Geoportal und über BORIS-BW. Gerade in der Rheinebene und in Senken lohnt außerdem ein Blick in die Starkregengefahrenkarten der Stadt: Sie zeigen, wo sich Wasser bei Gewittern sammelt, und helfen bei der Entscheidung über Kellerausführung, Lichtschächte und Höhenlage des Erdgeschosses, bevor die Planung festgezurrt ist. Wenn die Eckdaten feststehen, schildern Sie Ihr Bauvorhaben über unser Formular. Wir wählen für Ihre Anfrage ein passendes Bauunternehmen aus, das sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Das Bauordnungsamt der Stadt Karlsruhe ist für Bauanträge, Bauvoranfragen und Kenntnisgabeverfahren im Stadtgebiet zuständig.",
+      "quelle": "Stadt Karlsruhe – Bauordnung",
+      "url": "https://www.karlsruhe.de/mobilitaet-stadtbild/bauen-und-immobilien/bauordnung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Stadtgebiet ist in drei Baubezirke eingeteilt; Durlach, Grötzingen und Rüppurr gehören zum Beispiel zum Baubezirk 3, Neureut und Knielingen zum Baubezirk 2.",
+      "quelle": "Stadt Karlsruhe – Rund ums Bauen",
+      "url": "https://www.karlsruhe.de/mobilitaet-stadtbild/bauen-und-immobilien/bauordnung/rund-ums-bauen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Seit dem 1. Januar 2025 ist das Bauordnungsamt an die Plattform „Virtuelles Bauamt“ angebunden; Bauanträge in Papierform oder per E-Mail werden nicht angenommen.",
+      "quelle": "Stadt Karlsruhe – Digitaler Bauantrag",
+      "url": "https://www.karlsruhe.de/mobilitaet-stadtbild/bauen-und-immobilien/bauordnung/digitaler-bauantrag",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die stadtweite Stellplatzsatzung ist seit dem 20. Februar 2026 rechtskräftig; sie sieht in bestimmten Bereichen Minderungen der Kfz-Stellplatzpflicht vor und regelt Fahrradstellplätze im Mehrfamilienhausbau.",
+      "quelle": "Stadt Karlsruhe – Stellplatzsatzung",
+      "url": "https://www.karlsruhe.de/bpl/oertliche-bauvorschrift-satzung-der-stadt-karlsruhe-ueber-die-kfz-und-fahrradstellplatzverpflichtung-fuer-wohnungen-stellplatzsatzung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Photovoltaikpflicht gilt für alle Neubauten; Begrünungspflichten ergeben sich unter anderem aus den Bebauungsplänen, die im Geoportal der Stadt einsehbar sind. Das Bauordnungsamt überwacht beides.",
+      "quelle": "Stadt Karlsruhe – Photovoltaik- und Begrünungspflicht",
+      "url": "https://www.karlsruhe.de/mobilitaet-stadtbild/bauen-und-immobilien/bauordnung/photovoltaik-und-begruenungspflicht",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Gutachterausschuss Karlsruhe hat Bodenrichtwerte zum Stichtag 1. Januar 2026 ermittelt; sie sind im Geoportal der Stadt und über BORIS-BW abrufbar.",
+      "quelle": "Stadt Karlsruhe – Gutachterausschuss",
+      "url": "https://www.karlsruhe.de/mobilitaet-stadtbild/bauen-und-immobilien/gutachterausschuss",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Starkregengefahrenkarten der Stadt zeigen, wie Wasser bei intensiven Regenfällen abfließt und wo es sich sammelt.",
+      "quelle": "Stadt Karlsruhe – Starkregen",
+      "url": "https://www.karlsruhe.de/umwelt-klima/gewaesser-stadtentwaesserung/starkregen",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ich in Karlsruhe einen Bauantrag noch auf Papier einreichen?",
+      "a": "Nein. Seit Januar 2025 nimmt das Bauordnungsamt Anträge nur digital über das Virtuelle Bauamt an; auch die Genehmigung wird dort als PDF zugestellt."
+    },
+    {
+      "q": "Welcher Baubezirk ist für mein Grundstück zuständig?",
+      "a": "Das richtet sich nach dem Stadtteil. Die Zuordnung der Stadtteile zu den Baubezirken 1, 2 und 3 veröffentlicht das Bauordnungsamt auf seiner Seite „Rund ums Bauen“."
+    },
+    {
+      "q": "Brauche ich für jede neue Wohnung in Karlsruhe einen Autostellplatz?",
+      "a": "Nicht überall. Die Stellplatzsatzung sieht in bestimmten Teilen des Stadtgebiets und für Sonderwohnformen Minderungen vor; maßgeblich ist die Lage des Grundstücks."
+    },
+    {
+      "q": "Wo sehe ich, ob mein Baugrundstück bei Starkregen gefährdet ist?",
+      "a": "In den Starkregengefahrenkarten im Geoportal der Stadt Karlsruhe. Sie geben Hinweise auf Fließwege und Bereiche, in denen sich Wasser sammelt."
+    }
+  ],
+  "offen": [
+    "Stadtteilnennungen im Einstieg (Neureut, Südweststadt, Grötzingen) sind über die Baubezirksliste belegt, die konkreten Bauvorhaben dort sind nur Beispiele.",
+    "Baugrund (LGRB-Kartenviewer) wurde für Karlsruhe nicht eigens geprüft."
+  ]
+}

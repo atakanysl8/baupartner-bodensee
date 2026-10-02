@@ -1,0 +1,87 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "offenburg",
+  "ortName": "Offenburg",
+  "kreis": "Ortenaukreis",
+  "title": "Badsanierung Offenburg – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Offenburg: weiches Kinzigtal-Wasser, Wohnberatung am Marktplatz, Bauberatung im BürgerBüroBauen. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Offenburg",
+  "einstieg": "Wer in Offenburg ein Bad modernisiert, hat beim Wasser einen Vorteil: Es stammt aus dem Grundwasser des Kinzigtals und ist weich. Umso mehr Raum bleibt für die eigentlichen Fragen, etwa wie sich eine bodengleiche Dusche im Altbau umsetzen lässt oder wer bei einem altersgerechten Umbau neutral berät. Für beides gibt es in der Stadt eigene Anlaufstellen.",
+  "abschnitte": [
+    {
+      "h2": "Weiches Wasser aus dem Kinzigtal: was das für das neue Bad heißt",
+      "text": "Die Offenburger Wasserversorgung, ein Unternehmen der Stadt, fördert ihr Trinkwasser ausschließlich aus Tiefbrunnen zwischen Kinzig und Mühlbach und bereitet es im Wasserwerk „Am Sägeteich“ auf. Weil das Grundwasser weich ist, wird es dort nur entkeimt und über Calciumcarbonatfilter entsäuert. Die Betriebsführerin nennt für alle Versorgungsbereiche, von der Kernstadt über Bühl und Zell-Weierbach bis Zunsweier, eine Härte von 1,08 Millimol pro Liter, also den Bereich „weich“. Für die Badplanung heißt das in der Regel: Kalkablagerungen an Glas, Armaturen und Brausekopf bleiben gering, eine Enthärtungsanlage ist meist kein Thema. Mehr Aufmerksamkeit verdienen dann Materialwahl, Gefälle und Abdichtung der Dusche sowie die Lage von Steigleitungen und Abflüssen im Bestand."
+    },
+    {
+      "h2": "Barrierefrei umbauen: ehrenamtliche Wohnberatung und Pflegestützpunkt",
+      "text": "Offenburg hat eine ehrenamtliche Wohnberatung, die in der Abteilung Bürgerschaftliches Engagement, Ehrenamt und Beratung am Marktplatz 5 angesiedelt ist. Das Team informiert über barrierefreie Anpassungen der Wohnung, über Hilfsmittel und Finanzierung, hilft bei Anträgen und begleitet die Maßnahmen; Kosten entstehen dafür nicht. Eine Anmeldung im Sekretariat ist erforderlich. In derselben Abteilung sitzt die Zentrale des Pflegestützpunkts Ortenaukreis, der bei Pflegebedarf weiterhilft. Wer bodengleiche Dusche, Haltegriffe oder ein breiteres Türmaß plant, kann sich so vor dem ersten Angebot ein klares Bild machen."
+    },
+    {
+      "h2": "Größere Sanierung: Bauberatung und Energieagentur",
+      "text": "Wird das Bad im Rahmen einer umfassenden Sanierung erneuert, lohnt ein Termin im BürgerBüroBauen in der Wilhelmstraße 12. Die städtische Bauberatung informiert unter anderem über Bebaubarkeit, Baugenehmigung, staatliche Wohnbauförderung und Sanierungsförderung. Geht es zusätzlich um Warmwasserbereitung oder den Heizungstausch, bietet die Ortenauer Energieagentur in ihrem Büro eine kostenfreie, neutrale Energieberatung an. Wenn Sie wissen, was Sie umsetzen möchten, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Für alle Offenburger Versorgungsbereiche, darunter Kernstadt, Bühl, Zell-Weierbach und Zunsweier, wird eine Wasserhärte von 1,08 mmol/l angegeben (weich).",
+      "quelle": "badenova (Betriebsführung der Offenburger Wasserversorgung) – Wasserversorgung Städte und Gemeinden",
+      "url": "https://www.badenova.de/privatkunden/wasser/wasserversorgung-staedte-und-gemeinden",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Offenburger Trinkwasser stammt aus dem Grundwasser des Kinzigtals; es ist weich und wird im Wasserwerk nur entkeimt und über Calciumcarbonatfilter entsäuert.",
+      "quelle": "Offenburger Wasserversorgung – Wasserqualität",
+      "url": "https://owv-og.de/wasserqualitaet/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Offenburger Wasserversorgung GmbH ist ein Unternehmen der Stadt Offenburg und bereitet das Wasser aus mehreren Tiefbrunnen im Wasserwerk „Am Sägeteich“ auf.",
+      "quelle": "Offenburger Wasserversorgung – Unsere Wasserversorgung",
+      "url": "https://owv-og.de/unsere-wasserversorgung/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die ehrenamtliche Wohnberatung der Stadt Offenburg informiert kostenlos über barrierefreie Wohnungsanpassung, Hilfsmittel und Finanzierung und hilft bei der Antragstellung; Ort ist der Marktplatz 5.",
+      "quelle": "Stadt Offenburg (anna.offenburg.de) – Wohnberatung",
+      "url": "https://anna.offenburg.de/angebote/beratung/wohnberatung/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Zentrale des Pflegestützpunkts Ortenaukreis in Offenburg ist in der städtischen Abteilung Bürgerschaftliches Engagement, Ehrenamt und Beratung angesiedelt.",
+      "quelle": "Stadt Offenburg (anna.offenburg.de) – Pflegestützpunkt",
+      "url": "https://anna.offenburg.de/infos/pflegestuetzpunkt/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Bauberatung im BürgerBüroBauen informiert über Bebaubarkeit, Baugenehmigung, staatliche Wohnbauförderung und Sanierungsförderung.",
+      "quelle": "Stadt Offenburg – Bauberatung",
+      "url": "https://www.offenburg.de/de/bauen-und-umwelt/bauen/buergerbuerobauen/kundenberatung-bauen/bauberatung/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Ortenauer Energieagentur berät neutral zu Neubau und Sanierung; die Beratung im Büro oder in einer Beratungsstelle ist kostenfrei.",
+      "quelle": "Ortenauer Energieagentur – Für Bürger:innen",
+      "url": "https://www.ortenauer-energieagentur.de/dienstleistungen/buergerinnen/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich in Offenburg eine Enthärtungsanlage für das neue Bad?",
+      "a": "In der Regel nicht. Das Offenburger Wasser liegt mit 1,08 mmol/l im Bereich „weich“; Kalkablagerungen fallen deshalb gering aus."
+    },
+    {
+      "q": "Gilt die geringe Wasserhärte auch in den Ortsteilen?",
+      "a": "Ja. Angegeben wird derselbe Wert für die Kernstadt und alle Ortsteile von Bohlsbach bis Zunsweier."
+    },
+    {
+      "q": "Wer berät in Offenburg neutral zum altersgerechten Bad?",
+      "a": "Die ehrenamtliche Wohnberatung der Stadt am Marktplatz 5, nach Anmeldung im Sekretariat. Bei Pflegebedarf hilft zusätzlich der Pflegestützpunkt Ortenaukreis."
+    }
+  ],
+  "offen": [
+    "Der Härtewert stammt von der Website der badenova, die laut Offenburger Wasserversorgung die technische und kaufmännische Betriebsführung innehat; die OWV-Seite selbst nennt nur „weich“ ohne Zahl. Bitte prüfen, ob die badenova-Seite als Quelle akzeptabel ist (Firmenseite, aber zuständiger Betriebsführer).",
+    "Wer in Offenburg für Abwasser/Grundstücksentwässerung zuständig ist (Abwasserzweckverband?), wurde nicht ermittelt; das Thema Rückstau fehlt deshalb auf dieser Seite.",
+    "anna.offenburg.de ist laut Impressum ein Angebot der Stadt Offenburg (Abteilung Bürgerschaftliches Engagement); Abteilungsadresse dort Kornstraße 3, die Wohnberatung findet laut Seite am Marktplatz 5 statt."
+  ]
+}

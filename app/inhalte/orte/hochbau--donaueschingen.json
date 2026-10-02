@@ -1,0 +1,94 @@
+{
+  "leistung": "hochbau",
+  "ort": "donaueschingen",
+  "ortName": "Donaueschingen",
+  "kreis": "Schwarzwald-Baar-Kreis",
+  "title": "Bauunternehmen Donaueschingen – kostenlos vermittelt",
+  "description": "Bauen in Donaueschingen: Bauplätze in den Ortsteilen, Quartier Am Buchberg, Starkregenkarten an Brigach und Breg. Bauunternehmen kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Donaueschingen",
+  "einstieg": "Wo Brigach und Breg zusammenfließen, wird in Donaueschingen sowohl in der Kernstadt als auch in Ortsteilen wie Neudingen, Pfohren oder Wolterdingen gebaut. Wer hier ein Haus plant, findet Bebauungspläne nach Ortsteilen sortiert, ein Konversionsgelände in Entwicklung und Gefahrenkarten, die bei Grundstückswahl und Keller früh eine Rolle spielen.",
+  "abschnitte": [
+    {
+      "h2": "Bauantrag und Bebauungspläne bei der Stadt Donaueschingen",
+      "text": "Die Stadtverwaltung führt in ihrer Bauverwaltung ein eigenes Sachgebiet Bauordnung, Bauanträge laufen also über die Stadt. Eingereicht werden sie digital über das Virtuelle Bauamt Baden-Württemberg; dort sind neben der Baugenehmigung auch Bauvoranfrage, Kenntnisgabeverfahren und vereinfachtes Verfahren hinterlegt. Privatpersonen melden sich mit BundID und Online-Ausweis oder mit ELSTER an. Die rechtsverbindlichen Bebauungspläne und örtlichen Bauvorschriften stellt die Stadt getrennt nach Kernstadt und den Ortsteilen Aasen, Grüningen, Heidenhofen, Hubertshofen, Neudingen, Pfohren und Wolterdingen online bereit. Anlagen, Gutachten und Regelwerke zu den Plänen können im Rathaus I eingesehen werden."
+    },
+    {
+      "h2": "Bauplätze in Neudingen und das neue Quartier Am Buchberg",
+      "text": "Für Familien, die ein Einfamilienhaus planen, weist die Stadt im Teilort Neudingen das Baugebiet „Weiherbrünnele“ mit 20 Bauplätzen aus; Ansprechpartner ist die Ortsverwaltung. In der Kernstadt entsteht auf einem rund 14 Hektar großen früheren Militärgelände schrittweise das Stadtquartier „Am Buchberg“, das die städtische Konversions- und Entwicklungsgesellschaft vermarktet. Für Bestandsgebäude in den Ortskernen der Stadt- und Ortsteile gibt es seit 2015 eine städtische Ortskernförderung mit eigenen förderfähigen Zonen; ob Mittel verfügbar sind, beantwortet die Stadt. Den Wert eines Grundstücks hilft der gemeinsame Gutachterausschuss einzuschätzen, dessen Geschäftsstelle in Donaueschingen sitzt."
+    },
+    {
+      "h2": "Starkregen und Hochwasser an Donau, Brigach und Breg",
+      "text": "Für das Stadtgebiet und die Ortschaften hat die Stadt grundstücksscharfe Starkregengefahrenkarten nach dem Leitfaden des Landes erstellt, jeweils für ein seltenes, ein außergewöhnliches und ein extremes Ereignis mit Überflutungstiefen und Fließgeschwindigkeiten. Für Donau, Brigach und Breg gibt es zusätzlich Hochwassergefahrenkarten, die das Landratsamt bereitstellt. Für einen Neubau mit Keller oder Tiefgarage lohnt der Blick in beide Karten, bevor Höhenlage, Lichtschächte und Abdichtung festgelegt werden. Sobald Grundstück und Planung stehen, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Bauanträge reicht man in Donaueschingen digital über das Virtuelle Bauamt Baden-Württemberg ein; dort sind unter anderem Baugenehmigung, Bauvoranfrage, Kenntnisgabe und vereinfachtes Verfahren abrufbar.",
+      "quelle": "Stadt Donaueschingen – Digitale Bauantragstellung",
+      "url": "https://www.donaueschingen.de/bauantragsstellung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Rechtsverbindliche Bebauungspläne und örtliche Bauvorschriften veröffentlicht die Stadt getrennt nach Kernstadt und sieben Ortsteilen; zugehörige Unterlagen liegen im Rathaus I zur Einsicht bereit.",
+      "quelle": "Stadt Donaueschingen – Bebauungspläne/Flächennutzungsplan",
+      "url": "https://www.donaueschingen.de/bebauungsplaene",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Baugebiet „Weiherbrünnele“ im Teilort Neudingen umfasst 20 Einfamilienhausbauplätze.",
+      "quelle": "Stadt Donaueschingen – Baugebiet Weiherbrünnele Neudingen",
+      "url": "https://www.donaueschingen.de/wohnbauflaechen/Baugebiet-Weiherbruennele-Neudingen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Konversions- und Entwicklungsgesellschaft Donaueschingen hat eine rund 14 Hektar große frühere Militärfläche erworben, auf der schrittweise das Stadtquartier „Am Buchberg“ entsteht.",
+      "quelle": "Stadt Donaueschingen – Baulücken und Immobilien",
+      "url": "https://www.donaueschingen.de/de/Stadt-Buerger/Wirtschaft/Wohnbauflaeche/Bauluecken-und-Immobilien",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bei der Stadt Donaueschingen sitzt die Geschäftsstelle des gemeinsamen Gutachterausschusses für den südwestlichen Schwarzwald-Baar-Kreis, der Kaufpreissammlung und Bodenrichtwerte führt.",
+      "quelle": "Stadt Donaueschingen – Gemeinsamer Gutachterausschuss",
+      "url": "https://www.donaueschingen.de/de/Stadt-Buerger/Wirtschaft/Gutachterausschuss",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt hat für Stadtgebiet und Ortschaften grundstücksscharfe Starkregengefahrenkarten für seltene, außergewöhnliche und extreme Ereignisse erstellt und zum Herunterladen bereitgestellt.",
+      "quelle": "Stadt Donaueschingen – Starkregen-Risikomanagement",
+      "url": "https://www.donaueschingen.de/umwelt/Starkregenrisikomanagement",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Hochwassergefahrenkarten für Donau, Brigach, Breg und weitere Gewässer im Schwarzwald-Baar-Kreis stellt das Landratsamt bereit; die Stadt verweist darauf auch für Bauherren.",
+      "quelle": "Stadt Donaueschingen – Hochwasserinformationen",
+      "url": "https://www.donaueschingen.de/hochwasserinformationen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Seit dem 1. April 2015 gibt es eine städtische Ortskernförderung für Allmendshofen, Aufen und die Ortsteile Aasen, Grüningen, Heidenhofen, Hubertshofen, Neudingen, Pfohren und Wolterdingen.",
+      "quelle": "Stadt Donaueschingen – Förderung durch die Stadt",
+      "url": "https://www.donaueschingen.de/de/Stadt-Buerger/Wirtschaft/Foerderungen/Foerderung-durch-die-Stadt-Donaueschingen",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Gibt es in Donaueschingen aktuell städtische Bauplätze für Einfamilienhäuser?",
+      "a": "Die Stadt nennt auf ihrer Seite zu Wohnbauflächen das Baugebiet „Weiherbrünnele“ in Neudingen mit 20 Einfamilienhausbauplätzen. Auskunft zur Verfügbarkeit gibt die Ortsverwaltung Neudingen."
+    },
+    {
+      "q": "Wo sehe ich, ob mein Grundstück in Donaueschingen bei Starkregen gefährdet ist?",
+      "a": "Die Stadt stellt grundstücksscharfe Starkregengefahrenkarten mit Überflutungstiefen und Fließgeschwindigkeiten zum Herunterladen bereit, dazu eine Anleitung zur Interpretation."
+    },
+    {
+      "q": "Welche Bebauungspläne gelten in den Donaueschinger Ortsteilen?",
+      "a": "Die Stadt listet die rechtsverbindlichen Bebauungspläne getrennt nach Kernstadt und Ortsteilen auf. Ergänzende Unterlagen können im Rathaus I während der Sprechzeiten eingesehen werden."
+    }
+  ],
+  "offen": [
+    "Bauplatzpreis Weiherbrünnele (155 €/m² laut Stadt) bewusst weggelassen.",
+    "Ortskernförderung: Die Stadt meldet für 2026 ausgeschöpfte Haushaltsmittel; im Text daher nur Existenz des Programms und Verweis auf die Stadt.",
+    "Zuständigkeit Baurecht aus Organigramm der Stadtverwaltung (Bauverwaltung, Sachgebiet Bauordnung) abgeleitet; keine eigene Seite „Baurechtsamt“ gefunden.",
+    "„Wo Brigach und Breg zusammenfließen“ im Einstieg ist Allgemeinwissen, nicht durch Fakt-Quelle belegt."
+  ]
+}

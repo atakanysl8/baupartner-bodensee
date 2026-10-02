@@ -1,0 +1,87 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "tuebingen",
+  "ortName": "Tübingen",
+  "kreis": "Tübingen",
+  "title": "Badsanierung Tübingen – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Tübingen: Wasserhärte je nach Stadtteil, Wohnberatung des Kreisseniorenrats, Energieberatung zum Warmwasser. Kostenlos vermittelt.",
+  "h1": "Badsanierung in Tübingen",
+  "einstieg": "In Tübingen hängt sogar der Kalkgehalt des Wassers davon ab, in welchem Stadtteil das Bad liegt. Dazu kommen gut erreichbare Beratungsstellen für den altersgerechten Umbau und eine Energieberatung, die sich ausdrücklich auch dem Warmwasser widmet.",
+  "abschnitte": [
+    {
+      "h2": "Bodensee, Neckartal, Ammertal: Wasserhärte in den Tübinger Stadtteilen",
+      "text": "Gut drei Viertel des Tübinger Trinkwassers kommen nach Angaben der Stadtwerke Tübingen vom Bodensee, der Rest ist Grundwasser aus dem Neckartal, das in zwei Pumpwerken gefördert wird. Je nach Gebiet unterscheidet sich die Mischung: Berghof, Eichhalde, Herrlesberg und Pfrondorf erhalten reines Bodenseewasser mit 1,62 mmol/l Calciumcarbonat, das sind rund 9 °dH. Kernstadt, Derendingen, Lustnau, Weilheim, Kilchberg, Kreßbach und Bebenhausen bekommen Mischwasser mit 2,46 mmol/l, also knapp 14 °dH. Bühl, Hirschau und die Niederzone von Unterjesingen werden von der Ammertal-Schönbuchgruppe versorgt (2,36 mmol/l). Alle Werte liegen im Härtebereich mittel, in der Kernstadt aber nahe an der Grenze zu hart. Dort lohnen kalkunempfindliche Armaturen besonders."
+    },
+    {
+      "h2": "Kellerbad und Abwasser: Das Tübinger Kanalnetz",
+      "text": "Alle Tübinger Haushalte sind an die Kanalisation angeschlossen. Das städtische Kanalnetz ist rund 422 Kilometer lang und führt das Abwasser des gesamten Stadtgebiets im Regenüberlaufbecken Bismarckstraße in Lustnau zusammen. Wer im Untergeschoss ein Duschbad, ein WC oder eine Waschküche einrichtet, schließt an dieses Netz unterhalb der Straße an. Ob dafür eine Rückstausicherung oder eine Hebeanlage nötig ist, hängt von der Höhenlage ab und gehört in jede Planung für Bäder unter Straßenniveau."
+    },
+    {
+      "h2": "Altersgerecht und sparsam: Beratung im Nonnenmacher-Haus und bei den Stadtwerken",
+      "text": "Für ein Bad, das auch im Alter passt, nennt die Stadt die unabhängige Beratungsstelle für altersgerechtes Wohnen des Kreisseniorenrats. Sie berät ausdrücklich auch zu kleinen Veränderungen im Bad und WC und prüft mit Ihnen, wie altengerecht eine Renovierung geplant ist. Im Nonnenmacher-Haus in der Gartenstraße sitzen der Pflegestützpunkt des Landkreises Tübingen und die Beratungsstelle für ältere Menschen und deren Angehörige. Zur Warmwasserbereitung beraten die Energieberaterinnen und -berater der Stadtwerke Tübingen. Steht das Konzept, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Laut Stadtwerken Tübingen erhalten Berghof, Eichhalde, Herrlesberg und Pfrondorf Bodenseewasser mit 1,62 mmol/l Calciumcarbonat; Kernstadt, Derendingen, Lustnau, Weilheim und weitere Gebiete Mischwasser mit 2,46 mmol/l, alles Härtebereich mittel.",
+      "quelle": "Stadtwerke Tübingen – Wasser: Herkunft und Wasserhärte",
+      "url": "https://www.swtue.de/wasser.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Gut drei Viertel des Tübinger Wassers kommen vom Bodensee; das übrige Wasser fördern die Stadtwerke als Grundwasser aus dem Neckartal in zwei Pumpwerken.",
+      "quelle": "Stadtwerke Tübingen – Wasser",
+      "url": "https://www.swtue.de/wasser.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Tübinger Kanalnetz ist rund 422 Kilometer lang; alle Haushalte sind angeschlossen, und das gesamte Abwasser läuft im Regenüberlaufbecken Bismarckstraße in Lustnau zusammen.",
+      "quelle": "Universitätsstadt Tübingen – Kanalnetz",
+      "url": "https://www.tuebingen.de/37205/37209.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die unabhängige Beratungsstelle für altersgerechtes Wohnen des Kreisseniorenrats Tübingen berät auch zu kleinen Veränderungen im Bad/WC und prüft Renovierungsplanungen auf Altersgerechtigkeit.",
+      "quelle": "Universitätsstadt Tübingen – Beratungsstelle für altersgerechtes Wohnen",
+      "url": "https://www.tuebingen.de/23456/41184.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Im Nonnenmacher-Haus, Gartenstraße 28, befinden sich der Pflegestützpunkt Landkreis Tübingen (Standort Tübingen) und die Beratungsstelle für ältere Menschen und deren Angehörige (BÄM).",
+      "quelle": "Universitätsstadt Tübingen – Beratung im Nonnenmacherhaus",
+      "url": "https://www.tuebingen.de/23454/43342.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Energieberaterinnen und -berater der Stadtwerke Tübingen beraten unter anderem dazu, Warmwasser rationeller aufzubereiten und die Raumheizung zu optimieren.",
+      "quelle": "Universitätsstadt Tübingen – Beratungsstellen: Stadtwerke Tübingen",
+      "url": "https://www.tuebingen.de/29640/723/9986.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Mit der Sanierungsprämie fördert die Stabsstelle Umwelt- und Klimaschutz energetische Sanierungsmaßnahmen, die auf einer qualifizierten Energieberatung und einem Sanierungsfahrplan aufbauen.",
+      "quelle": "Universitätsstadt Tübingen – Förderprogramm Sanierungsprämie",
+      "url": "https://www.tuebingen.de/verwaltung/verfahren/foerderprogramm_sanierungspraemie",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist das Wasser in der Tübinger Kernstadt hart?",
+      "a": "Mit 2,46 mmol/l Calciumcarbonat, rund 14 °dH, liegt es laut Stadtwerken noch im Härtebereich mittel, aber nahe an der Grenze. In Pfrondorf oder auf dem Herrlesberg ist das reine Bodenseewasser mit rund 9 °dH deutlich weicher."
+    },
+    {
+      "q": "Wo gibt es in Tübingen eine Beratung zum altersgerechten Bad?",
+      "a": "Bei der Beratungsstelle für altersgerechtes Wohnen des Kreisseniorenrats. Zu Pflegeleistungen berät der Pflegestützpunkt des Landkreises im Nonnenmacher-Haus."
+    },
+    {
+      "q": "Gibt es in Tübingen eine Förderung, wenn ich mit dem Bad auch Heizung und Warmwasser erneuere?",
+      "a": "Die Stadt fördert mit der Sanierungsprämie energetische Maßnahmen, die auf einer qualifizierten Energieberatung mit Sanierungsfahrplan beruhen. Auskunft gibt die Stabsstelle Umwelt- und Klimaschutz."
+    }
+  ],
+  "offen": [
+    "Umrechnung mmol/l in °dH (Faktor 5,6) selbst vorgenommen: 1,62 ≈ 9,1 °dH, 2,46 ≈ 13,8 °dH, 2,36 ≈ 13,2 °dH.",
+    "Satz zu Rückstausicherung/Hebeanlage ist allgemeine Fachaussage, nicht aus Tübinger Quelle; eine Tübinger Aussage zur Rückstauebene wurde nicht gefunden.",
+    "Ob die Sanierungsprämie Bad- oder Warmwassermaßnahmen umfasst, ist nicht geprüft; FAQ bewusst allgemein gehalten."
+  ]
+}

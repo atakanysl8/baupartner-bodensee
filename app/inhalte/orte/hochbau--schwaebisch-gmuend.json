@@ -1,0 +1,93 @@
+{
+  "leistung": "hochbau",
+  "ort": "schwaebisch-gmuend",
+  "ortName": "Schwäbisch Gmünd",
+  "kreis": "Ostalbkreis",
+  "title": "Bauunternehmen Schwäbisch Gmünd – kostenlos vermittelt",
+  "description": "Bauen in Schwäbisch Gmünd: Baurechtsamt, Roter Punkt, Bauplatzbewerbung, Denkmalschutz und Starkregenkarten. Bauunternehmen kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Schwäbisch Gmünd",
+  "einstieg": "Schwäbisch Gmünd verbindet eine denkmalgeschützte Altstadt im Remstal mit elf Stadtteilen zwischen Albtrauf und Schwäbischem Wald. Wer hier ein Haus neu bauen, erweitern oder ein bestehendes Gebäude ersetzen möchte, braucht ein passendes Grundstück, Klarheit über das Planungsrecht und einen vollständigen digitalen Bauantrag. Die Stadt hat für jeden dieser Schritte eigene Zuständigkeiten und Verfahren.",
+  "abschnitte": [
+    {
+      "h2": "Vom Bauantrag zum Roten Punkt: das Gmünder Baurechtsamt",
+      "text": "Bauanträge in Schwäbisch Gmünd gehen an das städtische Baurechtsamt als Baurechtsbehörde. Eingereicht wird über das Virtuelle Bauamt Baden-Württemberg; Privatpersonen melden sich dort mit einer BundID an. Die Stadt verlangt jede Bauvorlage als einzelne PDF/A-Datei und Pläne mit korrektem Maßstab. Nur die einreichende Person kann Nachrichten und Bescheide im Portal lesen; reicht der Entwurfsverfasser ein, ist eine Empfangsvollmacht nötig. Mit dem Bau begonnen werden darf erst, wenn die Baugenehmigung vorliegt und der Baufreigabeschein, in Gmünd „Roter Punkt“ genannt, erteilt ist. Für grundsätzliche Fragen zur Bebaubarkeit kann vorab ein Bauvorbescheid sinnvoll sein."
+    },
+    {
+      "h2": "Bauplatz und Bodenwert: Bauplatzmanagement und gemeinsamer Gutachterausschuss",
+      "text": "Städtische Wohnbauplätze in neu erschlossenen Baugebieten verkauft das Bauplatzmanagement im Amt für Stadtentwicklung, das auch zur künftigen Wohnbauentwicklung in den Stadtteilen berät. Bewerben kann man sich allgemein oder für einen konkreten Platz; die Formulare stehen im Digitalen Rathaus, Details zu Baugebieten im Geodatenportal. Rechtskräftige Bebauungspläne sind nicht online, sondern im Rathaus beim Amt für Stadtentwicklung einsehbar. Für den Grundstückswert ist der gemeinsame Gutachterausschuss Schwäbisch Gmünd zuständig, dem inzwischen 19 Kommunen angehören; seine Bodenrichtwerte zum Stichtag 1. Januar 2025 sind in BORIS-BW abrufbar. Sobald Sie wissen, was Sie bauen möchten, schildern Sie Ihr Vorhaben über unser Formular, und wir wählen dafür einen passenden Fachbetrieb aus."
+    },
+    {
+      "h2": "Altstadt, Denkmal und Starkregen: Was vor dem Entwurf zu prüfen ist",
+      "text": "Zahlreiche Gebäude und Flächen in Schwäbisch Gmünd stehen unter Denkmalschutz. Ob das eigene Grundstück betroffen ist, zeigt das Geodatenportal der Stadt; bei Kulturdenkmalen von besonderer Bedeutung kann eine denkmalschutzrechtliche Genehmigung auch für Bauvorhaben in deren Umgebung erforderlich sein. Bei genehmigungspflichtigen Vorhaben beteiligt das Baurechtsamt die Denkmalschutzbehörde im Verfahren. Ebenso früh lohnt der Blick auf die Starkregengefahrenkarten, die im Geodatenportal Wassertiefen und Fließgeschwindigkeiten für drei Regenszenarien zeigen. Die Stadt nennt als Vorsorge schon bei der Planung etwa den Verzicht auf einen Keller oder geeignete Baumaterialien."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "In Schwäbisch Gmünd wird der Bauantrag beim Baurechtsamt über das Virtuelle Bauamt Baden-Württemberg eingereicht; gebaut werden darf erst nach Baugenehmigung und Erteilung des Baufreigabescheins („Roter Punkt“).",
+      "quelle": "Stadt Schwäbisch Gmünd – Baurecht",
+      "url": "https://www.schwaebisch-gmuend.de/bauordnung-und-baurecht.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für den digitalen Bauantrag benötigen Privatpersonen eine BundID; Bauvorlagen sind als einzelne PDF/A-1a-Dateien einzureichen.",
+      "quelle": "Stadt Schwäbisch Gmünd – Digitaler Bauantrag",
+      "url": "https://www.schwaebisch-gmuend.de/beantragung-baugenehmigung.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Bauplatzmanagement im Amt für Stadtentwicklung verkauft städtische Wohnbauplätze in neu erschlossenen Baugebieten und berät zur Wohnbauentwicklung in den elf Stadtteilen.",
+      "quelle": "Stadt Schwäbisch Gmünd – Wohngebiete, Liegenschaften und Grundstücksangelegenheiten",
+      "url": "https://www.schwaebisch-gmuend.de/wohngebiete-liegenschaften.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Rechtskräftige Bebauungspläne sind nur im Rathaus beim Amt für Stadtentwicklung einsehbar; online stehen Pläne während der Öffentlichkeitsbeteiligung.",
+      "quelle": "Stadt Schwäbisch Gmünd – Bebauungspläne",
+      "url": "https://www.schwaebisch-gmuend.de/bebauungsplaene.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der gemeinsame Gutachterausschuss Schwäbisch Gmünd umfasst 19 Kommunen; seine Geschäftsstelle ist beim Liegenschafts- und Vermessungsamt der Stadt eingerichtet.",
+      "quelle": "Stadt Schwäbisch Gmünd – Gutachterausschuss",
+      "url": "https://www.schwaebisch-gmuend.de/gutachterausschuss.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Bodenrichtwerte zum Stichtag 01.01.2025 sind in BORIS-BW einsehbar.",
+      "quelle": "Stadt Schwäbisch Gmünd – Bodenrichtwerte",
+      "url": "https://www.schwaebisch-gmuend.de/bodenrichtwerte.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Ob ein Grundstück oder Gebäude unter Denkmalschutz steht, kann im Geodatenportal der Stadt abgerufen werden; für die Altstadt gibt es dort zudem ein Solarkataster für die denkmalgeschützte Gesamtanlage.",
+      "quelle": "Stadt Schwäbisch Gmünd – Denkmalschutz",
+      "url": "https://www.schwaebisch-gmuend.de/wohnen-bauen-stadtentwicklung/denkmalschutz.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Starkregengefahrenkarten im Geodatenportal zeigen maximale Wassertiefen und Fließgeschwindigkeiten für drei Regenereignisse (selten, außergewöhnlich, extrem).",
+      "quelle": "Stadt Schwäbisch Gmünd – Starkregengefahrenkarten",
+      "url": "https://www.schwaebisch-gmuend.de/starkregengefahrenkarten.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist der „Rote Punkt“ beim Bauen in Schwäbisch Gmünd?",
+      "a": "So wird der Baufreigabeschein bezeichnet. Nach Angaben der Stadt darf mit der Ausführung erst begonnen werden, wenn Baugenehmigung und Roter Punkt vorliegen."
+    },
+    {
+      "q": "Kann ich in Schwäbisch Gmünd einen Bebauungsplan online ansehen?",
+      "a": "Online stehen nur Pläne, die gerade in der Öffentlichkeitsbeteiligung sind. Rechtskräftige Bebauungspläne sind im Rathaus beim Amt für Stadtentwicklung einsehbar."
+    },
+    {
+      "q": "Wie bewerbe ich mich in Schwäbisch Gmünd um einen städtischen Bauplatz?",
+      "a": "Zuständig ist das Bauplatzmanagement im Amt für Stadtentwicklung. Im Digitalen Rathaus gibt es Formulare für eine allgemeine und für eine konkrete Bauplatzbewerbung."
+    }
+  ],
+  "offen": [
+    "Die Bezeichnung „Baurechtsamt“ stammt aus dem Text der Stadt; der genaue Amtsname im Organigramm wurde nicht abgeglichen.",
+    "Formulare zur Bauplatzbewerbung: Seite verweist auf „Liegenschafts- und Vermessungsamt“, Übersichtsseite auf „Amt für Stadtentwicklung“ – städtische Seiten uneinheitlich; im Text Amt für Stadtentwicklung genannt.",
+    "„Elf Stadtteile“ laut städtischer Liegenschaftsseite; nicht weiter abgeglichen."
+  ]
+}

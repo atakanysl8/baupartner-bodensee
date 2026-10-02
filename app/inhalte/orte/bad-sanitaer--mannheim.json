@@ -1,0 +1,88 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "mannheim",
+  "ortName": "Mannheim",
+  "kreis": "Mannheim",
+  "title": "Badsanierung Mannheim – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Mannheim: hartes Grundwasser, Mischkanal und Rückstau aus Rhein und Neckar, barrierearmer Umbau. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Mannheim",
+  "einstieg": "Zwischen Rhein und Neckar kommt das Leitungswasser aus der Tiefe: Mannheim trinkt ausschließlich Grundwasser, und das ist spürbar kalkhaltig. Wer in einer Altbauwohnung in den Quadraten, einem Reihenhaus auf dem Lindenhof oder einem Einfamilienhaus in Feudenheim das Bad erneuert, hat deshalb mit Kalk, mit einem Kanalnetz für Regen- und Schmutzwasser zugleich und oft mit dem Wunsch nach einer schwellenlosen Dusche zu tun.",
+  "abschnitte": [
+    {
+      "h2": "Hartes Mannheimer Grundwasser: was das für Armaturen und Warmwasser bedeutet",
+      "text": "Die MVV gewinnt das Trinkwasser für Mannheim in den Wasserwerken Käfertal und Rheinau und bezieht einen Teil aus dem Wasserwerk Schwetzinger Hardt des Zweckverbands Wasserversorgung Kurpfalz. Nach den aktuellen Analysen liegt die Gesamthärte bei rund 20 °dH, also im Härtebereich „hart“; im Wasserwerk Rheinau wird die Härte durch eine Entcarbonisierung bereits etwas gesenkt. Für ein neues Bad heißt das: Kalk setzt sich an Duschglas, Strahlreglern und in Durchlauferhitzern schneller ab als in Regionen mit weichem Wasser. Wer eine Enthärtungsanlage erwägt, plant ihren Platz sinnvollerweise gleich bei der Leitungsführung im Keller mit ein."
+    },
+    {
+      "h2": "Kellerbad und Rückstau: Mischkanalisation am Zusammenfluss von Rhein und Neckar",
+      "text": "Mannheim betreibt eine Mischkanalisation: Regen- und Schmutzwasser fließen gemeinsam zum Klärwerk. Bei Starkregen oder Hochwasser von Rhein und Neckar kann der Wasserspiegel im Kanal steigen. Nach dem Merkblatt der Stadtentwässerung gilt die Straßenoberfläche als Rückstauebene; alles, was tiefer liegt, also etwa Dusche, WC oder Waschmaschinenablauf im Untergeschoss, braucht eine Rückstausicherung wie eine Rückstauklappe für fäkalienhaltiges Wasser oder eine Hebeanlage. Für die Leitungen auf dem eigenen Grundstück bis zum öffentlichen Kanal sind die Eigentümer selbst verantwortlich. Bei einem Bad im Souterrain lohnt es sich deshalb, den Zustand der Grundleitung gleich mit klären zu lassen."
+    },
+    {
+      "h2": "Barrierearm umbauen: städtische Förderung und Beratung in Mannheim",
+      "text": "Die Stadt Mannheim unterstützt mit einem eigenen Förderprogramm bauliche Maßnahmen, die Barrieren in Mietwohnungen und im Wohneigentum verringern; zuständig ist der Fachbereich Geoinformation und Stadtplanung, der auch über verfügbare Mittel Auskunft gibt. Zu Pflegegrad und Hilfsmitteln berät der Pflegestützpunkt Mannheim kostenfrei, im Quadrat K1 und in Außensprechstunden in mehreren Stadtteilen. Wenn Ihre Planung steht, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Laut den aktuellen Trinkwasseranalysen der MVV hat das Wasser aus dem Wasserwerk Käfertal eine Gesamthärte von 20,9 °dH und das aus dem Wasserwerk Rheinau von 19,7 °dH, jeweils Härtebereich „hart“.",
+      "quelle": "MVV – Trinkwasseranalyse Wasserwerk Käfertal",
+      "url": "https://www.mvv.de/fileadmin/user_upload_pk_gewk/pdf/Wasser/wasserqualitaet-kaefertal.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Mannheims Trinkwasser wird ausschließlich aus Grundwasser gewonnen; im Wasserwerk Rheinau reduziert eine Schnellentcarbonisierung die Wasserhärte.",
+      "quelle": "MVV – Wasserqualität in Mannheim",
+      "url": "https://www.mvv.de/wasser/wasserqualitaet",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Nach dem Merkblatt der Stadtentwässerung Mannheim wird in der Stadt eine Mischkanalisation betrieben; die Straßenoberfläche bildet die Rückstauebene, tiefer liegende Räume sind gegen Rückstau zu sichern.",
+      "quelle": "Stadtentwässerung Mannheim – Merkblatt Rückstausicherung",
+      "url": "https://www.mannheim.de/sites/default/files/page/2272/merkblatt_3_ruckstausicherung_10-2014.pdf",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtentwässerung Mannheim ist für das öffentliche Kanalnetz zuständig; für die Kanäle auf dem eigenen Grundstück bis zum Anschluss an den öffentlichen Kanal sind die Eigentümer verantwortlich.",
+      "quelle": "Stadt Mannheim – Tipps für Hausbesitzer (Abwasser)",
+      "url": "https://www.mannheim.de/de/service-bieten/umwelt/abwasser/tipps-fuer-hausbesitzer",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadt Mannheim fördert mit einem Programm zur Reduzierung von Barrieren bauliche Maßnahmen in Mietwohnungen und im Wohneigentum; Ansprechpartner ist der Fachbereich Geoinformation und Stadtplanung.",
+      "quelle": "Stadt Mannheim – Förderung barrierefreies Wohnen",
+      "url": "https://www.mannheim.de/de/service-bieten/bauen-und-wohnen/barrierefreies-wohnen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt Mannheim berät neutral und kostenfrei rund um die Pflege, auch zu Hilfsmitteln, mit Außensprechstunden etwa in Rheinau und am Lindenhof.",
+      "quelle": "Stadt Mannheim – Pflegestützpunkt",
+      "url": "https://www.mannheim.de/de/service-bieten/kinder-jugend-familie-und-senioren/seniorinnen-und-senioren/pflegestuetzpunkt",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Klimaschutzagentur Mannheim, das gemeinnützige Energieeffizienzzentrum der Stadt, berät kostenlos und neutral zu Energiefragen, etwa zu Heizungserneuerung und Fördermöglichkeiten.",
+      "quelle": "Stadt Mannheim – Klimaschutzagentur",
+      "url": "https://www.mannheim.de/de/service-bieten/klima/klimaschutz/klimaschutzagentur",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Lohnt sich in Mannheim eine Enthärtungsanlage beim neuen Bad?",
+      "a": "Mit rund 20 °dH ist das Mannheimer Wasser hart. Ob eine Anlage sinnvoll ist, hängt vor allem von der Warmwasserbereitung und dem gewünschten Pflegeaufwand ab."
+    },
+    {
+      "q": "Was ist bei einer Dusche im Keller in Mannheim zu beachten?",
+      "a": "Weil die Straßenoberfläche als Rückstauebene gilt und das Kanalnetz Regen- und Schmutzwasser gemeinsam führt, brauchen Abläufe unterhalb dieser Höhe eine Rückstausicherung. Auskunft gibt die Stadtentwässerung Mannheim."
+    },
+    {
+      "q": "Gibt es in Mannheim einen Zuschuss für ein barrierearmes Bad?",
+      "a": "Die Stadt hat ein Förderprogramm zur Reduzierung von Barrieren in Wohnungen. Ob und in welchem Umfang Mittel verfügbar sind, beantwortet der Fachbereich Geoinformation und Stadtplanung."
+    }
+  ],
+  "offen": [
+    "MVV ist als Aktiengesellschaft (mehrheitlich städtisch) der örtliche Wasserversorger und wird namentlich genannt – bitte prüfen, ob das unter die Ausnahme „Stadtwerke/Zweckverband“ fällt.",
+    "Die Förderseite der Stadt meldet die Mittel für 2026 als ausgeschöpft; im Text deshalb nur auf Auskunft zur Verfügbarkeit verwiesen.",
+    "Härtewerte stammen aus den Analysen mit Probenahme August 2026 und können sich ändern; Wasserwerk Schwetzinger Hardt nicht ausgewertet.",
+    "Stadtteilnennungen im Einstieg (Quadrate, Lindenhof, Feudenheim) sind ortsüblich, aber nicht durch eine Fakt-Quelle belegt."
+  ]
+}

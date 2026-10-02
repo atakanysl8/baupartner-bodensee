@@ -1,0 +1,87 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "stuttgart",
+  "ortName": "Stuttgart",
+  "kreis": "Stuttgart",
+  "title": "Badsanierung Stuttgart – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Stuttgart: Mischwasser aus Bodensee und Donauried, Entwässerungsantrag, Förderung fürs barrierefreie Bad. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Stuttgart",
+  "einstieg": "Altbauwohnung im Westen, Reihenhaus auf den Fildern oder Hanghaus in Degerloch: Ein neues Bad in Stuttgart hängt an Fernwasser aus zwei Quellen, an einem Kanalnetz, das bei Starkregen an Grenzen kommt, und oft an der Frage, wie man im Alter ohne Stufe duscht.",
+  "abschnitte": [
+    {
+      "h2": "Bodenseewasser und Landeswasser: Was in Stuttgarter Leitungen ankommt",
+      "text": "Stuttgart hat praktisch kein eigenes Trinkwasser. Nach Angaben der Stadt kommt es fast vollständig über Fernleitungen vom Zweckverband Bodensee-Wasserversorgung und von der Landeswasserversorgung aus dem Donauried. Beide liefern Wasser im Härtebereich „mittel“, die Werte unterscheiden sich aber: Das Bodenseewasser liegt bei rund 9 °dH, das Landeswasser je nach Versorgungsbereich bei bis zu gut 13 °dH. Welches Wasser an der eigenen Adresse ankommt, zeigt das Wasserportal, auf das das Gesundheitsamt verweist. Wer an einer Adresse mit höherem Wert eine bodenebene Dusche mit viel Glas plant, denkt Kalkpflege und die Lage der Armaturen besser gleich mit."
+    },
+    {
+      "h2": "Neues Bad im Untergeschoss: Entwässerung und Rückstau",
+      "text": "Ein Gäste-WC oder Duschbad im Keller berührt die Grundstücksentwässerung. Die Stadt nennt An- und Umbauten je nach Umfang sowie Änderungen der Grundstücksentwässerungsanlage als Fälle, in denen ein Entwässerungsantrag nach der Stuttgarter Abwassersatzung erforderlich sein kann; zuständig ist das Tiefbauamt mit dem Eigenbetrieb Stadtentwässerung (SES). Bestandspläne der privaten Entwässerung liegen in den Bauakten des Baurechtsamts. Weil sich Straßenkanäle bei Starkregen füllen können, nennt die Stadt bei der Eigenvorsorge ausdrücklich Sperrventile wie die Rückschlagklappe im Anschlusskanal. Wer im Hang oder in einer Talsenke wohnt, findet die Lage seines Grundstücks in der städtischen Starkregengefahrenkarte."
+    },
+    {
+      "h2": "Barrierefrei umbauen: Beratung und städtisches Förderprogramm",
+      "text": "Für ein schwellenloses Bad gibt es in Stuttgart mehrere neutrale Anlaufstellen. Der Pflegestützpunkt der Stadt berät an sieben Standorten, nach Stadtbezirken aufgeteilt, unter anderem zu Hilfsmitteln und barrierearmem Wohnen. Das Energieberatungszentrum Stuttgart (EBZ) bietet eine von der Stadt geförderte Wohnraumberatung an, die Umbau und energetische Sanierung zusammen betrachtet. Die Stadt selbst hat ein Förderprogramm „Barrierefreies und altersgerechtes Wohnen“, das ausdrücklich auch Badumbauten nennt; ein Antrag ist dort nur vor Beginn der Arbeiten möglich. Wenn die Planung steht, schildern Sie Ihr Vorhaben über unser Formular, und wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Stuttgart wird zu fast 100 Prozent mit Landeswasser aus dem Donauried und Bodenseewasser versorgt; ab dem Wasserzähler ist der Eigentümer für die Wasserqualität der Hausinstallation verantwortlich.",
+      "quelle": "Landeshauptstadt Stuttgart – Trinkwasser",
+      "url": "https://www.stuttgart.de/leben/umwelt/wasser/trinkwasser.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Bodensee-Wasserversorgung gibt die Härte ihres Trinkwassers mit 1,61 mmol/L an, das entspricht 9 °dH und dem Härtebereich „mittel“.",
+      "quelle": "Zweckverband Bodensee-Wasserversorgung – Verbraucherfragen",
+      "url": "https://www.bodensee-wasserversorgung.de/trinkwasser/verbraucherfragen.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Landeswasserversorgung weist für ihre Versorgungsbereiche Jahresmittelwerte der Gesamthärte von 9,10 bis 13,4 °dH aus, jeweils im Härtebereich „mittel“.",
+      "quelle": "Zweckverband Landeswasserversorgung – Trinkwasseranalyse",
+      "url": "https://www.lw-online.de/trinkwasser/qualitaet/trinkwasseranalyse",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Bei An- und Umbauten je nach Umfang oder bei Änderung der Grundstücksentwässerung ist ein Entwässerungsantrag nach der Stuttgarter Abwassersatzung vorgesehen; zuständig ist das Tiefbauamt mit Eigenbetrieb Stadtentwässerung.",
+      "quelle": "Landeshauptstadt Stuttgart – Einleiten von Abwasser beantragen",
+      "url": "https://www.stuttgart.de/organigramm/leistungen/abwasser-einleiten-von-abwasser-in-oeffentliche-abwasseranlagen-beantragen",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das städtische Programm „Barrierefreies und altersgerechtes Wohnen“ nennt Badumbauten als förderfähig; Anträge sind nur vor Beginn der Umbaumaßnahme möglich.",
+      "quelle": "Landeshauptstadt Stuttgart – Förderprogramme barrierefreies Stuttgart",
+      "url": "https://www.stuttgart.de/buergerinnen-und-buerger/menschen-mit-behinderung/barrierefrei-in-stuttgart/foerderprogramme-barrierefreies-stuttgart",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Stuttgarter Pflegestützpunkt arbeitet an sieben Standorten und berät unter anderem zu Hilfsmitteln und barrierearmem Wohnen.",
+      "quelle": "Landeshauptstadt Stuttgart – Bürgerservice Leben im Alter",
+      "url": "https://www.stuttgart.de/buergerinnen-und-buerger/senioren/buergerservice-leben-im-alter",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Energieberatungszentrum Stuttgart bietet eine für Ratsuchende kostenfreie Wohnraumberatung an, die die Landeshauptstadt im Rahmen des Klimainnovationsfonds fördert.",
+      "quelle": "Energieberatungszentrum Stuttgart e. V. – Wohnraumberatung",
+      "url": "https://ebz-stuttgart.de/wohnraumberatung/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hart ist das Wasser in Stuttgart?",
+      "a": "Beide Fernwasserlieferanten liegen im Härtebereich „mittel“, das Bodenseewasser bei rund 9 °dH, das Landeswasser je nach Bereich bis gut 13 °dH. Den Wert für die eigene Adresse nennt die Trinkwasseranalyse."
+    },
+    {
+      "q": "Brauche ich für ein Kellerbad in Stuttgart einen Entwässerungsantrag?",
+      "a": "Das hängt vom Umfang ab. Die Stadt nennt Umbauten und Änderungen der Grundstücksentwässerung als mögliche Fälle; Auskunft gibt das Tiefbauamt mit Eigenbetrieb Stadtentwässerung."
+    },
+    {
+      "q": "Fördert die Stadt Stuttgart den barrierefreien Badumbau?",
+      "a": "Dafür gibt es das Programm „Barrierefreies und altersgerechtes Wohnen“. Ob Mittel verfügbar sind und welche Einkommensgrenzen gelten, erläutert die Geschäftsstelle der Beauftragten für die Belange von Menschen mit Behinderung."
+    }
+  ],
+  "offen": [
+    "Welcher Stadtbezirk welches Fernwasser (bzw. welche Mischung) erhält, wurde nicht ermittelt; Text verweist auf die adressgenaue Abfrage.",
+    "Das städtische Förderprogramm barrierefreies Wohnen meldet auf seiner Seite, dass die Fördermittel derzeit noch nicht zur Verfügung stehen; daher keine Beträge im Text.",
+    "Ortsteilnennungen im Einstieg (Westen, Filder, Degerloch) nicht durch Fakt-Quelle belegt."
+  ]
+}

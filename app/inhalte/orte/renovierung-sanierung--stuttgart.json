@@ -1,0 +1,77 @@
+{
+  "leistung": "renovierung-sanierung",
+  "ort": "stuttgart",
+  "ortName": "Stuttgart",
+  "kreis": "Stuttgart",
+  "title": "Sanierung Stuttgart – Fachbetrieb kostenlos vermittelt",
+  "description": "Sanierung in Stuttgart: Sanierungsgebiete, Energiesparprogramm, Wärmeplan und über 4.500 Kulturdenkmale. Passender Fachbetrieb kostenlos vermittelt.",
+  "h1": "Sanierung in Stuttgart",
+  "einstieg": "Gründerzeithaus im Stuttgarter Westen, Nachkriegsbau in Zuffenhausen oder Eigentumswohnung in einer großen Anlage: Bei einer Sanierung in Stuttgart entscheidet die Lage des Gebäudes oft darüber, welche Förderung infrage kommt und welche Behörde mitredet. Ob das Haus in einem Sanierungsgebiet steht oder ein Kulturdenkmal ist, sollte deshalb vor der Planung feststehen.",
+  "abschnitte": [
+    {
+      "h2": "Sanierungsgebiet oder Energiesparprogramm: In Stuttgart eine Frage der Adresse",
+      "text": "In Stuttgart wird nach Angaben der Stadt in 20 bis 30 Sanierungsgebieten der Städtebauförderung gearbeitet, mehr als 30 Verfahren sind abgeschlossen. Ein Gebiet bleibt in der Regel rund zehn Jahre in den Programmen von Bund und Land. Für private Modernisierungen in diesen Gebieten nennt die Stadt jeweils eigene Ansprechpersonen, für energetische Maßnahmen gibt es eine eigene Förderrichtlinie. Außerhalb davon gilt das städtische Energiesparprogramm-Wohnen, das Einzelmaßnahmen an der Gebäudehülle und Sanierungen zum Effizienzhaus 70 oder besser bezuschusst, sofern das Gebäude seit mindestens 15 Jahren bezugsfertig ist. In Sanierungsgebieten greift es nur ausnahmsweise. Ob und in welchem Umfang Mittel verfügbar sind, ändert sich von Jahr zu Jahr; den aktuellen Stand nennen die Stadt und das Energieberatungszentrum."
+    },
+    {
+      "h2": "Wärmeplan, Denkmalschutz und neutrale Beratung",
+      "text": "Welche Heizung nach einer Sanierung sinnvoll ist, hängt auch vom kommunalen Wärmeplan ab, den der Gemeinderat im Dezember 2023 beschlossen hat. Er wertet Daten von fast 200.000 Gebäuden aus und gibt für die 23 Stadtbezirke Empfehlungen, aber keine Pflichten für Eigentümer. Bei älteren Häusern lohnt der Blick in die Denkmalliste: Stuttgart zählt mehr als 4.500 Kulturdenkmale, Genehmigungsbehörde für private Bauherren ist die untere Denkmalschutzbehörde im Amt für Stadtplanung und Wohnen. Für den ersten Überblick bietet das Energieberatungszentrum Stuttgart eine kostenlose Erstberatung an. Steht das Konzept, schildern Sie Ihr Vorhaben über unser Formular; wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "In Stuttgart wird in 20 bis 30 Sanierungsgebieten gearbeitet, mehr als 30 Verfahren sind abgeschlossen; Gebiete werden für etwa zehn Jahre in Förderprogramme von Bund und Land aufgenommen.",
+      "quelle": "Landeshauptstadt Stuttgart – Stadterneuerung",
+      "url": "https://www.stuttgart.de/leben/stadtentwicklung/stadtplanung/stadterneuerung/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Stadtrecht enthält eine Förderrichtlinie für energetische Gebäudemodernisierung in Sanierungsgebieten der Landeshauptstadt Stuttgart (Fassung 2023).",
+      "quelle": "Landeshauptstadt Stuttgart – Stadtrecht 6/25",
+      "url": "https://www.stuttgart.de/rathaus/verwaltung/stadtrecht/6/6-25-foerderrichtlinie-fuer-energetische-gebaeudemodernisierung-in-sanierungsgebieten-der-landeshauptstadt-stuttgart-fassung-2023",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Energiesparprogramm-Wohnen fördert Wohngebäude, die vor mindestens 15 Jahren bezugsfertig wurden; in städtebaulichen Sanierungs- und Entwicklungsgebieten nur ausnahmsweise, wenn dort keine Sanierungsmittel verfügbar sind.",
+      "quelle": "Landeshauptstadt Stuttgart – Energiesparprogramm",
+      "url": "https://www.stuttgart.de/leben/wohnen/wohnbaufoerderung/energiesparprogramm",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der kommunale Wärmeplan wurde im Dezember 2023 beschlossen, basiert auf Daten von fast 200.000 Gebäuden und enthält Empfehlungen, aber keine Pflichten für Gebäudeeigentümer.",
+      "quelle": "Landeshauptstadt Stuttgart – Kommunaler Wärmeplan",
+      "url": "https://www.stuttgart.de/leben/umwelt/energie/energieleitplanung/kommunaler-waermeplan/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Stuttgart hat mehr als 4.500 Kulturdenkmale als Einzelobjekte; die untere Denkmalschutzbehörde im Amt für Stadtplanung und Wohnen ist Genehmigungsbehörde bei privaten Bauherren.",
+      "quelle": "Landeshauptstadt Stuttgart – Denkmalschutz",
+      "url": "https://www.stuttgart.de/leben/bauen/baurecht/denkmalschutz",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Erstberatung im Energieberatungszentrum Stuttgart dauert in der Regel 45 Minuten; die Kosten trägt die Landeshauptstadt Stuttgart.",
+      "quelle": "Energieberatungszentrum Stuttgart e. V. – Kostenfreie Erstberatung",
+      "url": "https://ebz-stuttgart.de/kostenfreie-erstberatung/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie erfahre ich, ob mein Haus in einem Stuttgarter Sanierungsgebiet liegt?",
+      "a": "Die Stadt veröffentlicht eine Übersichtskarte und die Abgrenzungspläne der Gebiete. Auskunft zur Modernisierungsförderung gibt die Abteilung Stadterneuerung und Wohnbauentwicklung."
+    },
+    {
+      "q": "Muss ich nach dem Stuttgarter Wärmeplan meine Heizung tauschen?",
+      "a": "Nein, der Wärmeplan enthält laut Stadt Empfehlungen für Gebiete und Energiequellen, aber keine Pflichten für Eigentümer. Er hilft bei der Einschätzung, ob etwa ein Wärmenetz in Reichweite ist."
+    },
+    {
+      "q": "Brauche ich bei einem Kulturdenkmal eine eigene Genehmigung?",
+      "a": "In der Regel ja, zuständig ist die untere Denkmalschutzbehörde der Stadt. Bei genehmigungspflichtigen Bauvorhaben beteiligt das Baurechtsamt sie im Verfahren."
+    }
+  ],
+  "offen": [
+    "Energiesparprogramm: Stadt meldet für 2026 ausgeschöpfte Mittel (Annahmeschluss 14.08.2026), Fortsetzung 2027 offen; im Text bewusst ohne Datum/Beträge.",
+    "Inhalt der Förderrichtlinie 6/25 (Sanierungsgebiete) nur als Titel geprüft, Details nicht gelesen.",
+    "Ortsteilnennungen im Einstieg (Westen, Zuffenhausen) nicht belegt."
+  ]
+}

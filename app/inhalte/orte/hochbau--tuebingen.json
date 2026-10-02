@@ -1,0 +1,88 @@
+{
+  "leistung": "hochbau",
+  "ort": "tuebingen",
+  "ortName": "Tübingen",
+  "kreis": "Tübingen",
+  "title": "Bauunternehmen Tübingen – kostenlos vermittelt",
+  "description": "Bauen in Tübingen: Fachbereich Baurecht, Tübinger Modell mit Konzeptvergabe, Bauplätze in den Teilorten, Bauturbo und Bodenrichtwerte. Kostenlos vermittelt.",
+  "h1": "Bauunternehmen in Tübingen",
+  "einstieg": "Wohnraum ist in Tübingen gefragt, und die Universitätsstadt steuert ihre Bauflächen so aktiv wie kaum eine andere Stadt. Wer hier ein Haus bauen, mit einer Baugruppe ein Mehrfamilienhaus errichten oder ein Bestandsgebäude erweitern will, trifft auf eigene Vergabeverfahren, einen städtischen Fachbereich Baurecht und klare Regeln für den Bauturbo.",
+  "abschnitte": [
+    {
+      "h2": "Tübinger Modell: Wie die Stadt Bauland vergibt",
+      "text": "Seit den 1990er-Jahren entwickelt Tübingen neue Quartiere bevorzugt nach dem sogenannten Tübinger Modell. Die Stadt erwirbt die Flächen zunächst selbst und vergibt die baureifen Parzellen zu Festpreisen. Bei Mehrfamilienhausgrundstücken kommen in Konzeptvergaben Baugruppen, Genossenschaften und andere Gemeinschaften mit einem überzeugenden Konzept zum Zug; die Stadt spricht hier von Optionsvergabeverfahren. Bauplätze in den Teilorten, etwa in Bühl, Pfrondorf oder Weilheim, vergibt sie über das Bauplatzportal Baupilot. Seit einem Gemeinderatsbeschluss von 2018 schreibt Tübingen außerdem Quoten für mietpreisreduzierten Wohnungsbau vor. Für Bauherren bedeutet das: Wer ein städtisches Grundstück erwerben möchte, braucht häufig mehr als einen Kaufpreis, nämlich ein tragfähiges Konzept und einen Zeitplan, der zum Vergabeverfahren passt."
+    },
+    {
+      "h2": "Fachbereich Baurecht und Service-Center Bauen in der Brunnenstraße",
+      "text": "Als Große Kreisstadt ist Tübingen selbst untere Baurechtsbehörde. Der städtische Fachbereich Baurecht bearbeitet Bauanträge, Bauvorbescheide, denkmalschutzrechtliche Genehmigungen sowie Genehmigungen in Sanierungsgebieten und Bereichen mit Erhaltungsgeboten. Für die Altstadt und andere Quartiere gibt es Ortsbild- und Erhaltungssatzungen mit eigenen Ansprechpersonen. Das Service-Center Bauen gibt allgemeine Auskünfte zu Verfahrensfragen und Auszüge aus dem Baulastenbuch; eine Beratung zu konkreten Einzelfragen ist nach Terminabsprache möglich, ersetzt aber nicht die Leistung eines Fachplaners. Wohnungsbau über den Bauturbo setzt in Tübingen die Zustimmung der Gemeinde voraus, die im Einzelfall entscheidet und Bedingungen an die städtebauliche Qualität knüpfen kann; einen Anspruch darauf gibt es nicht."
+    },
+    {
+      "h2": "Bodenrichtwerte und Planung für das eigene Grundstück",
+      "text": "Für eine erste Einschätzung des Grundstückswerts hat Tübingen 2021 eine neue Bodenrichtwertkarte mit Zonen ähnlicher Bebauung erstellt. Sie ist im Stadtplan und im landesweiten System BORIS-BW einsehbar. Die Stadt weist darauf hin, dass der tatsächliche Wert abweichen kann, etwa bei sehr großen oder besonders steilen Grundstücken, wie sie an den Tübinger Hanglagen vorkommen. Wenn Grundstück und Konzept stehen, schildern Sie Ihr Vorhaben über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Nach dem „Tübinger Modell“ erwirbt die Stadt seit den 1990er-Jahren Flächen zunächst selbst und vergibt baureife Parzellen zu Festpreisen, bei Konzeptvergaben bevorzugt an Baugruppen, Genossenschaften und andere zivilgesellschaftliche Akteure.",
+      "quelle": "Universitätsstadt Tübingen – Städtische Bodenpolitik",
+      "url": "https://www.tuebingen.de/37252.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Mit dem Baulandbeschluss vom Dezember 2018 schreibt die Universitätsstadt Tübingen Quoten für mietpreisreduzierten Wohnungsbau vor.",
+      "quelle": "Universitätsstadt Tübingen – Städtische Bodenpolitik",
+      "url": "https://www.tuebingen.de/37252.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Städtische Baugrundstücke in den Teilorten vergibt Tübingen über das Bauplatzportal Baupilot; Mehrfamilienhausgrundstücke in der Regel über ein Optionsvergabeverfahren.",
+      "quelle": "Universitätsstadt Tübingen – Städtische Baugrundstücke",
+      "url": "https://www.tuebingen.de/47891.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Fachbereich Baurecht der Stadt Tübingen ist für alle grundstücksbezogenen Genehmigungen zuständig, darunter Bauanträge, Bauvorbescheide und denkmalschutzrechtliche Genehmigungen.",
+      "quelle": "Universitätsstadt Tübingen – Fachbereich Baurecht",
+      "url": "https://www.tuebingen.de/verwaltung/dienststellen/baurecht",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das Service-Center Bauen gibt allgemeine Auskünfte und Informationen aus dem Baulastenbuch; Beratungen zu konkreten Einzelfragen gibt es nur nach vorheriger Terminabsprache.",
+      "quelle": "Universitätsstadt Tübingen – Fachbereich Baurecht",
+      "url": "https://www.tuebingen.de/verwaltung/dienststellen/baurecht",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Auf eine Zulassung nach dem Bauturbo besteht in Tübingen kein Anspruch; jede Entscheidung fällt im Einzelfall und setzt die Zustimmung der Gemeinde voraus.",
+      "quelle": "Universitätsstadt Tübingen – Bauturbo",
+      "url": "https://www.tuebingen.de/46978.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Tübingen hat 2021 eine neue Bodenrichtwertkarte erstellt; sie ist im Stadtplan und in BORIS-BW einsehbar.",
+      "quelle": "Universitätsstadt Tübingen – Bodenrichtwerte",
+      "url": "https://www.tuebingen.de/37249.html",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie bekomme ich in Tübingen ein städtisches Baugrundstück?",
+      "a": "In den Teilorten werden städtische Bauplätze über das Portal Baupilot vergeben. Grundstücke für Mehrfamilienhäuser vergibt die Stadt in der Regel in einem Optionsvergabeverfahren nach Konzept."
+    },
+    {
+      "q": "Wer genehmigt in Tübingen einen Bauantrag?",
+      "a": "Zuständig ist der Fachbereich Baurecht der Universitätsstadt in der Brunnenstraße. Allgemeine Auskünfte gibt das Service-Center Bauen."
+    },
+    {
+      "q": "Gilt der Bauturbo in Tübingen automatisch?",
+      "a": "Nein. Die Stadt entscheidet im Einzelfall und muss zustimmen; die Zustimmung kann an städtebauliche Bedingungen geknüpft werden."
+    }
+  ],
+  "offen": [
+    "„Als Große Kreisstadt ist Tübingen selbst untere Baurechtsbehörde“ ist aus der Zuständigkeit des Fachbereichs Baurecht abgeleitet, nicht wörtlich belegt.",
+    "Die Tübinger Eckpunkte zum Bauturbo (Qualität und soziale Sicherung) waren auf der Seite eingeklappt und nicht auslesbar.",
+    "Hinweis auf „Tübinger Hanglagen“ ist eine allgemeine Ortsbeschreibung, keine Quellenaussage (Quelle nennt nur „besonders steil“ als Beispiel).",
+    "Hochwasser-/Starkregengefahr (Neckar, Ammer) und Baugrund nicht recherchiert."
+  ]
+}

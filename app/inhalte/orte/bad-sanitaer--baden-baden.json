@@ -1,0 +1,81 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "baden-baden",
+  "ortName": "Baden-Baden",
+  "kreis": "Baden-Baden",
+  "title": "Badsanierung Baden-Baden – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Baden-Baden: weiches Quell- und Osmosewasser, Genehmigung neuer Grundleitungen, Legionellen bei Vermietung. Fachbetrieb kostenlos vermittelt.",
+  "h1": "Badsanierung in Baden-Baden",
+  "einstieg": "Baden-Baden hat einen hohen Anteil an Altbauten, von der Gründerzeitvilla in der Weststadt bis zum Winzerhaus im Rebland. Beim Badumbau kommt hier eine Besonderheit hinzu: Das Leitungswasser ist dank Schwarzwaldquellen und Aufbereitung ungewöhnlich weich. Dafür gelten für neue Abwasserleitungen und für vermietete Häuser mit größerer Warmwasseranlage eigene Spielregeln.",
+  "abschnitte": [
+    {
+      "h2": "Quellwasser und Umkehrosmose: weiches Wasser im ganzen Stadtgebiet",
+      "text": "Die Stadtwerke Baden-Baden gewinnen das Trinkwasser aus zahlreichen Schwarzwaldquellen und zwei Grundwasserwerken in der Rheinebene. Seit 2018 senkt eine Umkehrosmoseanlage im Grundwasserwerk Sandweier Härte und PFAS-Werte; im Rebland arbeitet eine solche Anlage bereits seit 2013. Die Stadtwerke nennen für die Versorgungszonen je nach Lage 3 bis 4 °dH oder 6 bis 10 °dH, im Rebland 3 bis 4 oder 8,4 bis 10 °dH. Geroldsau, Oberbeuern und Ebersteinburg erhalten reines Quellwasser mit etwa 3 °dH. Eine private Enthärtungsanlage halten die Stadtwerke für nicht mehr notwendig. Für das neue Bad heißt das: Kalk spielt eine geringe Rolle, ein bestehender Enthärter kann beim Umbau meist entfallen."
+    },
+    {
+      "h2": "Neue Grundleitungen: Entwässerung vorab genehmigen lassen",
+      "text": "Das städtische Kanalnetz ist rund 400 Kilometer lang, teils über 100 Jahre alt und arbeitet abschnittsweise im Misch- und im Trennsystem. Werden bei einem Umbau auf dem Grundstück neue erdverlegte Grundleitungen hergestellt oder bestehende geändert, ist das nach Angaben der Stadtwerke vor Beginn der Arbeiten genehmigen zu lassen; nach Abschluss wird die Inbetriebnahme beantragt. Dieses Verfahren läuft unabhängig vom Bauantrag. Bei alten Villen mit unbekanntem Leitungsverlauf hilft die Planauskunft der Stadtwerke, die Pläne zum öffentlichen Kanal und zu privaten Entwässerungsleitungen bereitstellt."
+    },
+    {
+      "h2": "Vermietete Häuser, Pflege und Energie",
+      "text": "Wer ein Mehrfamilienhaus vermietet und dabei Bäder erneuert, sollte die Warmwasseranlage im Blick behalten: Bei gewerblicher Nutzung mit Großanlage und Duschen ist nach Trinkwasserverordnung in der Regel alle drei Jahre eine Legionellenuntersuchung vorgesehen, worauf die Stadtwerke hinweisen. Für Pflegefragen hat die Stadt einen eigenen Pflegestützpunkt, für Energiefragen rund um Warmwasser und Heizung bietet die Energieagentur Mittelbaden eine kostenfreie Erstberatung an. Schildern Sie Ihr Vorhaben danach über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Das Trinkwasser für Baden-Baden stammt aus zahlreichen Quellen im Schwarzwald und aus zwei Grundwasserwerken in der Rheinebene; seit August 2018 senkt eine Umkehrosmoseanlage im Grundwasserwerk Sandweier Härte und PFAS-Werte.",
+      "quelle": "Stadtwerke Baden-Baden – Wasserqualität und Wasserhärte",
+      "url": "https://www.stadtwerke-baden-baden.de/de/privatkunden/trinkwasser/wasserqualitaet.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Baden-Baden nennen für ihre Versorgungszonen 3 bis 4 °dH (weich) bzw. 6 bis 10 °dH (weich/mittel) und halten eine private Enthärtungsanlage für nicht mehr notwendig.",
+      "quelle": "Stadtwerke Baden-Baden – Wasserqualität und Wasserhärte",
+      "url": "https://www.stadtwerke-baden-baden.de/de/privatkunden/trinkwasser/wasserqualitaet.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Geroldsau, Oberbeuern und Ebersteinburg werden ausschließlich mit Quellwasser (3 °dH) versorgt.",
+      "quelle": "Stadtwerke Baden-Baden – Wasserqualität und Wasserhärte",
+      "url": "https://www.stadtwerke-baden-baden.de/de/privatkunden/trinkwasser/wasserqualitaet.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Das städtische Kanalnetz in Baden-Baden ist rund 400 Kilometer lang und teilweise über 100 Jahre alt; neue oder geänderte Grundleitungen auf dem Privatgrundstück sind vor Beginn der Arbeiten von den Stadtwerken genehmigen zu lassen.",
+      "quelle": "Stadtwerke Baden-Baden – Abwasser (Kanalisation)",
+      "url": "https://www.stadtwerke-baden-baden.de/de/entsorgung/abwasser.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Stadtwerke Baden-Baden weisen darauf hin, dass für gewerblich genutzte Gebäude, etwa bei Vermietung von Wohnraum, mit Großanlage zur Trinkwassererwärmung eine Legionellenuntersuchung alle drei Jahre vorgeschrieben ist.",
+      "quelle": "Stadtwerke Baden-Baden – Legionellen",
+      "url": "https://www.stadtwerke-baden-baden.de/de/privatkunden/trinkwasser/legionellen.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Energieagentur Mittelbaden, zu deren Gesellschaftern der Stadtkreis Baden-Baden gehört, bietet kostenfreie Erstberatungen zu Energiethemen an.",
+      "quelle": "Landkreis Rastatt – Energieagentur Mittelbaden",
+      "url": "https://www.landkreis-rastatt.de/landratsamt/aemteruebersicht/energieagentur-mittelbaden",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich in Baden-Baden eine Entkalkungsanlage im Bad?",
+      "a": "Nach Einschätzung der Stadtwerke nicht mehr: Das Wasser liegt je nach Zone bei 3 bis 4 oder 6 bis 10 °dH. Eine vorhandene Anlage kann laut Stadtwerken außer Betrieb genommen werden."
+    },
+    {
+      "q": "Wer genehmigt neue Abwasserleitungen bei einem Umbau in Baden-Baden?",
+      "a": "Neue oder geänderte Grundleitungen auf dem Grundstück genehmigen die Stadtwerke Baden-Baden als Kanalnetzbetreiber, unabhängig vom Bauantrag. Danach wird die Inbetriebnahme beantragt."
+    },
+    {
+      "q": "Was ist bei der Badsanierung in einem vermieteten Mehrfamilienhaus zu beachten?",
+      "a": "Bei einer Großanlage zur Trinkwassererwärmung und Duschen ist bei Vermietung in der Regel eine Legionellenuntersuchung alle drei Jahre vorgesehen."
+    }
+  ],
+  "offen": [
+    "Einstieg „hoher Anteil an Altbauten“, Weststadt und Rebland sind Einordnung, nicht statistisch belegt.",
+    "Pflegestützpunkt der Stadt Baden-Baden nur indirekt belegt (Seite Seniorinnen & Senioren nennt ihn im Zusammenhang mit der Demenzkampagne); daher ohne eigenen Fakt.",
+    "Legionellen: Die Stadtwerke-Seite nennt Großanlage >400 l bzw. >3 l Leitungsinhalt als Kriterium; im Text vereinfacht als „Großanlage“. Ob die Aussage „vorgeschrieben“ juristisch so stehen darf, siehe Anwaltsfrage."
+  ]
+}

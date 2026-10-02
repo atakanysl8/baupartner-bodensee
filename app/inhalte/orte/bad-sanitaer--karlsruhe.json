@@ -1,0 +1,81 @@
+{
+  "leistung": "bad-sanitaer",
+  "ort": "karlsruhe",
+  "ortName": "Karlsruhe",
+  "kreis": "Karlsruhe",
+  "title": "Badsanierung Karlsruhe – Fachbetrieb kostenlos vermittelt",
+  "description": "Badsanierung in Karlsruhe: hartes Grundwasser, Entwässerungsgenehmigung beim Umbau, barrierearmes Bad. Fachbetrieb kostenlos und unverbindlich vermittelt.",
+  "h1": "Badsanierung in Karlsruhe",
+  "einstieg": "Ein neues Bad in der Weststadt, ein Duschbad im Reihenhaus in Rüppurr oder ein Umbau im Bestand in Durlach: In Karlsruhe treffen solche Vorhaben auf hartes Grundwasser aus dem Oberrheingraben und auf ein städtisches Genehmigungsverfahren für Abwasserleitungen. Wer die zuständigen Stellen kennt, plant das Bad mit weniger Überraschungen.",
+  "abschnitte": [
+    {
+      "h2": "Rund 18 °dH: Was das harte Karlsruher Wasser für Dusche und Armaturen bedeutet",
+      "text": "Das Leitungswasser in Karlsruhe ist Grundwasser aus vier Wasserwerken der Stadtwerke. Auf seinem langen Weg durch die kalkhaltigen Kiese und Sande des Oberrheingrabens nimmt es viel Kalk auf und erreicht rund 18 °dH, also den Härtebereich „hart“. Im Bad zeigt sich das an Duschköpfen, Perlatoren und Glaswänden. Eine zentrale Enthärtung lehnen die Stadtwerke ab. Wer aus Komfortgründen eine eigene Anlage wünscht, kann Platz und Anschluss dafür gleich beim Umbau vorsehen. In den Höhenstadtteilen kommt das Wasser größtenteils von einem Zweckverband, dort gelten eigene Analysewerte."
+    },
+    {
+      "h2": "Neue Leitungen, neues Kellerbad: Entwässerung beim Tiefbauamt klären",
+      "text": "In Karlsruhe sind nicht nur neue Grundstücksentwässerungsanlagen genehmigungspflichtig. Nach Angaben des Tiefbauamts gilt das auch für Änderungen an bestehenden Anlagen, etwa durch Umbauten und Erweiterungen. Wird ein Bad verlegt, ein Gäste-WC im Keller ergänzt oder die Grundleitung erneuert, lohnt deshalb früh ein Blick in das Merkblatt der Stadt zur Grundstücks- und Gebäudeentwässerung. Weil Gewitterregen in Karlsruhe immer wieder Keller fluten, verweist die Stadt außerdem auf Rückstauschutz nach den einschlägigen DIN-Normen. Für Fragen zum Verfahren bietet das Tiefbauamt eine Bauherrenberatung an."
+    },
+    {
+      "h2": "Barrierearm umbauen: Beratung beim Pflegestützpunkt und bei der KEK",
+      "text": "Wer das Bad für das Älterwerden oder für einen Angehörigen mit Pflegebedarf umbaut, findet beim Pflegestützpunkt der Stadt eine kostenfreie Beratung. Das Angebot richtet sich an gesetzlich Versicherte mit Pflegebedarf und an ihre Angehörigen, bei Bedarf entsteht gemeinsam ein individueller Hilfeplan. Für Haltegriffe, Umbaumaßnahmen und Zuschüsse der Pflegekassen verweist die Stadt zusätzlich auf Wohnberatungsstellen. Zur Warmwasserbereitung berät die Karlsruher Energie- und Klimaschutzagentur neutral. Wenn das Vorhaben feststeht, schildern Sie es über unser Formular. Wir wählen für Ihre Anfrage einen passenden Fachbetrieb aus, der sich bei Ihnen meldet."
+    }
+  ],
+  "fakten": [
+    {
+      "text": "Die Stadtwerke Karlsruhe geben die Härte des Trinkwassers mit rund 3,2 Millimol Calciumcarbonat pro Liter (etwa 18 °dH) an, Härtebereich „hart“; eine zentrale Enthärtung halten sie nach einer Studie für nicht zielführend.",
+      "quelle": "Stadtwerke Karlsruhe – Wasserqualität",
+      "url": "https://www.stadtwerke-karlsruhe.de/de/pk/wasser/wasserqualitaet.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Für Enthärtungsanlagen in der Hausinstallation empfehlen die Stadtwerke ein DVGW-Prüfzeichen sowie Installation und Wartung durch einen Fachbetrieb. Hohenwettersbach, Grünwettersbach, Palmbach und Stupferich werden größtenteils von einem Zweckverband versorgt.",
+      "quelle": "Stadtwerke Karlsruhe – Wasserqualität",
+      "url": "https://www.stadtwerke-karlsruhe.de/de/pk/wasser/wasserqualitaet.php",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Grundstücksentwässerungsanlagen liegen bis einschließlich Anschlussstutzen in der Unterhaltungslast der Eigentümer; neue Anlagen und Änderungen durch Umbauten bedürfen einer Genehmigung der Stadt.",
+      "quelle": "Stadt Karlsruhe, Tiefbauamt – Grundstücksentwässerung",
+      "url": "https://www.karlsruhe.de/umwelt-klima/gewaesser-stadtentwaesserung/grundstuecksentwaesserung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Zum Schutz vor Rückstau verweist die Stadt auf DIN 1986-100 und DIN EN 12056-4; Versicherungen können Leistungen einschränken, wenn die Entwässerung nicht den Regeln der Technik entspricht.",
+      "quelle": "Stadt Karlsruhe, Tiefbauamt – Grundstücksentwässerung",
+      "url": "https://www.karlsruhe.de/umwelt-klima/gewaesser-stadtentwaesserung/grundstuecksentwaesserung",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Der Pflegestützpunkt der Stadt Karlsruhe berät kostenfrei rund um Pflege; zur Wohnraumanpassung nennt die Stadt Wohnberatungsstellen als Anlaufstelle.",
+      "quelle": "Stadt Karlsruhe – Pflege und Hilfsbedürftigkeit",
+      "url": "https://www.karlsruhe.de/bildung-soziales/psychologische-soziale-beratung/pflege-und-hilfsbeduerftigkeit",
+      "abruf": "2026-10-02"
+    },
+    {
+      "text": "Die Karlsruher Energie- und Klimaschutzagentur (KEK) ist eine gemeinnützige Gesellschaft der Stadt und bietet kostenfreie, neutrale Energieberatung an.",
+      "quelle": "Karlsruher Energie- und Klimaschutzagentur",
+      "url": "https://www.kek-karlsruhe.de/",
+      "abruf": "2026-10-02"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Lohnt sich in Karlsruhe eine Enthärtungsanlage für das neue Bad?",
+      "a": "Nötig ist sie laut Stadtwerke nicht, das Wasser liegt aber mit rund 18 °dH im harten Bereich. Ob sich eine Anlage lohnt, hängt in der Regel von den eigenen Ansprüchen an Glas und Armaturen ab."
+    },
+    {
+      "q": "Gilt die Härteangabe auch in Grünwettersbach oder Stupferich?",
+      "a": "Nicht unbedingt. Die Höhenstadtteile werden größtenteils von einem Zweckverband versorgt; die Stadtwerke veröffentlichen dafür eigene Jahresmittelwerte."
+    },
+    {
+      "q": "Wer ist zuständig, wenn beim Badumbau Abwasserleitungen geändert werden?",
+      "a": "Zuständig ist das Tiefbauamt der Stadt, Bereich Grundstücksentwässerung. Auskunft gibt dessen Bauherrenberatung."
+    }
+  ],
+  "offen": [
+    "Ob jede kleine Änderung (z. B. Tausch eines WC an gleicher Stelle) unter die Genehmigungspflicht des Tiefbauamts fällt, ist nicht geprüft; der Text gibt nur die allgemeine Aussage der Stadt wieder.",
+    "Die vier Wasserwerke sind auf https://www.stadtwerke-karlsruhe.de/de/pk/wasser/wasserwerke.php belegt, aber nicht als eigener Fakt aufgeführt.",
+    "Stadtteilnennungen im Einstieg (Weststadt, Rüppurr, Durlach) sind Karlsruher Stadtteile, aber nicht durch eine Fakt-Quelle belegt."
+  ]
+}
