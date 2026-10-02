@@ -42,7 +42,7 @@ export const INHALT: LeistungsInhalt = {
   faqTitel: 'Heizung & Wärmepumpe',
   faqs: [
     { q: 'Ist mein Haus für eine Wärmepumpe geeignet?', a: 'Entscheidend sind die Heizlast des Hauses und die Vorlauftemperatur, die die Heizflächen brauchen. Auch viele Bestandsgebäude kommen infrage, teils nach einzelnen Maßnahmen wie größeren Heizkörpern. Eine Heizlastberechnung schafft Klarheit.' },
-    { q: 'Muss ich meine alte Öl- oder Gasheizung austauschen?', a: 'Für bestimmte alte Heizkessel sieht das Gebäudeenergiegesetz eine Austauschpflicht vor, mit Ausnahmen etwa für Eigentümer, die ihr Haus schon lange selbst bewohnen. Ob das für Ihre Anlage gilt, kann Ihnen Ihr Schornsteinfeger oder eine Energieberatung sagen.' },
+    { q: 'Muss ich meine alte Öl- oder Gasheizung austauschen?', a: 'Ob für eine alte Heizung eine Austauschpflicht besteht und welche Ausnahmen gelten, regelt das Gebäudemodernisierungsgesetz (früher Gebäudeenergiegesetz). Ob das für Ihre Anlage zutrifft, kann Ihnen Ihr Schornsteinfeger oder eine Energieberatung sagen.' },
     { q: 'Was ist die kommunale Wärmeplanung?', a: 'In Baden-Württemberg haben Stadtkreise und Große Kreisstädte kommunale Wärmepläne erstellt. Sie zeigen unter anderem, wo Wärmenetze geplant sind – eine wichtige Information, bevor Sie sich für eine Heizung entscheiden. Den Plan veröffentlicht in der Regel die Stadt.' },
     { q: 'Gibt es Förderung für den Heizungstausch?', a: 'Der Bund fördert den Umstieg auf erneuerbare Heizungen im Rahmen der Bundesförderung für effiziente Gebäude; Bedingungen und Fördersätze ändern sich. Aktuelle Informationen geben KfW, BAFA und die Energieberatung.' },
     { q: 'Wo darf die Außeneinheit einer Wärmepumpe stehen?', a: 'Zu beachten sind vor allem Schallschutz gegenüber den Nachbarn und gegebenenfalls Abstandsvorgaben. Was am Standort gilt, klärt der Fachbetrieb bei der Planung; im Zweifel gibt die Baurechtsbehörde Auskunft.' },
@@ -50,7 +50,7 @@ export const INHALT: LeistungsInhalt = {
   ],
   seo: [
     { h2: 'Wärmepumpe einbauen lassen', text: 'Eine Wärmepumpe arbeitet besonders effizient, wenn die Heizflächen mit niedriger Vorlauftemperatur auskommen. Der vermittelte Fachbetrieb prüft Heizlast, Heizflächen und Aufstellort und schlägt eine passende Lösung vor – Luft-Wasser oder Erdwärme.' },
-    { h2: 'Heizungstausch in Baden-Württemberg', text: 'Ob Gas, Öl oder Nachtspeicher: Beim Heizungstausch sind Gebäudeenergiegesetz, Erneuerbare-Wärme-Gesetz Baden-Württemberg und die kommunale Wärmeplanung zu berücksichtigen. Wir vermitteln Betriebe, die Sie dazu beraten.' },
+    { h2: 'Heizungstausch in Baden-Württemberg', text: 'Ob Gas, Öl oder Nachtspeicher: Beim Heizungstausch spielen das Gebäudemodernisierungsgesetz (früher Gebäudeenergiegesetz), das Erneuerbare-Wärme-Gesetz Baden-Württemberg und die kommunale Wärmeplanung eine Rolle. Wir wählen für Ihre Anfrage einen Fachbetrieb aus, der Sie dazu berät.' },
     { h2: 'Heizungsinstallateur gesucht', text: 'Bodensee BauPartner sucht für Sie einen Heizungsfachbetrieb, der zu Ihrem Vorhaben und Ihrem Ort passt. Sie schildern einmal, was Sie brauchen – kostenlos und unverbindlich.' },
     { h2: 'Fußbodenheizung und Heizkörper', text: 'Die Wärmeverteilung entscheidet mit darüber, wie effizient eine neue Heizung arbeitet. Größere Heizkörper oder eine nachträgliche Fußbodenheizung können den Umstieg auf eine Wärmepumpe erleichtern.' },
   ],
