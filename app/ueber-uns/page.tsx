@@ -44,6 +44,7 @@ function Nav() {
 
   const otherLinks = [
     { href: '/ueber-uns', label: 'Über uns' },
+    { href: '/fuer-fachbetriebe', label: 'Für Fachbetriebe' },
     { href: '/#kontakt', label: 'Kontakt' },
   ]
 
@@ -552,6 +553,7 @@ function Footer() {
             <h5>Unternehmen</h5>
             <a href="/ueber-uns">Über uns</a>
             <a href="/#kontakt">Kontakt</a>
+            <a href="/fuer-fachbetriebe">Für Fachbetriebe</a>
           </div>
         </div>
         <div className="footer-hinweis">

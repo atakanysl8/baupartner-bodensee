@@ -47,6 +47,7 @@ function Nav() {
 
   const otherLinks = [
     { href: '/ueber-uns', label: 'Über uns' },
+    { href: '/fuer-fachbetriebe', label: 'Für Fachbetriebe' },
     { href: '#kontakt', label: 'Kontakt' },
   ]
 
@@ -608,22 +609,31 @@ function CTABand() {
 }
 
 /* ── Kontakt / Formular ──────────────────────────────────────────────────── */
-const projektTypen = ['Hochbau / Rohbau', 'Tiefbau', 'Bad & Sanitär', 'Innenausbau', 'Renovierung & Sanierung', 'Dach & Fassade', 'Gewerbe', 'Sonstiges']
-const zeitrahmen = ['Schnellstmöglich', 'Innerhalb 3 Monate', '6–12 Monate', 'Noch offen']
+// Pflicht ist nur, was eine Anfrage für einen Fachbetrieb verwertbar macht:
+// was, an welchem Objekt, wo, wann, wer entscheidet und wie man den Kunden erreicht.
+const projektTypen = ['Hochbau / Rohbau', 'Tiefbau', 'Bad & Sanitär', 'Innenausbau', 'Renovierung & Sanierung', 'Dach & Fassade', 'Sonstiges']
+const objektarten = ['Einfamilien- / Doppelhaus', 'Wohnung', 'Mehrfamilienhaus', 'Gewerbeobjekt', 'Grundstück / Neubau']
+const zeitrahmen = ['Schnellstmöglich', 'In 1–3 Monaten', 'In 3–6 Monaten', 'Später / noch offen']
+const rollen = ['Eigentümer/in', 'Mieter/in', 'Hausverwaltung', 'Kauf geplant']
+const budgets = ['Unter 10.000 €', '10.000 – 30.000 €', '30.000 – 100.000 €', '100.000 – 300.000 €', 'Über 300.000 €', 'Noch unklar']
 
 function Kontakt() {
   const [step, setStep] = useState(1)
   const [done, setDone] = useState(false)
   const [selected, setSelected] = useState<string[]>([])
+  const [objekt, setObjekt] = useState('')
   const [zeit, setZeit] = useState('')
-  const [beschr, setBeschr] = useState('')
+  const [plz, setPlz] = useState('')
   const [ort, setOrt] = useState('')
+  const [rolle, setRolle] = useState('')
   const [budget, setBudget] = useState('')
-  const [vorname, setVorname] = useState('')
-  const [nachname, setNachname] = useState('')
-  const [email, setEmail] = useState('')
+  const [beschr, setBeschr] = useState('')
+  const [name, setName] = useState('')
   const [telefon, setTelefon] = useState('')
-  const [dsg, setDsg] = useState(false)
+  const [email, setEmail] = useState('')
+  const [einwWeitergabe, setEinwWeitergabe] = useState(false)
+  const [einwTelefon, setEinwTelefon] = useState(false)
+  const [website, setWebsite] = useState('')
   const [errors, setErrors] = useState<Record<string, string>>({})
   const [sending, setSending] = useState(false)
   const [sendError, setSendError] = useState(false)
@@ -633,13 +643,24 @@ function Kontakt() {
 
   const validate = () => {
     const errs: Record<string, string> = {}
-    if (step === 1 && selected.length === 0) errs.typ = 'Bitte mindestens eine Kategorie wählen.'
-    if (step === 2 && beschr.trim().length < 5) errs.beschr = 'Bitte beschreiben Sie Ihr Vorhaben kurz.'
+    if (step === 1) {
+      if (selected.length === 0) errs.typ = 'Bitte mindestens eine Kategorie wählen.'
+      if (!objekt) errs.objekt = 'Bitte die Objektart wählen.'
+      if (!zeit) errs.zeit = 'Bitte den Zeitrahmen wählen.'
+    }
+    if (step === 2) {
+      if (!/^\d{5}$/.test(plz.trim())) errs.plz = 'Bitte fünfstellige PLZ angeben.'
+      if (ort.trim().length < 2) errs.ort = 'Bitte den Ort angeben.'
+      if (!rolle) errs.rolle = 'Bitte auswählen.'
+    }
     if (step === 3) {
-      if (!vorname.trim()) errs.vorname = 'Pflichtfeld'
-      if (!nachname.trim()) errs.nachname = 'Pflichtfeld'
-      if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email.trim())) errs.email = 'Bitte gültige E-Mail eingeben.'
-      if (!dsg) errs.dsg = 'Bitte Datenschutz bestätigen.'
+      if (name.trim().length < 2) errs.name = 'Bitte Ihren Namen angeben.'
+      const tel = telefon.trim()
+      const mail = email.trim()
+      if (!tel && !mail) errs.kontakt = 'Bitte Telefon oder E-Mail angeben – eines genügt.'
+      if (tel && !/^[+()/\d][\d\s()/.-]{5,}$/.test(tel)) errs.telefon = 'Diese Telefonnummer sieht nicht vollständig aus.'
+      if (mail && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(mail)) errs.email = 'Diese E-Mail-Adresse sieht nicht vollständig aus.'
+      if (!einwWeitergabe) errs.einwWeitergabe = 'Ohne diese Einwilligung können wir Ihre Anfrage nicht weitergeben.'
     }
     setErrors(errs)
     return Object.keys(errs).length === 0
@@ -651,10 +672,15 @@ function Kontakt() {
     setSending(true)
     setSendError(false)
     try {
-      const res = await fetch('/contact.php', {
+      // Lokal führt der Dev-Server kein PHP aus – dort nimmt app/api/contact an.
+      const endpoint = process.env.NODE_ENV === 'development' ? '/api/contact/' : '/contact.php'
+      const res = await fetch(endpoint, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ typ: selected, zeit, beschr, ort, budget, vorname, nachname, email, telefon }),
+        body: JSON.stringify({
+          typ: selected, objekt, zeit, plz, ort, rolle, budget, beschr,
+          name, telefon, email, einwWeitergabe, einwTelefon, website,
+        }),
       })
       if (!res.ok) throw new Error()
       setDone(true)
@@ -682,7 +708,7 @@ function Kontakt() {
               <span className="bullet" /> Kontakt
             </div>
             <h2>Erzählen Sie uns von Ihrem <em>Projekt</em>.</h2>
-            <p className="lead">Schildern Sie uns Ihr Vorhaben — wir melden uns innerhalb eines Werktags. Unverbindlich und kostenlos.</p>
+            <p className="lead">Schildern Sie uns Ihr Vorhaben — wir wählen einen passenden Fachbetrieb aus der Region aus, der sich bei Ihnen meldet. Unverbindlich und kostenlos.</p>
 
             <div className="contact-info">
               {[
@@ -732,7 +758,7 @@ function Kontakt() {
                     <svg width="26" height="26" viewBox="0 0 26 26" fill="none"><path d="M5 13l5 5 11-12" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"/></svg>
                   </motion.div>
                   <h3>Vielen Dank!</h3>
-                  <p>Ihre Anfrage ist eingegangen. Wir melden uns innerhalb eines Werktags per Telefon oder E-Mail.</p>
+                  <p>Ihre Anfrage ist eingegangen. Wir wählen einen passenden Fachbetrieb aus der Region aus — er meldet sich auf dem von Ihnen angegebenen Weg bei Ihnen.</p>
                 </motion.div>
               ) : (
                 <motion.div key="form" initial={{ opacity: 1 }} exit={{ opacity: 0 }}>
@@ -761,7 +787,7 @@ function Kontakt() {
                       {step === 1 && (
                         <>
                           <div className="form-group">
-                            <label className="form-label">Art des Projekts<span className="req">*</span></label>
+                            <label className="form-label">Was soll gemacht werden?<span className="req">*</span></label>
                             <div className="chip-group">
                               {projektTypen.map(v => (
                                 <button
@@ -777,7 +803,23 @@ function Kontakt() {
                             {errors.typ && <div className="form-error-msg">{errors.typ}</div>}
                           </div>
                           <div className="form-group">
-                            <label className="form-label">Geplanter Zeitrahmen</label>
+                            <label className="form-label">Um welches Objekt geht es?<span className="req">*</span></label>
+                            <div className="chip-group">
+                              {objektarten.map(v => (
+                                <button
+                                  key={v}
+                                  type="button"
+                                  className={`chip${objekt === v ? ' selected' : ''}`}
+                                  onClick={() => setObjekt(v)}
+                                >
+                                  {v}
+                                </button>
+                              ))}
+                            </div>
+                            {errors.objekt && <div className="form-error-msg">{errors.objekt}</div>}
+                          </div>
+                          <div className="form-group">
+                            <label className="form-label">Wann soll es losgehen?<span className="req">*</span></label>
                             <div className="chip-group">
                               {zeitrahmen.map(v => (
                                 <button
@@ -790,76 +832,105 @@ function Kontakt() {
                                 </button>
                               ))}
                             </div>
+                            {errors.zeit && <div className="form-error-msg">{errors.zeit}</div>}
                           </div>
                         </>
                       )}
 
                       {step === 2 && (
                         <>
+                          <div className="form-row form-row--plz">
+                            <div className="form-group">
+                              <label className="form-label" htmlFor="plz">PLZ<span className="req">*</span></label>
+                              <input type="text" inputMode="numeric" autoComplete="postal-code" maxLength={5} className={`form-input${errors.plz ? ' error' : ''}`} id="plz" placeholder="88662" value={plz} onChange={e => setPlz(e.target.value)} />
+                              {errors.plz && <div className="form-error-msg">{errors.plz}</div>}
+                            </div>
+                            <div className="form-group">
+                              <label className="form-label" htmlFor="ort">Ort des Objekts<span className="req">*</span></label>
+                              <input type="text" autoComplete="address-level2" className={`form-input${errors.ort ? ' error' : ''}`} id="ort" placeholder="z. B. Überlingen" value={ort} onChange={e => setOrt(e.target.value)} />
+                              {errors.ort && <div className="form-error-msg">{errors.ort}</div>}
+                            </div>
+                          </div>
                           <div className="form-group">
-                            <label className="form-label" htmlFor="beschr">Beschreiben Sie Ihr Projekt<span className="req">*</span></label>
+                            <label className="form-label">Sie sind …<span className="req">*</span></label>
+                            <div className="chip-group">
+                              {rollen.map(v => (
+                                <button
+                                  key={v}
+                                  type="button"
+                                  className={`chip${rolle === v ? ' selected' : ''}`}
+                                  onClick={() => setRolle(v)}
+                                >
+                                  {v}
+                                </button>
+                              ))}
+                            </div>
+                            {errors.rolle && <div className="form-error-msg">{errors.rolle}</div>}
+                          </div>
+                          <div className="form-group">
+                            <label className="form-label" htmlFor="budget">Geplantes Budget (optional)</label>
+                            <select className="form-select" id="budget" value={budget} onChange={e => setBudget(e.target.value)}>
+                              <option value="">Bitte wählen</option>
+                              {budgets.map(v => <option key={v}>{v}</option>)}
+                            </select>
+                          </div>
+                          <div className="form-group">
+                            <label className="form-label" htmlFor="beschr">Kurze Beschreibung (optional)</label>
                             <textarea
-                              className={`form-textarea${errors.beschr ? ' error' : ''}`}
+                              className="form-textarea"
                               id="beschr"
-                              placeholder="Größe, Besonderheiten, Anforderungen …"
+                              placeholder="z. B. Bad im Obergeschoss komplett erneuern, ca. 8 m², bodengleiche Dusche"
                               value={beschr}
                               onChange={e => setBeschr(e.target.value)}
                             />
-                            {errors.beschr && <div className="form-error-msg">{errors.beschr}</div>}
-                          </div>
-                          <div className="form-row">
-                            <div className="form-group">
-                              <label className="form-label" htmlFor="ort">Ort / PLZ</label>
-                              <input type="text" className="form-input" id="ort" placeholder="z. B. Friedrichshafen" value={ort} onChange={e => setOrt(e.target.value)} />
-                            </div>
-                            <div className="form-group">
-                              <label className="form-label" htmlFor="budget">Budget (optional)</label>
-                              <select className="form-select" id="budget" value={budget} onChange={e => setBudget(e.target.value)}>
-                                <option value="">Bitte wählen</option>
-                                <option>Unter 50.000 €</option>
-                                <option>50.000 – 200.000 €</option>
-                                <option>200.000 – 500.000 €</option>
-                                <option>500.000 – 1 Mio. €</option>
-                                <option>Über 1 Mio. €</option>
-                                <option>Noch unklar</option>
-                              </select>
-                            </div>
                           </div>
                         </>
                       )}
 
                       {step === 3 && (
                         <>
-                          <div className="form-row">
-                            <div className="form-group">
-                              <label className="form-label" htmlFor="vn">Vorname<span className="req">*</span></label>
-                              <input type="text" className={`form-input${errors.vorname ? ' error' : ''}`} id="vn" value={vorname} onChange={e => setVorname(e.target.value)} />
-                              {errors.vorname && <div className="form-error-msg">{errors.vorname}</div>}
-                            </div>
-                            <div className="form-group">
-                              <label className="form-label" htmlFor="nn">Nachname<span className="req">*</span></label>
-                              <input type="text" className={`form-input${errors.nachname ? ' error' : ''}`} id="nn" value={nachname} onChange={e => setNachname(e.target.value)} />
-                              {errors.nachname && <div className="form-error-msg">{errors.nachname}</div>}
-                            </div>
+                          <div className="form-group">
+                            <label className="form-label" htmlFor="name">Name<span className="req">*</span></label>
+                            <input type="text" autoComplete="name" className={`form-input${errors.name ? ' error' : ''}`} id="name" value={name} onChange={e => setName(e.target.value)} />
+                            {errors.name && <div className="form-error-msg">{errors.name}</div>}
                           </div>
+                          <div className="form-label" style={{ marginBottom: 8 }}>Wie soll der Fachbetrieb Sie erreichen?<span className="req">*</span> <span style={{ fontWeight: 400, color: 'var(--ink-3)' }}>Eines von beidem genügt.</span></div>
                           <div className="form-row">
-                            <div className="form-group">
-                              <label className="form-label" htmlFor="mail">E-Mail<span className="req">*</span></label>
-                              <input type="email" className={`form-input${errors.email ? ' error' : ''}`} id="mail" value={email} onChange={e => setEmail(e.target.value)} />
-                              {errors.email && <div className="form-error-msg">{errors.email}</div>}
-                            </div>
                             <div className="form-group">
                               <label className="form-label" htmlFor="tel">Telefon</label>
-                              <input type="tel" className="form-input" id="tel" placeholder="+49 …" value={telefon} onChange={e => setTelefon(e.target.value)} />
+                              <input type="tel" autoComplete="tel" className={`form-input${errors.telefon || errors.kontakt ? ' error' : ''}`} id="tel" placeholder="+49 …" value={telefon} onChange={e => setTelefon(e.target.value)} />
+                              {errors.telefon && <div className="form-error-msg">{errors.telefon}</div>}
+                            </div>
+                            <div className="form-group">
+                              <label className="form-label" htmlFor="mail">E-Mail</label>
+                              <input type="email" autoComplete="email" className={`form-input${errors.email || errors.kontakt ? ' error' : ''}`} id="mail" value={email} onChange={e => setEmail(e.target.value)} />
+                              {errors.email && <div className="form-error-msg">{errors.email}</div>}
                             </div>
                           </div>
-                          <div className="form-group" style={{ marginTop: 8 }}>
-                            <label style={{ display: 'flex', gap: 10, alignItems: 'flex-start', fontSize: 13, color: 'var(--ink-2)', cursor: 'pointer' }}>
-                              <input type="checkbox" checked={dsg} onChange={e => setDsg(e.target.checked)} style={{ marginTop: 3 }} />
-                              <span style={errors.dsg ? { color: 'var(--accent)' } : {}}>
-                                Ich stimme der <a href="/datenschutz" style={{ textDecoration: 'underline' }}>Datenschutzerklärung</a> zu.
+                          {errors.kontakt && <div className="form-error-msg" style={{ marginTop: -12, marginBottom: 16 }}>{errors.kontakt}</div>}
+
+                          <div className="form-hp" aria-hidden="true">
+                            <label htmlFor="website">Bitte dieses Feld frei lassen</label>
+                            <input id="website" type="text" tabIndex={-1} autoComplete="off" value={website} onChange={e => setWebsite(e.target.value)} />
+                          </div>
+
+                          <div className="form-consents">
+                            <label className="form-consent">
+                              <input type="checkbox" checked={einwWeitergabe} onChange={e => setEinwWeitergabe(e.target.checked)} />
+                              <span style={errors.einwWeitergabe ? { color: 'var(--accent)' } : {}}>
+                                Ich bin einverstanden, dass meine Angaben zur Bearbeitung meiner Anfrage an einen passenden Fachbetrieb aus der Region weitergegeben werden. Diese Einwilligung kann ich jederzeit widerrufen.<span className="req">*</span>
                               </span>
                             </label>
+                            {errors.einwWeitergabe && <div className="form-error-msg">{errors.einwWeitergabe}</div>}
+                            <label className="form-consent">
+                              <input type="checkbox" checked={einwTelefon} onChange={e => setEinwTelefon(e.target.checked)} />
+                              <span>
+                                Ich bin einverstanden, telefonisch zu meiner Anfrage kontaktiert zu werden. Auch diese Einwilligung kann ich jederzeit widerrufen. <span style={{ color: 'var(--ink-3)' }}>(freiwillig)</span>
+                              </span>
+                            </label>
+                            <p className="form-note">
+                              Ihre Angaben gehen an genau einen Fachbetrieb, den wir für Ihre Anfrage auswählen – an niemanden sonst. Mehr in der <a href="/datenschutz" style={{ textDecoration: 'underline' }}>Datenschutzerklärung</a>.
+                            </p>
                           </div>
                         </>
                       )}
@@ -889,7 +960,7 @@ function Kontakt() {
                       whileHover={sending ? {} : { y: -1 }}
                       whileTap={sending ? {} : { scale: 0.97 }}
                     >
-                      {sending ? 'Wird gesendet…' : step === 3 ? 'Anfrage senden' : 'Weiter'}
+                      {sending ? 'Wird gesendet…' : step === 3 ? 'Anfrage kostenlos absenden' : 'Weiter'}
                       {!sending && (
                         <span className="btn-dot">
                           <svg width="10" height="10" viewBox="0 0 10 10"><path d="M1 5h8m0 0L6 2m3 3L6 8" stroke="currentColor" fill="none" strokeWidth="1.5" strokeLinecap="round"/></svg>
@@ -911,7 +982,7 @@ function Kontakt() {
 const faqs = [
   {
     q: 'Kostet mich die Vermittlung etwas?',
-    a: 'Nein – unsere Vermittlung ist für Sie vollständig kostenlos und unverbindlich. Wir finanzieren uns über eine Provision des vermittelten Fachbetriebs, nicht durch Sie als Auftraggeber.',
+    a: 'Nein – unsere Vermittlung ist für Sie vollständig kostenlos und unverbindlich. Die Kosten tragen die Fachbetriebe, nicht Sie als Auftraggeber.',
   },
   {
     q: 'Wie läuft die Vermittlung konkret ab?',
@@ -1057,6 +1128,7 @@ function Footer() {
             <h5>Unternehmen</h5>
             <a href="/ueber-uns">Über uns</a>
             <a href="#kontakt">Kontakt</a>
+            <a href="/fuer-fachbetriebe">Für Fachbetriebe</a>
           </div>
         </div>
         <div className="footer-hinweis">

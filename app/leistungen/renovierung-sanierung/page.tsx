@@ -44,6 +44,7 @@ function Nav() {
 
   const otherLinks = [
     { href: '/ueber-uns', label: 'Über uns' },
+    { href: '/fuer-fachbetriebe', label: 'Für Fachbetriebe' },
     { href: '/#kontakt', label: 'Kontakt' },
   ]
 
@@ -532,7 +533,7 @@ const faqs = [
   },
   {
     q: 'Was kostet die Vermittlung eines Sanierungs-Fachbetriebs?',
-    a: 'Unsere Vermittlung ist für Sie vollständig kostenlos und unverbindlich. Wir finanzieren uns über eine Provision der vermittelten Fachbetriebe — Sie zahlen keinen Aufschlag auf das Handwerkerangebot und gehen keinerlei Verpflichtung ein.',
+    a: 'Unsere Vermittlung ist für Sie vollständig kostenlos und unverbindlich. Die Kosten tragen die Fachbetriebe — Sie zahlen keinen Aufschlag auf das Handwerkerangebot und gehen keinerlei Verpflichtung ein.',
   },
 ]
 
@@ -662,6 +663,7 @@ function Footer() {
             <h5>Unternehmen</h5>
             <a href="/ueber-uns">Über uns</a>
             <a href="/#kontakt">Kontakt</a>
+            <a href="/fuer-fachbetriebe">Für Fachbetriebe</a>
           </div>
         </div>
         <div className="footer-hinweis">

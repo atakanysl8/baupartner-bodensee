@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# lokal gespeicherte Testanfragen (app/api/contact im Dev-Modus)
+/anfragen-lokal/

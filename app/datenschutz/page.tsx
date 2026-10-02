@@ -35,6 +35,7 @@ function Nav() {
 
   const otherLinks = [
     { href: '/ueber-uns', label: 'Über uns' },
+    { href: '/fuer-fachbetriebe', label: 'Für Fachbetriebe' },
     { href: '/#kontakt', label: 'Kontakt' },
   ]
 
@@ -147,7 +148,7 @@ function DatenschutzContent() {
         >
           <motion.h1 variants={fadeUp} style={{ fontSize: 38, fontWeight: 700, color: '#0f2f4d', marginBottom: 8 }}>Datenschutzerklärung</motion.h1>
           <motion.p variants={fadeUp} style={{ color: '#6b7a8d', marginBottom: 48, fontSize: 15 }}>
-            Stand: April 2026
+            Stand: Oktober 2026
           </motion.p>
 
           {/* 1 */}
@@ -206,18 +207,37 @@ function DatenschutzContent() {
 
           {/* 5 */}
           <motion.div variants={fadeUp} className="legal-block">
-            <h2>5. Kontaktformular</h2>
+            <h2>5. Anfrageformular</h2>
             <p>
-              Wenn Sie uns über das Kontaktformular auf unserer Website kontaktieren, werden die von Ihnen
-              eingegebenen Daten — Vorname, Nachname, Postleitzahl, E-Mail-Adresse und Telefonnummer — sowie
-              der Zeitpunkt der Übermittlung bei uns gespeichert. Diese Daten werden ausschließlich zur
-              Bearbeitung Ihrer Anfrage und für eventuelle Anschlussfragen verwendet.
+              Wenn Sie uns über das Anfrageformular auf unserer Website eine Anfrage senden, werden die von
+              Ihnen eingegebenen Daten — Angaben zu Ihrem Vorhaben (Leistung, Objektart, Zeitrahmen, Budget,
+              Beschreibung), Postleitzahl und Ort des Objekts, Ihre Rolle (z. B. Eigentümer oder Mieter),
+              Name, Telefonnummer und/oder E-Mail-Adresse — sowie der Zeitpunkt der Übermittlung, Ihre
+              IP-Adresse und Ihre Einwilligungen bei uns gespeichert.
             </p>
             <p>
-              Rechtsgrundlage der Verarbeitung ist Art. 6 Abs. 1 lit. b DSGVO (Vertragsanbahnung) sowie
-              Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Beantwortung von Anfragen).
-              Die Daten werden gelöscht, sobald Ihre Anfrage abschließend bearbeitet wurde und keine
-              Aufbewahrungspflichten entgegenstehen.
+              <strong>Weitergabe an einen Fachbetrieb:</strong> Mit Ihrer Einwilligung geben wir Ihre
+              Angaben an genau einen Fachbetrieb aus der Region weiter, den wir für Ihre Anfrage auswählen.
+              Der Fachbetrieb nimmt mit Ihnen Kontakt auf, um Ihr Vorhaben zu besprechen und Ihnen ggf. ein
+              Angebot zu machen. Er verarbeitet Ihre Daten anschließend in eigener Verantwortung. Eine
+              Weitergabe an weitere Dritte findet nicht statt. Rechtsgrundlage ist Ihre Einwilligung
+              (Art. 6 Abs. 1 lit. a DSGVO).
+            </p>
+            <p>
+              <strong>Telefonische Kontaktaufnahme:</strong> Wir und der ausgewählte Fachbetrieb rufen Sie
+              zu Ihrer Anfrage nur an, wenn Sie dem gesondert zugestimmt haben (Art. 6 Abs. 1 lit. a DSGVO).
+              Andernfalls erfolgt die Kontaktaufnahme schriftlich.
+            </p>
+            <p>
+              <strong>Widerruf:</strong> Sie können jede Einwilligung jederzeit mit Wirkung für die Zukunft
+              widerrufen, z. B. per E-Mail an info@bodensee-baupartner.de. Die Rechtmäßigkeit der bis zum
+              Widerruf erfolgten Verarbeitung bleibt unberührt.
+            </p>
+            <p>
+              Im Übrigen verarbeiten wir Ihre Angaben zur Bearbeitung Ihrer Anfrage und für eventuelle
+              Rückfragen (Art. 6 Abs. 1 lit. b DSGVO, Vertragsanbahnung) sowie zum Nachweis Ihrer
+              Einwilligungen (Art. 6 Abs. 1 lit. c und f DSGVO). Die Daten werden gelöscht, sobald Ihre
+              Anfrage abschließend bearbeitet wurde und keine Aufbewahrungspflichten entgegenstehen.
             </p>
           </motion.div>
 
@@ -312,7 +332,7 @@ function DatenschutzContent() {
           <motion.div variants={fadeUp} className="legal-block">
             <h2>11. Aktualität dieser Datenschutzerklärung</h2>
             <p>
-              Diese Datenschutzerklärung hat den Stand April 2026. Durch die Weiterentwicklung unserer Website
+              Diese Datenschutzerklärung hat den Stand Oktober 2026. Durch die Weiterentwicklung unserer Website
               oder aufgrund geänderter gesetzlicher bzw. behördlicher Vorgaben kann es notwendig werden, diese
               Datenschutzerklärung zu ändern. Die jeweils aktuelle Fassung ist stets unter
               bodensee-baupartner.de/datenschutz abrufbar.
@@ -354,6 +374,7 @@ function Footer() {
             <h5>Unternehmen</h5>
             <a href="/ueber-uns">Über uns</a>
             <a href="/#kontakt">Kontakt</a>
+            <a href="/fuer-fachbetriebe">Für Fachbetriebe</a>
           </div>
         </div>
         <div className="footer-hinweis">

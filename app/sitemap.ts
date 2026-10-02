@@ -14,6 +14,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/leistungen/bad-sanitaer`, lastModified: now, changeFrequency: 'monthly', priority: 0.9 },
     { url: `${base}/leistungen/innenausbau`, lastModified: now, changeFrequency: 'monthly', priority: 0.9 },
     { url: `${base}/leistungen/renovierung-sanierung`, lastModified: now, changeFrequency: 'monthly', priority: 0.9 },
+    { url: `${base}/fuer-fachbetriebe`, lastModified: now, changeFrequency: 'yearly', priority: 0.5 },
     { url: `${base}/impressum`, lastModified: now, changeFrequency: 'yearly', priority: 0.3 },
     { url: `${base}/datenschutz`, lastModified: now, changeFrequency: 'yearly', priority: 0.3 },
   ]

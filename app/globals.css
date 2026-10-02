@@ -692,6 +692,29 @@ section { padding: 100px 0; }
 .form-progress span.current { background: var(--accent); }
 .form-group { margin-bottom: 20px; }
 .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.form-row.form-row--plz { grid-template-columns: 7.5rem 1fr; }
+.form-consents {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 8px;
+  padding: 16px;
+  background: var(--paper-2);
+  border-radius: 12px;
+}
+.form-consent {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--ink-2);
+  cursor: pointer;
+}
+.form-consent input { width: 18px; height: 18px; margin-top: 1px; flex-shrink: 0; accent-color: var(--primary); }
+.form-consent .req { color: var(--accent); margin-left: 3px; }
+.form-note { font-size: 12px; line-height: 1.5; color: var(--ink-3); }
+.form-hp { position: absolute; left: -10000px; width: 1px; height: 1px; overflow: hidden; }
 .form-label {
   display: block;
   font-size: 13px;
@@ -1793,4 +1816,27 @@ footer {
 .cookie-revoke:hover .cookie-revoke-tooltip {
   opacity: 1;
   transform: translateY(0);
+}
+
+/* ─── Für Fachbetriebe ──────────────────────────────────────────────────── */
+.fb-section { padding: 150px 0 100px; background: var(--paper); min-height: 70vh; }
+.fb-inner { max-width: 860px; }
+.fb-h1 { font-size: clamp(34px, 4.4vw, 56px); margin: 20px 0 24px; }
+.fb-h1 em { font-style: italic; color: var(--primary); }
+.fb-lead { font-size: 18px; color: var(--ink-2); line-height: 1.65; max-width: 64ch; }
+.fb-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin: 48px 0; }
+.fb-card {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 24px;
+}
+.fb-card h2 { font-size: 17px; margin-bottom: 8px; }
+.fb-card p { font-size: 15px; color: var(--ink-2); line-height: 1.6; }
+.fb-cta { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px; }
+.fb-cta-note { font-size: 14px; color: var(--ink-3); }
+.fb-cta-note a { color: var(--primary); text-decoration: underline; }
+@media (max-width: 768px) {
+  .fb-section { padding: 120px 0 70px; }
+  .fb-grid { grid-template-columns: 1fr; margin: 36px 0; }
 }
