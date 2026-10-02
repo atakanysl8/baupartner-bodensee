@@ -1,9 +1,9 @@
 'use client'
 
 import { motion } from 'motion/react'
-import Image from 'next/image'
 import Footer from '../components/Footer'
 import Nav from '../components/Nav'
+import HeroBild from '../components/HeroBild'
 
 const fadeUp = {
   hidden: { opacity: 0, y: 28 },
@@ -22,7 +22,7 @@ function Hero() {
   return (
     <section className="au-hero">
       <div className="au-hero-bg-image">
-        <Image src="/hero.webp" alt="" fill style={{ objectFit: 'cover', objectPosition: 'center right' }} priority />
+        <HeroBild alt="" />
         <div className="au-hero-bg-overlay" />
       </div>
       <div className="wrap">

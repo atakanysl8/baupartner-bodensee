@@ -31,3 +31,16 @@ test('Leistungsseiten-Texte ohne verbotene Aussagen und ohne Präsenz-„vor Ort
       assert.ok(!r.test(text), `${d}: ${r}`)
   }
 })
+
+test('Hero-Bild überall über HeroBild (srcset), nie als einzelnes 2560-px-Bild', () => {
+  const app = path.join(import.meta.dirname, '..', 'app')
+  const treffer = []
+  ;(function w(d) {
+    for (const x of fs.readdirSync(d)) {
+      const p = path.join(d, x)
+      if (fs.statSync(p).isDirectory()) w(p)
+      else if (/\.tsx$/.test(x) && x !== 'HeroBild.tsx' && /src=["{]?["'`]\/hero\.webp/.test(fs.readFileSync(p, 'utf8'))) treffer.push(path.relative(app, p))
+    }
+  })(app)
+  assert.deepEqual(treffer, [])
+})

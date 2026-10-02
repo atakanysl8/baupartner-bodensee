@@ -86,7 +86,7 @@
     },
     {
       "h2": "Photovoltaik-Pflicht bei der Dachsanierung in Baden-Württemberg",
-      "text": "In Baden-Württemberg gibt es seit 2023 eine Photovoltaik-Pflicht für grundlegende Dachsanierungen. Laut dem Landesprogramm Zukunft Altbau gilt eine Sanierung als grundlegend, wenn die Abdichtung oder die Eindeckung eines Daches vollständig erneuert wird; bei Reparaturen, etwa nach einem Sturmschaden, gilt die Pflicht nach diesen Angaben nicht. Berücksichtigt werden nur solargeeignete Dachflächen, beim Standardnachweis entsprechen 60 Prozent dieser Fläche der Mindestfläche der Anlage. Die Module können auch an der Fassade oder auf Nebengebäuden sitzen, und Solarthermie wird als Ersatzmaßnahme anerkannt. Nach Angaben von Zukunft Altbau sieht die Regelung vor, dass die Anlage spätestens zwölf Monate nach Fertigstellung des Daches installiert ist. Wer ohnehin das Dach erneuert, kann Gerüst und Arbeiten bündeln; was die Dacherneuerung selbst kostet, erklärt der Ratgeber [[/ratgeber/dachsanierung-kosten/]]. Verbindliche Auskunft zu Einzelfällen gibt die untere Baurechtsbehörde."
+      "text": "In Baden-Württemberg gibt es seit 2023 eine Photovoltaik-Pflicht für grundlegende Dachsanierungen. Laut dem Landesprogramm Zukunft Altbau gilt eine Sanierung als grundlegend, wenn die Abdichtung oder die Eindeckung eines Daches vollständig erneuert wird; bei Reparaturen, etwa nach einem Sturmschaden, gilt die Pflicht nach diesen Angaben nicht. Die Module können auch an der Fassade oder auf Nebengebäuden sitzen, und Solarthermie wird als Ersatzmaßnahme anerkannt. Wer ohnehin das Dach erneuert, kann Gerüst und Arbeiten bündeln; was die Dacherneuerung selbst kostet, erklärt der Ratgeber [[/ratgeber/dachsanierung-kosten/]]. Verbindliche Auskunft zu Einzelfällen gibt die untere Baurechtsbehörde."
     },
     {
       "h2": "Laufende Kosten und Angebotsvergleich",
@@ -162,6 +162,7 @@
     "QA 02.10.: „10-kWh-Speicher also 4.000–7.000 €“ war als Rechnung formuliert (400–800 × 10 ergäbe 4.000–8.000) → als direkte Finanztip-Angabe.",
     "QA 02.10.: „Dachfenster, Gauben, Verschattung verkleinern Fläche“ nicht in Quelle 1 → ersetzt durch SH-Angabe Statik/Montageaufwand.",
     "QA 02.10.: co2online-Preise beruhen laut Quelle auf eigener Berechnung, Anbieterpreisen und Angeboten aus dem Photovoltaikforum (Stand März 2026) – Forum als Teilbasis; co2online als neutraler Herausgeber belassen.",
-    "QA 02.10.: Übrige Zahlen (BKI Q1/2026, Branchenangaben, Komponenten, 21.850 €, Finanztip 1.000–2.000 €/kWp, 14.000–20.000 €, 400–800 €/kWh, 300–450 €, co2online 1.100–1.500, 100–500 €, 50–60 %, 25/55 m², 100–300 € alle vier Jahre) bestätigt."
+    "QA 02.10.: Übrige Zahlen (BKI Q1/2026, Branchenangaben, Komponenten, 21.850 €, Finanztip 1.000–2.000 €/kWp, 14.000–20.000 €, 400–800 €/kWh, 300–450 €, co2online 1.100–1.500, 100–500 €, 50–60 %, 25/55 m², 100–300 € alle vier Jahre) bestätigt.",
+    "Abschluss-Review 02.10.: Pflichtdetails (60 %, Frist zwölf Monate) entfernt — einheitliche Regel: Pflicht und Kern nennen, Einzelheiten bei der unteren Baurechtsbehörde."
   ]
 }

@@ -7,7 +7,7 @@ const lang = (n) => satz.repeat(n)
 const gut = () => ({
   slug: 'badsanierung-kosten', leistung: 'bad-sanitaer', rang: 4, anker: 'Badsanierung Kosten', hauptbegriff: 'badsanierung kosten',
   title: 'Badsanierung Kosten: Preise und Kostenfaktoren', description: 'x'.repeat(150), h1: 'Was kostet eine Badsanierung?',
-  einstieg: 'Wer ein Bad erneuert, fragt zuerst nach dem Budget. Ein Fachbetrieb für [[/leistungen/bad-sanitaer/]] klärt das vor Ort am Objekt.',
+  einstieg: 'Wer ein Bad erneuert, fragt zuerst nach dem Budget. Ein Fachbetrieb für [[/leistungen/bad-sanitaer/]] klärt das am Objekt.',
   kosten: { h2: 'Kosten im Überblick', intro: lang(3), zeilen: [{ posten: 'A', spanne: '1–2 €', q: 1 }, { posten: 'B', spanne: '3–4 €', q: 2 }, { posten: 'C', spanne: '5–6 €', q: 3 }], hinweis: lang(1) },
   abschnitte: [{ h2: 'Kostenfaktoren', text: lang(20) }, { h2: 'Ablauf', text: lang(20) + 'Mehr dazu unter [[/ratgeber/barrierefreies-bad/]].' }],
   faq: [1, 2, 3, 4].map((i) => ({ q: `Frage ${i}?`, a: 'Antwort ohne Verweis.' })),
@@ -70,4 +70,18 @@ test('Title zu lang', () => {
 test('doppelter Title über Seiten', () => {
   const b = gut(); b.slug = 'barrierefreies-bad'; b.h1 = 'Anders?'
   assert.ok(fehler(gut(), [b]).some((f) => f.includes('doppelt')))
+})
+test('Steuerhinweis, Rechtsanweisung, Präsenz-„vor Ort“ und Momentangabe verboten', () => {
+  for (const satz of ['Die Kosten sind nach § 35a steuerlich absetzbar.', 'Sie müssen den Antrag vorher stellen.', 'Der Handwerker vor Ort prüft das.', 'Derzeit sind die Preise hoch.']) {
+    const s = gut(); s.abschnitte[0].text += ' ' + satz
+    assert.ok(fehler(s).some((f) => f.includes('verbotene Formulierung')), satz)
+  }
+})
+test('„aktueller Grundriss“ ist keine Momentangabe', () => {
+  const s = gut(); s.abschnitte[0].text += ' Der aktuelle Grundriss bleibt.'
+  assert.deepEqual(fehler(s), [])
+})
+test('Fristen aus Rechtsvorschriften verboten', () => {
+  const s = gut(); s.abschnitte[0].text += ' Die Anlage ist spätestens zwölf Monate nach Fertigstellung zu installieren.'
+  assert.ok(fehler(s).some((f) => f.includes('verbotene Formulierung')))
 })

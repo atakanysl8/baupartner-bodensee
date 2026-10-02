@@ -12,12 +12,36 @@
     "h2": "Zaun Kosten im Überblick",
     "intro": "Die Bausparkasse Schwäbisch Hall nennt für Zaunanlagen je nach Material 30 bis 300 Euro pro laufendem Meter und für einen Holzzaun 20 bis 45 Euro pro Laufmeter; ob beim Holzzaun die Montage enthalten ist, geht aus der Quelle nicht hervor. Welche Bauart wo in der großen Spanne liegt, schlüsselt die Quelle nicht auf. Die Beispiele für 30 Meter Zaunlänge sind einfach mit den Meterpreisen der Quelle multipliziert. Tore, Abriss eines alten Zauns und Entsorgung sind darin nicht enthalten.",
     "zeilen": [
-      { "posten": "Zaunanlagen je laufendem Meter, je nach Material", "spanne": "30 – 300 €", "q": 2 },
-      { "posten": "Holzzaun je Laufmeter (Montage laut Quelle nicht ausgewiesen)", "spanne": "20 – 45 €", "q": 1 },
-      { "posten": "Beispiel 30 m Zaunanlage (30 – 300 € × 30 m)", "spanne": "900 – 9.000 €", "q": 2 },
-      { "posten": "Beispiel 30 m Holzzaun (20 – 45 € × 30 m)", "spanne": "600 – 1.350 €", "q": 1 },
-      { "posten": "Hecke als Alternative, je Laufmeter", "spanne": "10 – 40 €", "q": 1 },
-      { "posten": "Honorar Gartenplanung, Grundstück mit 500 m²", "spanne": "ca. 500 €", "q": 1 }
+      {
+        "posten": "Zaunanlagen je laufendem Meter, je nach Material",
+        "spanne": "30 – 300 €",
+        "q": 2
+      },
+      {
+        "posten": "Holzzaun je Laufmeter (Montage laut Quelle nicht ausgewiesen)",
+        "spanne": "20 – 45 €",
+        "q": 1
+      },
+      {
+        "posten": "Beispiel 30 m Zaunanlage (30 – 300 € × 30 m)",
+        "spanne": "900 – 9.000 €",
+        "q": 2
+      },
+      {
+        "posten": "Beispiel 30 m Holzzaun (20 – 45 € × 30 m)",
+        "spanne": "600 – 1.350 €",
+        "q": 1
+      },
+      {
+        "posten": "Hecke als Alternative, je Laufmeter",
+        "spanne": "10 – 40 €",
+        "q": 1
+      },
+      {
+        "posten": "Honorar Gartenplanung, Grundstück mit 500 m²",
+        "spanne": "ca. 500 €",
+        "q": 1
+      }
     ],
     "hinweis": "Baupreise steigen weiter: Laut Statistischem Bundesamt lagen die Preise für Metallbauarbeiten an Wohngebäuden im Mai 2026 um 4,4 %, für Zimmer- und Holzbauarbeiten um 7,3 % und für Erdarbeiten um 5,4 % über dem Vorjahresmonat. Ältere Richtwerte sind deshalb eher als Untergrenze zu lesen."
   },
@@ -32,7 +56,7 @@
     },
     {
       "h2": "Baurecht und Nachbarrecht in Baden-Württemberg",
-      "text": "Die Landesbauordnung für Baden-Württemberg führt in Anhang 1 zu § 50 „Einfriedungen im Innenbereich“ und „Stützmauern bis 2 m Höhe“ als verfahrensfreie Vorhaben auf. Das Serviceportal des Landes weist darauf hin, dass auch verfahrensfreie Vorhaben das übrige Recht einhalten müssen, etwa Festsetzungen des Bebauungsplans, und dass die Gemeinde per Satzung ein Kenntnisgabeverfahren verlangen kann. Bebauungspläne können Vorgaben zu Einfriedungen enthalten; § 27 des Nachbarrechtsgesetzes sieht vor, dass die Abstände des Gesetzes insoweit nicht eingehalten werden müssen, als es die Verwirklichung solcher Festsetzungen erfordert, außer gegenüber landwirtschaftlich genutzten Grundstücken. Das Nachbarrechtsgesetz Baden-Württemberg sieht in § 11 vor, dass gegenüber nicht landwirtschaftlich genutzten Grundstücken mit toten Einfriedigungen, außer Drahtzäunen und Schranken, ein Grenzabstand entsprechend der Mehrhöhe einzuhalten ist, die über 1,50 m hinausgeht. Zäune, die weniger als 0,50 m von der Grenze abstehen, müssen danach so eingerichtet sein, dass sie von der Seite des Eigentümers aus ausgebessert werden können. Für Hecken bis 1,80 m Höhe nennt § 12 einen Abstand von 0,50 m. Ob ein Vorhaben verfahrensfrei ist, beurteilt verbindlich die untere Baurechtsbehörde; Auskunft zum Bebauungsplan gibt die Gemeinde."
+      "text": "Die Landesbauordnung für Baden-Württemberg führt in Anhang 1 zu § 50 „Einfriedungen im Innenbereich“ und „Stützmauern bis 2 m Höhe“ als verfahrensfreie Vorhaben auf. Das Serviceportal des Landes weist darauf hin, dass auch verfahrensfreie Vorhaben das übrige Recht einhalten müssen, etwa Festsetzungen des Bebauungsplans, und dass die Gemeinde per Satzung ein Kenntnisgabeverfahren verlangen kann. Bebauungspläne können Vorgaben zu Einfriedungen enthalten. Das Nachbarrechtsgesetz Baden-Württemberg regelt Grenzabstände für Einfriedigungen und Hecken, die von deren Höhe abhängen. Ob ein Vorhaben verfahrensfrei ist, beurteilt verbindlich die untere Baurechtsbehörde; Auskunft zum Bebauungsplan gibt die Gemeinde."
     },
     {
       "h2": "Hecke oder Zaun?",
@@ -40,20 +64,68 @@
     }
   ],
   "faq": [
-    { "q": "Was kostet ein Zaun für 50 Meter?", "a": "Mit der Spanne von 30 bis 300 Euro pro laufendem Meter ergeben sich rechnerisch 1.500 bis 15.000 Euro, je nach Material und Höhe. Tore, Hanglage und die Entsorgung eines alten Zauns kommen gegebenenfalls hinzu." },
-    { "q": "Welcher Zaun ist am günstigsten?", "a": "Schwäbisch Hall nennt für einen Holzzaun 20 bis 45 Euro pro Laufmeter, für Zaunanlagen allgemein je nach Material 30 bis 300 Euro. Blickdichte Sichtschutzwände, Gabionen und Mauern brauchen mehr Material und Arbeitszeit als einfache Zäune." },
-    { "q": "Was kostet ein Zaun am Hang mehr?", "a": "Am Hang muss der Zaun abgetreppt oder dem Gelände angepasst werden, mitunter ist eine kleine Stützmauer nötig. Der Mehraufwand lässt sich nur am Objekt beziffern, deshalb sollte das Gefälle im Angebot ausdrücklich berücksichtigt sein." },
-    { "q": "Wie hoch darf ein Zaun in Baden-Württemberg sein?", "a": "Das Nachbarrechtsgesetz Baden-Württemberg sieht in § 11 vor, dass gegenüber nicht landwirtschaftlich genutzten Grundstücken mit toten Einfriedigungen, außer Drahtzäunen und Schranken, ein Grenzabstand entsprechend der Mehrhöhe einzuhalten ist, die über 1,50 m hinausgeht. Der Bebauungsplan kann eigene Vorgaben enthalten; Auskunft gibt die Gemeinde." },
-    { "q": "Sind die Preise in Baden-Württemberg anders?", "a": "Die genannten Spannen sind bundesweite Richtwerte. Regionale Lohn- und Materialkosten sowie die Auslastung der Betriebe verschieben den Preis, deshalb ist ein Angebot nach Besichtigung maßgeblich." }
+    {
+      "q": "Was kostet ein Zaun für 50 Meter?",
+      "a": "Mit der Spanne von 30 bis 300 Euro pro laufendem Meter ergeben sich rechnerisch 1.500 bis 15.000 Euro, je nach Material und Höhe. Tore, Hanglage und die Entsorgung eines alten Zauns kommen gegebenenfalls hinzu."
+    },
+    {
+      "q": "Welcher Zaun ist am günstigsten?",
+      "a": "Schwäbisch Hall nennt für einen Holzzaun 20 bis 45 Euro pro Laufmeter, für Zaunanlagen allgemein je nach Material 30 bis 300 Euro. Blickdichte Sichtschutzwände, Gabionen und Mauern brauchen mehr Material und Arbeitszeit als einfache Zäune."
+    },
+    {
+      "q": "Was kostet ein Zaun am Hang mehr?",
+      "a": "Am Hang muss der Zaun abgetreppt oder dem Gelände angepasst werden, mitunter ist eine kleine Stützmauer nötig. Der Mehraufwand lässt sich nur am Objekt beziffern, deshalb sollte das Gefälle im Angebot ausdrücklich berücksichtigt sein."
+    },
+    {
+      "q": "Wie hoch darf ein Zaun in Baden-Württemberg sein?",
+      "a": "Maßgeblich sind das Nachbarrechtsgesetz Baden-Württemberg, das Grenzabstände abhängig von der Höhe regelt, und der Bebauungsplan. Welche Höhe am konkreten Standort zulässig ist, beurteilen Gemeinde und untere Baurechtsbehörde."
+    },
+    {
+      "q": "Sind die Preise in Baden-Württemberg anders?",
+      "a": "Die genannten Spannen sind bundesweite Richtwerte. Regionale Lohn- und Materialkosten sowie die Auslastung der Betriebe verschieben den Preis, deshalb ist ein Angebot nach Besichtigung maßgeblich."
+    }
   ],
-  "verwandt": ["carport-kosten", "terrassenueberdachung-kosten"],
+  "verwandt": [
+    "carport-kosten",
+    "terrassenueberdachung-kosten"
+  ],
   "quellen": [
-    { "titel": "Gartengestaltung: Kredit, Planung & mehr", "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 13.02.2025)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen/garten-anlegen.html", "abruf": "2026-10-02" },
-    { "titel": "Baukosten: Mit so viel müssen Sie beim Haus bauen rechnen", "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 12.02.2025)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen.html", "abruf": "2026-10-02" },
-    { "titel": "Landesbauordnung für Baden-Württemberg (LBO) in der Fassung vom 16. März 2026, Anhang 1 (zu § 50 Absatz 1) Verfahrensfreie Vorhaben", "herausgeber": "Land Baden-Württemberg, Landesrecht BW", "url": "https://www.landesrecht-bw.de/perma?d=jlr-NNLBW00007BCC", "abruf": "2026-10-02" },
-    { "titel": "Gesetz über das Nachbarrecht (Nachbarrechtsgesetz – NRG), §§ 11, 12, 27", "herausgeber": "Land Baden-Württemberg, Landesrecht BW (Stand: zuletzt geändert 6. Dezember 2022)", "url": "https://www.landesrecht-bw.de/perma?d=jlr-NNLBW00008C99", "abruf": "2026-10-02" },
-    { "titel": "Verfahrensfreie Bauvorhaben (Lebenslage)", "herausgeber": "Serviceportal Baden-Württemberg, Ministerium für Landesentwicklung und Wohnen (Freigabe 27.11.2025), eingebunden bei der Stadt Heidelberg", "url": "https://www.heidelberg.de/-/Lebenslagen/verfahrensfreie-bauvorhaben/leb5000753", "abruf": "2026-10-02" },
-    { "titel": "KORREKTUR: Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
+    {
+      "titel": "Gartengestaltung: Kredit, Planung & mehr",
+      "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 13.02.2025)",
+      "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen/garten-anlegen.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Baukosten: Mit so viel müssen Sie beim Haus bauen rechnen",
+      "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 12.02.2025)",
+      "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-bauen.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Landesbauordnung für Baden-Württemberg (LBO) in der Fassung vom 16. März 2026, Anhang 1 (zu § 50 Absatz 1) Verfahrensfreie Vorhaben",
+      "herausgeber": "Land Baden-Württemberg, Landesrecht BW",
+      "url": "https://www.landesrecht-bw.de/perma?d=jlr-NNLBW00007BCC",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Gesetz über das Nachbarrecht (Nachbarrechtsgesetz – NRG), §§ 11, 12, 27",
+      "herausgeber": "Land Baden-Württemberg, Landesrecht BW (Stand: zuletzt geändert 6. Dezember 2022)",
+      "url": "https://www.landesrecht-bw.de/perma?d=jlr-NNLBW00008C99",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Verfahrensfreie Bauvorhaben (Lebenslage)",
+      "herausgeber": "Serviceportal Baden-Württemberg, Ministerium für Landesentwicklung und Wohnen (Freigabe 27.11.2025), eingebunden bei der Stadt Heidelberg",
+      "url": "https://www.heidelberg.de/-/Lebenslagen/verfahrensfreie-bauvorhaben/leb5000753",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "KORREKTUR: Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025",
+      "herausgeber": "Statistisches Bundesamt",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html",
+      "abruf": "2026-10-02"
+    }
   ],
   "offen": [
     "Keine neutrale Quelle mit Meterpreisen je Zaunart (Doppelstabmatten, Gabionen, Sichtschutz, Montage separat) gefunden; nur Gesamtspanne 30–300 €/lfm und Holzzaun 20–45 €/lfm (Schwäbisch Hall). Holzzaun-Wert erscheint niedrig (vermutlich Material) – Quelle sagt nicht, ob Montage enthalten ist.",
@@ -64,6 +136,7 @@
     "QA 02.10.: FAQ Zaunhöhe: eigene Zusammenfassung 'keine feste Höhengrenze' gestrichen, jetzt Wiedergabe § 11 Abs. 2 NRG.",
     "QA 02.10.: § 27 NRG war verkürzt als 'Vorrang' zusammengefasst → Wortlaut sinngemäß wiedergegeben.",
     "QA 02.10.: Holzzaun 20–45 €/lfm: Quelle sagt nicht, ob Montage enthalten → in Tabelle und Intro gekennzeichnet.",
-    "QA 02.10.: Eigene Zuordnung der Zaunarten zum unteren/oberen Ende der Spanne (Intro, Abschnitt, FAQ) gestrichen – nicht in der Quelle."
+    "QA 02.10.: Eigene Zuordnung der Zaunarten zum unteren/oberen Ende der Spanne (Intro, Abschnitt, FAQ) gestrichen – nicht in der Quelle.",
+    "Abschluss-Review 02.10.: NRG-Paragrafen-Details (§§ 11, 12, Maße) aus Abschnitt und FAQ entfernt — keine eigene Rechtseinordnung; Verweis auf Gemeinde/Baurechtsbehörde."
   ]
 }

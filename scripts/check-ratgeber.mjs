@@ -9,6 +9,9 @@ import { VERBOTEN } from './check-orte.mjs'
 
 const FOERDERBETRAG = [/(zuschuss|förder\w*|bonus)[^.]{0,40}\d+\s*(%|prozent|euro|€)/i, /\d+\s*(%|prozent)[^.]{0,30}(zuschuss|förder)/i]
 const ERSPARNIS = [/sparen sie/i, /\bsparen\s+(bis zu\s+)?\d/i, /amortis/i, /rechnet sich (nach|in)/i]
+// Agentenvorlage-Ratgeber Abschnitt 5: Steuerhinweise, Rechtsanweisungen, „vor Ort“ (Präsenzandeutung), Momentangaben.
+// „aktuell“ bewusst nicht, weil „aktueller Grundriss“ u. ä. sachlich ist.
+const FORMULIERUNG = [/§\s*35[ac]|handwerkerbonus|steuerlich absetz/i, /\bsie müssen\b|beantragen sie/i, /vor ort/i, /\b(derzeit|zurzeit|momentan)\b/i, /\bspätestens\b[^.]{0,40}\b(tage|wochen|monate|jahre)\b/i]
 const VERWEIS = /\[\[(\/[^\]]*)\]\]/g
 
 const woerter = (t) => t.replace(VERWEIS, 'x').toLowerCase().replace(/[^a-zäöüß0-9 ]+/g, ' ').split(/\s+/).filter(Boolean).length
@@ -48,6 +51,7 @@ export function pruefeRatgeber(seiten, plan) {
     for (const r of VERBOTEN) if (r.test(alles)) fehler.push(`${id}: verbotenes Muster ${r}`)
     if (FOERDERBETRAG.some((r) => r.test(alles))) fehler.push(`${id}: Förderbetrag/Fördersatz im Text`)
     if (ERSPARNIS.some((r) => r.test(alles))) fehler.push(`${id}: Ersparnisversprechen`)
+    for (const r of FORMULIERUNG) if (r.test(alles)) fehler.push(`${id}: verbotene Formulierung ${r}`)
     for (const [m, k, v] of [[titles, 'Title', s.title], [h1s, 'H1', s.h1]]) {
       if (m.has(v)) fehler.push(`${id}: ${k} doppelt mit ${m.get(v)}`)
       else m.set(v, id)

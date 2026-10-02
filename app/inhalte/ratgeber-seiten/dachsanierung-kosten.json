@@ -12,17 +12,61 @@
     "h2": "Kosten einer Dachsanierung im Überblick",
     "intro": "Für eine umfangreiche Dachsanierung nennt die Bausparkasse Schwäbisch Hall grob 400 bis 600 Euro pro Quadratmeter Dachfläche, die Commerzbank für die Komplettsanierung 250 bis 400 Euro. Finanztip nennt nach Angaben des Baufinanzierungsvermittlers Dr. Klein für ein Dach mit 150 Quadratmetern je nach Umfang 15.000 bis 84.000 Euro. Die Einzelposten stammen aus dem Baukosteninformationszentrum Deutscher Architektenkammern (BKI): Es sind statistische Mittelwerte inklusive Mehrwertsteuer, die regional deutlich schwanken. Bei Einzelmaßnahmen ist laut Quelle mit Zuschlägen zu rechnen.",
     "zeilen": [
-      { "posten": "Umfangreiche Dachsanierung je m² Dachfläche", "spanne": "400 – 600 €", "q": 1 },
-      { "posten": "Komplettsanierung des Daches je m²", "spanne": "250 – 400 €", "q": 2 },
-      { "posten": "Dach mit 150 m², je nach Umfang", "spanne": "15.000 – 84.000 €", "q": 3 },
-      { "posten": "Einfache Dacheindeckung je m²", "spanne": "80 – 140 €", "q": 2 },
-      { "posten": "Dachbelag mit Unterbau abbrechen je m²", "spanne": "ca. 60 €", "q": 1 },
-      { "posten": "Dachlattung / Konterlattung je m²", "spanne": "ca. 17 €", "q": 1 },
-      { "posten": "Dachziegeldeckung (Falzziegel) je m²", "spanne": "ca. 54 €", "q": 1 },
-      { "posten": "Betonsteindeckung je m²", "spanne": "ca. 43 €", "q": 1 },
-      { "posten": "Schieferdeckung je m²", "spanne": "ca. 140 €", "q": 1 },
-      { "posten": "Dachbelag mit Aufdachdämmung je m²", "spanne": "ca. 240 €", "q": 1 },
-      { "posten": "Dachrinne (Entwässerung horizontal) je Meter", "spanne": "ca. 120 €", "q": 1 }
+      {
+        "posten": "Umfangreiche Dachsanierung je m² Dachfläche",
+        "spanne": "400 – 600 €",
+        "q": 1
+      },
+      {
+        "posten": "Komplettsanierung des Daches je m²",
+        "spanne": "250 – 400 €",
+        "q": 2
+      },
+      {
+        "posten": "Dach mit 150 m², je nach Umfang",
+        "spanne": "15.000 – 84.000 €",
+        "q": 3
+      },
+      {
+        "posten": "Einfache Dacheindeckung je m²",
+        "spanne": "80 – 140 €",
+        "q": 2
+      },
+      {
+        "posten": "Dachbelag mit Unterbau abbrechen je m²",
+        "spanne": "ca. 60 €",
+        "q": 1
+      },
+      {
+        "posten": "Dachlattung / Konterlattung je m²",
+        "spanne": "ca. 17 €",
+        "q": 1
+      },
+      {
+        "posten": "Dachziegeldeckung (Falzziegel) je m²",
+        "spanne": "ca. 54 €",
+        "q": 1
+      },
+      {
+        "posten": "Betonsteindeckung je m²",
+        "spanne": "ca. 43 €",
+        "q": 1
+      },
+      {
+        "posten": "Schieferdeckung je m²",
+        "spanne": "ca. 140 €",
+        "q": 1
+      },
+      {
+        "posten": "Dachbelag mit Aufdachdämmung je m²",
+        "spanne": "ca. 240 €",
+        "q": 1
+      },
+      {
+        "posten": "Dachrinne (Entwässerung horizontal) je Meter",
+        "spanne": "ca. 120 €",
+        "q": 1
+      }
     ],
     "hinweis": "Dacharbeiten verteuern sich überdurchschnittlich: Dachdeckungsarbeiten sowie Zimmer- und Holzbauarbeiten waren laut Statistischem Bundesamt im Mai 2026 jeweils um 7,3 % teurer als im Mai 2025. Ältere Richtwerte sind deshalb eher als Untergrenze zu lesen."
   },
@@ -37,7 +81,7 @@
     },
     {
       "h2": "Dämmung und Solarpflicht mitdenken",
-      "text": "Wird das Dach ohnehin abgedeckt, ist das der günstigste Zeitpunkt für eine Dämmung von außen. Welche Verfahren es gibt und was sie kosten, erklärt der Ratgeber [[/ratgeber/dachdaemmung-kosten/]]. Nach Darstellung von Finanztip können Arbeiten an mehr als zehn Prozent der Dachfläche Dämmanforderungen des Gebäudemodernisierungsgesetzes (früher Gebäudeenergiegesetz) auslösen, kleinere Reparaturen dagegen nicht automatisch; welche Anforderungen im Einzelfall gelten, klärt eine Energieberatung. In Baden-Württemberg gilt laut Umweltministerium die Photovoltaikpflicht auch bei einer grundlegenden Dachsanierung eines Bestandsgebäudes. Als grundlegend gilt danach eine Maßnahme, bei der Abdichtung oder Eindeckung vollständig erneuert wird, auch wenn Baustoffe wiederverwendet werden; ausgenommen sind Arbeiten ausschließlich zur Behebung kurzfristig eingetretener Schäden wie Sturmschäden. Im Regelfall reicht nach Angaben des Ministeriums eine Modulfläche von mindestens 60 Prozent der geeigneten Dachfläche, alternativ ist auch Solarthermie möglich. Zuständig sind die unteren Baurechtsbehörden. Was eine Anlage kostet, zeigt der Ratgeber [[/ratgeber/photovoltaik-kosten/]]. Für die Dachdämmung gibt es Förderprogramme des Bundes (BEG über KfW bzw. BAFA); Bedingungen ändern sich, Auskunft geben KfW, BAFA und Energieberatung."
+      "text": "Wird das Dach ohnehin abgedeckt, ist das der günstigste Zeitpunkt für eine Dämmung von außen. Welche Verfahren es gibt und was sie kosten, erklärt der Ratgeber [[/ratgeber/dachdaemmung-kosten/]]. Größere Arbeiten am Dach können Dämmanforderungen des Gebäudemodernisierungsgesetzes (früher Gebäudeenergiegesetz) auslösen; welche Anforderungen im Einzelfall gelten, klärt eine Energieberatung. In Baden-Württemberg gilt laut Umweltministerium die Photovoltaikpflicht auch bei einer grundlegenden Dachsanierung eines Bestandsgebäudes. Als grundlegend gilt danach eine Maßnahme, bei der Abdichtung oder Eindeckung vollständig erneuert wird, auch wenn Baustoffe wiederverwendet werden; ausgenommen sind Arbeiten ausschließlich zur Behebung kurzfristig eingetretener Schäden wie Sturmschäden. Laut Ministerium ist alternativ auch Solarthermie möglich. Zuständig sind die unteren Baurechtsbehörden. Was eine Anlage kostet, zeigt der Ratgeber [[/ratgeber/photovoltaik-kosten/]]. Für die Dachdämmung gibt es Förderprogramme des Bundes (BEG über KfW bzw. BAFA); Bedingungen ändern sich, Auskunft geben KfW, BAFA und Energieberatung."
     },
     {
       "h2": "So entsteht ein belastbares Angebot",
@@ -45,19 +89,62 @@
     }
   ],
   "faq": [
-    { "q": "Was kostet ein neues Dach für ein Einfamilienhaus?", "a": "Finanztip nennt nach Angaben des Baufinanzierungsvermittlers Dr. Klein für ein Dach mit 150 Quadratmetern je nach Umfang 15.000 bis 84.000 Euro. Wie teuer es wird, hängt laut Finanztip vor allem davon ab, welche Arbeiten nötig sind und wie groß und aufwendig das Dach ist." },
-    { "q": "Wie lange hält ein Dach?", "a": "Schwäbisch Hall gibt nach Angaben des Verbands Privater Bauherren für Dachpfannen aus Beton etwa 60 Jahre und für Ziegeldächer etwa 80 Jahre an. Die tragende Dachkonstruktion hält danach etwa 100 Jahre, die Dachentwässerung etwa 20 Jahre." },
-    { "q": "Gilt in Baden-Württemberg eine Solarpflicht bei der Dachsanierung?", "a": "Laut Umweltministerium Baden-Württemberg gilt die Photovoltaikpflicht bei grundlegenden Dachsanierungen, bei denen Abdichtung oder Eindeckung vollständig erneuert werden. Reparaturen nach kurzfristig eingetretenen Schäden wie Sturmschäden sind ausgenommen; Auskunft gibt die untere Baurechtsbehörde." },
-    { "q": "Ist eine Teilsanierung günstiger als ein komplett neues Dach?", "a": "Einzelne Reparaturen sind günstiger, solange Lattung, Sparren und Unterspannbahn in Ordnung sind. Häufen sich Schäden, kann eine umfassende Sanierung nach Einschätzung von Finanztip wirtschaftlicher sein als immer neue Reparaturen." },
-    { "q": "Sind die Preise in Baden-Württemberg anders?", "a": "Die genannten Spannen sind bundesweite Richtwerte, und Schwäbisch Hall weist ausdrücklich auf große regionale Unterschiede hin. Maßgeblich ist deshalb ein Angebot nach Besichtigung des Daches." }
+    {
+      "q": "Was kostet ein neues Dach für ein Einfamilienhaus?",
+      "a": "Finanztip nennt nach Angaben des Baufinanzierungsvermittlers Dr. Klein für ein Dach mit 150 Quadratmetern je nach Umfang 15.000 bis 84.000 Euro. Wie teuer es wird, hängt laut Finanztip vor allem davon ab, welche Arbeiten nötig sind und wie groß und aufwendig das Dach ist."
+    },
+    {
+      "q": "Wie lange hält ein Dach?",
+      "a": "Schwäbisch Hall gibt nach Angaben des Verbands Privater Bauherren für Dachpfannen aus Beton etwa 60 Jahre und für Ziegeldächer etwa 80 Jahre an. Die tragende Dachkonstruktion hält danach etwa 100 Jahre, die Dachentwässerung etwa 20 Jahre."
+    },
+    {
+      "q": "Gilt in Baden-Württemberg eine Solarpflicht bei der Dachsanierung?",
+      "a": "Laut Umweltministerium Baden-Württemberg gilt die Photovoltaikpflicht bei grundlegenden Dachsanierungen, bei denen Abdichtung oder Eindeckung vollständig erneuert werden. Reparaturen nach kurzfristig eingetretenen Schäden wie Sturmschäden sind ausgenommen; Auskunft gibt die untere Baurechtsbehörde."
+    },
+    {
+      "q": "Ist eine Teilsanierung günstiger als ein komplett neues Dach?",
+      "a": "Einzelne Reparaturen sind günstiger, solange Lattung, Sparren und Unterspannbahn in Ordnung sind. Häufen sich Schäden, kann eine umfassende Sanierung nach Einschätzung von Finanztip wirtschaftlicher sein als immer neue Reparaturen."
+    },
+    {
+      "q": "Sind die Preise in Baden-Württemberg anders?",
+      "a": "Die genannten Spannen sind bundesweite Richtwerte, und Schwäbisch Hall weist ausdrücklich auf große regionale Unterschiede hin. Maßgeblich ist deshalb ein Angebot nach Besichtigung des Daches."
+    }
   ],
-  "verwandt": ["dachdaemmung-kosten", "photovoltaik-kosten"],
+  "verwandt": [
+    "dachdaemmung-kosten",
+    "photovoltaik-kosten"
+  ],
   "quellen": [
-    { "titel": "Dachsanierung: Kosten für ein neues Dach", "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 20.09.2026; Richtwerte BKI, 4. Quartal 2025)", "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-sanieren-renovieren/dachsanierung-kosten.html", "abruf": "2026-10-02" },
-    { "titel": "Was kostet eine Dachsanierung?", "herausgeber": "Commerzbank (aktualisiert 12.08.2025)", "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/was-kostet-eine-dachsanierung/", "abruf": "2026-10-02" },
-    { "titel": "Dach kaputt? Das ist bei der Sanierung wichtig", "herausgeber": "Finanztip (Stand 02.10.2026; Kostenangabe nach Dr. Klein, Baufinanzierungsvermittler)", "url": "https://www.finanztip.de/energetische-sanierung/dachsanierung/", "abruf": "2026-10-02" },
-    { "titel": "FAQ Photovoltaikpflicht", "herausgeber": "Ministerium für Umwelt, Klima und Energiewirtschaft Baden-Württemberg", "url": "https://um.baden-wuerttemberg.de/de/klima-energie/energiewende/erneuerbare-energien/sonnenenergie/photovoltaik/photovoltaikpflicht/faq-photovoltaikpflicht", "abruf": "2026-10-02" },
-    { "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025", "herausgeber": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html", "abruf": "2026-10-02" }
+    {
+      "titel": "Dachsanierung: Kosten für ein neues Dach",
+      "herausgeber": "Bausparkasse Schwäbisch Hall (aktualisiert 20.09.2026; Richtwerte BKI, 4. Quartal 2025)",
+      "url": "https://www.schwaebisch-hall.de/kosten-bauen-sanieren/kosten-sanieren-renovieren/dachsanierung-kosten.html",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Was kostet eine Dachsanierung?",
+      "herausgeber": "Commerzbank (aktualisiert 12.08.2025)",
+      "url": "https://www.commerzbank.de/privatkunden/wissen/ratgeber/finanzierung/baufinanzierung/was-kostet-eine-dachsanierung/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Dach kaputt? Das ist bei der Sanierung wichtig",
+      "herausgeber": "Finanztip (Stand 02.10.2026; Kostenangabe nach Dr. Klein, Baufinanzierungsvermittler)",
+      "url": "https://www.finanztip.de/energetische-sanierung/dachsanierung/",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "FAQ Photovoltaikpflicht",
+      "herausgeber": "Ministerium für Umwelt, Klima und Energiewirtschaft Baden-Württemberg",
+      "url": "https://um.baden-wuerttemberg.de/de/klima-energie/energiewende/erneuerbare-energien/sonnenenergie/photovoltaik/photovoltaikpflicht/faq-photovoltaikpflicht",
+      "abruf": "2026-10-02"
+    },
+    {
+      "titel": "Baupreise für Wohngebäude im Mai 2026: +5,0 % gegenüber Mai 2025",
+      "herausgeber": "Statistisches Bundesamt",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_241_61261.html",
+      "abruf": "2026-10-02"
+    }
   ],
   "offen": [
     "Quellen widersprechen sich bei der Komplettsanierung: Schwäbisch Hall 400–600 €/m² (Stand 20.09.2026), Commerzbank 250–400 €/m² (Seite 08/2025). Beide genannt.",
@@ -68,6 +155,7 @@
     "QA 02.10.: 15.000–84.000 € stammt laut Finanztip von Dr. Klein (Baufinanzierungsvermittler) → im Text und Herausgeber so gekennzeichnet.",
     "QA 02.10.: FAQ-Deutung 'unteres Ende = Neueindeckung, oberes = Dachstuhl/Dämmung' steht nicht in der Quelle → ersetzt durch Finanztip-Aussage.",
     "QA 02.10.: 'Finanztip rät, Leistungen zu vergleichen' nicht in Finanztip gefunden; Aussage steht bei Schwäbisch Hall ('Beachten Sie, welche Leistungen das Angebot abdeckt') → Zuordnung korrigiert.",
-    "QA 02.10.: Gesetz einheitlich 'Gebäudemodernisierungsgesetz (früher Gebäudeenergiegesetz)', Hinweis auf Energieberatung ergänzt."
+    "QA 02.10.: Gesetz einheitlich 'Gebäudemodernisierungsgesetz (früher Gebäudeenergiegesetz)', Hinweis auf Energieberatung ergänzt.",
+    "Abschluss-Review 02.10.: 10-%-Schwelle (Finanztip, altes GEG) und 60-%-Modulfläche entfernt — einheitliche Regel ohne Schwellen/Fristen."
   ]
 }
