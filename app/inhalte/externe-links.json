@@ -1,0 +1,255 @@
+{
+  "hochbau": [
+    {
+      "anker": "Landesbauordnung Baden-Württemberg",
+      "url": "https://www.landesrecht-bw.de/bsbw/document/jlr-NNLBW00007BCC",
+      "herausgeber": "Land Baden-Württemberg (Landesrecht BW)",
+      "satz": "Der aktuelle Gesetzestext der LBO mit Regeln zu Abständen, Bauantrag und Kenntnisgabe.",
+      "status": 200
+    },
+    {
+      "anker": "Virtuelles Bauamt Baden-Württemberg",
+      "url": "https://mlw.baden-wuerttemberg.de/de/bauen-wohnen/baurecht/bauordnungsrecht/virtuelles-bauamt",
+      "herausgeber": "Ministerium für Landesentwicklung und Wohnen Baden-Württemberg",
+      "satz": "Informationen zum digitalen Bauantrag und zur Online-Einreichung bei der Baurechtsbehörde.",
+      "status": 200
+    },
+    {
+      "anker": "KfW-Förderung für den Neubau",
+      "url": "https://www.kfw.de/inlandsfoerderung/Privatpersonen/Neubau/",
+      "herausgeber": "KfW (Förderbank des Bundes)",
+      "satz": "Überblick über die Förderprogramme des Bundes für Bau und Kauf eines Neubaus.",
+      "status": 200
+    }
+  ],
+  "tiefbau": [
+    {
+      "anker": "Fachberatung Baugrund beim LGRB",
+      "url": "https://www.lgrb-bw.de/geologischer-dienst/fachberatung/baugrund",
+      "herausgeber": "Landesamt für Geologie, Rohstoffe und Bergbau Baden-Württemberg (LGRB)",
+      "satz": "Hinweise des geologischen Landesdienstes zu Baugrund, Untergrund und geologischen Risiken.",
+      "status": 200
+    },
+    {
+      "anker": "Hochwassergefahrenkarten Baden-Württemberg",
+      "url": "https://www.hochwasser.baden-wuerttemberg.de/hochwassergefahrenkarten",
+      "herausgeber": "Land Baden-Württemberg (Umweltministerium / LUBW)",
+      "satz": "Karten zeigen, welche Flächen bei Hochwasser überflutet werden können.",
+      "status": 200
+    },
+    {
+      "anker": "Bauvorsorge gegen Hochwasser",
+      "url": "https://www.hochwasser.baden-wuerttemberg.de/bauvorsorge",
+      "herausgeber": "Land Baden-Württemberg (Umweltministerium / LUBW)",
+      "satz": "Bauliche Schutzmaßnahmen für Gebäude in hochwassergefährdeten Lagen im Überblick.",
+      "status": 200
+    }
+  ],
+  "dach-fassade": [
+    {
+      "anker": "Dachsanierung bei Zukunft Altbau",
+      "url": "https://www.zukunftaltbau.de/eigentuemer/daemmung-fenster-lueftung/dach/",
+      "herausgeber": "Zukunft Altbau (Landesprogramm des Umweltministeriums BW)",
+      "satz": "Neutrale Informationen zu Dachdämmung, Sanierungsablauf und Förderung beim Steildach.",
+      "status": 200
+    },
+    {
+      "anker": "Photovoltaik-Pflicht in Baden-Württemberg",
+      "url": "https://www.zukunftaltbau.de/eigentuemer/heizung-erneuerbare-energie/photovoltaik-pflicht/",
+      "herausgeber": "Zukunft Altbau (Landesprogramm des Umweltministeriums BW)",
+      "satz": "Erläuterungen, wann die PV-Pflicht bei einer grundlegenden Dachsanierung greift.",
+      "status": 200
+    },
+    {
+      "anker": "Solarkataster im Energieatlas BW",
+      "url": "https://www.energieatlas-bw.de/sonne/gebaeude/karten?activeLayer=solarkataster",
+      "herausgeber": "LUBW / Energieatlas Baden-Württemberg",
+      "satz": "Interaktive Karte zur Eignung einzelner Dachflächen für Photovoltaik.",
+      "status": 200
+    }
+  ],
+  "renovierung-sanierung": [
+    {
+      "anker": "Sanierungsleitfaden von Zukunft Altbau",
+      "url": "https://www.zukunftaltbau.de/eigentuemer/beratung-foerderung/sanierungsleitfaden/",
+      "herausgeber": "Zukunft Altbau (Landesprogramm des Umweltministeriums BW)",
+      "satz": "Schritt-für-Schritt-Überblick über Planung und Ablauf einer Altbausanierung.",
+      "status": 200
+    },
+    {
+      "anker": "Energieberatung für Wohngebäude beim BAFA",
+      "url": "https://www.bafa.de/DE/Energie/Energieberatung/Energieberatung_Wohngebaeude/energieberatung_wohngebaeude_node.html",
+      "herausgeber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+      "satz": "Informationen zur geförderten Energieberatung und zum individuellen Sanierungsfahrplan.",
+      "status": 200
+    },
+    {
+      "anker": "Wohnen im Kulturdenkmal",
+      "url": "https://www.denkmalpflege-bw.de/denkmale/wohnen-im-kulturdenkmal",
+      "herausgeber": "Landesamt für Denkmalpflege Baden-Württemberg",
+      "satz": "Hinweise für Eigentümer zu Sanierung und Umbau denkmalgeschützter Wohngebäude.",
+      "status": 200
+    }
+  ],
+  "bad-sanitaer": [
+    {
+      "anker": "KfW-Programm Altersgerecht Umbauen",
+      "url": "https://www.kfw.de/inlandsfoerderung/Privatpersonen/Bestehende-Immobilie/F%C3%B6rderprodukte/Altersgerecht-Umbauen-(159)/",
+      "herausgeber": "KfW (Förderbank des Bundes)",
+      "satz": "Förderkredit des Bundes für Barrierereduzierung, etwa beim Umbau des Badezimmers.",
+      "status": 200
+    },
+    {
+      "anker": "Barrierefreies Wohnen bei Zukunft Altbau",
+      "url": "https://www.zukunftaltbau.de/eigentuemer/nachhaltiger-wohnraum/barrierefreiheit/",
+      "herausgeber": "Zukunft Altbau (Landesprogramm des Umweltministeriums BW)",
+      "satz": "Wie sich barrierearmer Umbau sinnvoll mit einer Modernisierung verbinden lässt.",
+      "status": 200
+    },
+    {
+      "anker": "Wohnberatung der BAG Wohnungsanpassung",
+      "url": "https://www.wohnungsanpassung-bag.de/",
+      "herausgeber": "Bundesarbeitsgemeinschaft Wohnungsanpassung e.V.",
+      "satz": "Gemeinnütziger Verband mit Informationen zu Wohnberatungsstellen und Wohnungsanpassung.",
+      "status": 200
+    }
+  ],
+  "heizung-waermepumpe": [
+    {
+      "anker": "Wärmepumpe im Altbau bei Zukunft Altbau",
+      "url": "https://www.zukunftaltbau.de/eigentuemer/heizung-erneuerbare-energie/waermepumpe/",
+      "herausgeber": "Zukunft Altbau (Landesprogramm des Umweltministeriums BW)",
+      "satz": "Neutrale Informationen zu Eignung, Planung und Betrieb von Wärmepumpen im Bestand.",
+      "status": 200
+    },
+    {
+      "anker": "Kommunale Wärmeplanung im Energieatlas BW",
+      "url": "https://www.energieatlas-bw.de/waerme/kommunale-waermeplanung/karten",
+      "herausgeber": "LUBW / Energieatlas Baden-Württemberg",
+      "satz": "Karte zum Stand der kommunalen Wärmeplanung in den Gemeinden Baden-Württembergs.",
+      "status": 200
+    },
+    {
+      "anker": "KfW-Heizungsförderung für Wohngebäude",
+      "url": "https://www.kfw.de/inlandsfoerderung/Privatpersonen/Bestehende-Immobilie/F%C3%B6rderprodukte/Heizungsf%C3%B6rderung-f%C3%BCr-Privatpersonen-Wohngeb%C3%A4ude-(458)/",
+      "herausgeber": "KfW (Förderbank des Bundes)",
+      "satz": "Bundesförderung für den Einbau klimafreundlicher Heizungen in bestehenden Wohngebäuden.",
+      "status": 200
+    }
+  ],
+  "elektro-photovoltaik": [
+    {
+      "anker": "Marktstammdatenregister der Bundesnetzagentur",
+      "url": "https://www.marktstammdatenregister.de/MaStR",
+      "herausgeber": "Bundesnetzagentur",
+      "satz": "Amtliches Register, in dem Photovoltaikanlagen und Stromspeicher eingetragen werden.",
+      "status": 200
+    },
+    {
+      "anker": "Photovoltaik-Planung der Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de/wissen/energie/erneuerbare-energien/photovoltaik-was-bei-der-planung-einer-solaranlage-wichtig-ist-5574",
+      "herausgeber": "Verbraucherzentrale",
+      "satz": "Unabhängige Hinweise zu Dimensionierung, Angeboten und Planung einer Solaranlage.",
+      "status": 200
+    },
+    {
+      "anker": "Wallbox und Solarstrom laut Verbraucherzentrale",
+      "url": "https://www.verbraucherzentrale.de/wissen/energie/emobilitaet/elektroauto-mit-eigener-ladestation-solarstrom-vom-dach-laden-22557",
+      "herausgeber": "Verbraucherzentrale",
+      "satz": "Was beim Laden des Elektroautos an der eigenen Wallbox mit Solarstrom zählt.",
+      "status": 200
+    }
+  ],
+  "fenster-tueren": [
+    {
+      "anker": "Fenstertausch bei Zukunft Altbau",
+      "url": "https://www.zukunftaltbau.de/eigentuemer/daemmung-fenster-lueftung/fenster/",
+      "herausgeber": "Zukunft Altbau (Landesprogramm des Umweltministeriums BW)",
+      "satz": "Neutrale Informationen zu Verglasung, Einbau und Lüftung beim Fensteraustausch.",
+      "status": 200
+    },
+    {
+      "anker": "Einbruchschutz der Polizeilichen Kriminalprävention",
+      "url": "https://www.polizei-beratung.de/themen-und-tipps/einbruch/technische-sicherheit/",
+      "herausgeber": "Polizeiliche Kriminalprävention der Länder und des Bundes",
+      "satz": "Polizeiliche Empfehlungen zu mechanischen Sicherungen an Fenstern und Türen.",
+      "status": 200
+    },
+    {
+      "anker": "Sichere Haustüren bei K-Einbruch",
+      "url": "https://www.k-einbruch.de/sicherheitstipps/tueren/",
+      "herausgeber": "Polizeiliche Kriminalprävention (Initiative K-Einbruch)",
+      "satz": "Hinweise zu geprüften Haustüren, Schlössern und dem Nachrüsten von Türen.",
+      "status": 200
+    }
+  ],
+  "innenausbau": [
+    {
+      "anker": "Baustoffe und Schadstoffe bei Zukunft Altbau",
+      "url": "https://www.zukunftaltbau.de/eigentuemer/nachhaltiger-wohnraum/baustoffe-schadstoffe/",
+      "herausgeber": "Zukunft Altbau (Landesprogramm des Umweltministeriums BW)",
+      "satz": "Hinweise zu Schadstoffen im Altbau und zur Wahl emissionsarmer Baustoffe.",
+      "status": 200
+    },
+    {
+      "anker": "Hitzeschutz im Dachgeschoss",
+      "url": "https://www.zukunftaltbau.de/eigentuemer/daemmung-fenster-lueftung/hitzeschutz/",
+      "herausgeber": "Zukunft Altbau (Landesprogramm des Umweltministeriums BW)",
+      "satz": "Wie Dämmung und Verschattung ausgebaute Dachräume im Sommer kühler halten.",
+      "status": 200
+    },
+    {
+      "anker": "Innenraumluft beim Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de/themen/gesundheit/umwelteinfluesse-auf-den-menschen/innenraumluft",
+      "herausgeber": "Umweltbundesamt",
+      "satz": "Fachinformationen zu Schadstoffen und Luftqualität in Innenräumen.",
+      "status": 200
+    }
+  ],
+  "maler-fliesen-boeden": [
+    {
+      "anker": "Fassadensanierung bei Zukunft Altbau",
+      "url": "https://www.zukunftaltbau.de/eigentuemer/daemmung-fenster-lueftung/fassade/",
+      "herausgeber": "Zukunft Altbau (Landesprogramm des Umweltministeriums BW)",
+      "satz": "Wann sich ein neuer Anstrich oder Putz mit einer Fassadendämmung verbinden lässt.",
+      "status": 200
+    },
+    {
+      "anker": "Wandfarben mit Blauem Engel",
+      "url": "https://www.blauer-engel.de/de/produktwelt/wandfarben-innen",
+      "herausgeber": "Blauer Engel (Umweltzeichen der Bundesregierung)",
+      "satz": "Kriterien für emissionsarme Innenwandfarben mit dem staatlichen Umweltzeichen.",
+      "status": 200
+    },
+    {
+      "anker": "Bodenbelagsklebstoffe mit Blauem Engel",
+      "url": "https://www.blauer-engel.de/de/produktwelt/bodenbelagsklebstoffe",
+      "herausgeber": "Blauer Engel (Umweltzeichen der Bundesregierung)",
+      "satz": "Informationen zu emissionsarmen Klebstoffen für Fliesen, Parkett und Bodenbeläge.",
+      "status": 200
+    }
+  ],
+  "garten-aussenanlagen": [
+    {
+      "anker": "Verfahrensfreie Vorhaben nach LBO",
+      "url": "https://www.landesrecht-bw.de/bsbw/document/jlr-NNLBW00007BCCNN00000000108",
+      "herausgeber": "Land Baden-Württemberg (Landesrecht BW)",
+      "satz": "Anhang 1 der LBO listet Vorhaben, die ohne Baugenehmigung errichtet werden dürfen.",
+      "status": 200
+    },
+    {
+      "anker": "LBO-Reform „Schnelleres Bauen“",
+      "url": "https://mlw.baden-wuerttemberg.de/de/bauen-wohnen/baurecht/bauordnungsrecht/lbo-reform-schnelles-bauen",
+      "herausgeber": "Ministerium für Landesentwicklung und Wohnen Baden-Württemberg",
+      "satz": "Überblick über die Änderungen der Landesbauordnung, auch bei genehmigungsfreien Vorhaben.",
+      "status": 200
+    },
+    {
+      "anker": "Naturnaher Garten bei Zukunft Altbau",
+      "url": "https://www.zukunftaltbau.de/eigentuemer/nachhaltiger-wohnraum/naturnaehe-biodiversitaet-artenschutz/",
+      "herausgeber": "Zukunft Altbau (Landesprogramm des Umweltministeriums BW)",
+      "satz": "Anregungen zu Biodiversität und Artenschutz an Haus und Grundstück.",
+      "status": 200
+    }
+  ]
+}

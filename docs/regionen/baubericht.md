@@ -118,3 +118,10 @@ Betreiber-Entscheidung: Übersicht `/ratgeber/` und Menüpunkt „Ratgeber“ en
 ## Nachtrag 6: Linkkarten und Link-Chips (03.10.2026)
 
 Neue Komponente `LinkKarten`/`LinkChips` (`app/components/LinkKarten.tsx`): Karten mit Symbol (Rechner = Kosten, Pin = Ort, Haus = Leistung, Raster = Übersicht), Zusatzzeile, Pfeil und deutlichem Hover; „Passend dazu“ als Chips. Eingesetzt auf Startseite (Kostenkarten), allen Leistungsseiten („Kosten im Detail“, „Passend dazu“), Kostenseiten („Passend zu Ihrem Vorhaben“) und Ortsseiten („Kosten und Überblick“, „Weitere Orte und Leistungen“). `pruefe-links` wertet die Zusatzzeile (`lk-zusatz`) nicht als Ankertext. Prüfkette: 51/51 Tests, `pruefe-seo` 235/0, `pruefe-links` 235/0.
+
+## Nachtrag 7: Formular, Kostenspalten, externe Verlinkung (03.10.2026)
+
+- Kontaktformular: Bei „Sonstiges“ erscheint ein Pflicht-Textfeld („Was genau ist geplant?“); übertragen als „Sonstiges: …“ (kein Backend-Umbau nötig).
+- Startseite: alle 28 Kostenseiten in drei Spalten nach Bereich (Bauen · Sanieren & Modernisieren · Ausbau & Außen).
+- Ausgehende Links: Quellenlinks auf Ortsseiten (amtlich) normal verlinkt; auf Kostenseiten amtliche/neutrale Quellen normal, kommerzielle (Banken, Bausparkassen, Vermittler) nofollow (`app/inhalte/quellen-rel.ts`, Test). Jede Leistungsseite hat den Block „Unabhängige Informationen“ mit 3 geprüften amtlichen/neutralen Links (`docs/seo/externe-links.json`, 33 URLs, Stand 03.10.2026; LBO-Links an Fassung 16.03.2026 gebunden).
+- Backlinks: Plan mit 14 Zielen und Anschreiben-Entwürfen in `docs/seo/backlinks.md` (nichts eingetragen/verschickt; keine MAAS-Verknüpfung). OpenSEO ca. 60 Credits.

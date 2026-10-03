@@ -2,6 +2,7 @@ import { RATGEBER, VERWANDT } from '../inhalte/ratgeber'
 import { LEISTUNGEN, type LeistungSlug } from '../inhalte/leistungen'
 import { RATGEBERLINKS } from '../inhalte/ratgeber-seiten/links'
 import { LinkKarten, LinkChips } from './LinkKarten'
+import ExterneInfos from './ExterneInfos'
 
 // Ratgeber-Abschnitt einer Leistungsseite (Kosten, Planung, Förderung) — siehe app/inhalte/ratgeber.ts.
 // Darunter die Kostenseiten dieser Leistung (/leistungen/<leistung>/<slug>/) und Querverweise auf verwandte Leistungen (interne Verlinkung).
@@ -34,6 +35,7 @@ export default function LeistungRatgeber({ leistung }: { leistung: LeistungSlug 
             <LinkKarten karten={seiten.map((x) => ({ href: x.pfad, titel: x.anker, zusatz: 'Preise & Kostenfaktoren', art: 'kosten' as const }))} />
           </>
         )}
+        <ExterneInfos leistung={leistung} />
         <LinkChips label="Passend dazu" links={VERWANDT[leistung].map((v) => ({ href: `/leistungen/${v}/`, titel: LEISTUNGEN[v].name }))} />
       </div>
     </section>

@@ -2005,3 +2005,15 @@ details.faq-item summary::-webkit-details-marker { display: none; }
 .kosten-zeile svg { flex: none; color: var(--accent); transition: transform 0.2s ease; }
 .kosten-zeile:hover svg { transform: translateX(3px); }
 @media (max-width: 980px) { .kosten-spalten { grid-template-columns: 1fr; } }
+
+/* ── Unabhängige Informationen (ausgehende Links) ─────────────────────────── */
+.ext-intro { margin-top: 6px; font-size: 15px; color: var(--ink-3); }
+.ext-liste { list-style: none; padding: 0; margin: 18px 0 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+.ext-karte { display: flex; flex-direction: column; gap: 8px; height: 100%; padding: 18px 20px; background: var(--paper); border: 1px dashed var(--line); border-radius: var(--radius); color: var(--ink); text-decoration: none; transition: border-color 0.2s ease, background 0.2s ease; }
+.ext-karte:hover, .ext-karte:focus-visible { background: #fff; border-color: var(--primary); border-style: solid; }
+.ext-kopf { display: flex; align-items: flex-start; justify-content: space-between; gap: 10px; }
+.ext-titel { font-size: 15px; font-weight: 600; line-height: 1.35; color: var(--primary); }
+.ext-kopf svg { flex: none; margin-top: 3px; color: var(--accent); }
+.ext-satz { font-size: 14px; line-height: 1.55; color: var(--ink-2); }
+.ext-herausgeber { margin-top: auto; font-size: 12px; color: var(--ink-3); }
+@media (max-width: 860px) { .ext-liste { grid-template-columns: 1fr; } }
