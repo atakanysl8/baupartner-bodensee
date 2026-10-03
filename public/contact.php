@@ -133,7 +133,7 @@ foreach ([dirname(__DIR__) . '/bbp-smtp.php', __DIR__ . '/bbp-smtp.php'] as $dat
 if (!is_array($smtp)) {
     error_log('contact.php: bbp-smtp.php fehlt');
     http_response_code(500);
-    echo json_encode(['error' => 'Mail konnte nicht gesendet werden.']);
+    echo json_encode(['error' => 'Mail konnte nicht gesendet werden.', 'grund' => 'config']);
     exit;
 }
 
@@ -188,5 +188,6 @@ if ($smtpFehler === null) {
 } else {
     error_log("contact.php SMTP: $smtpFehler");
     http_response_code(500);
-    echo json_encode(['error' => 'Mail konnte nicht gesendet werden.']);
+    // Nur der Statuscode des Mailservers, damit sich Fehler von außen eingrenzen lassen.
+    echo json_encode(['error' => 'Mail konnte nicht gesendet werden.', 'grund' => 'smtp ' . substr($smtpFehler, 0, 3)]);
 }
