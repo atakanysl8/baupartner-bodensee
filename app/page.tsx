@@ -221,11 +221,11 @@ function Hero() {
             </motion.div>
 
             <motion.h1 variants={fadeUp}>
-              Bauen mit <em>Vertrauen</em> — am Bodensee
+              Schluss mit der<br /><em>Handwerkersuche</em><br />am Bodensee.
             </motion.h1>
 
             <motion.p className="hero-sub" variants={fadeUp}>
-              Bodensee BauPartner vermittelt Privatkunden und Bauherren am Bodensee kostenlos passende Fachbetriebe aus der Region – vom Neubau über Dach, Bad, Heizung und Elektro bis zu Maler- und Gartenarbeiten. Schnell, transparent und persönlich: Wir finden den richtigen Handwerker für Ihr Vorhaben.
+              Keine unbeantworteten Anfragen, kein Hinterhertelefonieren: Schildern Sie uns Ihr Vorhaben in zwei Minuten – wir wählen einen passenden Fachbetrieb aus, der sich bei Ihnen meldet. Vom Neubau über Dach, Bad und Wärmepumpe bis zum Garten – für Sie kostenlos und unverbindlich.
             </motion.p>
 
             <motion.div className="hero-ctas" variants={fadeUp}>
