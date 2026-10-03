@@ -121,19 +121,72 @@ $body = "
 </html>
 ";
 
-$headers  = "MIME-Version: 1.0\r\n";
-$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
-$headers .= "From: Bodensee BauPartner <info@bodensee-baupartner.de>\r\n";
-if ($email !== '') {
-    $headers .= "Reply-To: $email\r\n";
+// Versand per SMTP über das Postfach info@: PHP mail() meldet auf Hostinger Erfolg,
+// die Mails kommen aber nie an. Die Zugangsdaten liegen nicht im Repo, sondern in
+// bbp-smtp.php auf dem Server, am besten einen Ordner über dem Web-Root:
+//   <?php return ['host' => 'smtp.hostinger.com', 'port' => 465,
+//                 'user' => 'info@bodensee-baupartner.de', 'pass' => '…'];
+$smtp = null;
+foreach ([dirname(__DIR__) . '/bbp-smtp.php', __DIR__ . '/bbp-smtp.php'] as $datei) {
+    if (is_file($datei)) { $smtp = require $datei; break; }
 }
-$headers .= "X-Mailer: PHP/" . phpversion();
+if (!is_array($smtp)) {
+    error_log('contact.php: bbp-smtp.php fehlt');
+    http_response_code(500);
+    echo json_encode(['error' => 'Mail konnte nicht gesendet werden.']);
+    exit;
+}
 
-// Envelope-Absender (-f) setzen: Ohne ihn verschickt Hostinger mit einer Server-Adresse,
-// SPF/DMARC passen nicht und die Mail wird verworfen.
-if (mail($to, $subject, $body, $headers, '-finfo@bodensee-baupartner.de')) {
+$nachricht = "Date: " . date('r') . "\r\n"
+    . "Message-ID: <" . bin2hex(random_bytes(12)) . "@bodensee-baupartner.de>\r\n"
+    . "From: Bodensee BauPartner <{$smtp['user']}>\r\n"
+    . "To: <$to>\r\n"
+    . ($email !== '' ? "Reply-To: <$email>\r\n" : '')
+    . "Subject: $subject\r\n"
+    . "MIME-Version: 1.0\r\n"
+    . "Content-Type: text/html; charset=UTF-8\r\n"
+    . "Content-Transfer-Encoding: base64\r\n"
+    . "\r\n"
+    . chunk_split(base64_encode($body));
+
+// Gibt null bei Erfolg zurück, sonst die Antwort des Servers.
+function smtp_senden($smtp, $an, $nachricht) {
+    $fp = @stream_socket_client("ssl://{$smtp['host']}:{$smtp['port']}", $errno, $errstr, 15);
+    if (!$fp) return "Verbindung: $errstr";
+    stream_set_timeout($fp, 15);
+    $schritt = function ($befehl, $erwartet) use ($fp) {
+        if ($befehl !== null) fwrite($fp, $befehl . "\r\n");
+        $antwort = '';
+        while (($zeile = fgets($fp, 515)) !== false) {
+            $antwort .= $zeile;
+            if (!isset($zeile[3]) || $zeile[3] === ' ') break;
+        }
+        if ((int)substr($antwort, 0, 3) !== $erwartet) throw new Exception(trim($antwort));
+    };
+    try {
+        $schritt(null, 220);
+        $schritt('EHLO bodensee-baupartner.de', 250);
+        $schritt('AUTH LOGIN', 334);
+        $schritt(base64_encode($smtp['user']), 334);
+        $schritt(base64_encode($smtp['pass']), 235);
+        $schritt("MAIL FROM:<{$smtp['user']}>", 250);
+        $schritt("RCPT TO:<$an>", 250);
+        $schritt('DATA', 354);
+        $schritt($nachricht . "\r\n.", 250);
+        $schritt('QUIT', 221);
+    } catch (Exception $e) {
+        fclose($fp);
+        return $e->getMessage();
+    }
+    fclose($fp);
+    return null;
+}
+
+$smtpFehler = smtp_senden($smtp, $to, $nachricht);
+if ($smtpFehler === null) {
     echo json_encode(['ok' => true]);
 } else {
+    error_log("contact.php SMTP: $smtpFehler");
     http_response_code(500);
     echo json_encode(['error' => 'Mail konnte nicht gesendet werden.']);
 }
