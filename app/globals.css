@@ -1987,3 +1987,21 @@ details.faq-item summary::-webkit-details-marker { display: none; }
 .ort-links .lk-grid--2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .ort-links a.lk-karte { color: var(--ink); text-decoration: none; }
 @media (max-width: 860px) { .ort-links .lk-grid--2 { grid-template-columns: 1fr; } }
+.sonstiges-feld { margin-top: 16px; }
+
+/* ── Startseite: Kosten in drei Spalten nach Bereich ──────────────────────── */
+.kosten-spalten { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; margin-top: 36px; align-items: start; }
+.kosten-spalte { background: #fff; border: 1px solid var(--line); border-radius: var(--radius-lg); overflow: hidden; box-shadow: 0 1px 2px rgba(15, 47, 77, 0.04); }
+.kosten-spalte-kopf { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; padding: 22px 24px 18px; background: var(--primary); color: #fff; }
+.kosten-spalte-kopf h3 { font-size: 19px; color: #fff; margin: 0; }
+.kosten-spalte-anzahl { font-size: 12px; font-weight: 600; letter-spacing: 0.04em; color: var(--accent-soft); white-space: nowrap; }
+.kosten-spalte ul { list-style: none; margin: 0; padding: 8px 10px 12px; }
+.kosten-zeile { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 12px 14px; border-radius: 12px; color: var(--ink); text-decoration: none; transition: background 0.2s ease, color 0.2s ease; }
+.kosten-spalte li + li .kosten-zeile { border-top: 1px solid var(--paper-2); }
+.kosten-zeile:hover, .kosten-zeile:focus-visible { background: var(--paper); color: var(--primary); }
+.kosten-zeile-text { display: flex; flex-direction: column; gap: 1px; min-width: 0; }
+.kosten-zeile-titel { font-size: 15px; font-weight: 600; line-height: 1.3; }
+.kosten-zeile .lk-zusatz { font-size: 12px; color: var(--ink-3); }
+.kosten-zeile svg { flex: none; color: var(--accent); transition: transform 0.2s ease; }
+.kosten-zeile:hover svg { transform: translateX(3px); }
+@media (max-width: 980px) { .kosten-spalten { grid-template-columns: 1fr; } }

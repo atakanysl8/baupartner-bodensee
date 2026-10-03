@@ -6,7 +6,6 @@ import Footer from './components/Footer'
 import { LEISTUNGEN, LEISTUNG_SLUGS, GRUPPEN, leistungenDerGruppe, type LeistungSlug } from './inhalte/leistungen'
 import HeroBild from './components/HeroBild'
 import { RATGEBERLINKS } from './inhalte/ratgeber-seiten/links'
-import { LinkKarten } from './components/LinkKarten'
 
 /* ── Animation variants ──────────────────────────────────────────────────── */
 const fadeUp = {
@@ -702,6 +701,7 @@ function Kontakt() {
   const [rolle, setRolle] = useState('')
   const [budget, setBudget] = useState('')
   const [beschr, setBeschr] = useState('')
+  const [sonstiges, setSonstiges] = useState('')
   const [name, setName] = useState('')
   const [telefon, setTelefon] = useState('')
   const [email, setEmail] = useState('')
@@ -730,6 +730,7 @@ function Kontakt() {
     const errs: Record<string, string> = {}
     if (step === 1) {
       if (selected.length === 0) errs.typ = 'Bitte mindestens eine Kategorie wählen.'
+      if (selected.includes('Sonstiges') && sonstiges.trim().length < 3) errs.sonstiges = 'Bitte kurz beschreiben, worum es geht.'
       if (!objekt) errs.objekt = 'Bitte die Objektart wählen.'
       if (!zeit) errs.zeit = 'Bitte den Zeitrahmen wählen.'
     }
@@ -763,7 +764,8 @@ function Kontakt() {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          typ: selected, objekt, zeit, plz, ort, rolle, budget, beschr,
+          // „Sonstiges“ mit Freitext übertragen, damit contact.php und die Mail den Inhalt zeigen
+          typ: selected.map((t) => (t === 'Sonstiges' && sonstiges.trim() ? `Sonstiges: ${sonstiges.trim().slice(0, 120)}` : t)), objekt, zeit, plz, ort, rolle, budget, beschr,
           name, telefon, email, einwWeitergabe, einwTelefon, website,
         }),
       })
@@ -886,6 +888,13 @@ function Kontakt() {
                               ))}
                             </div>
                             {errors.typ && <div className="form-error-msg">{errors.typ}</div>}
+                            {selected.includes('Sonstiges') && (
+                              <div className="sonstiges-feld">
+                                <label className="form-label" htmlFor="sonstiges">Was genau ist geplant?<span className="req">*</span></label>
+                                <input type="text" id="sonstiges" maxLength={120} autoFocus className={`form-input${errors.sonstiges ? ' error' : ''}`} placeholder="z. B. Carport, Kellerabdichtung, Treppenlift …" value={sonstiges} onChange={e => setSonstiges(e.target.value)} />
+                                {errors.sonstiges && <div className="form-error-msg">{errors.sonstiges}</div>}
+                              </div>
+                            )}
                           </div>
                           <div className="form-group">
                             <label className="form-label">Um welches Objekt geht es?<span className="req">*</span></label>
@@ -1146,17 +1155,41 @@ function FAQ() {
 /* ── SEO Text ────────────────────────────────────────────────────────────── */
 /* ── Kostenseiten ───────────────────────────────────────────────────────── */
 function RatgeberTeaser() {
-  // Die zwölf meistgesuchten Kostenseiten (Rang aus docs/ratgeber/seitenplan.json); alle übrigen sind über
-  // die Leistungsseiten und die Übersicht „Leistungen nach Ort“ verlinkt.
-  const top = RATGEBERLINKS.slice(0, 12)
-  if (!top.length) return null
+  // Alle Kostenseiten, in drei Spalten nach Leistungsbereich (Bauen · Sanieren · Ausbau & Außen) — interne Verlinkung.
+  if (!RATGEBERLINKS.length) return null
   return (
     <section className="ratgeber-section start-ratgeber">
       <div className="wrap ratgeber-inner">
         <div className="eyebrow"><span className="bullet" /> Kosten</div>
         <h2>Was kostet Ihr Vorhaben?</h2>
         <p className="ratgeber-intro">Preisspannen aus zitierfähigen Quellen und die Faktoren, die den Preis bestimmen – als erste Orientierung vor dem Angebot.</p>
-        <LinkKarten karten={top.map((r) => ({ href: r.pfad, titel: r.anker, zusatz: LEISTUNGEN[r.leistung as LeistungSlug].name, art: 'kosten' as const }))} />
+        <div className="kosten-spalten">
+          {GRUPPEN.map((g) => {
+            const themen = leistungenDerGruppe(g.gruppe).flatMap((l) => RATGEBERLINKS.filter((r) => r.leistung === l.slug))
+            if (!themen.length) return null
+            return (
+              <div key={g.gruppe} className="kosten-spalte">
+                <div className="kosten-spalte-kopf">
+                  <h3>{g.titel}</h3>
+                  <span className="kosten-spalte-anzahl">{themen.length} Themen</span>
+                </div>
+                <ul>
+                  {themen.map((r) => (
+                    <li key={r.slug}>
+                      <a className="kosten-zeile" href={r.pfad}>
+                        <span className="kosten-zeile-text">
+                          <span className="kosten-zeile-titel">{r.anker}</span>
+                          <span className="lk-zusatz">{LEISTUNGEN[r.leistung as LeistungSlug].name}</span>
+                        </span>
+                        <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h10m0 0L9 4m4 4l-4 4" stroke="currentColor" fill="none" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round" /></svg>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )
+          })}
+        </div>
       </div>
     </section>
   )
