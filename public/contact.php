@@ -129,7 +129,9 @@ if ($email !== '') {
 }
 $headers .= "X-Mailer: PHP/" . phpversion();
 
-if (mail($to, $subject, $body, $headers)) {
+// Envelope-Absender (-f) setzen: Ohne ihn verschickt Hostinger mit einer Server-Adresse,
+// SPF/DMARC passen nicht und die Mail wird verworfen.
+if (mail($to, $subject, $body, $headers, '-finfo@bodensee-baupartner.de')) {
     echo json_encode(['ok' => true]);
 } else {
     http_response_code(500);
