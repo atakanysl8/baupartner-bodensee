@@ -4,6 +4,7 @@ import TextMitLinks from './TextMitLinks'
 import { LEISTUNGEN } from '../inhalte/leistungen'
 import { anker } from '../inhalte/anker'
 import { LinkKarten } from './LinkKarten'
+import { quellenRel } from '../inhalte/quellen-rel'
 import { kostenPfad, kostenseitenFuer, type Ratgeberseite } from '../inhalte/ratgeber-seiten'
 import { RATGEBERLINKS } from '../inhalte/ratgeber-seiten/links'
 
@@ -118,7 +119,7 @@ export default function RatgeberSeite({ s }: { s: Ratgeberseite }) {
             <ol>
               {s.quellen.map((q, i) => (
                 <li key={q.url} id={`quelle-${i + 1}`}>
-                  {q.herausgeber}: <a href={q.url} rel="nofollow noopener" target="_blank">{q.titel}</a>, abgerufen am {datum(q.abruf)}
+                  {q.herausgeber}: <a href={q.url} rel={quellenRel(q.url)} target="_blank">{q.titel}</a>, abgerufen am {datum(q.abruf)}
                 </li>
               ))}
             </ol>

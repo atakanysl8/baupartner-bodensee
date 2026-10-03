@@ -75,7 +75,7 @@ export default function OrtSeite({ s }: { s: Ortsseite }) {
               {s.fakten.map((f, i) => (
                 <li key={i}>
                   {f.text}{' '}
-                  <a href={f.url} rel="nofollow noopener" target="_blank">{f.quelle}</a>
+                  <a href={f.url} rel="noopener" target="_blank">{f.quelle}</a>
                 </li>
               ))}
             </ul>
