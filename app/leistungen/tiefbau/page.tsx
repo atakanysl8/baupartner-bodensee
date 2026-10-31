@@ -502,7 +502,7 @@ const serviceSchema = {
   '@type': 'Service',
   serviceType: 'Tiefbau & Erdarbeiten',
   provider: { '@type': 'Organization', name: 'Bodensee BauPartner GbR', url: 'https://www.bodensee-baupartner.de/' },
-  areaServed: { '@type': 'State', name: 'Baden-Württemberg' },
+  areaServed: { '@type': 'Place', name: 'Bodenseeregion' },
   description: 'Tiefbau-Fachbetriebe in der Bodenseeregion: Erdarbeiten, Fundamentierung, Kanal- & Leitungsbau, Straßenbau. Kostenlose Vermittlung durch Bodensee BauPartner GbR.',
 }
 

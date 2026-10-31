@@ -500,7 +500,7 @@ const serviceSchema = {
   '@type': 'Service',
   serviceType: 'Badsanierung & Sanitär',
   provider: { '@type': 'Organization', name: 'Bodensee BauPartner GbR', url: 'https://www.bodensee-baupartner.de/' },
-  areaServed: { '@type': 'State', name: 'Baden-Württemberg' },
+  areaServed: { '@type': 'Place', name: 'Bodenseeregion' },
   description: 'Sanitärbetriebe für Badsanierung, barrierefreies Bad & Badezimmer-Renovierung am Bodensee. Kostenlose Vermittlung durch Bodensee BauPartner GbR.',
 }
 

@@ -22,10 +22,10 @@ export default function RegionenPage() {
           <nav className="ort-crumbs" aria-label="Brotkrume">
             <a href="/">Start</a> › <span>Leistungen nach Ort</span>
           </nav>
-          <div className="eyebrow"><span className="bullet" /> Baden-Württemberg</div>
-          <h1 className="ort-h1">Leistungen nach Ort in Baden-Württemberg</h1>
+          <div className="eyebrow"><span className="bullet" /> Bodensee</div>
+          <h1 className="ort-h1">Leistungen nach Ort am Bodensee</h1>
           <p className="ort-lead">
-            Hier finden Sie unsere Seiten für Badsanierung, Bauunternehmen, Sanierung, Innenausbau, Elektriker, Maler und Fliesenleger, Dachdecker, Wärmepumpe und Heizung sowie Terrassenüberdachung in einzelnen Städten Baden-Württembergs – mit örtlichen Hinweisen zu Zuständigkeiten, Satzungen und Beratungsstellen. Was Vorhaben ungefähr kosten, zeigen die Kostenübersichten weiter unten. Ihre Anfrage ist kostenlos und unverbindlich.
+            Hier finden Sie unsere Seiten für Badsanierung, Bauunternehmen, Elektriker, Maler und Fliesenleger sowie Dachdecker in Orten direkt am Bodensee – mit örtlichen Hinweisen zu Zuständigkeiten, Satzungen und Beratungsstellen. Was Vorhaben ungefähr kosten, zeigen die Kostenübersichten weiter unten. Ihre Anfrage ist kostenlos und unverbindlich.
           </p>
           {sortiert.map(([kreis, orte]) => (
             <section key={kreis} className="regionen-kreis">

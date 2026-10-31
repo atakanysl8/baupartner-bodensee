@@ -4,10 +4,10 @@ export const metadata: Metadata = {
   alternates: { canonical: '/leistungen/maler-fliesen-boeden/' },
   title: 'Maler, Fliesenleger & Bodenleger – vermittelt',
   description:
-    'Malerarbeiten, Fliesen legen, Parkett oder Designboden: Wir vermitteln Ihnen einen passenden Fachbetrieb in Baden-Württemberg – kostenlos, unverbindlich.',
+    'Malerarbeiten, Fliesen legen, Parkett oder Designboden: Wir vermitteln Ihnen einen passenden Fachbetrieb am Bodensee – kostenlos, unverbindlich.',
   openGraph: {
     title: 'Maler, Fliesenleger & Bodenleger – vermittelt',
-    description: 'Malerarbeiten, Fliesen legen, Parkett oder Designboden: Wir vermitteln Ihnen einen passenden Fachbetrieb in Baden-Württemberg – kostenlos, unverbindlich.',
+    description: 'Malerarbeiten, Fliesen legen, Parkett oder Designboden: Wir vermitteln Ihnen einen passenden Fachbetrieb am Bodensee – kostenlos, unverbindlich.',
     locale: 'de_DE',
     type: 'website',
   },

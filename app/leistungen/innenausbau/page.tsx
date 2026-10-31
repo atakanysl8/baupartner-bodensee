@@ -499,7 +499,7 @@ const serviceSchema = {
   '@type': 'Service',
   serviceType: 'Innenausbau & Trockenbau',
   provider: { '@type': 'Organization', name: 'Bodensee BauPartner GbR', url: 'https://www.bodensee-baupartner.de/' },
-  areaServed: { '@type': 'State', name: 'Baden-Württemberg' },
+  areaServed: { '@type': 'Place', name: 'Bodenseeregion' },
   description: 'Innenausbau-Spezialisten am Bodensee: Trockenbau, Bodenbeläge, Malerarbeiten, Dachgeschossausbau & Türen. Kostenlose Vermittlung durch Bodensee BauPartner GbR.',
 }
 

@@ -46,7 +46,7 @@ export default function LeistungSeite({ slug, inhalt }: { slug: LeistungSlug; in
   const [offen, setOffen] = useState<number | null>(null)
   const jsonLd = [
     { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: inhalt.faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
-    { '@context': 'https://schema.org', '@type': 'Service', serviceType: l.name, provider: { '@type': 'Organization', name: 'Bodensee BauPartner GbR', url: `${BASIS}/` }, areaServed: { '@type': 'State', name: 'Baden-Württemberg' }, description: inhalt.beschreibung },
+    { '@context': 'https://schema.org', '@type': 'Service', serviceType: l.name, provider: { '@type': 'Organization', name: 'Bodensee BauPartner GbR', url: `${BASIS}/` }, areaServed: { '@type': 'Place', name: 'Bodenseeregion' }, description: inhalt.beschreibung },
     { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Start', item: `${BASIS}/` },
       { '@type': 'ListItem', position: 2, name: l.name, item: `${BASIS}/leistungen/${slug}/` },
@@ -176,7 +176,7 @@ export default function LeistungSeite({ slug, inhalt }: { slug: LeistungSlug; in
               <div className="cta-panel">
                 {[
                   { label: 'Erstgespräch', value: '0 € · unverbindlich' },
-                  { label: 'Einsatzgebiet', value: 'Baden-Württemberg' },
+                  { label: 'Einsatzgebiet', value: 'Bodenseeregion' },
                   { label: 'Fachbetrieb', value: 'Ein Betrieb je Anfrage' },
                   { label: 'Vermittlung', value: <><span className="status-dot" />Kostenlos</> },
                 ].map((r) => (

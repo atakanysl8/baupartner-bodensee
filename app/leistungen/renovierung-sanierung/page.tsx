@@ -501,7 +501,7 @@ const serviceSchema = {
   '@type': 'Service',
   serviceType: 'Sanierung & Renovierung',
   provider: { '@type': 'Organization', name: 'Bodensee BauPartner GbR', url: 'https://www.bodensee-baupartner.de/' },
-  areaServed: { '@type': 'State', name: 'Baden-Württemberg' },
+  areaServed: { '@type': 'Place', name: 'Bodenseeregion' },
   description: 'Sanierungs-Fachbetriebe am Bodensee: Kernsanierung, Heizungsaustausch, Dämmung & KfW-Förderung. Kostenlose Vermittlung durch Bodensee BauPartner GbR.',
 }
 

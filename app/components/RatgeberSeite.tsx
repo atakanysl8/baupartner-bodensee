@@ -110,7 +110,7 @@ export default function RatgeberSeite({ s }: { s: Ratgeberseite }) {
               ...verwandt.map((r) => ({ href: r.pfad, titel: r.anker, zusatz: 'Preise & Kostenfaktoren', art: 'kosten' as const })),
               ...weitereKosten.map((k) => ({ href: kostenPfad(k), titel: k.anker, zusatz: 'Preise & Kostenfaktoren', art: 'kosten' as const })),
               { href: `/leistungen/${s.leistung}/`, titel: anker(`/leistungen/${s.leistung}/`), zusatz: 'Leistung im Überblick', art: 'leistung' as const },
-              { href: '/regionen/', titel: anker('/regionen/'), zusatz: 'Alle Städte in Baden-Württemberg', art: 'hub' as const },
+              { href: '/regionen/', titel: anker('/regionen/'), zusatz: 'Alle Orte am Bodensee', art: 'hub' as const },
             ]} />
           </section>
 

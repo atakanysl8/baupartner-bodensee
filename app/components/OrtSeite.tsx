@@ -107,7 +107,7 @@ export default function OrtSeite({ s }: { s: Ortsseite }) {
             <LinkKarten spalten={2} karten={[
               ...nachbarn(s).map((n) => ({ href: pfad(n), titel: n.h1, zusatz: n.kreis, art: 'ort' as const })),
               ...imOrt.map((n) => ({ href: pfad(n), titel: n.h1, zusatz: n.kreis, art: 'ort' as const })),
-              { href: '/regionen/', titel: anker('/regionen/'), zusatz: 'Alle Städte in Baden-Württemberg', art: 'hub' as const },
+              { href: '/regionen/', titel: anker('/regionen/'), zusatz: 'Alle Orte am Bodensee', art: 'hub' as const },
             ]} />
           </section>
 

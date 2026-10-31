@@ -4,10 +4,10 @@ export const metadata: Metadata = {
   alternates: { canonical: '/leistungen/garten-aussenanlagen/' },
   title: 'Terrassenüberdachung, Pflaster & Zaun – vermittelt',
   description:
-    'Terrassenüberdachung, Pflasterarbeiten, Zaunbau oder Carport: Wir vermitteln Ihnen einen passenden Fachbetrieb in Baden-Württemberg – kostenlos.',
+    'Terrassenüberdachung, Pflasterarbeiten, Zaunbau oder Carport: Wir vermitteln Ihnen einen passenden Fachbetrieb am Bodensee – kostenlos.',
   openGraph: {
     title: 'Terrassenüberdachung, Pflaster & Zaun – vermittelt',
-    description: 'Terrassenüberdachung, Pflasterarbeiten, Zaunbau oder Carport: Wir vermitteln Ihnen einen passenden Fachbetrieb in Baden-Württemberg – kostenlos.',
+    description: 'Terrassenüberdachung, Pflasterarbeiten, Zaunbau oder Carport: Wir vermitteln Ihnen einen passenden Fachbetrieb am Bodensee – kostenlos.',
     locale: 'de_DE',
     type: 'website',
   },

@@ -506,7 +506,7 @@ const serviceSchema = {
   '@type': 'Service',
   serviceType: 'Neubau & Rohbau',
   provider: { '@type': 'Organization', name: 'Bodensee BauPartner GbR', url: 'https://www.bodensee-baupartner.de/' },
-  areaServed: { '@type': 'State', name: 'Baden-Württemberg' },
+  areaServed: { '@type': 'Place', name: 'Bodenseeregion' },
   description: 'Hochbau-Fachbetriebe in der Bodenseeregion: Rohbau, Stahlbetonbau, Mauerwerk, Fassaden & Treppen. Kostenlose Vermittlung durch Bodensee BauPartner GbR.',
 }
 

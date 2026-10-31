@@ -4,10 +4,10 @@ export const metadata: Metadata = {
   alternates: { canonical: '/leistungen/dach-fassade/' },
   title: 'Dachdecker & Dachsanierung – Fachbetrieb vermittelt',
   description:
-    'Dachdecker, Dachsanierung, Dachdämmung oder Fassade: Wir vermitteln Ihnen einen passenden Fachbetrieb in Baden-Württemberg – kostenlos und unverbindlich.',
+    'Dachdecker, Dachsanierung, Dachdämmung oder Fassade: Wir vermitteln Ihnen einen passenden Fachbetrieb am Bodensee – kostenlos und unverbindlich.',
   openGraph: {
     title: 'Dachdecker & Dachsanierung – Fachbetrieb vermittelt',
-    description: 'Dachdecker, Dachsanierung, Dachdämmung oder Fassade: Wir vermitteln Ihnen einen passenden Fachbetrieb in Baden-Württemberg – kostenlos und unverbindlich.',
+    description: 'Dachdecker, Dachsanierung, Dachdämmung oder Fassade: Wir vermitteln Ihnen einen passenden Fachbetrieb am Bodensee – kostenlos und unverbindlich.',
     locale: 'de_DE',
     type: 'website',
   },

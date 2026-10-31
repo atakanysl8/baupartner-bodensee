@@ -1254,7 +1254,6 @@ const localBusinessSchema = {
     { '@type': 'City', name: 'Überlingen' },
     { '@type': 'City', name: 'Friedrichshafen' },
     { '@type': 'City', name: 'Konstanz' },
-    { '@type': 'City', name: 'Ravensburg' },
     { '@type': 'City', name: 'Lindau' },
   ],
   serviceType: LEISTUNG_SLUGS.map((l) => LEISTUNGEN[l].name),

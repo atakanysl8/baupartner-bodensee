@@ -2,12 +2,12 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   alternates: { canonical: '/regionen/' },
-  title: 'Leistungen nach Ort – Baden-Württemberg | Bodensee BauPartner',
+  title: 'Leistungen nach Ort am Bodensee | Bodensee BauPartner',
   description:
-    'Elektriker, Maler, Dachdecker, Badsanierung, Bauunternehmen und mehr nach Ort: alle Städte in Baden-Württemberg mit eigener Seite – kostenlos anfragen.',
+    'Elektriker, Maler, Dachdecker, Badsanierung und Bauunternehmen nach Ort: alle Orte am Bodensee mit eigener Seite – kostenlos anfragen.',
   openGraph: {
     title: 'Leistungen nach Ort – Bodensee BauPartner',
-    description: 'Unsere Ortsseiten für Baden-Württemberg im Überblick.',
+    description: 'Unsere Ortsseiten am Bodensee im Überblick.',
     locale: 'de_DE',
     type: 'website',
   },

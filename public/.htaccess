@@ -48,3 +48,10 @@ upgrade-insecure-requests;"
   ExpiresByType image/webp               "access plus 1 year"
   ExpiresByType font/woff2               "access plus 1 year"
 </IfModule>
+
+# ─── Entfernte Ortsseiten (2026-10-31) ────────────────────────────────────────
+# Ortsseiten gibt es nur noch für Orte direkt am Bodensee. Alte Ortsseiten
+# außerhalb des Sees leiten dauerhaft auf die jeweilige Leistungsseite um.
+<IfModule mod_alias.c>
+  RedirectMatch 301 ^/leistungen/([a-z-]+)/(aalen|backnang|baden-baden|bad-rappenau|balingen|bietigheim-bissingen|boeblingen|bruchsal|crailsheim|donaueschingen|esslingen|ettlingen|fellbach|filderstadt|freiburg|goeppingen|heidelberg|heidenheim|heilbronn|herrenberg|hockenheim|karlsruhe|kornwestheim|lahr|leonberg|loerrach|ludwigsburg|mannheim|mosbach|nuertingen|oehringen|offenburg|pforzheim|rastatt|ravensburg|reutlingen|rottenburg|schorndorf|schwaebisch-gmuend|schwaebisch-hall|schwetzingen|sindelfingen|singen|sinsheim|stuttgart|tuebingen|tuttlingen|ulm|villingen-schwenningen|waiblingen|weinheim|weinstadt|wiesloch)/?$ /leistungen/$1/
+</IfModule>
